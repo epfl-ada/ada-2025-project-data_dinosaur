@@ -1,7 +1,31 @@
 
-# Your project name
-This is a template repo for your project to help you organise and document your code better. 
-Please use this structure for your project and document the installation, usage and structure as below.
+# The Timeline of Humor: Do Jokes Evolve with the World?
+
+Jokes often reveal what people care about, fear, or protest against, making humor a mirror of society.
+In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2022). Millions of reader-rated captions for weekly cartoons are included in the dataset.
+Our objective is to create an interactive humor timeline that identifies thematic shifts in jokes and high points in public engagement. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19.
+By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
+
+## Reserach questions
+
+Do humor trends follow world events?
+Do peaks in caption activity or rating shifts coincide with political or social crises?
+How do humor themes evolve over time?
+What topics dominate jokes in different years (politics, social movements, daily life)?
+Does caption style (length, irony, sentiment) change through time?
+Are humor trends correlated with public interest online?
+When Google searches for “pandemic” or “Trump” surge, do related captions appear more frequently?
+
+## Additional Datasets
+
+Google Trends data (via the pytrends API) used to correlate caption topics with public-interest dynamics. :
+- Weekly search-interest scores (0–100) for topic clusters:
+    - Politics (“Trump”, “Biden”, “election”),
+    - Social movements (“Me Too”, “Black Lives Matter”, “feminism”),
+    - Crises (“covid”, “virus”, “lockdown”, “war”).
+
+We will normalize and align both datasets to weekly resolution and test correlations or lags.
+
 
 ## Quickstart
 
