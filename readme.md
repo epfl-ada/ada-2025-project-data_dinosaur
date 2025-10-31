@@ -18,6 +18,12 @@ When Google searches for “pandemic” or “Trump” surge, do related caption
 
 ## Additional Datasets
 
+Jain, L., Jamieson, K., Mankoff, R., Nowak, R., Sievert, S., (2020). 
+The New Yorker Cartoon Caption Contest Dataset. 
+https://nextml.github.io/caption-contest-data/
+- Needed to obtain the dates of each contest
+
+
 Google Trends data (via the pytrends API) used to correlate caption topics with public-interest dynamics. :
 - Weekly search-interest scores (0–100) for topic clusters:
     - Politics (“Trump”, “Biden”, “election”),
@@ -26,6 +32,44 @@ Google Trends data (via the pytrends API) used to correlate caption topics with 
 
 We will normalize and align both datasets to weekly resolution and test correlations or lags.
 
+# Methods 
+
+what did we used / will we use to work on the dataset ?
+
+# Proposed timeline
+
+how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
+Week 6: 
+- Defining clearly the project goal and the research questions. 
+- Division of tasks between team members
+Week 7:
+- Loading and preprocessing of all dataframes.
+- Scraping of additional datasets.
+- Beginning the visualization of the data
+- ...
+Week 8:
+- ...
+
+
+# Organization within the team 
+
+how we planned to divide tasks between team members (not time-wise) 
+-> can write in another format
+
+Jannik : 
+- ...
+Silvia:
+- ...
+Thara:
+- ...
+Yann:
+- ...
+Yuno:
+- ...
+
+# Questions for TAs
+
+to complete
 
 ## Quickstart
 
