@@ -9,7 +9,7 @@ By combining natural-language processing, statistical analysis, and Google Trend
 ## Reserach questions (to improve)
 
 Do humor trends follow world events?
-Do peaks in caption activity or rating shifts coincide with political or social crises?
+Do peaks in caption activity or rating shifts coincide  with political or social crises?
 How do humor themes evolve over time?
 What topics dominate jokes in different years (politics, social movements, daily life)?
 Does caption style (length, irony, sentiment) change through time?
