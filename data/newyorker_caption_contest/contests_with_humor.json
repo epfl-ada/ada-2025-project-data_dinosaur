@@ -32,6 +32,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -85,6 +96,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -134,6 +163,23 @@
           "unknown",
           "incongruity-absurdity",
           "wit-surprise"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -186,6 +232,23 @@
           "wit-surprise",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -221,6 +284,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -274,6 +348,23 @@
           "irony",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -324,6 +415,23 @@
           "irony",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -359,6 +467,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -411,6 +530,23 @@
           "unknown",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -461,6 +597,23 @@
           "unknown",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -497,6 +650,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -532,6 +696,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -582,6 +757,23 @@
           "unknown",
           "wit-surprise",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
         ]
       }
     }
@@ -634,6 +826,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -669,6 +878,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -722,6 +942,24 @@
           "wit-surprise",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "positive",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -731,6 +969,11 @@
     "data": "data/527.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -785,6 +1028,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -834,6 +1094,23 @@
           "incongruity-absurdity",
           "wit-surprise",
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -886,6 +1163,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -935,6 +1230,24 @@
           "sarcasm",
           "incongruity-absurdity",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -987,6 +1300,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -1036,6 +1367,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative"
         ]
       }
     }
@@ -1088,6 +1436,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -1139,6 +1504,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -1175,6 +1557,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -1210,6 +1603,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -1259,6 +1663,23 @@
           "sarcasm",
           "incongruity-absurdity",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
         ]
       }
     }
@@ -1312,6 +1733,24 @@
           "unknown",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "positive",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -1361,6 +1800,23 @@
           "irony",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -1412,6 +1868,23 @@
           "unknown",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -1447,6 +1920,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -1484,6 +1968,17 @@
         "questions": [
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -1519,6 +2014,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -1568,6 +2074,23 @@
           "unknown",
           "unknown",
           "wit-surprise"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -1620,6 +2143,23 @@
           "irony",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -1655,6 +2195,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -1705,6 +2256,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "positive",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -1740,6 +2308,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -1777,6 +2356,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -1830,6 +2420,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -1865,6 +2473,17 @@
         ],
         "questions": [
           "irony"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -1915,6 +2534,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
         ]
       }
     }
@@ -1967,6 +2603,24 @@
           "unknown",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -2017,6 +2671,23 @@
           "irony",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -2053,6 +2724,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -2088,6 +2770,17 @@
         ],
         "questions": [
           "irony"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -2138,6 +2831,23 @@
           "wit-surprise",
           "sarcasm",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
         ]
       }
     }
@@ -2191,6 +2901,24 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -2226,6 +2954,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -2276,6 +3015,23 @@
           "unknown",
           "sarcasm",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
         ]
       }
     }
@@ -2328,6 +3084,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -2337,6 +3110,11 @@
     "data": "data/564.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -2391,6 +3169,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -2441,6 +3236,23 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -2477,6 +3289,17 @@
         "questions": [
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -2512,6 +3335,17 @@
         ],
         "questions": [
           "irony"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -2563,6 +3397,23 @@
           "sarcasm",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative"
         ]
       }
     }
@@ -2616,6 +3467,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -2667,6 +3536,24 @@
           "unknown",
           "incongruity-absurdity",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -2720,6 +3607,24 @@
           "wit-surprise",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -2755,6 +3660,17 @@
         ],
         "questions": [
           "irony"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -2792,6 +3708,17 @@
         "questions": [
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -2828,6 +3755,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -2863,6 +3801,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -2914,6 +3863,23 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -2950,6 +3916,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -2985,6 +3962,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "positive"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -3038,6 +4026,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -3089,6 +4095,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "positive"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -3142,6 +4165,24 @@
           "incongruity-absurdity",
           "incongruity-absurdity",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -3198,6 +4239,25 @@
           "unknown",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -3248,6 +4308,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "positive",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
         ]
       }
     }
@@ -3301,6 +4378,24 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -3336,6 +4431,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -3387,6 +4493,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "positive"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -3396,6 +4519,11 @@
     "data": "data/588.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -3448,6 +4576,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "positive",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -3484,6 +4629,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -3532,6 +4688,23 @@
           "unknown",
           "incongruity-absurdity",
           "wit-surprise"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -3586,6 +4759,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -3636,6 +4827,23 @@
           "incongruity-absurdity",
           "irony",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -3689,6 +4897,23 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "positive",
+          "positive",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "positive",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -3740,6 +4965,24 @@
           "unknown",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -3790,6 +5033,23 @@
           "sarcasm",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -3799,6 +5059,11 @@
     "data": "data/597.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -3838,6 +5103,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -3888,6 +5164,23 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -3923,6 +5216,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -3973,6 +5277,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -4026,6 +5347,24 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "positive"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -4061,6 +5400,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -4099,6 +5449,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -4108,6 +5469,11 @@
     "data": "data/605.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -4160,6 +5526,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -4195,6 +5578,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -4246,6 +5640,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "positive",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -4281,6 +5692,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -4318,6 +5740,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -4353,6 +5786,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -4404,6 +5848,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -4439,6 +5900,17 @@
         ],
         "questions": [
           "sarcasm"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -4491,6 +5963,23 @@
           "incongruity-absurdity",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -4500,6 +5989,11 @@
     "data": "data/615.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -4539,6 +6033,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -4575,6 +6080,17 @@
         ],
         "questions": [
           "irony"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -4625,6 +6141,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -4678,6 +6211,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -4728,6 +6279,23 @@
           "wit-surprise",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -4763,6 +6331,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -4815,6 +6394,23 @@
           "unknown",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -4864,6 +6460,23 @@
           "unknown",
           "unknown",
           "wit-surprise"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -4918,6 +6531,24 @@
           "unknown",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -4967,6 +6598,23 @@
           "unknown",
           "incongruity-absurdity",
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
         ]
       }
     }
@@ -5018,6 +6666,23 @@
           "unknown",
           "irony",
           "sarcasm"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -5071,6 +6736,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -5122,6 +6805,24 @@
           "sarcasm",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -5157,6 +6858,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -5210,6 +6922,24 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -5260,6 +6990,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -5298,6 +7046,18 @@
           "unknown",
           "wit-surprise"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -5335,6 +7095,17 @@
         "questions": [
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -5371,6 +7142,17 @@
         ],
         "questions": [
           "sarcasm"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -5422,6 +7204,23 @@
           "incongruity-absurdity",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -5458,6 +7257,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -5493,6 +7303,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -5546,6 +7367,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -5596,6 +7435,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -5632,6 +7488,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -5684,6 +7551,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -5735,6 +7620,23 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -5771,6 +7673,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -5780,6 +7693,11 @@
     "data": "data/644.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -5833,6 +7751,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -5870,6 +7805,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -5879,6 +7825,11 @@
     "data": "data/647.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -5933,6 +7884,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "positive",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -5968,6 +7936,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -6019,6 +7998,24 @@
           "unknown",
           "irony",
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -6072,6 +8069,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -6107,6 +8122,17 @@
         ],
         "questions": [
           "sarcasm"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -6157,6 +8183,23 @@
           "incongruity-absurdity",
           "incongruity-absurdity",
           "irony"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
         ]
       }
     }
@@ -6213,6 +8256,25 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -6249,6 +8311,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -6261,6 +8334,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -6270,6 +8348,11 @@
     "data": "data/657.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -6324,6 +8407,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -6372,6 +8472,23 @@
           "irony",
           "incongruity-absurdity",
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
         ]
       }
     }
@@ -6425,6 +8542,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "positive",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -6463,6 +8598,18 @@
           "incongruity-absurdity",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "positive"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -6498,6 +8645,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -6535,6 +8693,17 @@
         "questions": [
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -6570,6 +8739,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -6624,6 +8804,25 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -6659,6 +8858,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -6711,6 +8921,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -6762,6 +8989,23 @@
           "sarcasm",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -6798,6 +9042,17 @@
         "questions": [
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "positive"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -6807,6 +9062,11 @@
     "data": "data/670.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -6847,6 +9107,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -6882,6 +9153,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -6933,6 +9215,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -6982,6 +9281,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral"
         ]
       }
     }
@@ -7035,6 +9351,24 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -7072,6 +9406,17 @@
         "questions": [
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -7107,6 +9452,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "positive"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -7158,6 +9514,23 @@
           "irony",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -7207,6 +9580,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -7260,6 +9650,24 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -7296,6 +9704,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -7331,6 +9750,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -7382,6 +9812,23 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -7418,6 +9865,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -7453,6 +9911,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -7504,6 +9973,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -7553,6 +10039,23 @@
           "unknown",
           "incongruity-absurdity",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative"
         ]
       }
     }
@@ -7604,6 +10107,23 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -7654,6 +10174,23 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -7689,6 +10226,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -7740,6 +10288,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -7789,6 +10354,23 @@
           "irony",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "positive",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -7842,6 +10424,23 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -7877,6 +10476,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -7914,6 +10524,17 @@
         "questions": [
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -7950,6 +10571,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -7985,6 +10617,17 @@
         ],
         "questions": [
           "wit-surprise"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -8035,6 +10678,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -8070,6 +10730,17 @@
         ],
         "questions": [
           "sarcasm"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -8107,6 +10778,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -8143,6 +10825,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -8196,6 +10889,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -8243,6 +10954,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative"
         ]
       }
     }
@@ -8294,6 +11022,23 @@
           "unknown",
           "unknown",
           "wit-surprise"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -8347,6 +11092,24 @@
           "unknown",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -8382,6 +11145,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -8434,6 +11208,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -8484,6 +11275,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -8519,6 +11327,17 @@
         ],
         "questions": [
           "irony"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -8556,6 +11375,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -8608,6 +11438,23 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -8659,6 +11506,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -8696,6 +11560,17 @@
         "questions": [
           "wit-surprise"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -8705,6 +11580,11 @@
     "data": "data/714.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -8758,6 +11638,23 @@
           "sarcasm",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -8809,6 +11706,23 @@
           "irony",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -8844,6 +11758,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -8896,6 +11821,24 @@
           "unknown",
           "unknown",
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -8951,6 +11894,24 @@
           "unknown",
           "wit-surprise"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -9004,6 +11965,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -9039,6 +12018,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -9090,6 +12080,23 @@
           "unknown",
           "sarcasm"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -9140,6 +12147,23 @@
           "unknown",
           "wit-surprise"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -9175,6 +12199,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -9225,6 +12260,23 @@
           "unknown",
           "incongruity-absurdity",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
         ]
       }
     }
@@ -9278,6 +12330,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -9328,6 +12398,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -9380,6 +12467,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -9415,6 +12519,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -9452,6 +12567,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -9487,6 +12613,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -9538,6 +12675,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -9586,6 +12740,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "negative"
         ]
       }
     }
@@ -9638,6 +12809,24 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -9687,6 +12876,23 @@
           "unknown",
           "unknown",
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "positive"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -9739,6 +12945,24 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -9790,6 +13014,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -9840,6 +13082,23 @@
           "unknown",
           "incongruity-absurdity",
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
         ]
       }
     }
@@ -9894,6 +13153,24 @@
           "irony",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -9943,6 +13220,23 @@
           "unknown",
           "incongruity-absurdity",
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative"
         ]
       }
     }
@@ -9997,6 +13291,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "positive",
+          "positive"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -10050,6 +13362,24 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -10100,6 +13430,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "neutral"
+        ]
       }
     }
   },
@@ -10135,6 +13482,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -10186,6 +13544,23 @@
           "incongruity-absurdity",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "negative",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "negative",
+          "negative"
+        ],
+        "questions": [
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -10223,6 +13598,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -10259,6 +13645,17 @@
         "questions": [
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
+        ]
       }
     }
   },
@@ -10294,6 +13691,17 @@
         ],
         "questions": [
           "irony"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -10347,6 +13755,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "positive"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -10382,6 +13807,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "negative"
         ]
       }
     }
@@ -10419,6 +13855,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "positive"
+        ],
+        "image_uncanny_descriptions": [
+          "positive"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -10454,6 +13901,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -10507,6 +13965,24 @@
           "unknown",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "positive",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -10543,6 +14019,17 @@
         ],
         "questions": [
           "incongruity-absurdity"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -10594,6 +14081,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -10643,6 +14147,23 @@
           "unknown",
           "irony"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -10679,6 +14200,17 @@
         "questions": [
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
+        ]
       }
     }
   },
@@ -10714,6 +14246,17 @@
         ],
         "questions": [
           "unknown"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -10768,6 +14311,25 @@
           "wit-surprise",
           "incongruity-absurdity"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "questions": [
+          "neutral",
+          "negative",
+          "neutral",
+          "neutral",
+          "negative"
+        ]
       }
     }
   },
@@ -10818,6 +14380,24 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "negative",
+          "negative",
+          "negative",
+          "negative"
+        ]
       }
     }
   },
@@ -10853,6 +14433,17 @@
         ],
         "questions": [
           "sarcasm"
+        ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "negative"
+        ],
+        "image_uncanny_descriptions": [
+          "negative"
+        ],
+        "questions": [
+          "neutral"
         ]
       }
     }
@@ -10905,6 +14496,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -10956,6 +14564,23 @@
           "unknown",
           "unknown"
         ]
+      },
+      "llm_sentiment": {
+        "image_descriptions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ],
+        "image_uncanny_descriptions": [
+          "negative",
+          "neutral",
+          "neutral"
+        ],
+        "questions": [
+          "neutral",
+          "neutral",
+          "neutral"
+        ]
       }
     }
   },
@@ -10965,6 +14590,11 @@
     "data": "data/764.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -10980,6 +14610,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -10989,6 +14624,11 @@
     "data": "data/766.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11004,6 +14644,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11013,6 +14658,11 @@
     "data": "data/768.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11028,6 +14678,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11037,6 +14692,11 @@
     "data": "data/770.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11052,6 +14712,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11061,6 +14726,11 @@
     "data": "data/772.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11076,6 +14746,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11085,6 +14760,11 @@
     "data": "data/774.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11100,6 +14780,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11109,6 +14794,11 @@
     "data": "data/776.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11124,6 +14814,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11133,6 +14828,11 @@
     "data": "data/778.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11148,6 +14848,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11157,6 +14862,11 @@
     "data": "data/780.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11172,6 +14882,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11181,6 +14896,11 @@
     "data": "data/782.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11196,6 +14916,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11205,6 +14930,11 @@
     "data": "data/784.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11220,6 +14950,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11229,6 +14964,11 @@
     "data": "data/786.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11244,6 +14984,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11253,6 +14998,11 @@
     "data": "data/788.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11268,6 +15018,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11277,6 +15032,11 @@
     "data": "data/790.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11292,6 +15052,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11301,6 +15066,11 @@
     "data": "data/792.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11316,6 +15086,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11325,6 +15100,11 @@
     "data": "data/794.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11340,6 +15120,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11349,6 +15134,11 @@
     "data": "data/796.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11364,6 +15154,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11373,6 +15168,11 @@
     "data": "data/798.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11388,6 +15188,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11397,6 +15202,11 @@
     "data": "data/800.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11412,6 +15222,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11421,6 +15236,11 @@
     "data": "data/802.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11436,6 +15256,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11445,6 +15270,11 @@
     "data": "data/804.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11460,6 +15290,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11469,6 +15304,11 @@
     "data": "data/806.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11484,6 +15324,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11493,6 +15338,11 @@
     "data": "data/808.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11508,6 +15358,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11517,6 +15372,11 @@
     "data": "data/810.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11532,6 +15392,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11541,6 +15406,11 @@
     "data": "data/812.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11556,6 +15426,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11565,6 +15440,11 @@
     "data": "data/814.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11580,6 +15460,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11589,6 +15474,11 @@
     "data": "data/816.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11604,6 +15494,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11613,6 +15508,11 @@
     "data": "data/818.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11628,6 +15528,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11637,6 +15542,11 @@
     "data": "data/820.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11652,6 +15562,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11661,6 +15576,11 @@
     "data": "data/822.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11676,6 +15596,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11685,6 +15610,11 @@
     "data": "data/824.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11700,6 +15630,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11709,6 +15644,11 @@
     "data": "data/826.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11724,6 +15664,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11733,6 +15678,11 @@
     "data": "data/828.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11748,6 +15698,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11757,6 +15712,11 @@
     "data": "data/830.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11772,6 +15732,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11781,6 +15746,11 @@
     "data": "data/832.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11796,6 +15766,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11805,6 +15780,11 @@
     "data": "data/834.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11820,6 +15800,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11829,6 +15814,11 @@
     "data": "data/836.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11844,6 +15834,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11853,6 +15848,11 @@
     "data": "data/838.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11868,6 +15868,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11877,6 +15882,11 @@
     "data": "data/840.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11892,6 +15902,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11901,6 +15916,11 @@
     "data": "data/842.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11916,6 +15936,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11925,6 +15950,11 @@
     "data": "data/844.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11940,6 +15970,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11949,6 +15984,11 @@
     "data": "data/846.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11964,6 +16004,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11973,6 +16018,11 @@
     "data": "data/848.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -11988,6 +16038,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -11997,6 +16052,11 @@
     "data": "data/850.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12012,6 +16072,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12021,6 +16086,11 @@
     "data": "data/852.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12036,6 +16106,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12045,6 +16120,11 @@
     "data": "data/854.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12060,6 +16140,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12069,6 +16154,11 @@
     "data": "data/856.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12084,6 +16174,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12093,6 +16188,11 @@
     "data": "data/858.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12108,6 +16208,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12117,6 +16222,11 @@
     "data": "data/860.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12132,6 +16242,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12141,6 +16256,11 @@
     "data": "data/862.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12156,6 +16276,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12165,6 +16290,11 @@
     "data": "data/864.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12180,6 +16310,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12189,6 +16324,11 @@
     "data": "data/866.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12204,6 +16344,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12213,6 +16358,11 @@
     "data": "data/868.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12228,6 +16378,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12237,6 +16392,11 @@
     "data": "data/870.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12252,6 +16412,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12261,6 +16426,11 @@
     "data": "data/872.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12276,6 +16446,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12285,6 +16460,11 @@
     "data": "data/874.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12300,6 +16480,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12309,6 +16494,11 @@
     "data": "data/876.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12324,6 +16514,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12333,6 +16528,11 @@
     "data": "data/878.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12348,6 +16548,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12357,6 +16562,11 @@
     "data": "data/880.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12372,6 +16582,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12381,6 +16596,11 @@
     "data": "data/882.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12396,6 +16616,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12405,6 +16630,11 @@
     "data": "data/884.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12420,6 +16650,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12429,6 +16664,11 @@
     "data": "data/886.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12444,6 +16684,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12453,6 +16698,11 @@
     "data": "data/888.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12468,6 +16718,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12477,6 +16732,11 @@
     "data": "data/890.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12492,6 +16752,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12501,6 +16766,11 @@
     "data": "data/892.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
@@ -12516,6 +16786,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12528,6 +16803,11 @@
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
+      },
+      "llm_sentiment": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
       }
     }
   },
@@ -12537,6 +16817,11 @@
     "data": "data/895.csv",
     "metadata": {
       "llm_humor_labels": {
+        "image_descriptions": [],
+        "image_uncanny_descriptions": [],
+        "questions": []
+      },
+      "llm_sentiment": {
         "image_descriptions": [],
         "image_uncanny_descriptions": [],
         "questions": []
