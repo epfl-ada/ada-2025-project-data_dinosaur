@@ -3,7 +3,7 @@
 
 Jokes often reveal what people care about, fear, or protest against, making humor a mirror of society.
 In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2022). Millions of reader-rated captions for weekly cartoons are included in the dataset.
-Our objective is to create an interactive humor timeline that identifies thematic shifts in jokes and high points in public engagement. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
+Our objective is to create an interactive humor timeline that identifies thematic shifts in jokes and high points in public engagement as well as humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
 By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
 
 ## Reserach questions (to improve)
@@ -12,7 +12,7 @@ Do humor trends follow world events?
 Do peaks in caption activity or rating shifts coincide  with political or social crises?
 How do humor themes evolve over time?
 What topics dominate jokes in different years (politics, social movements, daily life)?
-Does caption style (length, irony, sentiment) change through time?
+Does caption and humor style change through time?
 Are humor trends correlated with public interest online?
 When Google searches for “pandemic” or “Trump” surge, do related captions appear more frequently?
 
@@ -46,9 +46,17 @@ Week 7:
 - Loading and preprocessing of all dataframes.
 - Scraping of additional datasets.
 - Beginning the visualization of the data
-- ...
 Week 8:
-- ...
+- Analysis related to Google trends
+- Analysis related to words frequency
+- Read me for P2
+- Notebbok for P2
+Week 9:
+- Finalize the analysis on google trends (work with csv files data)
+- Continue analysis linked to humor style
+- Continue analysis linked to yunno ?
+Week 10:
+- Start the final part
 
 
 # Organization within the team 
@@ -59,11 +67,17 @@ how we planned to divide tasks between team members (not time-wise)
 Jannik : 
 - ...
 Silvia:
-- ...
+- Pre processing the data
+- Data cleaning
+- Creation of dataframes
 Thara:
-- ...
+- Google trends analysis 
+    - comparison between frequencies of words in the google trends and in the dataset
+    - clustering type of humor
 Yann:
-- ...
+- Google trends analysis
+    - import Google trends dataset
+    - LLM 
 Yuno:
 - ...
 
