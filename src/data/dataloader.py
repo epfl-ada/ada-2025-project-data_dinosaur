@@ -9,6 +9,7 @@ from io import StringIO
 
 
 
+
 def get_image_data(): 
     data_folder = './data/newyorker_caption_contest/'
     df = pd.read_json(data_folder + 'contests.json')
@@ -93,3 +94,4 @@ def get_caption_dataset(df_image):
     merged_df = pd.merge(df_image[["contest_id", "date"]], df_cleaned, on="contest_id", how="inner")
     
     return merged_df
+
