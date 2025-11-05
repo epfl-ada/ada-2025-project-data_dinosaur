@@ -99,7 +99,7 @@ Yuno:
 
 to complete
 
-## Quickstart
+## Quick start
 
 ```bash
 # clone project
