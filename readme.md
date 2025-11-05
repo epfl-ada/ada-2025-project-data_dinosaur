@@ -32,31 +32,18 @@ Google Trends data (via the pytrends API) used to correlate caption topics with 
 
 We will normalize and align both datasets to weekly resolution and test correlations or lags.
 
-# Methods 
-
-what did we used / will we use to work on the dataset ?
+# Methods
 
 ## 1. Data Collection and Preparation
-- **Data Wrangling**: We use *The New Yorker Cartoon Caption Contest* dataset (2016–2022), which contains thousands of contest entries with captions, images, and votes. The data was parsed, cleaned, and structured into a unified format, focusing on three main textual fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.
-- **Data Enrichment**: Additional data was collected from **Google Trends** (2016–2023) using the *pytrends* API to track public interest in topics such as politics, social movements, and world crises. We aligned weekly search-interest scores with caption frequency and themes.
-- **Data Storage**: The processed data and all subsequent analyses are stored in JSON and CSV formats within the `data/` directory. The main enriched file is `contests_with_humor.json`, which integrates humor and sentiment labels predicted by LLMs.
+We used *The New Yorker Cartoon Caption Contest* dataset (2016–2022), containing captions, images, and reader votes. Data was cleaned, normalized, and focused on three key text fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.  
+To connect humor with real-world events, we collected weekly **Google Trends** data (2016–2023) for political, social, and crisis-related topics via the *pytrends* API. All processed data were stored in `contests_with_humor.json`.
 
 ## 2. Analysis Process
-- **Text Preprocessing**: Each caption was tokenized, lowercased, and cleaned of stopwords using the NLTK library. We extracted word frequencies, analyzed n-grams, and visualized the top terms.
-- **Google Trends Correlation**: We compared caption word frequencies to Google search interest over time to explore correlations between humor topics and public attention.
-- **Clustering and Visualization**: TF-IDF and K-Means clustering were applied to group captions by thematic similarity, followed by dimensionality reduction (PCA) for visualization.
-
-- **LLM Classification (Humor & Sentiment)**:  
-   - *Humor*: A fine-tuned **Llama 3–8B** model (via `llama-cpp-python`) was used to classify each caption into one of six humor categories (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*).  
-   - *Sentiment*: A **RoBERTa** model (`cardiffnlp/twitter-roberta-base-sentiment-latest`) was applied to detect *positive*, *neutral*, or *negative* sentiment.  
-   - Both models were implemented in **LLMs.ipynb**, and their outputs were saved into `contests_with_humor.json` under `metadata.llm_humor_labels` and `metadata.llm_sentiment`.
+Captions were preprocessed (tokenization, stopword removal, n-grams) and analyzed with TF-IDF and K-Means to identify thematic clusters.  
+In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six types (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*), while a **RoBERTa** model assessed sentiment (*positive, neutral, negative*). These predictions were added to the metadata of each contest.
 
 ## 3. Presenting the Results
-Our results are presented through visual analyses:
-- Pie charts showing the distribution of humor types and sentiment polarity for each field.  
-- Histograms comparing caption frequency and Google Trends interest across time.  
-- The final goal is to create an interactive *“Timeline of Humor”* connecting world events, public attention, and humor evolution.
-
+We visualized humor and sentiment distributions with pie charts and histograms to explore how tone and style evolved over time and reflected major global events.
 # Proposed timeline
 
 how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
