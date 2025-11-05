@@ -144,11 +144,11 @@ The directory structure of new project looks like this:
 │
 ├── tests                           <- Tests of any kind
 │
-├── results.ipynb                   <- a well-structured notebook showing the results
+├── results.ipynb                   <- Notebook with data analysis and results
+├── google_trends.ipynb             <- 
+├── LLMs.ipynb                      <-
 │
 ├── .gitignore                      <- List of files ignored by git
 ├── pip_requirements.txt            <- File for installing python dependencies
-├── google_trends.ipynb             <- 
-├── LLMs.ipynb                      <-
-├── results.ipynb                   <- Notebook with our analysis and results
+│
 └── README.md
