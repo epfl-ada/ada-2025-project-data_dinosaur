@@ -6,7 +6,7 @@ In this project, we examine how humor changes in reaction to social, political, 
 Our objective is to create an interactive humor timeline that identifies thematic shifts in jokes and high points in public engagement as well as humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
 By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
 
-## Research questions (to improve)
+## Reserach questions (to improve)
 
 Do humor trends follow world events?
 Do peaks in caption activity or rating shifts coincide  with political or social crises?
@@ -32,42 +32,33 @@ Google Trends data (via the pytrends API) used to correlate caption topics with 
 
 We will normalize and align both datasets to weekly resolution and test correlations or lags.
 
-# Methods
+# Methods 
 
-## Data Collection and Preparation
-We used *The New Yorker Cartoon Caption Contest* dataset (2016–2022), containing captions, images, and reader votes. Data was cleaned, normalized, and focused on three key text fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.  
-To connect humor with real-world events, we collected weekly **Google Trends** data (2016–2023) for political, social, and crisis-related topics via the *pytrends* API. All processed data were stored in `contests_with_humor.json`.
+what did we used / will we use to work on the dataset ?
 
-## Analysis Process
-Captions were preprocessed (tokenization, stopword removal, n-grams) and analyzed with TF-IDF and K-Means to identify thematic clusters.  
-In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six types (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*), while a **RoBERTa** model assessed sentiment (*positive, neutral, negative*). These predictions were added to the metadata of each contest.
+Several methods have are used.
 
-## Presenting the Results
-We visualized humor and sentiment distributions with pie charts and histograms to explore how tone and style evolved over time and reflected major global events.
+For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulessy sorted data. This and as well a moving average filter is used to analyse the developement over time without having noise from specific captions.
+
 # Proposed timeline
 
 how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
-
 Week 6: 
 - Defining clearly the project goal and the research questions. 
 - Division of tasks between team members
-
 Week 7:
 - Loading and preprocessing of all dataframes.
 - Scraping of additional datasets.
 - Beginning the visualization of the data
-
 Week 8:
 - Analysis related to Google trends
 - Analysis related to words frequency
 - Read me for P2
 - Notebbok for P2
-
 Week 9:
 - Finalize the analysis on google trends (work with csv files data)
 - Continue analysis linked to humor style
-- Continue analysis linked to yuno ?
-
+- Continue analysis linked to yunno ?
 Week 10:
 - Start the final part
 
@@ -78,23 +69,22 @@ how we planned to divide tasks between team members (not time-wise)
 -> can write in another format
 
 Jannik : 
-- ...
-
+- caption analysis
+    - by counting certain wordgroups
+    - by analysing over time
+- anaylsis of the funny and unfunny votes: is there an interessting developement?
 Silvia:
 - Pre processing the data
 - Data cleaning
 - Creation of dataframes
-
 Thara:
 - Google trends analysis 
     - comparison between frequencies of words in the google trends and in the dataset
     - clustering type of humor
-
 Yann:
 - Google trends analysis
     - import Google trends dataset
     - LLM 
-    
 Yuno:
 - ...
 
@@ -102,7 +92,7 @@ Yuno:
 
 to complete
 
-## Quick start
+## Quickstart
 
 ```bash
 # clone project
@@ -150,3 +140,4 @@ The directory structure of new project looks like this:
 ├── pip_requirements.txt        <- File for installing python dependencies
 └── README.md
 ```
+
