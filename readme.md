@@ -104,8 +104,12 @@ pip install -r pip_requirements.txt
 
 
 ### How to use the library
-Tell us how the code is arranged, any explanations goes here.
-
+Most of the work for this project is organized and demonstrated directly in the notebooks found at the root of the repository (e.g. results.ipynb, final.ipynb, google_trend.ipynb, LLMs.ipynb). These notebooks contain the main analyses, visualizations, and experiments.
+The src folder contains some Python code that supports the notebooks:
+- src/data/ includes scripts for loading, preprocessing, and generating datasets. It contains the Google trends datasets, the humor types datasets and the newyorker caption contest datasets that are the datasets given from the beginning.
+- src/models/ contains model definitions or training scripts.
+- src/utils/ provides reusable helper functions such as utils_import.py, which centralizes all common imports.
+- src/scripts/ includes scripts for automated data processing or analysis tasks.
 
 
 ## Project Structure
