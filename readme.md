@@ -36,6 +36,10 @@ We will normalize and align both datasets to weekly resolution and test correlat
 
 what did we used / will we use to work on the dataset ?
 
+Several methods have are used.
+
+For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulessy sorted data. This and as well a moving average filter is used to analyse the developement over time without having noise from specific captions.
+
 # Proposed timeline
 
 how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
@@ -65,7 +69,10 @@ how we planned to divide tasks between team members (not time-wise)
 -> can write in another format
 
 Jannik : 
-- ...
+- caption analysis
+    - by counting certain wordgroups
+    - by analysing over time
+- anaylsis of the funny and unfunny votes: is there an interessting developement?
 Silvia:
 - Pre processing the data
 - Data cleaning
