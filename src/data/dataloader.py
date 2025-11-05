@@ -7,8 +7,6 @@ import requests
 from io import StringIO
 
 
-
-
 def get_image_data(): 
     data_folder = './data/newyorker_caption_contest/'
     df = pd.read_json(data_folder + 'contests.json')
@@ -31,11 +29,6 @@ def get_image_data():
 
     #check if all expected contest IDs are present
     expected_ids = list(range(510, 896))
-    missing_ids_df = pd.Series(expected_ids)[~pd.Series(expected_ids).isin(df['contest_id'])]
-    missing_ids_scrape = pd.Series(expected_ids)[~pd.Series(expected_ids).isin(df_scrape['Contest Dashboard'].astype(int))]
-
-    #print('Missing data from df: ',missing_ids_df.tolist())
-    #print('Missing data from df_scrape: ',missing_ids_scrape.tolist())
 
     df_scrape['date'] = pd.to_datetime(df_scrape['date'], errors='coerce')
 

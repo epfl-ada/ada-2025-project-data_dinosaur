@@ -138,11 +138,7 @@ The directory structure of new project looks like this:
 │
 ├── src                             <- Source code
 │   ├── data                                <- Data directory
-│   ├── models                              <- Model directory
 │   ├── utils                               <- Utility directory
-│   ├── scripts                             <- Shell scripts
-│
-├── tests                           <- Tests of any kind
 │
 ├── results.ipynb                   <- Notebook with data analysis and results
 ├── google_trends.ipynb             <- 
