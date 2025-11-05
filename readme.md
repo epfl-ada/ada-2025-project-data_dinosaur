@@ -7,8 +7,7 @@ In this project, we examine how humor changes in reaction to social, political, 
 Our objective is to create an interactive humor timeline that identifies thematic shifts in jokes and high points in public engagement as well as humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
 By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
 
-
-## Research questions (to improve)
+## Research questions
 
 This project explores how humor evolves in response to societal and global changes. We will ask whether humor trends reflect world events, and if peaks in caption activity or shifts in audience ratings align with major political or social crises. We will also investigate how humor themes and styles develop over time, by analyzing which topics dominate in different years such as politics, social movements, or everyday life, and whether these shifts correlate with patterns of public interest online. By comparing humor trends with Google search data for key events or figures like "Trump" or "COVID-19", we will finally aim to determine whether captions talking about these key elements appear more frequently or not.
 
@@ -29,10 +28,18 @@ Google Trends data (via the pytrends API) used to correlate caption topics with 
 
 We will normalize and align both datasets to weekly resolution and test correlations or lags.
 
-# Methods 
+# Methods
 
-what did we used / will we use to work on the dataset ?
+## Data Collection and Preparation
+We used *The New Yorker Cartoon Caption Contest* dataset (2016–2022), containing captions, images, and reader votes. Data was cleaned, normalized, and focused on three key text fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.  
+To connect humor with real-world events, we collected weekly **Google Trends** data (2016–2023) for political, social, and crisis-related topics via the *pytrends* API. All processed data were stored in `contests_with_humor.json`.
 
+## Analysis Process
+Captions were preprocessed (tokenization, stopword removal, n-grams) and analyzed with TF-IDF and K-Means to identify thematic clusters.  
+In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six types (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*), while a **RoBERTa** model assessed sentiment (*positive, neutral, negative*). These predictions were added to the metadata of each contest.
+
+## Presenting the Results
+We visualized humor and sentiment distributions with pie charts and histograms to explore how tone and style evolved over time and reflected major global events.
 # Proposed timeline
 
 how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
@@ -92,7 +99,7 @@ Yuno:
 
 to complete
 
-## Quickstart
+## Quick start
 
 ```bash
 # clone project
