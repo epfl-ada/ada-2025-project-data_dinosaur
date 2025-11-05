@@ -2,19 +2,16 @@
 # The Timeline of Humor: Do Jokes Evolve with the World?
 
 Jokes often reveal what people care about, fear, or protest against, making humor a mirror of society.
-In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2022). Millions of reader-rated captions for weekly cartoons are included in the dataset.
+In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2023). Millions of reader-rated captions for weekly cartoons are included in the dataset.
+
 Our objective is to create an interactive humor timeline that identifies thematic shifts in jokes and high points in public engagement as well as humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
 By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
 
-## Reserach questions (to improve)
 
-Do humor trends follow world events?
-Do peaks in caption activity or rating shifts coincide  with political or social crises?
-How do humor themes evolve over time?
-What topics dominate jokes in different years (politics, social movements, daily life)?
-Does caption and humor style change through time?
-Are humor trends correlated with public interest online?
-When Google searches for “pandemic” or “Trump” surge, do related captions appear more frequently?
+## Research questions (to improve)
+
+This project explores how humor evolves in response to societal and global changes. We will ask whether humor trends reflect world events, and if peaks in caption activity or shifts in audience ratings align with major political or social crises. We will also investigate how humor themes and styles develop over time, by analyzing which topics dominate in different years such as politics, social movements, or everyday life, and whether these shifts correlate with patterns of public interest online. By comparing humor trends with Google search data for key events or figures like "Trump" or "COVID-19", we will finally aim to determine whether captions talking about these key elements appear more frequently or not.
+
 
 ## Additional Datasets
 
@@ -58,16 +55,13 @@ Week 8:
 Week 9:
 - Finalize the analysis on google trends (work with csv files data)
 - Continue analysis linked to humor style
-- Continue analysis linked to yuno ?
+- Continue analysis linked to captions
 
 Week 10:
 - Start the final part
 
 
 # Organization within the team 
-
-how we planned to divide tasks between team members (not time-wise) 
--> can write in another format
 
 Jannik : 
 - ...
@@ -88,7 +82,11 @@ Yann:
     - LLM 
     
 Yuno:
-- ...
+- Contest dataset
+    - scraping of the contest website
+- Caption analysis
+    - words frequency in the captions
+    - analysis of timeline of words like Trump or COVID
 
 # Questions for TAs
 
@@ -102,7 +100,7 @@ git clone <project link>
 cd <project repo>
 
 # [OPTIONAL] create conda environment
-conda create -n <env_name> python=3.11 or ...
+conda create -n <env_name> python=3.13
 conda activate <env_name>
 
 
@@ -126,20 +124,24 @@ The src folder contains some Python code that supports the notebooks:
 The directory structure of new project looks like this:
 
 ```
-├── data                        <- Project data files
+├── data                           <- Project data files
+│   ├── GoogleTrends                <- Datasets of Google Trends
+│   ├── humor_types                 <- Datasets of humor types
+│   ├── newyorker_caption_contest   <- Datasets of the caption contest
 │
-├── src                         <- Source code
-│   ├── data                            <- Data directory
-│   ├── models                          <- Model directory
-│   ├── utils                           <- Utility directory
-│   ├── scripts                         <- Shell scripts
+├── src                             <- Source code
+│   ├── data                                <- Data directory
+│   ├── models                              <- Model directory
+│   ├── utils                               <- Utility directory
+│   ├── scripts                             <- Shell scripts
 │
-├── tests                       <- Tests of any kind
+├── tests                           <- Tests of any kind
 │
-├── results.ipynb               <- a well-structured notebook showing the results
+├── results.ipynb                   <- a well-structured notebook showing the results
 │
-├── .gitignore                  <- List of files ignored by git
-├── pip_requirements.txt        <- File for installing python dependencies
+├── .gitignore                      <- List of files ignored by git
+├── pip_requirements.txt            <- File for installing python dependencies
+├── google_trends.ipynb             <- 
+├── LLMs.ipynb                      <-
+├── results.ipynb                   <- Notebook with our analysis and results
 └── README.md
-```
-
