@@ -65,9 +65,11 @@ Week 9:
 - Finalize the analysis on google trends (work with csv files data)
 - Continue analysis linked to humor style
 - Continue analysis linked to captions
+- Conceptualize the data story 
 
 Week 10:
-- Start the final part
+- Write text for the data story
+- Visualize the data to make the story easy to understand
 
 
 # Organization within the team 
