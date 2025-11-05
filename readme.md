@@ -36,14 +36,12 @@ We will normalize and align both datasets to weekly resolution and test correlat
 
 what did we used / will we use to work on the dataset ?
 
-## Methods
-
-### 1. Data Collection and Preparation
+## 1. Data Collection and Preparation
 - **Data Wrangling**: We use *The New Yorker Cartoon Caption Contest* dataset (2016–2022), which contains thousands of contest entries with captions, images, and votes. The data was parsed, cleaned, and structured into a unified format, focusing on three main textual fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.
 - **Data Enrichment**: Additional data was collected from **Google Trends** (2016–2023) using the *pytrends* API to track public interest in topics such as politics, social movements, and world crises. We aligned weekly search-interest scores with caption frequency and themes.
 - **Data Storage**: The processed data and all subsequent analyses are stored in JSON and CSV formats within the `data/` directory. The main enriched file is `contests_with_humor.json`, which integrates humor and sentiment labels predicted by LLMs.
 
-### 2. Analysis Process
+## 2. Analysis Process
 - **Text Preprocessing**: Each caption was tokenized, lowercased, and cleaned of stopwords using the NLTK library. We extracted word frequencies, analyzed n-grams, and visualized the top terms.
 - **Google Trends Correlation**: We compared caption word frequencies to Google search interest over time to explore correlations between humor topics and public attention.
 - **Clustering and Visualization**: TF-IDF and K-Means clustering were applied to group captions by thematic similarity, followed by dimensionality reduction (PCA) for visualization.
@@ -53,7 +51,7 @@ what did we used / will we use to work on the dataset ?
    - *Sentiment*: A **RoBERTa** model (`cardiffnlp/twitter-roberta-base-sentiment-latest`) was applied to detect *positive*, *neutral*, or *negative* sentiment.  
    - Both models were implemented in **LLMs.ipynb**, and their outputs were saved into `contests_with_humor.json` under `metadata.llm_humor_labels` and `metadata.llm_sentiment`.
 
-### 3. Presenting the Results
+## 3. Presenting the Results
 Our results are presented through visual analyses:
 - Pie charts showing the distribution of humor types and sentiment polarity for each field.  
 - Histograms comparing caption frequency and Google Trends interest across time.  
