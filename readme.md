@@ -33,7 +33,7 @@ We will normalize and align both datasets to weekly resolution and test correlat
 ## Contest captions analysis
 We used *The New Yorker Cartoon Caption Contest* dataset (2016-2023) combined with the data in https://nextml.github.io/caption-contest-data/ to obtain the dates of each contest. Then, we analyzed which were the words the most used in captions to discover some correlations between polar words (like man/woman). This dataset was also used to analyze the appearance of the words `Trump`and `COVID` over time to check whether these words frequency can be correlated with events like US presidency or a worldwide pandemic.
 
-For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulessy sorted data. This and as well a moving average filter is used to analyse the developement over time without having noise from specific captions.
+For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulously sorted data. This and as well a moving average filter is used to analyse the development over time without having noise from specific captions.
 
 In addition, the polar words (man/women) are analysed by mean impact of the votes `funny` and `not funny`.
 
