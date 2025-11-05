@@ -34,6 +34,8 @@ We will normalize and align both datasets to weekly resolution and test correlat
 We used *The New Yorker Cartoon Caption Contest* dataset (2016–2022), containing captions, images, and reader votes. Data was cleaned, normalized, and focused on three key text fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.  
 To connect humor with real-world events, we collected weekly **Google Trends** data (2016–2023) for political, social, and crisis-related topics via the *pytrends* API. All processed data were stored in `contests_with_humor.json`.
 
+For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulessy sorted data. This and as well a moving average filter is used to analyse the developement over time without having noise from specific captions.
+
 ## Analysis Process
 Captions were preprocessed (tokenization, stopword removal, n-grams) and analyzed with TF-IDF and K-Means to identify thematic clusters.  
 In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six types (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*), while a **RoBERTa** model assessed sentiment (*positive, neutral, negative*). These predictions were added to the metadata of each contest.
@@ -71,8 +73,11 @@ Week 10:
 # Organization within the team 
 
 Jannik : 
-- ...
-
+- caption analysis
+    - by counting certain wordgroups
+    - by analysing over time
+- anaylsis of the funny and unfunny votes: is there an interessting developement?
+  
 Silvia:
 - Pre processing the data
 - Data cleaning
@@ -114,17 +119,6 @@ conda activate <env_name>
 # install requirements
 pip install -r pip_requirements.txt
 ```
-
-
-
-### How to use the library
-Most of the work for this project is organized and demonstrated directly in the notebooks found at the root of the repository (e.g. results.ipynb, final.ipynb, google_trend.ipynb, LLMs.ipynb). These notebooks contain the main analyses, visualizations, and experiments.
-The src folder contains some Python code that supports the notebooks:
-- src/data/ includes scripts for loading, preprocessing, and generating datasets. It contains the Google trends datasets, the humor types datasets and the newyorker caption contest datasets that are the datasets given from the beginning.
-- src/models/ contains model definitions or training scripts.
-- src/utils/ provides reusable helper functions such as utils_import.py, which centralizes all common imports.
-- src/scripts/ includes scripts for automated data processing or analysis tasks.
-
 
 ## Project Structure
 
