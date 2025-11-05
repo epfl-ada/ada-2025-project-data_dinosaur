@@ -36,6 +36,11 @@ We will normalize and align both datasets to weekly resolution and test correlat
 
 what did we used / will we use to work on the dataset ?
 
+We use natural language processing and large language models (LLMs) to analyze humor and sentiment in captions.  
+In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classifies each caption into one of six humor types (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*), while a **RoBERTa sentiment model** detects **positive, neutral, or negative** tone.  
+The results are stored in `contests_with_humor.json`, later used for visualization and correlation analysis.
+
+
 # Proposed timeline
 
 how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
