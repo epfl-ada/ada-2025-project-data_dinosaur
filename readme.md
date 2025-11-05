@@ -39,22 +39,27 @@ what did we used / will we use to work on the dataset ?
 # Proposed timeline
 
 how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
+
 Week 6: 
 - Defining clearly the project goal and the research questions. 
 - Division of tasks between team members
+
 Week 7:
 - Loading and preprocessing of all dataframes.
 - Scraping of additional datasets.
 - Beginning the visualization of the data
+
 Week 8:
 - Analysis related to Google trends
 - Analysis related to words frequency
 - Read me for P2
 - Notebbok for P2
+
 Week 9:
 - Finalize the analysis on google trends (work with csv files data)
 - Continue analysis linked to humor style
-- Continue analysis linked to yunno ?
+- Continue analysis linked to yuno ?
+
 Week 10:
 - Start the final part
 
@@ -66,18 +71,22 @@ how we planned to divide tasks between team members (not time-wise)
 
 Jannik : 
 - ...
+
 Silvia:
 - Pre processing the data
 - Data cleaning
 - Creation of dataframes
+
 Thara:
 - Google trends analysis 
     - comparison between frequencies of words in the google trends and in the dataset
     - clustering type of humor
+
 Yann:
 - Google trends analysis
     - import Google trends dataset
     - LLM 
+    
 Yuno:
 - ...
 
