@@ -13,7 +13,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 # --- Default configuration ---
 NGRAM_RANGE = (1, 1)  # Unigrams and bigrams
-TOP_K = 50  # Top K frequent n-grams to display
+TOP_K = 100  # Top K frequent n-grams to display
 
 # Load English model
 nlp = spacy.load("en_core_web_sm")

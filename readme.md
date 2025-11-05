@@ -30,8 +30,11 @@ We will normalize and align both datasets to weekly resolution and test correlat
 
 # Methods
 
+## Contest captions analysis
+
+
 ## Data Collection and Preparation
-We used *The New Yorker Cartoon Caption Contest* dataset (2016–2022), containing captions, images, and reader votes. Data was cleaned, normalized, and focused on three key text fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.  
+We used *The New Yorker Cartoon Caption Contest* dataset (2016–2023), containing captions, images, and reader votes. Data were cleaned, normalized, and focused on three key text fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.  
 To connect humor with real-world events, we collected weekly **Google Trends** data (2016–2023) for political, social, and crisis-related topics via the *pytrends* API. All processed data were stored in `contests_with_humor.json`.
 
 For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulessy sorted data. This and as well a moving average filter is used to analyse the developement over time without having noise from specific captions.
@@ -42,6 +45,7 @@ In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six t
 
 ## Presenting the Results
 We visualized humor and sentiment distributions with pie charts and histograms to explore how tone and style evolved over time and reflected major global events.
+
 # Proposed timeline
 
 how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
