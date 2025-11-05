@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import CountVectorizer
 
 # --- Default configuration ---
-NGRAM_RANGE = (1, 2)  # Unigrams and bigrams
+NGRAM_RANGE = (1, 1)  # Unigrams and bigrams
 TOP_K = 50  # Top K frequent n-grams to display
 
 # Load English model
@@ -24,8 +24,9 @@ def keep_nouns_adjs(text):
     filtered_tokens = [token.text for token in doc if token.pos_ in {"NOUN", "PROPN", "ADJ"}]
     return " ".join(filtered_tokens)
 
-# --- Loading utilities ---
-
+# -------------------------------
+# LOAD UTILITIES
+# -------------------------------
 def load_records(path: pathlib.Path):
     """
     Load a JSON or JSONL file into a list of records (dicts).
