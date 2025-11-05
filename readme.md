@@ -108,10 +108,6 @@ Yuno:
     - words frequency in the captions
     - analysis of timeline of words like Trump or COVID
 
-# Questions for TAs
-
-to complete
-
 ## Quick start
 
 ```bash
