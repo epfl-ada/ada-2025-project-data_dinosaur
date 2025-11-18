@@ -1,5 +1,6 @@
 
 # [The Timeline of Humor: Do Jokes Evolve with the World?](https://sipofoy.github.io/ada-2025-data-dinosaur-website/)
+<sub><span style="color:#9a9a9a;"><em>(Please click on the title above to access the website.)</em></span></sub>
 
 Jokes often reveal what people care about, fear, or protest against, making humor a mirror of society.
 In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2023). Millions of reader-rated captions for weekly cartoons are included in the dataset.
