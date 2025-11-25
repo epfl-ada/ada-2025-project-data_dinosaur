@@ -56,14 +56,14 @@ def get_caption_dataset(df_image):
     
     path = "./data/newyorker_caption_contest/data/"
     dirs = os.listdir(path)
-    files = [os.path.join(path,i) for i in os.listdir(path) if os.path.isfile(os.path.join(path,i))]
+    files = [os.path.join(path,i) for i in os.listdir(path) if os.path.isfile(os.path.join(path,i)) and i.endswith('.csv')]
 
     df = pd.DataFrame()
 
     data_frames = []
     for file in files:
         
-        data = pd.read_csv(file, sep=',')
+        data = pd.read_csv(file, sep=',', encoding='latin-1')
         file_number_csv =  os.path.split(file)[-1]
         file_number = int(file_number_csv.replace('.csv', ''))
         data['contest_id'] = file_number #add a column with the contest id 
