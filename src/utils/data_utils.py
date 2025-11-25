@@ -4,16 +4,18 @@ Helper functions for text extraction, tokenization, and frequency analysis.
 
 import json
 import pathlib
-import re
 import spacy
 from typing import List
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import CountVectorizer
 
-# --- Default configuration ---
-NGRAM_RANGE = (1, 1)  # Unigrams and bigrams
-TOP_K = 100  # Top K frequent n-grams to display
+# =========================
+# Default settings
+# =========================
+NGRAM_RANGE = (1, 1)
+TOP_K = 30
+
 
 # Load English model
 nlp = spacy.load("en_core_web_sm")
@@ -113,9 +115,9 @@ def plot_top_terms(terms, counts, field_name="", ngram_range=NGRAM_RANGE, top_k=
     """
     Create a bar plot of the top terms.
     """
-    plt.figure(figsize=(12, 5))
+    plt.figure(figsize=(16, 7))
     plt.bar(terms, counts)
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=45, fontsize=11, ha="right")
     ngram_label = "unigrams" if ngram_range == (1, 1) else f"{ngram_range[0]}-{ngram_range[1]}-grams"
     plt.title(f"Top {top_k} {ngram_label}" + (f" — {field_name}" if field_name else ""))
     plt.ylabel("Frequency")

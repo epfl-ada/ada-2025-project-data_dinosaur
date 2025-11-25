@@ -1,4 +1,10 @@
 # =========================
+# Default variables
+# =========================
+NGRAM_RANGE = (1, 1)
+TOP_K = 30
+
+# =========================
 # Standard library imports
 # =========================
 import os, re, json, math, warnings, pathlib, time, csv
@@ -55,10 +61,18 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 
 # =========================
+# NLTK
+# =========================
+import nltk
+nltk.download("punkt", quiet=True)
+nltk.download("stopwords", quiet=True)
+
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+
+# =========================
 # Default settings
 # =========================
-NGRAM_RANGE = (1, 1)
-TOP_K = 30
 
 sns.set(style="whitegrid", context="talk")
 warnings.filterwarnings("ignore")

@@ -27,9 +27,6 @@ def get_image_data():
     df_scrape.drop(columns=['Cartoon'], inplace=True)
     df_scrape = df_scrape.iloc[::-1].reset_index(drop=True)
 
-    #check if all expected contest IDs are present
-    expected_ids = list(range(510, 896))
-
     df_scrape['date'] = pd.to_datetime(df_scrape['date'], errors='coerce')
 
     # Assume contest happens each week and fill missing dates

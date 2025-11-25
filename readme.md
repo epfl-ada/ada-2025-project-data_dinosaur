@@ -127,7 +127,7 @@ pip install -r pip_requirements.txt
 
 ## Project Structure
 
-The directory structure of new project looks like this:
+The directory structure of our project looks like this:
 
 ```
 ├── data                           <- Project data files
