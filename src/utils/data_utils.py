@@ -14,7 +14,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 # Default settings
 # =========================
 NGRAM_RANGE = (1, 1)
-TOP_K = 30
+TOP_K = 50
 
 
 # Load English model
