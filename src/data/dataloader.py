@@ -6,8 +6,30 @@ from bs4 import BeautifulSoup
 import requests
 from io import StringIO
 
-
+# =========================
+# CSV Generator
+# =========================
+def save_to_csv(df, path): 
+    '''
+    Save DataFrame to CSV file.
+    Args:
+        df (pd.DataFrame): DataFrame to save.
+        path (str): Path to save the CSV file.
+    '''
+    
+    df.to_csv(path, index=False)
+    
+    
+# =========================
+# Data loaders
+# =========================
 def get_image_data(): 
+    '''
+    Scrape dataset from New Yorker caption contest website, and load and clean image metadata.
+    Returns:
+        pd.DataFrame: Cleaned DataFrame with image metadata.
+    '''
+    
     data_folder = './data/newyorker_caption_contest/'
     df = pd.read_json(data_folder + 'contests.json')
     metadata = df['metadata'].apply(pd.Series)
@@ -28,7 +50,7 @@ def get_image_data():
     df_scrape = df_scrape.iloc[::-1].reset_index(drop=True)
 
     df_scrape['date'] = pd.to_datetime(df_scrape['date'], errors='coerce')
-
+    
     # Assume contest happens each week and fill missing dates
     for i in range(1, len(df_scrape)):
         if pd.isna(df_scrape.loc[i, 'date']):
@@ -50,9 +72,15 @@ def get_image_data():
 
 
 def get_caption_dataset(df_image):
+    '''
+    Load and clean New Yorker caption contest captions.
+    Args:
+        df_image (pd.DataFrame): DataFrame with image metadata and website data.
+    Returns:
+        pd.DataFrame: Cleaned DataFrame with captions and associated metadata.
+    '''
     
     path = "./data/newyorker_caption_contest/data/"
-    dirs = os.listdir(path)
     files = [os.path.join(path,i) for i in os.listdir(path) if os.path.isfile(os.path.join(path,i)) and i.endswith('.csv')]
 
     df = pd.DataFrame()
@@ -64,7 +92,7 @@ def get_caption_dataset(df_image):
         file_number_csv =  os.path.split(file)[-1]
         file_number = int(file_number_csv.replace('.csv', ''))
         data['contest_id'] = file_number #add a column with the contest id 
-        # starting from 660 the rank is nolonger shown, but comparing it with https://nextml.github.io/caption-contest-data/dashboards/883.html
+        # starting from 660 the rank is no longer shown, but by comparing it with https://nextml.github.io/caption-contest-data/dashboards/883.html
         # we can assume that the order is the rank 
         if file_number >= 660: 
             data.insert(0, 'rank', np.arange(0, len(data)))
