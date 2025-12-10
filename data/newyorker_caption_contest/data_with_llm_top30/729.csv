@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"We can’t be overthrown, but we can be swayed.",2.113746705507005,0.0064663066056592,14418,3619,5540,5259,wit-surprise,neutral
+Now is the winter of our discount tent.,1.968110027960402,0.0072076928703147,13233,4766,4123,4344,unknown,neutral
+We’ll show those Ottomans.,1.9159859976662776,0.0073421102576877,11998,4426,4154,3418,wit-surprise,neutral
+"I'm swingin' in the reign, just swinging in the reign....",1.8878048780487804,0.0073585127817137,11890,4569,4086,3235,unknown,neutral
+"Gotta be honest, I’m relieved this is what you meant by ‘hanging.’",1.9340431056868344,0.0073110993807619,11553,3973,4369,3211,sarcasm,neutral
+She got the throne in the divorce.,1.9278517452320976,0.0075238143014219,11116,3927,4064,3125,unknown,neutral
+"It's comfy, but the throne had a cup holder.",1.8351226127246016,0.0080552899076477,8849,3390,3528,1931,incongruity-absurdity,positive
+We should have gotten the king size.,1.8309591642924976,0.0084022447510498,8424,3337,3174,1913,unknown,neutral
+"If you lean too far left, the monarchy will fall.",1.818560606060606,0.0086495558727468,7920,3195,2967,1758,wit-surprise,negative
+Give up the throne – that's EXACTLY what you said.,1.7755422374429224,0.0090320942548464,7008,2966,2649,1393,sarcasm,negative
+When they said I’d have to give up the throne I took it as a metaphor.,1.8233134465351075,0.0092717323442583,6537,2516,2660,1361,self-deprecating,neutral
+'Game of Hammocks' just doesn't have the same ring.,1.824272465622002,0.0099348998199732,6254,2576,2201,1477,unknown,negative
+We are not amused.,1.647674231450185,0.0102004049782758,6213,3488,1426,1299,sarcasm,negative
+"Okay, maybe if we both try to get out at the same time.",1.7562429515063638,0.0094502828832258,6207,2661,2398,1148,sarcasm,neutral
+It was called FLÄRDTHRÖNE on the IKEA website...I didn't realize until after assembling.,1.8576051779935272,0.010296842372471,6180,2527,2006,1647,irony,neutral
+"Once the plague dies down, we'll take a real vacation.",1.753979977022813,0.0097218211045963,6093,2688,2216,1189,exaggeration,positive
+The Swedish king gave it to me. It’s from a province called IKEA,1.6862987127490745,0.0098834247136396,5671,2739,1972,960,incongruity-absurdity,neutral
+They think we're relaxing. They don't know we can't get out.,1.7328840014189428,0.0099140185177342,5638,2516,2112,1010,irony,negative
+How long can we maintain this balance of power?”,1.797509474824039,0.009939701252012,5541,2191,2281,1069,wit-surprise,neutral
+Isn’t this easier for our subjects to overturn us?,1.71841958820256,0.0101652219700159,5391,2474,1961,956,wit-surprise,negative
+Unless we act in unison we will both be overthrown,1.6748601119104716,0.0104234225233499,5004,2438,1755,811,wit-surprise,negative
+I meant to order a ham hock.,1.6590030518819938,0.0108141058335916,4915,2536,1519,860,unknown,neutral
+"Lately, I've been less like 'Off with his head' and more like 'Whatever.'",1.7375178316690445,0.0106527668914798,4907,2179,1837,891,self-deprecating,negative
+"We're swingin' in the reign, just swingin' in the reign ...",1.6731779038017225,0.0111223098092803,4761,2434,1449,878,irony,neutral
+"When you said swinging might spice things up, this wasn't what I had in mind.",1.708953514998855,0.0113104413888306,4367,2040,1558,769,sarcasm,neutral
+Please tell me you have the remote,1.6939834024896263,0.0121347909215934,3856,1865,1306,685,sarcasm,neutral
+In the future they'll remember me as the king of swing.,1.8246346555323592,0.012363958797388,3832,1517,1470,845,wit-surprise,neutral
+It’s a thrönē from IKEA.,1.602112676056338,0.0120798158399285,3692,2021,1119,552,incongruity-absurdity,neutral
+I'm measuring us for a burial shroud - it's from Turin.,1.6841220946513582,0.013901573901625,3571,1974,751,846,wit-surprise,neutral
+"No, this does NOT make us a swing State.",1.6437013548573076,0.0124995029185207,3469,1778,1149,542,sarcasm,negative

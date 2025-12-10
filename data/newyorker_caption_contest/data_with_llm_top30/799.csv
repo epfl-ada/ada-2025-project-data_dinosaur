@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I hope it pairs well with whatever you dragged in.,1.8373367045933415,0.0094022732836604,7119,2913,2451,1755,sarcasm,positive
+"..... and that's when she said, 'It's me or the cat.",1.8708497467642091,0.009568848128854,7108,2831,2364,1913,sarcasm,neutral
+"I must say, when your profile said “Must like cats” this isn’t exactly what I was expecting…",1.794897096137581,0.0093049070505562,7094,3055,2439,1600,sarcasm,negative
+Finish your wine and I’ll explain what I meant by ‘fixed’”.,1.8592592592592592,0.0097856485589146,6885,2822,2210,1853,sarcasm,neutral
+Are you ignoring anyone else?,1.7698483496877788,0.009494769021121,6726,2991,2292,1443,sarcasm,neutral
+"To be honest, not what I was expecting when you said you were a cat person.",1.8171832681312068,0.0097461252701186,6646,2816,2229,1601,sarcasm,negative
+"So, where do you see yourself in 5 lives?",1.816780045351474,0.0096235286776361,6615,2743,2341,1531,self-deprecating,neutral
+It's time you know. You're adopted.,1.8150954834798425,0.0097342357403115,6598,2785,2248,1565,sarcasm,neutral
+You’re purring your words.,1.7922196796338672,0.0096431517124343,6555,2820,2277,1458,irony,neutral
+I think that you will like it. It's aloof and hard to approach.,1.777235516372796,0.009733230529631,6352,2776,2215,1361,sarcasm,positive
+"But enough about me, tell me about your lives.",1.7976997006459745,0.009685250469741,6347,2661,2309,1377,self-deprecating,neutral
+"So, what do you want to do with your lives?",1.77441518076231,0.0097940021251628,6113,2637,2218,1258,sarcasm,neutral
+I liked in your profile how you said you always land on your feet.,1.8147291941875825,0.0099112733143367,6056,2466,2246,1344,sarcasm,positive
+"You know, this would be illegal in Texas, Georgia, and Florida.",1.7707292707292708,0.0103871849339431,6006,2792,1799,1415,irony,neutral
+This is a 1961 Chateau Cheval Blanc. I'm not pouring it into a saucer.,1.84493006993007,0.0104604475878062,5720,2302,2003,1415,incongruity-absurdity,neutral
+So - are you ready to tell me what happened to the canary?,1.7385353714895129,0.0099743091904666,5626,2502,2093,1031,sarcasm,neutral
+"Now that we’re nice and cozy, let’s talk about giving away all of your children.",1.751380231522707,0.0106998564798978,5615,2676,1659,1280,sarcasm,neutral
+"No, it doesn’t taste funny to me; but then, I didn’t just use my tongue to “tidy up.”",1.7815395580898077,0.0107044505325041,5612,2551,1736,1325,self-deprecating,negative
+I think you'll find it pairs nicely with both wet food and a variety of rodents.,1.757986792789577,0.0103522597911495,5603,2524,1911,1168,wit-surprise,positive
+"It has a nice bouquet, but I'd still rather play with the cork.",1.7756132756132756,0.0104360202243791,5544,2435,1918,1191,wit-surprise,positive
+"If you tell the dog, we're never doing this again.",1.7429726253904096,0.0103473313268501,5443,2465,1912,1066,unknown,negative
+"OK, so where were we before you heard the can opener?",1.7881180673058843,0.0107620905540874,5319,2321,1804,1194,sarcasm,neutral
+But enough about men... What of mice?,1.7542404824726725,0.0106681239475211,5306,2414,1782,1110,incongruity-absurdity,neutral
+I think we should start ignoring other people.,1.763807728557964,0.0106893054438487,5305,2382,1794,1129,self-deprecating,neutral
+We have to talk about what happened to the canary.,1.7601067887109076,0.0104182250855683,5244,2272,1958,1014,unknown,neutral
+Do you believe in petting on the first date?,1.7688016926331986,0.0109226038071493,5199,2352,1697,1150,sarcasm,neutral
+"I thought you'd like to try it, instead of just knocking it off the counter.",1.8369290573372208,0.0109549303750698,5145,2076,1832,1237,sarcasm,neutral
+I think I misinterpreted when you said you were a cat-person.,1.7726209048361934,0.0108250881310929,5128,2256,1782,1090,irony,negative
+When you said cat person on your profile I pictured something a little different,1.7889683350357508,0.0111063339347036,4895,2103,1722,1070,sarcasm,neutral
+I've come to realize I find your indifference irresistible.,1.7356466876971608,0.0109505645692337,4755,2150,1712,893,sarcasm,positive

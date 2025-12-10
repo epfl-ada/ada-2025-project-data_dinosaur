@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+7,"Don't worry, your wife'll never find out. Nobody ever comes here.",1.970973963355834,0.0077331522050711,10370,3370,3931,3069,sarcasm,negative
+0,"Just for fun, let's send it back.",2.0998243559718968,0.0078704888427374,10248,2792,3641,3815,irony,negative
+3,And only last week he was the press secretary.,2.000805315079525,0.0081473831561566,9934,3271,3384,3279,wit-surprise,neutral
+2,"The food is ok, but the media coverage is excellent.",2.0026374518157843,0.0074932059000215,9858,2715,4402,2741,sarcasm,positive
+9,This is the last time we dine at Scaramucci's.,1.966016831788644,0.0084936371724188,9387,3343,3020,3024,sarcasm,neutral
+10,"Apparently ""pepperoni pizza"" autocorrects to ""paparazzi posse"".",1.913826444283297,0.0087105029712555,8274,2984,3019,2271,unknown,neutral
+8,I hope you don't mind that I ordered extra paparazzi.,1.9681378626332755,0.0085619715459718,8066,2517,3289,2260,sarcasm,neutral
+5,"""Say, 'Cheese,' "" -Anna Ross, Santa Monica, CA (8 years old)",1.992145899893504,0.0089370622104646,7512,2283,3005,2224,unknown,neutral
+18,It's his last shift before he becomes White House Chief of Staff.,1.8219034812490664,0.0098682458933833,6693,2883,2119,1691,irony,neutral
+14,"Don't ask me how I know, but I think we're about to be served Luigi's one millionth pizza.",1.854041204437401,0.009304621927023,6310,2251,2729,1330,exaggeration,neutral
+17,There are things you don’t know about me.,1.82334693877551,0.0098926662017632,6125,2472,2263,1390,self-deprecating,neutral
+20,"Pepperoni, paparazzi. He knew what I meant.",1.7920121848028432,0.0097979403526927,5909,2418,2302,1189,wit-surprise,neutral
+15,"They said if it's not on the table before the next White House staff shakeup, it's free.",1.842466930080742,0.0106361187964175,5821,2447,1844,1530,sarcasm,neutral
+21,It's because we the last two people in New York who still eat gluten.,1.788265306122449,0.0106258246819537,5488,2404,1842,1242,sarcasm,neutral
+12,"The D.C. press are so excited to find someone, anyone, in this town who can deliver something.",1.8969964989865489,0.0108450820016658,5427,2040,1906,1481,sarcasm,positive
+23,I reserved the table as Mr. and Mrs. Clooney.,1.7743561030235162,0.0104928839105765,5358,2321,1925,1112,sarcasm,neutral
+6,Looks like paparazzi pizza wasn't a typo after all.,1.9782650142993328,0.0105502953959277,5245,1589,2181,1475,irony,neutral
+26,Remember when I told you that the pizza here is famous?,1.739808855080944,0.010178769646982,5127,2202,2057,868,exaggeration,neutral
+37,I ordered half mushroom half paparazzi.,1.6522704339051464,0.0101839813478732,4955,2434,1810,711,unknown,neutral
+27,This is nothing. Wait until the cannolis are served.,1.7372881355932204,0.0106637282349039,4838,2133,1843,862,unknown,negative
+19,"When I ordered my pizza served ""Trump style"" I imagined it would just be very cheesy and come with extra baloney...",1.8087787918296392,0.0118429178931596,4602,2009,1464,1129,exaggeration,negative
+13,Did you ask for extra paparazzi?,1.8794995610184373,0.0112421735709037,4556,1619,1867,1070,sarcasm,neutral
+16,"Apparently, your Italian is as not as good as you think.",1.825087924970692,0.011798374779022,4265,1704,1603,958,sarcasm,negative
+29,Here comes our pizza with everyone on it.,1.7157223448614176,0.0119813095191053,4077,1937,1362,778,unknown,neutral
+44,"Don't be alarmed but I might have said ""Paparazzi"" instead of ""Pepperoni.""",1.624104717214127,0.0112268825935823,4049,2080,1411,558,sarcasm,neutral
+40,"""It's their new Paparazzi Pizza"".",1.6362948006057547,0.0115205877811728,3962,2024,1355,583,unknown,neutral
+28,"Now remember, act surprised.",1.7275985663082438,0.0116274653498843,3906,1708,1554,644,sarcasm,neutral
+33,It's all about the delivery,1.6829133204098587,0.0119384515362612,3611,1683,1390,538,sarcasm,neutral
+30,"The pizza chef is good, but the marketing director is a genius.",1.7146178436501016,0.0126016970471372,3441,1571,1281,589,unknown,positive
+31,Last time you may have over-tipped.,1.688123300090662,0.0128737376366724,3309,1584,1173,552,sarcasm,neutral

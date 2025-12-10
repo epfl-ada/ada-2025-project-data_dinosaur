@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Nobody cares that you're famous.  No shoes, no shirt, no service.",1.6397022332506204,0.0187217848509284,2015,1205,331,479,sarcasm,negative
+Does paper also cover the check?,1.658074697527617,0.0169176329638819,1901,953,645,303,sarcasm,neutral
+"Listen you guys, I just went through this with Eenie, Meenie, Minie and Moe.”",1.767379679144385,0.0184662235093385,1870,864,577,429,sarcasm,neutral
+From now on you’re all getting separate checks.,1.6682926829268292,0.0175760672875093,1845,933,591,321,sarcasm,neutral
+"This place was so much nicer when you were a priest, a rabbi and an Irishman.",1.7289719626168225,0.0188528254394345,1819,901,510,408,sarcasm,positive
+Pay up front. I know how this ends.,1.679673849737915,0.018365815271754,1717,860,547,310,sarcasm,negative
+"Here, we draw straws.",1.691142191142191,0.0180828029072469,1716,828,590,298,incongruity-absurdity,negative
+"We had a priest, a rabbi and a pastor in here last week.",1.667645331767469,0.018349013570321,1703,865,539,299,wit-surprise,neutral
+"So paper covers rock, but not the tab?",1.6415981198589895,0.0176449643082578,1702,865,582,255,incongruity-absurdity,neutral
+"3 whiskeys, neat. But they’re all on the rock.",1.6424205378973105,0.0185236807510346,1636,856,509,271,irony,neutral
+"So if paper’s covering rock, who’s picking up the tab for scissors?",1.7190184049079755,0.0190075104828382,1630,773,542,315,wit-surprise,neutral
+Looks like you guys might need a hand.,1.7236923076923076,0.0198606155322381,1625,807,460,358,sarcasm,neutral
+"Time to pay your own tab, Rock...Paper's done covering you.",1.629559748427673,0.0180024345930053,1590,813,553,224,sarcasm,neutral
+Why does everything always have to be a competition with you three?,1.6986128625472887,0.0187942430628537,1586,755,554,277,sarcasm,negative
+"So that'll be a Cutty Sark, Paper Plane and a scotch on the Rock?",1.6205479452054794,0.0194975662370883,1460,787,440,233,sarcasm,neutral
+"Bar breaks rock, Bar crumples paper, and Bar blunts scissors. Now, one of you, pay up.",1.6194503171247356,0.0197706489998315,1419,766,427,226,wit-surprise,neutral
+"Whaddaya mean, 'you can't decide'?",1.6755753526354862,0.0205173077433741,1347,671,442,234,sarcasm,negative
+The only way we're gonna solve this is by flipping a coin.,1.61613144137416,0.0196630825771868,1339,702,449,188,irony,negative
+"No, paper doesn't cover rock unless paper is a twenty dollar bill.",1.7014253563390849,0.0213213446497299,1333,662,407,264,incongruity-absurdity,neutral
+"So, should we flip a coin?",1.627978478093774,0.0200210021489598,1301,671,443,187,irony,neutral
+"One of you is paying, and this time you’re drawing straws.",1.6581196581196582,0.0202930029981918,1287,636,455,196,sarcasm,negative
+I've had it with you guys--I'm giving you separate checks.,1.6108324974924777,0.0236412491793996,997,547,291,159,incongruity-absurdity,negative
+"Get out! Scissors is smashed, Paper is cut off, and Rock you never pay unless Paper covers you.",1.6082995951417005,0.0239512849979684,988,549,277,162,incongruity-absurdity,negative
+"I know paper’s covering rock, but who’s paying for scissors?",1.6917599186164802,0.0240342263778265,983,477,332,174,unknown,neutral
+This is a fast-food joint.  You guys'll hafta draw straws.,1.587117212249208,0.0268440908948345,947,599,140,208,incongruity-absurdity,negative
+If only there was a way to choose who picks up the tab.,1.5916575192096598,0.0242148289602897,911,505,273,133,sarcasm,neutral
+"We settle things like men here, I declare a thumb war.",1.585057471264368,0.0250181672050248,870,492,247,131,unknown,negative
+"Sorry. We’re under contract with Eeney, Meeney, Miney, & Moe.",1.5832363213038416,0.0248410148913754,859,481,255,123,sarcasm,neutral
+"Frankly, the priest, minister, and rabbi were a lot more amusing.",1.5834305717619603,0.0258521628682019,857,498,218,141,wit-surprise,positive
+Not this time boys...we're flipping a coin today!,1.6033254156769596,0.0247996393762022,842,451,274,117,unknown,neutral

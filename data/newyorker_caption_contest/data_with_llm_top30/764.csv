@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Congratulations, you have just completed step two of Spirit Airline's refund policy.",1.821049974760222,0.0131654203159778,3962,1778,1115,1069,sarcasm,positive
+"Yes, I really can talk. You have two questions left.",1.7951742627345844,0.0126264857539106,3730,1569,1356,805,sarcasm,positive
+No sage advice. This is more of a think tank.,1.8312064965197217,0.0133043619501906,3448,1392,1246,810,wit-surprise,negative
+Your parents lied to you about my death.,1.80011655011655,0.013477495839099,3432,1481,1156,795,exaggeration,negative
+This is the last time I feed someone's fish while they're on vacation.,1.7828360504460166,0.0140532895954211,3251,1473,1011,767,irony,negative
+Did you bring the little castle?,1.811738994692476,0.0138575515072556,3203,1343,1120,740,unknown,neutral
+"To be fair, you're not what I was expecting either.",1.837092731829574,0.0134816229098937,3192,1228,1256,708,self-deprecating,negative
+Bad timing.  The swami's at his place on Nantucket.,1.7549820320156813,0.0150097407019191,3061,1522,767,772,sarcasm,negative
+"If I had the answers, you think I’d be in this bowl?",1.8071524064171125,0.0142989497498814,2992,1259,1051,682,self-deprecating,neutral
+"If you're from Uber Eats, just sprinkle it in.",1.9154539154539152,0.0148389809616109,2886,1049,1032,805,sarcasm,neutral
+You think you had a tough time getting here.,1.8022598870056497,0.0146863638654322,2832,1200,992,640,irony,negative
+You missed him by one reincarnation.,1.77363184079602,0.0147783484302688,2814,1255,941,618,sarcasm,neutral
+I'm Swimi. Swami is on the next peak.,1.7482870537324198,0.0149338717561601,2773,1294,883,596,incongruity-absurdity,positive
+"A little castle, a fake fern, one of those little diver guys . . . you need me to write it down?",1.7769174041297937,0.0147981716695817,2712,1175,967,570,wit-surprise,neutral
+Congratulations on making it this far. Just one more task and you can reset your password.,1.8742138364779872,0.0158345626529386,2703,1107,829,767,sarcasm,positive
+One condition. I'll come home if you get rid of that damn cat.,1.750094375235938,0.0150582809862709,2649,1209,893,547,sarcasm,negative
+Happens all the time. I'm Swimmie. Swami is one mountain over.,1.753491883729709,0.0155586795295783,2649,1256,790,603,incongruity-absurdity,neutral
+You think YOU had a hard time getting here!,1.7879722436391674,0.0151674617959011,2594,1107,930,557,irony,negative
+Life is meaningless. Please exit through the gift shop.,1.7769588828549263,0.0155516212946627,2578,1155,843,580,sarcasm,negative
+The guru?  He’s now working from home like everyone else.,1.7457831325301203,0.0156094629029509,2490,1152,819,519,sarcasm,neutral
+"You're surprised I live here, but not by the fact I'm talking?",1.7850542386500603,0.0158310158706175,2489,1101,822,566,wit-surprise,neutral
+The secret of life? Hydrate.,1.7905964301262516,0.0161424957643017,2297,978,822,497,unknown,positive
+"Thought you flushed me ..didn’t you, Mike.",1.762341633901267,0.0165166406813257,2289,1051,731,507,sarcasm,neutral
+It was more impressive when I did it,1.7687172150691464,0.0174137447765604,2097,965,652,480,sarcasm,positive
+Isn't the real question: What are any of us doing here?,1.7454545454545454,0.0172726965328421,2090,985,652,453,incongruity-absurdity,neutral
+"You shouldn’t have flushed me, Dave.",1.7321428571428572,0.0173821177694733,2016,956,644,416,sarcasm,negative
+You go around in circles and then you die.  Got it?,1.7932083122149012,0.0176759810199099,1973,854,673,446,incongruity-absurdity,negative
+And Roger soon realized his mistake in agreeing to feed his sherpa's fish while on vacation.,1.7321792260692463,0.0175771318512284,1964,929,632,403,incongruity-absurdity,neutral
+The key to happiness?  A three second memory span.,1.7719298245614037,0.0179475888636588,1938,876,628,434,sarcasm,positive
+"A simple 'hello' would be nice. But nooo, everyone always asks how I got up here.",1.7287428273343766,0.017250059498087,1917,877,683,357,self-deprecating,negative

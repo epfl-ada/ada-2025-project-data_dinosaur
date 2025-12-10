@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"By the clicking of my thumbs, something wicked this way comes.",1.562175374274366,0.0130349086839608,3273,1940,826,507,sarcasm,negative
+All pairs well with a side of tots.,1.5527690700104493,0.0153984696229756,2871,1906,343,622,irony,positive
+A lot of you have been asking what happens if you unfollow me...,1.6408560311284046,0.0152701273774257,2570,1397,699,474,sarcasm,neutral
+"Eye of Newt, toe of  Goetz, tongue of Kevin...",1.6007252215954877,0.0157489122461754,2482,1457,559,466,unknown,neutral
+"Just the one trick-or-treater this year, the rest were too fast.",1.5587975243147656,0.0154301444728655,2262,1328,604,330,incongruity-absurdity,neutral
+Now for the most toxic ingredient of all—social media.,1.6538461538461535,0.0168807625529394,2236,1233,544,459,exaggeration,negative
+"""Eye of newt is traditional but any Republican Speaker will do.",1.6480898876404495,0.0170792632490514,2225,1251,506,468,sarcasm,neutral
+Toys-R-Us has the freshest takeout.,1.5390199637023594,0.0177725308338531,2204,1509,202,493,unknown,positive
+"Hi mom, I dissolved my relationship with Jim.",1.6289424860853432,0.0165925600941402,2156,1188,580,388,sarcasm,negative
+"Oh, hi Dorothy. No, I haven't seen your little dog.",1.6645351696999509,0.0175143597590028,2033,1089,537,407,sarcasm,neutral
+"I call it Congressional Stew. It smells unpleasant, it's hard to swallow and it's rarely satisfying. Perfect!",1.588380108321024,0.0170025608110452,2031,1186,495,350,wit-surprise,negative
+"Yes, for my witches in Brooklyn, there is a gluten-free option.",1.5746306673458992,0.016415369266195,1963,1114,570,279,sarcasm,positive
+We're having Stu,1.6527196652719665,0.0178132620825885,1912,1034,511,367,sarcasm,neutral
+Yes Mr. Trump!  It is a witch hunt.,1.5650984682713347,0.0178594907496892,1828,1103,417,308,sarcasm,negative
+In Salem we call that wicked good.,1.5470183486238531,0.0176982162218101,1744,1050,434,260,incongruity-absurdity,negative
+"Sorry, gotta go. I’m about to serve my neighbors  for dinner.",1.5654797827398914,0.0179400932400643,1657,958,461,238,irony,neutral
+"Siri, how many newt eyes are there in a cup?",1.555825242718447,0.0178710512363895,1648,962,456,230,irony,neutral
+It's vegan because I added vegans.,1.7496940024479803,0.0203464331319009,1634,808,427,399,incongruity-absurdity,neutral
+"Mom, it just doesn't taste the same as yours.  Who do you think I'm missing",1.6059664387818522,0.0185905437588539,1609,889,465,255,sarcasm,negative
+Welcome to my cauldron cooking channel.”,1.520573566084788,0.0204217745342904,1604,1105,163,336,unknown,positive
+Guess who I’m having for dinner!”,1.5898912348048624,0.0185723585639398,1563,873,458,232,sarcasm,positive
+"Honey, can you pick up a few toads on your way home?",1.5569864777849325,0.0177011437859832,1553,874,493,186,incongruity-absurdity,neutral
+Thank God for Spell check!,1.5393409549428378,0.0190208697535893,1487,903,368,216,incongruity-absurdity,positive
+You can probably find most of these ingredients lying around under your house.,1.6036461850101282,0.0190607929205744,1481,808,452,221,incongruity-absurdity,neutral
+No texting while hexing,1.5340350877192983,0.0183945535139543,1425,830,429,166,unknown,neutral
+All right!  I got a million hates!,1.572135785007072,0.0197855013639644,1414,823,373,218,sarcasm,negative
+I hope it’s viral.,1.507105459985041,0.0209526828770767,1337,884,228,225,sarcasm,neutral
+The newts are locally sourced.,1.5504658385093169,0.0194131228474667,1288,732,403,153,incongruity-absurdity,neutral
+Just a quick post to Wiccapedia.,1.6515625,0.0213837440650015,1280,675,376,229,incongruity-absurdity,neutral
+Stick your hand out and wave for the camera.,1.5317149569303057,0.0209323429194291,1277,796,283,198,incongruity-absurdity,neutral

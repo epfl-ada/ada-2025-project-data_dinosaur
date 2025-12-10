@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Remember when he was just a humming bird?,2.2741053817976895,0.0054024171555474,17745,2912,7080,7745,irony,neutral
+That's what happens when you make a nest with bluegrass.,2.120637554067666,0.0057773043377127,16877,3896,7060,5917,incongruity-absurdity,neutral
+This next song is for the two idiots with the binoculars.,2.089979285344381,0.00639896479023,15448,4311,5452,5674,sarcasm,negative
+"A Martin? No, I think it’s a Gibson.”",2.014684789290349,0.0064567184727825,14641,4422,5598,4614,incongruity-absurdity,neutral
+This ones’ for all you empty nesters out there”,1.971659634317862,0.0063626842589845,14220,4322,5977,3910,sarcasm,neutral
+"Sometimes when they fly South, they only make it as far as Nashville.",1.9222612256837792,0.0063164228537947,13674,4349,6051,3267,unknown,neutral
+I can usually identify a bird by the song but I think he's doing a cover.,1.9608492696883,0.0068552098116605,13282,4427,4944,3902,incongruity-absurdity,neutral
+It's always about some chick...,1.949898548462619,0.0067464440010098,12814,4101,5252,3450,sarcasm,negative
+"From what I can make out, his wife left him and his dog died.",1.9186883051698176,0.0072507293322248,11954,4312,4307,3328,irony,negative
+I heard he toured with Sheryl Crow.,1.9201997122789205,0.0070944583165393,11817,4095,4592,3124,wit-surprise,neutral
+"No, that's a Blues Jay!""",1.8589581831290556,0.0072288464043939,11096,4135,4395,2561,sarcasm,neutral
+'Finally! A positive tweet.',1.838428739907466,0.0074698253588228,11023,4432,3938,2648,sarcasm,positive
+"We can say we saw him before he took off.""",1.9169148016520987,0.0073846000142321,10411,3459,4368,2579,unknown,neutral
+"'"" I don't know what kind of bird it is but, he rocks in the treetop all the day long.""",1.8121459099493091,0.0076742931509891,10061,4146,3671,2240,wit-surprise,neutral
+Mating season has become more competitive.,1.83629250677099,0.0076528872218818,9969,3874,3852,2238,unknown,neutral
+Grand Ole Osprey,1.769406392694064,0.0078639909647128,9636,4257,3349,2026,irony,neutral
+This one's for everybody whose mother pushed them out of a nest before they could fly.,1.7477597079322933,0.0076874520076966,9039,3941,3491,1605,exaggeration,neutral
+Wow!  A Strummingbird!,1.7635609812276862,0.0081069799710174,8683,3778,3188,1712,irony,positive
+He’s fixin to mate.,1.6565420560747663,0.0083565456339267,8560,4566,2378,1612,incongruity-absurdity,neutral
+"Well, I'll be damned Bill. It's a Rockin' Robin.",1.983273596176822,0.0084474807791506,8370,2598,3325,2447,wit-surprise,neutral
+"Wow, everyone sings Dylan better than Dylan.",1.8143055380345656,0.0087384251130921,7927,3311,2788,1825,sarcasm,positive
+Ah! It's the rare Blues Jay.,1.673915792135542,0.0081261048832811,7909,3791,2905,1208,irony,positive
+Yep. Mockingbird. Nothin'  but covers.,1.8262004175365345,0.0087500409930295,7664,3035,2928,1701,sarcasm,neutral
+I admire any performer who isn't afraid to go out on a limb.,1.8220205209155484,0.0085612532362722,7602,2930,3097,1571,wit-surprise,positive
+"So is he a hummingbird, or did he just forget the lyrics?",1.7494203122584635,0.0092457974315711,6469,2807,2478,1184,wit-surprise,neutral
+Normally they'd have left the nest by now but this one's working from home.,1.8121779859484777,0.0094255552169646,6405,2559,2499,1347,incongruity-absurdity,neutral
+This might be the closest we'll get to live music  until 2021.,1.7807251608852614,0.0095259448552082,6371,2708,2358,1305,sarcasm,neutral
+"The way I heard it, if that mockingbird don't sing, he has to buy his wife a diamond ring. So, that's why.",1.6874297640070637,0.0094199548993805,6229,2997,2177,1052,unknown,neutral
+"Yup, you’re right, it’s definitely a Rockin’ Robin.",1.6184620713543472,0.0093650542303712,5774,3001,1981,791,irony,positive
+I hear the eagles put him out of business.,1.659387864685878,0.0096592208519788,5587,2747,1998,839,incongruity-absurdity,neutral

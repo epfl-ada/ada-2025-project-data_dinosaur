@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+HR is concerned about your crotch-grabbing.,1.659880834160874,0.0105181980200953,6042,3396,1305,1341,sarcasm,negative
+We’re looking for someone with more experience in the field.,1.647548161120841,0.0111347917451355,4568,2382,1414,772,exaggeration,neutral
+There's been a complaint about pine tar on the microwave.,1.5717942750756342,0.0115816225095121,4297,2552,1033,712,incongruity-absurdity,negative
+Can you work an extra inning this weekend?,1.641056066449125,0.0129382085202625,3371,1773,1035,563,sarcasm,neutral
+I'll listen to four pitches and then I'm walking.,1.6510433386837882,0.0135755383279669,3115,1627,948,540,unknown,neutral
+Can you explain why your last employer said you were caught stealing?,1.708984375,0.0143468089958709,3072,1548,870,654,sarcasm,negative
+You've broken another window.,1.5429344151453686,0.0136764437790867,2958,1803,704,451,sarcasm,negative
+Can you explain the 5-month-a-year-gap on your resume?,1.654070766059773,0.0136599830092453,2911,1468,982,461,sarcasm,neutral
+You're not fired. You're relieved.,1.6596551724137931,0.0135127067322429,2900,1429,1029,442,incongruity-absurdity,neutral
+"Sorry, only the catcher works from home.",1.7510359116022098,0.015099523256249,2896,1406,805,685,sarcasm,neutral
+"So you want to play hardball, eh?",1.6685373553139249,0.0139171173435056,2851,1416,964,471,irony,neutral
+Don't come in here and try to play hardball with me.,1.6756071040231968,0.0144855296105465,2759,1391,872,496,sarcasm,negative
+Give it to me with no spin.,1.6572769953051645,0.0140969047720127,2556,1237,958,361,sarcasm,neutral
+"Yes, I did order a slider for lunch.",1.7457351746547525,0.0157385947041132,2462,1143,802,517,irony,neutral
+Let me guess — you're here to retire me.,1.5469321414059325,0.0141714062765257,2461,1418,740,303,sarcasm,neutral
+"Yes, but are you a closer?",1.687525562372188,0.0153352119315673,2445,1204,801,440,sarcasm,neutral
+Give me your best pitch—and make it fast.,1.6385846672283066,0.015084773844816,2374,1225,782,367,wit-surprise,positive
+Let me guess — they sent you here to retire me.,1.6016985138004247,0.0153039815048811,2355,1305,683,367,sarcasm,negative
+Enough windup. Gimme the pitch.,1.608304794520548,0.0145364793693728,2336,1213,825,298,wit-surprise,neutral
+Just give me ballpark figures.,1.721149721149721,0.0154159934992245,2331,1061,859,411,wit-surprise,neutral
+"The job requires short, intense periods of productivity combined with longer periods of reflection and spitting.",1.6917358985570616,0.0162684308179978,2287,1153,686,448,unknown,neutral
+This isn't what I meant when I said you could pitch me on the idea.,1.5424549054113506,0.0143952455015925,2273,1293,727,253,sarcasm,neutral
+"'""Dress for the job you want"" is just a figure of speech, Roberts.'",1.5288243304584657,0.0158515463219556,2203,1373,495,335,sarcasm,neutral
+We received a complaint that you use too many sports metaphors.,1.5430523917995445,0.0151454777119219,2195,1283,632,280,wit-surprise,negative
+"I'll tell marketing it was a strong pitch, but I've got too much on my plate right now.",1.5607519486474095,0.0145835256438697,2181,1195,749,237,sarcasm,neutral
+Where do you see yourself three innings from now?,1.5314653192466696,0.0151973820815863,2177,1296,605,276,incongruity-absurdity,neutral
+"No, you cannot “work from home plate”",1.6614463380930449,0.0164715076404066,2171,1131,644,396,sarcasm,neutral
+"Dobbs, I'm relieving you.",1.53810623556582,0.0149141469778405,2165,1252,661,252,sarcasm,positive
+"OK, but make it fast.",1.543163789080728,0.0151512857705796,2143,1240,642,261,sarcasm,neutral
+I've talked to management and they've agreed to play ball.,1.60710944808232,0.0153317014946878,2138,1122,734,282,incongruity-absurdity,neutral

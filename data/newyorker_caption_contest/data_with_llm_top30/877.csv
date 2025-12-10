@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+We need to talk.,1.5632050911194677,0.0134285961684629,3457,2162,643,652,sarcasm,neutral
+I’m having mixed emojis.,1.6444557477110886,0.0172720004666996,1966,1050,565,351,unknown,neutral
+I'm so glad you didn't invite Dick.,1.6051934287228404,0.0185670249372625,1887,1133,366,388,sarcasm,negative
+"Though Donna had practiced for years, she still had trouble reading people’s faces.",1.5414997137950772,0.0176640741419065,1747,1060,428,259,incongruity-absurdity,neutral
+Use your words.,1.5358577165806082,0.0174966137931912,1743,1057,438,248,sarcasm,neutral
+I can’t face my feelings.,1.5268882175226586,0.0176064929164578,1655,1001,436,218,self-deprecating,negative
+"Sorry, I'm bad with names. Do you go by peach cheeks or butt face?",1.5502882767456758,0.0190562149905752,1561,951,361,249,sarcasm,negative
+Facial recognition locked me out.”,1.510443864229765,0.0201130479570856,1532,1033,216,283,irony,negative
+"Several players are exploiting a bug in crowdsource voting (i.e., Nicole Chrolavicius, Paul Nesja, Carol Lasky, Colin Mills, and Brandon Lawniczak, etc.) and I know how they're doing it. NYer Editors, please email me at bayareaman29@gmail.com",1.5028011204481793,0.0221635088682874,1428,1032,74,322,sarcasm,negative
+Am I the only one who still knows how to spell?,1.5753033547466095,0.0199201205889852,1401,813,370,218,unknown,neutral
+"Several players are exploiting a bug in crowdsource voting to ensure their captions crack the top 150 for editorial review.  Carol Lasky, Colin Mills, Nicole Chrolavicius, Paul Nesja, and Brandon Lawniczak, etc., we all know you're cheating!",1.5068990559186637,0.0224643911938252,1377,985,86,306,irony,negative
+Why couldn’t you guys get a tattoo like everybody else?,1.5111607142857142,0.0190615782430733,1344,817,367,160,sarcasm,neutral
+Can I just make a phone call with this thing?,1.5049056603773583,0.0194435811803769,1325,822,337,166,sarcasm,negative
+What's the emoji for existential dread?,1.5019040365575018,0.0194583575156821,1313,816,335,162,exaggeration,negative
+What emoji should I use to portray existential dread?,1.5103289977046672,0.0195232075493665,1307,802,343,162,self-deprecating,negative
+I think meeting in person was a mistake,1.6111111111111112,0.0207984478405344,1296,713,374,209,sarcasm,negative
+OMG! It's true! You are what you tweet!,1.5517241379310345,0.020678882807861,1247,737,332,178,sarcasm,positive
+:(,1.5090311986863711,0.0204251868345235,1218,755,306,157,irony,negative
+Maybe I’ll start reading those ‘terms and conditions’,1.5341002465078062,0.0207444216230299,1217,734,316,167,sarcasm,neutral
+I told you that if you make that face too much it'll get stuck like that.,1.508860759493671,0.0209561092378056,1185,742,283,160,sarcasm,neutral
+Every time I enter a caption contest I feel like my entries are 🔥 but all the 😎 millennials and their 😈ideas are too clever to keep up with so you can all kiss my 🍑,1.494087837837838,0.021408453313153,1184,772,239,173,sarcasm,positive
+Because I feel like myself today.,1.496615905245347,0.0196587811978525,1182,717,343,122,self-deprecating,positive
+Hanging out with you guys leaves me with mixed emojis.,1.6121930567315834,0.0220958761844481,1181,658,323,200,sarcasm,neutral
+Those were selfies all the time??,1.4956896551724137,0.0208414387939139,1160,732,281,147,irony,neutral
+You have the emotional range of an iPhone.,1.5207253886010363,0.0216673230205266,1158,725,263,170,sarcasm,neutral
+"Words, guys. Use your words.",1.4864864864864864,0.0212675135930977,1147,743,250,154,sarcasm,neutral
+I would recommend skipping the latest software update.,1.547640249332146,0.021934215498287,1123,672,287,164,sarcasm,negative
+Let's play a party game where we use WORDS...,1.4904977375565611,0.0207677384216101,1105,688,292,125,unknown,neutral
+Oh no! The four emojis of the apocalypse!,1.550185873605948,0.0230074349232847,1076,657,246,173,exaggeration,negative
+What ever happened to wearing our feelings on our sleeve?,1.5116495806150978,0.0213457609276176,1073,652,293,128,incongruity-absurdity,negative

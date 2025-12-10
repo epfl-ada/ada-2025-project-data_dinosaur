@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+5,I don't have the heart to tell him I'm dating the Hunchback of Temple Beth Shalom.,1.865546218487395,0.0189386324374557,1904,795,570,539,sarcasm,negative
+2,"Is he religious? Mom, he’s practically a fixture at the church next door.",1.912472647702407,0.0181813575040264,1828,639,710,479,unknown,neutral
+3,Did I tell you I found someone to watch the place while we're away?,1.9027472527472529,0.0181100699604494,1820,640,717,463,sarcasm,neutral
+0,"Siri, how far can a hunchback jump?",1.9282934963868816,0.0192429937676352,1799,668,592,539,incongruity-absurdity,neutral
+14,"My new neighbor? Someone pretty high up in the church, I think",1.752212389380531,0.0185114471369799,1695,754,607,334,irony,neutral
+4,"Well, you know, it beats living next to Trump Tower.",1.8764179104477607,0.0198194250808669,1675,667,548,460,sarcasm,neutral
+17,"He's single, enjoys climbing and lives right next door.",1.7255501222493888,0.0184828268964451,1636,743,599,294,incongruity-absurdity,positive
+6,"It is a little awkward, but on the bright side, I haven’t seen a pigeon in days.",1.860923076923077,0.0186973321465723,1625,590,671,364,incongruity-absurdity,negative
+16,"Yes Mother, I'm seeing someone!",1.7301173402868315,0.0193694214575433,1534,704,540,290,sarcasm,positive
+20,Like I would date a guy from Notre Dame.,1.683619550858653,0.0200128846406451,1514,774,445,295,sarcasm,neutral
+1,"I'm fine,Bob. Actually, I'm seeing a guy from Notre Dame now.",1.922362309223623,0.0201109437004345,1507,522,580,405,sarcasm,positive
+8,I thought his profile said he was a quarterback at Notre Dame.,1.8534246575342463,0.0209243167940885,1460,589,496,375,irony,neutral
+10,"He's annoying, but he improves my wi-fi signal. I call him my quasi-modem.",1.8328690807799444,0.0211282945635557,1436,600,476,360,wit-surprise,positive
+19,"Gotta go, Mom. The guy's here with the cathedral.",1.697228144989339,0.0208140006679909,1407,706,421,280,unknown,neutral
+12,"We got the price down a little because of, what they referred to as, a quasi-obstructed view.",1.7767475035663338,0.0203462685738897,1402,598,519,285,unknown,neutral
+11,"Hi, this is Esmeralda on the 9th floor. I'd like to report a peeping literary allusion.",1.7986676535899333,0.0215020775296378,1351,585,453,313,wit-surprise,neutral
+7,"So then he said, ""What makes you think my name is Quasimodo?"" And I said, ""Just a hunch.""",1.8542600896860983,0.0215215551749495,1338,526,481,331,wit-surprise,neutral
+23,I want to report a squatter.,1.6717791411042944,0.020606945691252,1304,645,442,217,incongruity-absurdity,negative
+21,"Okay, I checked the mail and watered the plants. What about the hunchback?",1.683385579937304,0.0212419100789916,1276,633,414,229,sarcasm,neutral
+24,I don't know who he is but his face rings a bell.,1.6656101426307448,0.0215185680649224,1262,650,384,228,irony,neutral
+22,"You will love him. He lives next door, he did a project with Disney a few years ago, and he's Catholic.",1.6781701444622792,0.021211299947808,1246,614,419,213,irony,positive
+15,"Well, he's not as creepy as the guy I met at the opera.",1.747191011235955,0.0219787533068501,1246,572,417,257,sarcasm,neutral
+27,"Hello, ..911?......Well, it's a Quasi-emergency.",1.6573839662447258,0.021070430239737,1185,584,423,178,sarcasm,neutral
+25,Hello. Yes. I'd like to cancel my membership to Match.Com.,1.6630067567567568,0.0224594987795577,1184,620,343,221,exaggeration,neutral
+18,Apparently it's rent controlled and they can't get rid of him.,1.7017857142857142,0.0229897864149275,1120,548,358,214,irony,negative
+26,"Describe him? I thought ""Hunchback on church spire staring into my 10th floor condo"" kinda covered it!""",1.6606005459508644,0.0224171817905265,1099,553,366,180,wit-surprise,neutral
+29,Will you tell Mrs. Hugo in 3b to come get her husband.,1.6208378088077335,0.0243923116161077,931,501,282,148,unknown,neutral
+13,"I can't remember his name, but his face rings a bell.",1.7628979143798025,0.0257289229966208,911,408,311,192,incongruity-absurdity,neutral
+31,"Yes, Mom, I've found someone to watch my plant while I'm away.""",1.615819209039548,0.0242319062162457,885,465,295,125,incongruity-absurdity,positive
+28,"Oh Daddy, you make it sound like the city is full of weirdos.",1.6278538812785388,0.0253528360392664,876,470,262,144,sarcasm,negative

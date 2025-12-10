@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"I’m okay. The five people in the back, not so much.",1.7532926437520078,0.0140579369690387,3113,1436,1009,668,sarcasm,neutral
+The zoo wants me to work from home.,1.8055186170212767,0.0148967924014844,3008,1353,887,768,irony,neutral
+"Everyone ignores the elephant in the room, but take one on the elevator and everyone has something to say.",1.795883361921098,0.0151652047797269,2915,1335,840,740,unknown,neutral
+He thinks taking the freight elevator is body shaming.,1.7163786626596544,0.0152846303277825,2662,1312,793,557,irony,negative
+"Apparently, there’s a mouse on the staircase.",1.723471400394477,0.0157878935991341,2535,1248,740,547,incongruity-absurdity,neutral
+"You can come in, but we can't talk about the you know what.",1.698136142625608,0.0155070758999822,2468,1217,779,472,unknown,neutral
+"Sorry for the wait, but when he got in he hit all the buttons.",1.6831979478409578,0.0172553247140771,2339,1302,476,561,sarcasm,neutral
+Of course I got permission. I told the super I had two large trunks to bring up and he said it was fine.,1.6835497835497837,0.0160013161521603,2310,1164,713,433,sarcasm,positive
+What elephant?,1.7384406165004531,0.0169656073492847,2206,1064,655,487,wit-surprise,neutral
+"Actually it's no dogs, cats or other small pets.",1.6819075712881022,0.0168581788046744,2034,1014,653,367,incongruity-absurdity,neutral
+The lease said no dogs,1.6759443339960238,0.0165684328883892,2012,987,690,335,irony,neutral
+Yes we are your upstairs neighbors- how did you know?,1.7857501254390369,0.0174111514055045,1993,861,698,434,sarcasm,neutral
+It’s OK—he’s a service elephant.,1.6979761286974573,0.0172956121069226,1927,934,641,352,incongruity-absurdity,neutral
+Doesn't matter what you pushed. We're going down.,1.6799563080283997,0.0175535807710741,1831,903,611,317,self-deprecating,negative
+"Well, how exactly do you think the elephant in the room gets to the room",1.7870967741935484,0.0196491829097702,1705,781,506,418,wit-surprise,neutral
+Probably down.,1.665680473372781,0.017973516861202,1690,838,579,273,self-deprecating,neutral
+"Yes, the elevator operator takes up a lot of space
+ but he works for peanuts.",1.6644295302013423,0.0184657786544867,1639,825,539,275,incongruity-absurdity,neutral
+"You're welcome to join me, but there are certain things we don't talk about.",1.663151364764268,0.0188432863386921,1612,824,507,281,sarcasm,neutral
+Fortunately he fits. The giraffe is walking up the stairs.,1.6583389601620526,0.0190222081980798,1481,736,515,230,incongruity-absurdity,positive
+The Democratic elevator is down the hall.,1.6550745209368347,0.0202606349055196,1409,734,426,248,sarcasm,neutral
+"I’ve been fine, despite some pandemic pet regret.",1.6520771513353116,0.020563742144693,1348,700,417,231,self-deprecating,positive
+He says he's looking for a way out of Trump Tower.,1.649624060150376,0.0215219027748249,1330,724,348,258,exaggeration,neutral
+"Don’t worry- next one has the clowns, and there’s always enough room.",1.6616428033157498,0.0213634573408815,1327,702,372,253,sarcasm,neutral
+I finally get the concept of unwanted touching.,1.6487915407854985,0.0229635354083182,1324,776,237,311,self-deprecating,negative
+Going down....probably really fast.,1.6476484194294525,0.0201424290598804,1297,669,424,204,irony,neutral
+I know what you're thinking: why did I shave the mustache?,1.6512738853503184,0.022376533257112,1256,690,314,252,self-deprecating,neutral
+It's way more effective than just using a metaphor.,1.6455493183640737,0.0211241199444516,1247,646,397,204,sarcasm,positive
+Of course he remembers you.,1.6381865736704446,0.0226583760749049,1147,620,322,205,sarcasm,positive
+The lease only says no dogs.,1.6353488372093024,0.0228545522085866,1075,569,329,177,irony,neutral
+"Trust me, you’re going down no matter what button you push.",1.632173095014111,0.0232297113661119,1063,572,310,181,sarcasm,negative

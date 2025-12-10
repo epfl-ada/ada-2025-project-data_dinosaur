@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1051,At least he knows where he’s going...”,1.3548387096774193,0.0321803445315296,341,241,79,21,sarcasm,neutral
+5855,He's an agent and he wants to make us rich and famous.,1.137313432835821,0.0219040845160753,335,296,32,7,wit-surprise,neutral
+2748,"He may be fictional, but he's a real man.",1.2740963855421688,0.0301745774194838,332,258,57,17,wit-surprise,neutral
+3659,I'm his new social media strategist. Can you follow us on Instagram?,1.2409638554216869,0.0280920761002011,332,265,54,13,sarcasm,neutral
+511,"I'm sorry, but I think he will keep me warmer tonight than you can.",1.4018126888217524,0.0372494421570537,331,234,61,36,sarcasm,neutral
+2203,It’s tacky to ask celebrities for an autograph.,1.295731707317073,0.0314836068765986,328,250,59,19,sarcasm,negative
+5375,"Well, he was no help. I’m not sure why everyone thought we’d find Zach’s watch up here.",1.1712538226299694,0.0249593553267933,327,281,36,10,sarcasm,negative
+3895,It's 80% mental power and 20% giant steps,1.2324159021406729,0.0277915800234782,327,263,52,12,wit-surprise,neutral
+2814,He's not really that abominable and it's a great workout.,1.27217125382263,0.0307466295990464,327,256,53,18,unknown,positive
+4996,I didn't know your brother was coming along?,1.1896024464831805,0.0245491128141936,327,272,48,7,sarcasm,neutral
+3383,He's really upset you won't share your beef jerky.,1.2515337423312884,0.0293671223114141,326,259,52,15,sarcasm,negative
+2310,"That was cold, Larry.",1.2914110429447854,0.0327035609198822,326,254,49,23,sarcasm,negative
+2430,I’m not carrying his crap another step.,1.2861538461538462,0.0317856801344805,325,252,53,20,sarcasm,negative
+1183,You say hirsute and I say hairsuit. What's the big deal?,1.345679012345679,0.0340430059881711,324,236,64,24,incongruity-absurdity,neutral
+5499,I only have eyes for you,1.1635802469135803,0.023608758035194,324,278,39,7,unknown,positive
+1876,"'You know I've always wanted a REAL mountain man, Stan.'",1.3095975232198145,0.0320807383852065,323,242,62,19,sarcasm,positive
+929,"That was really insensitive, John.",1.3633540372670807,0.035530730165983,322,233,61,28,sarcasm,negative
+5800,I tried but I can’t keep up with him.,1.1428571428571428,0.022306004132633,322,282,34,6,sarcasm,negative
+5258,I think he's pretty hot!,1.1770186335403727,0.0238733755732688,322,271,45,6,irony,positive
+1544,He was asking for directions.,1.326086956521739,0.032438135496371,322,236,67,19,incongruity-absurdity,neutral
+5190,"Nice enough guy, but I think he ""OD""ed on the supplemental testosterone.",1.1806853582554515,0.0252557497118658,321,272,40,9,sarcasm,neutral
+4563,"Yes Peter, he must’ve used Mapquest.",1.2087227414330215,0.026661234416275,321,264,47,10,sarcasm,neutral
+4130,He says we don't need crampons.,1.2242990654205608,0.0285709866496067,321,263,44,14,irony,neutral
+5858,"There's nothing funny here, so please step back.",1.1370716510903427,0.0224928266844967,321,284,30,7,sarcasm,negative
+3361,"Clear up something for me.  Is it ""Abdominal"" or ""Abominable""?",1.2523364485981308,0.0300182881146676,321,256,49,16,sarcasm,neutral
+2171,"His daughter lost a mitten yesterday, he's just out checking everywhere.",1.296875,0.0323451330383659,320,245,55,20,incongruity-absurdity,neutral
+2093,It will be a more pleasant climb if you stay down wind from him,1.3,0.032707020902261,320,245,54,21,wit-surprise,positive
+292,I think we are officially too high now.,1.43125,0.0370978303998518,320,213,76,31,irony,negative
+2621,"Yep, we are so high!",1.2789968652037618,0.030789970904228,319,246,57,16,exaggeration,positive
+4179,"If he really wanted to eat us, he would’ve done it already.",1.2225705329153604,0.0275862517049235,319,259,49,11,wit-surprise,negative

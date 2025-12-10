@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I think I turned my clocks back too far.,1.6977766919130222,0.0122593048120621,4093,2064,1202,827,incongruity-absurdity,negative
+"A headhunter? Me, too.",1.776269482151835,0.0128464537434481,3978,1850,1168,960,wit-surprise,neutral
+"You know, I invented the man cave.",1.6623303167420815,0.0135376996061357,3536,1944,842,750,unknown,neutral
+I'm still adjusting to the time change.,1.6880680152447962,0.0131197423830031,3411,1699,1077,635,sarcasm,neutral
+"I live in a brownstone, too.",1.6568717477808388,0.0136303768680678,3267,1744,900,623,unknown,neutral
+You must be a gatherer.,1.7295159759569756,0.0139208993071602,3161,1511,994,656,incongruity-absurdity,neutral
+"Wait -- ""B.C."" means ""business casual""?",1.781372549019608,0.0147725649207804,3060,1429,871,760,irony,neutral
+"True, paper covers rock, but rock beats lawyer.",1.6919263456090652,0.0148666185796349,2824,1450,794,580,wit-surprise,neutral
+I prefer the term “cave person”.,1.7026632615833637,0.0141731834485453,2741,1283,990,468,wit-surprise,neutral
+I'm an anesthesiologist.,1.7802919708029197,0.0157333307904471,2740,1296,750,694,wit-surprise,neutral
+"It’s okay, I have an open carry permit.",1.7051615298923135,0.0146969110448033,2693,1297,893,503,sarcasm,positive
+"I peg you as more of a gatherer, am I right?",1.7876506024096386,0.0151580277783203,2656,1152,916,588,wit-surprise,neutral
+I'm actually the new Chief Technology Officer at Twitter.,1.7725727238383076,0.0162042694741283,2647,1289,671,687,irony,neutral
+"Had I invested in the wheel, I’d really be going places.”",1.7090069284064666,0.0149699956484806,2598,1244,866,488,wit-surprise,positive
+I'm out clubbing.,1.7163947163947164,0.0153424407898784,2574,1248,808,518,sarcasm,neutral
+"I think the more important question is, why are YOU in the club car?",1.7212923316465552,0.0153795884534707,2569,1238,809,522,sarcasm,neutral
+Those drawings on the wall at the last station? Those were mine.,1.70986920332937,0.0152491120236992,2523,1212,831,480,incongruity-absurdity,positive
+And that's when it dawned on me: Paleo was more than just a diet.,1.6562753036437248,0.0151902686778689,2470,1274,771,425,exaggeration,neutral
+I still say rock beats paper.,1.7148777455449649,0.0159670844689913,2413,1184,733,496,irony,neutral
+"Oh, dear sir, you misunderstand. I do not come to you from your past, but from your future.",1.6365180467091296,0.016288717912481,2355,1319,573,463,wit-surprise,neutral
+No. Actually I'm an actor. Just did a TV spot for the Republicans' progressive agenda.,1.71895713654441,0.0173181672252656,2263,1175,549,539,sarcasm,neutral
+"No big plans. Meeting friends, going clubbing.",1.7753108348134992,0.0165251081789777,2252,1002,754,496,sarcasm,neutral
+This usually gets me the whole bench for myself.,1.7314399601395116,0.0168585639292324,2007,914,718,375,unknown,neutral
+I’m the patent holder of ‘the wheel.’ What do you do?,1.7472194135490395,0.0174122299876133,1978,906,666,406,wit-surprise,neutral
+"Seriously, I haven’t been mugged once since the wardrobe change.",1.7405708460754332,0.0174304971207708,1962,905,661,396,sarcasm,neutral
+"Natural  History Museum? No, I'm the new Senator from Ohio.",1.7667009249743062,0.0187036452252054,1946,942,516,488,sarcasm,neutral
+So you take everything they’ve got but don’t get to hit them?,1.7483870967741937,0.0185221356274589,1860,886,556,418,sarcasm,negative
+"And how should I explain the 30,000 year gap in my résumé?",1.603569497025419,0.0176993348858721,1849,1047,488,314,self-deprecating,neutral
+Dress for the job you want.,1.7260348583877996,0.0175120459195857,1836,837,665,334,unknown,neutral
+I’m from the future. Vote carefully.,1.8176795580110496,0.01922225646806,1810,800,540,470,unknown,neutral

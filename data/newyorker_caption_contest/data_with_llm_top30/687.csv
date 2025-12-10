@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You think this is awkward? Try living a few floors down.,2.1011245110821384,0.0076163403680422,12272,3825,3387,5060,incongruity-absurdity,negative
+I love a parade.,1.8086353504499295,0.0077453759533175,12113,5789,2856,3468,incongruity-absurdity,positive
+I etched the glass. IT’S YOU  !!,1.7605177993527508,0.0083717097810073,10815,5711,1986,3118,incongruity-absurdity,neutral
+"It's a perfect likeness, George. Right down to the hot air.",1.8375661375661376,0.0082256354163595,9450,3918,3151,2381,wit-surprise,positive
+"You think this is awkward?
+Imagine the view from the 5th floor.",1.7957693546655211,0.0081168376025327,9313,4022,3179,2112,incongruity-absurdity,neutral
+"Well after 40 years at Macy’s, I think it’s a lovely retirement gift, Fred.",1.8747293200519703,0.0083549962225957,9236,3638,3121,2477,sarcasm,positive
+"Oh honey look, it’s your inflated ego",1.872552509789961,0.0089660132435378,8427,3467,2570,2390,self-deprecating,negative
+How nice. It looks like your ego will be joining us.,1.7358279462953754,0.0087262992385183,8044,3819,2536,1689,sarcasm,positive
+"The resemblance seems uncanny, but I would have to go down three floors to be sure.",1.8430804134106376,0.0088580605535858,7934,3212,2764,1958,wit-surprise,neutral
+"And when it deflates, it'll sound like you too",1.7529931584948688,0.0094936685222602,7016,3316,2124,1576,sarcasm,neutral
+Remember those cells I swabbed from your mouth?,1.7526680126910874,0.009353477663504,6934,3195,2268,1471,irony,neutral
+"Herb, tell me the truth, how much do you really spend at Macy's each month?",1.7412036146894827,0.0108138703572104,5201,2436,1678,1087,sarcasm,neutral
+NOW do you see? Nose hairs can never pass as a mustache.,1.707342511472674,0.0112447641819564,4794,2372,1458,964,unknown,negative
+Who knew the Macy's Parade had a salute to Actuarial Accountants?,1.710649864096862,0.0120007421597069,4047,1934,1350,763,irony,neutral
+Fred we said no anniversary gifts this year...but the suspense is killing me. Can I turn around yet?,1.7190644547185203,0.0127775117735288,3677,1765,1180,732,irony,negative
+I see you’ve made an even bigger fool of yourself.,1.7192350332594235,0.013226215905818,3608,1787,1047,774,sarcasm,negative
+"Don't take it personally, but he's 10 times the man you are.",1.6682539682539683,0.0133631107433795,3150,1589,1020,541,sarcasm,neutral
+Why does it always have to be about you?,1.6404131697869593,0.0132184381242384,3098,1603,1009,486,sarcasm,negative
+I have two concerns: I don't see any guide ropes and it's not Thanksgiving.,1.6304891110317743,0.0138275681515258,2801,1461,915,425,incongruity-absurdity,negative
+Happy Thanksgiving. I had you made into a parade balloon.,1.575153929735603,0.0147755604651527,2761,1675,587,499,sarcasm,positive
+When does your twin brother get back from Chernobyl?,1.6467289719626168,0.0148489289056882,2675,1428,764,483,unknown,neutral
+I’m pretty sure you were given the placebo.,1.6505042668735457,0.0149865246256383,2578,1354,771,453,sarcasm,neutral
+"I hope you don't mind, but I invited your inflated sense of self-importance.",1.5727087576374743,0.0147164887005299,2455,1406,694,355,self-deprecating,negative
+So what are the people on the 3rd floor looking at?,1.6670870113493064,0.015043826247041,2379,1168,835,376,irony,neutral
+I'd hate to be on the third floor.,1.5629664179104477,0.015342272502033,2144,1214,653,277,incongruity-absurdity,negative
+You should see your face right now!,1.5720461095100864,0.0156096237630081,2082,1174,629,279,sarcasm,neutral
+"What do you mean you have an identical twin brother, but not exactly?",1.6661220043572984,0.016988424046434,1836,895,659,282,wit-surprise,neutral
+"I'm getting hints of oak, cherry, hazelnut, and LSD",1.6759809750297263,0.018753650089334,1682,863,503,316,wit-surprise,neutral
+"When you said you were the new head of Macy's, this wasn't exactly what I had in mind.",1.5595382746051032,0.0176412630402449,1646,946,480,220,sarcasm,neutral
+"Look, honey, it's the annual Macy's Accountant's Day Parade!",1.546468401486989,0.0174860470017849,1614,930,486,198,irony,positive

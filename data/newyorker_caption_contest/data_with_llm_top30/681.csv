@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Mobster, Larry. The invitation said to dress like a mobster.",2.2153122217982957,0.0058247232627644,15726,2974,6434,6317,unknown,neutral
+Do that again and I'll put the rubber bands back on.,2.1168481742472776,0.0060484504909377,15610,3743,6335,5530,sarcasm,neutral
+You pinch me one more time and your going to find yourself in hot water.,2.157054125998225,0.0064007573351742,14651,3512,5360,5779,sarcasm,negative
+I can’t believe you wore shorts. EVERYONE was staring.,2.091854289774852,0.0067807748798002,13369,3621,4927,4821,sarcasm,negative
+You need to stop introducing yourself as my Maine squeeze.,1.9965945988754257,0.0068879276000477,12627,3881,4938,3806,sarcasm,negative
+It's not the claws. It's the screaming every time you get in the hot tub.,1.9810306928274852,0.0070989436898546,12283,3975,4588,3720,sarcasm,negative
+"When you said on the phone "" I'm Claude""  , I assumed it was your name.",2.0041799852471107,0.0072831638131172,12201,3994,4189,4017,sarcasm,neutral
+I thought you said your relatives were mobsters,1.8409132756398456,0.0072172974675572,10862,4119,4370,2373,sarcasm,negative
+"I figured ""must love shellfish""  was coded language for ""not Jewish.""",1.9256543530722108,0.0076335630783675,10774,3872,3855,3047,irony,neutral
+She comes to a party with a wooden mallet and a pick.  Don't tell me she didn't have her eyes on you the whole night!,1.952281961636587,0.0075489544016578,10583,3513,4085,2985,sarcasm,negative
+I thought you said selfish.,1.8554713723985805,0.0074199438391654,10427,3920,4119,2387,wit-surprise,negative
+"Oh, I’M crabby?",1.939102228732866,0.0079613425796602,9557,3278,3613,2666,self-deprecating,negative
+Let’s just skip the foreplay.,1.837409612930668,0.0081665897372585,9404,3895,3166,2343,sarcasm,neutral
+Yeah. Like you’re such a great catch.,1.8224985198342216,0.0080950675878772,8445,3264,3434,1747,self-deprecating,positive
+The worst part is - my last boyfriend's hands were clammy!,1.799975710468788,0.0085757573532412,8234,3521,2855,1858,self-deprecating,negative
+You deserve butter.,1.8335039672382905,0.0089078700717257,7814,3216,2697,1901,incongruity-absurdity,positive
+I just think having all of your profile pictures be headshots was misleading.,1.7701519443729077,0.0082864511200436,7766,3223,3127,1416,sarcasm,negative
+How did you even manage to swipe right?,1.7930531618719343,0.0088958060251924,7543,3243,2638,1662,sarcasm,negative
+"How would you like always being introduced as ""the turf""?",1.8146421716479295,0.009353963892531,7294,3156,2345,1793,unknown,neutral
+Why would you think that’s what I meant by “grow a pair”?,1.7803628306328765,0.0092829131060829,7221,3255,2312,1653,sarcasm,negative
+It's just that I could use a hand every once and a while.,1.7818103571940898,0.0089834237694101,6971,2942,2630,1399,self-deprecating,neutral
+Don't make me put the rubber bands back on.,1.6987341772151898,0.0090217770651442,6715,3171,2404,1140,sarcasm,negative
+"With you, it's always one step forward, two steps sideways.",1.7785356980445657,0.0094372830278224,6597,2874,2326,1396,sarcasm,neutral
+Your fly's unzipped.,1.7270346117867166,0.0107253074169803,5345,2599,1617,1129,sarcasm,neutral
+"So, now that you've taken the gloves off, is there anything else I should know?",1.6817724068479356,0.0101621471389114,4965,2353,1853,758,sarcasm,neutral
+"When you said you were transitioning, I had something else in mind.",1.6897341888175983,0.0109162307891863,4364,2054,1623,687,sarcasm,neutral
+"If you pinch me one more time,  I'm putting the rubber bands back on.",1.769644527595884,0.0116760464102816,4276,1872,1525,879,self-deprecating,negative
+...but no....you had to go and snap my mother's head off.,1.6267896141713176,0.0115475148314853,4121,2222,1227,671,sarcasm,negative
+"Usually, 'a long line of lobstermen' refers to one's profession.""",1.7341218822319362,0.0121607893501504,3889,1780,1365,743,wit-surprise,neutral
+"Sorry, I prefer men with big mussels """,1.6851511169513798,0.0122747154630669,3805,1878,1247,680,sarcasm,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Yes, it's a home game. Of course it's a home game. Everything's a fricking home game.",2.317636872252564,0.0058212100924792,15014,2262,5749,7003,sarcasm,neutral
+Well the catcher is wearing a mask but everyone else is just staying six feet apart,2.082110794832494,0.0063767671100104,13701,3345,5904,4452,sarcasm,neutral
+I hope to God they find a cure before football season.,2.075056799740344,0.0070159770324813,12324,3355,4707,4262,exaggeration,neutral
+"The bases are loaded and, frankly, so am I",2.056835128417564,0.0072130176172232,12070,3506,4388,4176,unknown,negative
+They’re all high and inside.,2.046165749656121,0.0075950164861401,11632,3701,3715,4216,unknown,neutral
+"Look, it got them to put on pants",2.0386516060713027,0.0071987368699144,11332,3154,4601,3577,sarcasm,neutral
+I’m safe at home. How are you?,1.914712357614626,0.007411188795011,10447,3518,4317,2612,sarcasm,positive
+"The last time I got to third base on this sofa, the Pirates were in the World Series.",1.9119687224114013,0.0089226050024952,7929,2902,2831,2196,unknown,neutral
+We're just having game night. What about you?,1.950531426322005,0.0086153478920384,7621,2383,3244,1994,sarcasm,neutral
+I have to hang up.  I'm on deck.,1.843435754189944,0.009051397962123,7160,2771,2749,1640,incongruity-absurdity,neutral
+It’s like “Field of Dreams” without the field or the dreams.”,1.9857163060387495,0.0092889721880243,7071,2223,2732,2116,wit-surprise,neutral
+I'm praying for a no-hitter.,1.9446499715424015,0.0090641428928364,7028,2279,2877,1872,irony,neutral
+Depends on what you mean by safe at home.,1.869906868451688,0.0090259396431144,6872,2471,2841,1560,sarcasm,neutral
+Turns out they also come if you don't build it.,1.8997218562435951,0.0096139634263569,6831,2558,2410,1863,irony,neutral
+"When they said MLB would be back in our living rooms, I had no idea.",2.033014639976098,0.0093248036554031,6694,1841,2791,2062,irony,neutral
+"I'd like to order four hot dogs, 2 boxes of Cracker Jack and 2 sheets of drywall.",1.9433317807793824,0.0097253909157032,6441,2172,2469,1800,unknown,neutral
+I'd wish I had been quarantined with a chef,1.8490125952417975,0.009664589002505,6431,2520,2374,1537,sarcasm,negative
+"3rd month, nobody out.",2.1240714398609137,0.009758664142328,6327,1562,2418,2347,unknown,neutral
+"Yes, he surprised me with a diamond, all right.",1.983225193859788,0.0097075181989463,6319,1935,2555,1829,incongruity-absurdity,positive
+"Yes, he’s working from home too. Why do you ask?",1.7874135312974524,0.0096505340706108,5927,2437,2328,1162,sarcasm,neutral
+"No, it really does feel like I'm at the ballpark, ignoring the game, and talking to you on my phone.",1.889691963517467,0.0097192706321916,5811,1998,2475,1338,sarcasm,neutral
+"No mother, he has not gotten to first base.",1.9644886363636365,0.0104495056693813,5632,1835,2162,1635,unknown,neutral
+It’s just like being at the ballpark. We even booed the President during the national anthem!,1.89211322770162,0.0106361493889718,5617,2155,1927,1535,irony,negative
+The bases are empty. We're loaded.,1.8578352180936992,0.0105142561391692,5571,2195,1984,1392,incongruity-absurdity,neutral
+"No, I think the real problem will be hockey season.",1.823982175410168,0.0106500847266292,4937,1918,1980,1039,sarcasm,negative
+Still no score. Top of the 189th.,1.8100956645634032,0.0112251652253281,4913,2118,1627,1168,irony,neutral
+I’ll have to call you back. It’s the bottom of the 9th and the cat is on deck,1.7519816437213185,0.0110745463823247,4794,2156,1673,965,incongruity-absurdity,neutral
+I'm not so sure about being safe at home.,1.9480050933786075,0.0109636454205894,4712,1463,2031,1218,sarcasm,negative
+"Seriously, you wouldn’t believe my seats.",1.7921139101861994,0.0108831443249348,4565,1857,1820,888,incongruity-absurdity,negative
+Okay. Tell grandma to start getting loose in the bullpen.,1.8462901439645625,0.0116103521616145,4515,1774,1661,1080,sarcasm,neutral

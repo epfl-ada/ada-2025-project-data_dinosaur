@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I've been coming to this place since it was a hole in the wall.,2.255915964446497,0.00589724620559,17326,3587,5720,8012,incongruity-absurdity,negative
+"Just coffee, I have to get back to the lab.",2.1033970550245416,0.006346252914545,15484,4106,5662,5708,sarcasm,neutral
+I just want to make sure 'mousse' isn't a typo.,2.3544090845366608,0.0060383475438659,14266,2078,5048,7126,irony,neutral
+"I know I don't look familiar, but believe me, I eat here all the time.",2.179974471706141,0.006595510032421,14102,3302,4964,5823,incongruity-absurdity,positive
+I was considering ordering the cheese board but that seems like a trap.,2.2692554263210916,0.0071276096095627,10919,1964,4048,4896,sarcasm,negative
+"The last time I was here, I swear they tried to poison me.",1.9831439393939392,0.0077960636579125,10560,3478,3769,3300,irony,negative
+I remember when this place was just a hole in the wall.,1.9500304074599637,0.007944173295781,9866,3337,3679,2838,incongruity-absurdity,negative
+I trust that the 'chocolate mouse' is a typo.,1.8872349102773247,0.0080144835297242,9808,3701,3498,2597,wit-surprise,neutral
+"I usually eat out back, but it's my birthday.",1.935703313583498,0.0082495119411223,9114,3135,3421,2547,incongruity-absurdity,neutral
+There'll be several hundred of us.,2.0908363802559413,0.0084176102763915,8752,2364,3226,3150,irony,neutral
+I don't understand - everywhere I go gets horrible reviews.,1.9192639447958597,0.0084638426962733,8695,3088,3204,2390,sarcasm,negative
+Remember when I was the worst thing to temporarily shut down a restaurant?,1.9587832346453036,0.0086860815010215,8613,2980,2996,2623,self-deprecating,negative
+Could you suggest something light? I have a maze to run this afternoon.,1.94873006497342,0.0082026833085104,8465,2647,3599,2207,unknown,neutral
+I’ll have a wedge of Swiss on a flat wooden board. No springs attached.,1.9243198289176664,0.0088950462925595,8417,3142,2764,2508,incongruity-absurdity,neutral
+"Get used to it, we're the only ones not afraid to go out anymore.",1.9209080047789728,0.0088300277015463,8370,3084,2853,2426,exaggeration,neutral
+No cheese plate? What kind of Mickey Mouse operation is this?,1.8559645451187985,0.0089362001538216,8123,3300,2678,2134,sarcasm,negative
+I'd like one of the cheeses in the refrigerator with the door that's so hard to open.,1.9222295081967211,0.0090620087386887,7625,2719,2770,2123,incongruity-absurdity,negative
+"Oh, chocolate 'mousse'...that's a relief.",1.9216576781152428,0.0090757751539001,7046,2347,2892,1791,sarcasm,positive
+Do you have cat? I've always wanted to taste cat.,1.8866495140080048,0.0099224686122079,6996,2846,2080,2057,irony,positive
+"Just me tonight, she got trapped at work.”",1.8778513612950696,0.0095661271775889,6795,2581,2460,1749,sarcasm,neutral
+I’ve been coming here since it was just a hole-in-the-wall.,1.840926290298169,0.0096528529852421,6607,2644,2367,1592,incongruity-absurdity,neutral
+I'll have whatever's on the floor.,1.817938209331652,0.0101170086036685,6344,2737,2013,1587,incongruity-absurdity,neutral
+"It's not on the menu but I wonder if I could have some of that delicious Swiss cheese in your pantry ... high up on the shelf, left hand corner ...",1.8151636073423785,0.0098194423581724,6265,2581,2258,1423,wit-surprise,positive
+"...fair enough, I'll have the ham and Swiss on Rye-hold the ham, hold the Rye.",1.8191881918819188,0.0100293301969363,6233,2621,2112,1495,sarcasm,neutral
+I’ve been eating here for years and I never knew you had table service!,1.8462165688193088,0.0098248445878587,6132,2365,2345,1419,sarcasm,neutral
+I loved your bad review in the Times.,1.7582741292670248,0.0106400893299662,5771,2750,1660,1357,sarcasm,negative
+Just please don't serve it on a slab of wood with a spring attached,1.7425925925925927,0.0108120794508773,5400,2573,1634,1187,incongruity-absurdity,negative
+Did you wash your hands?,1.8604826546003017,0.0111435001903079,5304,2168,1702,1426,incongruity-absurdity,neutral
+"I've already nibbled on everything, so I know exactly what I want.",1.77040718791818,0.0106263461336007,5231,2282,1865,1082,incongruity-absurdity,positive
+Here's the deal: you comp my meal and nobody at the Board of Health has to know I was ever here.,1.8326127239036445,0.01123842890402,4857,1964,1742,1150,sarcasm,neutral

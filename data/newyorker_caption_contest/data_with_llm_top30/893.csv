@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+The current owner is very motivated to sell before his parents get home.,1.7301570113697888,0.0083048646464485,9235,4523,2681,2031,incongruity-absurdity,neutral
+The other prospective buyer fell through.,1.7497952497952498,0.0093370617106903,7326,3485,2189,1652,exaggeration,neutral
+The owner moved back in with his parents.,1.7355244970050685,0.009607643836977,6511,3045,2143,1323,unknown,neutral
+"In your price range, it's either this or the bouncy house.",1.6797043424699722,0.0095477425963463,6494,3295,1984,1215,sarcasm,neutral
+The seller isn't willing to come down.,1.793467336683417,0.0102724941831346,5970,2624,1955,1391,unknown,neutral
+I've found you a high rise in your price range.,1.6619337390128466,0.0098452779317642,5916,3034,1848,1034,sarcasm,neutral
+This is a good example of the architect’s early work.,1.68566493955095,0.0101980477305414,5790,2939,1732,1119,incongruity-absurdity,positive
+I can probably get them to throw in a tire swing.,1.691055487484684,0.0095331920972103,5713,2638,2202,873,unknown,neutral
+"According to the Trump organization, it's 30,000 square feet.",1.7775229357798166,0.0113151190421252,5668,2827,1275,1566,irony,neutral
+"And the owner is willing to negotiate, since you are his parents.",1.669449378330373,0.0103667502671326,5630,2941,1609,1080,sarcasm,neutral
+The seller is very motivated since he starts 5th grade next week.,1.671900089206066,0.0099690423768714,5605,2782,1880,943,exaggeration,positive
+Tree bedroom no bath.,1.6548387096774193,0.01029461988532,5580,2945,1616,1019,incongruity-absurdity,neutral
+"Finally, a place we can afford and the grandkids will want to visit.",1.6847727684229583,0.0102275711723852,5523,2740,1784,999,exaggeration,positive
+It's really a starter home. You can eventually branch out.,1.6531278331822303,0.009987599139274,5515,2805,1818,892,unknown,neutral
+"I’d love to give you a tour, but unfortunately no girls are allowed.",1.6844792996534743,0.010500437365431,5483,2795,1623,1065,sarcasm,negative
+"I should let you know, there’s a family of squirrels who have already made a very competitive offer",1.6874541452677916,0.0104854383417327,5452,2752,1652,1048,unknown,neutral
+The previous occupant is grounded.,1.6501965188096577,0.010189132758078,5343,2743,1726,874,incongruity-absurdity,neutral
+You did ask for a house on Elm...,1.7039423805913572,0.0106717520492641,5276,2597,1644,1035,irony,neutral
+It includes the password to the neighbor's WIFI.,1.68395865237366,0.0105436274737655,5224,2603,1669,952,unknown,neutral
+Just imagine the view ten to twenty years from now.,1.6532567049808429,0.0102502829709484,5220,2650,1730,840,incongruity-absurdity,neutral
+"The seller will accept cash, candy, or comic books.",1.7038815526210485,0.0107826724904986,4998,2411,1656,931,incongruity-absurdity,neutral
+It's ideal for empty nesters.,1.661473087818697,0.0104109175176686,4942,2443,1729,770,incongruity-absurdity,neutral
+You're in luck.  The owner is highly motivated.  He wants to buy a bicycle.,1.6291444944740074,0.0106476966356367,4886,2595,1508,783,wit-surprise,positive
+The ‘No Girls Allowed’ clause is negotiable.,1.6504434841937683,0.0111283468926557,4397,2234,1466,697,sarcasm,neutral
+When the neighbors fly South you’ll have the whole place to yourself.,1.6476564303855925,0.0113370391569175,4331,2237,1383,711,incongruity-absurdity,neutral
+The previous couple had a falling out.,1.6915173237753882,0.0120031004514018,4185,2106,1264,815,unknown,neutral
+Let’s try to talk him down.,1.666268228544107,0.0114317484016538,4183,2074,1431,678,irony,neutral
+We like it but the seller isn’t willing to come down.,1.67570385818561,0.0124290285697941,3836,1960,1160,716,irony,neutral
+"Open concept, wooden accents, great views. And it grows on you.",1.703428115865001,0.0127326053767037,3763,1871,1137,755,irony,positive
+"The seller is motivated, mostly by puberty.",1.5852852025351336,0.0127516512158852,3629,2135,864,630,incongruity-absurdity,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3,"Well, where do you think these little balls come from?",1.6828571428571428,0.0226317643726173,1400,794,256,350,incongruity-absurdity,negative
+12,"He has a bigger house, a bigger car, and now a bigger ball - need I go on?",1.6344086021505375,0.0270399408686425,930,548,174,208,exaggeration,neutral
+17,"They've appeared out of nowhere , in pools all over the world.",1.6083231334149326,0.0276222555220815,817,477,183,157,incongruity-absurdity,neutral
+13,"The car, the house--it's always a competition with him.",1.6313823163138232,0.0276087514303601,803,448,203,152,self-deprecating,neutral
+23,"THEIR BEACHBALL IS OUT OF ORDER. Ours goes pink, yellow, green, blue.",1.584518167456556,0.0325449291129225,633,398,100,135,irony,negative
+24,Are we in The New Yorker or one of those annoying adult coloring books?,1.5790378006872852,0.0305633311118589,582,332,163,87,sarcasm,negative
+8,"No chance of us getting them mixed up, I initialed mine.",1.6649305555555556,0.031389500095584,576,292,185,99,sarcasm,neutral
+0,"""I'll catch it"", was the last I heard.",1.7956600361663653,0.0349049146664695,553,254,158,141,sarcasm,neutral
+7,"This ""mine is bigger than yours"" thing between you and your brother has got to stop, Harry.",1.6696914700544463,0.033291810622316,551,289,155,107,sarcasm,negative
+27,I guess my 'fat fingered vulgarian' joke really pissed him off.,1.5674157303370786,0.0366865233769968,534,357,51,126,sarcasm,negative
+28,"If my neighbor asks for his ball back, just fucking give it to him.",1.5665399239543727,0.0364637829819144,526,347,60,119,sarcasm,negative
+30,Last one on is a rotten egg.,1.5659655831739965,0.0353147389352538,523,333,84,106,incongruity-absurdity,negative
+5,It was only a dollar more..,1.6764091858037578,0.0346466277541695,479,240,154,85,irony,neutral
+31,"But don't you see! The proper order is red, yellow, green!",1.5557894736842106,0.0348386451623198,475,289,108,78,irony,neutral
+32,I only came here to drink anyways.,1.55119825708061,0.0350016914334894,459,278,109,72,sarcasm,neutral
+18,Thats the last time I send you to Costco,1.608294930875576,0.0358417279802769,434,239,126,69,sarcasm,neutral
+9,Costco. Why?,1.664351851851852,0.036667122096831,432,222,133,77,sarcasm,neutral
+34,"He had to have a bigger car than me, a bigger house than me. I tell you Helene, it never ends!",1.5377128953771289,0.0383758333849154,411,263,75,73,exaggeration,neutral
+21,That's inflation for you.,1.59846547314578,0.0378065284170536,391,219,110,62,unknown,neutral
+40,I guess that's the hole-ball of wax.,1.5231607629427792,0.0434471122746709,367,256,30,81,incongruity-absurdity,neutral
+1,Yours is perfectly adequate.,1.7908309455587392,0.041753178215153,349,150,122,77,sarcasm,positive
+26,"All I heard was, ""It's gonna be the biggest beach ball. The best. The greatest. Amazing. Yuge! Believ---OOF.""",1.5736196319018405,0.0404940150594303,326,186,93,47,exaggeration,positive
+16,It's right there on the label: May expand when wet.,1.6125,0.0410422120035482,320,172,100,48,incongruity-absurdity,neutral
+38,"Yes, but did you see how small his hands are?",1.5269841269841269,0.0412768400464516,315,194,76,45,sarcasm,neutral
+2,It looked a lot smaller online.,1.7292993630573248,0.0430315809133374,314,145,109,60,incongruity-absurdity,neutral
+43,"Bring a beach ball, you said. You'll make a good impression, you said.",1.504950495049505,0.0387979976033519,303,181,91,31,sarcasm,positive
+37,"In Mar-a-Lago, size matters.",1.5298013245033113,0.0418531516185532,302,184,76,42,unknown,neutral
+25,Wait until you see the size of the seal.,1.5757575757575757,0.0416558072861495,297,166,91,40,unknown,neutral
+44,Margaret was right....that bathing suit makes her butt look huge,1.5018050541516246,0.0450630016247354,277,181,53,43,sarcasm,negative
+45,"If it stays up for more than four hours, we're supposed to call a physician.",1.4872727272727273,0.0419665007722399,275,173,70,32,sarcasm,negative

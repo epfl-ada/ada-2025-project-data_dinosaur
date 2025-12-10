@@ -1,0 +1,33 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Yes, but I am an icon and you Sir are merely a metaphor.",1.6580310880829014,0.0106730532130566,5404,2903,1446,1055,sarcasm,neutral
+Sorry! A nut is now the official symbol of the Republican Party.,1.659695431472081,0.0118748644432212,4925,2833,935,1157,sarcasm,negative
+You represent an organization that's gone mad and I represent a snack company. I'd say we're both nuts.,1.596559633027523,0.0117038693924781,4360,2536,1047,777,sarcasm,negative
+The cane is made of ivory.  Why do you ask?,1.7028746465598492,0.0123540636661358,4244,2192,1121,931,wit-surprise,neutral
+"Before you do anything rash, let me warn you that I may contain nuts.",1.5903547671840357,0.0122863980898619,3608,2024,1038,546,self-deprecating,neutral
+"Unsalted, why do you ask?",1.6377597109304427,0.0132552079453539,3321,1788,948,585,sarcasm,neutral
+Don't you Republicans already have enough nuts?,1.6845553822152886,0.0144497648095914,3205,1737,742,726,sarcasm,negative
+Yes well now you must address the PEANUT in the room,1.629506008010681,0.0139283314234054,2996,1631,844,521,sarcasm,neutral
+'Please tell me you have a peanut allergy.',1.6230951574669827,0.0138057789197041,2953,1612,848,493,sarcasm,negative
+"My name is Mr. Peanut.
+You ate my father.
+Prepare to die.",1.6655172413793105,0.0148243341690384,2900,1571,728,601,sarcasm,negative
+I contain peanuts.,1.5357512953367876,0.0146577970988627,2895,1884,471,540,incongruity-absurdity,neutral
+It seems we both represent nuts.,1.6632088520055326,0.0148991588403114,2892,1579,708,605,sarcasm,negative
+And that’s basically the job.  I assume you’re willing to work for peanuts?,1.6013162452372705,0.0137886515763948,2887,1597,844,446,sarcasm,neutral
+It was at this moment Mr.Peanut knew he was going to end up in the trunk,1.656547829156371,0.0146197346324268,2833,1511,784,538,unknown,neutral
+Seriously?  I thought you were a metaphor!,1.599216245101532,0.0139833747753548,2807,1558,816,433,sarcasm,negative
+There’s no way I’m getting in the trunk.,1.5920629245620308,0.0141306541799432,2797,1584,770,443,incongruity-absurdity,negative
+Two cliches in a room. Does that make us a touché?,1.582995951417004,0.014699658528798,2717,1600,650,467,wit-surprise,neutral
+"Charlie, Snoopy, Lucy… they’re the peanuts you want.",1.5919003115264798,0.014564364009003,2568,1437,742,389,incongruity-absurdity,positive
+I was hoping you might forget.,1.6269065310911224,0.014833514070094,2557,1374,763,420,sarcasm,negative
+"Sorry, wrong office. I’m looking for the 800-pound gorilla.",1.6345924453280318,0.0154497122048331,2515,1382,670,463,sarcasm,neutral
+"Oh, good.  My last roommate didn't have a vacuum.",1.5282030620467364,0.015724181842989,2482,1623,407,452,incongruity-absurdity,positive
+The GOP.  Just a dark shadow of its former self.,1.5871784401796651,0.0152903610261599,2449,1415,630,404,irony,negative
+"What a coincidence, I have an elephant allergy.",1.6463515754560532,0.0155675513780716,2412,1282,701,429,unknown,neutral
+I'll make you a deal: You don't eat me and I won't tell anyone you don't like Trump.,1.5848195769390294,0.0155079333623133,2411,1407,598,406,sarcasm,negative
+"Yes, I'm free for lunch.",1.6079734219269104,0.0152272521263498,2408,1329,694,385,sarcasm,positive
+The cane? I have Planter's facetious.,1.642290012536565,0.016165340761886,2393,1329,591,473,wit-surprise,neutral
+"Back off, or I release the mouse.",1.6221922731356693,0.0159325614060834,2226,1208,651,367,incongruity-absurdity,neutral
+I think I just salted myself,1.6383948928408574,0.0167845373335689,2193,1217,552,424,self-deprecating,neutral
+I’m a TRADEMARK. YOU’RE only a SYMBOL!,1.563013698630137,0.0153313102727027,2190,1251,645,294,wit-surprise,negative
+I don't suppose you're allergic to peanuts . . .?,1.5599810336652442,0.0155836934032413,2109,1208,621,280,sarcasm,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Tall salted caramel macchiato with low-fat organic almond milk, no sugar… It’s him alright.",2.197254147381559,0.0053328014199407,19229,3767,7931,7531,sarcasm,positive
+Smells like decaf. They can’t have gone far.,2.1478494623655915,0.0057358942461489,16740,3594,7102,6044,sarcasm,negative
+I knew I heard espresso shots.,2.125902554456647,0.0059926025611609,16481,3992,6438,6051,incongruity-absurdity,neutral
+Unfiltered water and styrofoam cups. These are some bad hombres.,2.0251498486065627,0.0059883179061092,16183,4587,6643,4953,irony,negative
+"Well, that explains the avocado toast we found a mile back.",2.0248043423377933,0.0060859190416607,15844,4489,6491,4864,irony,neutral
+Make that armed and pretentious.,2.017668576161226,0.00662323973882,14489,4489,5261,4739,irony,negative
+We're here Zeke. We finally made it to California.,2.01929012345679,0.0066503073042811,14256,4381,5233,4642,irony,positive
+The milk was steamed. We're dealing with professionals.,1.9860475754803293,0.006581218423414,13116,3831,5644,3641,wit-surprise,neutral
+They took the travel mugs.  They could be anywhere by now.,2.011614491192985,0.0066974618012566,13001,3722,5411,3868,incongruity-absurdity,neutral
+Two things are for sure - they know we’re coming and they’re jittery.,1.949223602484472,0.0066009102368286,12880,3967,5605,3308,irony,neutral
+Remember when roughin’ it meant a French press?,1.923089840470193,0.0069533000789695,11910,3942,4956,3012,incongruity-absurdity,neutral
+Grounds still warm...,1.9999136665803332,0.0071774162778908,11583,3469,4653,3461,incongruity-absurdity,neutral
+Looks like trouble brewing.,1.943664459161148,0.0073074302203818,11325,3770,4431,3124,irony,negative
+"It’s the Barista gang, alright.",1.977886323268206,0.0073589657472693,11260,3571,4376,3313,sarcasm,neutral
+We must be in an Italian Western.,1.8614737971740296,0.0074258965076324,11182,4344,4051,2787,wit-surprise,neutral
+Something tells me we won't catch these fellers sleeping.,1.983725948570401,0.0069730103564395,11122,3112,5089,2921,sarcasm,negative
+"I'll yell ""EX-presso!""  You shoot them when they pop out to correct me.",2.004418394950406,0.0075326325114427,11090,3486,4085,3519,wit-surprise,negative
+"Well, now we know why they took the cow.",1.921299365470215,0.0075457522899042,10559,3631,4134,2794,incongruity-absurdity,negative
+"Yup, this is where the shots came from.",1.8214462360273025,0.0074613978884734,10109,3935,4059,2115,irony,neutral
+City slickers! Pressure settings are all wrong for this altitude.,1.816122584943371,0.0079374559728886,9006,3552,3568,1886,unknown,negative
+See that? I reckon we’ll be in Seattle by nightfall.,1.8116185359301544,0.0078755145878307,8934,3483,3655,1796,incongruity-absurdity,neutral
+"I don't know what it is either, but I have a sudden urge to sit here for several hours and pretend I'm working on a novel.",1.8161531490711371,0.0082599980412567,8828,3626,3204,1998,unknown,neutral
+Looks like they got him right after he spilled the beans.,1.827303201941972,0.0082668254776373,8651,3441,3269,1941,exaggeration,neutral
+Sorry I dragged you all the way out here. It got 5 stars on Yelp...,1.7863602110022607,0.0086617910332014,7962,3412,2840,1710,sarcasm,neutral
+Just what I figured—Americanos. And they can’t be far.,1.735347510373444,0.0082869691915018,7712,3345,3069,1298,irony,neutral
+This is the mark of El Cappucino,1.8014344534466729,0.0089402069931023,7529,3173,2686,1670,irony,neutral
+"When you said they were headed for the Grande, I assumed meant meant Rio.",1.78851635672594,0.0088409508833357,7367,3085,2766,1516,wit-surprise,neutral
+That’s the last of the Pony Espresso.,1.6985723997280762,0.0088043146727871,7355,3556,2474,1325,incongruity-absurdity,neutral
+Crazy how there's one of these every few miles.,1.7506875687568757,0.008834725212153,7272,3209,2676,1387,irony,neutral
+Must have been some kind of a brewhaha.,1.7666997588994469,0.0090598693116487,7051,3083,2549,1419,unknown,neutral

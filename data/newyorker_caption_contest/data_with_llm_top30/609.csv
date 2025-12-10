@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4,Why does everything look like food when I am on a diet?,1.8488542174549,0.0101937583960196,6153,2502,2079,1572,unknown,negative
+0,He really did appoint Chris Christie as Secretary of Transportation.,1.866633614278632,0.0105432014150307,6051,2492,1874,1685,exaggeration,neutral
+9,"Budget cuts, service cuts, now, cold cuts?",1.8110568009438728,0.0100591228525175,5933,2447,2160,1326,irony,negative
+7,I’m just relieved Subway outbid Trojan.,1.83229078613694,0.0108993482809334,5915,2657,1593,1665,sarcasm,positive
+8,"You realize you’ve just wasted your last wish, don’t you?",1.8236295539666325,0.0104389154052047,5874,2489,1932,1453,sarcasm,negative
+12,Next stop is the Mayo Clinic.,1.7956047882794357,0.0105803514660649,5597,2442,1857,1298,irony,neutral
+11,"I don't care, it's on time and we're taking it.",1.8012578616352202,0.0103176324437667,5565,2311,2049,1205,sarcasm,positive
+19,If it touches the third rail it's toasted,1.7702898550724635,0.0103899680345612,5520,2424,1940,1156,incongruity-absurdity,neutral
+17,I'm going to need a moment to digest this.,1.770803516663259,0.0106683300422737,4891,2050,1912,929,irony,negative
+20,They did say it would take a hero to fix the MTA...,1.758416260851154,0.0114998297277063,4723,2183,1498,1042,sarcasm,negative
+27,"Yes, dear, it's a chew chew train.",1.7231662723166272,0.0114050074243757,4649,2227,1482,940,unknown,neutral
+16,Let's wait for the club car.,1.7749349522983522,0.0113227307674034,4612,1999,1652,961,incongruity-absurdity,neutral
+21,"No, dear, that's the 12. We want the six.",1.7443789565597032,0.0113391720729735,4581,2084,1584,913,unknown,neutral
+22,Should we take this one or wait for the BLT?,1.737540009144947,0.0116200370046498,4374,2016,1490,868,irony,neutral
+26,I thought we had a ticket to rye.,1.7312282446544007,0.0121526421684815,4022,1880,1343,799,unknown,neutral
+34,"And at that moment, Natalie used the word 'literally' correctly for the first time.",1.6933997509339975,0.0124438240688297,4015,2052,1142,821,sarcasm,neutral
+30,We must have read the map wrong. Looks like we're on the digestive track.,1.710007678525723,0.01234690145002,3907,1894,1252,761,incongruity-absurdity,negative
+1,We can take this and transfer to the BLT at 42nd,1.8653353814644136,0.0127695555985377,3906,1542,1348,1016,irony,neutral
+28,It's packed. Let's hail a taco.,1.714659001829109,0.0125070439776778,3827,1847,1225,755,sarcasm,neutral
+3,"Next stop, New Deli.",1.8537289915966384,0.0127360595496408,3808,1495,1375,938,incongruity-absurdity,neutral
+25,The regular train broke down so they had to bring in a sub.,1.7340705634544498,0.0125280638504619,3798,1771,1266,761,unknown,negative
+43,Let’s catch the next one. This one’s got everything on it.,1.668503720033067,0.0122577023257209,3629,1790,1252,587,incongruity-absurdity,neutral
+35,Looks like the president has moved on to infrastructure.,1.6933778519755147,0.01321787857943,3594,1848,1000,746,irony,neutral
+14,What's next? The gravy train?,1.7943422913719944,0.0132748635508292,3535,1539,1184,812,unknown,neutral
+39,It's either this or hail a cabbage.,1.6723356009070294,0.0130009572044719,3528,1819,1046,663,sarcasm,negative
+2,You rarely see heroes in the subway anymore,1.8637011690903904,0.0132935492935541,3507,1358,1269,880,sarcasm,negative
+13,It's on time but it's not what I ordered,1.7947941888619854,0.0127816107805736,3304,1300,1382,622,unknown,negative
+5,Let’s wait for the next train. Something’s not kosher with this one.,1.8392144829702364,0.0132771852194022,3259,1240,1303,716,sarcasm,negative
+18,It looks packed. Let's wait for the BLT.,1.770698676515851,0.0135523036921822,3249,1427,1140,682,sarcasm,neutral
+45,Not that one. It's loaded with transit fats.,1.64875,0.0134403087692374,3200,1684,956,560,sarcasm,negative

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Did you see the rock he gave her.,2.160225988700565,0.0066036057842166,13275,2949,5250,5076,sarcasm,neutral
+They met at the opera,2.0867748279252702,0.0067209352724871,12204,2880,5385,3939,unknown,neutral
+She's lucky. All the men I date are gatherers.,2.095025246254449,0.0068094231604794,12081,2864,5205,4012,sarcasm,positive
+Now I know why she calls him Hun.,2.0260822314798044,0.0073747054793078,11042,3175,4404,3463,irony,neutral
+I hear that they met on a Viking cruise.,1.962962962962963,0.0076977284154755,10692,3592,3904,3196,incongruity-absurdity,neutral
+It's progress. Her first husband was such a Neanderthal.,1.9628416323474351,0.0074071575457337,10684,3337,4407,2940,sarcasm,negative
+They met clubbing.,1.9204666990763248,0.0077170375671533,10285,3591,3921,2773,unknown,neutral
+"So, is this your first Minnesota wedding?",1.9364323428926389,0.0082692396402838,9659,3516,3241,2902,sarcasm,neutral
+...of course he 'takes' that woman. He's a viking. That's what they do.,1.883016503029037,0.0080212865375035,9574,3574,3546,2454,irony,neutral
+They're registered at Blood Bath and Beyond.,1.880703683342496,0.0085296559544326,9095,3616,2948,2531,unknown,neutral
+“It’s about time they settled down and razed a village.”,1.9288656350885005,0.0083648029927374,8983,3165,3292,2526,wit-surprise,negative
+Who knew there was a black rabbi in Norway?,1.8721020092735705,0.0094461042287508,7764,3249,2259,2256,irony,neutral
+He’s made a fortune in hostile takeovers.,1.847918546204408,0.0088724730725771,7759,3049,2841,1869,wit-surprise,neutral
+Let's hope tonight's the annual bath.,1.7333155008693326,0.0089925318199436,7477,3523,2425,1529,incongruity-absurdity,positive
+Kind of encouraging people can still find love in their middle ages.,1.8548596112311015,0.0091501025506995,6945,2596,2761,1588,irony,positive
+I give it two harvests.,1.7741090909090909,0.0090728633653024,6875,2897,2634,1344,wit-surprise,neutral
+Don’t even think of objecting.,1.8426793670302657,0.0095592820118191,6509,2528,2477,1504,sarcasm,negative
+Tonight we’re gonna party like it’s 999.,1.7776022745221924,0.0097105229591893,6331,2750,2239,1342,exaggeration,positive
+I love that no one wears the pants in their relationship.,1.869190770230744,0.0097420110964842,6154,2252,2455,1447,sarcasm,positive
+"So I said to her, ""Marge, you're never going to meet a real man online.  Why don't you try one of those Viking Cruises?""",1.7259591429995018,0.0096649626706115,6021,2744,2183,1094,sarcasm,neutral
+I’m leaving before she tosses the sword.,1.843054619015509,0.0101251518562756,5932,2342,2179,1411,irony,negative
+They met on Ancestry.com.,1.8404729266620976,0.0103167949692119,5836,2352,2063,1421,irony,neutral
+Doesn't she look ravaging!,1.758111031002163,0.010074313263783,5548,2395,2100,1053,irony,positive
+She did describe him as horny.,1.783709912536443,0.0104625233497393,5488,2370,1935,1183,irony,neutral
+If there is anyone who has a reason to object to this union my advice is to keep your mouth shut.,1.6902998889300258,0.0101518004231779,5402,2599,1877,926,sarcasm,negative
+I shaved my legs for this?,1.7176732123008522,0.010288351743419,5398,2519,1884,995,sarcasm,neutral
+It's a mixed marriage: he's a plunderer and she's a pillager.,1.7720991860685216,0.0102567432579968,5283,2207,2073,1003,wit-surprise,negative
+Her last husband’s funeral boat isn’t even cold yet.,1.710293526336952,0.0107819436008647,4974,2367,1681,926,irony,neutral
+Suddenly these bridesmaids’ dresses don’t seem so bad.,1.7163382594417078,0.010251413059241,4872,2134,1986,752,irony,neutral
+They plan to invade England for their honeymoon.,1.6965185524507558,0.011252123998648,4366,2070,1551,745,unknown,negative

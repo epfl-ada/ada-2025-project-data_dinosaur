@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+How far to the nearest metal ceiling?,1.6609602265413823,0.0087769003390784,7769,4088,2227,1454,unknown,neutral
+"Sir, I am not going to tell you again, your ride is over.",1.766703478741027,0.0095405051083992,7244,3430,2074,1740,sarcasm,negative
+I see your divorce went well.,1.7502321262766944,0.0099276157123231,6462,3066,1944,1452,sarcasm,positive
+Walter soon realized that he was not prepared for life in the fast lane.,1.7674887544594384,0.0098432386141735,6447,2937,2072,1438,wit-surprise,negative
+Go ahead and laugh. I get 89 miles per token.,1.7482769423558897,0.0094674958645028,6384,2832,2327,1225,incongruity-absurdity,neutral
+Does it look like I would know where the nearest gas station is?,1.6729703293120313,0.0095763459088504,6134,3056,2028,1050,sarcasm,neutral
+Told you I had the better divorce lawyer!,1.7350398936170213,0.0103223189529717,6016,2936,1738,1342,sarcasm,positive
+All executives from the amusement park drive company cars.,1.7202820685023503,0.0098740116302364,5956,2795,2032,1129,incongruity-absurdity,neutral
+I wanted a car that would make me feel young again.,1.7084523609477398,0.009820924621642,5951,2828,2030,1093,irony,positive
+The dealer said it scored high in crash tests.,1.7036911039292395,0.0097630173931926,5879,2776,2069,1034,exaggeration,neutral
+"For ten more tickets, you can go on the interstate.",1.7037416709379805,0.0099166090476509,5853,2808,1971,1074,unknown,neutral
+It’s been bumper to bumper traffic all day!,1.6743575314199963,0.010180086126362,5331,2623,1821,887,irony,negative
+I've been in bumper to bumper traffic since I left the house..,1.651064646077115,0.0102746066708473,5213,2661,1710,842,irony,negative
+You take the next exit and hit the first car you see.,1.6933980582524273,0.0106166831098736,5150,2526,1677,947,unknown,neutral
+It was surprisingly affordable for an electric car.,1.6788810086682426,0.0102388074417948,5076,2427,1852,797,irony,positive
+I was hoping to bump into you.,1.663840694006309,0.0103286515747036,5072,2511,1755,806,sarcasm,neutral
+My other car is a teacup.,1.7454581358609795,0.0111733894977201,5064,2409,1535,1120,incongruity-absurdity,neutral
+"I love my Tesla, but this is much better in bumper to bumper traffic.",1.6597834803528468,0.010463884738944,4988,2499,1687,802,irony,positive
+Bump me again and you’re a hood ornament.,1.682511030886482,0.0109540650667873,4986,2534,1501,951,sarcasm,neutral
+It's a loaner. I brought my Tesla in for service.,1.657757234726688,0.0107487628034873,4976,2573,1533,870,irony,neutral
+Do you happen to have AAA? I mean batteries.,1.7191283292978208,0.0109399234379774,4956,2361,1626,969,sarcasm,neutral
+It's a hybrid. It runs on electricity and a nostalgia for a bygone era.,1.6522928060580564,0.0105694363343858,4754,2376,1655,723,irony,neutral
+You take a left at these lights. Go the the next junction. Spin around 10 times. Hit the wall. Then reverse back about 10 feet and it should be on your left.,1.7870568133276377,0.0115400948838593,4682,2064,1551,1067,irony,neutral
+"Sir, for the last time……your time is up!",1.702435813034891,0.0114386222880873,4557,2238,1437,882,sarcasm,negative
+Please let me know if you pass three toddlers traveling in a teacup.,1.7858240070221636,0.0116977277879579,4557,2013,1507,1037,sarcasm,neutral
+Zero to five in 60.,1.6833146696528556,0.0112891625080513,4465,2201,1477,787,exaggeration,neutral
+I manage the amusement park. It's a company car.,1.7033045977011494,0.0115885420885489,4176,1974,1467,735,unknown,neutral
+Some people regretted pre-ordering the new Tesla before seeing it.,1.7218833861917542,0.0121872503150541,4099,1976,1287,836,irony,negative
+"Nice bumping into you, Frank.",1.6557706814181543,0.0114739594276241,3977,1961,1424,592,sarcasm,positive
+"When the job listing for Amusement Park Manager said ""Company Car Included"" I had no idea!",1.6998484082870136,0.0122165182848684,3958,1941,1264,753,unknown,neutral

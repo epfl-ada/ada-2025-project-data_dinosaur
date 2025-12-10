@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Of course we wanted a son. But we also wanted unconditional love.,2.1455813608369816,0.0066238061394682,13477,3146,5223,5108,sarcasm,positive
+Let's think of a better word to call his mommy.,2.0122390749361765,0.0072034761825228,13318,4521,4113,4684,sarcasm,negative
+"He may be my best friend, but you will always be the reason mom and I got married.",2.0011014148945185,0.0075073745529645,11803,3919,3952,3932,sarcasm,positive
+"Once tax season is over, you can go back to being the only child.",1.9255449655562895,0.0077615336191817,10597,3806,3774,3017,sarcasm,neutral
+Of course you're not a rescue...who would say that to you?,1.9431973453054852,0.0078938151800633,10246,3578,3672,2996,sarcasm,negative
+He said you ate his homework.,1.9172074729596853,0.0079827516765324,10170,3751,3510,2909,incongruity-absurdity,neutral
+"Student of the Year is fine, son, but it isn't Best in Show.",1.9253036437246964,0.0080371716556911,9880,3549,3520,2811,sarcasm,neutral
+You said you wanted a baby brother... You said you wanted a puppy... Win-win!,1.939383865248227,0.008238046666277,9024,3053,3465,2506,incongruity-absurdity,positive
+"We’ll miss you Bobby, but the dog is allergic",1.8928161286206455,0.0094205170819827,7837,3190,2297,2350,incongruity-absurdity,negative
+He gets to wear his pants backwards because that's where his tail is.,1.8469521999707643,0.0096912474727649,6841,2801,2286,1754,irony,neutral
+"Okay, who wants to go for a walk?",1.7141810723703486,0.009579707401494,6826,3392,1993,1441,sarcasm,neutral
+Who's a good boy?,1.7366647127784292,0.0094566438033256,6824,3217,2187,1420,unknown,neutral
+"""You don't need a suit -- you're only seven.  He's forty-nine.""",1.9847529687729073,0.0093953977433089,6821,2106,2713,2002,unknown,neutral
+"You're a good boy too, Jack",1.8444940476190477,0.0089595639179125,6720,2416,2933,1371,irony,positive
+But it's Andy's turn today and Andy wants to go to the dog park.,1.884062312762133,0.0092225484287734,6676,2327,2796,1553,sarcasm,positive
+"No, you are the little bastard.  He is a son of a bitch.",1.8335332933413315,0.0102221020398818,6668,2970,1838,1860,sarcasm,negative
+But look how well obedience school worked for him!,1.8524064171122991,0.0094704297253409,6545,2475,2561,1509,irony,positive
+"When you've mastered ""sit"" and ""stay"" you'll be a Good Boy too",2.0726172465960664,0.0097744271561659,5949,1490,2537,1922,unknown,positive
+"I told you if I homeschooled you, Buddy would be teacher's pet.",1.7019574468085106,0.0105446509417049,5875,3055,1516,1304,sarcasm,neutral
+Of course you'll have fun at obedience school.  Look what it did for your brother!,1.7091033538672142,0.0099542486334506,5844,2789,1966,1089,sarcasm,positive
+Because he identifies as a boy and that’s that,1.8542939274164572,0.0107038141017756,5566,2239,1899,1428,irony,neutral
+"We don't love you any less, it's just that he is already housebroken, has graduated from obedience school, doesn't bite strangers, and comes when called.",1.744914491449145,0.0103132165196493,5555,2530,1912,1113,sarcasm,neutral
+Don't be mad. You do kind of look like a fire hydrant.,1.80397204854726,0.0110941440517827,5438,2457,1590,1391,sarcasm,neutral
+"Grandma left all her money to little Winston, so we have to be really, really nice to him.",1.853012048192771,0.0106302546945699,5395,2099,1990,1306,incongruity-absurdity,positive
+It's only until we board the plane.,1.823835274542429,0.0110690695076571,4808,1914,1827,1067,sarcasm,neutral
+Maybe you could use your next wish to change your sister back before Mommy gets home?,1.806953924914676,0.0117590860882517,4688,2059,1475,1154,sarcasm,neutral
+"He's the chick magnet. You want a new mom, don't you?",1.7459981167608287,0.0118955968242027,4248,1953,1421,874,sarcasm,neutral
+"The joke’s on him, son.  He thinks we’re taking him to get tutored.",1.7982456140350878,0.0123371165132942,4218,1865,1339,1014,wit-surprise,negative
+He gets dessert because he ate everything on your plate.,1.984418195526514,0.0124995874215152,3979,1268,1505,1206,incongruity-absurdity,neutral
+Your brother identifies as a dog.,1.6935817805383022,0.0125399040052407,3864,1947,1154,763,incongruity-absurdity,neutral

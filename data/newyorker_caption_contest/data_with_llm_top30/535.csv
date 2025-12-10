@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,You and your surfaris.,2.017933390264731,0.0286504982597773,1171,552,46,573,sarcasm,neutral
+1,I just couldn't 'catch and release because who would've believed such a whale of a tale?,1.87012987012987,0.0390815497312381,539,261,87,191,unknown,negative
+2,Of course I knew I was marrying a mermaid. I just didn't expect to live with my mother-in-law too.,1.859375,0.0378022615361897,512,228,128,156,incongruity-absurdity,neutral
+3,"I'll bet that last restaurant will never have ""All You Can Eat Shrimp"" on their lunch menu again.",1.828125,0.042737456844337,448,228,69,151,exaggeration,negative
+4,"Yes, I love him. I'll always love him. I'm just saying I still think the hospital switched him at birth.",1.8215102974828372,0.0411146345691984,437,207,101,129,sarcasm,positive
+5,He wants to know if you can move your seat up,1.7964376590330788,0.0410590804318365,393,178,117,98,irony,neutral
+6,It's the only way he'll fall asleep.,1.7753424657534247,0.042286920772993,365,169,109,87,sarcasm,neutral
+7,He's not endangered. He's wearing a seatbelt.,1.760932944606414,0.0437368929544642,343,163,99,81,incongruity-absurdity,neutral
+8,"At least when we brought home the elephant, we had extra trunk room.",1.7147651006711409,0.0512817909803556,298,171,41,86,incongruity-absurdity,neutral
+9,This is where the blubber meets the road.,1.695970695970696,0.0489280656664184,273,143,70,60,incongruity-absurdity,neutral
+10,It's the only way to get him to fall asleep.,1.6948529411764706,0.0462497388100098,272,133,89,50,sarcasm,neutral
+11,They warned us not to feed him the growth hormone before we returned the rent-a-car.,1.6925925925925926,0.05446916110073,270,162,29,79,incongruity-absurdity,neutral
+12,Cop said he had to issue me a cetacean.,1.674509803921569,0.0509269205688025,255,139,60,56,unknown,negative
+13,"I was with you on ""Save the Rainforests"" and ""Save the Monarch Butterfly"" but this is a bit too much.""",1.6598360655737705,0.0504259655782294,244,131,65,48,sarcasm,neutral
+14,"He hates the interstate, but he loves the car wash.",1.6554621848739497,0.0479609211599307,238,120,80,38,unknown,negative
+15,"I swear the ad said ""single white male.""",1.6554621848739497,0.0511797317917586,238,129,62,47,irony,neutral
+16,It's the only way I get him to sleep.,1.648068669527897,0.0507348746591886,233,125,65,43,sarcasm,neutral
+17,"Since we're getting it all out, I never liked your cat.",1.648068669527897,0.0510982012866551,233,126,63,44,sarcasm,negative
+18,So much for the new car smell.,1.6322869955156951,0.0542775987212816,223,129,47,47,unknown,negative
+19,"Why don't you just say what's really bothering you. And don't say ""the whale"" again.",1.6322869955156951,0.0504189080362407,223,119,67,37,sarcasm,negative
+20,At least the new car smell is gone.,1.6232558139534885,0.0520151869824039,215,118,60,37,self-deprecating,negative
+21,Already? You would think he'd have a bigger bladder.,1.6161137440758293,0.0524517840236265,211,117,58,36,sarcasm,neutral
+22,"Okay, we saved him - now what?",1.608695652173913,0.0520000856472704,207,114,60,33,sarcasm,neutral
+23,So I finally saved one. Now what should we do with it?,1.5970149253731345,0.0514366269396231,201,110,62,29,irony,neutral
+25,We'll see what the Smiths and their stupid dolphin have to say now.,1.595,0.0530939718729558,200,113,55,32,sarcasm,negative
+26,"Come on, we agreed; I catch them; you clean them.",1.595,0.0563092234293466,200,120,41,39,incongruity-absurdity,neutral
+24,The one millionth visitor to Aquaworld. And you couldn't just take the cash prize?,1.595959595959596,0.053507629285498,198,112,54,32,irony,neutral
+27,He likes to listen to podcasts.,1.5897435897435896,0.0542118418372491,195,112,51,32,wit-surprise,neutral
+28,This is why I hate helping you move.,1.5897435897435896,0.0561283900696229,195,116,43,36,sarcasm,negative
+30,At least now we won't look like hypocrites driving around with a 'Save the Whales' bumper sticker.,1.5876288659793814,0.0539578040240151,194,111,52,31,exaggeration,negative

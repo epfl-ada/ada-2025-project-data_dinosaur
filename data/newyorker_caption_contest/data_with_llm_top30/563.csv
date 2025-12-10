@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,No wonder this gym was so cheap.,1.6983758700696057,0.0288930034617913,862,479,164,219,irony,negative
+4,It’s Karma !! But who’da thunk the hamsters would inherit the earth?,1.6494252873563218,0.0351933678037907,522,292,121,109,exaggeration,negative
+3,It started with a stand-up desk.,1.6531986531986531,0.0441396173562899,297,155,90,52,incongruity-absurdity,neutral
+7,"What goes around comes around, believe me.",1.5769230769230769,0.0395979816530603,286,150,107,29,unknown,neutral
+8,"pD piety, pD piety, pD piety, …",1.5769230769230769,0.043720890704398,286,164,79,43,unknown,neutral
+9,The pay is good but they treat us like animals.,1.574468085106383,0.0439316374753699,282,162,78,42,irony,negative
+11,"A few more minutes, Honey. The Tesla isn't charged yet.",1.5523012552301256,0.0421580059222272,239,128,90,21,sarcasm,neutral
+10,I wish I could tell you when I'll finish here but there's no end in sight.,1.5630252100840336,0.0466124784509241,238,136,70,32,exaggeration,negative
+12,…and cancel my three o’clock. I need to hit the maze.,1.548936170212766,0.0471379896866192,235,138,65,32,incongruity-absurdity,negative
+14,"Honey, is the Tesla recharged yet?",1.5458515283842795,0.0407658054676424,229,119,95,15,sarcasm,neutral
+16,"Yes, sir, it's a little like groundhog day.",1.5384615384615383,0.045106728619394,221,124,75,22,sarcasm,neutral
+17,I'm working from home until my wife can get the kid another hamster.,1.5330188679245282,0.0450463183098178,212,118,75,19,irony,neutral
+18,I think I'm finally getting somewhere!,1.525,0.0500941324962591,200,120,55,25,unknown,positive
+5,Can I call you back? I'm on a roll.,1.6243654822335023,0.0499152513106686,197,99,73,25,sarcasm,neutral
+2,"Honey, I've been put on the fast track.",1.671794871794872,0.0551341985688898,195,100,59,36,sarcasm,neutral
+0,"Listen, I've got to run.",1.7938144329896908,0.0546322710619497,194,80,74,40,sarcasm,neutral
+19,Ok. Try the Tesla now.,1.5206185567010309,0.0457643236377102,194,108,71,15,sarcasm,neutral
+20,When Hamsters dream.,1.5181347150259068,0.0559949187765685,193,127,32,34,incongruity-absurdity,neutral
+21,"Circulation Department, how may I help you?",1.5159574468085106,0.053586823069252,188,118,43,27,sarcasm,neutral
+13,"It's not as glamorous as you think, Mom.",1.548913043478261,0.0509938592543774,184,104,59,21,self-deprecating,negative
+22,I thought '401K' meant something else.,1.5139664804469273,0.0533584538149734,179,110,46,23,wit-surprise,neutral
+15,If this trial succeeds we can start testing on mice.,1.5393258426966292,0.0575160075866672,178,112,36,30,irony,neutral
+25,Sorry. Can't talk. Gotta run.,1.505681818181818,0.0522215305468581,176,107,49,20,sarcasm,negative
+28,I'll talk to you later...I gotta run.,1.5,0.0550088701228598,172,109,40,23,unknown,neutral
+29,Let's just say this job lacks any opportunity for advancement.,1.4939759036144578,0.0531909755470797,166,102,46,18,self-deprecating,negative
+27,"There's a BIG difference between a hamster and gerbil, Bob.",1.503067484662577,0.055298815848281,163,101,42,20,unknown,neutral
+23,I'm not trapped if it's what I choose. I'm not trapped if it's what I choose. I'm not trapped if it's what I choose.,1.5093167701863357,0.0578590681909273,161,102,36,23,self-deprecating,neutral
+31,"Work for a startup, they said. It'll be fun, they said.",1.4875,0.0567651982807164,160,103,36,21,unknown,positive
+32,Is the psychological test just as demanding?,1.4871794871794872,0.0571498252113306,156,100,36,20,unknown,neutral
+30,I am still getting used to working at the White House.,1.4903225806451612,0.055201001441621,155,96,42,17,wit-surprise,neutral

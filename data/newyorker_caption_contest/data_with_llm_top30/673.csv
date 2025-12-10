@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Ok you can go down one more time but then you have to save me,1.862919661053309,0.0081316949472287,9323,3600,3401,2322,sarcasm,neutral
+I 'm gonna wash that man right out of my hair.,1.8605223094039112,0.0083431758105499,8539,3216,3298,2025,sarcasm,negative
+Gonna wash that man right outta my hair!,1.7792223141472638,0.0083087789750613,8461,3611,3107,1743,sarcasm,negative
+"My conditioner said it would give me extra body, but I didn't expect it to be yours.",1.8877726047537369,0.0082477714439348,8162,2775,3528,1859,unknown,neutral
+"If I had wanted you to come up, I would have braided my hair.",1.818181818181818,0.0085943390918939,7733,3039,3061,1633,wit-surprise,neutral
+"What part of ""Get out of my hair"" don't you understand?",1.8208916198195844,0.008852694436518,7649,3100,2819,1730,sarcasm,negative
+"I admit it’s no beanstalk, but then again, you’re no Jack.",1.816593886462882,0.0092755195663513,7099,2938,2525,1636,incongruity-absurdity,neutral
+Another suitor fails his tress test.,1.7620602642125576,0.0093574348030643,6737,2979,2382,1376,unknown,negative
+"If you can get up here, I'm hoping you'll take a look at the shower drain.",1.82816986549796,0.0096202537461312,6617,2692,2370,1555,incongruity-absurdity,neutral
+"For god's sake Dave, you're 35, just use the stairs.""",1.8081876724931003,0.0095674695928659,6522,2692,2389,1441,sarcasm,negative
+It only grows each time Trump tells a lie.,1.7635970333745363,0.0101378646088116,6472,3098,1806,1568,irony,negative
+"A braid’s easier for YOU, maybe.",1.6467005076142132,0.01026491396829,4925,2455,1755,715,sarcasm,neutral
+"It was a bob cut when you said, ‘I’ll be right back!’",1.822307039864292,0.0118891522792643,4716,2065,1424,1227,incongruity-absurdity,neutral
+"I'm sorry, but you'll have to come back tomorrow. I'm having a really bad hair day.",1.604687154543445,0.0105005511231136,4523,2375,1561,587,self-deprecating,negative
+A one knight strand.,1.6512968299711817,0.0113881462186845,4511,2380,1324,807,incongruity-absurdity,neutral
+If you were on time it wouldn't be this long,1.603211009174312,0.0108067792678243,4360,2318,1454,588,sarcasm,neutral
+"Just let your hair down"", you said. Now, deal with it",1.7164326188716432,0.0115481208770762,4059,1837,1536,686,sarcasm,neutral
+Well you don't look like your profile picture either.,1.709989539748954,0.0123711088928149,3824,1834,1265,725,sarcasm,negative
+Let's forget your fairytale fantasy. Use the stairs around back.,1.571467244179751,0.0114632443893958,3694,2027,1223,444,sarcasm,neutral
+"Wrong tower. I’m Rogainezel, not Rapunzel.",1.6467715680954964,0.0124757309560611,3686,1938,1112,636,incongruity-absurdity,neutral
+This is where we part.,1.6240601503759398,0.0120711459235662,3591,1868,1205,518,unknown,neutral
+Maybe I'm using too much conditioner.,1.540006084575601,0.0118334807739138,3287,1860,1079,348,incongruity-absurdity,neutral
+"Sorry, too much conditioner.",1.542336217552534,0.0121807010178628,3236,1856,1005,375,unknown,negative
+Feel about for Sir Harold ... and the pizza guy.,1.616917047681254,0.0132746758254018,3062,1637,961,464,wit-surprise,neutral
+Wait till you see my armpits...,1.6835198764955617,0.015927889137032,2591,1391,629,571,self-deprecating,neutral
+"Ok, it's down.  Now what?",1.5379565038982357,0.0137461002751193,2437,1384,795,258,irony,neutral
+I'd get out of there before the humidity picks up.,1.6335144170497284,0.0149163734781016,2393,1236,798,359,sarcasm,neutral
+I should never have gotten tangled up with you!,1.6091278807049254,0.0150101121479612,2213,1153,772,288,sarcasm,negative
+"Oh, you meant metaphorically?",1.5487748497457234,0.0148669211951069,2163,1225,689,249,sarcasm,neutral
+This tower is protected by locks.,1.5453271028037383,0.0150775339277075,2140,1228,657,255,unknown,neutral

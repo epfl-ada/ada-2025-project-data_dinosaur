@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4578,"And on the Seventh Day, we dug the Panama Canal...",1.172972972972973,0.0289174362930834,185,154,30,1,incongruity-absurdity,neutral
+1845,"I can't speak for the World, but....",1.3206521739130437,0.0436246496149254,184,137,35,12,sarcasm,neutral
+908,You look bigger on TV,1.391304347826087,0.0480759794772838,184,129,38,17,sarcasm,positive
+1431,"Yeah, you and who else?",1.349726775956284,0.0437045863116557,183,130,42,11,sarcasm,neutral
+1281,"Yeah?!  Well, I'm freezing!",1.3611111111111112,0.0450972388182576,180,127,41,12,unknown,negative
+1886,Our next speaker will be Donald Trump's ego.,1.318435754189944,0.045804850195137,179,136,29,14,sarcasm,negative
+3119,"We originally invited Pluto,but since it’s status changed ,the little people protested”",1.252808988764045,0.0396869276755625,178,141,29,8,irony,negative
+1450,Do not be deceived by my opponent's claims of international experience!,1.348314606741573,0.0459094513614265,178,129,36,13,wit-surprise,neutral
+5206,North America's going to crush my face and I won't be able to do anything about it.,1.1016949152542372,0.0241506275203055,177,160,16,1,self-deprecating,negative
+3192,"He's at a loss, not Atlas!",1.2485875706214689,0.0404861582412758,177,142,26,9,wit-surprise,negative
+151,My opponent is ignoring the gravity of this situation.,1.5141242937853108,0.0494625354536737,177,102,59,16,irony,negative
+1889,... and I say the earth is flat!,1.318181818181818,0.0449320620571589,176,132,32,12,exaggeration,neutral
+2084,"Shakespeare was right, all the world is a stage.",1.306818181818182,0.045381434709502,176,135,28,13,wit-surprise,neutral
+3190,"In this debate, the earth always wins",1.25,0.0406920650230994,176,141,26,9,unknown,neutral
+2388,"Excuse me, I'm talking!",1.2897727272727273,0.0403803310215758,176,132,37,7,sarcasm,neutral
+3735,You’re no Jack Kennedy,1.2228571428571429,0.0406468920515532,175,146,19,10,sarcasm,negative
+1149,"If we were on the radio and not TV, I would be winning this debate!",1.3714285714285714,0.046151440177399,175,122,41,12,wit-surprise,positive
+577,"Okay, I'm willing to concede that it's round.",1.4285714285714286,0.0502398656486935,175,117,41,17,incongruity-absurdity,neutral
+1368,Don't everybody talk at once!,1.3542857142857143,0.047268330807733,175,127,34,14,incongruity-absurdity,neutral
+703,My opponent and I are a world apart.,1.4114285714285717,0.0494226578464671,175,119,40,16,wit-surprise,negative
+1675,"And yet, my opponent claims that I blow things out of proportion.",1.3314285714285714,0.0424136882113477,175,125,42,8,exaggeration,negative
+1369,Stop whining!  You’ll still be here when the rest of us are gone.,1.3542857142857143,0.047268330807733,175,127,34,14,sarcasm,negative
+1927,I dare you to speak with one voice.,1.3160919540229885,0.0437491773240934,174,129,35,10,wit-surprise,negative
+1926,Is my opponent getting HOTTER or is it just me?!,1.3160919540229885,0.0452423701042012,174,131,31,12,sarcasm,neutral
+3697,South America couldn't move to Canada so it is moving to Africa.,1.2241379310344829,0.0392011370230411,174,143,23,8,exaggeration,neutral
+3808,"My worthy opponent has decided that we need to play, 'Where is Waldo?'",1.2183908045977012,0.0363164897842115,174,141,28,5,irony,neutral
+4589,Ok keep this image in your brain. Now imagine it just a blue ball of water...,1.1724137931034482,0.0330234011042705,174,148,22,4,irony,neutral
+4739,As your point is...,1.160919540229885,0.0333570373861143,174,151,18,5,wit-surprise,neutral
+3907,“My opponent here is a one-worlder!”,1.2126436781609196,0.0369652126372996,174,143,25,6,wit-surprise,neutral
+330,Having the whole world on your side still doesn't make you right!,1.4682080924855492,0.050894388284575,173,109,47,17,sarcasm,negative

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Looks like you're already familiar with the side effects.,2.387410023088415,0.005739781745162,14726,1941,5211,7574,sarcasm,neutral
+You're going to need some help with these suppositories.,2.212490282456595,0.0073669495510969,11577,2790,3603,5184,sarcasm,negative
+"Look, sir, I can tell you to take it with water, but I can't make you drink.",2.146465957262739,0.007248833159505,11559,2882,4150,4527,sarcasm,neutral
+I see your insurance policy comes with a rider.,2.096522000601383,0.0077525894895476,9977,2649,3771,3557,wit-surprise,neutral
+"This will make you drowsy, so you’ll need someone to ride you home.",2.1420962717314844,0.0075794516492874,9951,2323,3934,3694,sarcasm,negative
+Drink one of these after breakfast and another before you hit the hay.,2.0590522223389724,0.0077238299332664,9517,2521,3959,3037,self-deprecating,neutral
+"They didn’t specify which one, but your insurance will only cover half.",2.1474847152204224,0.0077353147118044,9323,2138,3745,3440,irony,negative
+"Yes, it says here possible side effects include shortness of breath, cough, and horseness.",2.0987299305056313,0.0084343958157666,8346,2215,3152,2979,irony,neutral
+"Thanks for telling us, sir... ATTENTION, CLEAN UP IN AISLE SIX!",2.012142341909113,0.0088592723520942,8318,2747,2768,2803,unknown,positive
+"Sir, Trojan Magnum is the largest size we carry.",1.9949019607843137,0.0092269920706827,7650,2607,2527,2516,sarcasm,neutral
+"When you called and said you were a little hoarse, I guess I didn’t understand",1.9822962082177304,0.0087748638275194,7569,2350,3048,2171,sarcasm,negative
+"Use caution when pulling a wagon, plow, or other machinery while you're on this medication.",1.9639042855211573,0.008681594459572,7397,2259,3181,1957,incongruity-absurdity,neutral
+"You know, this prescription would be half the price if you got it from your vet.",1.9674608577263444,0.0089119718777751,7345,2319,2974,2052,sarcasm,neutral
+"You're as healthy as a...well, you know.",1.9618287373004355,0.0091845358507152,6890,2198,2789,1903,incongruity-absurdity,positive
+These new antibiotics are incredible. 20 years ago we would have just had to shoot you.,1.9814056098329655,0.0098249551700885,6346,2053,2387,1906,sarcasm,positive
+I take it you already know about the side effects.,2.1975510204081634,0.0093125569564167,6125,1146,2625,2354,sarcasm,neutral
+Sorry about that.  There are two Mr. Eds in our system.,1.9268130405854955,0.010123735294025,6012,2132,2213,1667,irony,neutral
+What were your wife's other two wishes?,1.8827967806841048,0.0103736660185136,5964,2337,2009,1618,sarcasm,neutral
+Any other symptoms?,1.9444918872758328,0.0102013888611911,5855,1992,2220,1643,sarcasm,neutral
+"It's for a quarter horse, so probably double the dosage.",2.008703220191471,0.0102212494940214,5745,1699,2297,1749,irony,neutral
+"If this works, you'll be in stable condition.",1.8914837576821772,0.0099740684117039,5695,2021,2305,1369,incongruity-absurdity,positive
+"You thought you’d never see a black pharmacist, really?",1.8852930600503417,0.0111594009410826,5562,2310,1598,1654,sarcasm,negative
+The Centaur for Disease Control sent me,2.0112648221343874,0.0114812182905855,5060,1669,1669,1722,sarcasm,neutral
+Did you notice any side effects apart from the hair loss?,1.91078963230862,0.0109977216817383,4977,1783,1880,1314,sarcasm,neutral
+Your wife called and asked us not to refill your Viagra.,1.87559498052791,0.0119155774824231,4622,1852,1500,1270,sarcasm,negative
+These may give you the trots.,1.96660846791794,0.0118085233687953,4582,1550,1638,1394,incongruity-absurdity,neutral
+You'll probably need help with the suppository.,1.7805265546981388,0.0115469574421779,4406,1951,1510,945,incongruity-absurdity,negative
+Sorry Sir. We have nothing in stock for a horse's ass. Try the White House.,1.9353912419239052,0.0133130862039054,4179,1691,1067,1421,sarcasm,negative
+"Well, sir, it's Viagra and they did promise to make you a stud.",1.727919528949951,0.0119961511234195,4076,1924,1353,799,sarcasm,neutral
+"Technically it does say ""side effects may vary""",1.713706407137064,0.0119482676227384,3699,1688,1400,611,irony,neutral

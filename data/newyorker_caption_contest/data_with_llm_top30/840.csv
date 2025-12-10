@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You’re sleeping on the hanger tonight.,1.6736913664174031,0.0136440837282124,2942,1442,1018,482,sarcasm,neutral
+Was that you banging inside the dryer?,1.593183779119931,0.0150801027641337,2318,1274,713,331,sarcasm,neutral
+So it really did kill him to help with the ironing once in a while.,1.7246764837126285,0.0169671081596491,2241,1116,626,499,irony,negative
+Now might be a good time to grab that sock behind the washer.,1.7298878595806924,0.0174094857410582,2051,989,627,435,incongruity-absurdity,neutral
+"Honey, why don’t you just try diet and exercise?",1.57932083122149,0.0182568387434663,1973,1238,327,408,sarcasm,neutral
+I'm still taking you to the cleaners.,1.765470297029703,0.0200208452293743,1616,757,481,378,self-deprecating,negative
+"The label said 'Lay flat to iron.""",1.767689417658109,0.0201688561300578,1597,747,474,376,incongruity-absurdity,neutral
+"On the bright side, it’s not *permanent* press.",1.6169811320754717,0.0180565579005074,1590,833,533,224,irony,neutral
+You still have some wrinkles on your forehead.,1.6349712827058074,0.0188204660887885,1567,825,489,253,sarcasm,neutral
+"I'm quite sure I said ""iron it yourself"", not ""iron yourself!""",1.6517285531370038,0.0190034590978791,1562,807,492,263,irony,neutral
+He loved Salvador Dali,1.601029601029601,0.0185298233908232,1554,848,478,228,wit-surprise,positive
+I'll fold.,1.5619354838709678,0.0184304039762561,1550,896,437,217,self-deprecating,negative
+You know I think that suit does make you look slimmer.,1.6800258564964448,0.0189473630792305,1547,756,530,261,sarcasm,neutral
+It looks like you ran out of steam.,1.7254391672088485,0.0197206310388475,1537,728,503,306,sarcasm,negative
+THAT does not make you Iron Man any more than THIS makes me Cat Woman.,1.6473684210526316,0.0197322506006741,1520,812,432,276,irony,negative
+I still don't believe you're straight.,1.5860250494396837,0.0192930331812515,1517,872,401,244,sarcasm,negative
+I meant iron out OUR issues,1.5874916833000663,0.0185193058507894,1503,825,473,205,irony,neutral
+I said don't flatter yourself,1.6880856760374832,0.0202276966858502,1494,762,436,296,sarcasm,neutral
+"You have to take it off first, Jim",1.6461016949152545,0.0196005118136273,1475,771,455,249,sarcasm,neutral
+"Ok, Iron Man. Now use your superpowers to do the sheets.",1.5998598458304134,0.0195848505042641,1427,790,418,219,irony,neutral
+This is your iron man training?,1.6723646723646723,0.0203941608865605,1404,715,434,255,irony,neutral
+"You’re not the only one with pressing business to attend to, Frank.",1.5914137675795708,0.0195693470530312,1351,738,427,186,sarcasm,neutral
+Let me guess. Your mom did all your laundry.,1.5522388059701493,0.0202008392196474,1273,743,357,173,sarcasm,neutral
+Sure I said we could iron things out but…,1.5742496050552923,0.0193481709901255,1266,684,437,145,irony,neutral
+"Typical guy ploy: do it wrong the first time, never asked to do it again",1.548360655737705,0.0211324693791503,1220,732,307,181,incongruity-absurdity,negative
+Ok that's it! Back to you take out the trash and I do the laundry.,1.57035175879397,0.0206019465933431,1194,669,369,156,sarcasm,neutral
+"Well, hello Dali!",1.5508982035928145,0.022072650170041,1169,713,268,188,irony,positive
+You had one job.,1.597391304347826,0.0216717615075647,1150,635,343,172,sarcasm,neutral
+No one will be able to tell over Zoom.,1.6359649122807018,0.0221998683848697,1140,603,349,188,sarcasm,neutral
+"When you said that you were pressed for time, I had no idea….",1.5739910313901346,0.0211694422450607,1115,617,356,142,sarcasm,neutral

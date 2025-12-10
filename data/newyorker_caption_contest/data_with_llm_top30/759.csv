@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+They call it kitsch-and-release.,1.7967032967032968,0.0121271664620484,4732,2225,1244,1263,exaggeration,neutral
+"Well, well, well. If  it isn't the one who got away.",1.7955764075067024,0.014661070503743,2984,1324,946,714,sarcasm,negative
+There are two things certain in life: death and taxidermy.,1.7405036278275714,0.0168080738431879,2343,1158,635,550,wit-surprise,neutral
+Well if it isn't the one that got away.,1.7712697734074392,0.0166314032638005,2339,1085,704,550,irony,negative
+"No, Jerry, I did not have a good weekend.",1.7600178094390029,0.0166965017733042,2246,1037,711,498,sarcasm,negative
+"You think this is bad, you should'a seen what he did to the moose.",1.7455648926237162,0.0172860183685428,2142,1027,633,482,incongruity-absurdity,negative
+"In hindsight, an earthworm in the middle of a river was pretty suspicious.",1.7357487922705317,0.0171552947377194,2070,976,665,429,irony,negative
+"The worm was delicious, but there was a string attached.",1.7303536345776032,0.0174038192990542,2036,976,633,427,incongruity-absurdity,positive
+"Oh, they give you a plaque all right, but there’s a catch.",1.7306143001007048,0.0173074369366012,1986,930,661,395,incongruity-absurdity,neutral
+"Just remember: If it looks that good, there’s probably a string attached.",1.746969696969697,0.0176467884907739,1980,924,633,423,sarcasm,positive
+If Bob calls and offers you a position on the board — don’t take it.,1.790110468174645,0.0186422342731884,1901,869,562,470,wit-surprise,neutral
+"And if you think the singing part is bad, just wait til I tell you where the batteries go.",1.771601541001651,0.0193558191388831,1817,873,486,458,unknown,negative
+"And to add insult to injury, they didn't get my good side.",1.718671679197995,0.0193859627411685,1596,766,513,317,self-deprecating,negative
+"Honestly, I’m just happy this isn’t a cutting board",1.7096317280453257,0.0208118991058695,1412,696,430,286,incongruity-absurdity,positive
+"Eat that worm, you said!  What's the worst that could happen?",1.706056129985229,0.0208056455034269,1354,654,444,256,sarcasm,negative
+Can you recommend a good plaque remover?,1.7046317388003038,0.0218849133612168,1317,667,372,278,unknown,neutral
+I'm a throwback,1.7008750994431183,0.0222204929898303,1257,634,365,258,self-deprecating,neutral
+And another thing.  Stop referring to me as your trophy wife.,1.698019801980198,0.0226875050124611,1212,619,342,251,self-deprecating,negative
+I never should have opened my big mouth.,1.7001675041876048,0.0220832887087171,1194,580,392,222,self-deprecating,negative
+"They said it was a permanent position, and I fell for it!",1.6966386554621848,0.022643850350867,1190,600,352,238,unknown,positive
+"When I asked you to mount me,  I had  something else entirely in mind.",1.6963979416809605,0.0233799331316184,1166,602,316,248,wit-surprise,neutral
+"A lot can happen between catch and release, my friend.",1.6935908691834942,0.0222564503710269,1139,549,390,200,incongruity-absurdity,neutral
+"... and to top it all off, this isn't even my best side!",1.6923076923076923,0.0226718382762832,1131,556,367,208,self-deprecating,negative
+"Whatever you do,stay in school.",1.692513368983957,0.022923148274492,1122,556,355,211,incongruity-absurdity,neutral
+Of course I feel mounting frustration!,1.690232558139535,0.0239064668292999,1075,548,312,215,self-deprecating,negative
+"Take my advice, kid. Stay in school.",1.690587138863001,0.0236483617114247,1073,539,327,207,unknown,neutral
+And stop referring to me as your trophy wife,1.686046511627907,0.0246837886299988,1032,537,282,213,sarcasm,negative
+"I'm tired of being your trophy wife, Ken.""",1.6836836836836837,0.0247766920650065,999,514,287,198,sarcasm,negative
+And to think I was flattered when they asked me to be “on the board”.,1.6822810590631363,0.0248914526684864,982,504,286,192,self-deprecating,positive
+Does it look like I had a good day?,1.682098765432099,0.0247205441546168,972,492,297,183,self-deprecating,positive

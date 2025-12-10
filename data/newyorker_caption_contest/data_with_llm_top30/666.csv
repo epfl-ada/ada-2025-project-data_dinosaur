@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You should see the couch they have at the urologist's office.,2.1114388725008193,0.008113471816142,9153,2304,3525,3324,incongruity-absurdity,neutral
+The last place I saw a couch like this also charged by the hour,2.057032189127822,0.0089530772651842,7487,2045,2970,2472,irony,neutral
+Shouldn’t you be sitting in an ear?,1.895416304032492,0.0097372496367508,6894,2651,2313,1930,sarcasm,neutral
+"No, Doc, I said ""tulips"" would make your office more inviting",1.8305229092147848,0.0102012284524878,5871,2375,2116,1380,sarcasm,neutral
+I'm just glad I don't have an anal fixation.,1.753543034911856,0.0104175368570248,5786,2705,1802,1279,self-deprecating,negative
+MY oral fixation?!,1.87226148409894,0.0102034430342867,5660,2075,2233,1352,self-deprecating,negative
+So this is the famous Freudian's lip.,1.8767496818760223,0.0108174830723795,5501,2151,1877,1473,wit-surprise,neutral
+It’s much more comfortable since you injected it with collagen.,1.7935411610976293,0.0105138546117917,5357,2253,1957,1147,sarcasm,positive
+What do uou mean MY oral fixation?,2.028074115665357,0.010554911941072,5343,1517,2159,1667,sarcasm,negative
+Are you going to help me or is this just lip service?,1.9368191721132897,0.0109837155683746,5049,1707,1954,1388,sarcasm,negative
+"Oh, and I suppose that sometimes a couch is just a couch.",1.863452188006483,0.0107709093729125,4936,1796,2018,1122,incongruity-absurdity,neutral
+I feel as if you are only giving me lip service.,1.703424378312271,0.0107472831714475,4906,2333,1695,878,sarcasm,negative
+And what couch do you use for anal retentives?,1.8094377963422896,0.0119298819982954,4429,1898,1477,1054,wit-surprise,neutral
+It just feels like everyone is kissing my ass,1.882297329236587,0.0122584262253012,4231,1623,1483,1125,sarcasm,negative
+Can you make the tongue do that again?,1.853640951694304,0.0128671545785204,4161,1782,1206,1173,incongruity-absurdity,neutral
+I also have a fear of being swallowed.,1.7193530079455164,0.0125115556247227,3524,1605,1303,616,unknown,negative
+It just seems like everyone's trying to kiss my ass.,1.651921903599756,0.0130872281737942,3278,1689,1041,548,sarcasm,negative
+The dreams are now mostly about Mick Jagger,1.7134718498659518,0.013908902466451,2984,1411,1017,556,sarcasm,neutral
+It stopped. Could I trouble you for another quarter?,1.694920955264043,0.0138964857495392,2973,1445,990,538,sarcasm,negative
+"Quite frankly doctor, I feel like all I get here is lip service.",1.6324525745257452,0.0133828586961491,2952,1522,993,437,sarcasm,negative
+I don’t think I’m the one with the oral ‘fixation here.,1.6252909231962762,0.0142762992593872,2578,1341,862,375,sarcasm,neutral
+Are you sure these lips are sealed?,1.6578086672117742,0.0148823803050378,2446,1224,835,387,sarcasm,neutral
+"Last time I was on a couch like this, I was also paying by the hour.",1.718422156945027,0.0159499714489385,2383,1152,750,481,incongruity-absurdity,neutral
+"The same dream every time--I'm being eaten, while you just take notes.",1.7438563327032135,0.0164237083118463,2116,944,770,402,sarcasm,negative
+The upper lip is a bit stiff.,1.6455696202531649,0.0161362074624936,2054,1042,698,314,incongruity-absurdity,neutral
+"I think our sessions are helping, but my wife keeps asking how I got lipstick on my collar . . . . and my jacket . . . and my pants.",1.6656410256410257,0.0166847301730183,1950,964,674,312,sarcasm,neutral
+"I ask for help, and all you give me is lip service.",1.662892434379825,0.0166829890932573,1943,963,672,308,sarcasm,negative
+"Well, Dr. Lipz, I guess I should be grateful Dr. Butz wasn't taking new patients.",1.6246648793565683,0.0177175155984605,1865,1027,511,327,sarcasm,neutral
+Something is gnawing at me.,1.6092896174863387,0.0167015896980538,1830,964,617,249,self-deprecating,negative
+How did I hear about you?  Word of mouth.,1.644927536231884,0.0180125337989331,1656,843,558,255,incongruity-absurdity,neutral

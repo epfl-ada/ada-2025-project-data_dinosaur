@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2,Where are the statues? I can't hold it in anymore.,1.7031914893617022,0.0251474798316781,940,460,299,181,sarcasm,negative
+6,What am I doing here? I missed my flight.,1.682642487046632,0.0316237172115557,772,459,99,214,irony,negative
+4,Will we raise the kids as birds or fish?,1.696969696969697,0.029489069969656,759,400,189,170,incongruity-absurdity,neutral
+11,Disingenuous? ME ??? YOU described yourself as 'wingy ' !!!,1.6497277676951,0.0334654869861736,551,300,144,107,sarcasm,negative
+12,Be VERY afraid – we have bigger fish to fly.,1.6459510357815443,0.0340055235833646,531,290,139,102,sarcasm,neutral
+13,You and me birdbrain.,1.6392785571142283,0.0379063373125085,499,301,77,121,sarcasm,neutral
+15,"Fish gotta swim, birds gotta swim.",1.6324786324786325,0.0375878653503974,468,272,96,100,unknown,neutral
+10,I had a little work done.,1.651006711409396,0.0343737456995062,447,223,157,67,incongruity-absurdity,neutral
+7,What do you mean I'm adopted?,1.6822660098522169,0.0386801273897357,406,208,119,79,sarcasm,neutral
+18,The inevitable face-off of Roe vs. Egg.,1.618556701030928,0.0439124565738978,388,247,42,99,incongruity-absurdity,neutral
+20,Vito warned me if I sing like a bird I'm gonna swim with da fishes.,1.607242339832869,0.041525692528595,359,209,82,68,wit-surprise,neutral
+5,Let's walk into a bar.,1.6903409090909092,0.040758077176345,352,174,113,65,unknown,neutral
+25,One of these things is not like the other...,1.595307917888563,0.0423715313368958,341,201,77,63,wit-surprise,negative
+9,It's not you. I've just...evolved.,1.6576576576576576,0.0430583259993737,333,179,89,65,self-deprecating,neutral
+24,Sometimes it would be nice if we could stay at my place instead.,1.596875,0.0423400635982229,320,182,85,53,sarcasm,neutral
+21,Either you're a flying fish or I'm a dead duck.,1.6026058631921825,0.0444388720105386,307,178,73,56,incongruity-absurdity,negative
+17,Let me guess...Pisces.,1.6229508196721312,0.0422663786866228,305,162,96,47,sarcasm,neutral
+1,One of us should look more concerned.,1.7275862068965515,0.0454962836776701,290,137,95,58,sarcasm,negative
+8,"No, you don't look like your profile photo.",1.682170542635659,0.0459400424993606,258,124,92,42,sarcasm,negative
+35,I know Mom will love you. Dad may eat you.,1.5491803278688523,0.0446885064252147,244,139,76,29,incongruity-absurdity,positive
+34,You'll be a real catch for someone else.,1.5495867768595042,0.0464627823346136,242,142,67,33,self-deprecating,positive
+0,It could work. We both like worms.,1.81404958677686,0.0484016733336622,242,95,97,50,incongruity-absurdity,positive
+33,I was a stool pigeon and now I sleep with the fishes.,1.5495867768595042,0.0422086957560013,242,131,89,22,unknown,neutral
+38,"One of these things is not like the other, one of these things just doesn't belong...",1.543103448275862,0.0538780041638956,232,155,28,49,unknown,negative
+39,"Maybe I'm wrong but I think Hammerstein said ""Fish gotta fly, birds gotta swim.""",1.536036036036036,0.0505184308207291,222,138,49,35,wit-surprise,neutral
+40,You look nothing like your Match profile.,1.5265700483091786,0.0478425945997321,207,121,63,23,sarcasm,negative
+41,Welcome to the witness protection program.,1.5265700483091786,0.0488130934136028,207,123,59,25,wit-surprise,neutral
+30,Ten thousand eggs at once! Wow!,1.5583756345177664,0.0515427284812671,197,114,56,27,incongruity-absurdity,positive
+43,You don't look anything like your profile picture.,1.5154639175257731,0.0507551037616983,194,118,52,24,sarcasm,negative
+31,Let's call Escher - he'll know how to fix this.,1.5515463917525774,0.0546889402916793,194,119,43,32,wit-surprise,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+6,Cases like this are rare.,1.9494300518134715,0.0112075631304923,4825,1590,1889,1346,incongruity-absurdity,neutral
+1,"He told me to cook the books, but didn't say for how long.",1.9918559794256323,0.0110373096634137,4666,1345,2014,1307,incongruity-absurdity,neutral
+2,Something tells me that there are two prime rib steaks sitting on my desk.,1.979290592641551,0.0118369506711754,4539,1491,1651,1397,incongruity-absurdity,neutral
+10,I roast my case.,1.8966455122393475,0.0118890945448662,4412,1627,1614,1171,self-deprecating,neutral
+11,I normally love grilling but this feels like work.,1.8699264182292905,0.0118568947685318,4213,1557,1647,1009,irony,negative
+5,"No, I won't be going back to work on Monday. Why do you ask?",1.9645320197044336,0.011969212404889,4060,1255,1694,1111,sarcasm,neutral
+28,Didn’t we cook the books last quarter?,1.7316144154702608,0.0128342242810252,3413,1540,1249,624,irony,neutral
+14,"No Dear, it's not done until it opens.",1.8220112726194009,0.0131324516037718,3371,1333,1305,733,sarcasm,neutral
+12,"I should've said, 'I'll eat my hat.'",1.84375935348698,0.0132274960961034,3341,1278,1307,756,incongruity-absurdity,negative
+0,I'd better give it a little longer. It's a really tough case.,2.0858858858858857,0.0130691208453377,3330,816,1412,1102,wit-surprise,negative
+13,It's lambskin. I think a Merlot would go better.,1.836105976586568,0.0131188069635243,3246,1216,1346,684,irony,negative
+16,Two words I never hear at the office: Well done.,1.7931896282411746,0.0136233428908673,3201,1350,1163,688,sarcasm,positive
+25,Did something happen at work today that you need to tell me about?,1.7409168081494055,0.0133936288348228,2945,1258,1192,495,sarcasm,neutral
+9,"Not really sure,my boss just said, ""Put it on the back burner.""",1.937221269296741,0.0140278343943719,2915,933,1232,750,incongruity-absurdity,neutral
+8,How often do you turn over your portfolio?,1.938155136268344,0.0142300203411285,2862,923,1193,746,unknown,neutral
+15,I got this recipe from one of Martha Stewart's old accountants.,1.8024017467248907,0.0148099528053991,2748,1153,985,610,wit-surprise,neutral
+19,You want files with that?,1.7693164933135217,0.0150358794934256,2692,1201,911,580,sarcasm,neutral
+21,Ask the kids how they want their backpacks.,1.7600299962504686,0.0152354593570064,2667,1222,863,582,incongruity-absurdity,neutral
+7,Dinner will be brief tonight.,1.948605577689243,0.015144399456481,2510,790,1059,661,unknown,neutral
+26,I think my work here is done.,1.737785016286645,0.0149473910557831,2456,1080,940,436,self-deprecating,neutral
+27,Remember when you burned your bra?,1.7341772151898731,0.0158385896933492,2449,1164,772,513,sarcasm,negative
+29,"Honey, are you cooking the books again?",1.7285048708174502,0.0152919716276756,2361,1059,884,418,sarcasm,neutral
+18,So my last report wasn't well done? Wait'll he sees this one.,1.7774936061381077,0.0155710657942038,2346,986,896,464,self-deprecating,negative
+42,I don't get it. My father made a fortune cooking the books.,1.6406721240844464,0.0149675183996823,2321,1170,815,336,wit-surprise,negative
+30,"Regardless, Muriel, a cow died.",1.7124243834341557,0.0165757019618639,2149,1032,703,414,irony,negative
+32,I know they're vegan. It's pleather.,1.6952153110047847,0.0169262451704018,2090,1041,645,404,irony,neutral
+3,What makes you think I quit my job?,1.9683756588404409,0.0165602895658378,2087,631,891,565,sarcasm,negative
+4,Hopefully cooking the books works better than laundering the money.,1.9678502879078692,0.0168523673559418,2084,651,849,584,irony,neutral
+43,"Maybe he said, 'beef steaks.'",1.6305,0.0164657351860646,2000,1048,643,309,unknown,neutral
+35,"I think he said grilled beef not brief, Sweetheart.",1.6774683544303797,0.0159316649378745,1975,916,780,279,wit-surprise,neutral

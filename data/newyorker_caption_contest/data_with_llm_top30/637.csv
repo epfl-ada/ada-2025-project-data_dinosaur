@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3753,This raken sucks!,1.0786516853932584,0.0181313991748765,267,248,17,2,irony,negative
+1701,I better  not see one of those cross the line.,1.2255639097744362,0.0320629800804228,266,219,34,13,sarcasm,negative
+2275,You were better on Broadway.,1.1923076923076923,0.0273534693717967,260,215,40,5,sarcasm,positive
+2356,You ARE the secretary of estate.,1.1884615384615385,0.0287770184288652,260,219,33,8,sarcasm,neutral
+1273,This is the VIP section- nobody enters and nobody leafs.,1.251937984496124,0.0326362188274404,258,204,43,11,incongruity-absurdity,negative
+1459,I got here to be first in line to watch some guy with a rake?,1.2403100775193798,0.0322823428139028,258,207,40,11,irony,neutral
+207,The 'Man of Fall' is definitely less intense than the 'Fall of Man' exhibit next door.,1.372093023255814,0.0418768840735825,258,190,40,28,wit-surprise,neutral
+3376,I’ll admit I DID say ‘Don’t bother raking leaves in the fall.’,1.125,0.0221403721385023,256,226,28,2,incongruity-absurdity,neutral
+1293,"You can rake, but you can’t hide.",1.25,0.0345666449221857,256,207,34,15,unknown,neutral
+3693,Wouldn't a lawn mower work better?,1.08984375,0.0203122054088743,256,236,17,3,unknown,neutral
+598,"Before the President arrives, let's Make America Rake Again.",1.3046875,0.035492502789874,256,192,50,14,irony,neutral
+2725,"Sir, as a retired senator you must pay for my services out of pocket now.",1.16796875,0.0264810512367185,256,218,33,5,sarcasm,negative
+2777,Stunning,1.1647058823529413,0.0275280683855182,255,220,28,7,exaggeration,positive
+591,I'm here for the matinee,1.3058823529411765,0.0329078549570203,255,185,62,8,sarcasm,neutral
+759,"Keep looking Attwood, The Big Guy wants no leaf unturned.",1.2901960784313726,0.036549806802152,255,198,40,17,irony,neutral
+972,"As your neighbor, I'd actually expect the grass to look a little greener from this side of the fence.",1.2745098039215683,0.0344309737288145,255,198,44,13,sarcasm,neutral
+3547,Maybe you should try a checkout lane divider.,1.1098039215686275,0.021132623479919,255,229,24,2,sarcasm,neutral
+2833,How do people really know that George Washington used that rake?,1.1614173228346456,0.0262800251369817,254,218,31,5,wit-surprise,neutral
+2207,"You know, in South America, they don’t even have brown leaves to rake.",1.1968503937007875,0.0315970495180966,254,216,26,12,exaggeration,neutral
+116,Good try. I read Tom Sawyer.,1.405511811023622,0.0427116641828454,254,179,47,28,sarcasm,positive
+1514,"Wow, you're feet are  r e a l l y small.",1.2371541501976284,0.0326032292794382,253,204,38,11,sarcasm,positive
+32,"See, tax cuts work!  I have more money, and you now have a job.",1.4703557312252964,0.0449863640074625,253,167,53,33,irony,positive
+2192,"Rake on...rake off.  Pay attention, Daniel-san!",1.1976284584980237,0.0296683090509185,253,211,34,8,incongruity-absurdity,neutral
+715,The grass is greener on my side of the rope.,1.2936507936507935,0.0333309241374294,252,187,56,9,incongruity-absurdity,positive
+3068,Where are my seats? Behind the left field fence. By the ground crew. Why?,1.1468253968253967,0.0256353714298548,252,220,27,5,incongruity-absurdity,negative
+1087,"You KNOW I just had to point out again, you missed one.",1.2658730158730158,0.0353824958609689,252,200,37,15,sarcasm,neutral
+2107,I was sent by the HOA to count the leaves left behind.,1.2023809523809523,0.0294016327466159,252,208,37,7,incongruity-absurdity,neutral
+1689,Let me guess...a blower on you Christmas list.,1.2261904761904765,0.0297832403130822,252,201,45,6,sarcasm,neutral
+3351,"Hey, this isn’t the cleanest campaign. Leave a few behind.",1.1274900398406376,0.0218361587347326,251,220,30,1,sarcasm,negative
+1740,Wakey wakey rakey rakey.,1.2231075697211156,0.0313077453333587,251,204,38,9,unknown,neutral

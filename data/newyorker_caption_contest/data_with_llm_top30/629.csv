@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"In retrospect, I should have been more specific when I told the genie I wanted to be in a rock group and have women climbing all over me.",2.0122547332185885,0.0069041071957542,14525,4940,4467,5118,exaggeration,neutral
+11,"So it’s more than a flesh wound, but I’m still a head.",1.7449094597640695,0.0073694507815448,13309,6940,2824,3545,self-deprecating,negative
+2,What makes this worse is that there is a racket ball court on the other side,1.853010164190774,0.007582390503279,11511,4779,3645,3087,irony,negative
+4,Be sure to tell your friends you climbed the face of Everett.,1.812380750476998,0.0079326414107109,9434,3851,3502,2081,unknown,positive
+6,"...and then for my third wish I said, 'I want women climbing all over me!'",1.783617747440273,0.0087506243201763,7325,3018,2874,1433,unknown,neutral
+10,"For the record, I was opposed to the wall.",1.7519511849013765,0.0093517306872202,7047,3262,2271,1514,irony,negative
+9,"I was desperate. It was this, or White House press secretary.",1.75606701111633,0.0101426715366676,6387,3067,1811,1509,unknown,negative
+7,I'm lucky! Most geologists don't find a job in their field right out of college.,1.7591711956521738,0.009997459703828,5888,2612,2082,1194,incongruity-absurdity,positive
+23,The headhunter promised the position was a mid-level stepping stone.,1.64221635883905,0.0095745839154932,5685,2862,1995,828,incongruity-absurdity,neutral
+3,No matter what I say I end up with a foot in my mouth.,1.8310727496917385,0.0099138719838902,5677,2144,2348,1185,self-deprecating,negative
+13,Sorry I’ve been so hard to get a hold of,1.719869706840391,0.0100314647163374,5526,2527,2020,979,sarcasm,negative
+12,"It's not so bad, my brother's a speed bump.",1.7266706803130645,0.0107628281641592,4983,2305,1735,943,unknown,positive
+8,It's not a career.  It's just a stepping stone.,1.7564336372847011,0.0106103532475676,4935,2118,1901,916,self-deprecating,negative
+21,Cliff?,1.6492741426467494,0.0112652732058287,4753,2559,1302,892,irony,neutral
+40,"You look familiar.  Six narrow, right?",1.541485664639444,0.0108331910976338,4604,2783,1149,672,sarcasm,neutral
+14,I wouldn't. It's a toupee.,1.712798937112489,0.0112105291387009,4516,2116,1581,819,incongruity-absurdity,negative
+19,"Remember, be nice to the people you pass on the way up, we'll be here on your way down.",1.6646539712029726,0.0107186916245892,4306,2029,1692,585,sarcasm,positive
+16,They said they needed someone to fill an opening .....,1.7080599812558577,0.0112337413765692,4268,1954,1606,708,incongruity-absurdity,neutral
+28,Would you be willing to answer a few questions about your customer experience?,1.621393384940183,0.0112876735716052,4263,2270,1337,656,sarcasm,neutral
+18,Is it just me or does anyone else dread these corporate team building activities?,1.668877551020408,0.0120000161139903,3920,1970,1278,672,sarcasm,negative
+37,It's still better than trying to meet people online.,1.5698868123190313,0.0112162975646624,3799,2076,1281,442,unknown,positive
+29,Please tell the manager I've had an accident on the trapeze in the next room.,1.6128347918324053,0.0123851959943856,3771,2103,1025,643,unknown,negative
+31,"Whatsamatter, never climb a rock face before?",1.608068394336094,0.0118837998118256,3743,2010,1190,543,sarcasm,neutral
+26,Please scratch my nose,1.625958378970427,0.0122628747673802,3652,1941,1136,575,incongruity-absurdity,neutral
+20,We can't all make Mt. Rushmore.,1.6522727272727271,0.0123143352485449,3520,1764,1216,540,unknown,neutral
+22,"You might get past me, but good luck with the glass ceiling.",1.6439805547612238,0.0128342316270753,3497,1851,1040,606,sarcasm,neutral
+41,"Psst, some advice... don't try to cancel your membership early.",1.5345032718619869,0.0120123222374316,3362,1962,1003,397,sarcasm,neutral
+33,That is not a rock your foot is on.,1.590129401143545,0.0130075383147751,3323,1894,897,532,incongruity-absurdity,negative
+5,Go ahead. Use me to get to the top.,1.790746900514061,0.0129631135308175,3307,1337,1325,645,sarcasm,neutral
+48,Could you scratch my nose first?,1.5023681717713926,0.0121399916246861,3167,1919,905,343,incongruity-absurdity,neutral

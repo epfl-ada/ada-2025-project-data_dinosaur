@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+My left or your left?,2.092482562645311,0.0083652289846358,7742,1772,3482,2488,incongruity-absurdity,neutral
+I always knew we'd wind up together.,1.998428167243005,0.0096646352206588,6362,1895,2582,1885,incongruity-absurdity,neutral
+"Please wag your tail, so I know which one is me.",1.9438165967064904,0.0099562435392014,6194,2085,2372,1737,unknown,neutral
+"If this shows up in National Geographic, we'll never hear the end of it.",1.9496086105675148,0.0100237777180236,6132,2051,2339,1742,exaggeration,negative
+"Oh dear, that's my wife!  Act casual.",1.9944444444444445,0.0102173945642444,5940,1858,2257,1825,irony,neutral
+5 o’clock...time to unwind!,1.8052226793060275,0.010255144157601,5591,2294,2092,1205,unknown,neutral
+counter clockwise on three.,1.856168172598193,0.010191110982465,5423,1973,2257,1193,incongruity-absurdity,neutral
+"Well, we're screwed.",1.8990366802519452,0.0108030207958473,5398,2000,1943,1455,exaggeration,negative
+"Now remember: righty-tighty, lefty-loosey.",1.7400191021967526,0.0105317855829282,5235,2377,1842,1016,wit-surprise,neutral
+You’re sure you saw this in the Kama Sutra?,1.926190962993253,0.011065182892441,4891,1658,1936,1297,sarcasm,neutral
+"You and your ""lets try new positions"".",1.8333709131905296,0.0115423563208892,4435,1741,1692,1002,sarcasm,neutral
+"This is why I’m not a hugger, Gerald.",1.9211031175059952,0.0119703439842268,4170,1423,1653,1094,sarcasm,negative
+"Whatever you do, don't sneeze!!!",1.720198265179678,0.0119928008606421,4035,1893,1378,764,sarcasm,positive
+"The lions are just laughing. That's good, right?",1.86125,0.0121978197263494,4000,1506,1543,951,irony,positive
+"Let's play 'Twister', he says. It'll be fun, he says. What could possibly go wrong, he says. Idiot.",1.7159060221442075,0.01253839619805,3703,1753,1249,701,sarcasm,positive
+"I'm looking for love, not entanglement""",1.867906976744186,0.0138405286578535,3225,1237,1177,811,sarcasm,neutral
+Maybe we're not ready to tie the knot.,1.617303953337654,0.0128459882109935,3086,1602,1063,421,unknown,neutral
+Well...so much for necking.,1.815238718116416,0.0140318332181351,3058,1255,1113,690,unknown,negative
+"Oh, no; was that the boarding announcement for the Ark?",1.6950776346217378,0.0138204865675111,3027,1477,996,554,wit-surprise,negative
+"You got it backwards.  It's righty tighty, lefty loosey.",1.8719654140339208,0.0141963933371862,3007,1128,1136,743,incongruity-absurdity,negative
+It looked a lot simpler when the swans did it.,1.6631425446591324,0.0135294431360032,2743,1306,1055,382,incongruity-absurdity,neutral
+It was more an entanglement than a serious affair.,1.5824665676077263,0.0135532817032838,2692,1462,892,338,incongruity-absurdity,negative
+Let’s stay in and unwind tonight...,1.5729646697388633,0.0137801760153892,2604,1437,842,325,unknown,neutral
+"Okay, the next time a bee flies around us I say we leave it alone...",1.739853896103896,0.0154585349609044,2464,1129,847,488,incongruity-absurdity,neutral
+It looked so easy on YouTube.,1.5811965811965811,0.014031394466436,2457,1324,838,295,incongruity-absurdity,positive
+How did we wind up together?,1.5738269479121825,0.0145255417484448,2323,1275,763,285,sarcasm,neutral
+I'm trying to see it from your point of view.,1.5997261524418074,0.0151131179948442,2191,1162,744,285,sarcasm,neutral
+I never thought this is how I would wind up.,1.5585668350941664,0.0151186147245479,2177,1234,670,273,self-deprecating,negative
+"Wrap your head around that"" is just an expression",1.556599342414279,0.0151031259266057,2129,1198,677,254,wit-surprise,neutral
+"That’s not my fat ass, that’s your fat ass!",1.632061805890874,0.016489418489359,2071,1104,625,342,sarcasm,negative

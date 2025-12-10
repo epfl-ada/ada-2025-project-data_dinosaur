@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I took a performance enhancer.,1.762779890156316,0.0082191908181839,9468,4417,2880,2171,unknown,neutral
+At least this thing’s turned on.,1.7416887944768986,0.008172516133388,9415,4490,2867,2058,incongruity-absurdity,neutral
+"... and lastly, to my  ever supportive, encouraging  and, I hope, forgiving wife who I forgot to mention at the award banquet earlier this evening.",1.762164081922576,0.0087907231187873,8447,4000,2456,1991,sarcasm,positive
+Thanks for coming tonight.,1.7048076923076922,0.008428556813467,8320,4049,2678,1593,sarcasm,positive
+Well your profile did say you wanted a man that could perform in bed,1.747122168585221,0.0087829793641984,8079,3797,2528,1754,sarcasm,neutral
+I need a volunteer from the audience.,1.7566854990583805,0.0086865743716434,7965,3598,2707,1660,wit-surprise,neutral
+It’s nice to see a familiar face in the crowd.,1.7363118122762826,0.0086702206252054,7543,3395,2742,1406,wit-surprise,positive
+And a special shoutout to my lovely wife who’s in the audience tonight.,1.8039346895074944,0.008804891349362,7472,3040,2857,1575,self-deprecating,positive
+Wow. Tough crowd.,1.7482601713062098,0.0088795598217987,7472,3378,2597,1497,sarcasm,negative
+Who said I couldn't perform in bed?,1.7325153374233129,0.0091493421589806,7335,3495,2307,1533,self-deprecating,neutral
+"This isn’t a one-night stand, I’m here all week.",1.7308328736900165,0.0089100233852845,7252,3326,2552,1374,self-deprecating,neutral
+You've been a great audience - I'll be on the couch Tuesday and Wednesday.,1.7092198581560285,0.0089288079101945,7050,3304,2492,1254,sarcasm,positive
+This next one goes out to a special lady in the audience. You know who you are.,1.7851666175169567,0.009361083060326,6782,2900,2439,1443,sarcasm,positive
+Apparently I will not be performing this evening,1.7445610832192302,0.0095770799397399,6573,3035,2182,1356,sarcasm,negative
+So a guy comes home just a little late from a bar.,1.7427392234790584,0.0094532971026614,6542,2970,2285,1287,irony,neutral
+"No, honey. Monday is book night, Tuesday is sex night, and Wednesday is open mike night.",1.7345132743362832,0.0094904079072976,6441,2950,2251,1240,sarcasm,neutral
+Any happily married people here tonight?,1.830389817024662,0.0099615687636245,6285,2583,2185,1517,sarcasm,neutral
+This not what I expected when you said 'one-night stand.',1.6991935483870968,0.0097744973878794,6200,3049,1967,1184,sarcasm,negative
+"I’m trying a new routine in the bedroom, just like you wanted.",1.7315696080012906,0.0096734832846921,6199,2853,2157,1189,sarcasm,neutral
+"Apparently, this isn’t the only thing which isn’t turned on.",1.7567786978405586,0.0101295976041998,6159,2877,1903,1379,sarcasm,neutral
+"My wife can read me like a book. In fact, she prefers the book.",1.7402024820378836,0.0098304665339882,6124,2814,2087,1223,self-deprecating,positive
+You could at least heckle me.,1.7025472473294987,0.0094436096156673,6085,2825,2245,1015,sarcasm,neutral
+"Your husband's almost home. I'm the warm-up.""",1.7032621294916377,0.0097048005582638,6039,2879,2073,1087,sarcasm,neutral
+I didn't complain when YOU started working from home.,1.7574397339983374,0.0099385570628592,6015,2693,2088,1234,sarcasm,neutral
+Hey. You said you wanted to marry a stand-up guy.,1.7606126186116198,0.0098209437789869,6007,2631,2183,1193,sarcasm,neutral
+"I didn't appreciate your comment ""every night is amateur night"".",1.7366706668952512,0.0101657732903796,5833,2728,1913,1192,sarcasm,negative
+"I'd like to make a toast to the extra firm mattress 
+that makes this all possible.",1.6856697279500954,0.0098027585313243,5771,2792,2001,978,wit-surprise,positive
+"So, I'm gonna guess this isn't the performance in the bedroom you were hoping for?",1.7553782095766828,0.010145385258006,5764,2587,2000,1177,sarcasm,negative
+"I don’t get it, you’re always saying my performance in bed is laughable…",1.6673758865248227,0.0100620656197801,5640,2860,1796,984,sarcasm,negative
+Second marriages are great; I'm looking forward to mine.,1.7480173035328046,0.01055680604161,5548,2590,1766,1192,self-deprecating,positive

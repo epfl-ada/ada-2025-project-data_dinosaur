@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,It's amazing to think he started out in the lobby.,2.131115459882583,0.025536041550852,1022,282,324,416,incongruity-absurdity,positive
+1,"Before we start, would anyone else like some water?",1.9502369668246449,0.0412262490236042,422,162,119,141,sarcasm,neutral
+2,He got his start in the lobby.,1.8985507246376807,0.0416067255428782,345,122,136,87,unknown,neutral
+3,...and I'll need an office with a window.,1.878125,0.0451667577004985,320,126,107,87,unknown,neutral
+4,Ten bucks says he mentions 'sustainable growth',1.8296296296296295,0.0475422322112834,270,109,98,63,sarcasm,neutral
+5,Don’t look so surprised people…this IS a hedge fund,1.8226415094339623,0.0488085826839532,265,111,90,64,sarcasm,negative
+6,I thought we were moving all of our plants to Mexico.,1.821969696969697,0.0512872348161474,264,119,73,72,irony,neutral
+7,It looks like Millennials are out and Perennials are in...,1.813953488372093,0.050495951840337,258,113,80,65,irony,neutral
+8,I thought all our plants moved to Mexico.,1.7890295358649788,0.0530570616538492,237,109,69,59,unknown,neutral
+9,"What I said was, ""We need a plan.""",1.7439613526570048,0.0555173069688964,207,99,62,46,wit-surprise,neutral
+10,I never thought I be happy to have a Bush in charge again.,1.7376237623762376,0.0581079567601035,202,102,51,49,irony,negative
+11,They brought him in from the outside.,1.7244897959183674,0.0567575030666321,196,96,58,42,unknown,neutral
+14,You're probably wondering how I called you all here.,1.7164948453608246,0.0583334274077398,194,99,51,44,wit-surprise,neutral
+12,Keep tabs on the boss. I suspect he is a plant … a Manchurian Cannabis who's been rain-washed.,1.7202072538860105,0.0566429118725328,193,94,59,40,sarcasm,neutral
+13,I bet he got the office with a window sill.,1.7202072538860105,0.0532035046059918,193,87,73,33,incongruity-absurdity,neutral
+15,You couldn't be any worse than the previous Bush.,1.7027027027027026,0.0600256135714196,185,97,46,42,sarcasm,negative
+16,I preferred the elder Bush.,1.6994535519125684,0.0611323386938514,183,98,42,43,irony,neutral
+17,Five years ago she was just a branch manager,1.6978021978021978,0.0578853260610924,182,91,55,36,unknown,neutral
+18,"Finally, a CEO who doesn't suck all the oxygen out of the room.",1.6944444444444444,0.0579481682732173,180,90,55,35,wit-surprise,neutral
+19,I think he was more effective as a branch manager.,1.6888888888888889,0.0575136012785054,180,90,56,34,wit-surprise,neutral
+20,We hired him to appeal to perennials.,1.687150837988827,0.0567131785846686,179,88,59,32,wit-surprise,neutral
+21,I hear she pollinated her way to the top.,1.680232558139535,0.0620967312802263,172,93,41,38,incongruity-absurdity,neutral
+22,These are not the paid leaves I was hoping for.,1.6764705882352942,0.0599355386274729,170,88,49,33,self-deprecating,negative
+25,Before the election I would have said he was under-qualified.,1.668639053254438,0.064315704350388,169,96,33,40,wit-surprise,negative
+26,He worked his way from the ground up.,1.668639053254438,0.0585840084386487,169,86,53,30,wit-surprise,neutral
+23,He worked his way from the ground up.,1.6745562130177514,0.0584807515288515,169,85,54,30,wit-surprise,neutral
+24,Be patient. He'll grow on you.,1.6706586826347305,0.0559839053703748,167,80,62,25,sarcasm,positive
+27,Don't worry. He'll be out by the end of Autumn...,1.6646341463414631,0.0594738760221911,164,84,51,29,irony,neutral
+28,"Just a friendly reminder, no dogs allowed at the company picnic.",1.6646341463414631,0.0588415264079351,164,83,53,28,unknown,neutral
+29,I thought we only hired Ivy League,1.6646341463414631,0.0588415264079351,164,83,53,28,wit-surprise,neutral

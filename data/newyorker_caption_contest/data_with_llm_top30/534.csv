@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Looks like Sammy wins the ""bring your pet to work"" contest. He ate all of the other entries!",1.831960461285008,0.0356256387608919,607,293,123,191,incongruity-absurdity,positive
+1,Anywhere but Eve's office.,1.8037735849056604,0.0362090826556328,530,246,142,142,unknown,neutral
+2,We're searching for rats that escaped from the subway's Track 23 dining room kitchen.,1.735,0.0458770012982572,400,235,36,129,irony,neutral
+3,Looks like you ordered from the wrong Amazon,1.7300771208226222,0.039430030168411,389,184,126,79,sarcasm,negative
+4,Speak softly and carry a big fish.,1.7239583333333333,0.0433781116449253,384,206,78,100,unknown,neutral
+5,We may want to let him work from home.,1.7214854111405835,0.0388324263358976,377,174,134,69,sarcasm,neutral
+6,That goes in Eve's office.,1.7138964577656677,0.0414661763950569,367,183,106,78,incongruity-absurdity,neutral
+7,If anyone starts singing 'That's A Moray' they're fired.,1.704225352112676,0.0433299662008897,355,186,88,81,sarcasm,negative
+8,It's a pet of the one-armed guy 9 back who is carrying it to the shredder.,1.6982758620689655,0.0499526893263362,348,219,15,114,incongruity-absurdity,neutral
+9,"I said we should get stuff from Amazon, not the Amazon.",1.68562874251497,0.0430356921057767,334,172,95,67,irony,neutral
+10,It looks like we have a reptile dysfunction.,1.6750788643533123,0.0455166759516295,317,172,76,69,wit-surprise,negative
+11,"No you fools, I told you to hire a civil SERVANT""",1.653061224489796,0.0467926311966744,294,163,70,61,sarcasm,negative
+12,"You ordered from the wrong Amazon again, didn't you?",1.6456140350877193,0.0470539304305488,285,158,70,57,sarcasm,negative
+13,"No, what I said was we need more stakeholders.",1.6431095406360423,0.0465529935609516,283,155,74,54,sarcasm,neutral
+14,Tell the front desk to bring doughnuts and a small rabbit to the conference room.,1.6418439716312057,0.0450506168322213,282,149,85,48,incongruity-absurdity,neutral
+15,Is that from Amazon?,1.635379061371841,0.0463400842256443,277,151,76,50,sarcasm,neutral
+16,The word is he did great things over at Apple.,1.6254681647940077,0.0478401778021352,267,150,67,50,sarcasm,positive
+17,I hope this means the toilet is now working.,1.618320610687023,0.0458624184548309,262,141,80,41,irony,neutral
+18,I see we're finally cleaning out the fridge.,1.618320610687023,0.0486475959485096,262,150,62,50,self-deprecating,neutral
+19,"Sir, you should probably assume your human form for the shareholders meeting.",1.6168582375478928,0.0482047015051126,261,148,65,48,sarcasm,neutral
+20,Ah. My Amazon delivery.,1.6162790697674418,0.0474060385115786,258,143,71,44,unknown,positive
+21,"Not as charming as the gecko, but we'll give it a shot.",1.611764705882353,0.0462529421690356,255,138,78,39,sarcasm,neutral
+22,I said we need stakeholders.,1.608695652173913,0.0510663118232689,253,152,48,53,irony,neutral
+23,Let's start thinking in the box.,1.608695652173913,0.0491889278568806,253,146,60,47,incongruity-absurdity,neutral
+24,I thought Milton Berle was dead.,1.6055776892430278,0.0553082187699706,251,165,20,66,wit-surprise,negative
+25,"No. What i said was, ""We need a gigantic shake up here.""",1.604,0.0473890164015039,250,139,71,40,sarcasm,neutral
+26,Just add it to the list of possible side effects.,1.6032388663967612,0.0492057667364021,247,142,61,44,sarcasm,negative
+27,Didn't work out in accounting. Turns out he's only an adder.,1.6,0.0498911494982856,245,143,57,45,incongruity-absurdity,negative
+28,"Ok fine, I'll call the plumber.",1.6,0.0471325657633509,245,135,73,37,sarcasm,neutral
+29,Couldn't we just get a shredder?,1.5967078189300412,0.045262851728652,243,129,83,31,sarcasm,neutral

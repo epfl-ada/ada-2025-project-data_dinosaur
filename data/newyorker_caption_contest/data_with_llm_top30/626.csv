@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+5,"No, I said I'm getting BUCKED, with a B.",1.8098280485881053,0.0069693846723021,12678,5338,4413,2927,self-deprecating,negative
+0,"About to land now, call you when I'm on the ground.",1.825864172427816,0.0067417560731337,12295,4692,5052,2551,irony,neutral
+1,"No, I can’t hold on.",1.8235876288659796,0.0069299143790039,12125,4788,4688,2649,sarcasm,negative
+2,"Test driving a new mustang, what are you up to?",1.8219501899535668,0.0069556538948273,11845,4636,4682,2527,irony,neutral
+3,Turns out this IS my first rodeo.,1.8188833841463412,0.0076666670442198,10496,4360,3677,2459,self-deprecating,positive
+7,"You’re absolutely right, dear – the rattlesnake ringer tone was not a good idea!",1.780895058732162,0.0078669793802192,10301,4659,3240,2402,sarcasm,negative
+8,"On second thought, let's add the accident coverage.",1.7710690493814103,0.0076192168619573,9457,3926,3770,1761,exaggeration,neutral
+20,Hold on!--it's just a dead zone.,1.669887854927225,0.00905154650969,8382,4718,1713,1951,unknown,neutral
+6,I'm in the air right now; let me call you back after I land.,1.7946192649531587,0.0081098887203866,8326,3310,3416,1600,sarcasm,neutral
+11,"Hi, I’d like to add a rider to my insurance policy.",1.7518030340711266,0.0084420396658461,8042,3550,2938,1554,sarcasm,neutral
+4,Hi Hon. Can you meet me at the hospital in about ten minutes?,1.8110167374469148,0.008631799301954,8006,3287,2945,1774,sarcasm,neutral
+12,This is so relaxing after working in the White House.,1.7451842275371687,0.0090731942577169,7735,3699,2308,1728,sarcasm,positive
+14,Fire that idiot in purchasing. Get me a CHEVY Bronco and for Heaven's sake CANCEL MY WIFE'S JAGUAR!!,1.7314685314685314,0.0096057338083565,7150,3576,1918,1656,exaggeration,negative
+13,"Siri, what’s the safest way to fall from a horse?",1.7407301768397034,0.0090839073586926,7012,3173,2484,1355,unknown,neutral
+18,"The Uber only said ""Brown Bronco""!!",1.680583646344987,0.0088906654262137,6922,3352,2429,1141,irony,neutral
+17,And you say my coverage is effective immediately?” ... “Excellent.,1.7068783068783069,0.0089933395290846,6615,3023,2508,1084,sarcasm,positive
+15,Yeah! Ironically this was the last item on my bucket list.,1.7266430660304757,0.0093814895056814,6497,2988,2297,1212,irony,positive
+24,"Well actually, it is my first rodeo!",1.6279882309672673,0.0099759227604517,5438,2859,1743,836,self-deprecating,positive
+10,"Hang on, I think I'm being dropped by my carrier.",1.7586404430017186,0.0106513197354767,5237,2340,1821,1076,sarcasm,neutral
+26,Let me get back to you -- things are kind of up in the air right now.,1.6246808510638298,0.0101336020107814,4700,2347,1770,583,sarcasm,neutral
+25,Sorry. Butt dial.,1.6253634533661374,0.0112145524736986,4471,2408,1330,733,sarcasm,neutral
+22,You now have my unbridled attention.,1.6494957754156443,0.0122309588080957,3669,1875,1205,589,sarcasm,positive
+21,I should be landing shortly,1.668598233995585,0.0116988761453291,3624,1698,1429,497,sarcasm,neutral
+28,Let me call you back. I’m about to land.,1.5943368968506213,0.0117895274415233,3461,1819,1227,415,sarcasm,neutral
+32,Let me call you back.  I'm just about to land.,1.5638173302107727,0.0119004197472332,3416,1896,1114,406,sarcasm,neutral
+16,And how would you suggest I hold my horses?,1.7069377990430623,0.0128670299089033,3344,1559,1206,579,sarcasm,neutral
+29,"Hey, I lasted longer than most of Trump’s appointees!",1.5904912836767036,0.0131736136270444,3155,1774,899,482,self-deprecating,positive
+33,Whoa!  The buck stops here!,1.554953806944887,0.0128846512935113,3139,1827,882,430,unknown,neutral
+23,"No, seriously, I really DO need to see a man about a horse.",1.646063760572544,0.0130425815580363,3074,1540,1082,452,self-deprecating,neutral
+19,Pre-existing conditions? Not yet.,1.673964297743348,0.0132814040496253,2969,1419,1099,451,irony,neutral

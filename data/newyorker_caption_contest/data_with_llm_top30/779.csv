@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I don't ask you how you squeezed into that sweater.,1.9494967649173256,0.0109581441096489,5564,2006,1833,1725,sarcasm,neutral
+"Well, as it turns out, he didn't taste like chicken.",1.7519171779141105,0.0110227136283218,5216,2460,1590,1166,incongruity-absurdity,negative
+You sure this'll fool the landlord?,1.8528,0.0114233327232511,5000,2053,1630,1317,sarcasm,neutral
+"Technically, the goldfish is still in this bowl.",1.8418345477925415,0.0117227606881642,4666,1923,1558,1185,incongruity-absurdity,neutral
+I identify as goldfish.,1.7510907504363002,0.0117388794259512,4584,2160,1405,1019,irony,neutral
+"I am a talking dog, for crying out loud, and you're fixated on how I got into this glass globe?",1.7857783759533423,0.0119900103502519,4458,2008,1397,1053,irony,negative
+We all live in one. You just can't see yours.,1.8413571756075195,0.0120370759331535,4362,1779,1496,1087,incongruity-absurdity,neutral
+I identify as a fish.,1.7348954743854812,0.0118897338977883,4353,2069,1369,915,incongruity-absurdity,neutral
+"Technically, the fish is still in the bowl.",1.849630996309963,0.0121042972363034,4336,1752,1484,1100,incongruity-absurdity,neutral
+No Jack.  She said to put the guppy in the bowl and take the puppy out.,1.7609902822767238,0.0119303005667707,4322,1969,1417,936,unknown,neutral
+Terrierium,1.747512149965286,0.0118326008983997,4321,1990,1432,899,irony,neutral
+It's just until you are vaccinated.,1.8358463035019457,0.012383221692867,4112,1689,1409,1014,sarcasm,neutral
+I can recommend the fish.,1.8390243902439023,0.0125423756995052,4100,1705,1350,1045,unknown,positive
+I'm guessing I'm your first dog.,1.8218937875751504,0.0122846900209979,3992,1621,1461,910,self-deprecating,neutral
+"Next time you order a Guppy, turn off the AutoCorrect!",1.8448012232415905,0.0131167130847033,3924,1676,1181,1067,incongruity-absurdity,neutral
+You don't really know what a dog bowl is do you?,1.7783797729618165,0.0125844878665346,3876,1714,1307,855,irony,negative
+And you wonder why she thinks you’re not ready to have kids.,1.8155059132720104,0.0130009086690413,3805,1639,1229,937,self-deprecating,negative
+"Now that you've sobered up, do you remember where you took the goldfish on their walk?",1.8810026385224272,0.0131608817660871,3790,1496,1249,1045,incongruity-absurdity,neutral
+"In a sense, the goldfish is still in the bowl.",1.8001092299290005,0.0128904287946263,3662,1553,1288,821,wit-surprise,neutral
+Fish and I swapped.  He's on your bed.,1.77311857817273,0.0130674388876666,3601,1608,1202,791,incongruity-absurdity,neutral
+Forget the little castle. Could I get a fire hydrant in here?,1.8565463763793617,0.0137793364508287,3353,1342,1150,861,irony,neutral
+"In my defense,the water dish was empty and the toilet lid was down",1.8971730351040696,0.0140022437586286,3219,1198,1154,867,sarcasm,neutral
+It's called a terrierium.,1.7603485838779955,0.0137862937493037,3213,1458,1067,688,incongruity-absurdity,neutral
+"I think I'd rather have the cone of shame back, please.",1.7384615384615385,0.0138570696552524,3120,1449,1038,633,self-deprecating,negative
+"This is your first pet, isn't it?",1.758127438231469,0.0137028681478596,3076,1350,1120,606,incongruity-absurdity,neutral
+"No, I haven't seen the goldfish. Why do you ask?",1.7797737857618097,0.0140384423177101,3006,1294,1080,632,sarcasm,neutral
+"Well, it was a catfish.",1.73823230612936,0.0140738431218923,2953,1351,1024,578,incongruity-absurdity,negative
+Now I know how they get the model ships in. It's not pretty.,1.7353750860289057,0.0139952827869996,2906,1313,1049,544,incongruity-absurdity,negative
+"Now that you got me past the condo board, get me out of here!",1.761543762922123,0.0144957239477031,2902,1313,968,621,sarcasm,neutral
+I'll admit that mistakes were made.,1.7352433551950293,0.0139639746404532,2897,1303,1058,536,sarcasm,neutral

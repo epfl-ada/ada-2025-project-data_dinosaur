@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Does this outfit make me look middle aged?,1.7348122006554072,0.0124099851696281,3967,1877,1265,825,self-deprecating,negative
+"Dress for the job you want,not the job you have.",1.7368288379127803,0.0122611443886502,3967,1842,1327,798,incongruity-absurdity,neutral
+Watch out.  Serfs are up.,1.7480294940249177,0.0125334778997129,3933,1835,1254,844,sarcasm,neutral
+Hi. I’m Rusty.,1.743104380746349,0.0126679138501996,3698,1694,1260,744,self-deprecating,neutral
+Can I interest you in a one knight stand?,1.7827153762268266,0.0135067729730341,3668,1712,1041,915,incongruity-absurdity,neutral
+I’d say the toughest part is the chainmail Speedo.,1.752290950744559,0.0135757415639918,3492,1663,1031,798,unknown,neutral
+Could you rub some WD-40 on my back?,1.7898528970279195,0.0134643528089827,3331,1429,1173,729,incongruity-absurdity,neutral
+"Thanks, I like your suit too.",1.71131221719457,0.0124568790458718,3315,1469,1334,512,sarcasm,positive
+This is just a summer job to help pay for knight school.,1.756198347107438,0.013688809032442,3146,1404,1105,637,unknown,neutral
+"Swimmers in distress are all yours, damsels in distress are mine.",1.7241489023226215,0.0134400942720348,3143,1445,1120,578,sarcasm,negative
+I'm using WD 40 instead of SPF 40,1.7148880960103794,0.0135803788870084,3083,1441,1080,562,sarcasm,neutral
+"Laugh all you want, but which one of us looks more like shark bait?",1.7260318492037698,0.0134571835784183,3077,1394,1132,551,self-deprecating,negative
+I'm having a Middle-Ages crisis.,1.7197659297789336,0.0136270144103049,3076,1430,1078,568,self-deprecating,negative
+You look like you've never seen a middle aged lifeguard before.,1.734375,0.0139551212463693,3072,1435,1018,619,sarcasm,negative
+I have been greatly misinformed about the nature of the ironman challenge.,1.648676880222841,0.0138449213542774,2872,1472,937,463,irony,negative
+USC. And you?,1.7226534932956952,0.0146706504098736,2834,1366,888,580,sarcasm,neutral
+"It's a spear.  But, yes I'm happy to see you.",1.636978981118632,0.0143462170139069,2807,1505,816,486,sarcasm,positive
+There is a high serf advisory.,1.7575201760821717,0.0147069980158633,2726,1214,959,553,sarcasm,neutral
+'You can live much closer to the ocean if you're willing to downsize.',1.628977910894796,0.014147107747689,2671,1393,876,402,unknown,positive
+"When I asked for the Knight shift, this wasn't what I had in mind.",1.6550607287449393,0.0146570020215967,2470,1228,866,376,incongruity-absurdity,negative
+I dress for the job I want.,1.633957654723127,0.014671866269069,2456,1263,829,364,unknown,neutral
+This was actually built in a day.,1.6693877551020408,0.0147320129311555,2450,1190,880,380,incongruity-absurdity,neutral
+I'm searching for the Holy Pail.,1.6626506024096386,0.015526304411366,2407,1241,737,429,wit-surprise,neutral
+It’s a little hot but it’s SPF rating is off the charts.,1.6573485811096993,0.0148925553271396,2361,1161,848,352,unknown,negative
+"My orders for this battle are to turn the tide,",1.6574855619724569,0.0153213685591094,2251,1112,798,341,irony,neutral
+The castle looked bigger on Zillow.,1.8176967541129392,0.0162147919045057,2249,907,845,497,incongruity-absurdity,positive
+You’re jealous because mine is actually a pony’s tail .,1.61751563896336,0.0154212188268762,2238,1187,720,331,sarcasm,neutral
+We clearly interpreted “Protect the beach” very differently.,1.659047619047619,0.0157531930876344,2100,1027,762,311,irony,neutral
+"Don't give me that look, three drowning girls this month said I was their knight in shining armor.",1.640405993233446,0.0155489751964895,2069,1023,767,279,irony,negative
+"The pay isn't much, but the dragons are way smaller.",1.612918892666343,0.0156850683151951,2059,1074,708,277,exaggeration,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+That wasn't the kind of erection I had in mind,1.849364199543528,0.0103009362594447,6134,2607,1888,1639,sarcasm,negative
+"On second thought, put them back in a circle.",1.916911524649037,0.0098773626522797,6126,2111,2416,1599,incongruity-absurdity,neutral
+I forgot what I came upstairs for.,1.934090138935954,0.010499462535784,5902,2127,2037,1738,unknown,negative
+"Marry a hunter or gatherer,"" they said. ""But he's so creative,"" I said",1.8795223041798383,0.0102975213183809,5694,2103,2174,1417,wit-surprise,neutral
+Did you even look at the instructions?,1.8540120183810531,0.0102342084206108,5658,2181,2141,1336,sarcasm,negative
+How about you do a little more hunting and a little less gathering?,1.899783315276273,0.010513477197471,5538,2000,2093,1445,sarcasm,neutral
+"First a wheel, now stairs. When are you going to invent something useful?",1.8552200800291017,0.0106792310426088,5498,2179,1936,1383,sarcasm,negative
+It’s a rock classic.  I’ll call it Stairway to Heaven.,1.860007291286912,0.0108960484538928,5486,2224,1806,1456,wit-surprise,positive
+Still no reception?,1.840171577769489,0.010629761240469,5362,2121,1977,1264,irony,negative
+Is this another one of your pyramid schemes?,1.8709372637944064,0.0109035601656802,5292,2050,1875,1367,sarcasm,negative
+"Okay, now throw me the slinky.",1.8393474088291744,0.0109961941534783,5210,2131,1787,1292,unknown,neutral
+"First a ""wheel"" attached to nothing. Now ""stairs"" to nowhere. No wonder everyone thinks you're a Neanderthal.",1.8738946559015763,0.0111659908137186,5202,2056,1746,1400,sarcasm,negative
+Well? Is it flat or not?,1.8331308221952207,0.0111603938686794,4938,1999,1764,1175,irony,neutral
+I can't remember what I came up here for.,1.8923264807653164,0.0114467228372334,4913,1874,1694,1345,unknown,negative
+Don't make me come up there.,1.8225444149479273,0.0110070691737884,4897,2017,1770,1110,sarcasm,negative
+I don't see how this is easier than asking for directions....,1.83540943434756,0.0112813102968758,4897,1995,1713,1189,sarcasm,negative
+"For God’s sake George, put on some underwear.",1.8929676221901424,0.0116406709216805,4849,1880,1608,1361,sarcasm,negative
+Those better not be my good rocks.,1.922786403692824,0.0114273820077601,4766,1681,1772,1313,irony,negative
+Can you see where we parked the wheel?,1.8380706287683033,0.0113511165158654,4644,1828,1741,1075,unknown,neutral
+"Frankly, it strikes me as a solution in search of a problem.",1.852037480932665,0.0113964840393176,4589,1757,1754,1078,wit-surprise,neutral
+Not until you invent the handrail.,1.8291512109971635,0.0113038427417871,4583,1800,1766,1017,incongruity-absurdity,neutral
+I'm sure this time. I liked it better facing the other way.,1.8700980392156863,0.011692832224133,4488,1706,1659,1123,self-deprecating,positive
+"Now that I see it, I liked it better the other way.",1.813947934081681,0.0117749180192893,4187,1677,1612,898,incongruity-absurdity,positive
+Half a million hunter gatherers on the continent and I go ahead and pick the one engineer.,1.85748502994012,0.0118575953032434,4175,1565,1640,970,irony,negative
+"Okay, I'll come up, but just for one drink.",1.816593886462882,0.0123929317048539,3893,1586,1435,872,incongruity-absurdity,neutral
+I’ve always wanted to live in a brown stone walk-up.,1.807058217413704,0.0124904850347432,3882,1622,1387,873,incongruity-absurdity,neutral
+"Based on the way you are looking at me,I think I will call it ‘stairs’",1.803561491374513,0.0131450650730776,3594,1540,1221,833,unknown,neutral
+"Well, just look at you, Mr. Homo Erectus.",1.884195804195804,0.0134402693955741,3575,1385,1219,971,sarcasm,neutral
+"Now that you've got the 12 steps, what's the program?",1.8014471780028944,0.0132838089859026,3455,1464,1213,778,sarcasm,neutral
+"Just like our relationship, on the rocks and leading nowhere.",1.8018557318168211,0.0137535560875184,3341,1455,1096,790,self-deprecating,negative

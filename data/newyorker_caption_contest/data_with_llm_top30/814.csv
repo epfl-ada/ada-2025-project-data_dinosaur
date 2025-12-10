@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"It has unlimited, data, unlimited minutes, with one string attached.",1.9026504830319544,0.0129365074110307,4037,1579,1272,1186,sarcasm,neutral
+"Before I send someone out there, please unplug the string from the back of your can then plug it firmly back in.",1.880276081762676,0.0135039439043371,3767,1546,1126,1095,incongruity-absurdity,neutral
+I'm on my landline.,1.7501624431448992,0.0139189083838068,3078,1398,1051,629,irony,neutral
+There's no cell service out here but fortunately I have a land line.,1.7707934074357992,0.0149311265098856,2609,1126,955,528,unknown,neutral
+Roaming charges? Seriously?,1.7844792923200643,0.0155889198888509,2487,1077,869,541,irony,negative
+Freddy?  From the fifth grade?,1.777957206297941,0.0157732564217531,2477,1099,829,549,sarcasm,neutral
+"I'll call you back, I'm on the can.",1.8127816468660385,0.0164791743845562,2441,1080,738,623,incongruity-absurdity,neutral
+Yes I would be interested in a new long distance plan.,1.7765339966832503,0.0157171353101137,2412,1048,855,509,sarcasm,positive
+"Hold on, I'm getting a call from another can -- but I think it's spam.""",1.843039126478617,0.0174642590894724,2198,936,671,591,sarcasm,neutral
+It’ll work better once we get the kinks out.,1.7488563586459287,0.0157783808026825,2186,938,859,389,incongruity-absurdity,neutral
+We can talk. They can't trace it.,1.733826247689464,0.016214978416251,2164,980,780,404,sarcasm,neutral
+You sound a little tinny.,1.7454289732770745,0.0160589450952872,2133,927,822,384,sarcasm,negative
+I've switched to Horizon.,1.7642857142857142,0.0173332833480823,2100,968,659,473,sarcasm,neutral
+I assure you this is a secure line.,1.747846889952153,0.0163988356246955,2090,917,783,390,sarcasm,positive
+"Yes, I am still working remotely.",1.7754807692307693,0.0164638952675836,2080,872,803,405,self-deprecating,neutral
+This phone's rates are cheap but there may be some strings attached.,1.7625304136253042,0.0165927508157302,2055,883,777,395,unknown,neutral
+That's because I AM talking in a tin can.,1.864717542120912,0.0173557637220124,2018,768,755,495,self-deprecating,neutral
+Cordless?  Since when?,1.7193798449612403,0.0170400466039697,1935,891,696,348,irony,neutral
+"Where AM I?  At the end of my rope, that's where!",1.795243019648397,0.0178332897949333,1934,833,664,437,self-deprecating,neutral
+"Hold it to your eye, Ralph. We just got video.",1.785307811691671,0.0178349113228629,1933,846,656,431,sarcasm,neutral
+Better talk quick-I have to wind up this call...,1.754970445996776,0.0176495404663332,1861,823,671,367,sarcasm,neutral
+"I thought I told you never to call me here.""",1.7173562600752283,0.0176090875452659,1861,874,639,348,sarcasm,negative
+"No, they can’t find me out here. This is a burner can",1.729832160259881,0.0178649712044369,1847,861,624,362,sarcasm,negative
+Can this wait? I’m on roaming.,1.718888888888889,0.0176760996643668,1800,830,646,324,sarcasm,negative
+"Why yes, I am on a landline.",1.7078071182548795,0.0185737338893867,1742,852,547,343,sarcasm,neutral
+No I switched carriers from Campbell to Progresso!,1.8755137991779216,0.0194419883672334,1703,667,581,455,sarcasm,neutral
+"No, this is not a spam call.  I checked the label.",1.8873493975903617,0.0199305090032545,1660,651,545,464,sarcasm,neutral
+"No, I have the new iCan.",1.7932721712538229,0.0196553803982124,1635,720,533,382,sarcasm,neutral
+"Yeah, I’m still working remote.",1.7476923076923077,0.0186566049221207,1625,716,603,306,self-deprecating,neutral
+"Creamed corn, 16 oz. Why do you ask?",1.7416555407209613,0.0198435163800909,1498,685,515,298,incongruity-absurdity,neutral

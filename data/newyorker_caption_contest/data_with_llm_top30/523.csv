@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,You ordered from the wrong Amazon.,1.891150442477876,0.0166964500708186,2260,848,810,602,sarcasm,negative
+1,Then maybe you should just tell me what you want for your birthday instead of saying you don't care.,1.8185993111366243,0.0272172213326913,871,374,281,216,sarcasm,negative
+2,I think I ordered from the wrong Amazon.,1.8098360655737704,0.0331379093463414,610,273,180,157,sarcasm,negative
+3,I don't mind the monkey see as much as the monkey doo.,1.765993265993266,0.031722766199851,594,263,207,124,incongruity-absurdity,neutral
+4,I'll tell you what could be more fun--a barrel of wine.,1.7562380038387717,0.0342627217311528,521,238,172,111,wit-surprise,positive
+5,Can we have one argument without you bringing up the monkeys?,1.749486652977413,0.036506816045028,487,234,141,112,sarcasm,negative
+7,Should I have gotten a half-barrel?,1.730263157894737,0.034560668306856,456,202,175,79,unknown,neutral
+8,Apparently George was more than curious.,1.7119047619047618,0.0385953856952909,420,209,123,88,incongruity-absurdity,neutral
+6,Why can't we just have an elephant in the room like everyone else?,1.7313432835820894,0.0391426425537596,402,192,126,84,incongruity-absurdity,negative
+11,I miss the elephant in the room.,1.6843434343434345,0.0399416952397176,396,207,107,82,unknown,neutral
+9,I feel like you've evolved and your friends haven't.,1.6957671957671958,0.0396479061436432,378,187,119,72,irony,neutral
+10,Do I complain about your spoon collection?,1.694767441860465,0.0391609943069815,344,159,131,54,sarcasm,negative
+13,No.... I'm pretty sure you left that off your dating profile.,1.679245283018868,0.0416991047513315,318,155,110,53,sarcasm,neutral
+12,we might have ordered from the wrong amazon,1.6793650793650794,0.0436685747922292,315,161,94,60,sarcasm,neutral
+15,I believe you ordered from the wrong Amazon.,1.6655948553054662,0.0433555057060958,311,160,95,56,sarcasm,negative
+25,How in the world could you forget to pick up bananas?!,1.630718954248366,0.0425873833740875,306,162,95,49,sarcasm,negative
+19,Who can we regift?,1.6464646464646464,0.0415646838042123,297,147,108,42,sarcasm,neutral
+17,You knew I was an uncle when you met me.,1.6524822695035462,0.0434996501190224,282,141,98,43,unknown,neutral
+14,I guess we both now know it was a banana in my pocket.,1.6763636363636365,0.0497100235875472,275,152,60,63,sarcasm,neutral
+22,Any side effects to your new prescription?,1.6342412451361867,0.0486344842989926,257,142,67,48,sarcasm,neutral
+18,How long will they be observing us in our natural habitat?,1.6507936507936507,0.0465854649775427,252,128,84,40,irony,neutral
+23,The zoo said I could work from home today.,1.632,0.0481203310988218,250,135,72,43,incongruity-absurdity,neutral
+28,Did I complain when you had your sisters for the weekend?,1.6188524590163935,0.0481656497583615,244,133,71,40,sarcasm,neutral
+26,Kiss our security deposit goodbye.,1.6271186440677967,0.047510402884219,236,123,78,35,irony,neutral
+20,Well...technically they were here before us.,1.6382978723404256,0.047535233847882,235,120,80,35,incongruity-absurdity,neutral
+36,Just be glad it's not the Year of the Snake.,1.5972850678733033,0.0465065847349474,221,115,80,26,irony,negative
+33,I'm suddenly in the mood for rhesus pieces.,1.6063348416289591,0.0522530491359981,221,127,54,40,irony,positive
+24,I found them on ancestry.com.,1.6318181818181818,0.04803685988037,220,111,79,30,irony,neutral
+30,You said they were both girls!,1.6118721461187215,0.0492941957357527,219,117,70,32,irony,neutral
+32,Life was easier when you were a cat person.,1.6064814814814814,0.0494480573671867,216,116,69,31,sarcasm,positive

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Who's endangered now?,1.6822157434402332,0.0294922028344201,686,348,208,130,irony,neutral
+1,They were never going to find you anyway,1.60167714884696,0.0350113208290657,477,272,123,82,sarcasm,negative
+2,Sorry...I was texting.,1.5899122807017545,0.0362281822080013,456,268,107,81,sarcasm,neutral
+3,"Yeah, well your profile wasn't exactly honest either.",1.5833333333333333,0.0347791597242506,444,250,129,65,sarcasm,negative
+4,I'd like to settle this without involving my insurance company.,1.514792899408284,0.0377619594472365,338,203,96,39,irony,neutral
+6,"Sorry, totally thought I could jump it.",1.5060975609756098,0.0405070381472304,328,209,72,47,sarcasm,neutral
+5,"Sorry mate, I was swimming and texting.",1.5107692307692309,0.0386392853847694,325,197,90,38,sarcasm,neutral
+7,"Ironically, I'm not even a killer whale.",1.4968354430379749,0.0381663337508002,316,192,91,33,irony,neutral
+8,"I ain't heavy, I'm your blubber.",1.4952380952380953,0.04227180910655,315,208,58,49,unknown,neutral
+9,We should probably exchange insurance information.,1.4952380952380953,0.0398083134694315,315,198,78,39,irony,neutral
+10,"You were right, white whales can't jump.",1.4903225806451612,0.0405452667113923,310,198,72,40,unknown,negative
+11,Online you said you were a dolphin.,1.4852459016393442,0.0407786072293361,305,196,70,39,irony,neutral
+12,"Hold still, dammit, I'm trying to get the hook out.",1.476351351351351,0.0425151827397319,296,197,57,42,incongruity-absurdity,neutral
+13,Did I land on a palm tree or are you just happy to see me?,1.4761904761904765,0.0390463109190134,294,183,82,29,sarcasm,positive
+14,Those aren't coconuts.,1.4761904761904765,0.0438099477788118,294,200,48,46,incongruity-absurdity,negative
+15,"So, any chance you could push me back into the water?",1.4726027397260273,0.040413531952964,292,187,72,33,self-deprecating,neutral
+16,Who's the endangered species now?,1.4705882352941178,0.042168261112954,289,191,60,38,irony,neutral
+17,"He ain't heavy, he's my blubber.",1.4705882352941178,0.0427343033680458,289,193,56,40,unknown,neutral
+18,"I thought your sign said, ""Kelp""",1.4666666666666666,0.0414306386302846,285,186,65,34,incongruity-absurdity,neutral
+19,You have to hide me. I'm being stalked by some crazy guy with a wooden leg.,1.4645390070921986,0.0435289596098181,282,191,51,40,sarcasm,negative
+20,My therapist was right. I do put too much pressure on people.,1.4645390070921986,0.0392609520093202,282,177,79,26,self-deprecating,negative
+21,"I was wrong, being ALONE on a deserted island isn't the worst thing that can happen!",1.4626334519572954,0.0412467205711474,281,183,66,32,exaggeration,negative
+22,"I guess now, I'm a killer whale.",1.4607142857142856,0.0416578880372644,280,184,63,33,self-deprecating,negative
+24,"Moby, stop being such a dick!",1.4528985507246377,0.0436158341688278,276,189,49,38,sarcasm,negative
+25,I vote you off the island.,1.4485294117647058,0.0388542305811811,272,172,78,22,sarcasm,negative
+26,I just had lunch and can't go back in the water for at least an hour.,1.445692883895131,0.0404075411122041,267,173,69,25,incongruity-absurdity,negative
+27,Does this island make me look fat?,1.4452830188679244,0.0409745147636202,265,173,66,26,incongruity-absurdity,negative
+28,Looks like my sonar worked about as well as your GPS.,1.4452830188679244,0.0430167112496418,265,179,54,32,sarcasm,neutral
+29,NOW it's a deserted island,1.4452830188679244,0.0446472425679253,265,184,44,37,exaggeration,negative
+30,"Look, I'm not thrilled about it either.",1.441509433962264,0.0402506789494911,265,172,69,24,self-deprecating,negative

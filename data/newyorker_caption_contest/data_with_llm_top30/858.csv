@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You can claim them as out-of-pocket expenses.”,1.572704329256455,0.0108110539647211,5151,3121,1110,920,sarcasm,neutral
+It just depends on what you're looking for -- unconditional adoration or soul-crushing disregard.,1.6250588789448892,0.0120728260220579,4246,2408,1022,816,self-deprecating,neutral
+"Not only is it fashionable, it’s fur lined.",1.532669983416252,0.0140761906617946,3015,1934,556,525,irony,neutral
+What you see is what you pet.,1.5456545654565457,0.014477295249054,2727,1680,606,441,unknown,neutral
+In-laws have allergies? I've got what you need.,1.5892857142857142,0.0160788879706668,2184,1249,583,352,sarcasm,neutral
+Your money or I’ll give these to your kids.,1.5136690647482014,0.016260419624677,2085,1328,443,314,sarcasm,negative
+Click on ‘funny’ if you think the New Yorker should find a better way to select the best captions.,1.5495668912415783,0.0178838330749464,2078,1369,276,433,wit-surprise,neutral
+It’s called an Emotional Support Coat,1.5651741293532335,0.0161096019493903,2010,1151,582,277,irony,neutral
+I Shih Tzu not.,1.6092680358083202,0.0180329784503931,1899,1102,437,360,incongruity-absurdity,neutral
+"They fell off a garbage truck, so they’re the pick of the litter.",1.5820416889363975,0.0177244223083618,1871,1104,445,322,incongruity-absurdity,negative
+It’s just a pet project of mine,1.5412595005428882,0.0165902862912277,1842,1083,521,238,incongruity-absurdity,neutral
+"Like children, only better",1.559978189749182,0.0171945562144938,1834,1078,485,271,incongruity-absurdity,positive
+Unconditional love or mutual indifference?,1.502783964365256,0.0167731611024995,1796,1122,445,229,incongruity-absurdity,neutral
+All stolen from good homes.,1.5456595264937991,0.016800676939621,1774,1030,520,224,irony,negative
+Can I interest you in a chick magnet?,1.5723234624145783,0.0172762471683026,1756,996,515,245,sarcasm,neutral
+I prefer the term ‘rescue.’,1.5378874856486795,0.0164731368089833,1742,1000,547,195,wit-surprise,neutral
+"When I said “wait till you see these puppies,” what did you think I meant?",1.634818288393904,0.018610971908743,1706,929,471,306,irony,neutral
+"I’ve got something for everyone: you want to be greeted with love and adoration, or would you prefer to be glanced at in disgust when you come home from work",1.520958083832335,0.0174504930726812,1670,1016,438,216,sarcasm,neutral
+"Sure, they’ll always be this size.",1.5800604229607251,0.0175918435380067,1655,917,516,222,irony,neutral
+"Trust me, I've been vetted.",1.520123839009288,0.0173549492072088,1615,966,458,191,self-deprecating,neutral
+Think of it as an endearing investment.”,1.491304347826087,0.0194935100810112,1610,1110,209,291,sarcasm,positive
+"I got uppers, downers, off-the-couchers...",1.508312020460358,0.0176658138965339,1564,955,423,186,exaggeration,neutral
+"Trust me, Bub, you're a cat guy. A dog man doesn't leave the house in slippers.",1.4935979513444302,0.0184103753014907,1562,1009,335,218,sarcasm,neutral
+They’re all named Rolex.,1.5496774193548386,0.0184994337876385,1550,917,414,219,unknown,neutral
+"Psst. Hey buddy, $10 each, or if you take them all, I'll give you $50.",1.5949702183984116,0.019595733796344,1511,868,387,256,sarcasm,neutral
+"Take it from me, there’s no better way to feel warm and fuzzy inside.",1.5079575596816976,0.0176119663681294,1508,906,438,164,self-deprecating,positive
+These are the knockoff designer breeds.,1.5472703062583222,0.0180944413049413,1502,863,456,183,incongruity-absurdity,negative
+''These were only used during Covid'',1.5141129032258065,0.0185295618720608,1488,917,377,194,exaggeration,negative
+Four ways to say ‘I'm sorry.’,1.487109905020353,0.0195784413449048,1474,988,254,232,sarcasm,negative
+"For an extra hundred, it's a licensed emotional support pet your landlord can't evict.",1.5189524465885595,0.018958715144368,1451,895,359,197,exaggeration,neutral

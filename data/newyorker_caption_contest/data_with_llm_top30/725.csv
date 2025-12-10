@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"You know, pumpkins are in season, too.",2.0200966480018407,0.007034868081124,13037,4077,4621,4339,unknown,neutral
+I want to change my answer.  My favorite food is watermelon.,1.974442631865144,0.0071438903361719,12873,4397,4408,4068,unknown,positive
+"Like you always say, Dad, 'Aim high.'",1.9324720542422575,0.0076680546875767,10914,3895,3861,3158,sarcasm,positive
+Couldn't you be like all the other dads and  mark my height on the tree with a pencil?,1.9324648928307464,0.00775353535953,10824,3916,3719,3183,sarcasm,neutral
+I now see why you only get me every other weekend.,1.930903420719228,0.0081809383441696,10261,3902,3166,3193,sarcasm,negative
+You said you and Mom played this game earlier? Where is Mom?,1.8931144915932747,0.0081922222692574,9992,3941,3178,2873,sarcasm,neutral
+"I’m just saying, after this haircut, it’s difficult to trust you.",1.8772279303837285,0.0082659769229384,9538,3765,3179,2594,sarcasm,negative
+"Dad, did all of my older brothers really go off to boarding school?",1.8342186808322267,0.0082774359100058,9036,3670,3194,2172,exaggeration,neutral
+Dad! Glasses!,1.8162609095084976,0.0084330012034987,8708,3643,3022,2043,incongruity-absurdity,positive
+What do you mean ‘either way it will go viral’?,1.884861932938856,0.0093193681122658,8112,3378,2290,2444,sarcasm,neutral
+"You know, other dads just play catch.",1.741528869612361,0.0086560445233113,7378,3239,2807,1332,sarcasm,neutral
+"William Tell's lesser known brother, Maraschino",2.0631376608014196,0.0106387730430711,6763,2388,1560,2815,incongruity-absurdity,neutral
+"Wait, dad! Your glasses!",2.241806492080916,0.0100382438640268,6377,1464,1907,3006,incongruity-absurdity,neutral
+Maybe we could do this via zoom?,2.167588932806324,0.0106047565434434,6325,1808,1649,2868,sarcasm,neutral
+I say we wait until apples are back in season.,2.1807717250324252,0.0103711976633853,6168,1589,1875,2704,incongruity-absurdity,neutral
+"Oh, the stem counts.  It definitely counts.",1.7473615846728363,0.0096240443799637,6159,2731,2253,1175,irony,positive
+"What do you mean, 'YOU'RE scared you might miss' ?",2.1145420044850787,0.011220222674053,5797,1821,1491,2485,sarcasm,negative
+..and then a blueberry and then we’re done.,2.117605757416184,0.0113430737906659,5697,1792,1443,2462,incongruity-absurdity,neutral
+It'll be fine. Its 2020. What could go wrong?,1.7726872246696035,0.0107350535729475,5675,2647,1671,1357,exaggeration,positive
+"When it's my turn to shoot, you can hold it between your knees!",1.7541486291486292,0.011037693640203,5544,2721,1465,1358,sarcasm,neutral
+"You're wearing a skirt, I am in Lederhosen. There is Mount Fuji in the background with a paved road leading to it, but it's the cherry that throws you off? Really?",2.105995916094301,0.012075023163205,5387,1860,1096,2431,irony,neutral
+"Let me remind you, Dad, I'm your only tax deduction.",1.770305514157973,0.0105304973359431,5368,2363,1878,1127,self-deprecating,positive
+It was at this moment young Tell regretted eating the apple.,1.7494924888347545,0.011228725207273,4926,2301,1558,1067,wit-surprise,neutral
+This is why mom only lets you see me on the weekends.,1.670585808580858,0.0105166907344001,4848,2361,1723,764,sarcasm,neutral
+"I changed my mind, Dad.  
+The skirt looks good on you.",1.7239080459770115,0.0117219093373379,4350,2066,1419,865,sarcasm,positive
+Or we could wait for apple season.,1.6954534520086602,0.0113877853297172,4157,1946,1531,680,exaggeration,neutral
+"Little is known of William’s first son, Percival",1.646489773355445,0.0127665244663083,3618,1932,1033,653,wit-surprise,neutral
+Maybe we could try this during pumpkin season,1.6062331435421038,0.0123087423593021,3337,1759,1133,445,irony,neutral
+"Yes, I'm SURE a watermelon won't be too heavy!",1.6744400122737035,0.0131840492821765,3259,1626,1068,565,exaggeration,positive
+A helmet infringes on my liberty.,2.0828402366863905,0.0163374269377,3042,1119,552,1371,unknown,negative

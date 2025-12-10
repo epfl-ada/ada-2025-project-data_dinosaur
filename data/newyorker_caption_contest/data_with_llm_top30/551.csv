@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Row v. Wave,1.9812343619683068,0.0170152506871255,2398,855,733,810,irony,neutral
+1,We shall overcomb.,1.9284692417739628,0.0179315476672556,2097,787,673,637,exaggeration,neutral
+2,Row v. Wave,1.9180151024811216,0.0195983010613247,1854,742,522,590,irony,neutral
+3,"I don't know what's worse, the undertow or the combover",1.9050387596899223,0.019823191113115,1548,551,593,404,sarcasm,negative
+5,"Ladies and gentlemen, if you look to your right, you’ll see a gift of friendship from the people of France; straight ahead, a gift of friendship from the people of Russia",1.8951336531871144,0.02112109860051,1459,559,494,406,wit-surprise,positive
+7,Mayday! We've been hit by a raging tycoon!,1.8695652173913044,0.0218426829607611,1357,539,456,362,exaggeration,negative
+9,We shall overcomb.,1.858049167327518,0.0231511551197568,1261,528,384,349,exaggeration,neutral
+6,You've got it all wrong. We're emigrating.,1.8701842546063647,0.022464946065282,1194,447,455,292,sarcasm,negative
+10,Did you just say there will be hell toupee?,1.846938775510204,0.0231798549060057,1176,475,406,295,irony,negative
+8,To think this started as a Twitter storm.,1.858365019011407,0.024430291424944,1052,415,371,266,irony,negative
+12,Don't worry --if you're not a 10 it won't touch you.,1.8013318534961154,0.026499624844086,901,392,296,213,sarcasm,neutral
+11,"I'm the perfect storm..the best storm, everybody tells me that.",1.8339021615472129,0.027170670953802,879,370,285,224,self-deprecating,positive
+4,"Don't worry, the polls show it will miss us.",1.9036004645760745,0.0285369422571263,861,347,250,264,exaggeration,neutral
+14,Unpresidented weather we're having.,1.7700534759358288,0.0289547720319769,748,340,240,168,incongruity-absurdity,negative
+15,Attention Everyone! Small hands on deck!,1.76747311827957,0.029429567685527,744,346,225,173,incongruity-absurdity,positive
+16,"All together now! 'Rue, rue, rue your vote . . .'",1.7635605006954105,0.0309279546297384,719,352,185,182,sarcasm,neutral
+17,"'In retrospect, maybe the Cruz ship was a safer bet.'",1.754957507082153,0.0286520919975614,706,312,255,139,sarcasm,neutral
+13,"Huge wave, really terrific. But such tiny hands.",1.7822085889570551,0.0311960378054449,652,293,208,151,incongruity-absurdity,positive
+18,It's a great wave. The best wave. No wave has ever been better.,1.736842105263158,0.0296078463578633,646,290,236,120,exaggeration,positive
+19,The scariest part is how shallow it is!,1.7341772151898731,0.0316445665752087,632,306,188,138,sarcasm,negative
+20,"Everybody, lean left!",1.7269736842105263,0.0318627127254586,608,293,188,127,sarcasm,neutral
+21,Relax ... it's just Alec Baldwin.,1.7073608617594256,0.0341561474336706,557,286,148,123,sarcasm,neutral
+22,Don't sweat it -- he switches direction every two seconds.,1.6917148362235068,0.0321958546558629,519,244,191,84,unknown,neutral
+24,Small hands on deck!,1.6729166666666666,0.0371693212288982,480,263,111,106,irony,positive
+25,Hell AND high water?!,1.6729166666666666,0.0357375755613798,480,251,135,94,exaggeration,negative
+26,"Woe, woe, woe your vote...",1.6652078774617067,0.0378011412468929,457,251,108,98,sarcasm,negative
+27,"Ha ha ha, good one. Now do Putin riding on a seahorse!",1.6585365853658536,0.0350563291585715,451,228,149,74,sarcasm,positive
+28,There will be hell toupee!,1.6545454545454543,0.0374903113797959,440,238,116,86,unknown,negative
+30,Something tells me this wave is going to touch us inappropriately.,1.6455399061032865,0.0375643809545156,426,230,117,79,irony,negative
+31,Everyone take a deep breath and hold it for four years!,1.6365853658536584,0.0374233643162283,410,219,121,70,exaggeration,neutral

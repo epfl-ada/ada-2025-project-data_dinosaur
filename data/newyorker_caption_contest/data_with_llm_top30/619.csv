@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,It was a very hostile takeover.,2.042884523239099,0.008405100971317,8348,2290,3410,2648,unknown,negative
+3,If you can remove it... it means your heart is pure. But you can no longer work in sales.,1.9940397350993375,0.0100686181202474,6040,1867,2342,1831,sarcasm,neutral
+0,It was a very hostile takeover.,2.0432907613202853,0.0098046842058819,6029,1622,2524,1883,unknown,negative
+12,At least you didn't get the axe.,1.8237140366172624,0.010237900510178,5735,2318,2110,1307,sarcasm,negative
+7,"Also, if you can pull the stuck page out of the copier you become the rightful Head of Finance.",1.93199095952332,0.011240860454741,4867,1673,1852,1342,unknown,neutral
+10,The pen is taking it pretty hard.,1.854104636324968,0.0117233417914938,4702,1912,1564,1226,unknown,negative
+6,Now we are at the last task of your interview.,1.9515983791085096,0.0116960464255152,4442,1462,1733,1247,unknown,neutral
+19,... and now for the final part of your interview ...,1.7251805054151623,0.0110440019231458,4432,1974,1702,756,sarcasm,neutral
+13,"Oh, it slides right out. But it's a real confidence booster for the new CEO.",1.8055165965404396,0.0117268584830614,4278,1755,1600,923,sarcasm,positive
+5,I thought 'willing to work knights' was just a typo.,1.9606168446026095,0.0122363212924937,4215,1416,1549,1250,wit-surprise,neutral
+16,I preferred when they used pink slips.,1.7643251018940302,0.0115426616985646,4171,1766,1622,783,sarcasm,neutral
+8,"No, not the sword. The test is to pull out the middle drawer.",1.905724725943971,0.0122897285626477,4105,1484,1524,1097,wit-surprise,neutral
+25,It must have been left here by the knight shift.,1.7049086757990868,0.0128755802959995,3504,1687,1164,653,incongruity-absurdity,neutral
+21,"No, YOU look under the desk.",1.7167225098994825,0.0131547473822657,3283,1529,1155,599,sarcasm,neutral
+18,Legend has it that whoever pulls it out gets a desk with a hole in it.,1.7272727272727273,0.0136607797053983,3256,1554,1036,666,incongruity-absurdity,neutral
+37,"Don't touch it--if you pull it out, they make you director of Human Resources.",1.6581761006289308,0.0131173341106308,3180,1599,1069,512,incongruity-absurdity,negative
+20,This was Arthur’s office,1.723356732610083,0.0133927115586702,3134,1434,1133,567,incongruity-absurdity,neutral
+15,I see my wife stopped by.,1.768383543893748,0.0142312881615552,3087,1405,992,690,unknown,neutral
+17,"Thousands have tried and only one succeeded, but he didn't pass the background check.",1.737296579209565,0.0138288451742545,3011,1366,1070,575,incongruity-absurdity,negative
+24,"the vacancy ad read""must be executive calibre"" not Excalibur.",1.71314209472982,0.0140247853632508,2998,1437,984,577,incongruity-absurdity,neutral
+2,"The pen is mightier, but that looks awesome.",2.023348899266177,0.0138614032547744,2998,829,1270,899,incongruity-absurdity,positive
+11,"Legend says only someone with a true heart will be able to remove the sword. Unfortunately, we're a law firm.",1.836838534599729,0.0148371029358134,2948,1236,957,755,sarcasm,negative
+9,You can have Damocles' old desk.,1.882918149466192,0.0148748565992119,2810,1057,1025,728,unknown,neutral
+34,"Well, this explains the new massive round table in the boardroom",1.668995954394998,0.013744481695212,2719,1297,1025,397,exaggeration,neutral
+14,It's definitely the sharpest thing to occupy this desk in years.,1.7998314369995785,0.0159162722249356,2373,998,852,523,incongruity-absurdity,positive
+26,Nothing here is set in stone...,1.7032640949554896,0.0156723729601956,2359,1137,785,437,incongruity-absurdity,neutral
+23,"Contrary to conventional wisdom, we find it mightier than the pen.",1.714039621016365,0.0152302690236599,2322,1052,882,388,wit-surprise,neutral
+4,I think there's been a mistake. I asked management to give him the axe.,1.9766245909303413,0.0170204499074083,2139,688,813,638,sarcasm,negative
+22,"If you think his letter opener is over the top, you should see his staple remover.",1.7151600753295668,0.0164395958126968,2124,998,733,393,incongruity-absurdity,negative
+35,Call Arthur in maintenance.,1.6676616915422886,0.0167134524313004,2010,1009,660,341,incongruity-absurdity,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Welcome to Weight Watchers!,1.6428571428571428,0.1312029068057275,42,25,7,10,sarcasm,positive
+3,I am entertaining a motion to evacuate. Do I hear a second?,1.619047619047619,0.1178217957529481,42,23,12,7,wit-surprise,neutral
+1,We're here today to discuss firing the architect.,1.625,0.1055358731087231,40,19,17,4,incongruity-absurdity,neutral
+4,The captain assures me it was a very small iceberg.,1.5897435897435896,0.1257525187645929,39,23,9,7,irony,neutral
+5,Welcome to orientation.,1.5897435897435896,0.1145191715172835,39,21,13,5,unknown,positive
+6,Many of you are concerned with the direction our company is heading.,1.5897435897435896,0.1202670707647033,39,22,11,6,sarcasm,neutral
+7,Can someone straighten out that picture?,1.5897435897435896,0.1145191715172835,39,21,13,5,incongruity-absurdity,negative
+8,I don't think you understand the gravity of the situation.,1.564102564102564,0.1261645980299081,39,24,8,7,sarcasm,negative
+9,"Well, maybe now you will appreciate the gravity of the situation.",1.564102564102564,0.1261645980299081,39,24,8,7,sarcasm,neutral
+14,"First, I'd like to thank you all for not joining the lawsuit against my brother's architectural firm...",1.5526315789473684,0.1233561522016326,38,23,9,6,sarcasm,neutral
+15,This meeting of the Fox News editorial board will now come to order.,1.5526315789473684,0.1233561522016326,38,23,9,6,sarcasm,neutral
+13,Can anyone bring something to the table?,1.5526315789473684,0.1046389744117145,38,20,15,3,sarcasm,neutral
+20,Now...Let's see what this button does.,1.5405405405405406,0.1261261261261261,37,23,8,6,unknown,neutral
+19,"So, other than the wheels, we like the new chairs?",1.5405405405405406,0.1135992811974639,37,21,12,4,wit-surprise,neutral
+21,"From where I'm sitting, it's all downhill from here.",1.5405405405405406,0.1261261261261261,37,23,8,6,incongruity-absurdity,negative
+2,This meeting is getting away from me.,1.6216216216216215,0.1361821302507295,37,22,7,8,unknown,negative
+12,"It can't be that bad, the band's still playing.",1.5555555555555556,0.1287574589884015,36,22,8,6,sarcasm,neutral
+25,"OK, I'll level with you.",1.5277777777777777,0.1160604051202834,36,21,11,4,self-deprecating,neutral
+11,"As you may have guessed, I've highly leveraged the company.",1.5555555555555556,0.1224384811154088,36,21,10,5,exaggeration,positive
+10,I see we have reached the tipping point.,1.5555555555555556,0.1347805061292303,36,23,6,7,exaggeration,negative
+32,Welcome to the Pisa branch offices.,1.4857142857142858,0.1255001996813073,35,23,7,5,incongruity-absurdity,neutral
+31,"So, then -- all in favor of removing the wheels from our chairs, say 'aye.'d",1.4857142857142858,0.1320264079226409,35,24,5,6,wit-surprise,neutral
+27,We appear to have reached the tipping point.,1.5142857142857142,0.1320264079226409,35,23,6,6,irony,negative
+26,I see the weight of my argument has failed to move you in my direction.,1.5142857142857142,0.1320264079226409,35,23,6,6,sarcasm,negative
+28,The rumors are true. We are a sinking ship.,1.5142857142857142,0.1255001996813073,35,22,8,5,exaggeration,negative
+17,"Obviously, we've reached a tipping point.",1.542857142857143,0.1110897671909965,35,19,13,3,exaggeration,negative
+18,The Architectural Standards Committee meeting will now come to order.,1.542857142857143,0.1318444279492785,35,22,7,6,incongruity-absurdity,neutral
+24,"Unless I get a volunteer, I’m going to let go of this table.",1.5294117647058822,0.1350730581851881,34,22,6,6,incongruity-absurdity,negative
+40,Do I need to remind you what rolls downhill?,1.4705882352941178,0.128305104548507,34,23,6,5,unknown,neutral
+39,The motion to adjourn has been approved by a landslide.,1.4705882352941178,0.1135655646074615,34,21,10,3,incongruity-absurdity,positive

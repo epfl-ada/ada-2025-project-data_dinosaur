@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I haven't an inkling.,1.777998411437649,0.0160513096064204,2518,1158,761,599,wit-surprise,neutral
+Looks like the day I got released from the pen.,1.7652102899142508,0.0164179916416924,2449,1163,698,588,sarcasm,neutral
+You told me not to keep things bottled up.,1.7765339966832503,0.0157717448189544,2412,1053,845,514,self-deprecating,neutral
+You've got it upside down.,1.823811600523332,0.0171002378788829,2293,1006,685,602,incongruity-absurdity,neutral
+You are holding it upside down.,1.8083116883116883,0.0184025115720361,1925,847,600,478,incongruity-absurdity,neutral
+Am I a narcissist if I tell you I see myself in every one of these?,1.8132911392405064,0.0185017164590779,1896,825,600,471,self-deprecating,neutral
+"Funny, I see so much of myself in this one.",1.7206329884357885,0.0182726581458461,1643,744,614,285,self-deprecating,positive
+I definitely see a lot of me in there.,1.7152911068458094,0.0185964291206592,1563,708,592,263,self-deprecating,positive
+"I sneezed, it means nothing.",1.7392696989109546,0.0198021012692746,1561,734,500,327,self-deprecating,negative
+It's the only blot on my resume.,1.780283505154639,0.019929417451374,1552,686,521,345,self-deprecating,negative
+Story of my life.,1.7599734042553192,0.0196895361892328,1504,662,541,301,self-deprecating,neutral
+That's Uncle Louie right after he escaped from the pen.,1.72285906945381,0.0206709342090723,1483,732,430,321,irony,neutral
+I can’t keep coming to therapy every week and spilling my guts like this!,1.7552828902522155,0.0202873606740359,1467,666,494,307,self-deprecating,negative
+It looks like my MRI.,1.6827253957329662,0.0226749319865296,1453,846,222,385,incongruity-absurdity,neutral
+"That's Hermann Rorschach, of course! I made him what he is.",1.6963015647226174,0.0206371624285005,1406,699,435,272,wit-surprise,positive
+That's an offensively stereotypical representation of my people.,1.6801768607221812,0.0205516039210426,1357,675,441,241,sarcasm,negative
+It makes me feel empty.,1.6760242792109257,0.0202908324242173,1318,640,465,213,self-deprecating,negative
+"I""ll never forget the day my father escaped from the pen.",1.675344563552833,0.0210939000119173,1306,660,410,236,wit-surprise,neutral
+Who leaked that?,1.7876386687797148,0.0223802888168582,1262,561,408,293,irony,negative
+I’ve kept my emotions bottled up.,1.669463087248322,0.0210618465147594,1192,577,432,183,self-deprecating,negative
+"It takes a lot out of me to do these tests """,1.6691919191919191,0.0209850288799169,1188,572,437,179,self-deprecating,negative
+Why do you have my baby pictures?,1.67320819112628,0.0221582640585107,1172,591,373,208,sarcasm,negative
+You have shown me more of myself than any therapist I've ever had.,1.666069829901522,0.0225243553629397,1117,565,360,192,self-deprecating,positive
+"Siggy, it's not a cry for help.For the 100th time, sometimes a spill is just a spill.",1.66457399103139,0.0222432795521568,1115,557,375,183,sarcasm,negative
+"To be honest, I see a little piece of myself",1.6635773864689527,0.0224239832150369,1079,535,372,172,self-deprecating,neutral
+How the hell should I know? I don’t even know I how I got up on this chair.,1.6623376623376624,0.0236447938127456,1078,568,306,204,self-deprecating,negative
+I hope that’s not how others see me,1.660056657223796,0.0217416017932722,1059,506,407,146,self-deprecating,neutral
+It reminds me of all those years I spent in the pen.,1.6689520078354554,0.0256674415456545,1021,568,223,230,unknown,neutral
+"She looks familiar ... but, they all do.",1.6577319587628867,0.0236644587346515,970,486,330,154,wit-surprise,neutral
+It feels good to finally get that out.,1.6510138740661686,0.024649471760595,937,487,290,160,self-deprecating,positive

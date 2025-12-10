@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Could we have outstayed our welcome?,1.9761194029850744,0.0437136739604914,335,111,121,103,exaggeration,neutral
+"I don't know about you, but I'm thinking takeout",1.9022222222222225,0.053051504042098,225,83,81,61,exaggeration,neutral
+I said to put lox in the fridge.,1.8636363636363635,0.0527195425260608,220,84,82,54,unknown,neutral
+"I've lost six pounds and a toe since starting this diet...""",1.9490740740740744,0.0517646846381302,216,68,91,57,incongruity-absurdity,neutral
+The listing did say kitchen to die for.,1.9711538461538465,0.0553331274670375,208,69,76,63,irony,neutral
+Maybe dad wants us to move out.,1.839572192513369,0.0565392514812899,187,73,71,43,self-deprecating,neutral
+I see you ate some of Dad’s favorite ice cream.,1.8176795580110496,0.056222237651837,181,71,72,38,sarcasm,positive
+Still want to see my bedroom?,1.8026315789473684,0.0692535222098038,152,73,36,43,incongruity-absurdity,neutral
+I agree. No more resolutions after wine.,1.7883211678832116,0.0698328502839398,137,63,40,34,sarcasm,neutral
+"The airbnb ad said ""some restrictions apply"".",1.7803030303030305,0.071592048857149,132,62,37,33,sarcasm,neutral
+My mom lost 45 pounds and my dad lost a leg.,1.801526717557252,0.0688977450660772,131,56,45,30,incongruity-absurdity,neutral
+Have you considered simply not buying the ice cream in the first place?,1.7938931297709924,0.0699950147137693,131,58,42,31,self-deprecating,negative
+Do you think we should add a password?,1.786259541984733,0.0718905294134941,131,61,37,33,sarcasm,neutral
+"If you love me, you'll get me that carton of Chunky Monkey.",1.7642276422764227,0.0693463520438124,123,54,44,25,sarcasm,positive
+My roommate caught me drinking milk straight from the carton.,1.772357723577236,0.0661310700299653,123,50,51,22,incongruity-absurdity,neutral
+Last time they just left a sticky note.,1.772357723577236,0.0681166533672771,123,52,47,24,sarcasm,neutral
+Look on the bright side: we can eat whatever we trap.,1.752136752136752,0.0747389433502161,117,56,34,27,irony,positive
+Mom rigged it up after dad started working from home.,1.7565217391304349,0.069422049473773,115,49,45,21,irony,neutral
+When Mom goes on a diet we all suffer.,1.7433628318584071,0.0751933465056233,113,54,34,25,incongruity-absurdity,negative
+She could have just put her name on the carton,1.75,0.0734119737462349,112,51,38,23,sarcasm,neutral
+"I know it looks intense but watch this, “Hey Siri, open smart lock kitchen.”",1.7272727272727273,0.0740906404616568,110,52,36,22,incongruity-absurdity,neutral
+Still safer than eating out.,1.7980769230769231,0.0765428898257731,104,44,37,23,unknown,neutral
+I still think we should add an alarm.,1.7254901960784317,0.0777734000541878,102,49,32,21,irony,neutral
+"This should hold, but we'll need something more for the liquor cabinet.",1.73,0.0750151499850045,100,45,37,18,incongruity-absurdity,neutral
+"So, when you said you worked in food security, I was imagining something a bit different...",1.7142857142857142,0.0767529556453336,98,46,34,18,sarcasm,neutral
+It's hard visiting your mother when she's on a diet.,1.7157894736842103,0.0828700704515737,95,48,26,21,unknown,negative
+They say it’s the last diet you’ll ever be on.,1.7052631578947368,0.0817963004150923,95,48,27,20,unknown,neutral
+Or we could try Weight Watchers.,1.7052631578947368,0.0790107994525373,95,46,31,18,sarcasm,neutral
+Toilet paper's safe -- where shall we put the food?,1.6989247311827955,0.0805906002123103,93,46,29,18,incongruity-absurdity,neutral
+Finally. Something you won’t do for a Klondike Bar.,1.6956521739130437,0.0828585253363994,92,47,26,19,self-deprecating,positive

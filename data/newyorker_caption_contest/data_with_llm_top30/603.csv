@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+7,Welcome to the Deli Lama.,1.905372155013328,0.0081556959852412,9754,3669,3339,2746,incongruity-absurdity,positive
+3,We don't have menus here. Everybody just gets what they deserve.,1.9428571428571428,0.0080393413920399,9660,3307,3598,2755,incongruity-absurdity,neutral
+6,"I have a one o'clock reservation, last name is Miller but I'm no longer a party of four.",1.9172486772486768,0.008361763346489,9450,3545,3142,2763,sarcasm,neutral
+5,"The Meaning of Life? Oh, that's just the name of the restaurant.",1.9265927977839332,0.0080768377955614,9386,3243,3589,2554,incongruity-absurdity,neutral
+4,"My son, we all have reservations.",1.930795097082113,0.0081595338901863,9219,3170,3517,2532,wit-surprise,neutral
+1,The path to true enlightenment is long and arduous. But you may wait at the bar.,1.967934782608696,0.0080318175271687,9200,2882,3731,2587,wit-surprise,neutral
+0,We used to offer enlightenment. Then we discovered people really preferred brunch.,1.9778505182760504,0.008203735525772,9165,2930,3508,2727,incongruity-absurdity,neutral
+9,I can't seat you until you are fully present.,1.8939957192745296,0.0084449565477875,8877,3330,3158,2389,wit-surprise,neutral
+2,Only you will truly know when your table is ready.,1.9559662331736252,0.0083919365702659,8766,2907,3338,2521,sarcasm,neutral
+17,Welcome to the Deli Lama.,1.8246791475332629,0.0086528505735998,8493,3575,2832,2086,incongruity-absurdity,positive
+8,"I know time is meaningless, but there is still a forty minute wait.",1.894699395233013,0.0082931586670449,8433,2936,3449,2048,incongruity-absurdity,negative
+14,Enlightenment is on Thursdays. Today is Taco Tuesday.,1.8425328554360807,0.0086080214467273,8370,3358,2972,2040,incongruity-absurdity,neutral
+15,"I can validate your existence, but not your parking.",1.829846752614936,0.0084593109741049,8222,3237,3147,1838,sarcasm,neutral
+18,Words of wisdom? Don't get the chicken salad.,1.816603364080304,0.0089431677665391,7372,2973,2778,1621,sarcasm,negative
+24,Party of oneness?,1.79158673609208,0.0092108386635101,7298,3178,2463,1657,irony,neutral
+19,I’m sorry we’re a little busy. Maybe try off-peak.,1.8091550269672243,0.0090992814963229,7231,2986,2639,1606,sarcasm,negative
+11,"All who seek enlightenment are welcome, but the restroom is for patrons only.",1.884463833380242,0.0091901231183353,7106,2590,2747,1769,incongruity-absurdity,neutral
+12,"No my son, you must come without reservations.",1.8685519397470516,0.0092598330405723,7037,2646,2670,1721,wit-surprise,neutral
+22,"The food's good, but the atmosphere's a little thin.",1.7970807097882084,0.0089879567191974,6988,2825,2756,1407,unknown,positive
+20,They had reservations. You have two more questions.,1.801389094133294,0.0094272132753931,6767,2840,2431,1496,unknown,neutral
+29,"We can seat you outside or inside, it doesn’t matter. Nothing matters.",1.7618343195266273,0.0094641714339929,6760,3043,2284,1433,self-deprecating,neutral
+16,"Interesting, you came up this way. Most people use the escalator on the other side...",1.82512315270936,0.009832916719157,6496,2707,2218,1571,sarcasm,positive
+38,"If I knew the meaning of life, would I be running this stupid restaurant?",1.7035362506055225,0.0099201272650114,6193,3077,1875,1241,unknown,negative
+31,"Sorry, we only serve food for thought.",1.761061946902655,0.0097287810979457,6102,2665,2230,1207,sarcasm,neutral
+34,This is a non-prophet restaurant.,1.74398140461564,0.009944939791144,6023,2762,2041,1220,unknown,neutral
+30,"You can come down, he's not the president anymore.",1.7615664529544273,0.0107497735584995,5771,2776,1595,1400,sarcasm,neutral
+32,"If you want kosher, try that place over on Mt Sinai.",1.75847532056912,0.0104267110895568,5693,2615,1838,1240,unknown,neutral
+39,"Well, we were originally a party of four.",1.7031789282470482,0.0103423984171122,5505,2680,1779,1046,incongruity-absurdity,neutral
+26,No Wi-Fi but we have a direct connection to the cloud.,1.7736336779911377,0.0104920450848289,5416,2366,1910,1140,wit-surprise,neutral
+28,"Enlightenment wasn't paying the bills, so we added a coffee shop.",1.7688714499252616,0.0102470291816234,5352,2265,2059,1028,incongruity-absurdity,neutral

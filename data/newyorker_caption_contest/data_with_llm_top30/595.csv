@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Surprise, surprise. The new manager is a fat white guy with no pants.",1.9951553149045311,0.0144405751444432,3509,1292,942,1275,wit-surprise,negative
+2,He's not as bad as the last manager. That one was abominable.,1.9646118721461188,0.0139644793361198,3504,1261,1106,1137,sarcasm,negative
+3,They didn't say who...they just said one of us won't be here in the spring...,1.944097094520044,0.0152890339404217,2719,944,983,792,sarcasm,negative
+9,"If he asks you if you want to see his other carrot, just say no.",1.853211009174312,0.016832168205177,2507,1101,673,733,incongruity-absurdity,neutral
+13,So he calls me into his office and when I get there he's wearing nothing but a scarf and a top hat,1.791089965397924,0.0168560493927519,2312,1051,693,568,unknown,neutral
+16,"If I wanted a boss with no pants, I'd have stayed in Hollywood.",1.7620593692022264,0.0172774747316571,2156,1011,647,498,sarcasm,neutral
+10,I think you misunderstood when I said to hire seasonal help.,1.833570412517781,0.0171170589211049,2109,856,748,505,sarcasm,negative
+18,Of course they hired another white guy.,1.7320125130344108,0.018381033201687,1918,947,538,433,sarcasm,negative
+4,"It's not you, he's frosty to everyone.",1.9403141361256544,0.0178149159907232,1910,639,746,525,sarcasm,neutral
+5,I told him if he can't find his size to just wait a few minutes.,1.9308421639709985,0.019207807246748,1793,659,599,535,unknown,neutral
+14,I guess the hiring freeze has officially started.,1.7766467065868263,0.0186521921260412,1670,713,617,340,irony,neutral
+27,Don't worry. He won't last long.,1.66439205955335,0.0185274146305845,1612,807,539,266,sarcasm,neutral
+11,He insists it's all water weight.,1.831193838254172,0.0197540491494245,1558,627,567,364,irony,neutral
+33,One week and he’s store manager--I’m calling white male privilege.,1.6369168356997972,0.0216860470063289,1479,880,256,343,sarcasm,negative
+19,"By two o'clock, he'll be just another 'clean-up in aisle 2'.",1.7258410880458124,0.0201266663166158,1397,639,502,256,sarcasm,neutral
+25,"He says he used to know his wife's size, but with global warming...",1.682890855457227,0.0207832337054668,1356,680,426,250,incongruity-absurdity,neutral
+23,"Well, we asked the agency to send over a temp.",1.7034700315457414,0.0215271133193127,1268,616,412,240,sarcasm,neutral
+35,"After the holidays last year, he had a total meltdown.",1.6238830219333875,0.0217284256255931,1231,676,342,213,self-deprecating,negative
+7,I hear he had a meltdown after the holidays last year,1.8821603927986907,0.0221650014673495,1222,447,472,303,sarcasm,negative
+20,"He works well, but has serious meltdowns.",1.720248667850799,0.0225278080531658,1126,523,395,208,incongruity-absurdity,negative
+28,I made him. Now he's telling me how to do my job?,1.664,0.0232406564855428,1125,594,315,216,irony,negative
+6,Either the constant staring stops or I'm cranking up the thermostat.,1.9239819004524887,0.0238447843824128,1105,392,405,308,sarcasm,neutral
+38,"I don't care how great an employee he is...if he touches that thermostat one more time, he's outta here.",1.6116970278044105,0.0231756918327263,1043,573,302,168,unknown,negative
+21,He'll be gone by spring.,1.713705583756345,0.0239350575112021,985,459,349,177,exaggeration,neutral
+39,He won't last a day.,1.605427974947808,0.0244228357900719,958,537,262,159,exaggeration,negative
+12,They set the temperature for just ONE employee while the rest of us freeze to death.,1.8169456066945608,0.0248319171901886,956,385,361,210,irony,negative
+40,It's freezing in here. Would it kill anyone if we turned up the heat?,1.6048472075869336,0.0250118951672166,949,543,238,168,irony,negative
+1,I can already tell he won't last.,1.9660087719298245,0.0260070318494397,912,297,349,266,sarcasm,negative
+22,You don't think it's odd that he's looking at summer clothes?,1.707452725250278,0.0253321496160211,899,429,304,166,irony,neutral
+43,I betcha he won’t last til spring.,1.5952662721893491,0.0249394528900062,845,462,263,120,sarcasm,negative

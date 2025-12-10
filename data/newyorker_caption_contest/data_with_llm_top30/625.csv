@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"No, sir, this is Fenway. You're looking for Jurassic Park.",2.0993751859565606,0.0054550530991906,20166,5148,7866,7152,sarcasm,neutral
+3,How long you been with the club?,1.9508936122230367,0.0058831603674019,17737,5901,6806,5030,sarcasm,neutral
+2,I’d say your timing’s a bit off.,1.9532029592246367,0.0058716329979849,17437,5668,6917,4852,sarcasm,negative
+1,"Remember, if I catch the ball you stop trying to hit it.",1.9793592650735508,0.0060854024668426,17199,5658,6238,5303,unknown,neutral
+5,That's not why I'm squatting.,1.8999442413729013,0.0063767722419114,16141,6185,5386,4570,self-deprecating,neutral
+9,This isn't a normal side effect Kenny.. how much of it did you take?!,1.8422305119629532,0.0064888909482663,15548,6509,4983,4056,sarcasm,negative
+6,"Look, pal,  the game has evolved.",1.877983373558595,0.0061673257986574,14916,5252,6232,3432,sarcasm,positive
+7,Is it true you played for Cleveland the year they won the Series?,1.8702136235388955,0.0065641089764333,14886,5865,5088,3933,sarcasm,neutral
+10,"When I heard a new batter had been recruited from B.C., I naturally assumed Boston College.",1.84175996577052,0.0064867741354318,14023,5422,5398,3203,wit-surprise,neutral
+11,The irony here is that millions of guys are watching this game in their man-caves.,1.833099682727072,0.0066106310299815,13553,5333,5149,3071,irony,negative
+8,"Yeah, I hate the throwback uniforms too.",1.8595450049455984,0.006854231779535,13143,5110,4769,3264,sarcasm,negative
+12,"Spent a while in the minors, eh?",1.8190946889464188,0.0067226554975176,12747,5033,4987,2727,incongruity-absurdity,neutral
+13,"Sorry buddy... this is Fenway Park, not Jurassic Park.",1.8159186222896404,0.007346093327043,11207,4610,4050,2547,sarcasm,neutral
+4,"Yes, I know what an ‘out’ is. I’m a Neanderthal, not a moron.",1.9118934695366652,0.0075650174336686,10964,3965,4000,2999,sarcasm,neutral
+14,I wouldn't slide if I were you.,1.743298865575745,0.0076503337873493,9961,4510,3498,1953,incongruity-absurdity,negative
+18,"Finally got called up, eh?",1.701879126460132,0.0074437897196205,9845,4590,3600,1655,unknown,neutral
+15,"Don't worry, one day you'll be able to stand upright too.",1.738005500662117,0.0078288067236334,9817,4576,3237,2004,irony,positive
+21,"Still no shoe endorsement, huh?",1.6914279606669518,0.0076110313286028,9356,4424,3395,1537,self-deprecating,negative
+23,"Watch out. His fastball is on fire, if that term means anything to you.",1.6798757763975156,0.0083688397131713,8050,3970,2687,1393,wit-surprise,neutral
+25,"This is Fenway Park, not Jurassic Park.",1.6607558139534884,0.009096530570129,6880,3521,2172,1187,sarcasm,neutral
+38,Still eating paleo?,1.5723026413968064,0.0088472280870508,6701,3803,1961,937,irony,neutral
+22,I'll bet your baseball card is worth a lot.,1.6815120906029997,0.0093605866235259,6534,3242,2131,1161,sarcasm,neutral
+24,I've been carbon-dating your sister.,1.661073267984715,0.0099617671306248,6019,3163,1733,1123,sarcasm,neutral
+26,Maybe the games do last too long.,1.6533492009520572,0.0096871970415851,5882,2996,1929,957,irony,neutral
+16,You swing like a gatherer.,1.7235786238688748,0.0102897141720599,5857,2849,1778,1230,wit-surprise,neutral
+20,This explains the artwork in the dugout.,1.694271911663216,0.0098007224088888,5796,2770,2028,998,incongruity-absurdity,neutral
+17,"Why do you catch it, if you're not gonna eat it?",1.705945366898768,0.0102053357167169,5601,2699,1850,1052,incongruity-absurdity,negative
+30,"Well, well...now look who's standing upright and who isn't.",1.6235041971780677,0.0098489489167131,5599,2971,1765,863,irony,neutral
+34,A lot has happened since your last at bat.,1.5946191601526996,0.0096577596590574,5501,2978,1775,748,sarcasm,neutral
+29,Baseball confusing game. How can man walk with four balls?,1.6272881675787885,0.0106711491590227,5299,2954,1366,979,incongruity-absurdity,negative

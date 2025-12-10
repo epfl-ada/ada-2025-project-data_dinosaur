@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+First the good news. Nobody's getting canned.”,1.8336876919442475,0.0123694648264988,4233,1781,1375,1077,sarcasm,positive
+"So, where do you see yourselves, three days from now?",1.830188679245283,0.012661399527868,3975,1661,1328,986,incongruity-absurdity,neutral
+Let’s get through the office party tonight without anyone getting smashed.,1.8146718146718144,0.0126288428553038,3885,1630,1345,910,sarcasm,neutral
+Thanks for carving out a little face time.”,1.8489583333333333,0.0131634409726384,3840,1611,1198,1031,sarcasm,positive
+I'm sorry to say that some of you are going to be canned.,1.7952513105149552,0.0136885768901861,3243,1385,1137,721,sarcasm,negative
+"Just remember, you can be empty headed and orange and still succeed in America.",1.9694238815577727,0.0155653807731574,3107,1218,766,1123,sarcasm,negative
+"At the end of this month, you're all getting canned.",1.790990394170255,0.0142227977823295,3019,1303,1044,672,sarcasm,negative
+We're ending the work-from-the-porch policy.,1.7772479564032695,0.0143817184302116,2936,1291,1008,637,exaggeration,neutral
+I just love to see your faces light up.,1.813576843556168,0.0141606214866509,2902,1165,1113,624,sarcasm,positive
+Great news. We now have a dental plan!,1.828080229226361,0.0152131049255848,2792,1183,906,703,irony,positive
+The shareholders are complaining about a lack of diversity.,1.7463556851311954,0.0146411308808757,2744,1243,954,547,irony,negative
+I know putting on a good face will be hard for many of you.,1.742803738317757,0.0145151352836466,2675,1186,991,498,sarcasm,negative
+"Yes, I had some work done.",1.7313489073097212,0.0149678340942923,2654,1241,885,528,self-deprecating,neutral
+Anyone care to illuminate me?,1.8193916349809889,0.0148327461801536,2630,1041,1023,566,sarcasm,neutral
+"I apologize for making you all a bit uneasy. Perhaps ""smashing success"" was a poor choice of words.",1.7837218188765762,0.0151512484728602,2617,1130,923,564,self-deprecating,negative
+"Gentlemen, you'll be pleased to know today's pie is pecan.",1.792892625143294,0.0152289523940103,2617,1121,917,579,incongruity-absurdity,positive
+"That’s right, Jack, we’re all getting canned.",1.7612111920275968,0.0151621262004756,2609,1168,896,545,sarcasm,negative
+"The good news is we’re having a Halloween office party. 
+The bad news is we’re gonna need pies.",1.7336722721939772,0.0155169241518823,2557,1218,802,537,incongruity-absurdity,positive
+There’s no sugarcoating it. Our prospects after November are rotten.,1.8208251473477408,0.0154840605071188,2545,1045,911,589,sarcasm,negative
+Let's turn those frowns into smiles. Who has a knife?,1.7573731812819504,0.0151683460012947,2543,1127,906,510,sarcasm,neutral
+"Listen, the bottom line is, it takes guts, and you guys just dont have it in you.",1.776834959694527,0.0160394767836628,2357,1036,811,510,sarcasm,negative
+Anyone planning on getting lit tonight?,1.808149405772496,0.0159260363968886,2356,973,862,521,sarcasm,neutral
+I’ll need that pie chart by the end of the month.,1.7268459240290226,0.0158076701694492,2343,1093,797,453,sarcasm,neutral
+I’m afraid we’re going to have to make a few more cuts.,1.7580645161290325,0.0156402709143648,2294,988,873,433,irony,negative
+I told you the work was seasonal when you started.,1.7752659574468086,0.0160289441170926,2256,964,835,457,sarcasm,neutral
+"Before anyone asks: yes, I had some work done, and yes, it makes me happy.",1.7419068736141907,0.016452269454789,2255,1054,729,472,self-deprecating,positive
+From the looks on your faces I think we need to carve out a new strategy,1.7184373511195807,0.0164288913568806,2099,973,744,382,wit-surprise,neutral
+"As part of our diversity initiative, Mr. Potato Head will be joining the board.",1.8285302593659944,0.0178842846178052,2082,902,635,545,incongruity-absurdity,positive
+Heads are going to roll.,1.717201166180758,0.0164490514361594,2058,946,748,364,unknown,neutral
+"After the meeting, let's all go out and get smashed.",1.7402985074626869,0.0176533665476046,2010,958,616,436,unknown,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You could have mentioned that those photos were from 13 billion years ago.,1.768242848803269,0.0138964711789869,3426,1622,976,828,irony,neutral
+You're being nebulous again.,1.685563997662186,0.0137076155768134,3422,1807,884,731,sarcasm,negative
+Of course I’ve been seeing other galaxies—I’m an astronomer.,1.723092643051771,0.0143879873806985,2936,1411,927,598,wit-surprise,neutral
+"Then, of course, there's the age difference.",1.7810650887573964,0.0149464067096147,2873,1305,892,676,irony,neutral
+This restaurant has only 5 stars,1.7019704433497538,0.0147749291109101,2842,1431,827,584,exaggeration,negative
+I don’t care if you travelled at the speed of light.  You’re still late.,1.716954529432499,0.0146962465666375,2837,1384,872,581,sarcasm,negative
+Why must everything revolve around you?,1.682864450127877,0.0146479049046846,2737,1375,855,507,sarcasm,negative
+I'm looking for someone who can fill a void.,1.6486686390532543,0.014231117299285,2704,1382,890,432,sarcasm,neutral
+"I don’t know, you just seem a little distant.",1.650977263661747,0.0149257120458495,2507,1290,802,415,sarcasm,negative
+You never told me you have a sun.,1.8338041431261771,0.0179218129036877,2124,930,617,577,sarcasm,neutral
+"Okay, I get it - you need space.",1.6810865191146882,0.0172528656063733,1988,1006,610,372,sarcasm,neutral
+Your friends have been referring to me as your insignificant other.,1.6535473847747282,0.0181907687037448,1931,1067,466,398,self-deprecating,negative
+Funny how your gravitational pull suddenly disappears whenever the check arrives.,1.696969696969697,0.0187026540382039,1749,880,519,350,sarcasm,neutral
+I’M an emotional black hole?!,1.6248554913294797,0.0177982054055466,1730,920,539,271,self-deprecating,negative
+I feel like the distance between us just keeps expanding.,1.6980802792321117,0.0183119534241878,1719,833,572,314,sarcasm,negative
+"Oh, I thought you profile said you were ""Miss"" Universe.",1.674233128834356,0.0195033928013884,1630,857,447,326,sarcasm,neutral
+"No, does the age gap bother you?",1.6698352344740175,0.0190278286183534,1578,797,505,276,sarcasm,neutral
+I feel like we need more space,1.612555485098288,0.0185180394329587,1577,850,488,239,irony,neutral
+I don’t think you understand the gravity of what you’ve done.,1.6225930680359435,0.0186094488455924,1558,825,496,237,sarcasm,negative
+"Not everything revolves around you, OK?",1.7172236503856042,0.0193674339758671,1556,736,524,296,sarcasm,neutral
+"When you promised me the sun, the moon and the stars I thought it was just a figure of speech.",1.6772727272727272,0.0190555789205017,1540,759,519,262,sarcasm,neutral
+"Sorry, but when I look at you, I only see the past.",1.623942745608328,0.0191374842108716,1537,830,455,252,sarcasm,negative
+"So, you're breaking up with me because you need ""more space""?",1.7033181522446323,0.0197482953720708,1537,756,481,300,irony,negative
+You're not the only one expanding and emiting gases.,1.654924983692107,0.0199043179641111,1533,821,420,292,sarcasm,neutral
+That’s interesting. I used to drive a  Galaxy.,1.6537704918032787,0.0194497564281924,1525,795,463,267,irony,positive
+I'm not sure I want a long-distance relationship.,1.6329612606697308,0.0187373568323446,1523,789,504,230,incongruity-absurdity,negative
+I keep expanding too but you don't hear me complain about it.,1.6597731821214143,0.0196663728491517,1499,776,457,266,self-deprecating,positive
+Not what I had in mind when I was asked to meet up for some cosmos.,1.6328437917222964,0.0194925799069966,1498,802,444,252,sarcasm,neutral
+It’s like time doesn’t exist when we’re together.,1.6068548387096775,0.0188356523908043,1488,800,473,215,unknown,neutral
+"Andromeda is a pretty name, I’m Bert",1.6070941336971352,0.0191266438400411,1466,794,454,218,wit-surprise,positive

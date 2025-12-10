@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I thought you said it wouldn't need much attention.,1.885250917992656,0.0138836556345099,3268,1238,1167,863,sarcasm,neutral
+2,We'll lose him in the swimming and biking stages.,1.80949263502455,0.0140552067227114,3055,1268,1101,686,irony,negative
+7,Next time just relieve yourself against a rock.,1.7704644169729369,0.014486549345018,2993,1362,956,675,irony,negative
+16,Why couldn't you just pee behind a bush?,1.700507614213198,0.014517761880708,2758,1338,908,512,irony,negative
+1,"You know how they say that in the Spring, the desert comes alive?",1.811733128834356,0.0147666496716887,2608,1033,1033,542,incongruity-absurdity,neutral
+14,"The wall was dumb, but these border guard disguises are even worse.",1.7037842540234884,0.0160990841721705,2299,1126,728,445,sarcasm,negative
+5,Looks like we're not the only ones who want out before he builds that wall...,1.7757788503729706,0.0163417609624008,2279,1006,778,495,irony,negative
+11,I'm pretty sure the peyote has kicked in.,1.738284703801945,0.0165276708049566,2262,1072,710,480,sarcasm,neutral
+13,I'm telling you it's the SAME CACTUS.,1.725221238938053,0.0161425687309816,2260,1061,759,440,unknown,neutral
+15,"Obviously, he's a deserter.",1.7015682656826567,0.0163110187779522,2168,1045,725,398,irony,negative
+17,How come it leaves footprints and we don't?,1.694061757719715,0.0169535695074993,2105,1057,635,413,incongruity-absurdity,negative
+10,He just wants to say aloe.,1.7502453385672228,0.0171138152062757,2038,926,695,417,sarcasm,neutral
+25,"Sure, he's keeping up now; wait 'til we get to the bike and the swim.",1.6442986881937436,0.016785286795302,1982,1031,625,326,unknown,neutral
+18,Why couldn’t he just follow us on Twitter?,1.6916322314049588,0.0169076091144255,1936,926,681,329,sarcasm,neutral
+22,Did you really have to call it spineless?,1.6597724922440538,0.0170920071668077,1934,987,618,329,sarcasm,negative
+23,The good news is we've outrun the ficus.,1.654048370136698,0.0172697615456601,1902,982,596,324,unknown,positive
+9,"Sorry, we only hug trees.",1.7563829787234042,0.0177775599339122,1880,843,652,385,sarcasm,neutral
+21,The desert scenery is really moving.,1.663631189527604,0.0173075766263257,1757,857,634,266,unknown,positive
+26,"""Try some Peyote,"" You said, ""What Could It Hurt?"" You said......",1.6309729418537708,0.0183598454658482,1737,947,484,306,sarcasm,neutral
+6,"Hon, remember that little cactus we let die on the window sill?",1.7733175914994097,0.0186258589296555,1694,733,612,349,irony,negative
+20,"I’m pretty sure it’s a saguaro, but I think you’re missing the point.",1.6881275841701122,0.0184710787443705,1693,835,551,307,wit-surprise,neutral
+29,"I know you're a botanist, but couldn't we just get a dog?",1.6222084367245655,0.0185428799747377,1612,866,489,257,sarcasm,neutral
+3,Something tells me the peyote is staring to kick in.,1.8050900062073247,0.0193266226538166,1611,672,581,358,sarcasm,neutral
+12,I think the peyote is finally kicking in.,1.7337164750957854,0.0197912610259636,1566,744,495,327,sarcasm,positive
+31,Keep moving. He's a hugger.,1.6118999323867478,0.0197797273954134,1479,826,401,252,sarcasm,positive
+32,I think it knows we're 60% water!,1.609938733832539,0.018914401449792,1469,784,474,211,incongruity-absurdity,neutral
+34,The peyote is kicking in.,1.6026629292221444,0.0196248303831262,1427,788,418,221,sarcasm,neutral
+27,We're 70% water. Run!,1.6282919488337095,0.0203706829781666,1329,705,413,211,incongruity-absurdity,neutral
+37,"Honey, I think you dropped your Viagra.",1.5919354838709678,0.0233201726632548,1240,774,198,268,sarcasm,negative
+28,Honey I think this prick is following us.,1.6270491803278688,0.0219313105121541,1220,670,335,215,sarcasm,negative

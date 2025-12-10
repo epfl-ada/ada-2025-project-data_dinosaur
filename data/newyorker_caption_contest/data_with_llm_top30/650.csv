@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4734,Do you regret cementing the relationship?,1.2282608695652173,0.0394534724357374,184,152,22,10,sarcasm,neutral
+3440,"This weight you say you feel, would it happen to look like a pyramid with a handle where the peak should be?",1.2681564245810055,0.0392672238770417,179,138,34,7,sarcasm,neutral
+1210,Let’s try expressing that in kilograms.,1.3636363636363635,0.0451287022179066,176,123,42,11,wit-surprise,neutral
+257,So you literally meant 'literally'.,1.4685714285714286,0.0542381608330017,175,116,36,23,irony,neutral
+6982,"Yes, I did say that I didn't want you to put me on a pedestal.",1.1428571428571428,0.0277382626125171,175,151,23,1,self-deprecating,neutral
+3379,I suggest trying a dog or a cat as an emotional support alternative.,1.2701149425287357,0.0408795554524274,174,135,31,8,sarcasm,neutral
+5200,And why do you feel as if you have a great weight on your chest?,1.2126436781609196,0.0360553210672918,174,142,27,5,self-deprecating,neutral
+6309,This online dating is absurd.,1.1734104046242777,0.0331997137455083,173,147,22,4,unknown,negative
+3010,"Just try to relax, Bob.",1.283236994219653,0.0406301136185155,173,131,35,7,sarcasm,neutral
+2204,Your HMO doesn't cover that.,1.3121387283236994,0.0453305986744454,173,131,30,12,sarcasm,negative
+960,You're phone is ringing.,1.3815028901734103,0.0494698365478752,173,123,34,16,unknown,neutral
+5835,I thought this was a safe zone.,1.191860465116279,0.0353089589815228,172,144,23,5,sarcasm,neutral
+3603,I thought we’d role play with you carrying the weight of the world.,1.263157894736842,0.0411219898692045,171,134,29,8,sarcasm,neutral
+2690,"George, relax, take a load off.",1.2941176470588236,0.0454295037032077,170,132,26,12,sarcasm,neutral
+3367,"You’ve put a great weight on yourself, Henry.",1.2705882352941176,0.043174155445707,170,134,26,10,wit-surprise,positive
+628,"On a scale of 1 to 10, how would you rate your feelings of entrapment?",1.411764705882353,0.0518292165186474,170,118,34,18,self-deprecating,neutral
+4895,"Stop complaining, at least it isn't on your shoulders!",1.223529411764706,0.0397984315426172,170,140,22,8,sarcasm,negative
+4298,"You’ve made immense progress here, Stanley.",1.241176470588235,0.0387373660195918,170,135,29,6,wit-surprise,positive
+4894,"Don’t worry, we have meds for that.",1.223529411764706,0.0380090497737556,170,138,26,6,sarcasm,positive
+1035,Is there something you wanted to get off of your chest?,1.376470588235294,0.0500281446555122,170,122,32,16,sarcasm,neutral
+6986,C'mon will you get up ...this session has been lasting for days.,1.142011834319527,0.0306037882626881,169,148,18,3,self-deprecating,negative
+434,"In my professional opinion, your level of anxiety is quite appropriate.",1.4378698224852071,0.0495107200041158,169,109,46,14,self-deprecating,neutral
+4255,"So, does your mother still make the best matzoh ball soup?",1.242603550295858,0.0380255760822363,169,133,31,5,unknown,neutral
+6984,I feel burdened by a great weight...,1.1428571428571428,0.0307747529802392,168,147,18,3,unknown,negative
+5710,You always complain about weighty problems,1.1964285714285714,0.0340445880114679,168,138,27,3,unknown,negative
+6179,"I read that when she's stressed, Oprah uses a weighted blanket.",1.1785714285714286,0.0351393703310781,168,143,20,5,self-deprecating,neutral
+691,"Look at the bright side, Steve.  You've completely squashed the monkey on your back.",1.4047619047619049,0.0535575656111772,168,120,28,20,self-deprecating,positive
+3461,What is weighing on you today?,1.2678571428571428,0.0400253112511973,168,129,33,6,self-deprecating,neutral
+2276,"And when you say, “crushing weight on your chest,” how exactly do you mean that?",1.3095238095238095,0.0446386985992033,168,126,32,10,sarcasm,neutral
+3643,"As a matter of fact, I have had trouble sleeping lately.",1.261904761904762,0.0415672568654724,168,132,28,8,self-deprecating,negative

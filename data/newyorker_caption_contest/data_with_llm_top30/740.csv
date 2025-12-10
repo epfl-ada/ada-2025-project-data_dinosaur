@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"The policy was “You break it you bought it”, and he ended up owning the place.",2.1238291302110137,0.0081302406622374,9715,2602,3312,3801,incongruity-absurdity,neutral
+"We never, ever say ""charge it"".",1.969371759315085,0.008800839249601,8293,2794,2959,2540,incongruity-absurdity,neutral
+I tend to complicate simple things.,1.7816459917300254,0.0099605997223353,7497,3795,1548,2154,self-deprecating,negative
+"Slowly...very slowly, take your red scarf off.",1.8454655747649376,0.0095639234358734,6594,2579,2456,1559,self-deprecating,neutral
+"You think this is impressive, I've got a fox tending my henhouse",1.946160483175151,0.0105048530966059,5795,2017,2073,1705,unknown,neutral
+He was very excited to get the job. His wife is over the moon.,2.002061083005434,0.0110939472024913,5337,1752,1824,1761,incongruity-absurdity,positive
+It was easier just to hire him.,1.9761388286334056,0.0106152913248022,5071,1518,2159,1394,wit-surprise,neutral
+"Ma'am, I'd like for you to remove your red scarf before approaching the counter.",1.9984183471727957,0.0108027756773148,5058,1509,2053,1496,sarcasm,neutral
+"Yes, ma'am, he's the owner. We think of it as china in a bull's shop.",1.7634907251264755,0.0111425874933271,4744,2098,1673,973,wit-surprise,neutral
+First metaphor I ever hired.,1.9960775768141208,0.0115751166082703,4589,1427,1756,1406,wit-surprise,neutral
+Once I clarified what “break time” meant we haven’t had any issues.,1.9204286365709071,0.0118270262416936,4386,1536,1664,1186,sarcasm,neutral
+I thought I was the diversity hire.,1.8923645320197044,0.0125823407551716,4060,1549,1400,1111,self-deprecating,neutral
+Let's just say he's paying off an old debt.,1.9318299637117675,0.0122502615710777,3858,1267,1591,1000,unknown,neutral
+It was a phone interview.,1.8739869281045751,0.0126571444191691,3825,1443,1421,961,incongruity-absurdity,neutral
+"They come in for the irony,but they stay for his ability to spot a fake Wedgewood a mile away.",1.870042872454448,0.0127849755034143,3732,1432,1361,939,irony,neutral
+"It's ok, he identifies as a cow.",1.7764307865802087,0.0133323816531837,3547,1603,1134,810,irony,neutral
+‘First time I’ve seen china in a bull’s shop!’,1.8695780466214225,0.0135539911693352,3389,1327,1186,876,unknown,neutral
+"I hope she doesn't say ""charge""",2.2364663890541343,0.0127364740190649,3362,613,1341,1408,sarcasm,negative
+We also have a fox guarding our henhouse. He’s very responsible.,1.7221711131554738,0.0133768489724972,3261,1530,1107,624,irony,neutral
+It was a slippery slope from “you break it you buy it” to owning the whole shop.,1.7950742027155036,0.0130401656067454,3167,1251,1317,599,incongruity-absurdity,neutral
+"He acts like an expert, but he's really just full of BS.",1.9051696796701552,0.0144761345409264,3153,1205,1042,906,wit-surprise,negative
+There really is an unmistakable difference when they are grass fed.,1.7333783327708403,0.0142067962774129,2963,1396,965,602,irony,neutral
+The elephant in the room is on vacation.,1.716711956521739,0.0140311122616459,2944,1393,994,557,incongruity-absurdity,neutral
+The elephant in the room works Mondays and Thursdays,1.97226173541963,0.0149379524036408,2812,922,1046,844,unknown,neutral
+It'll take him at least a decade to work off his previous visit.,1.7100930565497494,0.0142254663593801,2794,1312,980,502,incongruity-absurdity,neutral
+Just don’t ask him about his time on Wall Street and you’ll be fine.,1.726063829787234,0.0143526239758576,2632,1185,988,459,sarcasm,neutral
+He appreciates the irony.,1.718941717791411,0.0144618245504264,2608,1183,975,449,irony,positive
+"He’s an anger management success story, they say.",1.7278752436647171,0.0144859107267258,2565,1139,986,439,sarcasm,neutral
+"I had my doubts, but it turns out he's a cash cow.",1.9112587959343237,0.0156542254875766,2558,925,935,698,unknown,neutral
+"It's been fine, though I am a little worried about next week's Red Tag Sale.",1.7345897133883,0.0147957392393014,2547,1140,944,463,incongruity-absurdity,positive

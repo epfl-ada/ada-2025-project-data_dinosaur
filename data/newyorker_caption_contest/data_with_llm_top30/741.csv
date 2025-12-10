@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"When the moon's in the sky like a big winking eye, that's emoji.",1.990896830748483,0.0108102580055854,5932,2083,1820,2029,incongruity-absurdity,neutral
+Be careful.  He has a dark side.,1.9458451704545456,0.0105539720523301,5632,1927,2083,1622,sarcasm,neutral
+Don’t be fooled. He has a dark side.,2.2605956471935853,0.0108432668334791,5238,1108,1657,2473,sarcasm,neutral
+"Don't worry, it's just a phase.",1.8048591367278368,0.0123096923880705,3869,1585,1454,830,self-deprecating,neutral
+I think it's just a phase.,1.9945054945054943,0.0131236602585114,3458,1039,1399,1020,self-deprecating,neutral
+Just look at him.  He's full of himself.,1.8183574879227056,0.0150794114798623,3105,1429,811,865,self-deprecating,negative
+"Well, I suppose I’d rather be winked at than mooned.",1.762699564586357,0.0150981496950013,2756,1270,870,616,sarcasm,neutral
+"This isn’t the first time you brought a date up to this spot, isn’t it?",1.7488134355604237,0.0152548460437906,2739,1303,821,615,sarcasm,neutral
+"Jesus, Anne, even the moon knows we’re having an affair.",1.7263969171483622,0.016984071314005,2076,983,678,415,sarcasm,neutral
+It’s probably just a phase.,1.7209915611814346,0.0170576192610594,1896,861,703,332,self-deprecating,neutral
+Remind me to close the curtains tonight.,1.7765333333333333,0.0180703197095489,1875,830,634,411,incongruity-absurdity,neutral
+"No, I still just see a semicolon and parenthesis.",1.7535991140642304,0.0186459646286246,1806,844,563,399,sarcasm,neutral
+Well this is a new phase.,1.7125292740046838,0.01795432209455,1708,786,627,295,self-deprecating,neutral
+"To be honest, you're the first girl I've brought up here he likes.",1.7251635930993456,0.0183701956283495,1681,771,601,309,sarcasm,positive
+Apparently the lunar probe found the right spot.,1.7083333333333333,0.0199740344212869,1560,779,457,324,irony,positive
+Remember when we would have found this odd?,1.7183946488294315,0.0196046966594636,1495,699,518,278,irony,negative
+I guess Trump leaving office is universally welcomed.,1.7225716282320056,0.0207475031765775,1431,694,440,297,irony,positive
+I've seen waxing and waning but winking is a new one,1.691254752851711,0.0209812671198185,1315,646,429,240,wit-surprise,neutral
+Post-inaugural happiness extends farther than I thought.,1.6958174904942966,0.0212509210087127,1315,651,413,251,sarcasm,positive
+We should buy a case of this.,1.6790336496980156,0.0228801166896348,1159,597,337,225,unknown,neutral
+Is there anybody in the universe you HAVEN’T dated?,1.6865942028985508,0.0233787794393416,1104,560,330,214,self-deprecating,neutral
+"Now that you've mentioned it, I can't stop seeing a semicolon and a right parenthesis.",1.682674199623352,0.0235715665375288,1062,535,329,198,sarcasm,neutral
+Well you passed that test.  My mother is next.,1.6663376110562684,0.0238109150381475,1013,516,319,178,sarcasm,positive
+I don't think I've ever seen this side of the moon before.,1.6740220661985958,0.0233423367711951,997,486,350,161,irony,neutral
+I sunbathed topless one time and now he won't leave me alone.,1.6701902748414377,0.0250529237403944,946,488,282,176,irony,neutral
+Did we check those mushrooms in the field guide?,1.651190476190476,0.0262276964651956,840,440,253,147,irony,neutral
+"He's only been President for a few days, and the world is already looking different.",1.6345238095238095,0.0263356745287797,840,454,239,147,exaggeration,negative
+"I said no elaborate proposal, Steve",1.6630434782608696,0.0262263298524273,828,422,263,143,sarcasm,neutral
+I’m glad he gave us a wink and not the full moon.,1.6582125603864737,0.0268668052845224,828,437,237,154,incongruity-absurdity,positive
+Somebody thinks I'm getting lucky tonight.,1.6458333333333333,0.0252690869499254,816,408,289,119,sarcasm,neutral

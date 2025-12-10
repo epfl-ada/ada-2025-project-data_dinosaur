@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Wow, you student loan people really know how to track someone down.",1.9389617798060468,0.0076695813461519,10518,3594,3972,2952,sarcasm,negative
+Welcome to paradise. I take it he won another term.,1.959068941710228,0.0082699784517774,10139,3731,3092,3316,irony,positive
+"Ah great, now we’re going to have to wear masks",1.9331844029244516,0.0080933899134845,9848,3532,3446,2870,sarcasm,neutral
+"Hate to break it to you, dude, but I'm already Mormon.",1.9291582204203563,0.0087209545213877,9373,3699,2641,3033,sarcasm,neutral
+On the bright side there's only one active covid-19 case on the island.,1.89725697786333,0.0090470789738945,8312,3298,2570,2444,sarcasm,positive
+All my coworkers think this is just a virtual Zoom background,1.9049056603773584,0.00902225826677,7950,2986,2734,2230,irony,neutral
+Thank you for agreeing to meet remotely.,1.974228119418219,0.0088919557396424,7838,2532,2976,2330,sarcasm,positive
+"Relax, take off your shoe.",1.937081850533808,0.0094881853074667,7025,2456,2555,2014,unknown,neutral
+"So for the first two weeks, you need to quarantine west of the palm tree, after that feel free to go wherever.",1.870209431542955,0.0093482476408219,7019,2672,2589,1758,exaggeration,neutral
+"Actuallly, I’m pretty happy with the coverage I already have.",1.7957040572792362,0.0097437606265864,6285,2648,2273,1364,self-deprecating,positive
+I presume you're from the IRS.,1.784587578047979,0.0102021821452797,6086,2724,1949,1413,sarcasm,neutral
+"Finally, tech support.",1.895274164333937,0.0101585638251365,6073,2254,2201,1618,irony,positive
+I'm disappointed that you're disappointed. Next time be more specific when you make a wish to end up on a deserted island with a blonde.,1.8109675281643471,0.010260941397273,6036,2596,1985,1455,sarcasm,negative
+"Man, how long were you gone?  This IS Manhattan!",1.863430962343096,0.0106394504950581,5975,2484,1823,1668,sarcasm,neutral
+Six feet dude. Six. Feet.,2.0075417489674985,0.0102812345831088,5569,1618,2291,1660,irony,neutral
+And the best part is ... no Fox News!,1.8439782730848473,0.0112625554464504,5339,2289,1594,1456,sarcasm,positive
+Welcome to the last resort.,1.8058127018299248,0.0116760772442363,4645,2011,1526,1108,exaggeration,negative
+I was expecting you. Your left shoe washed up this morning.,1.7883369330453565,0.011291498406359,4630,1960,1690,980,incongruity-absurdity,neutral
+"Well, I'll let you get settled, then I'll show you around.",1.772967032967033,0.011109311821857,4550,1911,1761,878,incongruity-absurdity,neutral
+"Word to the wise: If you treat it as a staycation, the time goes by faster.",1.680619404790709,0.0114895845515999,4133,2001,1453,679,self-deprecating,positive
+"Since November 9, 2016.",1.7065351418002466,0.0123634494357672,4055,2026,1193,836,sarcasm,neutral
+I was SO YOU in April.,1.7334705428350914,0.0122586416154671,3887,1791,1341,755,self-deprecating,neutral
+I've been here since 2019.  Have I missed anything?,1.816300129366106,0.0126757505392242,3865,1620,1335,910,sarcasm,neutral
+"Well, up till now, my social distancing plan was working pretty well.""",1.6776623376623376,0.0119014457807889,3850,1873,1347,630,self-deprecating,positive
+I get it. Trump won. Welcome.,1.6937416777629828,0.0128173633111904,3755,1911,1084,760,sarcasm,positive
+It’s really not so bad except at high tide.,1.8416438356164384,0.0126118213223442,3650,1394,1440,816,incongruity-absurdity,positive
+"Okay, okay. Fine, I'll fill out the census.",2.0798018712162905,0.0126085838791495,3634,916,1512,1206,sarcasm,neutral
+You better hope another chair washes up,1.81813110181311,0.012530538627095,3585,1394,1449,742,sarcasm,negative
+"Take the tie off, man.  It’s casual Friday.",1.8207492795389049,0.0129043697541218,3470,1369,1354,747,sarcasm,neutral
+I've been out of touch. Is America still great?,1.6804063860667635,0.01306471660691,3445,1741,1065,639,sarcasm,negative

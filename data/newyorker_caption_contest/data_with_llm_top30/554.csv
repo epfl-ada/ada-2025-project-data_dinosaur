@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,You were with Ringling Brothers? I was with Lehman Brothers.,1.98209179834462,0.0101772881754521,6645,2347,2070,2228,sarcasm,neutral
+5,Shouldn't you be at your confirmation hearing?,1.894776259127504,0.0118970737997216,5341,2329,1245,1767,sarcasm,neutral
+2,"Sure, it's all fun and games. Until one of you gets elected.",1.916803144448084,0.0148936349122404,3053,1171,965,917,sarcasm,negative
+4,"Would you like that straight up, on the rocks, or sprayed directly in your face?",1.90575025518884,0.014899552563245,2939,1110,996,833,sarcasm,neutral
+6,Don't let it get you down. There were only so many cabinet positions he could fill.,1.8535060294774448,0.0173474793705469,2239,942,683,614,sarcasm,neutral
+3,"Hey, all I know is that they left in a very small car.",1.9081786251881585,0.0172562551198484,1993,691,794,508,sarcasm,neutral
+8,It's not that kind of happy hour.,1.8126283367556468,0.0172807512156881,1948,783,747,418,incongruity-absurdity,negative
+9,Here for the Inauguration?,1.8078626799557032,0.0191249566326857,1806,803,547,456,irony,neutral
+10,"OK, I'll serve you, but don't try anything funny.",1.8017964071856287,0.0190302321781949,1670,703,595,372,sarcasm,neutral
+12,Cheer up. In four years you can be the world's greatest clown again.,1.7528015820698748,0.0209803319182809,1517,740,412,365,sarcasm,negative
+13,In town for the Inauguration?,1.7412687099073414,0.0214743527619031,1403,682,402,319,irony,neutral
+11,"No ID, no drink. I can't just serve every clown who walks in here.",1.7543731778425655,0.0209327738773751,1372,622,465,285,sarcasm,negative
+14,"Sorry, you're late. The rabbi and priest just left.",1.7210440456769984,0.0217213290534168,1226,573,422,231,sarcasm,neutral
+7,"Well, whoever they hire to replace you is going to have some big shoes to fill.",1.815811606391926,0.02314472512154,1189,508,392,289,sarcasm,negative
+15,"""Just Bailey's, no Barnum"".",1.7121866897147795,0.0231559113341665,1157,573,344,240,unknown,neutral
+16,I knew Bozo. And you're no Bozo.,1.7060931899641576,0.0234042540210071,1116,553,338,225,wit-surprise,neutral
+17,You want that shaken or squirted?,1.697455230914232,0.0237407247030951,1061,526,330,205,sarcasm,neutral
+19,No Barnums. Will Baileys do?,1.685540950455005,0.0251732906640127,989,514,272,203,sarcasm,neutral
+18,"First they fired the elephants, and I said nothing.",1.6855983772819472,0.0257212452237768,986,525,246,215,wit-surprise,negative
+20,Maybe she just didn't take you seriously.,1.6772823779193209,0.0247706160730113,942,473,300,169,sarcasm,negative
+21,"Who dressed you, Kellyanne Conway?",1.6738894907908992,0.0283265315246722,923,541,142,240,sarcasm,neutral
+24,Sorry -- none of our hours are happy anymore.,1.6681564245810057,0.0256504611337747,895,461,270,164,sarcasm,negative
+23,You can't be serious.,1.6681614349775784,0.0266809260191852,892,480,228,184,sarcasm,negative
+22,Tough day at the confirmation hearings?,1.6681664791901012,0.0264696405015509,889,473,238,178,sarcasm,negative
+25,"Neat, on the rocks, or squirted in your eye?",1.656324582338902,0.0266731852675915,838,443,240,155,incongruity-absurdity,neutral
+26,Do you want that in a glass or squirted directly in your face?,1.6545893719806763,0.0267834679045192,828,438,238,152,sarcasm,neutral
+27,"Must be tough, having your kid run off to join a law firm.",1.651105651105651,0.0272915438332076,814,438,222,154,sarcasm,negative
+28,First they came for the elephants...,1.6483790523690771,0.028583224348293,802,453,178,171,exaggeration,neutral
+30,One more before your confirmation hearing?,1.6431322207958925,0.0288600560290959,779,441,175,163,sarcasm,neutral
+29,Your wife called. She wants you to pick up a cream pie on the way home.,1.6435006435006434,0.0269599717588154,777,407,240,130,incongruity-absurdity,neutral

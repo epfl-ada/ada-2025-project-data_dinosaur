@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Don't worry, you'll be running in no time.",1.823603377043291,0.0106806797100413,5567,2345,1859,1363,incongruity-absurdity,positive
+"Good news, your car troubles are over.",1.8057215281549883,0.0107593193017613,5523,2426,1752,1345,sarcasm,positive
+"Ooh, a pop-up restaurant.",1.7525423728813558,0.0107714971756311,5310,2455,1714,1141,incongruity-absurdity,neutral
+Now this is what I call meals on wheels.,1.7461024498886415,0.0116861154101147,4490,2091,1448,951,wit-surprise,neutral
+You don't need a jump start. You need a head start.,1.772788203753351,0.0117426043781053,4476,2005,1483,988,incongruity-absurdity,neutral
+"Fred realizes a little too late that the noise is not, in fact, coming from the transmission.",1.7540902330193358,0.0122817516201689,4034,1845,1336,853,incongruity-absurdity,neutral
+"You want to check for coolant leaks, make sure the electrical couplings are solid, and maybe leave a note for next of kin in the front windshield.",1.7752305008721654,0.012394233149924,4013,1789,1337,887,sarcasm,neutral
+"When he told you, 'bear right,' he wasn't giving you directions.",1.7900677200902937,0.0125756154880537,3987,1763,1298,926,wit-surprise,neutral
+That's gonna cost you an arm and a leg.,1.7642725598526705,0.0128548261971555,3801,1747,1203,851,incongruity-absurdity,negative
+"Just then, the situation turned from bad to Grizzly.",1.7376830892143809,0.0129133496199187,3755,1797,1146,812,incongruity-absurdity,negative
+I guess we both need to rethink our dinner plans.,1.767234387672344,0.0125852726488741,3699,1617,1329,753,sarcasm,neutral
+I think your real problem is the hibernator.,1.7441604836493545,0.0131716591111705,3639,1733,1104,802,sarcasm,negative
+You’re gonna laugh—I actually had a mechanic for breakfast this morning.,1.845090699683271,0.0136193888199844,3473,1429,1153,891,irony,positive
+"Don’t panic, I’m good. There was a tour bus here a few days ago.",1.767103347889374,0.0130461996359661,3435,1497,1241,697,sarcasm,positive
+"Ahh, dinner and a V8. My favorite!",1.7973293768545997,0.0138268113947392,3370,1496,1061,813,sarcasm,positive
+This repair is going to cost you an arm and a leg.,1.7523099850968704,0.0134186895671909,3355,1544,1103,708,incongruity-absurdity,negative
+"Well hello, meals on wheels...",1.776948051948052,0.0141611339151766,3080,1371,1025,684,sarcasm,neutral
+Bet I can get you running.,1.763879817112998,0.0139205935440488,3062,1355,1075,632,sarcasm,neutral
+Let's see if we can get you up and running.,1.768760611205433,0.0141238140846475,2945,1284,1058,603,wit-surprise,neutral
+"Well, well. If it isn’t Mr Don’t Feed The Bears, Kids.",1.7572314049586777,0.0147328138173168,2904,1353,903,648,irony,negative
+You should be more tender than the bicyclist.  He was all muscle.,1.700557103064067,0.0146450599175727,2872,1448,838,586,wit-surprise,neutral
+"Sure, it could be condensation in the distributor, but that may not be your biggest problem.",1.719885958660014,0.0141585861768505,2806,1295,1005,506,sarcasm,neutral
+Running on empty? What a coincidence!,1.7434497816593886,0.0147401437817585,2748,1263,927,558,sarcasm,negative
+Take your time.  I just ate.,1.742910447761194,0.0143276559098302,2680,1170,1029,481,sarcasm,neutral
+Looks like your timing is off.,1.759702725020644,0.0156282133909262,2422,1077,850,495,sarcasm,negative
+"Oh, thank God! I was worried that growling noise was coming from my engine.",1.766390041493776,0.015548046128879,2410,1049,875,486,irony,negative
+Tonight...Ubear Eats.,1.7527944969905418,0.0165477977183907,2326,1102,700,524,irony,neutral
+"Oh good its already open, the hard part is getting them out of the shell.",1.7271142109851787,0.0161335711125395,2294,1093,738,463,exaggeration,positive
+Look what just arrived? Meal on Wheels!,1.782169521299956,0.0165294060185384,2277,1010,753,514,unknown,positive
+"It was at that exact moment, John realized his AAA membership had also expired.",1.7268248992386923,0.0160965478325876,2233,1034,775,424,irony,neutral

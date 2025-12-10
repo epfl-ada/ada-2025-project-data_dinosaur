@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I won them at a silent auction.,1.731578947368421,0.0114288859335173,4560,2134,1516,910,incongruity-absurdity,positive
+"Ok, you win, there are more annoying people than you.",1.7033978291647005,0.0119265623429783,4238,2097,1303,838,sarcasm,negative
+Just pretend to give them your wallet.,1.697252090800478,0.0116620334631615,4185,2016,1420,749,sarcasm,neutral
+This is why I hate asking for directions in Paris.,1.7168734491315136,0.0119944643166545,4030,1900,1371,759,sarcasm,negative
+Pretend to give them a dollar.,1.68375,0.0118308485164486,4000,1952,1361,687,unknown,neutral
+Pretty sure I said French wines.,1.6695563488016318,0.0121059862137654,3922,1989,1240,693,sarcasm,neutral
+I really don't need two more men in my life who never talk.,1.739622641509434,0.0136122925195645,3445,1667,1009,769,sarcasm,negative
+Don't just stand there. Pretend to call 911.,1.6643130332450722,0.0126969781698493,3399,1693,1154,552,incongruity-absurdity,negative
+_ _  _ _ _ _ _ _  _ _   _ _ _!,1.6493630573248408,0.0141695738514142,3140,1733,775,632,irony,neutral
+"Memes, Harold. I said I like memes.",1.6724193032917865,0.0135508222967152,3129,1579,996,554,irony,positive
+Hand me my imaginary pepper spray.,1.6985507246376812,0.0133272445751566,3105,1465,1111,529,sarcasm,neutral
+"They're still there, aren't they.",1.645631067961165,0.0140677252870559,3090,1686,813,591,sarcasm,neutral
+How can you just stand there and watch them do unspeakable things to me?,1.707993474714519,0.0144822276136102,3065,1563,834,668,sarcasm,negative
+"You see them too, right?""",1.6864378540486504,0.0133724490962047,3001,1423,1096,482,sarcasm,neutral
+______________,1.645917001338688,0.0145727079191368,2988,1664,718,606,irony,neutral
+"It's mimesplaining, and it's offensive.",1.6689536878216122,0.0142030988381879,2915,1499,882,534,sarcasm,negative
+Are you just going to stand there and let them do unspeakable things to me?,1.7135955831608003,0.014933529477574,2898,1470,788,640,sarcasm,negative
+Don't just stand there. Gesture for help.,1.685210780926054,0.0141157544670131,2894,1433,939,522,incongruity-absurdity,neutral
+If you pretend your finger is a gun I think we can scare them off.,1.6712850710079667,0.0140000028307208,2887,1447,942,498,sarcasm,neutral
+"Don't move, apparently we're in a mime field.",1.6328392246294186,0.015040547381402,2631,1443,711,477,incongruity-absurdity,neutral
+Just tell me. I’m not a mime reader.,1.7247278382581648,0.0151068369165635,2572,1206,868,498,sarcasm,negative
+"OK, You are not the most annoying person that I have ever met.",1.6557575757575758,0.0152643990664758,2475,1286,755,434,self-deprecating,negative
+You had to insist on a quiet neighborhood.,1.6561475409836066,0.0148508096312753,2440,1220,839,381,irony,neutral
+I've walked into a mime field.,1.6561969439728352,0.0154447924809914,2356,1206,754,396,incongruity-absurdity,neutral
+"Don't just stand there, throw me an imaginary rope",1.6262715612560814,0.0147863458349786,2261,1139,828,294,unknown,negative
+"My heart says “yes”, but my mimes say “no”.",1.6255605381165918,0.01547492683662,2230,1169,727,334,unknown,neutral
+You're standing on their rope.,1.624884792626728,0.0156219553293122,2170,1134,716,320,sarcasm,neutral
+Memes.  I said I loved memes.,1.62493911349245,0.0166879677288214,2053,1116,591,346,irony,positive
+"If you don't say anything, you'll just encourage them.",1.671480144404332,0.0170915928987982,1939,972,632,335,sarcasm,negative
+Next time YOU ask for the directions!,1.6438569206842923,0.016964425646618,1929,1001,614,314,sarcasm,neutral

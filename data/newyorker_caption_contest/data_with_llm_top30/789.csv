@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Do you have to come in here every time I turn on the light?,1.8265698419478855,0.0169055777349181,2341,1021,705,615,sarcasm,neutral
+I really hope you make better use of your last two wishes.,1.772622875516766,0.017181637470667,2177,1003,666,508,sarcasm,positive
+What the hell is a midlife chrysalis?,1.749656121045392,0.0216130483708197,1454,721,376,357,sarcasm,negative
+You know I can't stand it when you hover.,1.740677966101695,0.0223452037521459,1180,540,406,234,sarcasm,negative
+"Ok, fine. You are capable of change.",1.7121993127147763,0.0223890850705689,1164,555,389,220,self-deprecating,neutral
+This wasn’t what I meant when I told you to grow a pair.,1.7084468664850136,0.0244062756328458,1101,568,286,247,sarcasm,negative
+You went out for wings without me?,1.731977818853974,0.0242931674828059,1082,529,314,239,sarcasm,neutral
+It’s 2 AM and once again you flit home reeking of pollen and nectar.,1.7175257731958762,0.0249818178188291,970,469,306,195,sarcasm,negative
+"Oh God, you caught the variant.",1.7225950782997763,0.0269817212534608,894,449,244,201,sarcasm,negative
+"Good, now why don't you go check on that porch light?",1.7044943820224718,0.0257662006793415,890,433,287,170,sarcasm,neutral
+I see that you’re finally over your mid-life chrysalis.,1.6956521739130437,0.0259307004032967,874,430,280,164,sarcasm,neutral
+"Well, look who thinks he’s the new monarch around here.",1.7,0.0265971170912692,850,421,263,166,self-deprecating,neutral
+"That's not what I meant when I told you to ""Grow a pair""",1.6865315852205005,0.0277792181793227,839,444,214,181,sarcasm,negative
+I thought you were European when you said your family came from monarchs.,1.6873508353221958,0.0278002899047422,838,443,214,181,wit-surprise,neutral
+I give up. New glasses?,1.7292746113989637,0.0288211609353074,772,380,221,171,sarcasm,negative
+"When you told me you were transitioning, this isn't what I expected.",1.6775456919060052,0.0282408510467637,766,397,219,150,irony,negative
+"When I told you to grow a pair, this is not what I had in mind.",1.713520749665328,0.0292475756705133,747,376,209,162,sarcasm,negative
+"For goodness’s sake, Robert, there’s no reason to come downstairs every time I turn the lamp on",1.684281842818428,0.0288733299198615,738,380,211,147,sarcasm,negative
+"« Go and enjoy the lights if you must, but if you are not back by 11:30 you’re sleeping on the screen door again »",1.684065934065934,0.0305307969857847,728,398,162,168,sarcasm,neutral
+You're not the caterpillar I married.,1.6666666666666667,0.0313571591344425,681,379,150,152,sarcasm,negative
+Shouldn’t you be in Mexico by now?,1.6711309523809523,0.0294214771142283,672,342,209,121,sarcasm,neutral
+"This is not what I meant by ""grow a pair"".",1.6646433990895295,0.031595935024608,659,364,152,143,self-deprecating,negative
+"So, it’s off to Mexico again, is it?",1.6646433990895295,0.0298700507472407,659,341,198,120,exaggeration,neutral
+"Howard, I don’t care if you’ve only got one day to breed. The answer is still No.",1.666158536585366,0.0306590216513968,656,348,179,129,sarcasm,negative
+What is your preferred pronoun now?,1.6778625954198474,0.031647091612499,655,354,158,143,sarcasm,neutral
+"When you said you were transitioning, this is not what came to my mind",1.6618819776714513,0.0302143996314094,627,321,197,109,irony,negative
+"Yeah, well I sting like a bee so finish cleaning the dishes.",1.67524115755627,0.0319541119624536,622,331,162,129,sarcasm,negative
+This insert says it's one of the 'very rare' side effects.,1.6567164179104477,0.0314889612552545,603,319,172,112,irony,neutral
+"You know George, most people turn 50 and just buy a motorcycle.",1.6553480475382003,0.0306350921182173,589,299,194,96,wit-surprise,neutral
+The Very Hungry Butterfly can make his own sandwich.,1.6512820512820512,0.031493924536325,585,307,175,103,incongruity-absurdity,neutral

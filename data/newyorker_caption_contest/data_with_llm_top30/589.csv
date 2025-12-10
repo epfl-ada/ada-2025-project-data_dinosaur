@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+14,It's a lot to digest.,1.845746023731381,0.0124588296075028,3961,1570,1432,959,wit-surprise,neutral
+9,"Please listen carefully, as some of our menu options have changed.",1.8938397129186604,0.013684085301785,3344,1243,1213,888,sarcasm,neutral
+16,All we have left is the meatloaf.,1.838501291989664,0.0145453079697959,3096,1304,988,804,exaggeration,negative
+18,"Your first time in Texas, sir?",1.819486152819486,0.0141008871195469,2997,1212,1114,671,irony,neutral
+6,Do you need a minute?,1.9111796982167355,0.0141503170175757,2916,992,1191,733,sarcasm,neutral
+4,Wait 'til you see the check.,1.9133600291226796,0.0154104111723267,2747,1025,935,787,sarcasm,neutral
+26,I’m sorry. That’s not on the menu.,1.7635054021608645,0.0154558615020738,2499,1111,868,520,sarcasm,negative
+0,Can I tell you about a few items that aren't on the menu?,1.9624394184168013,0.0158705274663697,2476,820,929,727,sarcasm,neutral
+25,I recommend the buffet.,1.764003294892916,0.0155875546626478,2428,1070,861,497,unknown,positive
+28,"Have you decided, sir, or shall I come back tomorrow?",1.7544810337640684,0.0156132957350132,2399,1068,852,479,sarcasm,neutral
+30,Do you need a moment?,1.7312910284463896,0.0157280218507199,2285,1035,829,421,self-deprecating,neutral
+7,"Excellent! Would you like that grilled, griddled, pan-seared, blackened, slow-roasted, broiled, sautéed, pan-fried, deep- fried, braised, boiled, steamed, poached, smoked, fricasseed, or tartare?",1.9066728884741015,0.0169533939373672,2143,769,805,569,sarcasm,positive
+21,May I suggest column 13 subparagraph 12 item 6???,1.7903533906399236,0.0168270055448625,2094,886,761,447,sarcasm,neutral
+1,We're out of that too.,1.9605861546235472,0.018004541218166,1979,675,707,597,exaggeration,neutral
+23,"Ironically, we're out of the jumbo shrimp.",1.776590330788804,0.0171788936944658,1965,838,728,399,irony,neutral
+39,"Yeah, Mr. Trump likes to make everyone's hands look small.",1.681868131868132,0.0184161768678855,1820,943,513,364,sarcasm,neutral
+40,We’ve recently been acquired by Amazon,1.6786108048511577,0.018101614559636,1814,924,549,341,exaggeration,neutral
+2,"Thank you for actually reading the entire menu, but now we're closed.",1.9292817679558008,0.0188461042687615,1810,650,638,522,sarcasm,neutral
+5,Our chef used to be a lawyer.,1.9115533443891648,0.0188151367328779,1809,666,637,506,wit-surprise,neutral
+12,"Yes, it is a lot to digest.",1.858250276854928,0.0176517525522216,1806,654,754,398,wit-surprise,neutral
+31,"If monsieur does not like the picture menu, perhaps he should learn French.",1.7293986636971046,0.0188087493910639,1796,879,524,393,sarcasm,negative
+15,You really can't guess who owns this hotel?,1.8425770308123248,0.0196114496294773,1785,775,516,494,irony,negative
+17,May I recommend the free-range chicken? They're listed alphabetically by first name.,1.837913628715648,0.018992955096045,1783,741,590,452,incongruity-absurdity,neutral
+42,"Excellent choice,I'll have the truck bring it around.",1.6680327868852458,0.0183597289736575,1708,869,537,302,sarcasm,positive
+43,"Yes, the alphabet soup is available in large print.",1.6656891495601174,0.0184915982661932,1705,877,521,307,unknown,neutral
+20,We now have to list all the artificial ingredients.,1.8110091743119263,0.0193141649721175,1635,682,580,373,unknown,negative
+50,You'll find our lowest priced entrees at the top.,1.6522544780728845,0.0189553899127725,1619,850,482,287,unknown,neutral
+8,"I know I’m going to regret this, but may I see your wine selection?",1.902241594022416,0.0191538185035679,1606,559,645,402,sarcasm,negative
+11,Would you prefer the large print menu?,1.859638178415471,0.0200410033370508,1603,644,540,419,sarcasm,neutral
+46,Our new chef was formerly a lawyer.,1.6616446955430006,0.0185920755570291,1593,799,534,260,unknown,neutral

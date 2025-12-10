@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+859,I wouldn’t worry about people staring if you used a straw.,1.424778761061947,0.0446159706443767,226,153,50,23,incongruity-absurdity,neutral
+2556,"I agree that it's a very scary time in America for young men, but don't worry, I'm wearing my chastity belt.",1.3333333333333333,0.0405924318200401,219,161,43,15,self-deprecating,neutral
+2780,"And, I was first in my class at Yale.",1.3255813953488371,0.0409645980092357,215,160,40,15,self-deprecating,neutral
+171,When you said you were a little rusty I thought you meant at dating.,1.5211267605633805,0.0477955277386821,213,127,61,25,sarcasm,negative
+5065,"Well, you wanted the knight on the town!",1.2547169811320755,0.0341754612667618,212,164,42,6,incongruity-absurdity,neutral
+920,"That really is my lance, but I am happy to see you.",1.419811320754717,0.0457524237706737,212,144,47,21,wit-surprise,positive
+4003,First dates are always so awkward...,1.2877358490566038,0.0370633881638991,212,160,43,9,sarcasm,negative
+9,"Younger men haven't panned out, so I’m trying the Middle Ages.",1.6587677725118484,0.0552851657441855,211,116,51,44,exaggeration,neutral
+7440,Bill's online dating proved to be a very literal description of himself,1.1563981042654028,0.0276348431035322,211,181,27,3,sarcasm,neutral
+950,"When I read your profile, I thought you meant heavy metal music.",1.4170616113744077,0.0453921895635209,211,143,48,20,sarcasm,neutral
+4269,Stalemate,1.2796208530805686,0.0363358943280031,211,160,43,8,incongruity-absurdity,neutral
+4725,"Sorry, when you said 'date night,' I thought you meant something else.",1.2654028436018958,0.0371452043990391,211,165,36,10,sarcasm,neutral
+3260,"I guess this means ""no""",1.3095238095238095,0.0384481827458495,210,155,45,10,sarcasm,neutral
+2365,"Okay, so now are you ready to talk about the kids?",1.3413461538461535,0.0387838939278663,208,146,53,9,sarcasm,neutral
+3273,"Truth be known, I need a straw but I’m always embarrassed to ask.",1.3091787439613527,0.0375772301325912,207,151,48,8,self-deprecating,negative
+1590,So you weren't just being cute when you called yourself  a knight in shining armor on your dating profile?,1.3768115942028984,0.0440143304337049,207,146,44,17,irony,neutral
+509,"So, you took me literally.",1.458937198067633,0.0468011906029628,207,133,53,21,sarcasm,neutral
+4993,"If I was looking for a knight in shining armor, I would have put that in my dating profile.",1.2572815533980584,0.0374930975318948,206,163,33,10,self-deprecating,neutral
+1647,I'm sensing that you're a bit defensive,1.3737864077669903,0.0441239204428131,206,146,43,17,sarcasm,negative
+5752,"Honestly, I was expecting more dragon.",1.2341463414634146,0.0341463414634146,205,163,36,6,unknown,neutral
+6642,I like to think of myself as a sort of everyknight.,1.2,0.0304595756445443,205,167,35,3,wit-surprise,neutral
+3042,My ex said I was overprotective.,1.3170731707317074,0.0392390081238948,205,150,45,10,unknown,negative
+2488,"Oh, it helps me stick to my diet.........",1.3365853658536586,0.0396588783520167,205,146,49,10,unknown,positive
+7234,"[How disappointing, she thought] 
+My only ""date-night"" this week, and he's vegetarian.",1.170731707317073,0.0313205264398326,205,176,23,6,sarcasm,negative
+4486,"Sorry,but sometimes your anxieties are just too obvious.",1.273170731707317,0.0374658904410677,205,158,38,9,sarcasm,negative
+2332,I just gave up on make-up.,1.343137254901961,0.0416911621680008,204,147,44,13,self-deprecating,negative
+3954,It was only a joust.,1.28921568627451,0.0374034945837329,204,153,43,8,wit-surprise,neutral
+1582,This was not the knight I had in mind.,1.3774509803921569,0.0433817151399706,204,142,47,15,incongruity-absurdity,negative
+6391,I'm being investigated by Mueller.  I want to see what the wold looks like seen through bars.,1.21078431372549,0.0347252168677353,204,169,27,8,irony,neutral
+1312,I'm so glad they were able to get us a round table,1.392156862745098,0.0457366830359154,204,143,42,19,incongruity-absurdity,positive

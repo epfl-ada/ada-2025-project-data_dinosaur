@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4,"If you think he's a clown, wait until you meet your public defender.",1.8460371634433068,0.0109113747810419,5274,2124,1838,1312,wit-surprise,negative
+9,Does it look like we're joking?,1.7726213592233009,0.0106731247323518,5150,2229,1863,1058,sarcasm,neutral
+1,"Unless you want a very long ride in a very small car, I suggest you start talking.",1.9210370077181875,0.0111356202280518,5053,1798,1856,1399,sarcasm,neutral
+6,“I’m the carrot. He’s the stchick”.,1.7953193177310591,0.0112254323017156,5042,2223,1628,1191,unknown,neutral
+0,"We are authorized to use farce, if necessary.",1.978838091435416,0.0113889810659704,5009,1681,1753,1575,incongruity-absurdity,negative
+2,"Oh, you'll laugh. They all laugh.",1.8659817884660288,0.0119274002190621,4283,1630,1597,1056,sarcasm,positive
+3,Don't make us go for the juggler.,1.861125062782521,0.012787560970522,3982,1611,1313,1058,sarcasm,negative
+18,Roberts....make me a chair. We are going to be here a while.,1.7041465276011194,0.0121188671699792,3931,1888,1318,725,unknown,neutral
+17,Start talking or we bring in the mime.,1.7052962768746722,0.0124791980233824,3814,1860,1218,736,sarcasm,neutral
+7,"If you want to see a giraffe, we're going to need more a lot more information.",1.7849430989203383,0.0130793306116003,3427,1452,1260,715,wit-surprise,neutral
+14,"He can be the bad cop, or the good cop, it depends on your childhood.",1.7298311444652907,0.0137058188388418,3198,1509,1044,645,sarcasm,neutral
+13,"He'll pull a confession right out of you, kid, along with two dozen handkerchiefs and a nickel.",1.7385786802030456,0.0134869067468092,3152,1423,1130,599,wit-surprise,negative
+26,Does he look like he's joking?,1.6717205009887937,0.013531947110535,3034,1504,1022,508,sarcasm,neutral
+33,The rest of the force will be here soon. They're still getting out of the squad car.,1.6273049645390072,0.0140680316473561,2820,1508,855,457,sarcasm,neutral
+25,Trump University.........Why do you ask?,1.6729182295573894,0.0153440973103259,2666,1415,708,543,sarcasm,negative
+29,"We can do this the hard way, or the hardy har har way.",1.6557575757575758,0.0153710172577088,2475,1296,735,444,sarcasm,neutral
+15,"We can do this the easy way, or we can do this the creepy way.",1.7246376811594204,0.015930349929627,2346,1110,772,464,sarcasm,neutral
+5,I’m going to need you to describe the perp to our balloon artist.,1.800784655623365,0.0163372296792646,2294,976,799,519,sarcasm,neutral
+11,"Yes he does do Bar Mitzvahs, but from now on I’ll ask the questions.",1.7411300919842312,0.0157112608737368,2283,1015,844,424,sarcasm,neutral
+38,"Not cruel exactly, just unusual.",1.6151820974111453,0.0150347165417035,2279,1194,768,317,incongruity-absurdity,negative
+16,The courts said our interrogations were cruel and unusual so what we do now is just unusual.,1.7077464788732395,0.0156884304536114,2272,1064,808,400,unknown,negative
+36,We can do this easy way or the hardy har har way.,1.616584930896121,0.0158180622065747,2243,1224,655,364,wit-surprise,neutral
+37,"Still won’t talk, huh? Ron, make a Dobermann!",1.6157303370786518,0.0158964690480441,2225,1217,646,362,sarcasm,negative
+30,Last chance for you to come clean before we go for the juggler.,1.6556927297668038,0.016424836161875,2187,1151,638,398,sarcasm,neutral
+31,Maybe a night in the bouncy house will loosen your tongue!,1.6449348044132397,0.0166418368023929,1994,1030,642,322,unknown,positive
+41,That's OFFICER Bozo to you.,1.6067010309278351,0.0166667251331111,1940,1054,595,291,sarcasm,neutral
+20,"Son, the whole thing was witnessed by 23 officers in the stake-out car.",1.6992207792207792,0.0177952100601562,1925,963,578,384,sarcasm,neutral
+32,"If you cannot afford your own clown, one will be provided for you.",1.6387130801687764,0.0173176351619433,1896,1005,571,320,unknown,neutral
+27,You're about to find out why some people are afraid of clowns.,1.6702412868632708,0.0174140105212924,1865,936,608,321,sarcasm,negative
+42,"All right, I'm gonna need you to describe your accomplice to the ballon artist.",1.6033549783549783,0.0173735600359332,1848,1027,527,294,sarcasm,neutral

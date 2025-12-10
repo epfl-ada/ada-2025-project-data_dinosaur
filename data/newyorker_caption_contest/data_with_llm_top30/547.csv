@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,You're right. No underwear.,1.816272965879265,0.0328109855813285,762,395,112,255,sarcasm,neutral
+1,Like the pomp. Not crazy about the circumstances.,1.8125836680053544,0.0295244574938366,747,326,235,186,sarcasm,neutral
+2,"Okay, our pomp is good. Now let's work on our circumstance.",1.7984126984126985,0.0319849314672239,630,279,199,152,wit-surprise,positive
+3,We're not the only ones that could use a shave.,1.7682119205298013,0.035598532608938,604,317,110,177,unknown,neutral
+4,Could really use some rain on this parade.,1.7597864768683271,0.03218394931313,562,247,203,112,irony,positive
+6,Another mile and it's my turn to wear the outfit.,1.7344961240310075,0.034951286347877,516,249,155,112,sarcasm,neutral
+7,She's a tough act to follow.,1.734375,0.0344150051859238,512,241,166,105,sarcasm,negative
+8,Should we just go around her?,1.7269076305220885,0.0353254393944088,498,241,152,105,sarcasm,neutral
+10,I wish it would rain on our parade.,1.713375796178344,0.0354569760024455,471,226,154,91,irony,negative
+9,Trump said he knows more than the majorettes.,1.7142857142857142,0.0410415513093241,469,271,61,137,sarcasm,neutral
+11,Can we unfollow her?,1.708695652173913,0.0348860590982361,460,215,164,81,sarcasm,neutral
+12,"Personally, I could use a little less pomp and better circumstances.",1.706140350877193,0.0371678339995481,456,230,130,96,self-deprecating,neutral
+13,Just be glad we're not following the elephants.,1.6886792452830188,0.0364972470924353,424,206,144,74,sarcasm,negative
+14,We'd be lost without her.,1.6803874092009683,0.039225674969377,413,218,109,86,incongruity-absurdity,negative
+15,Think she's into a mirage a trois?,1.675810473815461,0.0399388061836682,401,214,103,84,sarcasm,neutral
+5,"You see her, too, right?",1.736040609137056,0.0394145607244406,394,186,126,82,sarcasm,neutral
+17,She'd better be worth it.,1.6595744680851063,0.0418054877726243,376,209,86,81,sarcasm,positive
+18,"Following the Pied Piper, or even Moses to the Promised Land, is understandable, but THIS ???",1.6577540106951871,0.0393667994934781,374,194,114,66,unknown,neutral
+16,Maybe the rest of the band was right.,1.6647727272727273,0.0418549728787352,352,187,96,69,sarcasm,neutral
+19,Mirage a trois.,1.6191950464396283,0.0429836624979394,323,181,84,58,incongruity-absurdity,neutral
+23,Do you think she'd go for a mirage a trois?,1.6031746031746033,0.0435272283483809,315,181,78,56,unknown,neutral
+20,"""Who doesn't love a parade?"" you said...",1.6114649681528663,0.040423513196498,314,165,106,43,sarcasm,positive
+21,"This is my first mirage à trois, too.",1.610223642172524,0.0429858688643453,313,175,85,53,irony,neutral
+22,At least she got us off the desert island cartoon.,1.6045751633986929,0.0440567894200471,306,175,77,54,sarcasm,neutral
+24,At least we're not following the horses.,1.6019736842105263,0.0438157946899475,304,173,79,52,sarcasm,neutral
+25,I don't think she remembers where we parked either.,1.6019736842105263,0.0430660628750178,304,170,85,49,sarcasm,negative
+26,"Believe me, her finale is worth it!",1.6006600660066006,0.0413791735808948,303,163,98,42,unknown,positive
+27,"God, I hate away games.",1.5945945945945943,0.0453205804089551,296,174,68,54,irony,negative
+28,I still can't see up her skirt.,1.5795053003533568,0.0481418154797886,283,177,48,58,incongruity-absurdity,negative
+29,"ENOUGH ALREADY with your 'hup,2,3,4 hup,2,3,4 ...'",1.579136690647482,0.0426017656092798,278,153,89,36,sarcasm,neutral

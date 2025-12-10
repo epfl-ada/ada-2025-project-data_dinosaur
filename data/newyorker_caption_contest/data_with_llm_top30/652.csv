@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+6087,If only I wasn't on Atkins.,1.219895287958115,0.033515602575977,191,153,34,4,sarcasm,negative
+5267,Can you even imagine being out here and needing a dentist?,1.2365591397849462,0.0379630274292933,186,150,28,8,irony,negative
+3112,We have to wait 30 minutes before we can swim to the next island.,1.2864864864864864,0.0404935097352174,185,141,35,9,unknown,neutral
+9403,I got you babe,1.1405405405405404,0.0278203200903207,185,161,22,2,sarcasm,positive
+5673,"I think it’s a case of 
+The grass being greener....",1.2282608695652173,0.0386934097230383,184,151,24,9,irony,neutral
+9215,"I told you, I just cant afford the calories on this diet.",1.147540983606557,0.0295162022007645,183,159,21,3,sarcasm,negative
+1184,"No, I said “get your own DESERTED Island”!!",1.3571428571428572,0.0479643642780348,182,134,31,17,sarcasm,neutral
+5852,"Actually, I'm on the keto diet so I'll wait for the cheese island to come by. You go ahead, though.",1.2252747252747254,0.0356061232529736,182,146,31,5,sarcasm,neutral
+5851,I hope it’s the good ship Lollipop!,1.2252747252747254,0.0372722624601207,182,148,27,7,incongruity-absurdity,positive
+226,Cane mutiny survivors?,1.4530386740331491,0.051033165087985,181,119,42,20,wit-surprise,neutral
+7343,Tempting but I'm on a diet,1.1933701657458564,0.0324146157034133,181,149,29,3,unknown,neutral
+1871,Somebody else's island always looks sweeter.,1.3259668508287292,0.0428310440736227,181,132,39,10,irony,positive
+2259,It sucks to be one consonant away from making it to dessert island.,1.3111111111111111,0.0447691429108972,180,137,30,13,wit-surprise,negative
+2260,"Maybe you should swim over there first, Gretel.",1.3111111111111111,0.0447691429108972,180,137,30,13,sarcasm,neutral
+8087,"You go ahead, I am on a gluten free diet.",1.1777777777777778,0.0335704375021814,180,153,22,5,sarcasm,positive
+6781,"That island over there is called Moderation, and in it, you can have everything.",1.2055555555555555,0.0366990057339919,180,150,23,7,incongruity-absurdity,neutral
+5365,What are the odds they’re gluten free.,1.23463687150838,0.0372224950245967,179,143,30,6,sarcasm,neutral
+8304,I'm glad we are on a sugar free diet,1.1731843575418994,0.0315080771628772,179,151,25,3,sarcasm,positive
+7231,"It’s tempting, but I’m only on day 10 of Whole 30",1.1955307262569832,0.0317685476269051,179,146,31,2,self-deprecating,neutral
+4766,"You go, I don’t have enough points.",1.247191011235955,0.0394864816780139,178,142,28,8,sarcasm,negative
+9255,Because the dessert island had trans fats.,1.146067415730337,0.0288384978789248,178,154,22,2,unknown,neutral
+9942,My girlfriend just went sugar-free. What's your story?,1.101123595505618,0.0253082157726139,178,162,14,2,sarcasm,neutral
+3984,Wish we were on the misspelled island.,1.2640449438202248,0.0416255002531821,178,141,27,10,irony,negative
+9091,Candyland: so near rand yet so far!,1.151685393258427,0.0313194543388893,178,155,19,4,irony,positive
+7757,I told you NOT to book us on a cruise when they are paying us to be the passengers.,1.1853932584269662,0.0332739373400604,178,149,25,4,sarcasm,negative
+337,These hallucinations are getting better.,1.4293785310734464,0.0523483059398489,177,122,34,21,exaggeration,positive
+3478,I ‘m afraid our dessert island was misspelled.,1.2768361581920904,0.0436795614811407,177,140,25,12,incongruity-absurdity,negative
+4197,There goes the Good Ship Lollipop.,1.2598870056497176,0.0400809713246857,177,139,30,8,incongruity-absurdity,negative
+3479,"It’ll still be there later, when I really need it. I mean when WE need it.",1.2768361581920904,0.0406337144454411,177,136,33,8,self-deprecating,positive
+567,Let's stay.  We can't just show up empty handed.,1.4011299435028248,0.0482486597406868,177,121,41,15,unknown,neutral

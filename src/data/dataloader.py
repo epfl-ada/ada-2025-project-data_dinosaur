@@ -1,10 +1,11 @@
 import pandas as pd
 import numpy as np
-import os
+import os, spacy, requests
 from datetime import timedelta
 from bs4 import BeautifulSoup
-import requests
 from io import StringIO
+
+nlp = spacy.load("en_core_web_sm", disable=["parser","ner"])
 
 # =========================
 # CSV Generator
@@ -112,3 +113,26 @@ def get_caption_dataset(df_image):
     
     return merged_df
 
+def get_gender_masks_chunked(captions, female_kw, male_kw, chunk_size=5000):
+    '''
+    Get boolean masks for captions containing female and male keywords using chunked processing.
+    Args:
+        captions (List[str]): List of captions.
+        female_kw (Set[str]): Set of female keywords.
+        male_kw (Set[str]): Set of male keywords.
+        chunk_size (int): Size of each chunk for processing.
+    Returns:
+        Tuple[List[bool], List[bool]]: Two lists of boolean values indicating presence of female and male keywords.
+    '''
+    female_results = []
+    male_results = []
+    
+    for i in range(0, len(captions), chunk_size):
+        chunk = captions[i:i+chunk_size]
+        
+        for doc in nlp.pipe(chunk, batch_size=200):
+            lemmas = {token.lemma_.lower() for token in doc if token.is_alpha}
+            female_results.append(bool(lemmas & female_kw))
+            male_results.append(bool(lemmas & male_kw))
+    
+    return female_results, male_results

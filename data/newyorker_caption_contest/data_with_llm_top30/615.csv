@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4,Too bad it's catch and release. My wife would love this.,1.8596428571428567,0.0104067251688953,5600,2146,2094,1360,unknown,negative
+0,"I can hear the wife now: ""You caught it, you clean it.""",1.932124259292512,0.0108112627372414,5569,2014,1919,1636,incongruity-absurdity,neutral
+5,We must be at Pier 1.,1.8557312252964424,0.010731406177774,5566,2243,1883,1440,incongruity-absurdity,neutral
+3,"""I hate fishing in the Hamptons"".",1.880827135860693,0.0107699252684387,5513,2130,1910,1473,sarcasm,negative
+7,"Finally, something my wife will let me mount in the living room.",1.8374339347548752,0.0104782743055336,5487,2171,2037,1279,irony,positive
+2,I've finally caught something my wife will let me hang in the living room.,1.88521836506159,0.0107231337483127,5358,1993,1987,1378,incongruity-absurdity,positive
+10,It's the Trump lure -- it works best with bottom feeders.,1.8131058549825516,0.0115879443683786,5158,2358,1406,1394,sarcasm,neutral
+12,"First, I set the mood.",1.7937898089171975,0.011373471261151,5024,2257,1546,1221,irony,neutral
+6,You're gonna need a nicer boat.,1.8439700704225352,0.011877720487524,4544,1866,1521,1157,sarcasm,negative
+11,Throw it back; we're fishing for mid-century modern.,1.8069150231312396,0.0121169492462956,4107,1711,1478,918,incongruity-absurdity,negative
+16,I think I’ll mount this one on the ceiling.,1.7514096592302035,0.0119915055990998,4079,1829,1435,815,incongruity-absurdity,neutral
+15,I'm not surprised. A lot of upscale homes are now underwater.,1.7530090270812435,0.0122492214741712,3988,1807,1359,822,exaggeration,negative
+14,Is that chandelier going to keep getting bigger every time you tell this story?,1.7697127937336814,0.0124274255215803,3830,1675,1362,793,wit-surprise,neutral
+18,"On the East River, you just get tires.",1.738869161431303,0.0126564167406167,3661,1676,1265,720,incongruity-absurdity,neutral
+17,It’s easier than dusting it.,1.741307371349096,0.0128679427869322,3595,1655,1215,725,unknown,neutral
+25,"They're fun to catch, but tough to clean.",1.7010279840091376,0.0126951179230288,3502,1668,1213,621,incongruity-absurdity,neutral
+24,Even the East River's gentrifying.,1.705010376519419,0.0127380615906054,3373,1567,1234,572,irony,neutral
+8,Those fish are having a ball down there.,1.837132573485303,0.0136107364737009,3334,1345,1187,802,unknown,neutral
+27,You can only catch these in alternating currents.,1.6900851581508516,0.0133604937213901,3288,1632,1043,613,incongruity-absurdity,neutral
+13,I tie my own. Why do you ask?,1.7732980832782552,0.0139936274967993,3026,1317,1078,631,wit-surprise,neutral
+22,The irony of it is that I told my wife that I couldn't go antiquing.,1.709066305818674,0.0139497869447005,2956,1405,1006,545,irony,negative
+31,Have you noticed how few boots we catch since Brooklyn has been gentrified?,1.648830616583983,0.0138949066806563,2822,1438,937,447,sarcasm,neutral
+19,"Had to throw back three sconces and a flashlight, but this one's a keeper.",1.7325249643366618,0.0143895020296009,2804,1289,976,539,incongruity-absurdity,positive
+32,I think I'll toss it back and try for something a little more contemporary.,1.6474118529632409,0.0142095969798677,2666,1353,900,413,exaggeration,neutral
+28,"This may not be the best spot for fish, but you can't beat it for ambience.",1.6892446633825944,0.0149275276266093,2436,1157,879,400,unknown,positive
+21,Looks like the wealth is starting to trickle downstream.,1.716358839050132,0.0158715420815094,2274,1065,789,420,irony,neutral
+36,Homes in this area are still underwater.,1.6273433927754914,0.0165867172364926,2187,1217,568,402,unknown,negative
+37,"I like catching them, but I hate cleaning them.",1.6248642779587406,0.0169630725535368,1842,963,607,272,incongruity-absurdity,negative
+42,"Catchin' 'em is easy, son. It's cleanin' 'em that's a pain.",1.615515288788222,0.0173282662423038,1766,938,569,259,incongruity-absurdity,neutral
+39,I guess I’ll be eating light tonight.,1.6219303255282695,0.0178808606507824,1751,946,521,284,unknown,neutral

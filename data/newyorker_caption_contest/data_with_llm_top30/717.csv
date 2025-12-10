@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Well, at least up here we only have to feed it.",2.099054889131225,0.0075375943225839,11004,2961,3997,4046,incongruity-absurdity,neutral
+I guess I misheard. I thought the realtor said there was ‘a draft’ in the apartment.,2.0665840817590584,0.0081537549884956,9687,2843,3366,3478,unknown,neutral
+"4-B would know for sure, but by the horns I'd say male.",2.015756193635327,0.008126668706892,9647,3003,3491,3153,unknown,neutral
+"Whadya know, three African-Americans in one New Yorker cartoon!",2.025835706000211,0.0086652831997281,9483,3289,2673,3521,irony,neutral
+Could be worse... we could live downstairs.,1.9918588873812757,0.0081599381517972,8844,2665,3596,2583,irony,negative
+"So, if I can see it and you can see it, then it isn't the brownies.",1.9746295198577355,0.0087329982360486,8435,2845,2968,2622,incongruity-absurdity,neutral
+The zookeeper downstairs is working from home,1.9734546833522943,0.0090502594151332,7911,2708,2720,2483,irony,neutral
+"Sure, this part eats a lot, but the Johnson's half has its own set of drawbacks.",1.8367159879533848,0.0086033130110047,7637,2906,3081,1650,incongruity-absurdity,negative
+The Realtor said we got the best end of the deal.,1.938487115544472,0.0089123471182016,7218,2337,3001,1880,incongruity-absurdity,positive
+"Well, who ever reads the entire lease?",1.9535953177257528,0.0091657574820817,7176,2357,2803,2016,unknown,negative
+Harry requests we cut back on her roughage.,1.8310279786230743,0.0095441894704859,6362,2514,2426,1422,sarcasm,neutral
+Trust me. We got the better half.,1.824075531077891,0.0092491043084036,6355,2407,2668,1280,sarcasm,positive
+I really think it's time we addressed the giraffe in the room.,1.8310983397190297,0.0096960793107588,6264,2500,2337,1427,wit-surprise,neutral
+Frank in 1B thinks he's funny.  Let's see who's laughing when we feed the giraffe Chipotle.,1.9541058842812653,0.0105320348174171,6101,2243,1908,1950,sarcasm,positive
+"If they don’t turn down the music soon, I’m giving their giraffe a laxative.",1.812272490899636,0.0105472002709093,5769,2509,1840,1420,sarcasm,negative
+"We get to feed him, and the neighbors downstairs take care of everything else.",1.7404314544189283,0.009823389389853,5748,2536,2169,1043,irony,neutral
+I wish I could say that’s the weirdest thing that’s happened this year.,1.9661047345767575,0.010817409780429,5576,1949,1880,1747,exaggeration,negative
+"I know it's not an elephant, but we still need to talk about it.",2.055515370705244,0.0107949197114946,5530,1639,1946,1945,incongruity-absurdity,neutral
+I think we got the better end of this pet-sharing deal.,2.085921127833873,0.010512473819017,5249,1316,2166,1767,irony,positive
+"You tell him his shoelaces are untied, and I’ll get the manhole cover.",1.8628166595105196,0.0116859649399485,4658,1852,1596,1210,sarcasm,neutral
+This would've surprised me a year ago.,1.8542635658914728,0.0115590614652793,4515,1746,1684,1085,exaggeration,neutral
+"Just keep telling yourself, ""Rent control.""",1.787676317743133,0.0123742762427612,4041,1780,1343,918,sarcasm,neutral
+"The letter said for $20 a month, we could save a giraffe.""",1.7942714819427148,0.0123197764072989,4015,1736,1375,904,incongruity-absurdity,neutral
+"It could be worse, we could be downstairs.",1.698974358974359,0.0117924697681629,3900,1831,1416,653,incongruity-absurdity,negative
+We never should have complained about their dog.,1.971270426989984,0.0126967216055366,3794,1216,1471,1107,irony,negative
+But they don't allow dogs?,1.8218268720127455,0.0126122785098145,3766,1533,1375,858,irony,negative
+"I'm glad we renewed our donation to the World Wildlife Fund, but we should have opted for the tote bag.",1.7838270616493197,0.0127139920879569,3747,1637,1287,823,unknown,positive
+Room with a zoo.,1.8639932697700503,0.0131101884659337,3566,1368,1315,883,incongruity-absurdity,neutral
+Better reception than rabbit ears.,1.7356289129197495,0.01357951516456,3514,1733,980,801,incongruity-absurdity,positive
+Just what did you say to Alexa,1.7878260869565217,0.013497157373446,3450,1535,1115,800,sarcasm,neutral

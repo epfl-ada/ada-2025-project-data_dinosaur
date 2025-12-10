@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I remember them from last year. They must be perennials.,1.8954530368403584,0.014733757799852,3013,1159,1010,844,incongruity-absurdity,neutral
+6,Could I interest you in a treesome?,1.8097312999273785,0.0160796320958964,2754,1292,694,768,sarcasm,neutral
+3,"Honestly? He's like, ten rings too old for her.",1.8507109004739335,0.0154290065893365,2532,980,950,602,sarcasm,negative
+4,They've been in love since 1992. I know. Their initials are carved in my ass.,1.8430830039525687,0.0158957335655302,2530,1038,851,641,sarcasm,positive
+1,"Relax, they're just DRESSED like lumberjacks.",1.86080740117746,0.0160435371031744,2378,916,877,585,sarcasm,neutral
+10,There was a time when a beard and a checkered shirt would have made me nervous,1.771072796934866,0.0167224254196369,2088,903,760,425,sarcasm,negative
+8,"Look, Kevin, we're in a Cialis commercial!",1.7881944444444444,0.0180026889817033,2016,917,609,490,sarcasm,positive
+14,"Ah, to be young and rootless.",1.7335805084745763,0.0173867772864759,1888,857,677,354,sarcasm,positive
+19,I love how they turn plaid in Autumn.,1.706984667802385,0.0178072749900714,1761,825,627,309,unknown,positive
+16,This is the sixth pharmaceutical commercial we've been in this year!,1.7276861853325751,0.0186931472274829,1759,845,548,366,exaggeration,neutral
+23,I love it when the shirts turn plaid.,1.6726744186046512,0.0177230813674941,1720,838,607,275,incongruity-absurdity,positive
+17,I love autumn when their colors turn to plaid.,1.721774193548387,0.0193306784400646,1488,678,546,264,incongruity-absurdity,positive
+11,"Hey look, you can see her roots.",1.7473535638673254,0.020745687906415,1417,656,463,298,sarcasm,neutral
+13,They met on Timber.,1.738662567255957,0.0217643305297326,1301,615,411,275,incongruity-absurdity,neutral
+15,"I'm with you, if they trip and fall down, I think they would make a sound.",1.730565371024735,0.0226500661339705,1132,522,393,217,sarcasm,neutral
+18,Must be love. Neither's got a smartphone out.,1.7089755213055304,0.0228308756072125,1103,524,376,203,sarcasm,neutral
+21,That's how people make acorns.,1.6844968268359022,0.0224057399142988,1103,534,383,186,incongruity-absurdity,neutral
+27,He likes her bush.,1.6188299817184644,0.0259956655158196,1094,692,127,275,incongruity-absurdity,positive
+28,Their cell phones must be broken.,1.6122244488977957,0.0234879965411086,998,543,299,156,sarcasm,negative
+25,You used to look at me like that 20 rings ago!,1.634441087613293,0.022355551613963,993,494,368,131,sarcasm,neutral
+24,I bet they don't know his wife jogs up this path every morning.,1.6652977412731007,0.0246722922969652,974,506,288,180,irony,negative
+20,Don't you just want to carve your initials in them?,1.6900523560209424,0.0249744509791565,955,478,295,182,incongruity-absurdity,neutral
+30,They’re adorable until they carve their initials into you.,1.6050605060506051,0.0236901193360674,909,482,304,123,incongruity-absurdity,positive
+2,I love the fall when all their shirts turn plaid.,1.857787810383747,0.0259514652339889,886,336,340,210,incongruity-absurdity,positive
+5,I just love watching them turn plaid in the fall.,1.836384439359268,0.0257928445757017,874,337,343,194,incongruity-absurdity,positive
+26,That was us before we grew apart.,1.6305882352941177,0.0253022936454061,850,446,272,132,sarcasm,neutral
+31,"It looks consensual now, but give it forty years.",1.5990510083036773,0.0283994571328977,843,523,135,185,irony,neutral
+9,"... And then their hair begins to lose its color, eventually falling off ...",1.780905752753978,0.0272152029071305,817,356,284,177,exaggeration,negative
+12,"It's still my favorite time of the year, when the weather gets cold and they all turn plaid.",1.7463235294117647,0.0259108394806628,816,353,317,146,unknown,positive
+33,The autumn flannels are spectacular this year!,1.5957178841309825,0.0251803788325582,794,425,265,104,incongruity-absurdity,positive

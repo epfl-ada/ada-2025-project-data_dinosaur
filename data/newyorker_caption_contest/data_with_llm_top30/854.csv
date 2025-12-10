@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Marco.,1.5928725701943844,0.0132446395856073,3704,2264,684,756,irony,neutral
+"Yes, it's my first company picnic.  Why do you ask?",1.5785172212492702,0.0130794868839085,3426,2030,810,586,sarcasm,positive
+I recommend full coverage.,1.5875,0.0127007108490052,3280,1823,987,470,unknown,positive
+I’m working on my key stroke.,1.615057915057915,0.0143728314131903,2590,1383,821,386,unknown,neutral
+I found a hotspot.,1.6105303910181958,0.0144480584615212,2583,1395,799,389,unknown,neutral
+"And since the other swimmer viciously bumped you, you haven't been able to use your left arm, right?",1.594208980276962,0.0151950521862221,2383,1335,680,368,irony,negative
+I prefer the keystroke.,1.6074941451990632,0.015797900751055,2135,1152,669,314,wit-surprise,neutral
+Did you just pee in my office?,1.6008880118401578,0.0171942772743435,2027,1173,490,364,sarcasm,negative
+"Well the sign says ""Suit Required""",1.538344337227019,0.0165810401011282,1969,1197,484,288,irony,neutral
+In the afternoon I swim remotely.,1.605344295991778,0.0171165343641117,1946,1090,534,322,incongruity-absurdity,neutral
+It started with a treadmill desk.,1.632429614181439,0.0166055877944076,1918,989,645,284,incongruity-absurdity,neutral
+Business and pleasure. You?,1.577928870292887,0.0163134434364809,1912,1060,599,253,incongruity-absurdity,positive
+I’m phishing.,1.607161664033702,0.0169452330327276,1899,1037,571,291,sarcasm,neutral
+Your application for a towel has been denied.,1.6501614639397202,0.017516129761058,1858,968,572,318,unknown,negative
+"Are you very satisfied, somewhat satisfied, or not at all satisfied with your pool experience?",1.7464940668824165,0.0181430522487571,1854,860,604,390,incongruity-absurdity,neutral
+Do you mind? I'm in a meeting.,1.636061946902655,0.0172710619155124,1808,936,594,278,sarcasm,neutral
+The last guy in this job went off the deep end.,1.5837155963302751,0.0176016032160278,1744,985,500,259,incongruity-absurdity,negative
+I'm practicing my key stroke.,1.533026995979322,0.0171918510241679,1741,1044,466,231,unknown,neutral
+It's either sync or swim.,1.6766607877718989,0.0187642897400517,1701,873,505,323,incongruity-absurdity,neutral
+I’m usually naked in this dream.,1.6994117647058824,0.0191698304259932,1700,863,485,352,self-deprecating,neutral
+I'm taking an immersive writing course.,1.6250735726898176,0.0178982610996907,1699,900,536,263,incongruity-absurdity,neutral
+I’m from the typing pool.,1.6385756676557863,0.0184212002744548,1685,896,502,287,unknown,neutral
+"First name ‘Marco’, last name…?",1.53125,0.0184343467295432,1664,1043,358,263,incongruity-absurdity,neutral
+I couldn’t get into the office pool.,1.5579138872043663,0.0175888140492149,1649,946,486,217,incongruity-absurdity,negative
+This meeting could have been an email.,1.565403422982885,0.0179932194869096,1636,943,461,232,unknown,neutral
+"Caption contest finalists— Paul Nesja and Beth Lawler, have their own podcast; whereon, they inform their loyal listeners of their weekly entries; as well as point out to them, the awfulness of the two captions that they ultimately compete against.",1.525633106856084,0.0213288910982138,1619,1162,63,394,wit-surprise,neutral
+I’m practicing the keystroke.,1.5264467952706908,0.017568979355947,1607,959,450,198,incongruity-absurdity,neutral
+"On a scale of 1 to 10, how likely are you to recommend this pool to a friend or colleague?",1.526813880126183,0.0181724700650658,1585,967,401,217,unknown,neutral
+I’m trying to keep the company afloat.,1.547588005215124,0.0179775493293697,1534,884,460,190,exaggeration,neutral
+It's better than Starbucks because I never have to go to the restroom.,1.5553346587143804,0.0191743791543673,1509,903,374,232,unknown,positive

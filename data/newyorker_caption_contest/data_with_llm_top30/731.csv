@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+During next week's session we'll have you paint yourself into a corner.,2.012336074683263,0.0083597914436429,8998,2774,3339,2885,incongruity-absurdity,negative
+Your time is up.  We'll dig a little deeper next week.,1.920428667113195,0.0085903689595743,7465,2389,3286,1790,sarcasm,neutral
+I think we broke new ground today.,1.9963074398249452,0.0089110168306537,7312,2141,3059,2112,irony,positive
+"Well, I think we did more than scratch the surface today",2.001754129513229,0.0089712115533302,6841,1877,3075,1889,wit-surprise,positive
+"No, by all means-I want to see where you're going with this.",2.0015033072760073,0.0092530419093706,6652,1889,2864,1899,sarcasm,neutral
+"Ok, our time is up for today. We'll dig deeper next week.",1.9791862284820032,0.0093305232422385,6390,1845,2833,1712,incongruity-absurdity,neutral
+You can leave him there but I’m still billing you for ‘couples’”,1.9275633395681009,0.01080896376993,5881,2266,1782,1833,sarcasm,neutral
+My first observation is that you are oblivious to metaphors.,1.914291072768192,0.0109942722349118,5332,1966,1857,1509,wit-surprise,negative
+"Welcome to Canada, we’ve been expecting you, have a seat.",1.833912288319583,0.0119854784050426,4606,1992,1396,1218,sarcasm,positive
+"With all due respect, Helen, you’re gonna find crappy men in China, too",2.0468677494199534,0.0118832046116887,4310,1215,1678,1417,sarcasm,negative
+"Honey, please wait until Pennsylvania comes in.",1.7648566767653229,0.012252951631283,4291,2005,1290,996,sarcasm,neutral
+"Actually, “buried feelings” was a metaphor.",1.9480048367593712,0.0120638679584708,4135,1357,1636,1142,self-deprecating,neutral
+I think we’ve gone deep enough for this session.,1.7295487627365356,0.012056936983285,3435,1460,1449,526,incongruity-absurdity,neutral
+It’s 2020. There is no escape.,1.75669099756691,0.0138706985729652,3288,1542,1006,740,exaggeration,negative
+"There are easier ways out, Melania.",1.9150426309378807,0.0141520438135325,3284,1231,1101,952,sarcasm,neutral
+You must have buried your feelings somewhere else.,1.7264121173871885,0.0135556659236099,3169,1482,1075,612,sarcasm,negative
+This is not what i meant when i told you to dig deeper,1.7635697635697636,0.0136273737511115,3003,1276,1161,566,sarcasm,negative
+Keep going. We’re going to get to the bottom of this”,1.8107836570663096,0.0135814484586348,2986,1158,1235,593,sarcasm,positive
+Couldn’t you have just swept it under the rug?,1.8098591549295775,0.015364158666168,2556,1060,922,574,sarcasm,negative
+The therapist downstairs isn’t any better.,1.7396088019559903,0.0160754934662975,2454,1183,728,543,sarcasm,negative
+I think your husband was right about you taking things too literally.,1.725627313862608,0.0152620391080246,2431,1113,872,446,sarcasm,negative
+"Clinically, I can't support this. But damn if I'm not impressed.",1.698636577338975,0.0163025458713034,2127,1018,732,377,irony,negative
+"As your therapist, I have to be honest, Evelyn. You've dug this hole yourself.",1.7488584474885844,0.0171247942224854,1971,879,708,384,self-deprecating,negative
+"You can't actually bury your emotions, Jen.",1.6825484764542935,0.0173580058118459,1805,868,642,295,sarcasm,neutral
+"Louise, you need to resist the urge bury you feelings.",1.6809605488850772,0.0180673487084143,1749,867,573,309,sarcasm,negative
+"I'm paying you, but I feel like I'm doing all of the work.",1.681353767560664,0.0189059234557268,1566,767,531,268,sarcasm,neutral
+I need to rethink my use of metaphors.,1.6699475065616798,0.0185070265692194,1524,747,539,238,wit-surprise,negative
+I’m going to count to three and when you wake up you’ll remember where you buried your husband.,1.6645569620253164,0.0204251530669515,1422,740,419,263,sarcasm,neutral
+"Just so you know, I bill by the hour.",1.664011585807386,0.0217083241744329,1381,769,311,301,sarcasm,neutral
+"Diary entry, quarantine day 64: Margaret seems more serious about wanting her own space today.",1.661698956780924,0.0202836393487745,1342,674,448,220,self-deprecating,neutral

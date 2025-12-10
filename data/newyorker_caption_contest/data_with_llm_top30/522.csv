@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Have you tried turning it off and back on again?,1.8973076006671432,0.0116806262142858,4197,1439,1750,1008,sarcasm,neutral
+1,"Yes sir, a martini for you and a screwdriver for the monster.",1.796319018404908,0.0157406978032525,2445,1040,863,542,sarcasm,neutral
+2,"Do you still need a hand, Sir?",1.7570934256055364,0.0202513203423784,1445,646,504,295,sarcasm,neutral
+3,"Yes, my license says I'm an organ donor....why do you ask?",1.740981240981241,0.0198977421558326,1386,606,533,247,sarcasm,neutral
+4,the mrs. requests you come upstairs and try creating life the old fashioned way,1.7379983726606998,0.0222571639854489,1229,577,397,255,sarcasm,neutral
+5,He has your mother's eyes.,1.7188841201716738,0.0256830827668079,932,454,286,192,incongruity-absurdity,neutral
+6,"Will you be requiring anything else before I run like hell, sir?",1.7021013597033374,0.0272447816430954,809,399,252,158,sarcasm,negative
+8,"Alfred stop watching me like that ... Why don't you go feed "" The Birds"".",1.671562082777036,0.0318744256433577,749,448,99,202,sarcasm,negative
+7,"You said you needed a hand, sir?",1.6970108695652173,0.0271731273917777,736,345,269,122,sarcasm,neutral
+9,"They have the spleen you ordered; unfortunately, they want an arm and a leg for it.",1.6582914572864322,0.0304676091140475,597,302,197,98,wit-surprise,negative
+10,"Will the gentleman be alive for dinner, sir?",1.6473880597014925,0.0325785606545794,536,280,165,91,unknown,neutral
+11,"Will you be needing any more of me, sir?",1.6281179138321995,0.0353889465799062,441,234,137,70,sarcasm,neutral
+18,"It’s the Republican Party sir, they need some advice on how to control a monster.",1.5935334872979214,0.036002770733572,433,245,119,69,sarcasm,negative
+12,"You know, of course sir, that if he kills someone, they'll say the butler did it.",1.6213592233009708,0.0357925244285542,412,216,136,60,sarcasm,negative
+13,"There is a scarcity of brains, sir. It's an election year.",1.6146341463414635,0.0361476186996942,410,219,130,61,sarcasm,negative
+15,I'm sorry sir but it's an election year. Brains are impossible to find.,1.600997506234414,0.0377152675017372,401,226,109,66,sarcasm,negative
+14,"Yes sir, I have a reasonably high IQ. Why do you ask?",1.6015831134564644,0.0364979202786697,379,201,128,50,self-deprecating,positive
+16,I've assembled your guests.,1.6,0.0392935491830101,370,209,100,61,sarcasm,neutral
+17,"He is polling well, sir, even without a brain.",1.6,0.039573711140508,360,202,100,58,wit-surprise,neutral
+19,The staff is concerned that your hobby is beginning to take on a life of its own.,1.5768115942028986,0.0365118940727092,345,183,125,37,incongruity-absurdity,negative
+24,"I regret to be the bearer of bad news, sir, but the Republicans have already created one.",1.5639344262295083,0.0449094668214492,305,189,60,56,sarcasm,negative
+20,The RNC says skip the brain and work on the hair.,1.5742574257425743,0.0441145467949286,303,181,70,52,sarcasm,neutral
+26,"And if I may, Sir, good luck at the Science Fair.",1.5629139072847682,0.040391561602405,302,169,96,37,wit-surprise,positive
+22,Did you need a hand sir?,1.5671140939597314,0.0407760511858742,298,166,95,37,sarcasm,neutral
+23,May I borrow him for the carpool lane?,1.564625850340136,0.040353219311315,294,162,98,34,sarcasm,neutral
+21,Mr. Trump demands to know when his running mate will be ready.,1.56993006993007,0.0462163542465803,286,175,59,52,wit-surprise,neutral
+32,"I think gender neutral is the right choice, sir.",1.539855072463768,0.0424173371412771,276,161,81,34,sarcasm,neutral
+25,"Shall I give you a hand, sir?",1.5629629629629629,0.042700657288385,270,151,86,33,sarcasm,neutral
+36,Im glad your sitting down sir....the electric bill just came.,1.531835205992509,0.0428622068395349,267,157,78,32,sarcasm,positive
+27,I`m sorry. We served the liver at lunch.,1.556390977443609,0.0432168886630719,266,151,82,33,incongruity-absurdity,neutral

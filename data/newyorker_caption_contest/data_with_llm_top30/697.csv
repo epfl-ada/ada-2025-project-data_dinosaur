@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+This is a lot more effective on the elevated tracks.,1.9563975271637315,0.0052147923899127,21352,6707,8878,5767,sarcasm,positive
+Wait till he finds out this isn't his stop.,1.9178049016758696,0.0055295362594872,20646,7458,7439,5749,sarcasm,neutral
+I miss the splash!,1.8781992810001609,0.0057862570916687,18637,7125,6672,4840,incongruity-absurdity,positive
+This was more effective when I worked on the Staten Island Ferry.,1.91037201015064,0.005740989528516,18521,6568,7053,4900,wit-surprise,neutral
+"Port Authority Station, matey. God help ye.",1.9044385836933957,0.0057662947019317,17821,6245,7047,4529,sarcasm,negative
+"'Of course it's shark-infested, it's Wall Street.'",1.9323397208422048,0.006183616370405,16908,6117,5843,4948,sarcasm,neutral
+The Pirates Of PenzStation,1.8990433180818824,0.0062759453405778,16829,6520,5491,4818,unknown,neutral
+"Take public transportation, they said. What's the worst that could happen, they said.",1.9077614623913697,0.0062480217754222,16685,6284,5660,4741,sarcasm,neutral
+"See what happens when you yell, ""Trump 2020"" on a crowded train!""",1.889999363422242,0.0066778855924588,15709,6476,4491,4742,sarcasm,neutral
+This is just until we can afford a ship.,1.752680586907449,0.0066288693688933,14176,6609,4467,3100,exaggeration,neutral
+Make fun of my emotional support parrot?,1.808742779719033,0.0068029361739375,14023,6155,4398,3470,irony,negative
+"Yes, this is your last stop.",1.8687388352983207,0.0066978448056169,13995,5437,4960,3598,incongruity-absurdity,neutral
+It’s still certain death. No buses connect with this station after midnight.,1.834649437664513,0.0068961527807019,12537,4970,4680,2887,sarcasm,negative
+"The 'N' be across the platform. This be the ""arrr"" train.",1.8170761371928972,0.007205910235209,12333,5288,4015,3030,incongruity-absurdity,neutral
+It's New York. Don't expect to make a big splash.,1.7428766422112267,0.007234564031216,11722,5505,3732,2485,sarcasm,neutral
+No one crosses the Pirates of Penn Station.,1.7144207631488484,0.0072075204313206,11636,5660,3642,2334,sarcasm,neutral
+Transfer to the F train and that’ll take you right to the ocean. Then jump in that.,1.7088630100453377,0.007540086140011,11249,5716,3094,2439,sarcasm,neutral
+"Aye, 'e's jumped 'is last turnstile, 'e has.",1.710991615020051,0.0073452853650263,10972,5296,3553,2123,sarcasm,neutral
+Why are we giving this traitor a platform?,1.6851602994816663,0.0077035412012316,10418,5384,2933,2101,sarcasm,negative
+Next time a one-legged man asks you for a seat you might want to give it to him.,1.7872166632632225,0.0078554321687186,9794,4223,3432,2139,unknown,neutral
+Good luck Mitt!,1.6474843446339884,0.0083273242931199,9262,5197,2139,1926,sarcasm,positive
+"Mind the Gap, matie!",1.6628515369522563,0.0080683340226358,9174,4817,2637,1720,unknown,neutral
+Wait...we were supposed to use the opposite door.,1.6335230572656525,0.0083321158225678,8609,4728,2308,1573,incongruity-absurdity,neutral
+Financial District! Now you'll see real piracy!,1.762221957892233,0.0084178879646898,8407,3741,2924,1742,exaggeration,negative
+"No, he won’t suffer much. New Jersey will make quick work of him.",1.6373205741626795,0.0082924427432857,8360,4476,2443,1441,sarcasm,neutral
+"Next time, we'll use the Staten Island Ferry.",1.6117014466777622,0.0083724924331497,7811,4246,2353,1212,sarcasm,neutral
+I told you we should have waited for Water Street.,1.6628564089391216,0.0085615333811676,7786,3979,2454,1353,sarcasm,neutral
+"Hurry up, matey! We’ve got to pull the plank in before the doors close.",1.6185129398877174,0.0086966517411573,7303,3941,2207,1155,sarcasm,neutral
+An' make sure ye get the CINNAMON Vanilla air freshener this time!,1.557848397303618,0.0094088251396375,7269,4656,1171,1442,sarcasm,neutral
+Arrrr you still sure you couldn’t give up your seat to a disabled rider?,1.583560464782671,0.0089420239899075,6971,4001,1873,1097,sarcasm,negative

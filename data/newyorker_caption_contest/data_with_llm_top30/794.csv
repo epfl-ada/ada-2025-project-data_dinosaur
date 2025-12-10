@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It’s worse than an invasion. It’s an audit.,1.8601178781925345,0.0112260463076773,5090,2038,1726,1326,sarcasm,negative
+Oh no. Legal aliens.,1.8050108932461877,0.0135045982071572,3672,1657,1074,941,irony,negative
+Oh no! They’re returning him.,1.7520245741413014,0.0130754478128202,3581,1650,1169,762,irony,neutral
+Those must be the legal aliens.,1.799494790022103,0.0141574123310176,3167,1386,1030,751,sarcasm,neutral
+"If they come in peace, why did they bring their attorney?",1.776550828190971,0.0141303217893234,3079,1367,1033,679,sarcasm,neutral
+"Stop quibbling, Stan.  We finally got grandkids.",1.7238219895287958,0.0149867400366136,3056,1587,726,743,unknown,neutral
+"Oh, I thought Robert said he was practicing Martial law.",1.8302196001311049,0.0146605347064527,3051,1303,963,785,sarcasm,neutral
+"We come in peace, but Larry will give you the fine print.",1.762997974341661,0.0141724505278252,2962,1315,1034,613,sarcasm,neutral
+Gun-toting and a lawyer. They understand America very well.,1.8006103763987793,0.0147318428666377,2949,1296,945,708,irony,neutral
+Oh no. They brought him back.,1.750266429840142,0.0145606462606762,2815,1279,960,576,sarcasm,neutral
+"Well, on the plus side, they'll only be probing us with questions.",1.744139849026619,0.0153863864297969,2517,1154,853,510,sarcasm,neutral
+"I was expecting the invasion, but not the audit.",1.742947953913389,0.015051566605242,2517,1124,916,477,wit-surprise,negative
+"I think that they'll fit right in.  After all, they have guns and a lawyer.",1.78158628935831,0.0155844517708443,2509,1098,861,550,sarcasm,positive
+"I'll just find a lawyer on the internet,"" you said. ""What's the worst that can happen?"" you said",1.7628907835972392,0.0157777251976112,2463,1116,815,532,sarcasm,neutral
+Damn. They brought him back.,1.7794955248169244,0.0158253107484958,2458,1087,826,545,sarcasm,neutral
+Looks like four aliens and a lawyer. Let's try communicating with the aliens.,1.737327188940092,0.0158582841598032,2387,1112,790,485,wit-surprise,neutral
+Bad sign. They've lawyered up,1.73531914893617,0.0157156080889814,2350,1075,822,453,sarcasm,negative
+There's really only one I am worried about.,1.7177940542869452,0.015705177001203,2321,1084,808,429,irony,negative
+I told you no lawyer on earth would take our case.,1.8750569995440036,0.0171372727837063,2193,860,747,586,sarcasm,negative
+"He loves the new job, but he says the commute takes light years.",1.7064471879286691,0.0159584970341377,2187,1024,781,382,unknown,positive
+I bet they plead the 5th dimension.,1.713170731707317,0.017342550523808,2050,1010,618,422,sarcasm,neutral
+If you come in peace why did you bring a lawyer?,1.7805626598465474,0.0176115715570778,1955,854,676,425,sarcasm,neutral
+They brought an immigration lawyer.,1.7323205866946043,0.0174272067321767,1909,877,666,366,irony,neutral
+They must be legal aliens.,1.7337278106508875,0.0184298839808899,1859,900,554,405,sarcasm,neutral
+"Oh oh, looks like we're facing a space suit.",1.796100278551532,0.0183588723187285,1795,763,635,397,incongruity-absurdity,neutral
+"He says the commute is terrible, but the money is out of this world.",1.7091121495327102,0.0182267945167703,1712,808,594,310,unknown,negative
+I don't trust the one at the back.,1.701589170100059,0.0185032599269568,1699,823,560,316,sarcasm,negative
+I’ll bet Randall was just a diversity hire.,1.692261185006046,0.0185456949528843,1654,803,557,294,sarcasm,neutral
+Looks like we're going to be abducted and audited!,1.693063228974831,0.0188521210929976,1629,798,533,298,irony,negative
+We should have never let him study abroad.,1.7427692307692308,0.0190974598841998,1625,744,555,326,sarcasm,negative

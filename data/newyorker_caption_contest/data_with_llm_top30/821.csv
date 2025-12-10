@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+The ego has landed.,1.8355359765051396,0.0112692523259169,5448,2406,1532,1509,self-deprecating,neutral
+You shoulda heard the mocking birds this morning.,1.8625247851949769,0.0121049439527259,4539,1864,1435,1240,incongruity-absurdity,negative
+He does this every time National Geographic shows up.,1.8161261529306751,0.0136831530431922,3361,1423,1133,805,irony,neutral
+Ever since the pink flamingo moved in downstairs.,1.7172260924635845,0.0133524008568921,3158,1469,1116,573,incongruity-absurdity,neutral
+Probably overcompensating for a small nest.,1.7010663914688682,0.0142159299738215,2907,1418,940,549,irony,neutral
+He looks ten years stupider.,1.6951685783802573,0.0145996824862405,2877,1454,846,577,sarcasm,negative
+Witness protection.,1.7500870170553429,0.0143982410445425,2873,1304,983,586,wit-surprise,neutral
+And you wonder why we're endangered.,1.703178858674837,0.0147914187781051,2611,1248,890,473,irony,negative
+First it was tail feather extensions and now this.,1.734489402697495,0.0149578072066547,2595,1189,906,500,irony,neutral
+His old flock is having a reunion.,1.692575406032483,0.0147308877615454,2586,1245,891,450,incongruity-absurdity,neutral
+"Ed’s single again, eh?",1.775638506876228,0.0153165395123205,2545,1109,898,538,sarcasm,neutral
+A toupee? It will never fly!,1.6650887573964497,0.0149132469538744,2535,1281,822,432,wit-surprise,negative
+Just flew in from Memphis.,1.6815487949427104,0.0147721224419242,2531,1230,877,424,unknown,neutral
+Make America bald again.,1.7110055423594617,0.0157641998953828,2526,1263,730,533,exaggeration,negative
+He’s having a mid-flight crisis.,1.6688128772635815,0.0146147045381771,2485,1207,894,384,incongruity-absurdity,negative
+He heard that bald eagles are endangered.,1.6732473811442383,0.0150026477508295,2482,1231,831,420,wit-surprise,negative
+He also paints his talons.,1.6575342465753424,0.0148552558261247,2482,1250,832,400,unknown,neutral
+Aren't we supposed to be bald? Like isn't that the whole point?,1.7250233426704016,0.0164503295999393,2142,996,739,407,self-deprecating,neutral
+Pretend you don't notice it. It drives him crazy!,1.6985915492957746,0.0162434378912605,2130,1016,740,374,sarcasm,negative
+That’s a bold eagle.,1.7135441245870693,0.0167363262571069,2119,1019,688,412,irony,positive
+Bet you can’t guess which President changed the national symbol to the comb-over eagle.,1.7209302325581397,0.0172468668690346,2107,1036,623,448,exaggeration,negative
+Wind. Wait for it.”,1.6976076555023925,0.0170209454456658,2090,1044,634,412,sarcasm,neutral
+"He says he's just an ""eagle"" now.",1.661856661856662,0.0161535095492561,2079,1034,714,331,irony,neutral
+Wait til he takes off and the rug doesn't.,1.672455378678244,0.0167882453039513,2073,1056,640,377,irony,neutral
+"Yeah, and he also just bought a Corvette.",1.6555555555555554,0.0163107828940054,2070,1046,689,335,irony,neutral
+"I know we're endangered, but at this point he just looks desperate.",1.7138714354760751,0.0169316028283469,2069,994,673,402,irony,negative
+Ed doesn't get it — 'bald' is our brand.,1.71964461994077,0.0169934914401277,2026,956,682,388,sarcasm,negative
+He migrated through Memphis.,1.6640119462419114,0.016514506079925,2009,1001,682,326,incongruity-absurdity,neutral
+Just give it one windy day.,1.6676767676767676,0.0165041869027977,1980,972,694,314,exaggeration,neutral
+"If that catches on, we'll be endangered all over again.",1.6648441771459814,0.0173939660179722,1829,915,612,302,exaggeration,negative

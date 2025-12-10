@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Let's end here. I know you have a plane to catch.,1.742489270386266,0.0130405193002364,3728,1785,1118,825,sarcasm,neutral
+I think he's been seeing the woman upstairs.,1.7380607814761215,0.0133534968297435,3455,1635,1090,730,wit-surprise,neutral
+So I'm thinking next week we go back to Zoom.,1.7315552476619327,0.0141021017265216,2887,1320,1022,545,irony,neutral
+I think it's time we address the 115-pound woman in the room.,1.7117794486215538,0.0145681204088181,2793,1346,906,541,sarcasm,neutral
+"Your husband is a movie star Debra, you knew that when you married him.",1.7127814088598403,0.0146256415688638,2754,1320,905,529,sarcasm,neutral
+"He’s shown growth, but can he evolve?",1.6955887714181552,0.0143500485928813,2743,1319,940,484,wit-surprise,neutral
+"We'll end early, Mr. Kong. I understand you have a 'plane to catch.'",1.7258375048132462,0.0154572415348556,2597,1259,791,547,wit-surprise,neutral
+"When you look at him, try to see the playful little monkey that you fell in love with...",1.7264038231780168,0.0152046152447925,2511,1166,866,479,self-deprecating,positive
+When we were dating he climbed a skyscraper for me—now I can’t even get him to take out the garbage.,1.7998385794995964,0.0160070772779883,2478,1084,806,588,irony,neutral
+I'm sorry but that's not why they call me a shrink.,1.7388980263157894,0.0161036816134245,2432,1167,733,532,sarcasm,negative
+These sessions might be more productive if you stopped referring to your husband as “the big ape.”,1.7241379310344829,0.0160337957499236,2407,1168,735,504,sarcasm,neutral
+I did say the medication had some side-effects.,1.7039864291772688,0.0157311350632158,2358,1140,776,442,sarcasm,neutral
+It is not uncommon for on-set romances to struggle once filming concludes.,1.7212971078001753,0.015916953364881,2282,1066,786,430,unknown,negative
+"So, when he says he needs 'more space', how does that make you feel?",1.714158504007124,0.0160103382297297,2246,1059,770,417,sarcasm,neutral
+"When you're finished,I'll go up stairs and hear his version .",1.7289887640449435,0.0162679809469408,2225,1038,752,435,sarcasm,neutral
+"We can wrap this up, I know you have a plane to catch",1.736556710347944,0.0168837162956934,2213,1066,664,483,sarcasm,neutral
+So I understand the two of you met at the Empire State building?,1.7005469462169551,0.0162483240401012,2194,1062,727,405,sarcasm,neutral
+Therapy won't work if your head is elsewhere.,1.6991984912776992,0.0163368528469514,2121,1015,729,377,wit-surprise,negative
+He said he had to drag you here kicking and screaming.,1.756601056168987,0.0170829423550682,2083,948,694,441,incongruity-absurdity,negative
+What makes you think you’re adopted?,1.7231584015406838,0.0172148107146506,2077,1006,640,431,sarcasm,neutral
+Your problem is that one of you is evolving and the other is not.,1.7142857142857142,0.0167007599240323,2072,979,706,387,sarcasm,negative
+So you're saying he's been picking up girls all over town?,1.7053093034583535,0.0169105794207966,2053,994,670,389,sarcasm,neutral
+Your mom and I think it may be time for you to get your own place.,1.7681441792498782,0.0170985052217689,2053,909,711,433,sarcasm,neutral
+Ignore him. He's seeing the psychiatrist on the next floor.,1.7104874446085672,0.0173267217908764,2031,998,623,410,sarcasm,neutral
+I see... and is the gorilla with us in the room right now Ms. Johnson?,1.764175940646529,0.0182863624415456,1887,870,592,425,sarcasm,neutral
+"For some couples, size can be an issue...",1.6823125357756152,0.0177468624810498,1747,846,610,291,incongruity-absurdity,neutral
+"Well Mr. Kong, I think it’s time to address the 150 pound woman in the room.",1.6622247972190034,0.018235578820579,1726,885,539,302,sarcasm,neutral
+"Henry and Luella, more than ever, suspected there might have been a mix-up at the hospital.",1.7298410829899942,0.0190687226688444,1699,816,526,357,incongruity-absurdity,neutral
+I usually don't take sides but in my professional opinion he does need more space.,1.6913069189828505,0.0180479360788682,1691,807,599,285,sarcasm,neutral
+"Well, you know, they're so darn cute when they're little.",1.7104294478527606,0.0186677623603121,1630,767,568,295,incongruity-absurdity,positive

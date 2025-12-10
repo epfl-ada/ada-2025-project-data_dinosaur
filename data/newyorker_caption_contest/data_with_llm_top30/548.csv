@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Well, five acres of popcorn back there says you were.",1.95742471443406,0.0270380422475627,963,360,284,319,sarcasm,neutral
+1,So Major Tom... Do you know how fast you were going?,1.9242761692650332,0.0311350547847544,898,427,112,359,sarcasm,neutral
+2,"Sir, I don't make the laws of physics I just enforce them.",1.907161803713528,0.0298385688124646,754,291,242,221,sarcasm,neutral
+3,I'm going to need you to take one small step out of the vehicle,1.9029126213592236,0.0366284097793172,515,205,155,155,sarcasm,neutral
+4,"I don't make the laws of physics, sir. I just enforce them.",1.7760180995475112,0.0374121169074282,442,197,147,98,wit-surprise,neutral
+5,"Sir, please take one small step out of the vehicle.",1.7146974063400575,0.0422930395921709,347,171,104,72,sarcasm,neutral
+6,"Take one small step out of the vehicle, sir.",1.7105263157894737,0.0434668836625299,342,174,93,75,sarcasm,neutral
+7,You call it a glitch in the space-time continuum. I call it a stop sign.,1.701219512195122,0.0443242685950252,328,169,88,71,incongruity-absurdity,neutral
+8,I got you doing light in a sound zone.,1.6876971608832807,0.0433311750730732,317,159,98,60,wit-surprise,neutral
+9,If you stay below the speed of sound you'll hear the sirens next time.,1.684887459807074,0.0431032236115565,311,154,101,56,sarcasm,neutral
+10,"First of all, thank you for stopping.",1.6754098360655738,0.0431784993484058,305,152,100,53,sarcasm,positive
+15,I clocked you at tomorrow.,1.6732673267326732,0.0456454576771232,303,161,80,62,sarcasm,neutral
+13,"Sir, I just need you to take one small step out of the vehicle.",1.6744186046511629,0.0431450492426508,301,149,101,51,sarcasm,neutral
+11,You're the first one to actually stop.,1.674496644295302,0.0445205826839586,298,152,91,55,sarcasm,neutral
+12,And I suppose they don't have stop signs in the future either.,1.674496644295302,0.0457719234103953,298,157,81,60,irony,negative
+14,I clocked you doing light in a sound zone.,1.6734006734006734,0.0456647079622658,297,156,82,59,sarcasm,neutral
+16,"First, thanks for stopping.",1.6711864406779662,0.0459478853905593,295,156,80,59,sarcasm,positive
+18,"Sir, I usually ask this rhetorically, but do you know how fast you were going?",1.6620209059233448,0.0455382420224584,287,150,84,53,sarcasm,neutral
+17,"...and I can't stress this enough, do not restart your engine until I've pulled away.",1.6620209059233448,0.0476304368097891,287,158,68,61,unknown,negative
+19,the farmer with the field of popcorn would like a word with you...,1.6608391608391608,0.0472662550496008,286,156,71,59,unknown,neutral
+20,I'm going to have to ask you to take one small step out of your vehicle.,1.6534296028880866,0.0464184809791258,277,147,79,51,sarcasm,neutral
+21,Says here you're a flight risk.,1.6509090909090909,0.0472870173899067,275,149,73,53,self-deprecating,negative
+22,"I see that, but you still need a plate on the front.",1.6496350364963503,0.0457207261087339,274,143,84,47,sarcasm,neutral
+23,It's not for speeding. It's for incinerating the guy behind you at the stop sign back there.,1.6496350364963503,0.0460121945675762,274,144,82,48,sarcasm,negative
+25,Your re-entry light is out.,1.6431226765799256,0.0449619888151457,269,138,89,42,irony,neutral
+26,"I know, buddy. Everyone's in a big hurry to get to Canada.",1.6390977443609025,0.0469457847148366,266,143,76,47,sarcasm,neutral
+24,"I'll be honest, the fine will be astronomical.",1.6450381679389312,0.04776122537935,262,141,73,48,sarcasm,negative
+27,Generally mach anything is grounds for a ticket.,1.6307692307692307,0.0469683597905168,260,140,76,44,irony,neutral
+28,I'm going to have to take you in. You're a flight risk.,1.6303501945525292,0.0486758122529191,257,143,66,48,sarcasm,negative
+30,I see you're from out of town.,1.6147540983606556,0.0478553903658275,244,133,72,39,sarcasm,neutral

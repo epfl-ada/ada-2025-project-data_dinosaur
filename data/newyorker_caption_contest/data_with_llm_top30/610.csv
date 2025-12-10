@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3,Beat until stiff meant the eggs.,1.9290455120101135,0.010118457203646,6328,2290,2197,1841,unknown,neutral
+7,"On the bright side, he'll never give you a bad review again.",1.880875202593193,0.0101138604885262,6170,2358,2189,1623,sarcasm,neutral
+11,"As White House chef, you must have been expecting this.",1.8674365647365,0.010503048472938,6148,2546,1871,1731,sarcasm,neutral
+15,"Evidently, the jury found it hard to swallow, too.",1.8469237079573424,0.0097765830884244,6095,2313,2402,1380,incongruity-absurdity,negative
+8,Prepare to serve ten to twenty.,1.878286753762196,0.0101255824066321,6047,2287,2209,1551,incongruity-absurdity,neutral
+2,They're asking if you prefer gas or electric...,1.9325062034739453,0.0106351613180506,6045,2284,1885,1876,irony,neutral
+13,"As the White House Chef, half the world is hailing you as a hero for at least attempting it.",1.849056603773585,0.0107453356827718,6042,2632,1690,1720,sarcasm,positive
+1,"You can keep calling it ""flambé,"" but out here it's felony arson.",1.9462329903750413,0.0103277824502499,6026,2107,2136,1783,unknown,negative
+10,When you said you were going to grill the witness I had no idea.,1.8714094856379424,0.010401920787043,5988,2374,2010,1604,sarcasm,negative
+12,Good news. I found an attorney specializing in torte law.,1.851106639839034,0.0101858944807538,5964,2355,2142,1467,sarcasm,positive
+16,No one cares that the knife came out clean.,1.8411246612466128,0.010355010086931,5904,2412,2018,1474,incongruity-absurdity,negative
+19,They're making you out to be some kind of a butcher.,1.8245765641202905,0.0101184195809967,5786,2310,2181,1295,sarcasm,negative
+5,"Cooking meth doesn't make you a chef, Steve.",1.8946904215911096,0.010832034236148,5669,2215,1836,1618,sarcasm,negative
+17,It doesn't look good. The butcher and the candlestick maker both took a plea.,1.8314447592067988,0.0105226601626615,5648,2322,1956,1370,incongruity-absurdity,negative
+24,"On the positive side, you're the reason the prison cafeteria now has a Michelin rating.",1.8067043177263615,0.010245220519291,5489,2214,2122,1153,sarcasm,positive
+9,"On the bright side, your ""Death by Chocolate"" exceeded expectations.",1.872441520467836,0.0108510297056271,5472,2156,1858,1458,sarcasm,positive
+23,So who's the chef at Mar-a-lago now?,1.8110826627651797,0.0110345050397474,5468,2434,1633,1401,sarcasm,neutral
+20,I guess the Times' restaurant critic has more clout than we realized.,1.8182660244535012,0.0106827932061174,5398,2242,1895,1261,sarcasm,neutral
+27,You and I both know salt is the real killer.,1.7960134128166916,0.0107213422573113,5368,2315,1833,1220,sarcasm,negative
+18,You didn’t find it suspicious that they were selling oregano by the ounce?,1.8250326431635888,0.0105625401931751,5361,2154,1991,1216,sarcasm,neutral
+26,"Everyone else got 12 years, for some reason you got 13.",1.796506047225955,0.0112251510295255,5209,2347,1575,1287,irony,neutral
+6,For heaven's sake give them the recipe!,1.8828064764841943,0.0111253241058428,5188,2005,1786,1397,wit-surprise,negative
+25,For 30 years at home you never cooked. After two weeks in prison you're the chef?,1.8064971751412429,0.0112670684315817,4956,2131,1653,1172,irony,negative
+14,No. I told you “poisson.”,1.8483123220821471,0.0113202307567655,4918,1979,1706,1233,sarcasm,neutral
+4,The good news is they're letting you prepare your last meal.,1.9009155645981688,0.0113379279433435,4915,1820,1762,1333,sarcasm,positive
+22,You wouldn't be here if it wasn't for that little tart!,1.8178270692133909,0.0112604793920109,4869,2027,1702,1140,sarcasm,negative
+0,'Bad news. They found the proof in the pudding.',1.979210415791684,0.011904403673153,4762,1657,1547,1558,wit-surprise,negative
+41,I've found a good torte lawyer.,1.7253852739726028,0.0111038557594224,4672,2163,1629,880,incongruity-absurdity,positive
+42,"They wanted to give you the electric chair, but I told them you'd prefer gas.",1.7248552434055329,0.0112840073244419,4663,2202,1542,919,unknown,negative
+33,Next time - just bake the gay wedding cake.,1.7686695278969955,0.0117913986564855,4660,2173,1392,1095,sarcasm,neutral

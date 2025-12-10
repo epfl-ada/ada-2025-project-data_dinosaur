@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Yeah, Florida was just getting too weird for us.",1.9310344827586208,0.010784044185454,5858,2211,1840,1807,irony,negative
+It can probe six comfortably.,1.7495550017799928,0.0104842055247084,5618,2614,1797,1207,incongruity-absurdity,neutral
+We cut our trip to Earth short - great scenery but no sign of intelligent life.,1.884021087075077,0.0110913991669798,5501,2217,1705,1579,exaggeration,negative
+We can comfortably abduct a family of four.,1.8520343003101625,0.010637887431167,5481,2165,1962,1354,exaggeration,neutral
+Take us to your dealer .,1.7834264432029796,0.0106841097572742,5370,2353,1827,1190,sarcasm,neutral
+We thought we'd try a Flying Object they could Identify.,1.8857569535187608,0.0111983618527523,5357,2140,1689,1528,wit-surprise,neutral
+That’s us before we had kids.,1.8121722846441948,0.010441970145927,5340,2150,2043,1147,self-deprecating,neutral
+"It's very blue; hard to miss. If you reach the one with Rings, you've gone too far.",1.8272162619988708,0.0104693088862474,5313,2085,2061,1167,wit-surprise,neutral
+"'' Swallow your pride, dear, and just ask them for directions.""",1.873467848387705,0.0109676188574266,5303,2069,1836,1398,unknown,neutral
+We've Been Trying To Reach You About Your Car's Extended Warranty,1.8706879938331085,0.0113928932243831,5189,2126,1608,1455,irony,neutral
+"The U.S, Supreme Court repealed the law of gravity because it wasn't mentioned in the Constitution so we jut took off with it,",1.91759421987893,0.0118779909837034,5121,2078,1387,1656,exaggeration,neutral
+And don't bother with Roswell. It's such a tourist trap.,1.8814493895234343,0.0111351591227018,5078,1935,1810,1333,sarcasm,negative
+You mean I've had my blinker on since Alpha Centauri?,1.7614624505928853,0.010656664181876,5060,2201,1865,994,sarcasm,neutral
+Couple watching TV in the back don't even know we abducted them.,1.8131323150168617,0.0111664970906218,5041,2143,1697,1201,irony,negative
+What we learned is you can't trust Google Maps.,1.8548707753479128,0.0112368977762084,5030,2015,1730,1285,sarcasm,negative
+"No matter how far we go, your freaking parents always show up.",1.916233506597361,0.0115479889709214,5002,1895,1631,1476,sarcasm,negative
+Do you have any Grey Poupon?,1.732468585326307,0.0113416591664297,4934,2402,1450,1082,unknown,neutral
+We needed more space.,1.7743778049775605,0.0110103498338004,4902,2134,1740,1028,incongruity-absurdity,neutral
+"Yeah, Earth.  How could you tell?",1.854878550843969,0.0111827583355884,4858,1879,1805,1174,sarcasm,neutral
+"No sign of intelligent life, but really cheap RVs""",1.7486550462664083,0.0113032926892014,4647,2110,1595,942,incongruity-absurdity,negative
+"If Jupiter is crowded, try Mercury.  It’s hot this time of year, but it’s a dry heat.",1.800043327556326,0.0113047354897971,4616,1915,1709,992,incongruity-absurdity,neutral
+Your blinker's been on for the last 11 million light years.,1.7863266652011431,0.0116424605930777,4549,1992,1537,1020,sarcasm,neutral
+It was a constellation prize.,1.8408839779005528,0.0118846456361039,4525,1863,1519,1143,wit-surprise,neutral
+We just empty it over Florida,1.895819508958195,0.0124154952638424,4521,1835,1322,1364,exaggeration,neutral
+Could we use your bathroom?,1.7386642841188296,0.0111655019161075,4477,1987,1673,817,sarcasm,neutral
+Don't judge. It has a bathroom.,1.7373127654817797,0.0109452099988627,4473,1940,1768,765,incongruity-absurdity,neutral
+"Just looking for the nearest rest stop, someone’s got to go number 6",1.817976001811184,0.0121504349553871,4417,1915,1391,1111,unknown,neutral
+We love camping out under the stars.,1.7481818181818185,0.0113261880629994,4400,1935,1638,827,unknown,positive
+We rented it with unlimited mileage.,1.8125,0.0115782089778747,4384,1776,1654,954,unknown,neutral
+We're going to empty the septic tank on earth. They'll never know the difference.,1.779163779163779,0.0120419787149541,4329,1942,1401,986,exaggeration,negative

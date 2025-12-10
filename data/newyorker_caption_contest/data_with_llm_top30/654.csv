@@ -1,0 +1,33 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+6532,Now that is a deserted island!,1.1387755102040815,0.024972930360772,245,215,26,4,exaggeration,negative
+3984,"Oh! Tomato soup; I’m terribly sorry, I thought you ordered our house specialty Tornado soup.",1.2468619246861925,0.0325954784667247,239,188,43,8,sarcasm,negative
+1864,I specifically asked that it be served in a teapot.,1.320675105485232,0.0357860146826915,237,171,56,10,unknown,neutral
+6607,The best possible way to mix the ingredients of bird’s nest stew!,1.13135593220339,0.025804043278286,236,210,21,5,wit-surprise,positive
+4216,"The seasoning is paprika with a dash of climate change, sir.",1.2393162393162394,0.0327835956368949,234,186,40,8,wit-surprise,negative
+1867,"I thought I was getting Thai Food, not a typhoon.",1.3205128205128205,0.0375708465824513,234,172,49,13,irony,negative
+4996,"It's supposed to be windy, sir",1.2121212121212122,0.0314664669059882,231,189,35,7,sarcasm,neutral
+4623,So you won't bring me salt until I taste it?,1.225108225108225,0.0325508686427152,231,187,36,8,wit-surprise,negative
+6417,"I ordered Alfredo, Alfredo !",1.1478260869565218,0.027891512225308,230,202,22,6,unknown,positive
+3112,"Excuse me. I ordered Tomato-Basil soup, but you brought me Tornado-Basil soup. This is a disaster!",1.275109170305677,0.0360003645032126,229,177,41,11,sarcasm,negative
+1137,Can you take it away?  It's already sucked in my wallet.,1.3596491228070176,0.0404082965956589,228,162,50,16,irony,negative
+6180,What is your 3 wish?,1.162280701754386,0.0281441635419686,228,196,27,5,sarcasm,neutral
+1661,This is your spin on a tomato soup?,1.3289473684210529,0.0384029232636628,228,166,49,13,sarcasm,neutral
+5389,"Well, don’t just stand there, do something.",1.198237885462555,0.0318614400432079,227,190,29,8,wit-surprise,neutral
+2794,Sorry you think it sucks.,1.2863436123348018,0.0370408659907889,227,174,41,12,sarcasm,negative
+832,"I asked for a Category 5. This is Category 2, tops.",1.3822222222222222,0.0434451142724313,225,160,44,21,exaggeration,neutral
+5086,"...and
+
+..our legendary ‘Trailer Park’ soup, a feature of Tuesday’s prix fixe...",1.208888888888889,0.0312384017277518,225,184,35,6,exaggeration,positive
+4716,Apparently the chef has a unique definition of “spicy.”,1.2222222222222223,0.0317757797129644,225,181,38,6,irony,neutral
+3093,There’s a perfect storm brewing in my plate and I don’t think it will go down well,1.2755555555555556,0.0369779952679806,225,175,38,12,self-deprecating,negative
+2663,"I asked for tomato soup, not tornado soup.",1.2901785714285714,0.0346976025659082,224,166,51,7,incongruity-absurdity,negative
+2307,'Dorothy back?',1.3035714285714286,0.0388405857911962,224,170,40,14,irony,neutral
+27,I can't wait to see the Molten Lava Cake.,1.5803571428571428,0.0526662530793325,224,136,46,42,irony,positive
+12,I certainly won't be ordering the chocolate lava cake.,1.6160714285714286,0.0542445170138317,224,133,44,47,incongruity-absurdity,negative
+3157,"J'ai dit tournedos, vous bouffon!",1.2735426008968609,0.0376870096530372,223,175,35,13,irony,neutral
+2145,"Waiter, a suggestion for the Chief, stop stirring the soup clockwise.",1.3094170403587444,0.0406115693367939,223,171,35,17,wit-surprise,neutral
+5745,"I ordered the shoo fly pie, not shoo fly soup.",1.1838565022421526,0.0289398045878425,223,186,33,4,incongruity-absurdity,negative
+6191,Not just one. It's a flynado.,1.1614349775784754,0.0298761704622769,223,194,22,7,incongruity-absurdity,neutral
+1878,"I thought you said ""with a soupcon of fennel,"" not funnel.",1.31981981981982,0.0383861783889036,222,163,47,12,wit-surprise,neutral
+4100,Free with the Polar Vortex Prix Fixe!,1.2432432432432432,0.034044689816018,222,176,38,8,irony,neutral
+381,Is it best enjoyed in the basement?,1.4324324324324325,0.0452565252923753,222,149,50,23,incongruity-absurdity,neutral

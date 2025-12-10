@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Part of me loves it.”,1.665377674658417,0.012740275569647,3879,2087,1003,789,sarcasm,positive
+I'd like my wife's opinion. She's over in the bridle section.,1.741171905316259,0.0158436227832251,2577,1253,738,586,wit-surprise,neutral
+It's for an interview. I'm looking for a stable job.,1.7446703024293506,0.0171178713886932,2017,919,694,404,irony,neutral
+I could also use a groom.,1.5879851143009038,0.0164393578547389,1881,1025,606,250,unknown,neutral
+"I like to be the centaur of attention.""",1.6475365457498647,0.0179416395428624,1847,989,520,338,incongruity-absurdity,positive
+"If you go near the dressing room, you might want to be careful where you step.",1.6116876024030584,0.0177602576942664,1831,1022,498,311,incongruity-absurdity,neutral
+I'm going to a bridle shower.,1.6543141592920354,0.0176429308321156,1808,929,575,304,incongruity-absurdity,neutral
+"I'm getting hitched""",1.7188552188552189,0.0179461277865161,1782,832,619,331,irony,neutral
+Sorry for the mess in the dressing room.,1.6477916194790487,0.0181333745757085,1766,933,522,311,incongruity-absurdity,negative
+I'm looking for something that won't ride up in the back.,1.661748013620885,0.0179557936465806,1762,899,560,303,incongruity-absurdity,neutral
+Now it’s off to the races.,1.593984962406015,0.0175571949373557,1729,954,523,252,exaggeration,neutral
+"On zoom calls, you’d never even know",1.658175355450237,0.0182819114052513,1688,863,539,286,sarcasm,neutral
+The invite just says coat and tails.,1.7259786476868328,0.0190169775693953,1686,808,532,346,incongruity-absurdity,negative
+I’m a bit of a clothes horse.,1.638755980861244,0.018476693657664,1672,888,500,284,unknown,neutral
+I'm in the bridle party.,1.5661057692307692,0.0181015521343954,1664,971,444,249,sarcasm,neutral
+"Nope, this is fine. I'll be standing behind a podium the whole time.",1.6300788356579743,0.0178548941367526,1649,851,557,241,irony,positive
+I truly am a clotheshorse.,1.58797745773325,0.0183569134810055,1597,894,467,236,wit-surprise,neutral
+I think we can forget the tails.,1.5830701200252684,0.0183235425635052,1583,888,467,228,incongruity-absurdity,neutral
+Can you help me find a polo shirt?,1.6715561224489797,0.018815467206602,1568,777,529,262,unknown,neutral
+My wife was riding me pretty hard about getting a new suit.,1.6334405144694537,0.0186561947976215,1555,810,505,240,unknown,neutral
+"But really, does it make my ass look big?",1.6096774193548389,0.0195202123019937,1550,878,399,273,self-deprecating,neutral
+How do I look? Yea or neigh?,1.837750484809308,0.0204303250681012,1547,645,508,394,incongruity-absurdity,neutral
+It's a black tie and tails event.,1.6681818181818182,0.0191971648445445,1540,777,497,266,unknown,neutral
+I’m gonna have to run it past my better half.,1.644487932159165,0.0186769813157745,1533,779,520,234,sarcasm,neutral
+I'm really becoming quite a clothes horse.,1.605419695968275,0.0189261397804242,1513,826,458,229,unknown,neutral
+"I like the vest, but this tie makes me look like an ass.",1.6133333333333333,0.019667384646347,1500,837,406,257,sarcasm,negative
+The party calls for tails.,1.6002673796791445,0.0186625573615595,1496,808,478,210,incongruity-absurdity,neutral
+Do you have anything in a size 14 to 15 hands?,1.6356902356902356,0.0190995489303124,1485,771,484,230,unknown,neutral
+I’m looking to be the Centaur of Attention,1.6279540850776502,0.0193654786292705,1481,789,454,238,wit-surprise,neutral
+Now let me try on the saddle.,1.568918918918919,0.0183986283556356,1480,827,464,189,incongruity-absurdity,neutral

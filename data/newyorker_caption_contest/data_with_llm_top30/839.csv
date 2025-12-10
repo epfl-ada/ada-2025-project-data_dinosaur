@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Don't forget to put them back in orbit when you're done playing.,1.6767175572519084,0.0148696287926633,2620,1319,829,472,incongruity-absurdity,neutral
+Why am I even paying for harp lessons?,1.656298600311042,0.0152813157154351,2572,1366,724,482,self-deprecating,negative
+I don't care what Satan lets his kids do.,1.7696994313566206,0.0164742817106914,2462,1171,687,604,sarcasm,negative
+Careful. It took me a week to make that one.,1.6889352818371608,0.0156998573960181,2395,1195,750,450,wit-surprise,neutral
+"Easy, Michael.  Last time you broke you wiped out the dinosaurs.",1.6693051890941073,0.0161690220332309,2274,1176,674,424,sarcasm,negative
+Where on Earth are you aiming,1.6724444444444444,0.0163794221871026,2250,1168,651,431,sarcasm,neutral
+"They call it ""big bang."" We call it ""break.""",1.6515287769784173,0.0162588505333317,2224,1176,647,401,incongruity-absurdity,neutral
+Rack 'em up and I'll show you kids a trick shot called the Big Bang.,1.5836216839677046,0.0187936255470724,1734,1042,372,320,wit-surprise,neutral
+I call the shots here.,1.6616729088639202,0.0190075213512073,1602,826,492,284,unknown,neutral
+I said shoot for the moon,1.6603650586701435,0.0191017250736632,1534,778,499,257,exaggeration,neutral
+Hit below the Equator for backspin,1.5994677312042582,0.0185268954142907,1503,809,487,207,incongruity-absurdity,neutral
+Leave earth alone. It'll sink itself.,1.7039517749497657,0.0203793807313199,1493,749,437,307,unknown,negative
+It’s been 4.5 billion years; will you please just take your shot?!,1.7387448840381992,0.0205269263884781,1466,694,461,311,self-deprecating,neutral
+No way in Heaven you make that shot.,1.6401673640167365,0.0192607324137073,1434,732,486,216,sarcasm,negative
+I spent six days working on that.,1.5720309205903022,0.0195876005089069,1423,823,386,214,unknown,neutral
+"No, I said it’s time for re-creation.",1.5829216654904728,0.0196976595386301,1417,808,392,217,wit-surprise,neutral
+That's the worst break I've seen since the Big Bang!,1.6475988700564972,0.019921185819278,1416,735,445,236,incongruity-absurdity,negative
+Which one of you pocketed Pluto?,1.5893617021276596,0.0194198355554955,1410,783,423,204,sarcasm,neutral
+Ten bucks says you won't sink the Earth before the humans do.,1.7285714285714286,0.0207691520122376,1400,664,452,284,sarcasm,neutral
+"Okay, one more round, but then we really have to work on the world peace thing.",1.5872675250357653,0.0188894325239305,1398,756,463,179,sarcasm,neutral
+"Don't bother sinking that one, the humans will do it on their own.",1.6636363636363636,0.0209841070961553,1320,680,404,236,sarcasm,negative
+"Remember: eye on the ball,smooth follow through,and account for the table expanding at an increasing rate.",1.5830174374526156,0.0196705981555599,1319,726,417,176,unknown,neutral
+Sundays off if you sink it.,1.5835240274599542,0.0200529184879547,1311,732,393,186,unknown,neutral
+"See the real secret is, it's the universe that's flat.",1.6917177914110428,0.0218617980165772,1304,669,368,267,incongruity-absurdity,neutral
+Not that one; it's gonna sink itself.,1.6529503105590062,0.0213255714076212,1288,678,379,231,irony,negative
+I can't wait to hear how Fox News blames this on Biden!,1.592156862745098,0.0214004925368191,1275,738,319,218,irony,negative
+You know they're going to blame me for this ...,1.582807570977918,0.0206685834234816,1268,718,361,189,sarcasm,negative
+Hurry up and sink 'em. You know it always takes me an eternity to set 'em up again.,1.5797914995990376,0.0201970318864558,1247,689,393,165,sarcasm,negative
+One foot on the cloud please!,1.579710144927536,0.020066066146286,1242,681,402,159,sarcasm,neutral
+And on the seventh day God called corner pocket,1.5786924939467313,0.0205232590400265,1239,694,373,172,wit-surprise,positive

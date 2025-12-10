@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I heard today I'm getting canned.,2.2716951678138084,0.0061299840330729,14093,2337,5590,6166,exaggeration,negative
+5,Maybe one day she’ll realize I’m the one that got away.,2.059531399426203,0.0068337832489204,12548,3325,5151,4072,self-deprecating,negative
+4,Yeah? Well I'm also a fish out of Scotch.,2.0725590004627485,0.0079785189531638,10805,3352,3317,4136,sarcasm,neutral
+1,Whaddya mean you only serve fish on Friday,2.163835514712708,0.007552781597342,10773,2572,3864,4337,irony,neutral
+8,'She says she needs room to breathe...what does that even mean?',2.009971923709943,0.0077769447513456,10329,3175,3876,3278,sarcasm,negative
+6,It’s just so hard not to get wrapped up in the news.,2.048270470979089,0.0079351540445183,10234,3062,3616,3556,irony,negative
+9,Then one day you wake up and you have ten thousand children and a mortgage that's under water.,2.007730881738404,0.0080802060096838,9572,2954,3590,3028,exaggeration,neutral
+12,And that fisherman had to be 7 or 8 feet tall,1.9419082762256197,0.0081622029503977,9485,3288,3460,2737,irony,neutral
+16,Make it a double. I just got out of the tank.,1.9118773946360152,0.008133681662638,9135,3198,3544,2393,sarcasm,neutral
+18,"Leave the tequila, I'll just take the worm.",1.903765690376569,0.008412416509867,8604,3073,3286,2245,incongruity-absurdity,neutral
+21,Your sign clearly says We serve fish!,1.8891895071168097,0.008476310003082,8501,3119,3205,2177,sarcasm,neutral
+2,What the hell else would I drink like?,2.094614443084456,0.0088369219824985,8170,2256,2885,3029,sarcasm,negative
+31,I still like to think of myself as a good catch.,1.8010652793261488,0.0082678379745587,8073,3190,3299,1584,self-deprecating,positive
+19,"So then I tell her, ‘Well after two days your mother stinks too.’",1.89788179916318,0.0090114117444074,7648,2805,2819,2024,sarcasm,negative
+25,"Sure, but a horse walks into a bar and nobody bats an eye",1.8390135771681904,0.0089887490279675,7218,2779,2822,1617,incongruity-absurdity,negative
+17,I had a castle and treasure chest before my life went down the toilet.,1.9053883834849543,0.0093810206304825,7145,2616,2589,1940,exaggeration,neutral
+27,I don't know why I can't meet anyone.  I'm quite the catch.,1.8099522069159404,0.0092301437834513,7114,2960,2546,1608,self-deprecating,negative
+14,She's sleeping with the fishes. Just not this one.,1.9176003403772517,0.0095262626906488,7051,2570,2492,1989,unknown,neutral
+13,I hope this isn't a place where people come to hook up.,1.9319221967963387,0.0091109567626704,6992,2283,2902,1807,irony,negative
+15,Stop calling me chum!,1.916263381727526,0.0095713782500684,6819,2439,2512,1868,sarcasm,negative
+35,"Yes, but interestingly, I don’t drink like one.",1.7524521251751517,0.0093789322876179,6423,2806,2401,1216,self-deprecating,neutral
+32,"... but TEACH a fish to drink, and he can drink for a lifetime.",1.800505902192243,0.0101567699322668,5930,2523,2067,1340,wit-surprise,neutral
+26,"At this point, I'm more of a fish out of bourbon.",1.823105327940918,0.0100899211216322,5687,2238,2217,1232,self-deprecating,negative
+36,"...and before I knew it,I'd fallen for her - hook,line,and sinker.",1.749205788916343,0.0100572114937778,5666,2512,2063,1091,unknown,positive
+7,"I KNOW when something is watered down, pal.",2.0339042910118312,0.0100607868837666,5663,1530,2411,1722,sarcasm,neutral
+11,Every single school rejected me.,1.9513210278682591,0.0101540489296271,5526,1715,2365,1446,self-deprecating,negative
+22,"Well, I bet you drink like a bald guy",1.8608919067718848,0.0105825389897932,5449,2094,2019,1336,sarcasm,negative
+23,"I came here to get a job on Wall Street, but it turns out they only hire sharks and piranhas.",1.8596953169080308,0.0106357494710591,5317,2024,2015,1278,wit-surprise,negative
+37,Large water. Salted. And keep'em coming.,1.7487704111745033,0.0106940221181339,5083,2276,1808,999,irony,neutral
+29,...And then she gave me this koi smile.,1.8068181818181817,0.0109138841492809,4928,2014,1852,1062,irony,positive

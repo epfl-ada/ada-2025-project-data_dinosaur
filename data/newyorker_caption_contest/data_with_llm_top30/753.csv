@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Hit me again with your cart and I'll hunt you down until the day I die.,1.8123109766945384,0.0107652521608518,5621,2457,1762,1402,sarcasm,negative
+"If anyone asks, you’re my support animal.",1.8091618734593264,0.0112483533458114,4868,2052,1693,1123,self-deprecating,positive
+I chased you down for 700 pages and now I run into you in the cereal aisle?,1.768959801077497,0.0111932174441077,4826,2145,1651,1030,irony,neutral
+My therapist says you’re a metaphor.,1.7842094062566505,0.011151334515721,4699,1988,1734,975,wit-surprise,neutral
+Catch you later.,1.7569111263422434,0.0117298512384565,4377,1979,1483,915,unknown,neutral
+It was Melville who called you a dick.,1.7884197828709287,0.012619489459568,4145,1897,1224,1021,wit-surprise,negative
+"Call me Ishmael.
+I'm using his employee discount.",1.7987282954267547,0.0124268121368902,4089,1785,1342,962,wit-surprise,neutral
+"Oh I'm sorry, maybe I'd move faster if SOMEONE didn't bite my leg off.",1.8182268449727588,0.0124594070731965,4038,1697,1374,964,unknown,negative
+"Buddy, it’s New York. EVERYONE  feels like a fish out of water.",1.7473521053991217,0.0122795493931976,3871,1742,1365,764,sarcasm,negative
+Just because we did a book together does not mean we are friends.,1.733440170940171,0.0122238422121411,3744,1679,1384,681,sarcasm,neutral
+I'll catch you later.,1.7516083916083915,0.0129339290887761,3575,1623,1217,735,sarcasm,neutral
+You don’t have to say “thar she blows’ every time you find an item you’re looking for.,1.7363636363636363,0.0130640895536047,3410,1560,1189,661,incongruity-absurdity,neutral
+"Yes I am parked in the handicapped space,and you can thank yourself for that.",1.7571129080563044,0.0133016073655664,3339,1490,1170,679,sarcasm,positive
+"This isn’t the ending I wanted, either.",1.7447392497712717,0.0133420221953236,3279,1482,1152,645,self-deprecating,negative
+"No, I gave up searching for you long ago.  I'm just looking for toilet paper now.",1.7340458015267175,0.0133163894937894,3275,1502,1142,631,sarcasm,negative
+Go on ahead of me...I'll catch you later.,1.7232086239695623,0.0132934491336302,3154,1436,1155,563,sarcasm,neutral
+"You know they’re not real goldfish, though, right?",1.76128,0.0136610322936835,3125,1373,1125,627,incongruity-absurdity,negative
+"Six feet, Moby!",1.736220472440945,0.0141363101467448,3048,1436,980,632,irony,positive
+"Oh, NOW you're a vegetarian.",1.740120562625586,0.0138927832775949,2986,1349,1064,573,sarcasm,neutral
+You read the sign wrong- it's Whole Foods,1.72475106685633,0.0150102759238658,2812,1384,818,610,irony,neutral
+"We're in the same boat now. You're the hated white whale, and me, the hated white male.",1.743002544529262,0.0151713946934205,2751,1315,828,608,sarcasm,negative
+"I’ve been good...Sold the ship, started seeing a therapist.....Anyways, how have you been?! You look great...",1.7136481963555226,0.0145562584877702,2689,1261,937,491,sarcasm,positive
+There you are!  I’ve been looking everywhere for you.,1.7258308157099698,0.0147112686424628,2648,1221,932,495,unknown,positive
+"No, I don't know where the Tide is.",1.7829306313328137,0.0155822054835498,2566,1138,847,581,sarcasm,neutral
+Don't act like you don't know me.,1.7233791748526524,0.015186759477442,2545,1196,857,492,sarcasm,negative
+Just so we are clear: what happens at sea stays at sea.,1.7008506616257089,0.0163723935109579,2116,1011,727,378,irony,neutral
+"I don't care where you breathe from, masks are required.",1.7723772858517806,0.0173641466333781,2078,941,669,468,sarcasm,neutral
+"After a lot of therapy, Ahab and Moby Dick now live a quiet life together in Nantucket.",1.6990338164251209,0.0168604329417598,2070,1014,665,391,incongruity-absurdity,neutral
+Settled down. Had a kid. How about you?,1.6973816717019137,0.0167582522323807,1986,945,697,344,sarcasm,neutral
+It’s always weird seeing you outside of work.,1.6977329974811084,0.0165649217820566,1985,931,723,331,sarcasm,neutral

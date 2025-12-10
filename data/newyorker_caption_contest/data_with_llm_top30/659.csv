@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+5647,"When you mentioned what kind of day you had, I thought you were just using an expression.",1.1770833333333333,0.0313226322885638,192,162,26,4,sarcasm,neutral
+3981,"Well, it's a mixed feeling!",1.2356020942408377,0.0372659983968752,191,154,29,8,unknown,neutral
+4720,"Sorry dear, please speak up. I can't hear you over the loud chatter of table behind me.",1.2105263157894737,0.0356266053514392,190,157,26,7,sarcasm,negative
+814,"Actually, I prefer men either shaken or stirred.",1.3756613756613756,0.0492908286708873,189,139,29,21,sarcasm,neutral
+1480,"Frankly, I preferred your dentures.",1.3297872340425532,0.0463582122206367,188,143,28,17,sarcasm,positive
+846,Relax. You blend in.,1.372340425531915,0.0446016777092097,188,131,44,13,incongruity-absurdity,positive
+1443,I knew making a dating profile on Blendr was a bad idea...,1.3333333333333333,0.0461645255741462,186,140,30,16,sarcasm,negative
+5043,"I don’t mean to give you mixed messages, honey”",1.1989247311827955,0.0321829018750033,186,152,31,3,sarcasm,neutral
+211,Do you even hear yourself?,1.478494623655914,0.0523812445760591,186,121,41,24,self-deprecating,negative
+4384,You looked more attractive with dentures.,1.2216216216216216,0.0367261571670108,185,151,27,7,sarcasm,positive
+1226,I'm glad to see the algorithm matched me with someone who could help in the kitchen!,1.345945945945946,0.0382718104677889,185,125,56,4,irony,positive
+4072,For once could you please just chew your food slowly?,1.2324324324324325,0.0355440365908835,185,147,33,5,sarcasm,neutral
+980,"Still on a liquid diet, I take it?",1.3621621621621622,0.0462250457134272,185,133,37,15,sarcasm,neutral
+6390,I think I’ll have vanilla ice cream for dessert.,1.1405405405405404,0.029857645973668,185,163,18,4,incongruity-absurdity,positive
+4540,"Next time try their meal-in-a-glass.""",1.2162162162162162,0.0348537954170714,185,150,30,5,sarcasm,neutral
+3866,"You seem distracted tonight, darling.",1.2391304347826086,0.039852372529987,184,150,24,10,sarcasm,negative
+6703,I wanted a latte!,1.1141304347826086,0.0259090263269696,184,165,17,2,irony,positive
+1652,Is it that hard to eat your words?,1.3206521739130437,0.044300187192241,184,138,33,13,sarcasm,negative
+2844,The friends who set us up warned me that you were really into metaphors.,1.273224043715847,0.0380966408590431,183,139,38,6,sarcasm,neutral
+3991,"If I was a blind date Charles, it wouldn’t be a problem.",1.2349726775956285,0.0390914097894087,183,149,25,9,sarcasm,neutral
+6243,Uh ok... Not like I can't learn to love different.,1.1483516483516485,0.0296676312023792,182,158,21,3,self-deprecating,neutral
+3740,I see you've had some dental work done.,1.2430939226519335,0.0396825445276344,181,146,26,9,sarcasm,neutral
+3412,"I'm flattered, but I still don't think we are blending as a couple",1.2541436464088398,0.0392960588534232,181,143,30,8,sarcasm,neutral
+2286,"I have to confess, I haven't had much luck with dating mixers.",1.292817679558011,0.0405156537753222,181,136,37,8,self-deprecating,negative
+3564,"I’ve heard of farm-to-table, but this is another level",1.2486187845303869,0.0391013835052382,181,144,29,8,incongruity-absurdity,neutral
+558,Could you chew on low?,1.4055555555555554,0.047072735972053,180,121,45,14,incongruity-absurdity,neutral
+5631,"Wow, your ice crush setting really is impressive.",1.1777777777777778,0.0316674561849588,180,151,26,3,sarcasm,positive
+3878,You are waring thin!,1.238888888888889,0.037258545142702,180,143,31,6,self-deprecating,negative
+4374,You said we need to start mixing things up!,1.2222222222222223,0.0390415554409005,180,149,22,9,incongruity-absurdity,neutral
+2711,"So, do you go to singles mixers often?",1.2777777777777777,0.0409808024240849,180,139,32,9,sarcasm,neutral

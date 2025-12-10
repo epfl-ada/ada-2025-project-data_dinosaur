@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I understand your surprise. It IS unusual to have a female pilot.,1.6340410219503418,0.0146673228731217,2779,1525,746,508,sarcasm,neutral
+I can't fly until I get all my passengers in a row.,1.642910447761194,0.0148686318024833,2680,1443,751,486,incongruity-absurdity,neutral
+We expect a little turbulence until we get out of shotgun range.,1.6667930250189538,0.0150617807879709,2638,1375,767,496,unknown,neutral
+"What’s crazier, me talking or you flying?",1.690392843251653,0.0156172533798599,2571,1327,713,531,sarcasm,neutral
+Join us next spring for the return flight.,1.669445602334306,0.0155042592304291,2399,1219,754,426,incongruity-absurdity,neutral
+Please form a V shaped line.,1.6263829787234043,0.015451703871891,2350,1262,704,384,incongruity-absurdity,neutral
+Ha! That rhymes with duck.,1.6646367986080906,0.0167510998765538,2299,1256,558,485,incongruity-absurdity,positive
+"Sorry about the turbulence but we literally ran into a friend of mine at 34,000 feet.",1.644789356984479,0.0161181455178102,2255,1203,650,402,sarcasm,neutral
+I 've done more water landings on the Hudson than that other guy,1.664590747330961,0.0163062732260379,2248,1175,652,421,sarcasm,neutral
+What is the difference between a co-pilot and a duck? A duck knows how to fly.,1.6267092069279854,0.0163440760960221,2194,1205,603,386,unknown,neutral
+"In the unlikely event of a water landing, I'm your guy.",1.6655933762649493,0.0160562364312903,2174,1094,713,367,unknown,neutral
+"Apologies for the slight delay on boarding sir, the cabin crew were just laying breakfast",1.6407046824293,0.0165159546370701,2157,1161,610,386,sarcasm,neutral
+"Duck! Just kidding, watch your step.",1.7343604108309991,0.016977478813786,2142,1021,669,452,unknown,neutral
+Better in the cockpit than the engine!,1.6777986829727187,0.0169912892938357,2126,1105,601,420,unknown,positive
+This plane is going d-o-w-n.,1.5944919278252612,0.0183066871206056,2106,1343,274,489,exaggeration,negative
+"Didn't expect to see a female pilot, huh?",1.637597911227154,0.0177936849756534,1915,1053,503,359,irony,negative
+"Relax,the co-pilot is a homing pigeon",1.6464,0.0172582716468014,1875,972,594,309,unknown,neutral
+Flight time today will be approximately 17 days at an altitude of 218 feet.,1.6693461950696675,0.0179955091532798,1866,974,535,357,incongruity-absurdity,neutral
+Thank you for migrating with us.,1.591380250954719,0.0169865557457268,1833,1012,558,263,irony,positive
+"Not to worry, sir - water landings are my specialty!",1.6417582417582417,0.0173662472003133,1820,942,588,290,sarcasm,positive
+Welcome aboard! Thank you for migrating with us today.,1.5953046394633874,0.0173149205309615,1789,988,537,264,sarcasm,positive
+Apologies for the delay--one of our crew members flew into the engine.,1.637776449491931,0.0188743027216539,1673,911,457,305,incongruity-absurdity,negative
+All the human pilots are working from home.”,1.6193895870736086,0.0185470022149756,1671,919,469,283,exaggeration,neutral
+Can I check your carrion?,1.6251518833535843,0.0194253032368375,1646,935,393,318,sarcasm,neutral
+"Don’t worry, I fly this route every winter.",1.6660527931246163,0.0183637688480898,1629,810,553,266,irony,positive
+Relax.  New York to Miami in October is practically hard wired in me.,1.641392169049099,0.0180622398479352,1609,814,558,237,sarcasm,neutral
+What's scarier is I still make more than female pilots.,1.6216045483259631,0.019149538829095,1583,872,438,273,sarcasm,negative
+Just follow everyone else. That’s what I do.,1.5997417688831503,0.0181721997873451,1549,830,509,210,sarcasm,neutral
+"I applied online, they just asked if I knew how to fly.",1.7286269430051813,0.0200454686274475,1544,745,473,326,irony,neutral
+"I know, right?  You don't see too many female pilots.",1.661697990926766,0.0198701706134893,1543,819,427,297,sarcasm,neutral

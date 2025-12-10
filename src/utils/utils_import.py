@@ -7,7 +7,7 @@ TOP_K = 30
 # =========================
 # Standard library imports
 # =========================
-import os, re, json, math, warnings, pathlib, time, csv, importlib
+import os, re, json, math, warnings, pathlib, time, csv, importlib, spacy
 from io import StringIO
 from collections import Counter, defaultdict
 from typing import List, Dict, Optional, Tuple
@@ -59,6 +59,10 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA, TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
+
+
+from gensim.corpora import Dictionary
+from gensim.models import Phrases
 
 # =========================
 # NLTK

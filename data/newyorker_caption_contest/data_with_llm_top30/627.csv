@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,Weren't there three of you?,2.054905073758021,0.0064925702190462,15117,4424,5439,5254,sarcasm,neutral
+2,"Table for two, by the window. Is there a problem?",2.026678265912716,0.0064723150824161,13794,3806,5814,4174,sarcasm,neutral
+4,"Ignore the screams, sir. I’ll get you a new fork.",1.986820683773936,0.0071367233118009,12899,4323,4423,4153,sarcasm,negative
+5,Welcome back. The Chef enjoyed reading your pithy critique on Yelp.,1.9842049267534168,0.007256835672047,12219,4029,4354,3836,sarcasm,positive
+0,I recommend the pigeon. It's locally sourced.,2.1391173015606646,0.0068413041859156,11918,2610,5040,4268,incongruity-absurdity,positive
+11,You must be the couple with the Groupon.,1.950675675675676,0.007261460123617,11840,4002,4420,3418,sarcasm,neutral
+9,Would you like to hear about our fall specials?,1.9620480382938712,0.0073579019289769,11699,3935,4273,3491,unknown,neutral
+8,"If you find it too drafty, I can close the window.",1.9670956041108905,0.0073733642648484,11579,3841,4278,3460,wit-surprise,neutral
+3,Any dessert before you hit the road?,1.9995676610462605,0.0075745297882196,11565,3839,3892,3834,sarcasm,neutral
+7,I recommend starting with an order of wings.,1.980215990561757,0.0075637145650152,11019,3584,4069,3366,unknown,neutral
+6,Yes this is the smoking section.,1.9809408702119744,0.0075356739093081,10756,3389,4183,3184,sarcasm,neutral
+12,"I'm terribly sorry, I'll send for another violinist right away.",1.9249902837155075,0.0078339553253381,10292,3665,3734,2893,sarcasm,negative
+10,"Is that far enough away from the kitchen to suit you, sir?",1.952875106824564,0.0084955881078885,8191,2623,3331,2237,sarcasm,neutral
+17,The perch is excellent.,1.8051699987266008,0.008899710636048,7853,3356,2671,1826,incongruity-absurdity,positive
+20,Is this far enough from the kitchen for sir's liking?,1.7678388090349075,0.0086392677688986,7792,3380,2841,1571,sarcasm,neutral
+14,May I suggest a little something to take the edge off?,1.8358015068849047,0.0088991857933807,7698,3082,2798,1818,sarcasm,neutral
+21,The maitre d’ thanks you for the two dollars and hopes you enjoy your meal.,1.7531909176407363,0.0088492506064904,7443,3314,2652,1477,sarcasm,positive
+25,"Yes, Madame, the pigeon is raised locally.",1.7224102911306702,0.0087184260416032,7385,3382,2671,1332,incongruity-absurdity,neutral
+19,"You reserved a table--and I quote--'away from everyone, with an unobstructed view of the city'.""",1.771977197719772,0.0093154167882639,6666,2861,2464,1341,wit-surprise,neutral
+23,"You can come back in, sir. Your wife just left.",1.7436988027725269,0.0098787940908267,6348,2988,1999,1361,sarcasm,neutral
+30,The bird drop soup is excellent.,1.6818470326880357,0.0097813007381664,6302,3221,1865,1216,unknown,positive
+16,"Sorry, after last night, we no longer serve alcohol at this table.",1.8296410784818824,0.0101010386615017,5823,2310,2195,1318,sarcasm,negative
+24,Welcome to our Sarah Huckabee Sanders table,1.7265158371040723,0.0108059158004821,5525,2744,1548,1233,sarcasm,neutral
+22,What do I recommend?  Don’t look down.,1.7445878848063554,0.0108531325095847,5035,2300,1721,1014,incongruity-absurdity,neutral
+13,Might I recommend the pigeon.  It's locally sourced.,1.8796028134050475,0.011563487771978,4834,1888,1640,1306,sarcasm,positive
+31,"Since you were talking on your cell phones, we seated you where we have the best reception.",1.6779551337359793,0.0110762187774,4636,2305,1519,812,sarcasm,positive
+26,They're not menus—they're waivers.,1.7115430196729082,0.011690122952939,4219,2000,1436,783,incongruity-absurdity,neutral
+40,Never let it be said we don't serve Administration officials.,1.613846903949293,0.0117495052714009,4102,2259,1168,675,sarcasm,neutral
+33,It was this or 11:00 PM.,1.6559509202453988,0.0113738303409182,4075,2016,1445,614,irony,neutral
+28,LIMERICK : A couple named Albert and Flo...Went for pasta before catching a show...While seated on a ledge...He fell over the edge...And Al dente'd the taxi below.,1.7069143446852426,0.0128162700979849,3876,1968,1076,832,unknown,neutral

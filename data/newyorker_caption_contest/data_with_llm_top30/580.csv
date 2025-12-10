@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"When he starts acting like a king, I'll start acting like a guard.",1.949481865284974,0.0099111848845916,6176,2037,2414,1725,self-deprecating,neutral
+3,"Technically, I'm guarding two posts.",1.8689320388349515,0.0109069220771913,5150,1959,1907,1284,unknown,neutral
+1,I'm swinging in the reign.,1.905344113587064,0.0111991431180691,5071,1875,1801,1395,irony,neutral
+2,I kind of like it when he's away on the Crusades.,1.8718256348730251,0.0104810132597165,5001,1735,2172,1094,sarcasm,positive
+7,It's a gift from King Hammacher of Schlemmer.,1.8375026277065376,0.0115409122490856,4757,1956,1618,1183,wit-surprise,neutral
+5,Wake me when things are great again.,1.863953226894536,0.0117779634537813,4447,1715,1622,1110,sarcasm,positive
+12,"He said one knight stand, didn’t he?",1.7732949087415946,0.0125447743114559,4164,1943,1222,999,wit-surprise,neutral
+14,"Dude, it's a hundred years war.",1.764676113360324,0.0124625585390743,3952,1787,1308,857,irony,negative
+11,I've been suspended.,1.7825311942959,0.0119571573228437,3927,1622,1537,768,self-deprecating,negative
+10,Wait! Did he tell me to take the hammock or the hemlock?,1.7858301784748514,0.0125122960026031,3698,1551,1388,759,wit-surprise,neutral
+20,I shall not be swayed!,1.7200861273454322,0.0130206113631121,3251,1478,1205,568,sarcasm,neutral
+22,"It's fine, he'll be watching Fox for at least the next hour.",1.711645101663586,0.0137315299087986,3246,1596,990,660,sarcasm,neutral
+19,I was sentenced to hang.,1.728143342601174,0.01313334538122,3237,1463,1191,583,unknown,negative
+15,"I'm telling you, 'standing guard' is just an expression.",1.7555831265508686,0.0130492418793752,3224,1375,1262,587,sarcasm,neutral
+25,This time rock me with the blunt end.,1.6888888888888889,0.0140196599015796,3060,1544,924,592,sarcasm,neutral
+9,Don't worry. He's never here. He thinks the palace is a dump.,1.791,0.0145929810574522,3000,1337,953,710,incongruity-absurdity,negative
+26,That's not what the king meant when he asked you to work the swing shift.,1.6867184859749915,0.0134040462077262,2959,1395,1096,468,wit-surprise,negative
+23,Just swing in' in the reign!,1.6974760042659085,0.0144670139193722,2813,1382,900,531,unknown,neutral
+8,I'm just swinging in the reign.,1.8222730739893207,0.0153780327166938,2622,1087,914,621,sarcasm,neutral
+30,"It's nice, but I'd rather we got dental.",1.6554791750909823,0.0146746889487517,2473,1231,863,379,sarcasm,neutral
+31,You may as well make yourself comfortable. He went to try and make peace with the French.,1.6509394572025051,0.0150239252398766,2395,1211,809,375,wit-surprise,neutral
+28,"No, all he said was ""no sitting on my throne while I'm gone""",1.6681534344335416,0.0153062598850664,2242,1084,818,340,irony,neutral
+34,Do you think I'm too easily swayed?,1.622972972972973,0.0152751618055046,2220,1151,755,314,self-deprecating,neutral
+4,"No, I will not push you again.",1.8644382544103992,0.016538114193307,2154,800,846,508,sarcasm,negative
+36,"The Airbnb listing did say it was ""fit for a king.""",1.6149598393574298,0.0160814208639526,1992,1044,671,277,irony,neutral
+35,Going union was the best decision we ever made.,1.6157709693621296,0.0165335095570477,1991,1071,614,306,sarcasm,positive
+32,It's not a huge deal. You just get a letter from the court doctor about bad knees.,1.63103802672148,0.0165848648587391,1946,1012,640,294,self-deprecating,negative
+38,It's ok they always blow the trumpets before he comes in.,1.6068281938325992,0.0163701181410146,1816,939,652,225,irony,neutral
+39,And now is the summer of my content.,1.605027932960894,0.0171489377385297,1790,964,569,257,wit-surprise,positive
+33,It's not my fault you only have one pillar.,1.625573394495413,0.0178311300085301,1744,932,533,279,sarcasm,negative

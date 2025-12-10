@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4581,He practically ran away from his date when he saw me and has been sweet on me ever since!,1.2017543859649122,0.0293945717820731,228,186,38,4,sarcasm,positive
+1399,This wine is repellent.,1.341121495327103,0.0403187387471167,214,154,47,13,sarcasm,negative
+476,I think Harold here has some thoughts on the benefits of climate change.,1.425233644859813,0.0424925791934459,214,138,61,15,irony,neutral
+2481,Let's toast to GMOs!,1.2877358490566038,0.0370633881638991,212,160,43,9,exaggeration,positive
+1320,"No, you see, the Bloody Mary doesn’t actually have blood in it.",1.3459715639810426,0.0439897189085625,211,157,35,19,incongruity-absurdity,negative
+1319,'Is that a Bloody Mary?',1.3459715639810426,0.0402385338135177,211,150,49,12,irony,neutral
+3251,Have you tried the blood martinis? They're to die for!,1.2559241706161135,0.0356074078299141,211,165,38,8,incongruity-absurdity,positive
+1535,I'd like you two to meet the First Lady of Minnesota.,1.3333333333333333,0.0412458816593164,210,154,42,14,wit-surprise,neutral
+531,"Before you, our landlord was the biggest bloodsucker we knew.",1.416267942583732,0.0471844089074545,209,145,41,23,unknown,negative
+3794,"Yes, it a red.",1.2355769230769231,0.0345703880921471,208,166,35,7,irony,neutral
+3276,There's a result of  global warming,1.2548076923076923,0.0371726990881662,208,165,33,10,irony,neutral
+2581,Don't worry. She prefers Bloody Marys.,1.2836538461538465,0.0367861963871383,208,157,43,8,sarcasm,neutral
+353,We didn't meet on the Net. We met in the net.,1.4444444444444444,0.0436135453973887,207,130,62,15,incongruity-absurdity,neutral
+3119,And let me introduce you to Melvin......Harry made him with his home-made CRISPR,1.2608695652173914,0.0374836529190828,207,163,34,10,irony,positive
+5801,He's well house party-trained.,1.1304347826086956,0.0244436528425665,207,181,25,1,sarcasm,neutral
+231,That whole Lyme disease thing?  Fake news.,1.4734299516908214,0.0506983880389378,207,138,40,29,exaggeration,negative
+727,He just wants to get a little buzz.,1.3932038834951457,0.0459463816235591,206,145,41,20,sarcasm,neutral
+4524,It's really their party and we're all just guests...,1.203883495145631,0.0335156447343316,206,171,28,7,incongruity-absurdity,neutral
+2196,"This is Mo, remember meeting his great-great-great grandpa a couple weeks back?",1.300970873786408,0.0399323978308942,206,156,38,12,irony,neutral
+5242,Hey! Plastic straws are out. I brought my own. Chess anyone?,1.1699029126213591,0.0311791315519636,206,177,23,6,sarcasm,positive
+4732,"How 'bout a Bloody, Mary?",1.195121951219512,0.0317642868255018,205,170,30,5,sarcasm,neutral
+2947,"Apparently, the mosquitos are everywhere this year, I don't see it!",1.2682926829268293,0.0391943929780016,205,162,31,12,sarcasm,negative
+1166,Anybody for a stinger?,1.35609756097561,0.0445512397299167,205,150,37,18,sarcasm,neutral
+663,Mark started with south beach then Atkins and is now entirely keto.,1.4,0.0451364899606564,205,141,46,18,irony,neutral
+2913,I was just taking my friend here to meet the host.,1.2696078431372548,0.0381182157651076,204,159,35,10,irony,neutral
+2788,What kind of host would I be if I didn't introduce my parasite to the group?,1.2745098039215683,0.0369785947949954,204,156,40,8,unknown,negative
+2228,"Typical stereotypes, I asked for a white.",1.2990196078431373,0.0407478043387217,204,156,35,13,sarcasm,negative
+3902,Always ready to drop in for a Bloody Mary...,1.2303921568627452,0.0348069313845704,204,164,33,7,sarcasm,neutral
+4038,Hmm...looks like a Bloody Mary to me...,1.2254901960784317,0.0353083350309797,204,166,30,8,irony,neutral
+1539,"No worries, he prefers a Merlot to a Type-O",1.3333333333333333,0.0403229181907064,204,147,46,11,sarcasm,neutral

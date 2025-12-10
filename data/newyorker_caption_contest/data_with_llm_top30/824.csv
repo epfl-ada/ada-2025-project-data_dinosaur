@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+What's gotten into you?,1.7031924072476272,0.0102352988615494,5795,2874,1767,1154,sarcasm,neutral
+Your stomach is still growling.,1.6654812180484553,0.0115413314126439,4499,2352,1300,847,unknown,negative
+You do realize that was a lawn ornament.,1.7075892857142858,0.0120609965128557,4480,2306,1178,996,unknown,neutral
+Your stomach is growling.,1.6826967326277036,0.0117282417666636,4346,2207,1311,828,unknown,negative
+And this is why we don't get invited to dinner parties.,1.6638448935008192,0.0125488792613436,3662,1878,1137,647,self-deprecating,negative
+Are you going to finish that?,1.6709474885844748,0.0127890045408089,3504,1770,1117,617,sarcasm,neutral
+The horns were painful going in?  Just wait.,1.7099733649008582,0.0137937828895949,3379,1718,923,738,irony,negative
+But we had dinner plans next month!,1.6465960665658097,0.0129851684125765,3305,1711,1051,543,irony,positive
+"I can't do lunch today, but I'm free in 6 months",1.7008769080870412,0.0138407583842685,3079,1506,988,585,exaggeration,neutral
+"Nice going, now they’re extinct.",1.6796491228070176,0.0146157450027582,2850,1470,823,557,irony,negative
+So your date didn’t go down well?,1.66765031353744,0.014838153053121,2711,1409,794,508,sarcasm,negative
+This is what happens when you go to an all-you-can-kill buffet.,1.5883054892601431,0.0159085739717209,2514,1530,489,495,exaggeration,negative
+Exactly which pride did you swallow,1.6043863348797975,0.0154591002134205,2371,1326,657,388,sarcasm,negative
+"I warned you, a moment on the lips, a lifetime on the hips.",1.6351638995317157,0.015378150125356,2349,1237,732,380,incongruity-absurdity,neutral
+No way I'm splitting the check.,1.6376999567661046,0.0156418206637518,2313,1225,701,387,sarcasm,negative
+This too shall pass.,1.671497584541063,0.0157788145219198,2277,1142,741,394,incongruity-absurdity,neutral
+I'm trying to eat more whole foods too.,1.5797943674564148,0.015827335408248,2237,1294,589,354,irony,neutral
+"Nope, haven’t seen him.",1.6444344299233888,0.0159904274379053,2219,1164,680,375,sarcasm,neutral
+Looks like I caught you at the tail end of your meal.,1.733210671573137,0.0167237963524442,2174,1028,698,448,sarcasm,neutral
+"I said “swallow your pride,” not “swallow a pride.”",1.5803008248423096,0.0169233788362445,2061,1222,482,357,wit-surprise,negative
+You've got a little something between your teeth.,1.6125244618395302,0.0160604344687174,2044,1088,660,296,sarcasm,neutral
+Did you get that at whole foods?,1.6948818897637796,0.0174093184910934,2032,1030,592,410,sarcasm,neutral
+I was saving that for company.,1.67595818815331,0.0166776189330368,2009,992,676,341,unknown,neutral
+Sometimes it seems as if you inhale your food without even constricting.,1.6137861125190065,0.0164566914355069,1973,1055,625,293,incongruity-absurdity,neutral
+"Not cool Steve, you said you just wanted one bite.",1.5944017563117454,0.0168432661380758,1822,990,581,251,sarcasm,negative
+You've got a little something stuck in your teeth.,1.629120879120879,0.0171053858831096,1820,947,601,272,sarcasm,negative
+Haven’t seen him.,1.647220693450743,0.0173639068204381,1817,931,596,290,sarcasm,neutral
+He’s wagging his tail. That means he likes you.,1.6163626312880044,0.0178126715572554,1809,999,505,305,incongruity-absurdity,positive
+"So, does it taste like chicken?",1.6141906873614191,0.0169952235328947,1804,952,596,256,unknown,neutral
+"I hate to say it, but you’re full of bull.",1.614653243847875,0.0172566888825988,1788,953,571,264,sarcasm,negative

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3,The sperm bank class action lawsuit clients are here.,2.162433155080214,0.0104237965127839,5984,1538,1936,2510,irony,neutral
+1,"On second thought, bring the name tags.",2.189596167008898,0.0095709553169344,5844,1115,2506,2223,unknown,neutral
+0,"Hold on, the Senate Committee on Women's Health is getting out.",2.1919472405414786,0.0106848201218167,5762,1448,1760,2554,irony,neutral
+2,"Sir, the President's Council on Women's Health has arrived.",2.175617109478048,0.0112317691984555,5307,1392,1591,2324,sarcasm,neutral
+9,Tell Jim to stop messing with the 3D printer.,2.0213708124759338,0.0107113467881835,5194,1493,2097,1604,sarcasm,negative
+8,"Okay, describe him again.",2.03484602917342,0.0108847259018728,4936,1360,2044,1532,unknown,neutral
+7,"That's correct, sir. The door to accounting was left open and now they're loose.",2.070809248554913,0.0113961046917256,4844,1364,1773,1707,sarcasm,neutral
+12,The diversity training seminar looks like it's wrapping up.,2.004384133611691,0.0113573118513272,4790,1469,1831,1490,irony,neutral
+16,Describe him.,1.956199607757681,0.0115612940345177,4589,1512,1766,1311,irony,neutral
+11,"Hey Jim, on second thought, we're going to need those name tags.",2.011394712853236,0.0111271539854179,4388,1167,2004,1217,incongruity-absurdity,neutral
+6,"It's Mr. Wilson, sir. I think he's gone viral.",2.077159037281737,0.0120325499111007,4238,1149,1613,1476,sarcasm,neutral
+5,Remember when you wished we had a hundred just like him?,2.111165166626125,0.0116677715168754,4111,947,1760,1404,sarcasm,neutral
+20,I'm just not convinced they are as committed to diversity as they say.,1.931119311193112,0.0118062729690173,4065,1301,1743,1021,sarcasm,negative
+17,"Yes, of course we can spare one.",1.941851568477429,0.012111752508188,3921,1248,1653,1020,sarcasm,positive
+21,I'm just not sure I'm going to fit in at this company.,1.9297205757832343,0.0126163458409972,3543,1132,1528,883,self-deprecating,negative
+27,I definitely stand out from the other applicants so I think I have a shot.,1.8841359773371105,0.0125357431369407,3530,1207,1525,798,self-deprecating,positive
+4,We may have a problem in the copy room.,2.1119555685472085,0.0133594396431674,3421,874,1290,1257,incongruity-absurdity,neutral
+22,"Yes, this is the office of Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, Haber, and Haber.",1.9079324625676968,0.014085872862109,3139,1135,1158,846,unknown,neutral
+32,"No! I asked for copies of THE bill, not Bill.",1.8423127463863336,0.0140338242434017,3044,1190,1144,710,incongruity-absurdity,neutral
+14,We might have been too specific in our job description.,1.9891518737672584,0.0137565920425904,3042,892,1291,859,incongruity-absurdity,neutral
+25,"There was a typo on his resume. Apparently he's ""one AND a million"".",1.9015509103169248,0.0142559143965365,2966,1054,1150,762,incongruity-absurdity,negative
+35,I'm not sure we're hitting our diversity goals.,1.8020006898930665,0.0135931872786063,2899,1120,1233,546,unknown,negative
+23,We're starting to see the effects of Trump's immigration restrictions.,1.9040084388185652,0.0152516708655026,2844,1090,937,817,irony,negative
+33,"We'll need 129 turkey-on-white, mayo only, and one Caesar salad, extra garlic.",1.83206106870229,0.0151074895493626,2620,1040,980,600,incongruity-absurdity,neutral
+36,Remember how I told Leonard I'd like to see more of him?,1.7910562837316886,0.014696352910542,2594,1054,1028,512,irony,neutral
+37,"Yes, he blends right in.",1.7860576923076923,0.0144134658298133,2496,971,1088,437,incongruity-absurdity,positive
+31,"You were right. You've seen one accountant, you've seen em all.",1.8456889605157127,0.0153339782938004,2482,945,975,562,sarcasm,positive
+40,There may be a problem with our random sample.,1.7586666666666666,0.0158169710217772,2250,970,853,427,irony,neutral
+15,...and I'll be the one in high heels.,1.9594661393969357,0.0172464214017407,2023,651,803,569,self-deprecating,neutral
+49,"The bald guy, with the mustache and glasses? Yeah, I see him.",1.6957618567103936,0.0171256191197411,1982,969,647,366,sarcasm,neutral

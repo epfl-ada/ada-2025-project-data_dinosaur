@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,"If he can be President, I can fly.",1.8477323676495947,0.0109079732837637,5799,2509,1664,1626,self-deprecating,neutral
+6,"Yeah, but I identify as a pigeon.",1.818561727320216,0.010344778979282,5743,2380,2025,1338,self-deprecating,neutral
+8,"So, all I do is land in the park and people toss food at me?",1.8049508426966288,0.0101839328772223,5696,2346,2115,1235,irony,negative
+2,"""Fine, but for our second date you are coming sewer rafting"".",1.838000708968451,0.0105254922382298,5642,2294,1968,1380,sarcasm,neutral
+7,"Dress for the job you want, not the job you have.",1.8134779516358464,0.0102882879351854,5624,2296,2081,1247,unknown,neutral
+10,"You need good wings to fly; a lot of people don’t know that. I know wings. I’ve got the best wings! No one ever mentions that. No one has better wings, believe me! I’m going to do so much flying you’re going to get tired of seeing me flying!",1.7769771212394163,0.0111612950932771,5551,2676,1437,1438,exaggeration,positive
+0,"Believe me, I’ve tested a lot worse things when I was in pharmaceuticals.",1.8785766691122523,0.0108174502776386,5452,2110,1894,1448,wit-surprise,negative
+12,Wait... I was adopted?,1.7723832379545874,0.0106222890462841,5417,2412,1826,1179,self-deprecating,neutral
+14,Either way I’ll be a smash on Broadway.,1.7665391969407265,0.0109247424677914,5230,2385,1681,1164,sarcasm,positive
+16,Last question. I am your first student?,1.7501966955153423,0.0106893303459881,5084,2270,1814,1000,irony,neutral
+25,"Stunt work is okay, but what I'd really like to do is direct.",1.708290475210862,0.0108796588259924,4861,2314,1651,896,wit-surprise,positive
+4,I don't know Mom. I'm starting to think maybe I was adopted.,1.834063869755792,0.0112589281617199,4791,1918,1750,1123,self-deprecating,negative
+3,"Okay, just one more time to clarify...statues are worth 5, newly washed cars 25 and investment portfolio managers...125?",1.835086243163652,0.0116194827941276,4754,1982,1574,1198,wit-surprise,neutral
+30,Because it still beats flying United.,1.6926818950930629,0.0114312731201191,4728,2410,1361,957,sarcasm,neutral
+22,You also told me he couldn't possibly get elected.,1.7194444444444446,0.0115528068128845,4680,2302,1389,989,sarcasm,negative
+23,"According to my 23andMe results, I’m actually 17% pigeon.",1.71280276816609,0.0109146467636392,4624,2128,1696,800,self-deprecating,neutral
+26,"To you, rat-with-wings is an insult. To me it's a dream.",1.7057645225906966,0.0115341537413844,4493,2198,1419,876,wit-surprise,negative
+28,"I don't need lessons, because, trust me, I'm like a really smart person.",1.7015158270173874,0.0119503843150164,4486,2306,1213,967,self-deprecating,positive
+20,I got the design from the Da Vinci book I was eating.,1.7244167244167243,0.0115287504213321,4329,2006,1510,813,wit-surprise,neutral
+18,"I realize I'm no Batman, but you're no Robin either.",1.7339514978601998,0.0120622097892255,4206,1995,1335,876,sarcasm,neutral
+13,And you poop at the same time?!,1.7712240868706812,0.0123828118441125,4052,1828,1323,901,irony,negative
+31,"Yeah, and if God wanted birds to lecture me, he would've given you a brain.",1.6890424481737414,0.0121375123111784,4052,2035,1242,775,sarcasm,negative
+19,I'm tired of flying commercial. They treat you like vermin.,1.7277915632754342,0.0121486313041505,4030,1896,1335,799,exaggeration,negative
+32,"I may not be the hero New York City needs, but I am the hero it deserves.",1.6889632107023411,0.0123476468804667,3887,1944,1208,735,self-deprecating,positive
+27,"Yes, it is risky, but I can't stand another day of lab work.",1.701776976564512,0.0120276918441912,3883,1842,1357,684,exaggeration,negative
+5,"So he says “pigeons are just rats with wings.” And I was like, “whoa… Rats. With. Wings.”",1.8256721595836949,0.0137331527791576,3459,1482,1098,879,incongruity-absurdity,neutral
+35,How come I never get to be in the control group?,1.667158453821186,0.0129533825287963,3389,1715,1087,587,self-deprecating,negative
+37,"I may be no Batman, but you’re no Robin either.",1.6557971014492754,0.0133336475806697,3312,1741,970,601,sarcasm,neutral
+9,It was either this or fly United.,1.7805842970176506,0.0139969469186876,3286,1497,1013,776,unknown,neutral
+41,So you say all I need to do is fly to the park and people will feed me?,1.650624428876028,0.0126502011218954,3283,1636,1158,489,irony,neutral

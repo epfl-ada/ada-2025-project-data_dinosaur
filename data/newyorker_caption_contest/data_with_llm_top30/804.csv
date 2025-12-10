@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Please tell me that the wet spot on my back is from the fishbowl.,1.7448700410396716,0.0145511382740916,2924,1373,924,627,sarcasm,negative
+We were all hoping for a treat tonight,1.6890372452565003,0.0143002980303544,2846,1408,915,523,incongruity-absurdity,positive
+"Quick! What has 4 heads, 3 tails, no dignity and desperately needs a martini?",1.704487413352791,0.0150301870973306,2741,1373,805,563,self-deprecating,negative
+TAKE THE PICTURE TAKE THE PICTURE TAKE THE PICTURE!!!,1.733382030679328,0.0148715237729045,2738,1291,886,561,unknown,neutral
+The real trick's going to be getting on the horse.,1.7331118493909192,0.0149519683860962,2709,1278,876,555,wit-surprise,neutral
+It just doesn’t feel like anything I do impresses you anymore.,1.755331088664422,0.0146743394119065,2673,1176,975,522,sarcasm,negative
+And that’s how cryptocurrency works.,1.7996965098634294,0.0160363993558166,2636,1210,744,682,wit-surprise,neutral
+"if you can do that, i don’t see what’s stopping you from emptying the dishwasher",1.7070088088854845,0.0154223052850119,2611,1305,766,540,sarcasm,neutral
+You're home early.,1.8581395348837209,0.0163102571916167,2580,1094,758,728,sarcasm,neutral
+"So, you told me to get my act together.  Now what?",1.7505030181086518,0.0152911834833653,2485,1109,887,489,self-deprecating,negative
+"Okay, now hand me the unicycle.",1.660876757650951,0.0150963662658791,2418,1215,808,395,unknown,neutral
+It's called downward dogcatfish.,1.7452202826267664,0.0160727097820834,2406,1132,755,519,unknown,neutral
+"Well, you said you were sick of my dog and pony show",1.6627417998317915,0.015139145555099,2378,1184,812,382,sarcasm,negative
+"I’m just a guy, with a fish, on a cat, on a dog, on a man, on his hands and knees begging you to forgive me.",1.6910016977928692,0.0158452878975881,2356,1173,738,445,irony,negative
+"Actually, could you answer the door this time?",1.6738178633975482,0.0151574579405428,2284,1093,843,348,sarcasm,neutral
+"It took 2.5 years of a pandemic, but we finally nailed it.",1.741019955654102,0.0160219128392066,2255,1020,799,436,exaggeration,positive
+At least I got the monkey off my back.,1.742354031510658,0.0165096184549647,2158,984,746,428,incongruity-absurdity,negative
+Wait'll you see the dismount!,1.732806691449814,0.0162966703257366,2152,979,769,404,irony,neutral
+Carefully place the wine glass on my head.,1.7229981378026071,0.0164778633001721,2148,1006,731,411,incongruity-absurdity,neutral
+What makes you think I've been working from home too long?,1.7000955109837632,0.0160972321810018,2094,976,770,348,self-deprecating,neutral
+Are you sure you want to bring a baby into this?,1.6481927710843374,0.0160975284098634,2075,1051,703,321,sarcasm,negative
+I hope that's aquarium waterI feel!,1.660635696821516,0.0168335990701446,2045,1057,625,363,irony,neutral
+"Honey, I think our marriage counselor might be messing with us.",1.6424003935071323,0.0165757118737273,2033,1061,638,334,sarcasm,negative
+It was their idea.,1.7044979079497908,0.0172245795757362,1912,908,661,343,sarcasm,neutral
+The one time you don't have your phone.,1.691618344754876,0.0171882398741878,1897,914,654,329,unknown,neutral
+"Here's a riddle: What has twelve limbs, eight eyes, four fins, and wants a divorce?",1.6918542336548767,0.0184436511302305,1866,968,505,393,wit-surprise,neutral
+"Whatever you do, don't say ""sit""!",1.75303197353914,0.0184816869826949,1814,841,580,393,incongruity-absurdity,neutral
+The hardest part was getting the fish to stay in the middle.,1.6442199775533108,0.017683381983893,1782,926,564,292,incongruity-absurdity,negative
+Can we talk about this later? I'm balancing at a lot at the moment.,1.64985835694051,0.0171862363211979,1765,877,629,259,sarcasm,neutral
+I don't complain about your drinking.,1.6315179606025492,0.0179905187433329,1726,917,528,281,sarcasm,neutral

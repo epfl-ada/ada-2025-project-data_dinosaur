@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4067,We should have been more specific when we ordered a new lab.,1.0,0.0002198043754344,4550,4550,0,0,incongruity-absurdity,neutral
+4071,"Good luck, Zorg. Remember, you hate cats and mailmen.",1.0,0.00022688599125,4408,4408,0,0,sarcasm,positive
+4060,"They feed him, bath him, and pick up his poop. He seems to be their leader.",1.0,0.0002276607869046,4393,4393,0,0,irony,neutral
+4058,What do you mean you need to go out?,1.0,0.0002303882056525,4341,4341,0,0,sarcasm,neutral
+4057,"When we beam you back up the next time, we expect you to have the stick.",1.0,0.0002330730699896,4291,4291,0,0,sarcasm,neutral
+4093,Strange place for an antenna.,1.0,0.0002337267749979,4279,4279,0,0,incongruity-absurdity,negative
+4094,"We don't usually take in creatures from shithole planets, but you're such a good boy.",1.0,0.0002347693407417,4260,4260,0,0,sarcasm,negative
+4092,Again? You just went out.,1.0,0.0002349348072123,4257,4257,0,0,sarcasm,neutral
+4091,You beamed him up. You feed him.,1.0,0.000244947950398,4083,4083,0,0,unknown,neutral
+4086,I'd vote to keep this one. He's the only earthling we've picked up who's happy to see us.,1.0,0.0002503442252682,3995,3995,0,0,irony,positive
+4026,"Results are still preliminary, but all indications suggest he is a good boy.",1.0,0.0002526847777589,3958,3958,0,0,irony,positive
+4084,Tell Greg in Teleportation this wasn't the son of a bitch we asked for.,1.0,0.0002557217767994,3911,3911,0,0,sarcasm,negative
+4088,They took me to their leader. This guy seemed a bit sharper.,1.0,0.0002557871871539,3910,3910,0,0,wit-surprise,neutral
+4062,"We must be really lost! His tag says ""Pluto"".",1.0,0.0002588326668498,3864,3864,0,0,incongruity-absurdity,negative
+4023,He says he wants to stick his head out the window.,1.0,0.0002634699008502,3796,3796,0,0,unknown,negative
+4074,"...and you say you've trained them to feed you, open doors for you and pick up your poop?",1.0,0.0002699419649368,3705,3705,0,0,unknown,neutral
+4050,He loves it when we crank it up to Warp Five and then open the window for him.,1.0,0.0002721458727059,3675,3675,0,0,irony,positive
+4085,We know about your leader. Take us somewhere else.,1.0,0.0002724424490609,3671,3671,0,0,sarcasm,negative
+4063,"I think it's a god, but I may have that backwards..",1.0,0.0002748385349572,3639,3639,0,0,irony,neutral
+4051,We understand you have our homework.,1.0,0.0002764340040226,3618,3618,0,0,sarcasm,neutral
+4089,The scan shows it's full of someone's homework.,1.0,0.000277585013083,3603,3603,0,0,irony,neutral
+4082,"This is not the fat, yellow haired, one we aimed at but it is much smarter.",1.0,0.0002830055214409,3534,3534,0,0,irony,neutral
+4075,We found it tethered to an inferior lifeform.,1.0,0.0002915876980982,3430,3430,0,0,irony,negative
+156,"If you want to know how to enslave the human race, you really should be talking to the cat.",1.0,0.0002977519759065,3359,3359,0,0,wit-surprise,negative
+4021,"Unconditional love. Friendly. Loyal. Seriously, it is Earth's most advanced life-form.",1.0,0.0003000750221322,3333,3333,0,0,irony,positive
+4028,Our search for unconditional love is over.,1.0,0.00030916679918,3235,3235,0,0,incongruity-absurdity,negative
+4022,"Dude, they'll find me. I have a chip!",1.0,0.000309645459664,3230,3230,0,0,self-deprecating,neutral
+4059,"When you rub the underside, the antenna goes haywire.",1.0,0.0003113809783963,3212,3212,0,0,incongruity-absurdity,neutral
+4009,I think we've found the wrong Pluto.,1.0,0.0003116721247132,3209,3209,0,0,irony,negative
+4056,"Before we land, let's send down the Rover.",1.0,0.0003135287701168,3190,3190,0,0,incongruity-absurdity,neutral

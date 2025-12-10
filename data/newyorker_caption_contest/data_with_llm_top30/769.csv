@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"His favorite book is A Farewell to Arms, so don't get too close.",1.9067941764202112,0.0099718756190153,7006,2797,2065,2144,sarcasm,neutral
+What kind of dog was it?,1.8067555813279212,0.0100512131280444,6898,3201,1830,1867,unknown,neutral
+"…yeah, we ordered from the wrong Amazon.",1.8587918430165449,0.0116753047648678,5198,2260,1412,1526,sarcasm,negative
+It's not really a book signing.  More of an eat and greet.,1.8600137017583924,0.0122548977121954,4379,1789,1414,1176,incongruity-absurdity,neutral
+"Trying to make it feel more like Amazon. I mean, the Amazon.",2.1390728476821192,0.0133857379878313,4228,1348,944,1936,irony,neutral
+"The books under him are for sale too, but they cost an arm and a leg.",1.7975897688145597,0.0128716961671704,4066,1864,1161,1041,incongruity-absurdity,neutral
+I’d take that belt off if I were you.,1.8163884673748103,0.0125063584315814,3954,1652,1376,926,sarcasm,neutral
+My associate wants to know if you are planning to purchase the book you put in your pocket.,1.7836192584394024,0.0129234627247339,3614,1566,1264,784,sarcasm,neutral
+"Yeah, business is off some, but shoplifting is not a problem anymore.",1.8,0.0131026869106936,3270,1310,1304,656,irony,negative
+Clyde here handles returns.,1.7925879788227967,0.0136264529695888,3211,1359,1159,693,wit-surprise,neutral
+Your shoes reminds him of someone he once knew.,1.758221108675227,0.0137728548217959,3193,1446,1073,674,wit-surprise,neutral
+Welcome to Florida where the wildlife is smarter than the governor,1.8135537190082645,0.0154262405878792,3025,1423,743,859,irony,positive
+That book will cost you an arm and a leg.,1.756594323873122,0.014244872040821,2995,1363,998,634,incongruity-absurdity,negative
+"He won’t bite you, he has a reptile dysfunction.",1.825354012137559,0.0154070251660543,2966,1348,788,830,incongruity-absurdity,negative
+"Voracious, yes. Reader, no.",1.8369068541300528,0.0149909721485542,2845,1179,951,715,unknown,neutral
+Florida runaway. He’s terrified of the Governor.,1.75408670931059,0.0153692939585957,2814,1366,774,674,irony,negative
+You’d look smug too if you finished Moby Dick in one sitting.,1.7419122933141624,0.0146509445192552,2782,1282,936,564,wit-surprise,neutral
+"Go ahead, ask him anything.  He's a voracious reader.",1.7394442439552509,0.0152790432925073,2771,1351,791,629,wit-surprise,positive
+"Well, we got a spider in to get rid of the flies, and it just escalated from there…",1.847046031170714,0.0153436887335256,2759,1139,903,717,irony,neutral
+"The customer said it's a service animal, but I think that's a croc.",1.842930029154519,0.015409697582768,2744,1143,889,712,incongruity-absurdity,neutral
+We've found that he really enjoys more seasoned authors.,1.8082706766917296,0.0148997847708997,2660,1089,992,579,wit-surprise,positive
+"It’s not so much the books, it’s the writers he likes",1.809101426918627,0.0153929434340324,2593,1091,906,596,wit-surprise,neutral
+"In a while, bibliophile.",1.7526627218934911,0.0159583755451134,2535,1209,744,582,unknown,neutral
+And you say it was Wednesday your child came here to browse?,1.7556179775280898,0.0160051990361734,2492,1174,753,565,sarcasm,neutral
+He says Little Women makes him cry but I just don’t know if those tears are genuine,1.779205138498595,0.015636648219891,2491,1094,853,544,sarcasm,negative
+"Back to lose your other arm, Mr ‘I ain’t no shoplifter’?",1.7390593047034766,0.0159569093130931,2445,1163,757,525,irony,negative
+„He‘s just had his first customer today.“,1.7337474120082816,0.0157589407840441,2415,1131,796,488,unknown,neutral
+"Grabs you from page 1, and doesn't let go",1.751520417028671,0.0158807524943683,2302,1025,824,453,unknown,neutral
+Don’t worry. He’s vaccinated.,1.7618839947666811,0.0163212315094885,2293,1038,763,492,sarcasm,positive
+"New to Florida, huh?",1.7292237442922374,0.0162020339600423,2190,1006,771,413,sarcasm,neutral

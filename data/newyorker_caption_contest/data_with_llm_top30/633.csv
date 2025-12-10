@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+14,Can you spell social security?,1.7442088319686473,0.0073034651555224,14289,7740,2464,4085,incongruity-absurdity,neutral
+2,"Stop calling me 'Dad', you're embarrassing me in front of my friends.",1.872526759649692,0.0071819461763183,12332,4808,4288,3236,sarcasm,negative
+3,"Now that recreational pot is legal, you'll be seeing a lot more of us.",1.85844940426246,0.0072193046465142,11918,4664,4277,2977,sarcasm,neutral
+6,Shouldn't you be somewhere staring at a screen?,1.8183728036669211,0.0075343347411682,10472,4236,3902,2334,sarcasm,negative
+1,"Sorry, kid, but this is the corporate ladder.",1.9081138652207592,0.0077425554168642,10328,3715,3847,2766,sarcasm,negative
+4,"'Two more times, Dad, then we need to pick up Mom at ballet class.""",1.8354987007795325,0.0077656908239817,10006,3977,3698,2331,incongruity-absurdity,neutral
+9,"Wow, Bring Your Parents To School Day is so much more fun than taking you to work",1.8029450864096528,0.0078346571543561,9779,4088,3530,2161,sarcasm,positive
+7,You work here at Google too?,1.8067147787888296,0.0080279907298653,9561,4048,3313,2200,sarcasm,neutral
+5,I’m 45 and A HALF.,1.826509075559308,0.0078769103819244,9476,3750,3620,2106,self-deprecating,neutral
+10,Our Boss told us to work on our slide presentation,1.7991480298189564,0.0081897108414491,9390,4089,3098,2203,unknown,neutral
+11,Well the judge said we could take a short recess.,1.7594722598105548,0.0079820728476522,8868,3828,3345,1695,incongruity-absurdity,neutral
+8,It's new for us. We're actually from a swing state.,1.8059598853868195,0.008669141114551,8725,3871,2676,2178,sarcasm,neutral
+16,"Ok I'm serious dad, five more minutes and then we're leaving",1.6624953072206232,0.0083228531689342,7991,4015,2658,1318,sarcasm,neutral
+12,"Trust me, kid. Teachers need this more than you do.",1.7543389484430831,0.0085670996388428,7836,3452,2857,1527,sarcasm,positive
+13,Our parents never picked us up.,1.7533085501858736,0.0098325714402214,6725,3220,1944,1561,incongruity-absurdity,negative
+17,"It really doesn’t get any better than this, trust me.",1.6528621387815203,0.0102709499456912,5433,2827,1665,941,self-deprecating,positive
+22,We finally got off the corporate merry-go-round.,1.6057562294765308,0.0100831240868087,5177,2785,1648,744,exaggeration,neutral
+21,I answered a Craigslist ad about having some fun with a married couple.,1.6068068068068069,0.0106319938648111,4995,2778,1403,814,irony,positive
+18,"You pay taxes for this park, kid? I didn't think so.",1.646741476046612,0.0110146577470659,4634,2410,1451,773,sarcasm,negative
+30,The strenuous climb to the top then in an instant you're back at the bottom. It's a metaphor for life kid; you're next.,1.569040531257156,0.0107782179327047,4367,2454,1341,572,exaggeration,neutral
+26,This is how we celebrate getting fired at the White House.,1.577997111218103,0.0116842906740564,4154,2424,1059,671,sarcasm,negative
+27,"DAD, PLE ASE  !! I gotta pee.",1.5769230769230769,0.0119361834611524,3952,2302,1020,630,irony,negative
+24,"When Daddy does it, it's therapy.",1.5952127659574469,0.01144051735485,3760,1994,1294,472,sarcasm,positive
+25,"If you think this is unfair, just wait until you find out what we did to the environment.",1.588456375838926,0.0122041651234906,3725,2115,1028,582,irony,negative
+37,Thank you for waiting—you are now number 3 in the queue.,1.5430072225869993,0.0137746701867204,3046,1894,650,502,sarcasm,positive
+29,Normally we're swingers,1.5719108710330858,0.0131611340615462,2962,1665,900,397,irony,neutral
+20,Senate's on recess. Why are YOU here?,1.607863247863248,0.0136742139543613,2925,1598,876,451,sarcasm,negative
+34,The corporate slide is a lot easier than the corporate ladder.,1.546515870120394,0.0134731449014148,2741,1585,814,342,unknown,neutral
+32,There's no app.  It's called a slide.,1.5624762628180782,0.0137906529011982,2633,1487,811,335,incongruity-absurdity,neutral
+15,"When you're a grown-up, you view it more as a slippery slope.",1.6653527788726843,0.0147979937247909,2537,1271,844,422,self-deprecating,neutral

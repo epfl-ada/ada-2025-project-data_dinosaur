@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It’s the closest Texas would let us get to sex ed.,1.9262657709323283,0.0110811350422087,6103,2528,1497,2077,wit-surprise,neutral
+Him? That's the guy who figured out how much wood a woodchuck could chuck.,1.7819827231591938,0.0114359515823161,4862,2191,1540,1131,wit-surprise,neutral
+We have ordered both from Amazon and we are going to see which comes first.,1.7269172932330827,0.0139150478675437,3325,1648,937,740,irony,neutral
+Don't sell him short.  He did solve that crossing the road thing.,1.7159329140461217,0.014066010241209,2862,1332,1011,519,wit-surprise,neutral
+We’ve got it narrowed down to two possibilities.,1.6911130284728213,0.015586851109606,2318,1121,792,405,wit-surprise,neutral
+"So, if anyone spends more than a minute in front of the board, we don't hire them.",1.6860356138706654,0.0163556386331317,2134,1049,706,379,irony,negative
+I know it's dumb. But we got a grant.,1.6864686468646866,0.016515655057111,2121,1050,686,385,exaggeration,neutral
+"He's good.  Last week, he figured out that you CAN put the cart before the horse.",1.7113109323237103,0.0164656156428232,2113,998,727,388,wit-surprise,positive
+We have positive IDs on both suspects.  We just don't know who started it.,1.6849834201800096,0.0168424272640893,2111,1069,638,404,incongruity-absurdity,neutral
+I love messing with the interns.,1.7130864197530864,0.0170273031145063,2025,968,670,387,sarcasm,positive
+Our hopes are high; just last week he put the horse before the cart.,1.6810073452256034,0.0174848863908998,1906,956,602,348,wit-surprise,positive
+"He's good, last week he solved the disappearing socks in dryer case.",1.6790648246546227,0.0173705257313901,1882,933,620,329,wit-surprise,positive
+I told him it was rhetorical but apparently he was a philosophy major.,1.6778197517539126,0.0174473288915385,1853,917,616,320,sarcasm,neutral
+Order both from Amazon--see which one comes first.,1.707182320441989,0.0186821908669602,1810,914,512,384,unknown,neutral
+Bill’s been on it for 2 weeks now. At this point no one has the heart to tell him it was rhetorical.,1.6756604834176505,0.0180440665538007,1779,897,562,320,sarcasm,negative
+"Should he pass this one, we'll put him on Schroedinger's cat.",1.7090395480225988,0.0193234898878559,1770,917,451,402,wit-surprise,neutral
+Does he know the answer is on the other side?,1.6673089274245343,0.0195046286665222,1557,806,463,288,incongruity-absurdity,neutral
+The hen said the rooster came first.,1.667097608274079,0.0204229550570017,1547,842,378,327,incongruity-absurdity,neutral
+We’ve finally got enough to bring the rooster in for questioning.,1.682088565763384,0.0192086847418175,1513,739,516,258,irony,neutral
+He’ll crack this. He’s the one who figured out why it crossed the road.,1.6704244031830238,0.0193307156813783,1508,755,495,258,wit-surprise,neutral
+I thought we agreed no use of paradoxical metaphors around the engineers.,1.660919540229885,0.020877390341595,1392,738,388,266,unknown,neutral
+Cold case squad says the picture on the left is what our killer might look like today.,1.6566037735849055,0.021682555781256,1325,718,344,263,irony,neutral
+I can’t believe it is taking him this long to figure out that I’m pregnant.,1.6552529182879376,0.0219131322730059,1285,694,340,251,sarcasm,negative
+He’s close to cracking it.,1.6542056074766356,0.020590988501234,1284,648,432,204,wit-surprise,neutral
+Why is a MAN making a decision on hen reproduction?,1.6492851135407909,0.0224946121392421,1189,639,328,222,irony,negative
+He's convinced there's a third possibility.,1.688663282571912,0.0211329193426896,1182,553,444,185,wit-surprise,neutral
+It’s the oldest cold case we have.,1.6471095772217428,0.0217801291643929,1159,595,378,186,wit-surprise,neutral
+And nobody thought to question the rooster?,1.643946188340807,0.0227990849846218,1115,592,328,195,irony,negative
+"He says it's for science, but I think he's doing it to get chicks.",1.6447841726618706,0.023125405720832,1112,598,311,203,irony,neutral
+The suspect and victim appear to be related.,1.6642664266426643,0.0224541616047743,1111,560,364,187,irony,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,I have a hunch I'm in the placebo group.,2.0410284463894968,0.0126603965688937,3656,999,1508,1149,self-deprecating,neutral
+4,You have to leave now. Visiting hours are over and happy hours are starting.,1.9839246119733924,0.0123504083689981,3608,1022,1622,964,sarcasm,neutral
+2,My blood alcohol was dangerously low.,2.031736526946108,0.0131845917154069,3340,918,1398,1024,incongruity-absurdity,negative
+0,It's the Heineken maneuver.,2.055417185554172,0.0140713051767888,3212,937,1160,1115,sarcasm,neutral
+8,Yes my doctor was in my fraternity - what's your point?,1.944829760403531,0.0134786249502188,3172,1006,1335,831,sarcasm,neutral
+10,"I said, ""Give it to me straight, Doc""",1.914968152866242,0.0138632002379987,3140,1092,1223,825,wit-surprise,neutral
+13,It's suprisingly good for hospital beer.,1.9004771642808451,0.0140921493243548,2934,1015,1196,723,incongruity-absurdity,positive
+32,It's the only treatment covered by my insurance.,1.75531914893617,0.0149395379613747,2914,1391,845,678,exaggeration,neutral
+6,You don't want to know about the catheter.,1.9490870786516852,0.0149805011237743,2848,986,1021,841,sarcasm,neutral
+3,"I have no idea, but it was the only thing TrumpCare would pay for.",2.007942238267148,0.015121392952545,2770,866,1016,888,irony,neutral
+28,"Medical license? No, but he has a liquor license.",1.7836764174792343,0.0151078544691421,2769,1239,890,640,unknown,neutral
+14,Thought I’d finish off the old liver before I get a new one.,1.887981330221704,0.015896687853559,2571,995,869,707,self-deprecating,neutral
+16,This is what happens when you're admitted to a university hospital on the weekend.,1.8727931190583973,0.0163462179483311,2209,810,870,529,irony,neutral
+26,They gave a me choice of painkillers.,1.79613025011798,0.0154832883811827,2119,798,955,366,incongruity-absurdity,neutral
+33,They said my blood type is Bud positive.,1.7496259351620949,0.0169347596249967,2005,890,727,388,incongruity-absurdity,neutral
+7,We're going to need a bigger bedpan.,1.945844504021448,0.018482468587409,1865,647,672,546,exaggeration,neutral
+11,I've been told to keep my spirits up.,1.912479740680713,0.0177577098424657,1851,628,757,466,self-deprecating,positive
+19,The doctor's coming in later to give me a shot.,1.8534435261707989,0.0187461773835492,1815,731,619,465,incongruity-absurdity,neutral
+23,I was just transferred to the fraternity ward.,1.814565826330532,0.0184638660275016,1785,739,638,408,incongruity-absurdity,neutral
+21,Couldn't you just use medical marijuana like everybody else.,1.8399539435808865,0.018673742033129,1737,687,641,409,sarcasm,neutral
+20,It's craft blood from a little bank in the Finger Lakes region.,1.842350203606748,0.0193194979351012,1719,708,574,437,irony,neutral
+5,They say I should be up and staggering around in a day or two.,1.9522978475858055,0.0185670638756638,1719,552,697,470,self-deprecating,neutral
+29,"He also wears a foam ""we're #1"" finger for my prostate exam.",1.7790626902008522,0.0197545676814874,1643,748,510,385,self-deprecating,neutral
+27,"Two cans ago I was beginning to question Trumpcare, but now, not so much.",1.7851037851037852,0.0186069894081662,1638,678,634,326,sarcasm,negative
+17,Thank goodness for the Affordable Beer Act.,1.871667699938004,0.0193388496125414,1613,603,614,396,exaggeration,positive
+37,Doctor said I was down a couple of pints.,1.7204502814258913,0.0182607116051331,1599,712,622,265,incongruity-absurdity,neutral
+38,"I'll be up and walking soon, but not in a straight line.",1.7059561128526646,0.0179928542455974,1595,715,634,246,self-deprecating,neutral
+24,"I'm aleing, Susan.",1.79923273657289,0.0199502996994599,1564,675,528,361,sarcasm,neutral
+44,Luckily I talked them out of an enema!,1.6666666666666667,0.0200334112967044,1410,712,456,242,exaggeration,positive
+9,Doc said two Pils every four hours.,1.9197707736389684,0.0214380451208421,1396,508,492,396,irony,neutral

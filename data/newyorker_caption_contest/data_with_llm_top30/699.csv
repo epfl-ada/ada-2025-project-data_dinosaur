@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"So, I gather your health plan didn't tell you what a Tier III plan is.",2.0508166969147004,0.0062501425980884,16530,4936,5812,5775,sarcasm,neutral
+"Linda, why do you think  men are 'beneath' you?",2.0278854137835594,0.0064638126336207,14452,4163,5713,4566,self-deprecating,neutral
+"I know it's our first session, but I'm going to say codependence is at least a part of your problem.",1.919197117858981,0.0065162244945495,13601,4519,5656,3419,unknown,negative
+"Where shall we begin--with acrophobia, claustrophobia, or fear of being crushed?",2.008851532282059,0.0065610894501073,13444,3830,5660,3946,wit-surprise,negative
+You need help - on so many levels.,2.104544082125604,0.0064043966429719,13248,2979,5900,4362,sarcasm,negative
+"You knew when you voted for Bernie that ""Medicare for all' would involve some compromises.",1.8815699916811617,0.006925925248585,13223,5069,4650,3501,irony,neutral
+"Have you considered the possibility that 
+you are three separate people?",1.9538034865293183,0.0071248022693539,12620,4345,4507,3760,wit-surprise,neutral
+Two of you have underlying issues.,2.212206650634381,0.0065665795210931,12059,2127,5243,4683,sarcasm,negative
+"Well, Freud never had to pay rent in Manhattan.",2.0080534612748457,0.0073719830434744,11672,3655,4267,3746,wit-surprise,neutral
+"Sibling rivalry, middle child syndrome, fear of falling...anything else?",1.83264734214905,0.0071305190917922,11419,4428,4464,2517,self-deprecating,neutral
+Then you shouldn’t have come to Costco for your counseling.,1.820314631263072,0.007584984614761,10997,4641,3684,2668,sarcasm,negative
+Trust me. You're not alone.,1.887919836704398,0.0073988285958934,10778,3848,4284,2642,self-deprecating,positive
+"Now, let's explore your obsession with berth order...",1.823769269020388,0.0079090770923754,10055,4203,3418,2431,irony,neutral
+"Remind me again, which one of you was a middle child?",1.750050150451354,0.0073799029359777,9970,4260,3933,1771,sarcasm,neutral
+Which one of you is my patient and which two of you are from AirBNB?,1.830701394585726,0.0081016344835817,9752,4085,3230,2433,sarcasm,neutral
+"Okay, now let's start at the top.",1.9216196523368376,0.0077786946712975,9607,3196,3964,2445,irony,neutral
+"Well, time's up. Leave your groupon with my secretary.",1.8404468331752557,0.0081488486047802,9489,3866,3266,2353,sarcasm,neutral
+"So, I may have underestimated the severity of your multiple personality disorder.",1.7213585266682612,0.0082276023552212,8362,3854,2977,1525,sarcasm,negative
+"Do you prefer ""he,"" ""she"" or ""they?""",1.7988874108114643,0.0086644271491248,8269,3564,2799,1900,sarcasm,neutral
+"Trust me, Sheila, the other two voices you keep hearing are most definitely not in your head.",1.8229361225252148,0.0084275309210344,8031,3127,3197,1705,sarcasm,neutral
+"Patient number two, same question.",1.9964125560538115,0.0087410462594942,7805,2341,3151,2313,sarcasm,neutral
+You each have issues on one level or another.,1.7293465652790307,0.0083923985757156,7759,3454,2948,1354,sarcasm,negative
+Welcome to Medicare for All at the Same Time,1.9932696190604389,0.0093456009117086,7429,2435,2609,2385,irony,positive
+And how do you feel about how she feels about how he feels?,1.8459337964854925,0.0091251570594536,7341,2895,2679,1765,sarcasm,neutral
+"Today we’re going to work on your codependence issues, your separation anxiety, and your fear of heights.",1.7203144393876706,0.0086975872225626,7251,3285,2704,1258,sarcasm,neutral
+Everything you say to me is strictly confidential.,1.7778595613131165,0.0094678113877114,6793,2989,2322,1481,sarcasm,neutral
+This is wrong on so many levels!,1.710644007155635,0.0093597095771752,6708,3221,2203,1280,irony,negative
+"Don’t worry, I am certified to treat multiple personalities.",1.9628156082631985,0.0095911658096926,6535,2090,2598,1847,wit-surprise,positive
+"Now calm down, it's not unusual to have a ménage à trois, what's unusual is that Timothy is pregnant.",1.7145502237309058,0.0100264312188072,6481,3297,1731,1450,sarcasm,neutral
+Let's start at the top.,1.6772012844346798,0.0095842098413067,5917,2888,2058,965,irony,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Honey, be nice... he's under a lot more pressure.",2.0370488661769404,0.0073463694880369,9393,2213,4619,2561,sarcasm,neutral
+I take it you didn't come here for the atmosphere.,2.0204831348101973,0.0081961835712469,8983,2620,3558,2804,sarcasm,neutral
+"Marine biology? Fascinating. It's not exactly rocket science though, is it?",2.016788487894015,0.0081729077046332,8756,2488,3633,2635,sarcasm,positive
+You two seem oddly suited.,2.0186584249084247,0.0081863600145708,8736,2477,3619,2640,sarcasm,positive
+Remind me not to get in line behind you two for the bathroom.,1.999079431877959,0.0091450145430826,7604,2421,2769,2414,sarcasm,neutral
+... and you were worried you wouldn't have anyone to talk to.,1.9668821744293443,0.0085582874201762,7579,2233,3364,1982,self-deprecating,negative
+Didn’t I say you wouldn’t be the only one wearing a suit?”,1.9537523052915309,0.0090476602795244,7049,2204,2967,1878,sarcasm,neutral
+"So, what do you fellas do?",1.8594132029339856,0.0096128965537915,6544,2503,2458,1583,sarcasm,neutral
+"For God sake Greg, I said we need a designated DRIVER.",1.905837173579109,0.0098237137207493,6510,2380,2363,1767,sarcasm,neutral
+"Sorry, from the back, you looked like the fridge.",1.8201774871555347,0.0098145827293751,6423,2668,2242,1513,sarcasm,neutral
+I also enjoy the moonshine.,2.004863813229572,0.0105526452574246,6168,2103,1932,2133,sarcasm,positive
+"What a coincidence, Bill here is also an introvert.",1.8187723286781423,0.0096596000649647,6158,2428,2418,1312,self-deprecating,neutral
+"Word to the wise, I'd stay away from the bean dip!",1.9123883928571428,0.0110272097102969,5376,2013,1821,1542,sarcasm,neutral
+Just like I warned you - she sucks all of the oxygen out of a room.,1.764966313763234,0.0107634722707085,5195,2317,1782,1096,sarcasm,negative
+Which of you wanted the Tang?,1.8287204171680709,0.0109748197422564,4986,1997,1846,1143,sarcasm,neutral
+"'Dress for the job you want, not the job you have,' right?",1.7677231025854878,0.0106966215401946,4796,2002,1906,888,irony,neutral
+I can't wait to see what you two are going to do with those drinks.,1.6883513386566462,0.0112728572724816,4258,2022,1541,695,sarcasm,positive
+Do either of you want to go where no man has gone before?,1.7970636987923276,0.012285531188299,4223,1861,1358,1004,sarcasm,neutral
+"When you go low, we go high.",1.7264474975466144,0.0121302213444052,4076,1932,1327,817,unknown,neutral
+John and Alice came prepared for when Marlene would inevitably suck all of the oxygen out of the room.,1.6260647359454856,0.0126821328868241,3522,1902,1035,585,sarcasm,neutral
+I'm looking for a man who's good under pressure,1.7952018724400234,0.0128903324259883,3418,1392,1334,692,unknown,positive
+There you are. I've been looking high and low for you two.,1.8731414109459033,0.0139725592433814,3161,1201,1160,800,wit-surprise,neutral
+Would you like to get some air?,1.6731517509727627,0.0128359015238198,3084,1452,1188,444,sarcasm,neutral
+"So, I guess all  three of us have a drinking problem....",1.7679500520291362,0.0150811289732511,2883,1357,838,688,self-deprecating,negative
+I see I’m not the only one who’s tanked.,1.7766443897291593,0.0146966483088086,2843,1261,956,626,self-deprecating,negative
+"She's behind me, isn't she?",1.6933529195739994,0.0145398405872097,2723,1329,900,494,sarcasm,neutral
+You two really need to learn how to decompress.,1.6233711643547708,0.0144334157400567,2379,1206,863,310,unknown,neutral
+And don’t let me catch you guys comparing hoses either.,1.7091988130563798,0.0158787814819693,2359,1144,757,458,sarcasm,negative
+"You're air tight, he's water tight, and I'm just plain old tight.",1.7573939134162022,0.0165527932920911,2333,1097,705,531,unknown,neutral
+Here's to the only two guys that hate leaks worse than the White House.,1.6992514310876266,0.0163232586889751,2271,1131,692,448,sarcasm,negative

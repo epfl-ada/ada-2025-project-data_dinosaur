@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You're reading too much into being called the 'dinner speaker.',1.7131578947368422,0.0167187699110171,2280,1147,640,493,sarcasm,neutral
+I think you misunderstood the meaning of pride week,1.6640543364681295,0.0178527262582148,1914,1013,531,370,sarcasm,negative
+Just tell them why you've chosen to run.,1.699787460148778,0.0178772216587188,1882,933,581,368,sarcasm,neutral
+What do you mean I booked you at the wrong pride event?,1.7035422343324251,0.0190610599306655,1835,964,451,420,sarcasm,negative
+Be glad you're the AFTER dinner speaker.,1.7025109170305677,0.0180829951372773,1832,902,573,357,sarcasm,positive
+It might help to picture them stuffed and mounted.,1.6820455808782655,0.0179838394981981,1799,900,571,328,incongruity-absurdity,neutral
+"Relax, it's an after dinner speech.",1.6868225898459783,0.0184111552248077,1753,881,540,332,sarcasm,neutral
+Don't worry. They're probably still full from the keynote speaker.,1.6876215165262476,0.0201435517369995,1543,799,427,317,sarcasm,neutral
+"You go first, I insist.",1.6396039603960395,0.0189677845738625,1515,784,493,238,unknown,neutral
+I know.  It's always tougher speaking before lunch.,1.59254327563249,0.0210253424645503,1502,929,256,317,wit-surprise,neutral
+I think we misunderstood Pride Event.,1.5939957112223015,0.0215631666852917,1399,854,259,286,irony,negative
+You got this!  I'll wait in the car.,1.6889383815887156,0.0216097390389589,1347,698,370,279,sarcasm,positive
+I highly doubt they’re still hungry after the last two speakers.,1.6679810725552051,0.0220515312002416,1268,671,347,250,sarcasm,negative
+It's the Lions Club.  What did you expect?  Gophers?,1.6582278481012658,0.0219954630291263,1264,676,344,244,incongruity-absurdity,neutral
+"Don't worry, if they try anything, I'll distract them with the laser pointer.",1.6618933969769292,0.022472412693595,1257,683,316,258,wit-surprise,neutral
+Appeal to their pride.,1.5756823821339951,0.0238582628595949,1209,781,160,268,sarcasm,neutral
+Thanks for stepping up to the plate.,1.575938566552901,0.0229085081347003,1172,714,241,217,sarcasm,positive
+"Actually, I was hoping to address the elephant in the room!",1.682800345721694,0.0232755466866292,1157,604,316,237,sarcasm,neutral
+When you said I would be addressing the Lions’ Club….,1.6748038360941586,0.0230058114116591,1147,595,330,222,incongruity-absurdity,neutral
+No worries. This is an after dinner speech.,1.6986899563318778,0.0226002318334384,1145,559,372,214,sarcasm,neutral
+I'd like to stay but I've got to run.,1.6827094474153297,0.0223635874382488,1122,549,380,193,incongruity-absurdity,neutral
+Show a little leg. They go wild.,1.6642402183803455,0.0235827857088736,1099,582,304,213,incongruity-absurdity,neutral
+It’ll be over before you know it.,1.5844748858447488,0.0218503311872966,1095,608,334,153,exaggeration,negative
+I'd lead with the Zebra joke.,1.6593607305936071,0.0227855263919928,1095,561,346,188,unknown,neutral
+Maybe cut the line about following your instincts.,1.8325666973321064,0.0250630453802609,1087,477,315,295,sarcasm,neutral
+"""They never miss a poetry feeding.""",1.5870967741935484,0.0230524571238496,1085,629,275,181,unknown,positive
+The way they’re staring at me makes me feel like a piece of meat,1.607242339832869,0.0228462384486129,1077,597,306,174,sarcasm,negative
+"Yes, we do have to invite the winner on stage.",1.6133828996282529,0.02260709861895,1076,584,324,168,sarcasm,neutral
+I'll be right back.,1.5750232991612303,0.0232205417093471,1073,635,259,179,incongruity-absurdity,positive
+Maybe I shouldn’t have introduced you as a fresh up-and-comer.,1.6301498127340823,0.0233048131235652,1068,580,303,185,sarcasm,neutral

@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Well,I know what Duke Ellington would do.",2.119095032636354,0.0059286683896782,18078,4828,6286,6964,wit-surprise,neutral
+"Of course... we wait forever, then two come at the same time.",2.00253694425065,0.0059135327998977,15767,4376,7000,4391,irony,neutral
+"And to think, this was Times Square a month ago.",2.001992415965036,0.0062484131611147,15559,4769,6014,4775,irony,neutral
+"Approach quietly, if they know you are five steps away, they'll depart.",1.9686619476324652,0.0063066166719581,14551,4517,6009,4024,wit-surprise,neutral
+I always wondered what happened if you stayed on past 116th street.,1.960964230171073,0.006577986813958,12860,3883,5617,3360,incongruity-absurdity,neutral
+Nobody ever tells the story of all the little trains that couldn't.,1.9140042826552464,0.0073812386945812,11675,4278,4132,3265,wit-surprise,negative
+At least they covered their tracks.,1.9410185345574225,0.0071527680936496,11546,3794,4652,3100,sarcasm,neutral
+I never realized the urban jungle was an actual place.,1.9245774901114707,0.0072092213276762,11124,3702,4578,2844,wit-surprise,negative
+Wait... Don't move too quickly. If they see you running they'll close their doors.,1.8811227297743536,0.0070929297650206,10902,3730,4747,2425,sarcasm,neutral
+They live above ground in the wild.,1.797658389198376,0.0076747700956925,10591,4629,3497,2465,incongruity-absurdity,neutral
+It’s amazing how nature has rebounded in Manhattan since the lockdown.,1.8482424752683648,0.0076114175962428,9502,3469,4017,2016,irony,positive
+"People used to get inside of these and they would take them to collaborative work environments called ""offices.""",1.8165570175438597,0.0078654917235919,9120,3583,3637,1900,unknown,neutral
+...well this explains the bear in the conductor hat.,1.8670068027210884,0.0083243508748179,8820,3376,3249,2195,irony,neutral
+"An encouraging sign, but we’re not out of the woods yet.",1.9492063492063492,0.0080595419972704,8505,2573,3784,2144,incongruity-absurdity,positive
+If they have toilet paper I'm going in!,1.890994123995683,0.0087240559577623,8339,3152,2944,2242,incongruity-absurdity,positive
+Apparently they were a method of transportation before the era of social distancing.,1.909013708601237,0.0084384604117358,8243,2828,3337,2078,incongruity-absurdity,neutral
+"Of all the things we packed, I didn't think to bring my Metrocard.",1.9150359177607137,0.008290167897913,8074,2612,3536,1926,sarcasm,negative
+"Ah, more relics from the Coronazoic Era.",1.8520783922107105,0.0085453176962761,8011,3054,3106,1851,exaggeration,neutral
+"Look, we've found another cartoon that only New Yorkers will understand.",1.912280701754386,0.0092272371090783,7467,2730,2658,2076,sarcasm,neutral
+Behold...the fabled End of the Line.,1.8267494356659144,0.009181107879596,7088,2846,2629,1613,incongruity-absurdity,neutral
+Careful the one on the right is an express and will stop at nothing!,1.8121115768174592,0.0092942087761455,6919,2859,2512,1548,sarcasm,neutral
+"I'm sorry, I just assumed ""Tour the Trainforest was a typo.""",1.762778505897772,0.0094197179435643,6867,3118,2269,1480,sarcasm,neutral
+I told you those weren't animal tracks,1.7636861313868613,0.0092278269837254,6576,2824,2491,1261,incongruity-absurdity,negative
+How long did we shelter in place?,1.874556594646888,0.0097104958644865,6202,2251,2478,1473,exaggeration,neutral
+"I remember those like it was last month."" 
+""It was.",1.7633399209486167,0.0097034521966402,6072,2638,2240,1194,unknown,neutral
+"Apparently they wouldn't ask for directions, either.",1.760019792182088,0.0099897076302284,6063,2748,2021,1287,irony,negative
+"Legend has it they carried passengers, up until the American people re-elected a reality show celebrity huckster during a pandemic.",1.728795245813074,0.0108067922064715,5553,2765,1534,1254,irony,negative
+Well I’ll be damned—they actually were sent to a farm upstate.,1.7890167575206946,0.0109567804010664,4953,2105,1788,1060,irony,negative
+"It’s hard to believe, but they say these things used to be full of complete strangers sitting next to each other.",1.8364972443355787,0.0107869151839004,4899,1861,1976,1061,incongruity-absurdity,neutral
+"At last, the lost trains of thought”",1.705981822024942,0.0114933515860607,4731,2384,1355,991,wit-surprise,neutral

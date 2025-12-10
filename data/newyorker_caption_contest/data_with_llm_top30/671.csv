@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Someone came to school with humans. Now we’ve all got them.,2.257544344621055,0.005028616544173,21705,3881,8353,9471,incongruity-absurdity,neutral
+It didn’t really bother me until they discovered fire.,2.1605887162714636,0.0054754037770334,18345,3808,7783,6754,incongruity-absurdity,neutral
+"Ice didn't work, so I'm trying acupuncture.",2.0543289793087505,0.0057720175777707,17302,4551,7268,5483,incongruity-absurdity,negative
+"As a previous partner, I thought I’d let you know.",2.157448784168069,0.005950902458578,17231,4122,6280,6829,sarcasm,neutral
+"Don't get too close, I have sapiens.",2.088965734045898,0.0061325531178697,15905,4118,6258,5529,sarcasm,neutral
+Watch what happens when I sneeze.,2.042610364683301,0.0063865089613018,15630,4668,5631,5331,self-deprecating,neutral
+"So instead of spraying, you waited and they just killed each other?",2.04064380875093,0.0065522150853488,14787,4408,5372,5007,irony,negative
+The doctor says they’ll be gone in a few million years.,2.089800893945551,0.0063571516295021,14766,3811,5825,5130,wit-surprise,neutral
+We never had this problem with the gatherers.,2.0263321155304337,0.0064260747801591,14507,4166,5797,4544,wit-surprise,negative
+"My doctor said if you don’t get rid of them, they evolve into something much worse.",2.016162782307526,0.0066048626234903,13859,4082,5474,4303,exaggeration,negative
+It's hard to believe we'll go extinct before these idiots.,2.02287632729544,0.0071254737441197,12808,4024,4469,4315,irony,negative
+"It's not the heat, it's the humanity.",1.9593206296603147,0.0074120415783871,12070,4265,4037,3768,sarcasm,neutral
+"The bad news is, I got humans. The good news is, they tend to get rid of themselves.",1.9623470618645529,0.0071182463905862,11606,3639,4765,3202,self-deprecating,negative
+They're just humans. How much harm could they possibly do?,1.920155529433041,0.0073999302851277,11059,3827,4289,2943,sarcasm,negative
+"I was skeptical too, but my lumbar pain? Almost gone.",1.9687961595273265,0.0072832816873933,10832,3286,4598,2948,unknown,neutral
+These little pricks are getting on my nerves,1.8700809640369045,0.0078515195017656,10622,4264,3478,2880,sarcasm,negative
+"Sometimes I yell ‘Oh, you got me!’ just to boost their spirits.",1.9291165808051896,0.0075391018586098,10482,3527,4176,2779,sarcasm,positive
+The doctor calls it mandruff.,1.8920827531330813,0.0078723694163478,10054,3738,3666,2650,wit-surprise,neutral
+"Let me get this straight... 
+WE die out and THEY end up ruling the world?",1.867047390041078,0.0078591585432767,9981,3830,3649,2502,irony,neutral
+"You should get tested, too.",1.8693512753564976,0.0076212148572309,9958,3621,4021,2316,sarcasm,neutral
+This is priceless. They're arguing over who actually captured me.,1.998879608881646,0.0080648779365819,9818,3140,3549,3129,irony,positive
+This human problem has reached mammoth proportions.,1.8506396219891668,0.0085571063990545,8677,3501,2971,2205,exaggeration,negative
+Can you believe I caught another case of nit-wits?,1.826241134751773,0.008778317989833,8460,3622,2687,2151,sarcasm,negative
+They are driving me to the brink of extinction.,1.7738693467336684,0.0087197227884471,7562,3222,2828,1512,sarcasm,negative
+"Lie down in caves, get up with cave men.",1.887945205479452,0.0091226569211268,7300,2672,2774,1854,irony,neutral
+The planet is infested with them!,1.7517175048090134,0.0088310308093624,7278,3195,2696,1387,exaggeration,negative
+Looks like I got hominids again. God I hate summer.,1.7684993799090534,0.0088552208153487,7257,3104,2732,1421,sarcasm,negative
+I picked up seven - I wasn't sure how many the recipe called for.,1.8534272165541024,0.0093934513359736,6959,2724,2533,1702,incongruity-absurdity,neutral
+My doctor says only call if they develop fire.,1.819266589057043,0.0090222225855015,6872,2655,2804,1413,unknown,neutral
+"I need your help getting some people off my back.""",1.921226345899956,0.0094172474981735,6817,2350,2654,1813,sarcasm,neutral

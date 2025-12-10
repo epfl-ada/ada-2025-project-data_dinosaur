@@ -1,0 +1,33 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+16,Imagine the impact it will have.,1.78669170914945,0.0140349503324085,3727,1850,822,1055,irony,neutral
+8,"I didn't get it at first either, then it hits you.",1.866863905325444,0.0169259180830208,2366,980,721,665,wit-surprise,negative
+10,I'd brake for her.,1.849467140319716,0.017017139339413,2252,929,733,590,incongruity-absurdity,negative
+11,"Whoever DOT is, I really like her work.",1.8452492944496708,0.0172485501568446,2126,862,731,533,sarcasm,positive
+20,"It's thought-provoking, yet instills me with a sense of caution.",1.757591353576943,0.0170026507182945,1943,838,738,367,wit-surprise,neutral
+6,"""Male leaping one lane of the Interstate"" was powerful, but ""Mother and Child contemplating I95"" is beautiful.",1.883204134366925,0.017859176840972,1935,723,715,497,incongruity-absurdity,positive
+0,I see myself in so much of his work.,1.999482669425763,0.0173562810210837,1933,563,808,562,self-deprecating,positive
+4,You can almost hear the car coming.,1.925531914893617,0.0184123384567366,1880,674,672,534,incongruity-absurdity,neutral
+9,I'm telling you: it's a sign.,1.862808145766345,0.0182326044224463,1866,724,674,468,sarcasm,neutral
+2,It's a forgery. The original is only a half-mile from where I live.,1.930921052631579,0.0183961798329018,1824,630,690,504,incongruity-absurdity,negative
+5,"This one is good, but I literally couldn't stop looking at the headlights exhibit.",1.9174008810572687,0.0191569546533485,1816,686,594,536,irony,positive
+25,"Sadly, too many thought it meant 'Cross Here.'",1.736087205966724,0.0191079761576851,1743,845,513,385,irony,negative
+21,His work is displayed all over the country.,1.756336405529954,0.0183113810846291,1736,768,623,345,wit-surprise,positive
+7,"Frankly, I'd rather see signs warning us of cars.",1.8680115273775213,0.0189711977736487,1735,671,622,442,unknown,negative
+14,We use to walk on four legs?,1.7908878504672898,0.0190689168068175,1712,749,572,391,incongruity-absurdity,neutral
+44,"The art is subtle, but then it hits you.",1.6464348850913375,0.0191535603795279,1697,934,429,334,wit-surprise,neutral
+31,"Sadly, too many of us thought it meant 'Cross Here.'",1.6795942720763724,0.018673859870485,1676,844,525,307,irony,negative
+17,These are from back when cars had drivers.,1.786099460754943,0.0185953860130703,1669,698,630,341,irony,neutral
+18,He was edgier before he got a grant from the Highways Department.,1.783007334963325,0.0192380018976495,1636,711,569,356,wit-surprise,neutral
+15,"Oh, please, every work of art reminds you of your mother.",1.7878602084610669,0.0186691815475853,1631,673,631,327,wit-surprise,positive
+23,This one doesn't leap out at me the way the others do.,1.7507926442612556,0.0193550916993408,1577,711,548,318,wit-surprise,neutral
+12,I don't get it.,1.80970625798212,0.0205928207631387,1566,697,470,399,sarcasm,negative
+1,I was young and needed the money.,1.9762057877813504,0.0206066925102993,1555,532,528,495,self-deprecating,neutral
+30,I think it's a sign.,1.6800526662277817,0.0195412026002913,1519,761,483,275,irony,neutral
+24,It's a little too middle-of-the-road for my taste.,1.7491749174917492,0.0193259877374168,1515,666,563,286,wit-surprise,negative
+51,"The portraits are inspiring, but I prefer his falling rocks.",1.6284935241990457,0.0201191473936432,1467,809,394,264,wit-surprise,positive
+42,"I hear after the exhibit closes here, they're taking it on the road.",1.6498269896193771,0.0204757566340816,1445,779,393,273,incongruity-absurdity,neutral
+22,"His ""yellow series"" perfectly captures the essential conflict facing a deer in modern society.",1.7524613220815752,0.020228833103178,1422,633,508,281,wit-surprise,neutral
+47,"I know I am supposed to be looking at the art, but I can't help staring at the lights.",1.6382978723404256,0.0204339109702976,1410,762,396,252,wit-surprise,neutral
+39,Nobody could model like her. She stopped traffic.,1.6535087719298245,0.0207575645487486,1368,722,398,248,exaggeration,positive
+723404256,0.0204339109702976,1410.0,762.0,396,252,not_evaluated,not_evaluated,,neutral
+39,Nobody could model like her. She stopped traffic.,1.6535087719298245,0.0207575645487486,1368,722,398,248,not_evaluated,positive

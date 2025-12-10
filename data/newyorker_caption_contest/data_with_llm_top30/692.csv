@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Why yes, I always do dress to kill.",1.8884242089481575,0.0069711235755526,12673,4688,4711,3274,unknown,negative
+Now that’s what I call a dinner jacket.,1.893796992481203,0.0074757805656451,11704,4515,3917,3272,incongruity-absurdity,positive
+"First day on Wall Street, sir?",1.9144444444444444,0.0076272779101251,10800,3891,3939,2968,irony,neutral
+This should get me through the primaries.,1.798876404494382,0.0076347381290295,10680,4614,3600,2466,sarcasm,positive
+It's from our new White House collection.,1.7975165231323853,0.0082159233439917,9986,4581,2846,2559,exaggeration,neutral
+It’s so ewe!,1.7990598010276593,0.0083612978032536,9147,4028,2929,2190,sarcasm,negative
+Perfect! I'm surprising someone for dinner.,1.8478552278820377,0.0082628289629128,8952,3520,3274,2158,sarcasm,positive
+Would you like to try on a different metaphor?,1.7985814005854537,0.0084096652721903,8882,3864,2943,2075,wit-surprise,neutral
+I'll take this and the granny dress.,1.859879147189602,0.0085664246521676,8771,3523,2954,2294,irony,neutral
+Do my teeth look big in this?,1.720331950207469,0.0081937890307944,8435,3900,2995,1540,self-deprecating,neutral
+Why bother?  The sheep will still vote for me even if I eat one on Fifth Avenue.,1.7908885452599024,0.0090799668593714,8407,3976,2213,2218,sarcasm,negative
+Could you pull the wool over my eyes?,1.761128526645768,0.0087904659926574,7975,3637,2606,1732,sarcasm,neutral
+"This is more practical for work, but the Zebra is just so fun.",1.831612281426408,0.0091967202567865,7263,2945,2596,1722,incongruity-absurdity,positive
+"I want something that says, 'I'm approachable.'",1.7793750916825584,0.0091934596315434,6817,2887,2546,1382,unknown,neutral
+"It won't fool Grandma, but the Electorate...",1.67854400245738,0.0095776627949168,6511,3327,1950,1234,sarcasm,neutral
+Do you have it in black?,1.628451477474568,0.009377392064028,6193,3264,1966,963,sarcasm,neutral
+Our D.C. store can't keep these in stock.,1.7221844164681863,0.010325890398194,5878,2885,1741,1252,exaggeration,negative
+I love that it's 100% wool.,1.723068929684794,0.0101294478134965,5774,2731,1911,1132,irony,positive
+It's a formal dinner. Do you have it in black?,1.719947407963937,0.0104003813982556,5324,2487,1841,996,sarcasm,neutral
+You look absolutely ravenous.,1.6622466376207614,0.0103327833287285,5279,2680,1702,897,sarcasm,negative
+"It's very ewe, Sir.",1.6046556367833782,0.0102290469455218,5198,2876,1510,809,sarcasm,negative
+Is my intent showing?,1.6119162640901772,0.0105062493961635,4968,2700,1496,772,self-deprecating,neutral
+Love it — perfect for a quick bite or an evening out.,1.6960865945045795,0.0106565491175001,4804,2262,1740,802,irony,positive
+Sometimes you just have to go with the classics.,1.6819418288344845,0.0106431206101794,4779,2295,1709,775,incongruity-absurdity,neutral
+I don't know. Do you think it makes my teeth look big?,1.8127216312056735,0.0114335490251728,4512,1832,1693,987,incongruity-absurdity,neutral
+Are you sure it's not too cliche?,1.5590640617900955,0.0102291966204167,4402,2506,1357,531,sarcasm,neutral
+"Of course it's not you,  but isn't that the point?",1.6056101654279549,0.0113641999310212,4171,2270,1276,625,self-deprecating,neutral
+"Sir, allow me to offer you an alternative to the cliche.",1.5969924812030074,0.0116170276764835,3990,2202,1194,594,sarcasm,neutral
+I can't decide between this and the grandma outfit.,1.5533606977937404,0.0109290022404027,3898,2221,1214,460,irony,neutral
+Dressed to kill as usual I see.,1.6554491327983432,0.0119778609197249,3863,1965,1264,634,sarcasm,negative

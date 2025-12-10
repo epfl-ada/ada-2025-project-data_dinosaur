@@ -27,10 +27,10 @@
           "irony"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "unknown"
         ],
         "questions": [
-          "irony"
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -82,8 +82,8 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "unknown",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -94,7 +94,7 @@
           "incongruity-absurdity",
           "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -156,13 +156,13 @@
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "wit-surprise",
+          "unknown"
         ],
         "questions": [
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "unknown"
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -218,9 +218,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "wit-surprise",
           "incongruity-absurdity",
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -229,7 +229,7 @@
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
+          "wit-surprise",
           "unknown"
         ]
       },
@@ -280,10 +280,10 @@
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -335,16 +335,16 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "irony",
-          "unknown",
-          "unknown"
+          "irony",
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "irony",
-          "irony",
+          "sarcasm",
+          "sarcasm",
           "irony"
         ],
         "questions": [
-          "unknown",
+          "irony",
           "irony",
           "irony"
         ]
@@ -401,18 +401,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
           "unknown",
+          "wit-surprise",
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "irony",
-          "unknown",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
+          "irony",
           "irony"
         ]
       },
@@ -460,13 +460,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "sarcasm"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "irony"
         ],
         "questions": [
-          "wit-surprise"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -516,18 +516,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "wit-surprise",
           "unknown",
-          "irony",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "irony",
-          "irony",
-          "unknown"
+          "incongruity-absurdity",
+          "unknown",
+          "irony"
         ],
         "questions": [
           "unknown",
-          "irony",
+          "unknown",
           "sarcasm"
         ]
       },
@@ -583,9 +583,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
           "unknown",
-          "wit-surprise"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "sarcasm",
@@ -593,9 +593,9 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -642,10 +642,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "questions": [
           "unknown"
@@ -692,10 +692,10 @@
           "exaggeration"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -744,19 +744,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
-          "wit-surprise"
+          "unknown",
+          "incongruity-absurdity",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "unknown",
           "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
-          "unknown",
-          "irony"
+          "wit-surprise",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -812,17 +812,17 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
-          "unknown",
-          "irony"
+          "incongruity-absurdity",
+          "wit-surprise",
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "unknown",
-          "unknown",
-          "unknown"
+          "incongruity-absurdity",
+          "incongruity-absurdity"
         ],
         "questions": [
-          "unknown",
+          "incongruity-absurdity",
           "unknown",
           "unknown"
         ]
@@ -871,10 +871,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "exaggeration"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "irony"
         ],
         "questions": [
           "unknown"
@@ -929,7 +929,7 @@
         "image_descriptions": [
           "wit-surprise",
           "unknown",
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -937,10 +937,10 @@
           "wit-surprise"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "wit-surprise",
-          "wit-surprise",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -1021,10 +1021,10 @@
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
+          "unknown",
           "unknown",
           "unknown"
         ]
@@ -1081,19 +1081,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "incongruity-absurdity",
           "wit-surprise",
           "unknown"
         ],
         "image_uncanny_descriptions": [
           "wit-surprise",
-          "unknown",
+          "irony",
           "unknown"
         ],
         "questions": [
           "incongruity-absurdity",
-          "unknown",
-          "unknown"
+          "wit-surprise",
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -1148,19 +1148,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
-          "irony",
+          "unknown",
+          "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
-          "wit-surprise"
+          "incongruity-absurdity",
+          "incongruity-absurdity",
+          "unknown"
         ],
         "questions": [
           "unknown",
           "unknown",
-          "wit-surprise",
+          "unknown",
           "unknown"
         ]
       },
@@ -1217,19 +1217,19 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "irony",
-          "irony"
+          "unknown",
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "irony",
-          "incongruity-absurdity"
+          "irony"
         ],
         "questions": [
+          "unknown",
+          "unknown",
           "incongruity-absurdity",
-          "irony",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -1287,17 +1287,17 @@
         "image_descriptions": [
           "unknown",
           "unknown",
-          "incongruity-absurdity"
-        ],
-        "image_uncanny_descriptions": [
-          "incongruity-absurdity",
-          "wit-surprise",
           "irony"
         ],
+        "image_uncanny_descriptions": [
+          "unknown",
+          "unknown",
+          "unknown"
+        ],
         "questions": [
-          "irony",
-          "irony",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
+          "unknown",
           "unknown"
         ]
       },
@@ -1354,19 +1354,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "sarcasm",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "irony",
+          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -1424,17 +1424,17 @@
         "image_descriptions": [
           "unknown",
           "unknown",
-          "irony"
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
           "unknown",
-          "irony",
-          "unknown"
+          "unknown",
+          "wit-surprise"
         ],
         "questions": [
-          "irony",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -1490,14 +1490,14 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "incongruity-absurdity",
           "incongruity-absurdity",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
           "incongruity-absurdity",
-          "irony"
+          "irony",
+          "unknown"
         ],
         "questions": [
           "incongruity-absurdity",
@@ -1549,13 +1549,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "irony"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -1596,13 +1596,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "unknown"
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -1650,19 +1650,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
-          "irony",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "incongruity-absurdity",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "sarcasm",
           "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
-          "unknown",
-          "unknown",
-          "irony"
+          "sarcasm",
+          "incongruity-absurdity",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -1718,18 +1718,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
+          "sarcasm",
+          "unknown",
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
+          "irony",
           "incongruity-absurdity",
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "wit-surprise",
-          "sarcasm",
+          "unknown",
+          "unknown",
           "unknown",
           "sarcasm"
         ]
@@ -1787,19 +1787,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "exaggeration",
-          "sarcasm",
-          "irony"
+          "unknown",
+          "unknown",
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "wit-surprise",
-          "wit-surprise"
+          "sarcasm"
         ],
         "questions": [
-          "sarcasm",
-          "incongruity-absurdity",
-          "wit-surprise"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -1854,19 +1854,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "sarcasm",
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "unknown",
           "unknown",
-          "irony"
+          "sarcasm"
         ],
         "questions": [
           "exaggeration",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -1913,7 +1913,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
@@ -1960,13 +1960,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -2007,13 +2007,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "irony"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -2062,18 +2062,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "irony",
-          "incongruity-absurdity",
-          "wit-surprise"
+          "wit-surprise",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "wit-surprise"
+          "unknown"
         ],
         "questions": [
-          "irony",
-          "irony",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "wit-surprise"
         ]
       },
       "llm_sentiment": {
@@ -2129,17 +2129,17 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "wit-surprise",
           "unknown",
-          "incongruity-absurdity",
-          "unknown"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
-          "unknown",
+          "irony",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
+          "unknown",
           "irony",
           "unknown"
         ]
@@ -2188,7 +2188,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "irony"
@@ -2243,18 +2243,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "unknown"
+          "sarcasm",
+          "irony"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "unknown"
         ],
         "questions": [
           "unknown",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -2304,10 +2304,10 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "sarcasm"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -2349,10 +2349,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
           "incongruity-absurdity"
@@ -2415,10 +2415,10 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
+          "unknown",
           "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -2472,7 +2472,7 @@
           "irony"
         ],
         "questions": [
-          "unknown"
+          "irony"
         ]
       },
       "llm_sentiment": {
@@ -2521,19 +2521,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
+          "unknown",
           "wit-surprise",
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
           "irony",
+          "unknown",
           "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "sarcasm",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -2589,19 +2589,19 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "irony",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
-          "irony"
+          "irony",
+          "incongruity-absurdity",
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
           "wit-surprise",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "unknown",
+          "irony"
         ]
       },
       "llm_sentiment": {
@@ -2658,8 +2658,8 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "irony",
-          "exaggeration"
+          "unknown",
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -2722,7 +2722,7 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -2766,7 +2766,7 @@
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
           "irony"
@@ -2820,16 +2820,16 @@
         "image_descriptions": [
           "unknown",
           "unknown",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "sarcasm",
+          "wit-surprise",
+          "unknown",
           "unknown"
         ]
       },
@@ -2886,9 +2886,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "incongruity-absurdity",
-          "irony"
+          "sarcasm",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
@@ -2897,7 +2897,7 @@
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
+          "unknown",
           "unknown",
           "incongruity-absurdity"
         ]
@@ -2950,10 +2950,10 @@
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "sarcasm"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3009,11 +3009,11 @@
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
-          "irony",
+          "unknown",
           "unknown"
         ]
       },
@@ -3071,8 +3071,8 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "unknown",
-          "unknown"
+          "incongruity-absurdity",
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -3080,9 +3080,9 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3155,19 +3155,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "unknown",
           "wit-surprise",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "unknown"
+          "sarcasm"
         ],
         "questions": [
           "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3222,19 +3222,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "wit-surprise",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
+          "incongruity-absurdity",
           "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
-          "sarcasm",
           "unknown",
-          "unknown"
+          "unknown",
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -3281,13 +3281,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "wit-surprise"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3328,13 +3328,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "sarcasm"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3385,18 +3385,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "unknown",
-          "unknown",
-          "exaggeration"
+          "irony",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
           "wit-surprise",
-          "unknown"
+          "wit-surprise"
         ],
         "questions": [
-          "irony",
-          "irony",
-          "irony"
+          "sarcasm",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3453,7 +3453,7 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "unknown",
-          "incongruity-absurdity",
+          "unknown",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
@@ -3462,10 +3462,10 @@
           "irony"
         ],
         "questions": [
-          "unknown",
           "irony",
-          "incongruity-absurdity",
-          "sarcasm"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3522,20 +3522,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
           "unknown",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3593,19 +3593,19 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "unknown"
+          "unknown",
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3653,10 +3653,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "sarcasm"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "irony"
         ],
         "questions": [
           "irony"
@@ -3700,7 +3700,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
@@ -3747,13 +3747,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3794,13 +3794,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3850,18 +3850,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "unknown",
-          "wit-surprise",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
           "unknown",
-          "irony"
+          "irony",
+          "unknown"
         ],
         "questions": [
-          "irony",
+          "unknown",
           "incongruity-absurdity",
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -3908,10 +3908,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "exaggeration"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
           "unknown"
@@ -3955,13 +3955,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
-        ],
-        "image_uncanny_descriptions": [
           "unknown"
         ],
+        "image_uncanny_descriptions": [
+          "incongruity-absurdity"
+        ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -4012,19 +4012,19 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "wit-surprise",
-          "wit-surprise",
+          "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
-          "wit-surprise"
+          "incongruity-absurdity",
+          "incongruity-absurdity",
+          "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "irony",
           "unknown",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -4082,19 +4082,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
           "irony",
-          "unknown"
+          "unknown",
+          "irony"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "irony",
           "wit-surprise",
-          "wit-surprise"
+          "unknown"
         ],
         "questions": [
-          "irony",
           "unknown",
-          "sarcasm"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -4151,19 +4151,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
+          "irony",
           "unknown",
-          "sarcasm"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "exaggeration",
+          "incongruity-absurdity",
           "irony",
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
           "unknown",
-          "unknown",
+          "incongruity-absurdity",
+          "incongruity-absurdity",
           "unknown"
         ]
       },
@@ -4223,20 +4223,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
+          "unknown",
           "incongruity-absurdity",
           "irony"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
+          "irony",
           "incongruity-absurdity",
-          "unknown"
+          "irony"
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
-          "sarcasm",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
+          "unknown",
           "irony"
         ]
       },
@@ -4296,17 +4296,17 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "sarcasm",
-          "sarcasm",
+          "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "exaggeration",
+          "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "sarcasm"
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
+          "unknown",
           "unknown"
         ]
       },
@@ -4370,7 +4370,7 @@
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
@@ -4424,13 +4424,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -4484,13 +4484,13 @@
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "irony",
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "irony",
+          "unknown",
+          "unknown",
           "unknown"
         ]
       },
@@ -4562,18 +4562,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "irony",
           "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "irony",
           "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
+          "sarcasm",
           "unknown",
-          "incongruity-absurdity",
           "unknown"
         ]
       },
@@ -4622,13 +4622,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "wit-surprise"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -4675,8 +4675,8 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "irony",
+          "wit-surprise",
+          "unknown",
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
@@ -4686,8 +4686,8 @@
         ],
         "questions": [
           "unknown",
-          "unknown",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -4744,20 +4744,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "incongruity-absurdity",
           "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
+          "irony",
+          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -4814,19 +4814,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "sarcasm",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
-          "exaggeration"
+          "unknown",
+          "unknown",
+          "irony"
         ],
         "questions": [
-          "unknown",
+          "incongruity-absurdity",
           "irony",
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -4883,9 +4883,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
           "irony",
-          "incongruity-absurdity"
+          "irony",
+          "irony"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -4893,7 +4893,7 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
+          "irony",
           "unknown",
           "incongruity-absurdity"
         ]
@@ -4950,9 +4950,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "sarcasm",
+          "wit-surprise",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -4960,10 +4960,10 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown",
+          "irony"
         ]
       },
       "llm_sentiment": {
@@ -5019,19 +5019,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "sarcasm",
+          "unknown",
+          "unknown",
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
-          "irony",
-          "incongruity-absurdity"
-        ],
-        "questions": [
-          "irony",
+          "unknown",
           "unknown",
           "sarcasm"
+        ],
+        "questions": [
+          "unknown",
+          "sarcasm",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -5096,13 +5096,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "irony"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -5150,19 +5150,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
+          "unknown",
           "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
           "incongruity-absurdity",
+          "wit-surprise",
           "irony"
         ],
         "questions": [
           "unknown",
           "incongruity-absurdity",
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -5209,10 +5209,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "incongruity-absurdity"
         ],
         "questions": [
           "unknown"
@@ -5264,18 +5264,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "incongruity-absurdity",
           "unknown",
-          "irony",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "wit-surprise"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
           "unknown"
         ]
       },
@@ -5333,18 +5333,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "wit-surprise",
-          "incongruity-absurdity",
-          "unknown"
+          "wit-surprise",
+          "irony"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "irony",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "wit-surprise",
+          "unknown",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ]
       },
@@ -5393,13 +5393,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
-        ],
-        "image_uncanny_descriptions": [
           "unknown"
         ],
+        "image_uncanny_descriptions": [
+          "incongruity-absurdity"
+        ],
         "questions": [
-          "wit-surprise"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -5441,13 +5441,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -5512,17 +5512,17 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
           "incongruity-absurdity",
-          "wit-surprise"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "unknown",
-          "incongruity-absurdity",
-          "wit-surprise"
+          "unknown",
+          "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
+          "unknown",
           "unknown",
           "unknown"
         ]
@@ -5626,18 +5626,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
+          "unknown",
           "wit-surprise",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "exaggeration",
-          "wit-surprise",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "incongruity-absurdity",
+          "unknown"
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
+          "unknown",
           "unknown"
         ]
       },
@@ -5685,13 +5685,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -5735,7 +5735,7 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "sarcasm"
         ],
         "questions": [
           "unknown"
@@ -5779,13 +5779,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "unknown"
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -5835,18 +5835,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "wit-surprise",
-          "incongruity-absurdity",
+          "irony",
           "irony"
         ],
         "image_uncanny_descriptions": [
-          "irony",
-          "incongruity-absurdity",
+          "unknown",
+          "wit-surprise",
           "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "irony",
-          "wit-surprise"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -5893,13 +5893,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "sarcasm"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "sarcasm"
         ],
         "questions": [
-          "irony"
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -5949,9 +5949,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
           "incongruity-absurdity",
-          "unknown"
+          "unknown",
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -5959,7 +5959,7 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
+          "unknown",
           "incongruity-absurdity",
           "incongruity-absurdity"
         ]
@@ -6028,7 +6028,7 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "irony"
         ],
         "questions": [
           "unknown"
@@ -6073,10 +6073,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "wit-surprise"
         ],
         "questions": [
           "unknown"
@@ -6128,9 +6128,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
-          "irony",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
@@ -6138,9 +6138,9 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
           "unknown",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -6196,20 +6196,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "wit-surprise",
+          "sarcasm",
+          "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
+          "incongruity-absurdity",
           "wit-surprise",
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "wit-surprise",
-          "irony",
-          "wit-surprise"
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -6267,17 +6267,17 @@
         "image_descriptions": [
           "wit-surprise",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony",
-          "incongruity-absurdity",
+          "unknown",
+          "wit-surprise",
           "wit-surprise"
         ],
         "questions": [
-          "irony",
-          "irony",
-          "unknown"
+          "unknown",
+          "wit-surprise",
+          "wit-surprise"
         ]
       },
       "llm_sentiment": {
@@ -6324,13 +6324,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony"
         ],
         "questions": [
-          "wit-surprise"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -6381,18 +6381,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "sarcasm",
-          "irony",
+          "unknown",
           "sarcasm"
         ],
         "image_uncanny_descriptions": [
-          "irony",
-          "irony",
+          "incongruity-absurdity",
+          "sarcasm",
           "sarcasm"
         ],
         "questions": [
           "sarcasm",
-          "sarcasm",
-          "unknown"
+          "unknown",
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -6449,17 +6449,17 @@
         "image_descriptions": [
           "unknown",
           "unknown",
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "wit-surprise",
-          "wit-surprise"
-        ],
-        "questions": [
-          "sarcasm",
           "incongruity-absurdity",
           "incongruity-absurdity"
+        ],
+        "questions": [
+          "unknown",
+          "unknown",
+          "wit-surprise"
         ]
       },
       "llm_sentiment": {
@@ -6516,20 +6516,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
-          "wit-surprise"
+          "incongruity-absurdity",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
           "wit-surprise",
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -6585,19 +6585,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
+          "unknown",
           "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "irony",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "irony"
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -6653,19 +6653,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
+          "unknown",
           "unknown",
           "irony"
         ],
         "image_uncanny_descriptions": [
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown"
         ],
         "questions": [
-          "irony",
           "unknown",
-          "irony"
+          "irony",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -6721,20 +6721,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
+          "wit-surprise",
           "unknown",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
+          "wit-surprise",
+          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
+          "sarcasm",
           "unknown",
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -6791,8 +6791,8 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "irony",
-          "wit-surprise"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
@@ -6801,8 +6801,8 @@
         ],
         "questions": [
           "unknown",
-          "irony",
-          "incongruity-absurdity",
+          "unknown",
+          "sarcasm",
           "unknown"
         ]
       },
@@ -6907,20 +6907,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "irony",
           "unknown",
-          "unknown",
-          "exaggeration"
+          "irony"
         ],
         "image_uncanny_descriptions": [
+          "irony",
+          "unknown",
+          "irony"
+        ],
+        "questions": [
+          "irony",
           "incongruity-absurdity",
           "incongruity-absurdity",
           "unknown"
-        ],
-        "questions": [
-          "incongruity-absurdity",
-          "unknown",
-          "irony",
-          "irony"
         ]
       },
       "llm_sentiment": {
@@ -6975,20 +6975,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
+          "unknown",
           "sarcasm",
-          "sarcasm"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
           "unknown",
           "unknown",
-          "irony",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -7037,13 +7037,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
           "wit-surprise"
         ],
         "questions": [
-          "irony",
+          "incongruity-absurdity",
           "wit-surprise"
         ]
       },
@@ -7087,10 +7087,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "unknown"
         ],
         "questions": [
           "irony"
@@ -7135,13 +7135,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "questions": [
-          "irony"
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -7190,19 +7190,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "irony",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
           "irony",
-          "wit-surprise"
+          "unknown",
+          "incongruity-absurdity"
         ],
         "questions": [
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -7249,13 +7249,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "unknown"
         ],
         "questions": [
-          "sarcasm"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -7299,10 +7299,10 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "unknown"
         ],
         "questions": [
-          "sarcasm"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -7352,20 +7352,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
           "unknown",
-          "wit-surprise"
+          "incongruity-absurdity",
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "wit-surprise",
           "wit-surprise",
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
-          "sarcasm",
-          "irony",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -7421,19 +7421,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
+          "unknown",
           "incongruity-absurdity",
-          "irony"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "irony",
-          "irony",
+          "unknown",
+          "unknown",
           "irony"
         ],
         "questions": [
+          "incongruity-absurdity",
           "unknown",
-          "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -7484,7 +7484,7 @@
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "irony"
         ],
         "questions": [
           "unknown"
@@ -7536,19 +7536,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
+          "unknown",
           "unknown",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "irony",
+          "incongruity-absurdity",
           "incongruity-absurdity",
           "wit-surprise"
         ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
           "unknown"
         ]
       },
@@ -7607,17 +7607,17 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "unknown",
-          "unknown",
-          "irony"
+          "wit-surprise",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
           "unknown",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
-          "irony",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ]
       },
@@ -7665,10 +7665,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "questions": [
           "unknown"
@@ -7737,9 +7737,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "wit-surprise",
+          "unknown",
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -7748,8 +7748,8 @@
         ],
         "questions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -7800,7 +7800,7 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "irony"
         ],
         "questions": [
           "unknown"
@@ -7871,18 +7871,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "unknown",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "unknown",
           "wit-surprise",
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "questions": [
-          "wit-surprise",
           "unknown",
-          "irony"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -7935,7 +7935,7 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -7984,19 +7984,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "irony",
           "unknown",
-          "incongruity-absurdity",
-          "unknown"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
-          "wit-surprise",
+          "incongruity-absurdity",
+          "incongruity-absurdity",
           "irony"
         ],
         "questions": [
-          "wit-surprise",
-          "irony",
-          "irony",
+          "unknown",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ]
       },
@@ -8054,20 +8054,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "exaggeration",
-          "exaggeration",
-          "unknown"
+          "incongruity-absurdity",
+          "unknown",
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "unknown",
           "irony",
-          "exaggeration"
+          "irony"
         ],
         "questions": [
           "unknown",
-          "irony",
           "unknown",
-          "wit-surprise"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -8115,10 +8115,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "irony"
         ],
         "questions": [
           "sarcasm"
@@ -8170,19 +8170,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "unknown",
           "incongruity-absurdity",
-          "irony",
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
-          "unknown",
-          "irony"
+          "irony",
+          "unknown"
         ],
         "questions": [
+          "incongruity-absurdity",
           "unknown",
-          "unknown",
-          "incongruity-absurdity"
+          "irony"
         ]
       },
       "llm_sentiment": {
@@ -8241,20 +8241,20 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "exaggeration",
+          "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "irony"
         ],
         "questions": [
           "incongruity-absurdity",
-          "sarcasm",
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "irony",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -8303,13 +8303,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -8394,18 +8394,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "irony",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
           "unknown",
-          "irony"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -8459,14 +8459,14 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
           "sarcasm",
-          "irony"
+          "unknown",
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
+          "incongruity-absurdity",
           "irony",
-          "irony",
-          "irony"
+          "incongruity-absurdity"
         ],
         "questions": [
           "irony",
@@ -8527,19 +8527,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "exaggeration",
+          "unknown",
+          "unknown",
+          "unknown"
+        ],
+        "image_uncanny_descriptions": [
+          "unknown",
           "wit-surprise",
           "irony"
         ],
-        "image_uncanny_descriptions": [
-          "irony",
-          "wit-surprise",
-          "wit-surprise"
-        ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
-          "irony",
+          "unknown",
+          "unknown",
           "unknown"
         ]
       },
@@ -8592,7 +8592,7 @@
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "questions": [
           "incongruity-absurdity",
@@ -8691,7 +8691,7 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony"
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -8735,10 +8735,10 @@
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -8788,21 +8788,21 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "unknown",
           "irony",
-          "irony",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "irony",
           "wit-surprise",
-          "irony"
+          "unknown"
         ],
         "questions": [
-          "irony",
           "unknown",
-          "irony",
           "unknown",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -8851,7 +8851,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
@@ -8907,7 +8907,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "incongruity-absurdity",
           "wit-surprise",
           "wit-surprise"
         ],
@@ -8917,9 +8917,9 @@
           "incongruity-absurdity"
         ],
         "questions": [
+          "incongruity-absurdity",
           "unknown",
-          "unknown",
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -8975,18 +8975,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "incongruity-absurdity",
           "unknown",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "irony",
-          "irony",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
-          "wit-surprise",
+          "unknown",
           "unknown"
         ]
       },
@@ -9037,10 +9037,10 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "wit-surprise"
         ],
         "questions": [
-          "unknown"
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -9099,13 +9099,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "unknown"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9146,10 +9146,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
           "unknown"
@@ -9201,19 +9201,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "wit-surprise",
+          "incongruity-absurdity",
+          "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony",
+          "incongruity-absurdity",
           "wit-surprise",
-          "irony"
+          "incongruity-absurdity"
         ],
         "questions": [
           "incongruity-absurdity",
           "unknown",
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9268,19 +9268,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "irony",
+          "unknown",
+          "wit-surprise",
           "irony"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
+          "unknown",
+          "unknown",
           "irony"
         ],
         "questions": [
           "unknown",
-          "irony",
-          "wit-surprise"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9336,20 +9336,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "wit-surprise",
           "irony",
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "questions": [
-          "sarcasm",
-          "irony",
+          "unknown",
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9398,7 +9398,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "irony"
@@ -9445,13 +9445,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "irony"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9502,16 +9502,16 @@
         "image_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "irony"
         ],
         "image_uncanny_descriptions": [
           "irony",
           "incongruity-absurdity",
-          "irony"
+          "incongruity-absurdity"
         ],
         "questions": [
           "incongruity-absurdity",
-          "exaggeration",
+          "irony",
           "incongruity-absurdity"
         ]
       },
@@ -9567,19 +9567,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
-          "wit-surprise"
+          "unknown",
+          "unknown",
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
           "incongruity-absurdity",
-          "wit-surprise"
+          "incongruity-absurdity",
+          "unknown"
         ],
         "questions": [
-          "irony",
-          "incongruity-absurdity",
-          "sarcasm"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9635,14 +9635,14 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
           "irony",
-          "incongruity-absurdity"
+          "irony",
+          "unknown"
         ],
         "questions": [
           "unknown",
@@ -9696,13 +9696,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "irony"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9798,19 +9798,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
+          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
-          "wit-surprise",
           "unknown",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9860,10 +9860,10 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "wit-surprise"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9904,13 +9904,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -9959,9 +9959,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "wit-surprise",
           "incongruity-absurdity",
-          "unknown",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -9971,7 +9971,7 @@
         "questions": [
           "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10026,18 +10026,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "sarcasm",
+          "irony",
+          "unknown",
           "irony"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
+          "incongruity-absurdity",
           "irony",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "irony",
           "unknown",
+          "incongruity-absurdity",
           "unknown"
         ]
       },
@@ -10093,19 +10093,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "irony",
-          "irony"
+          "unknown",
+          "sarcasm",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "irony",
           "wit-surprise",
-          "irony"
+          "unknown"
         ],
         "questions": [
           "unknown",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10160,18 +10160,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "incongruity-absurdity",
-          "irony"
+          "sarcasm",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
           "incongruity-absurdity",
-          "exaggeration"
+          "unknown"
         ],
         "questions": [
-          "irony",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ]
       },
@@ -10222,10 +10222,10 @@
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "sarcasm"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10274,9 +10274,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -10284,8 +10284,8 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
           "unknown"
         ]
       },
@@ -10342,18 +10342,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "unknown",
+          "incongruity-absurdity",
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "unknown",
           "irony",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
           "irony",
-          "wit-surprise"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10410,19 +10410,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "wit-surprise",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
+          "incongruity-absurdity",
           "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
           "incongruity-absurdity",
-          "irony",
-          "unknown"
+          "unknown",
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -10472,10 +10472,10 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "unknown"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10522,7 +10522,7 @@
           "wit-surprise"
         ],
         "questions": [
-          "unknown"
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -10563,13 +10563,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10613,10 +10613,10 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "unknown"
+          "wit-surprise"
         ]
       },
       "llm_sentiment": {
@@ -10669,14 +10669,14 @@
           "irony"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
-          "irony"
+          "irony",
+          "unknown",
+          "unknown"
         ],
         "questions": [
           "unknown",
-          "wit-surprise",
-          "irony"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10770,13 +10770,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10818,7 +10818,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "unknown"
@@ -10874,20 +10874,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "wit-surprise",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
           "irony",
-          "sarcasm",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -10943,17 +10943,17 @@
         "image_descriptions": [
           "unknown",
           "unknown",
-          "unknown"
+          "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
+          "irony",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -11009,8 +11009,8 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise",
-          "wit-surprise",
+          "sarcasm",
+          "sarcasm",
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
@@ -11019,9 +11019,9 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
-          "unknown"
+          "unknown",
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -11077,19 +11077,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "incongruity-absurdity",
           "unknown",
-          "unknown",
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony",
+          "unknown",
           "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
-          "sarcasm",
-          "incongruity-absurdity",
+          "unknown",
+          "unknown",
           "irony"
         ]
       },
@@ -11141,10 +11141,10 @@
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -11194,18 +11194,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "irony",
+          "unknown",
+          "sarcasm",
           "irony"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "wit-surprise"
+          "wit-surprise",
+          "incongruity-absurdity"
         ],
         "questions": [
-          "wit-surprise",
-          "irony",
+          "unknown",
+          "unknown",
           "unknown"
         ]
       },
@@ -11261,19 +11261,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "wit-surprise",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "wit-surprise",
+          "unknown",
           "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
-          "wit-surprise"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -11320,13 +11320,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -11368,13 +11368,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -11426,17 +11426,17 @@
         "image_descriptions": [
           "unknown",
           "incongruity-absurdity",
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "wit-surprise",
+          "wit-surprise"
         ],
         "questions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
-          "sarcasm"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -11494,11 +11494,11 @@
         "image_descriptions": [
           "unknown",
           "unknown",
-          "unknown"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "exaggeration",
-          "incongruity-absurdity",
+          "irony",
+          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
@@ -11552,13 +11552,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "unknown"
+          "wit-surprise"
         ]
       },
       "llm_sentiment": {
@@ -11625,8 +11625,8 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "irony",
-          "incongruity-absurdity"
+          "wit-surprise",
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "irony",
@@ -11634,9 +11634,9 @@
           "irony"
         ],
         "questions": [
-          "incongruity-absurdity",
+          "unknown",
           "sarcasm",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -11694,17 +11694,17 @@
         "image_descriptions": [
           "irony",
           "unknown",
-          "irony"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
+          "sarcasm",
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
+          "unknown",
           "irony",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -11751,7 +11751,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
@@ -11807,20 +11807,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
+          "unknown",
           "incongruity-absurdity",
           "wit-surprise"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
           "unknown",
-          "unknown"
+          "unknown",
+          "unknown",
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -11879,9 +11879,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "irony",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -11889,10 +11889,10 @@
           "incongruity-absurdity"
         ],
         "questions": [
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony",
-          "incongruity-absurdity"
+          "unknown",
+          "wit-surprise"
         ]
       },
       "llm_sentiment": {
@@ -11951,19 +11951,19 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "irony",
-          "irony",
+          "unknown",
           "irony"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
           "irony",
-          "irony"
+          "unknown",
+          "exaggeration"
         ],
         "questions": [
-          "irony",
-          "irony",
-          "wit-surprise",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12011,7 +12011,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
@@ -12066,19 +12066,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "exaggeration",
-          "incongruity-absurdity",
-          "exaggeration"
+          "unknown",
+          "irony",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
-          "unknown",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "irony"
+          "unknown",
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -12134,18 +12134,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "irony",
-          "unknown"
+          "unknown",
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
           "wit-surprise",
-          "unknown"
+          "incongruity-absurdity",
+          "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown",
+          "wit-surprise"
         ]
       },
       "llm_sentiment": {
@@ -12195,7 +12195,7 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
           "unknown"
@@ -12247,19 +12247,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
           "unknown",
-          "wit-surprise"
+          "incongruity-absurdity",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
+          "irony",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12315,20 +12315,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "exaggeration",
-          "unknown"
-        ],
-        "image_uncanny_descriptions": [
-          "exaggeration",
           "unknown",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ],
-        "questions": [
-          "exaggeration",
+        "image_uncanny_descriptions": [
+          "irony",
           "unknown",
-          "sarcasm",
           "irony"
+        ],
+        "questions": [
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12385,19 +12385,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "exaggeration",
+          "irony",
           "incongruity-absurdity",
-          "exaggeration"
+          "irony"
         ],
         "image_uncanny_descriptions": [
           "irony",
-          "exaggeration",
-          "irony"
+          "irony",
+          "incongruity-absurdity"
         ],
         "questions": [
+          "sarcasm",
           "unknown",
-          "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12453,19 +12453,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "irony",
+          "unknown",
+          "sarcasm",
           "irony"
         ],
         "image_uncanny_descriptions": [
+          "unknown",
           "irony",
-          "irony",
-          "unknown"
+          "irony"
         ],
         "questions": [
           "unknown",
-          "wit-surprise",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12512,13 +12512,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "wit-surprise"
-        ],
-        "image_uncanny_descriptions": [
           "unknown"
         ],
+        "image_uncanny_descriptions": [
+          "incongruity-absurdity"
+        ],
         "questions": [
-          "wit-surprise"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12565,7 +12565,7 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12609,7 +12609,7 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "unknown"
         ],
         "questions": [
           "unknown"
@@ -12667,13 +12667,13 @@
         ],
         "image_uncanny_descriptions": [
           "wit-surprise",
-          "unknown",
-          "unknown"
-        ],
-        "questions": [
-          "incongruity-absurdity",
           "incongruity-absurdity",
           "incongruity-absurdity"
+        ],
+        "questions": [
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12727,19 +12727,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
+          "unknown",
           "irony",
           "irony"
         ],
         "image_uncanny_descriptions": [
           "irony",
           "incongruity-absurdity",
-          "incongruity-absurdity"
+          "irony"
         ],
         "questions": [
-          "irony",
-          "irony",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12794,19 +12794,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "sarcasm",
           "unknown",
-          "exaggeration"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "unknown",
+          "incongruity-absurdity",
           "wit-surprise"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "wit-surprise",
-          "irony",
+          "unknown",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ]
       },
@@ -12863,19 +12863,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "sarcasm",
-          "incongruity-absurdity"
-        ],
-        "image_uncanny_descriptions": [
-          "wit-surprise",
-          "incongruity-absurdity",
+          "irony",
+          "unknown",
           "unknown"
         ],
-        "questions": [
+        "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "incongruity-absurdity",
           "incongruity-absurdity"
+        ],
+        "questions": [
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -12930,18 +12930,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "exaggeration",
+          "unknown",
           "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "irony",
           "unknown",
+          "irony",
           "irony"
         ],
         "questions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
+          "unknown",
           "unknown",
           "incongruity-absurdity"
         ]
@@ -13000,18 +13000,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "wit-surprise",
-          "incongruity-absurdity",
+          "unknown",
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
+          "wit-surprise",
           "incongruity-absurdity",
-          "wit-surprise"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "sarcasm",
           "unknown",
-          "irony",
+          "unknown",
+          "unknown",
           "incongruity-absurdity"
         ]
       },
@@ -13069,18 +13069,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "exaggeration",
-          "wit-surprise"
+          "wit-surprise",
+          "wit-surprise",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "exaggeration",
+          "unknown",
           "wit-surprise",
           "incongruity-absurdity"
         ],
         "questions": [
-          "unknown",
-          "unknown",
+          "incongruity-absurdity",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ]
       },
@@ -13138,9 +13138,9 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
-          "unknown",
-          "incongruity-absurdity"
+          "incongruity-absurdity",
+          "incongruity-absurdity",
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
@@ -13150,8 +13150,8 @@
         "questions": [
           "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "irony",
+          "irony"
         ]
       },
       "llm_sentiment": {
@@ -13207,19 +13207,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
+          "unknown",
+          "wit-surprise",
           "incongruity-absurdity"
         ],
         "image_uncanny_descriptions": [
-          "irony",
+          "incongruity-absurdity",
           "wit-surprise",
-          "irony"
+          "incongruity-absurdity"
         ],
         "questions": [
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -13277,18 +13277,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "irony",
-          "irony",
-          "irony"
+          "unknown",
+          "sarcasm"
         ],
         "image_uncanny_descriptions": [
+          "unknown",
           "incongruity-absurdity",
-          "wit-surprise",
           "unknown"
         ],
         "questions": [
+          "unknown",
           "sarcasm",
-          "irony",
-          "incongruity-absurdity",
+          "unknown",
           "unknown"
         ]
       },
@@ -13349,18 +13349,18 @@
         "image_descriptions": [
           "unknown",
           "unknown",
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "questions": [
           "unknown",
-          "sarcasm",
+          "unknown",
           "incongruity-absurdity",
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -13418,7 +13418,7 @@
         "image_descriptions": [
           "unknown",
           "irony",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "irony",
@@ -13427,8 +13427,8 @@
         ],
         "questions": [
           "incongruity-absurdity",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -13481,7 +13481,7 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -13530,18 +13530,18 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "exaggeration",
-          "exaggeration",
-          "irony"
+          "incongruity-absurdity",
+          "unknown"
         ],
         "questions": [
           "unknown",
-          "unknown",
+          "incongruity-absurdity",
           "unknown"
         ]
       },
@@ -13590,10 +13590,10 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown"
+          "irony"
         ],
         "image_uncanny_descriptions": [
-          "unknown"
+          "incongruity-absurdity"
         ],
         "questions": [
           "unknown"
@@ -13684,13 +13684,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
-        ],
-        "image_uncanny_descriptions": [
           "unknown"
         ],
+        "image_uncanny_descriptions": [
+          "incongruity-absurdity"
+        ],
         "questions": [
-          "exaggeration"
+          "irony"
         ]
       },
       "llm_sentiment": {
@@ -13742,18 +13742,18 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "unknown",
-          "unknown",
-          "unknown"
+          "incongruity-absurdity",
+          "irony"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
           "wit-surprise",
-          "irony"
+          "unknown"
         ],
         "questions": [
           "incongruity-absurdity",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -13803,10 +13803,10 @@
           "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -13850,10 +13850,10 @@
           "irony"
         ],
         "image_uncanny_descriptions": [
-          "irony"
+          "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -13900,7 +13900,7 @@
           "wit-surprise"
         ],
         "questions": [
-          "wit-surprise"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -13951,17 +13951,17 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "unknown",
-          "sarcasm",
+          "unknown",
           "unknown"
         ],
         "image_uncanny_descriptions": [
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "incongruity-absurdity"
+          "unknown"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "incongruity-absurdity",
+          "unknown",
+          "irony",
           "unknown",
           "incongruity-absurdity"
         ]
@@ -14012,13 +14012,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "incongruity-absurdity"
+          "wit-surprise"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity"
         ],
         "questions": [
-          "wit-surprise"
+          "incongruity-absurdity"
         ]
       },
       "llm_sentiment": {
@@ -14067,19 +14067,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "unknown",
           "irony",
-          "irony",
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "irony",
-          "incongruity-absurdity",
+          "sarcasm",
+          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
-          "exaggeration",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -14133,19 +14133,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "unknown",
+          "incongruity-absurdity",
           "unknown",
           "wit-surprise"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
-          "unknown",
+          "irony",
+          "incongruity-absurdity",
           "incongruity-absurdity"
         ],
         "questions": [
           "unknown",
           "unknown",
-          "incongruity-absurdity"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -14192,7 +14192,7 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "exaggeration"
+          "irony"
         ],
         "image_uncanny_descriptions": [
           "irony"
@@ -14245,7 +14245,7 @@
           "incongruity-absurdity"
         ],
         "questions": [
-          "irony"
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -14295,20 +14295,20 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
+          "unknown",
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "wit-surprise"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
           "incongruity-absurdity",
-          "wit-surprise"
+          "incongruity-absurdity",
+          "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
           "unknown",
           "incongruity-absurdity",
           "incongruity-absurdity",
+          "wit-surprise",
           "incongruity-absurdity"
         ]
       },
@@ -14366,19 +14366,19 @@
       "llm_humor_labels": {
         "image_descriptions": [
           "incongruity-absurdity",
-          "wit-surprise",
-          "sarcasm"
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "unknown",
-          "unknown",
-          "incongruity-absurdity"
+          "wit-surprise",
+          "incongruity-absurdity",
+          "unknown"
         ],
         "questions": [
-          "irony",
-          "incongruity-absurdity",
-          "irony",
-          "sarcasm"
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {
@@ -14426,13 +14426,13 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony"
+          "unknown"
         ],
         "image_uncanny_descriptions": [
-          "incongruity-absurdity"
+          "sarcasm"
         ],
         "questions": [
-          "irony"
+          "sarcasm"
         ]
       },
       "llm_sentiment": {
@@ -14482,17 +14482,17 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
           "unknown",
+          "incongruity-absurdity",
           "unknown"
         ],
         "image_uncanny_descriptions": [
+          "irony",
           "incongruity-absurdity",
-          "unknown",
           "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
+          "unknown",
           "unknown",
           "unknown"
         ]
@@ -14550,19 +14550,19 @@
       ],
       "llm_humor_labels": {
         "image_descriptions": [
-          "irony",
-          "irony",
-          "incongruity-absurdity"
+          "unknown",
+          "unknown",
+          "unknown"
         ],
         "image_uncanny_descriptions": [
           "incongruity-absurdity",
-          "incongruity-absurdity",
-          "wit-surprise"
+          "unknown",
+          "incongruity-absurdity"
         ],
         "questions": [
-          "incongruity-absurdity",
-          "irony",
-          "irony"
+          "unknown",
+          "unknown",
+          "unknown"
         ]
       },
       "llm_sentiment": {

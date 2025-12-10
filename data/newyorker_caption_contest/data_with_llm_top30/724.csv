@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Oh really? Well, I thought bookstores were extinct.",1.9329961024960611,0.0076185856763836,12059,4651,3565,3843,exaggeration,negative
+"The phrase you used, I believe, was, “Hilariously short arms.”",1.8912845705967976,0.0077450587354512,10992,4286,3615,3091,wit-surprise,neutral
+You're still publishing on paper and I'm the dinosaur?,1.886397313049491,0.0080556768701318,10123,3965,3343,2815,irony,neutral
+"I’m really not the monster you made me out to be, Barbara.",1.8083802747307045,0.0077726568027609,10119,4248,3562,2309,sarcasm,negative
+"Mary Trump, your uncle sent me.",1.9368971885901909,0.0086936750475185,9746,3916,2529,3301,sarcasm,neutral
+"""MEET ??"". I heard ""EAT"".",2.0814449917898195,0.0083899658303642,9135,2595,3201,3339,unknown,neutral
+"To Archaebpteryx, spelled just like it sounds.""",1.8999770589584768,0.0090300693047898,8718,3578,2434,2706,incongruity-absurdity,neutral
+I saw a line and just started eating.,1.6992604765817585,0.0089714385282523,8519,4599,1888,2032,unknown,neutral
+"That's right, Margaret, take all the credit. Not like I've been under your bed since you were 3.",1.8011215440792905,0.0090768529328562,7668,3336,2521,1811,sarcasm,neutral
+"You people disgust me. Why's it always ""slay the dragon"" but never ""pay the dragon""? Who gave you permission to use my likeness, Karen? My lawyers will be in touch.",1.81940129906806,0.0100509692804461,7082,3288,1785,2009,sarcasm,negative
+Why can't just ONE book be called Dragons and Dungeons?,1.7999139414802066,0.0097791525375072,6972,3161,2045,1766,incongruity-absurdity,negative
+I couldn’t put it down. In fact I couldn’t pick it up.,1.8420216606498192,0.0097553978693146,6925,2915,2189,1821,incongruity-absurdity,neutral
+"...and about Chapter 2 when you say  ""Asteroids are by and large harmless...""",1.8279287174992696,0.0096117766065537,6846,2855,2314,1677,irony,neutral
+Your depiction of imaginary monsters was uninformed and prejudicial!,1.8045135256314453,0.0099597345443669,6691,3002,1995,1694,sarcasm,negative
+"I've already devoured the book, and couldn't wait to meet the author.",1.7892066420664208,0.0096025215089579,6504,2780,2315,1409,wit-surprise,positive
+I would not have guessed the ending                 in 66 million years.,1.7780753138075314,0.0100979424884841,5975,2630,2041,1304,exaggeration,negative
+I'm also a voracious reader.,1.8342657342657345,0.0103124511906064,5720,2292,2084,1344,unknown,positive
+"Did you really think I wouldn't recognize myself, Doris?",1.70983635403836,0.0100639616169168,5683,2699,1934,1050,wit-surprise,negative
+I'm here for the free food.,1.7272043617221282,0.0116501015124436,5319,2843,1084,1392,sarcasm,positive
+Make it out toThesaurus.,1.6799245994344958,0.0106283897970277,5305,2710,1583,1012,incongruity-absurdity,neutral
+He comes to all of these--he's the Thesaurus Rex.,1.6698860343828472,0.0106351825113071,5177,2652,1582,943,wit-surprise,neutral
+"So moving - I laughed, I cried, I destroyed power lines and two cities.",1.765982404692082,0.0109612676809234,5115,2310,1692,1113,exaggeration,positive
+Charles Darwin book signing,1.7084922706283878,0.0123652546794225,4981,2834,765,1382,unknown,neutral
+"Slay the dragon!""  ""Destroy the dragon""  ""Save us from the dragon""  I need a book that I can read to my kids",1.7104832104832104,0.0109979910201187,4884,2354,1590,940,irony,negative
+"Walnut-size brain is hurtful, Rebecca.",1.736179295624333,0.0110756096472656,4685,2127,1667,891,sarcasm,negative
+"Now that GoT is over, do you think I should get my own series .... Like 'The Drogon chronicles'  😁",1.697790294627383,0.0128643107648969,4616,2671,669,1276,irony,neutral
+Where is the Authorus?,1.726221640488656,0.0123829934737879,4584,2410,1019,1155,incongruity-absurdity,neutral
+Could we meet privately ??,1.7187358916478557,0.0125078393182609,4430,2333,1010,1087,sarcasm,neutral
+I lunched on the 2 in line ahead of me.,1.7302894798776185,0.0127384774648352,4249,2192,1011,1046,irony,neutral
+Just sign the damn book so I can eat!,1.6965599051008304,0.0131702116517151,4215,2374,746,1095,sarcasm,negative

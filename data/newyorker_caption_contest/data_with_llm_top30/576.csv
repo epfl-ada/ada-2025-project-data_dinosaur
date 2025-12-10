@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,Ignore me and I'll go away.,1.846959122632104,0.020462114570498,2006,1019,275,712,sarcasm,negative
+2,Our parents won't approve; you're Jewish and I'm a Wasp.,1.808764940239044,0.0250773445480242,1004,431,334,239,incongruity-absurdity,negative
+4,I can't go. I've been elected queen.,1.7794594594594595,0.0257111268684557,925,407,315,203,incongruity-absurdity,neutral
+6,I got caught in a sting operation.,1.7391304347826086,0.0249660474209149,897,398,335,164,unknown,negative
+5,"You still have two wishes left, right?",1.7542857142857142,0.0270645452412553,875,414,262,199,sarcasm,neutral
+8,I told you I had hives.,1.7149643705463182,0.0267205760411312,842,407,268,167,unknown,neutral
+0,Don't blow my cover. I'm in the middle of a sting operation.,1.8626506024096383,0.0271272479655782,830,318,308,204,sarcasm,negative
+3,Could be worse...I could be back at the White House doing press briefings.,1.798780487804878,0.0282456766643592,820,367,251,202,sarcasm,neutral
+12,I’m the head beekeeper!!!,1.6727037516170764,0.0306933806219666,773,449,128,196,irony,positive
+10,Now am I WASP enough for your father?,1.696765498652291,0.0281848972561838,742,365,237,140,sarcasm,neutral
+9,Hold on a sec. I need to buzz you in.,1.706043956043956,0.0273222836671893,728,336,270,122,sarcasm,neutral
+17,I've been busy.,1.655813953488372,0.0299899150748671,645,336,195,114,self-deprecating,neutral
+18,... It began when wax started building up in my ears.,1.6546310832025115,0.0308678211827038,637,341,175,121,incongruity-absurdity,neutral
+20,"Remember me as I was when you have honey, honey.",1.6473509933774837,0.0347530421434821,604,364,89,151,unknown,neutral
+19,"Honey, beelieve me, for NYC it's pretty spacious.",1.648648648648649,0.0313981394737107,592,313,174,105,incongruity-absurdity,positive
+14,Worker bee was the only job I could get with my liberal arts degree.,1.666083916083916,0.0317488774424078,572,292,179,101,sarcasm,positive
+22,So you thought it just meant White Anglo-Saxon Protestant?,1.641711229946524,0.0315635319366661,561,293,176,92,irony,neutral
+23,I traded our cow for these magic bees.,1.6401446654611211,0.0347864211345745,553,320,112,121,incongruity-absurdity,neutral
+16,Air Bee&Bee,1.664804469273743,0.0329059431400198,537,276,165,96,unknown,neutral
+13,Go get your bear costume,1.6666666666666667,0.0334606278510732,534,278,156,100,sarcasm,neutral
+25,The ringing in my ears was nothing compared to this buzzing.,1.6318897637795275,0.0356951512180154,508,292,111,105,unknown,negative
+27,"I get my news from BuzzFeed, mostly.",1.6302186878727634,0.0321638422454698,503,258,173,72,sarcasm,neutral
+24,"It's just like being a real wasp, but without the cocktails and sanctimony.",1.6328600405679514,0.0350833317425631,493,273,128,92,incongruity-absurdity,negative
+30,"No, Air Bee & Bee.",1.621212121212121,0.0361748282480778,462,260,117,85,incongruity-absurdity,neutral
+26,Has your mother left?,1.6305309734513274,0.0360753082066636,452,247,125,80,sarcasm,neutral
+31,"I'm sorry, I only date WASPs.",1.615909090909091,0.0345134986965093,440,232,145,63,sarcasm,negative
+32,What? I told you I worked with drones.,1.6104513064133017,0.0349603500144848,421,222,141,58,unknown,neutral
+33,Less is less.,1.6095238095238096,0.036305855640355,420,230,124,66,incongruity-absurdity,neutral
+7,The doctor says it's the worst case of hives he has ever seen,1.7248803827751196,0.0378232035175555,418,198,137,83,unknown,negative
+29,And for my third wish I said I wanted to be the head of a large organization.,1.62227602905569,0.0385656842177248,413,234,101,78,wit-surprise,neutral

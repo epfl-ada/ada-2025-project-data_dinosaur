@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I don't think he realizes the gravity of the situation.,1.7989276139410189,0.0291373085308712,746,326,244,176,wit-surprise,negative
+1,"Wait, the GPS is recalculating",1.7723935389133627,0.0290844204415397,681,291,254,136,irony,neutral
+2,Now THAT'S the road less traveled!,1.7476780185758514,0.0292247293946138,646,280,249,117,incongruity-absurdity,neutral
+3,"Thank God. For a moment there, I thought he was going to jump!",1.673866090712743,0.0369314842725972,463,246,122,95,incongruity-absurdity,positive
+4,I think I will unfollow him,1.6717391304347826,0.0354561747408037,460,233,145,82,sarcasm,negative
+5,He doesn't seem to appreciate the gravity of his situation.,1.6613636363636364,0.0378375388022015,440,238,113,89,wit-surprise,negative
+6,He'll have to wait for us anyway. I've got the car keys.,1.6393034825870647,0.0386413183082118,402,219,109,74,sarcasm,neutral
+8,He's bluffing.,1.6189189189189188,0.0395228598824673,370,204,103,63,sarcasm,neutral
+9,I don't think Bob understands the gravity of the situation.,1.6143250688705235,0.0395942225759452,363,200,103,60,wit-surprise,negative
+10,Recalculating...,1.6084507042253522,0.0413212448556066,355,204,86,65,incongruity-absurdity,neutral
+11,"I thought he lived in a parallel universe, but it's really perpendicular.",1.5942028985507246,0.0405544242082247,345,196,93,56,wit-surprise,neutral
+13,So much for making it look like an accident.,1.591044776119403,0.0421698041183001,335,196,80,59,irony,negative
+7,"He may be taking the whole ""road less travelled"" thing too far.",1.6377245508982037,0.0392294043754532,334,168,119,47,wit-surprise,neutral
+14,"If they turn this picture the other way, we're in trouble.",1.5866261398176291,0.0432419660024851,329,197,71,61,irony,negative
+12,That's it; I'm unfollowing him as of right now!,1.5930599369085174,0.042213532297599,317,180,86,51,sarcasm,negative
+15,Hiking in Colorado sure has changed since legalization.,1.5759493670886076,0.0431315391375412,316,188,74,54,sarcasm,neutral
+17,"Clearly, he doesn't understand the gravity of the situation.",1.5732484076433122,0.0431289873319733,314,187,74,53,sarcasm,negative
+18,I'm fine with taking the long way.,1.571884984025559,0.0408088466267687,313,177,93,43,incongruity-absurdity,neutral
+20,I'm not so inclined.,1.5663430420711977,0.0427447385813925,309,183,77,49,self-deprecating,negative
+19,Good thing this is the last item on his Bucket List.,1.5667752442996743,0.0422107741817791,307,179,82,46,incongruity-absurdity,positive
+21,"Well, what's amazing to me is that he's doing it backwards!",1.565359477124183,0.0433258914136808,306,183,73,50,wit-surprise,positive
+22,I wonder when he's gonna look up from his phone.,1.5604026845637584,0.044771955067497,298,183,63,52,sarcasm,neutral
+23,Not the direction I would have gone.,1.5589225589225588,0.0395077971922064,297,163,102,32,irony,negative
+24,I don't think he fully appreciates the gravity of the situation.,1.5574324324324325,0.043472661446863,296,177,73,46,wit-surprise,negative
+25,He takes everything so laterally.,1.5574324324324325,0.0407532782896004,296,167,93,36,wit-surprise,neutral
+26,"I take mountaineering seriously, but he just does it on the side.",1.554421768707483,0.042641155143389,294,173,79,42,unknown,neutral
+27,He's a great guy but he has very few followers.,1.552901023890785,0.0413704119930149,293,168,88,37,wit-surprise,negative
+28,If he comes back up.....THEN I'll be impressed.,1.5517241379310345,0.0414111161222713,290,166,88,36,sarcasm,positive
+29,I think it's the road less traveled for a reason.,1.5486111111111112,0.0427868364291851,288,170,78,40,wit-surprise,neutral
+32,I'm rethinking how much I want this merit badge.,1.5451388888888888,0.0416540623276623,288,167,85,36,sarcasm,neutral

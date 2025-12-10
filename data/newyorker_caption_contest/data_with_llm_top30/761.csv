@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Let’s hold out for Death by Chocolate .,1.8585858585858583,0.012468972476867,4257,1752,1355,1150,sarcasm,neutral
+He says I don’t have to worry about returning the dish.,1.8768305439330544,0.0125675224754937,3824,1419,1457,948,irony,neutral
+"Honey, I believe your words were ‘I would die for some fresh squeezed lemonade.’",1.8744714587737843,0.0129896800451862,3784,1475,1309,1000,incongruity-absurdity,positive
+This is embarrassing — Life ALSO gave us lemons.,1.81560095516052,0.0127228998469632,3769,1561,1342,866,self-deprecating,negative
+He said he's welcoming us to the neighborhood. Do you remember moving?,1.8197353914002208,0.0131980576675848,3628,1532,1218,878,sarcasm,positive
+"Of course it’s farm to table, look at his scythe.",1.8587786259541983,0.0133827372079628,3406,1313,1261,832,irony,negative
+I always thought it would be death by chocolate.,1.8225998807394157,0.0132536158165248,3354,1338,1273,743,incongruity-absurdity,negative
+I guess we really are ending on a sour note.,1.81508078994614,0.0133893716295711,3342,1367,1226,749,sarcasm,negative
+Would it kill you to try one?,1.8395209580838323,0.0134316923465867,3340,1317,1242,781,sarcasm,neutral
+2nd prize was a weekend at Mara-Lago,1.796201386795297,0.0139687759025796,3317,1480,1033,804,exaggeration,neutral
+"Try these, dear.  They are to die for.",1.7714808043875685,0.0145530213350467,3282,1601,830,851,sarcasm,positive
+I didn’t think the bitter end was so literal,1.7959183673469388,0.0136961918863691,3234,1378,1138,718,sarcasm,negative
+They're for your mother.,1.7763739734680986,0.0140699548499996,3166,1425,1024,717,unknown,neutral
+Remind me to request contactless delivery next time.,1.7949358059914409,0.0147462526391189,2804,1201,977,626,sarcasm,neutral
+It's for a going- away party.,1.7857939754555596,0.0148810550756852,2689,1150,965,574,unknown,neutral
+One soul for half a dozen lemons is still cheaper than Whole Foods.,1.878409090909091,0.0159390051331863,2640,1065,831,744,incongruity-absurdity,neutral
+I was just telling him you have a lemon tart recipe to die for.,1.8222730739893211,0.0153021465909925,2622,1079,930,613,sarcasm,positive
+Which delivery app did you use?,1.851366961879091,0.0157605296949109,2597,1059,865,673,sarcasm,neutral
+They’re to be enjoyed like there’s no tomorrow.,1.766679521789433,0.0150574380822645,2593,1135,928,530,unknown,positive
+"No dear, that's if LIFE hands you lemons.",1.8129357087529048,0.0151652328418884,2582,1053,959,570,sarcasm,neutral
+It's his specialty: just desserts.,1.825,0.0163147151956776,2400,1013,794,593,wit-surprise,neutral
+"Unfortunately, when death hands you lemons you're screwed.",1.7566752799310938,0.0161835977742911,2322,1057,773,492,self-deprecating,negative
+Oh come on.  One won't kill me.,1.7524401064773736,0.0157132943416141,2254,975,862,417,sarcasm,negative
+I'm guessing it's soul food.,1.7512505684402,0.0176688658026673,2199,1096,554,549,irony,neutral
+I liked it better when Life gave me lemons.,1.7617098681218737,0.0162679151024231,2199,964,795,440,sarcasm,positive
+Life never handed me anything.,1.8144754924415945,0.0166081297834446,2183,897,794,492,self-deprecating,negative
+He's the only one who can legally hand out refreshments to voters in Georgia.,1.9238673517048108,0.018181611618473,2141,845,614,682,irony,neutral
+Would it kill you to just try one!,1.7703842549203377,0.0167789463297534,2134,942,740,452,sarcasm,neutral
+"When death gives you lemons, they’re lemons.",1.7618600281822452,0.0167840379460375,2129,952,732,445,self-deprecating,neutral
+"Normally I'd never sell our souls, but those are Meyer lemons.",1.7494089834515367,0.0165265943146442,2115,942,761,412,exaggeration,negative

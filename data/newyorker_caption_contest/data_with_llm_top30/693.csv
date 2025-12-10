@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Should I check, “exceeded expectations?”",2.1248955405302743,0.0063621421882225,13163,2787,5945,4431,self-deprecating,neutral
+Let’s just give him the damn cheese.,2.0459620877694107,0.007115213547912,11553,3128,4769,3656,sarcasm,negative
+"Hmmmmm, we didn’t count on his thinking above the box.",2.0380315168588785,0.0072778458725825,11359,3209,4509,3641,wit-surprise,neutral
+"Oddly, this one got the placebo.",2.0252234711036374,0.0074118272303576,11299,3395,4235,3669,irony,neutral
+'What's more impressive is he's already filed the patent.',2.033183196985017,0.0075103002229353,10879,3163,4192,3524,wit-surprise,positive
+"He doesn't just find the cheese, he offers same-day delivery.",1.9892799544635231,0.0077294839102395,10541,3376,3902,3263,wit-surprise,neutral
+It appears that his 'fight or flight' response has evolved.,1.9645297427652733,0.0078871244564721,9952,3263,3779,2910,irony,neutral
+I hurt his feelings last week when I told him this wasn't rocket science.,1.950429831416769,0.0083551707345102,8957,3033,3335,2589,sarcasm,negative
+We're going to need another grant,1.9452562949640289,0.0082977764458524,8896,2981,3421,2494,unknown,neutral
+He also submitted a resume for your job.,1.9662027833001987,0.0087466133712009,8551,2949,2945,2657,sarcasm,neutral
+Do you suppose they’ve been toying with us all these years?,1.9183147033533965,0.0085872842408056,8141,2803,3200,2138,irony,neutral
+I'll bet HE could build a better mousetrap.,1.900012298610257,0.0087703281031465,8131,3052,2865,2214,unknown,neutral
+Maybe we should start with a smaller dose.,1.964405724953329,0.0085307916212532,8035,2497,3327,2211,self-deprecating,neutral
+He also left us a tiny note with suggested revisions to our experimental design.,1.8575184016824395,0.0088194007362873,7608,2870,2952,1786,wit-surprise,neutral
+Rat maze navigation trial 14: Animal failed to follow simple instructions.,1.9312351229833375,0.0093889656530201,7562,2798,2486,2278,irony,negative
+"He flies and poops everywhere. Essentially, we've created a pigeon.",1.8719365349199604,0.0097726045672265,7059,2889,2185,1985,incongruity-absurdity,negative
+"Yes, that's cool.  But it's not statistically significant.",1.8743933771053385,0.0093685375414382,7006,2649,2588,1769,sarcasm,positive
+She’s smart. Looks like we’ll need the glass ceiling.,1.8824298793779977,0.009825002607579,6881,2737,2216,1928,sarcasm,positive
+Now he's just showing off. He doesn't even like Swiss.,1.8520378027170703,0.0093186214513767,6772,2569,2638,1565,sarcasm,negative
+"No, I said I'd marry you when pigs fly.",1.8467621605490896,0.0098548978728936,6702,2773,2183,1746,sarcasm,neutral
+I'm going with 'Above Average'.,1.839717590506234,0.0088952610852823,6657,2372,2980,1305,wit-surprise,neutral
+It appears that someone has been using old copies of Popular Mechanics to line the cages.,1.8354180381830152,0.0098941178816826,6076,2389,2298,1389,incongruity-absurdity,neutral
+"Well, he's certainly thinking outside the box.",1.7479389580775302,0.0098842662655224,5701,2487,2164,1050,wit-surprise,neutral
+"What's really impressive, his degree is Art History.",1.761887800534283,0.0104762202606089,5615,2600,1769,1246,sarcasm,positive
+Is this the batch we got from MIT?,1.7724508050089445,0.0101277056456901,5590,2383,2096,1111,irony,neutral
+"Actually, the really smart ones just stay in their cages and use drones to get the cheese.",1.8027656477438136,0.0103516678767781,5496,2267,2046,1183,irony,neutral
+"He calls it a ""Rat Pack""",1.8962892483349192,0.0109896158187141,5255,1968,1864,1423,irony,neutral
+...I think we should probably go check on the dolphins.,1.8083168316831684,0.0109665397849615,5050,2110,1798,1142,sarcasm,neutral
+Should we call the Pentagon or Disney?,1.8329355608591889,0.0109681220032813,5028,2018,1835,1175,sarcasm,neutral
+We call him Elon Mousk.,1.7639983409373703,0.0114644706927429,4822,2231,1498,1093,irony,neutral

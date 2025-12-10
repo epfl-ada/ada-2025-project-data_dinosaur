@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It’s the camembert. The Cheez Whiz group is cranking out stick figures.”,1.6855095541401277,0.0117449767942092,5024,2779,1046,1199,sarcasm,neutral
+I didn't even know he was Catholic.,1.6557420730082602,0.0130639934971878,3753,2070,905,778,wit-surprise,negative
+This will be worth a fortune after he's incinerated.,1.609933565327428,0.0151281872525615,3161,2000,394,767,exaggeration,negative
+I told you he was a church mouse.,1.667011375387797,0.0139719732294315,2901,1465,937,499,incongruity-absurdity,negative
+I'm pretty sure this one is a church mouse.,1.6781695423855965,0.0148076743077386,2666,1346,832,488,incongruity-absurdity,negative
+"I admit it's beautiful, but he still has to press the lever if he wants a pellet.",1.6682080924855491,0.0148043895071048,2595,1311,834,450,incongruity-absurdity,positive
+Hard to believe he still can't solve the maze.,1.6521403779406094,0.0146181809651241,2593,1326,843,424,unknown,negative
+Let’s add ‘derivative art’ to the list of side effects.,1.6437679967091732,0.0156102796675059,2431,1307,683,441,exaggeration,negative
+My guess is that he didn't get the placebo.,1.697742474916388,0.0160563664735853,2392,1208,699,485,sarcasm,neutral
+Here it comes: the defining scene where God banishes all cats to hell.,1.6341880341880342,0.0155348180006022,2340,1245,706,389,irony,negative
+Yet he couldn't get into Yale.,1.585209003215434,0.0177020355993102,2177,1381,318,478,wit-surprise,negative
+The weird part is this one’s on the placebo.,1.743884892086331,0.0174903669331883,2085,1000,619,466,irony,negative
+And yet he still hasn't figured out the water bottle.,1.6650099403578529,0.0166391446737765,2012,1010,666,336,irony,negative
+This trivializes our work on monkeys with typewriters.,1.580191050779286,0.0177831723806239,1989,1218,388,383,wit-surprise,negative
+Who knew he was a church mouse?,1.6755802219979818,0.0169526309183784,1982,990,645,347,unknown,negative
+It's a pity we neutered him.,1.6534907597535935,0.0172845416699412,1948,1021,581,346,irony,negative
+He’s severely overestimating the size of our grant,1.6156657963446477,0.0163775948855272,1915,1001,649,265,exaggeration,negative
+The control group is doing Impressionism.,1.742208135235077,0.0175266723419833,1893,857,667,369,wit-surprise,negative
+We have a betting pool on what God is going to look like,1.644973544973545,0.016859258894706,1890,962,637,291,irony,neutral
+The hard part was getting him to read the Bible.,1.652785289345592,0.0176717968636026,1849,966,559,324,wit-surprise,neutral
+"Fine, it is derivative, but I say we still give him the cheese.",1.6797532249018507,0.0175636321986236,1783,867,620,296,irony,neutral
+"Frankly, I prefer his sculptures.",1.6279728199320498,0.0172414315048155,1766,914,595,257,wit-surprise,positive
+Michelangelo was also left handed.,1.6073059360730593,0.016992771059423,1752,922,596,234,wit-surprise,neutral
+Sure the painting is amazing. But I’m more impressed with how he built the scaffolding.,1.6755196304849884,0.0178722455245931,1732,851,592,289,wit-surprise,positive
+I don’t think we’ll have to rely on grants anymore.,1.6968408262454435,0.0186097076275573,1646,794,557,295,incongruity-absurdity,neutral
+"Yeah, I was impressed too ... until I realized 
+he was just painting by numbers.",1.594743276283619,0.0178923009704592,1636,894,511,231,wit-surprise,positive
+Micesterpiece.,1.6013639181649102,0.0181725223880104,1613,879,498,236,wit-surprise,neutral
+"Well, he did intern at Disney.",1.5844072164948453,0.0172339110433635,1552,814,569,169,wit-surprise,neutral
+It started with graffiti on the maze walls.,1.6202445652173914,0.0186694593792654,1472,763,505,204,incongruity-absurdity,negative
+"If I'm being honest, I find his work to be a bit derivative.",1.5792349726775956,0.0182684721116714,1464,795,490,179,wit-surprise,negative

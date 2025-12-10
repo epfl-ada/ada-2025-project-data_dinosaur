@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Sometimes a dipstick is just a dipstick.,2.262050497322112,0.017780896176245,2614,827,275,1512,incongruity-absurdity,neutral
+1,"The impotence, that feeling of being out of control when you find yourself parallel parking against your will, probably started when you were being assembled.",1.8199233716475096,0.0587892877042113,261,145,18,98,wit-surprise,negative
+2,I'd like to see you again in two thousand miles.,1.8016194331983808,0.0508768044580956,247,108,80,59,sarcasm,positive
+3,"I'm afraid we're out of time, but I'd like to see you again in 5,000 miles …",1.7376237623762376,0.0563870553407255,202,98,59,45,sarcasm,neutral
+4,And was this your first breakdown?,1.7216494845360826,0.0554129146075909,194,92,64,38,sarcasm,neutral
+5,Where do the voices tell you to go?,1.71875,0.0583393711036371,192,97,52,43,sarcasm,neutral
+6,So you're no longer attending your AAA meetings?,1.712041884816754,0.0591950932966821,191,99,48,44,self-deprecating,neutral
+7,And are the clowns inside you now?,1.701657458563536,0.0626530055351816,181,99,37,45,sarcasm,negative
+8,I don't think I'm charging you enough.,1.6944444444444444,0.0605669583054577,180,95,45,40,sarcasm,negative
+9,"We have to end for today, but I've set your next session for 3 months or 3,000 miles, whichever comes sooner.",1.6927374301675977,0.056607964980012,179,87,60,32,sarcasm,neutral
+10,I just can't seem to control my emissions.,1.680232558139535,0.0620967312802263,172,93,41,38,self-deprecating,negative
+11,"Wait, back up.",1.6745562130177514,0.0596731351250179,169,87,50,32,irony,neutral
+12,My father had a checkered past.,1.6518987341772151,0.0628075534955179,158,86,41,31,unknown,neutral
+13,Lots of cars fall in love with their mechanic. It's called transmission.,1.6496815286624205,0.0644492249750687,157,88,36,33,incongruity-absurdity,neutral
+14,Tell me about your last breakdown.,1.6428571428571428,0.0655875040558436,154,88,33,33,sarcasm,neutral
+15,You got yourself here. That's a good start.,1.6405228758169934,0.0598231390921892,153,79,50,24,self-deprecating,positive
+16,And how many clowns do you think are inside you *right now*?,1.6405228758169934,0.067266636625477,153,90,28,35,self-deprecating,negative
+17,My mother was an Escort.,1.6405228758169934,0.0646591304834974,153,86,36,31,unknown,neutral
+19,Back up a moment,1.6266666666666667,0.0602356793096426,150,79,48,23,irony,neutral
+18,I believe you are expeeriencing Prius envy.,1.6308724832214765,0.0648352453626032,149,84,36,29,sarcasm,negative
+21,"I know this is unprofessional, but could you drop me home after our session?",1.619047619047619,0.0664145825764405,147,86,31,30,sarcasm,negative
+22,These voices inside - do they always tell you where to go?,1.6164383561643836,0.0661087079237982,146,85,32,29,sarcasm,neutral
+20,Let's back up.,1.6206896551724137,0.0611738348999318,145,77,46,22,irony,positive
+23,When did you first realize you had a fear of clowns?,1.6056338028169015,0.0692134747884096,142,87,24,31,unknown,negative
+24,Premature acceleration?,1.6028368794326242,0.066676366536578,141,83,31,27,irony,neutral
+25,It's a classic case of Prius envy.,1.6,0.0647550527378934,140,80,36,24,irony,negative
+26,So tell me about these auto erotic fantasies.,1.6,0.0647550527378934,140,80,36,24,sarcasm,neutral
+27,I don't take auto insurance.,1.6,0.0670935289267436,140,83,30,27,incongruity-absurdity,neutral
+28,"I'm tired of being the ""smart"" car. The girls all go for the muscle cars.",1.6,0.065543815711371,140,81,34,25,sarcasm,negative
+32,And do you consume ethanol on a daily basis?,1.5971223021582734,0.062711990151248,139,77,41,21,sarcasm,neutral

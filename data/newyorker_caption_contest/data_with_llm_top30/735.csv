@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It always ends in tiers......,2.1319645267013687,0.0073909805760762,10374,2345,4315,3714,irony,negative
+I shouldn't be telling you this but I saw her last week on a different cake.,2.0504457050243112,0.0077883031930831,9872,2719,3936,3217,sarcasm,neutral
+"Actually, I'm vanilla. Red Velvet is my stripper name.",1.9591470258136925,0.0085825832639356,8910,3113,3048,2749,self-deprecating,neutral
+I was married once.  Didn’t work out.  She was a tart.,1.8843923016082256,0.0089543965729956,7586,2796,2871,1919,sarcasm,negative
+"Trust me, it’ll all end in tiers",1.9202206376967577,0.0087605662335426,7433,2440,3146,1847,sarcasm,neutral
+"Bad news. Edith left with the DJ.  I guess you can't have your cake and Edith, too.",1.8433626997162909,0.0097680395819331,6697,2746,2254,1697,sarcasm,negative
+"Whoa, the cake you fell off of must have been huge!",1.840731853629274,0.0096977201062001,6668,2706,2318,1644,sarcasm,positive
+"Your wedding,my funeral.",1.8295635552723797,0.0100087920381244,6278,2600,2148,1530,unknown,neutral
+"Just like me, you'll soon be brought down a few levels and consumed by family.",1.8195744680851065,0.010220369672824,5875,2428,2079,1368,self-deprecating,negative
+Hey-- you want a piece of me?!,1.763142233683793,0.0107703690586952,5041,2212,1811,1018,sarcasm,neutral
+I can keep it together during the ceremony. The reception is where I fall to pieces.,1.8695652173913044,0.0106512523982384,4968,1766,2084,1118,incongruity-absurdity,negative
+"So I says to the genie, ‘Make me a wedding cake.’ Big mistake.",1.869345718901454,0.0113645090818819,4952,1949,1701,1302,incongruity-absurdity,neutral
+"I’m expensive, unhealthy, and I don’t last. So yes, I am a metaphor.",1.7768544791244427,0.0110823239197365,4934,2168,1699,1067,self-deprecating,negative
+"I’m not just a pretty face, I have layers",1.849437247823317,0.0109500328325804,4709,1737,1944,1028,self-deprecating,neutral
+Psst—the salad says its olive oil is the only virgin at this wedding.,1.7687199450423632,0.0120280637946852,4367,2001,1375,991,sarcasm,neutral
+She knows about the cupcake.,1.77953926182809,0.0122769547394881,4037,1771,1385,881,sarcasm,neutral
+"So what, she didn’t show. I think we both dodged a bullet here, Ted.",1.790394152962673,0.0125762967207487,3831,1646,1342,843,sarcasm,negative
+"No, I'm not gluten free; a talking cake isn't enough for you?",1.7634069400630914,0.0128292811424276,3804,1747,1210,847,sarcasm,negative
+"She may be marrying you, but you’ll never satisfy her like I do.",1.775744332149686,0.0127050511351738,3661,1584,1314,763,sarcasm,negative
+"I know it’s only your birthday, but your mother wanted me to remind you you’re not getting any younger.",1.7231735159817352,0.0132700733542007,3504,1700,1074,730,sarcasm,neutral
+"I sing, too. Get it? Icing.",1.7231329690346084,0.0132121859877979,3294,1529,1148,617,incongruity-absurdity,positive
+You’re seriously marrying a woman who chose carrot cake?,1.758489368454459,0.0134860397705223,3151,1375,1162,614,irony,negative
+Only one of us is getting out of here in one piece.,1.7186602870813397,0.0127925059362486,3135,1369,1279,487,sarcasm,neutral
+"Yeah, I thought you’d be taller, too.",1.8208240178856596,0.0135167197784683,3131,1226,1240,665,sarcasm,neutral
+How do you know we're not just standing on a bigger cake?,1.6823051348356113,0.0147458632570597,2707,1363,841,503,incongruity-absurdity,neutral
+If you run away now you can save both of us.,1.6459502806736166,0.0149969285245881,2494,1297,783,414,sarcasm,neutral
+This marriage is wrong on so many different levels!,1.629995702621401,0.0152600403314222,2327,1220,748,359,irony,negative
+"I love a wedding, but I always end up shedding a tier or two.",1.6455531453362255,0.0149276754704066,2305,1145,832,328,incongruity-absurdity,positive
+"You probably get this a lot but you look a lot like the groom, only bigger",1.6309859154929578,0.015474914853293,2130,1081,754,295,sarcasm,neutral
+What are you looking at pal?  At least you get to leave here in one piece!,1.6260162601626016,0.0156440542621956,2091,1072,729,290,sarcasm,neutral

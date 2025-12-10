@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Oh sure, when a MAN does it, suddenly it’s such a big deal!",2.0827706382051843,0.0064370752638969,13773,3407,5819,4547,sarcasm,negative
+I don't know how to tell him it's not his.,2.0184455305060696,0.0068856616597127,12686,3700,5052,3934,irony,negative
+At least the hard part's over.,1.994898372337841,0.0071652281942221,12349,3946,4520,3883,self-deprecating,positive
+"To be honest, I don’t remember which one came first",1.9253704042436437,0.0075914040378226,10934,3883,3984,3067,irony,neutral
+But will he lift a finger after it hatches?,1.949407262204798,0.0074061499478089,10713,3432,4391,2890,irony,neutral
+I’d leave him if he weren’t such a good lay.,1.906031807602793,0.0081219315849005,10312,4037,3207,3068,self-deprecating,negative
+It's for our retirement.  Harold always takes things so literally.,1.9602642276422764,0.0077716050777917,9840,3127,3977,2736,irony,neutral
+Turns out it wasn’t a kidney stone after all.,1.9474332648870636,0.0080983480013913,9740,3380,3492,2868,irony,neutral
+You're so lucky. I can't even get my husband to water the plants.,1.8410824365270089,0.0076435387196399,9571,3557,3978,2036,sarcasm,positive
+"I didn’t know he had it in him, either.",1.865932856356632,0.0079870433623272,9085,3323,3657,2105,sarcasm,negative
+I thought you were empty nesters.,1.8026103026103024,0.0080868453304474,8658,3474,3419,1765,sarcasm,negative
+Arthur's third wish was for a 'young chick.',1.977470677040994,0.0088536139740333,8611,3005,2795,2811,irony,neutral
+His left one has already been removed..,1.7849963226280952,0.0092020670003593,8158,3883,2146,2129,irony,neutral
+These are the things that no one tells you about before you marry an ornithologist.,1.7933701657458565,0.0084615070883133,8145,3390,3048,1707,sarcasm,neutral
+I don't mind him sitting on it.  It's the clucking that annoys me.,1.797355674826548,0.0087138244946382,7639,3146,2895,1598,incongruity-absurdity,negative
+"We like ""Humpty"", if it is a boy.",1.8638637285385968,0.0091356078624617,7397,2855,2694,1848,incongruity-absurdity,neutral
+It was the only thing at Ikea that he didn't have to assemble.,1.6987066431510875,0.0091677312252114,6804,3279,2296,1229,incongruity-absurdity,neutral
+Did Jim always wear glasses?,1.77847533632287,0.0097954008805281,6690,3054,2065,1571,incongruity-absurdity,neutral
+"We don't care if it's a brontosaurus or a t-rex, as long as it's healthy.",1.7250936329588016,0.009155882653488,6675,3037,2436,1202,incongruity-absurdity,neutral
+"Costco, where else?",1.855822550831793,0.0098386259431887,6492,2575,2278,1639,irony,neutral
+He's brooding again.,1.7096356275303644,0.0094829284256437,6175,2871,2226,1078,sarcasm,negative
+I should've asked for specifics when he said he had a nest egg.,1.821304586150192,0.0101267670152312,5473,2112,2227,1134,sarcasm,neutral
+Quit your whining. I hatched the first three all by myself.,1.5920815836832634,0.0100106850148059,5001,2689,1663,649,sarcasm,neutral
+"On the bright side, he’s cage free.",1.7789621882542237,0.0107308980248005,4972,2094,1883,995,irony,positive
+I’m just praying the real mother doesn’t come back.,1.6413938753959874,0.0105968058546283,4735,2412,1609,714,sarcasm,negative
+It's only fair. I had to lay it.,1.6985040276179515,0.0113068722856722,4345,2059,1537,749,incongruity-absurdity,neutral
+"After this, he flies North for winter, thank God.",1.6111655239960825,0.0116174263745927,4084,2228,1216,640,irony,positive
+At least somethings getting laid here,1.602124183006536,0.0124389221368462,3672,2064,1005,603,irony,neutral
+Don’t ask why. Ask how.,1.7564429340130274,0.0127320288482246,3531,1545,1301,685,wit-surprise,neutral
+"Somewhere, there’s a confused but comfortable chicken sitting in a BarcaLounger.",1.668965517241379,0.013271966493793,3335,1714,1011,610,incongruity-absurdity,neutral

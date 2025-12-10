@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I suspect vowel play,1.6777353081700908,0.0117004141743407,4186,2091,1353,742,wit-surprise,neutral
+Why couldn’t he have been murdered on a Monday.,1.6401785714285717,0.0121203305763493,3360,1651,1267,442,irony,negative
+I have a feeling all will be revealed tomorrow.,1.640139505389981,0.0127023748885423,3154,1574,1141,439,irony,neutral
+It's almost as if they want me to solve it,1.6170670491215489,0.0128253527158417,2789,1378,1101,310,wit-surprise,neutral
+Some mastermind. It’s in pencil.,1.5283858998144713,0.0131085832558844,2695,1559,848,288,incongruity-absurdity,neutral
+"Until now, my dear Watson, we have never had a cross word between us.",1.53903623459096,0.0142818096142044,2677,1632,647,398,wit-surprise,neutral
+"Supersleuth, six letters, and you put Marple?",1.6222504230118444,0.0154861427692989,2364,1285,687,392,wit-surprise,neutral
+"Done in ink. We're dealing with a narcissist, Watson.",1.6295979469632165,0.0159224399725872,2338,1286,632,420,sarcasm,negative
+"Greatest fictional sleuth: P, O, I, R… oh, you’ve got to be kidding me.",1.5495028102031994,0.0155710626037424,2313,1404,547,362,wit-surprise,positive
+"That's not a clue, Watson.  It's mustard.",1.516696750902527,0.0156317305359012,2216,1394,499,323,wit-surprise,negative
+"My dear Watson, many a murder begins with a cross word.",1.5809875403784033,0.0152775875424548,2167,1192,691,284,wit-surprise,negative
+"All killers leave clues, but what sick bastard publishes them?",1.5518913676042676,0.0164639121563018,2062,1245,496,321,sarcasm,negative
+"‘Grade School’… ten letters… It’s ELEMENTARY, my dear Watson!",1.5492253873063468,0.0165291777768463,2001,1201,501,299,wit-surprise,neutral
+"Dammit, Watson. Why is the answer to 'English crime-solver' always 'Miss Marple?'",1.509090909090909,0.0161255947328881,1925,1186,498,241,wit-surprise,negative
+"The body's digestive canal?""- why it's ""alimentary"" my dear Watson",1.525875588081547,0.0165923024497661,1913,1172,476,265,wit-surprise,neutral
+"What is a four letter word that completes the phrase: ""No ____, Sherlock.""",1.5661804430037818,0.0184261285854796,1851,1157,340,354,wit-surprise,neutral
+"The answer’s buried, 6 down.",1.5028184892897407,0.0141693737517523,1774,976,704,94,incongruity-absurdity,neutral
+We need to think inside the box.,1.531557614360162,0.0169266115176113,1727,1021,494,212,incongruity-absurdity,neutral
+It’ll be easier to solve this mystery on Monday.,1.4981905910735829,0.0160134647551962,1658,977,536,145,incongruity-absurdity,neutral
+"' Schools young children attend.'  Elementary, my dear Watson.",1.4975429975429977,0.0190078397596216,1628,1093,260,275,wit-surprise,neutral
+This is littered with clues...almost as if it were intentional...,1.4895977808599168,0.018411016992328,1442,908,362,172,incongruity-absurdity,neutral
+"If we can't crack this one, Watson, it won't be for lack of clues.",1.4911785462244178,0.018111003026679,1417,873,392,152,wit-surprise,negative
+I see clues in both directions.,1.496318114874816,0.0167250248284115,1358,772,498,88,incongruity-absurdity,neutral
+Back to square one. Then across and down.”,1.4854586129753915,0.0191498272919696,1341,852,327,162,incongruity-absurdity,neutral
+It has Will Shortz's fingerprints all over it.,1.484690067214339,0.018519106665334,1339,830,369,140,irony,neutral
+This has Will Shorts fingerprints all over it!,1.4841208365608056,0.0188288675548956,1291,800,357,134,sarcasm,neutral
+"Look, Watson, a magazine with a partially filled in crossword puzzle. Now we know our killer must be at least fifty years old.",1.5465393794749402,0.0207157655821866,1257,753,321,183,irony,negative
+What is THIS supposed to mean? Who is Doctor Watson’s sidekick?,1.4794188861985471,0.0198966019325417,1239,794,296,149,wit-surprise,neutral
+"It’s a challenge from my nemesis, Will Shortz.",1.4787581699346406,0.0203422219876502,1224,795,272,157,wit-surprise,neutral
+This is no mystery.  There are clues all over the place!,1.4827586206896552,0.0197485802607192,1189,742,320,127,wit-surprise,neutral

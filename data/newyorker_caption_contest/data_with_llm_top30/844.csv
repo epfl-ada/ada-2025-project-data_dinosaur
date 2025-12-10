@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You can leave your label on.,1.7877721574664611,0.011663957253112,4547,1991,1530,1026,incongruity-absurdity,neutral
+Good news. I found a way to stop your aging.,1.744812783210112,0.012441913760417,4193,2032,1199,962,sarcasm,positive
+"You won't be able to drive after this, and neither will I.",1.698842788597234,0.0130331576544464,3543,1760,1090,693,incongruity-absurdity,negative
+I’m afraid you need glasses.,1.7370408513559903,0.0150391492596685,2913,1443,793,677,sarcasm,negative
+You must be my 5 o'clock,1.7271107944424653,0.0148501461436406,2807,1356,861,590,sarcasm,neutral
+I’m detecting subtle notes of fear and distrust.,1.691734921816828,0.0145879610027331,2686,1309,896,481,sarcasm,negative
+First the good news...you've aged well.,1.7799145299145298,0.0163752935869596,2340,1048,759,533,sarcasm,positive
+"It's like acupuncture, but... with a twist.",1.7516853932584269,0.0189758440434499,1780,846,530,404,wit-surprise,neutral
+"Relax, I've performed this procedure thousands of times.""",1.69782480893592,0.0182458792921386,1701,816,583,302,sarcasm,positive
+We'll both be feeling better in no time.,1.6149323927101704,0.0180754406263075,1701,926,504,271,self-deprecating,positive
+"It's a routine procedure, but I would recommend someone drive me home afterwards.",1.7583932853717026,0.0195582491937847,1668,782,507,379,wit-surprise,neutral
+Relax.  It's just something to help you breathe.,1.6825588412794206,0.0181408943905511,1657,798,587,272,unknown,neutral
+"It’s a minor procedure, and afterwards we’ll both feel much better.",1.674060382008626,0.0186798472845098,1623,810,532,281,incongruity-absurdity,positive
+Now open wide and I'll say 'ahh.',1.62397476340694,0.0191622757258272,1585,871,439,275,sarcasm,neutral
+It's standard procedure at your age,1.7755231452124287,0.0194326186483573,1577,686,559,332,sarcasm,neutral
+"You'll feel a slight prick, but then you can breathe.",1.637012987012987,0.0186016366333075,1540,791,517,232,incongruity-absurdity,neutral
+The good news is that you were born in a very good year.,1.6901041666666667,0.0191039428793947,1536,742,528,266,exaggeration,positive
+"Actually, you ARE the anesthesia.",1.672811059907834,0.0193839024312736,1519,763,490,266,sarcasm,neutral
+"The good news is, you've aged well . . . .",1.7782956058588548,0.0199040907763202,1502,650,535,317,self-deprecating,positive
+Here we are…just a little something to help you breathe.,1.6156996587030716,0.0185326692986474,1465,758,512,195,unknown,positive
+"But I'm a screw-top, Doctor. Did you even examine me?",1.6209510682288075,0.0200704939774579,1451,803,395,253,self-deprecating,negative
+"Yes, I do have something that will help you breathe.",1.6363636363636365,0.0187236146559739,1441,721,523,197,sarcasm,positive
+"Hello, you must be my five o' clock.",1.5986062717770035,0.0203096035600216,1435,828,355,252,sarcasm,neutral
+You'll feel much more relaxed once we let you breathe.,1.611344537815126,0.0188660775938131,1428,748,487,193,sarcasm,positive
+Once I leave the room you can pour it into this cup.,1.641801548205489,0.0203140758702725,1421,762,406,253,incongruity-absurdity,neutral
+I think I see what's stopping you up...,1.6305732484076434,0.0195833724205439,1413,740,455,218,sarcasm,neutral
+I have something that can help you breathe,1.6645253390435404,0.019428026277323,1401,684,503,214,unknown,positive
+"I recommend we run some routine tests -- tannins, structure, undertones of blackberry, that sort of thing.",1.6385110952040085,0.0197985366317925,1397,726,450,221,wit-surprise,neutral
+I'm happy to report you're full-bodied with an excellent nose.,1.6415770609318996,0.0195176998108774,1395,710,475,210,sarcasm,positive
+"Trust me, you’ll breathe more freely after this.",1.621135873472322,0.0191268175761919,1391,717,484,190,unknown,positive

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+„.dnos ǝɥʇ ɹǝpɹo ʇ’uoᗡ„,1.920437593237195,0.0131216564558835,4022,1565,1212,1245,sarcasm,neutral
+I'm definitely ordering the sticky rice.,1.8231098430813124,0.0143667987658221,2804,1103,1094,607,unknown,neutral
+Your first time in Australia?,1.811014711429649,0.0156213275441397,2651,1155,842,654,irony,neutral
+"I guess I should have said ""cheers"" instead of ""bottoms up.""",1.8318851530034,0.015199969531343,2647,1069,954,624,sarcasm,neutral
+"If we order the apple turnover, we should be ok.",1.7944307944307945,0.0156545033418267,2442,1033,878,531,irony,neutral
+We should've ordered our drinks straight up.,1.8339622641509432,0.0164694819810726,2385,1002,777,606,incongruity-absurdity,neutral
+"On the upside, your glass is no longer half-empty",1.8043937473595268,0.0157454895732372,2367,971,888,508,self-deprecating,positive
+I thought the sign said  no tipping.,1.7928730512249442,0.0163862242359636,2245,957,796,492,incongruity-absurdity,neutral
+Trust me. Don’t use the restroom.,1.789142026175473,0.0174631417056026,2063,912,674,477,sarcasm,neutral
+I don't think you understand the gravity of the situation.,1.8048048048048049,0.0177695635372156,1998,863,662,473,sarcasm,negative
+I think cannabis is much stronger now than when we were teenagers.,1.7913223140495869,0.0178954292936277,1936,844,652,440,irony,positive
+So you see why I need to flip this house before selling it.,1.7796791443850268,0.0182277582337854,1870,832,618,420,unknown,neutral
+When I saw it was a rotating restaurant i assumed they meant horizontal.,1.7747945205479452,0.0180658804322468,1825,795,646,384,wit-surprise,neutral
+Where are the little drink umbrellas when you need them?,1.812249570692616,0.0188377445110607,1747,736,603,408,incongruity-absurdity,neutral
+I’m not sure you appreciate the gravity of the situation.,1.8255813953488371,0.0191975680591442,1720,721,578,421,wit-surprise,negative
+"Quick, in the upper right-hand corner, click on Rotate Frame.”",1.794961921499707,0.0190086136131923,1707,737,583,387,incongruity-absurdity,neutral
+They forgot the little umbrellas.,1.7705705705705703,0.0193219809747706,1665,752,543,370,incongruity-absurdity,negative
+Nope - I still have the hiccups,1.7819181429444104,0.0195266468014817,1637,728,538,371,self-deprecating,neutral
+"You’re right Susan, this restaurant has done a 180 since we last dined.",1.768079800498753,0.01921897176651,1604,704,568,332,sarcasm,negative
+It appears the tables have turned.,1.8742138364779872,0.0196429529392602,1590,600,590,400,irony,neutral
+"Okay, fine...then explain the tablecloth.",1.8234544295729764,0.0201822858682675,1569,664,518,387,sarcasm,neutral
+"When you said revolving restaurant, I was picturing something different.",1.7872204472843451,0.0200110320780761,1565,692,514,359,wit-surprise,neutral
+I think I'll wait till we get home to use the bathroom.,1.763897972531066,0.0201199407272851,1529,696,498,335,unknown,neutral
+I dread going to the restroom.,1.7715036112934996,0.0203769562854263,1523,695,481,347,self-deprecating,negative
+Things aren't really back to normal are they?,1.7852882703777335,0.0194226289137681,1509,626,581,302,sarcasm,negative
+We should leave before he brings the soup.,1.7843791722296396,0.0193235922742782,1498,615,591,292,unknown,neutral
+This place is number 6 on TripAdvisor... or was it 9?,1.7927989130434785,0.020362469483073,1472,633,511,328,incongruity-absurdity,neutral
+I'm just grateful we have a roof under our heads,1.7870307167235495,0.0199492257218508,1465,616,545,304,self-deprecating,positive
+"Stop saying ""Bottoms up!"".",1.759180790960452,0.0204860077517313,1416,632,493,291,sarcasm,negative
+"Listen,I think it's clear we both have a drinking problem.",1.7547864506627393,0.0210602053205236,1358,616,459,283,sarcasm,negative

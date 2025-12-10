@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I’m secretary of the exterior.,1.8368766143453208,0.0115918305390261,5033,2179,1496,1358,wit-surprise,neutral
+"Yes, Helen, I'll be home for lunch.",1.7697468080502057,0.0117330684534419,4621,2124,1437,1060,wit-surprise,positive
+Honey can you close the door? I’m in a meeting.,1.866906474820144,0.0120773779541861,4448,1778,1484,1186,sarcasm,neutral
+My company rehired me as an outside consultant.,1.8043822597676875,0.0128156123010893,3788,1621,1287,880,irony,neutral
+Tell him I’m out.,1.7635135135135136,0.0136955716005504,3256,1470,1086,700,sarcasm,neutral
+I told you nobody would notice my missing pants.,1.7296780363404527,0.0147584988491658,3137,1610,765,762,incongruity-absurdity,neutral
+Tell them I'm not in.,1.7598953222113185,0.014094084824477,3057,1383,1025,649,sarcasm,negative
+Our company is going public.,1.7652859960552267,0.0141048987488078,3042,1361,1034,647,exaggeration,neutral
+It’s an entry-level position.,1.7659432387312186,0.0144831012827409,2995,1373,950,672,incongruity-absurdity,neutral
+Call me on my outside line.,1.7542898868200072,0.0148043801657357,2739,1241,930,568,unknown,neutral
+"You're right, the neighbors WiFi is better.",1.7647058823529411,0.0147842318002914,2703,1191,957,555,sarcasm,positive
+They keep asking if I've got lemonade.,1.748259860788863,0.0153987742112886,2586,1200,837,549,sarcasm,neutral
+"Yes, dear. I'll come straight home after work.",1.7470735785953178,0.0154656942924268,2392,1063,871,458,sarcasm,neutral
+I got promoted to the front office.,1.7370417193426042,0.0158827176046366,2373,1104,789,480,unknown,positive
+The most unbelievable part of this cartoon is that there are open parking spaces.,1.7938448566610454,0.0170462232858559,2372,1112,637,623,irony,negative
+"Yes,  I'm wearing pants.",1.743028743028743,0.0163002864479464,2331,1098,734,499,self-deprecating,neutral
+My boss said we could slowly transition back to the office. Next week I’ll be by the bus stop.,1.7477163984341018,0.0161483804068935,2299,1052,775,472,sarcasm,neutral
+Corporate says I can't work from home anymore; but I discovered a loophole.,1.7220355256841096,0.0164675684684532,2083,958,746,379,irony,neutral
+The hot dog guy got the corner office.,1.734664070107108,0.0169980385748322,2054,954,691,409,incongruity-absurdity,neutral
+Because everyone in my Zoom meeting could hear you snoring.,1.7299162148841791,0.0175404543851474,2029,981,615,433,sarcasm,neutral
+"Shall I say you're in, or out?",1.7232188621219888,0.0172688580037449,1951,912,667,372,sarcasm,neutral
+This was as far as the wi-fi goes,1.7659574468085106,0.0171015421172617,1927,821,736,370,irony,neutral
+"Fired? No, they just kicked me to the curb.",1.7443091582848067,0.0177646244610734,1889,866,640,383,self-deprecating,negative
+I'm with Teachers Without Schools.,1.702572347266881,0.0177458049965059,1866,908,605,353,unknown,neutral
+I'll be home late tonight. Unless it rains.,1.7388183324130315,0.0178418388758682,1811,820,644,347,incongruity-absurdity,neutral
+I'm still not wearing pants.,1.7427777777777778,0.0185802190986818,1800,850,563,387,self-deprecating,negative
+Eat without me.  I'm hung up at work and traffic's a mess.,1.6950998185117967,0.0190243404224509,1653,823,511,319,sarcasm,negative
+Your 3 o’clock is waiting behind that tree. Shall I send him in?,1.776536312849162,0.0195719828781759,1611,717,537,357,sarcasm,neutral
+My boss told me to transition slowly back to the office.,1.7041251778093884,0.0193404571183871,1406,639,544,223,incongruity-absurdity,neutral
+The Doctor said to work out more.,1.6845110635260527,0.0206767560335914,1401,710,423,268,unknown,neutral

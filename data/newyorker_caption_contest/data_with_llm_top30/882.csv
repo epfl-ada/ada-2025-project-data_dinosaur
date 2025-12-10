@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I think this calls for a discouraging word.,1.7866024869634978,0.0119357819148314,4986,2416,1218,1352,unknown,negative
+He saw the wrong man about a horse.,1.680341524364848,0.0110486733702665,4802,2420,1497,885,wit-surprise,negative
+Never buy a horse online.,1.6730401529636711,0.0138875634123885,3138,1630,904,604,incongruity-absurdity,negative
+He’s been through the desert on a horse with no mane.,1.6839137645107791,0.014760194054349,3015,1617,734,664,unknown,neutral
+Definitely his first rodeo.,1.6619964973730297,0.0141386319251892,2855,1460,900,495,sarcasm,positive
+Yes. This is his first rodeo.,1.6517922457937089,0.0145162058802286,2734,1429,828,477,sarcasm,positive
+"Yeah, he’s good. But I don’t think he’s going anywhere.",1.7133898930284028,0.0150148367324949,2711,1328,832,551,sarcasm,neutral
+And that's why we never use a job recruiter from back East.,1.6125,0.0147540780821273,2640,1468,727,445,wit-surprise,negative
+"Apparently, this IS his first rodeo",1.642629482071713,0.015270058868506,2510,1343,721,446,sarcasm,neutral
+Billy lost his horse in the divorce.,1.6115496468633153,0.0153345358806773,2407,1330,682,395,unknown,negative
+"Because his mother owns the ranch, that’s why.",1.622037422037422,0.0151979887969714,2405,1294,726,385,unknown,neutral
+"Nope, that ain’t the horse he rode in on.",1.6528649100794646,0.0158072671688509,2391,1273,675,443,sarcasm,negative
+"All you asked was, ""Is he good on a horse?""",1.6278083933870284,0.015294623410346,2359,1253,731,375,wit-surprise,neutral
+"He's also the fastest gun in the west, so no one wants to tell him.",1.6704397039616892,0.01602014185759,2297,1180,694,423,wit-surprise,neutral
+"Well, I don’t know. I think he always worked from home.",1.6004454342984409,0.0159187053921719,2245,1266,610,369,sarcasm,neutral
+"If Hank can't break him, nobody can.",1.6232662192393736,0.0160910235415914,2235,1226,625,384,wit-surprise,negative
+"I have to say, I never thought anyone would break ol' Pommel.",1.60431654676259,0.016026190193876,2224,1249,606,369,wit-surprise,neutral
+Jed's the only cowboy I know with saddle sores on his hands.,1.6098226466575716,0.0159473943449489,2199,1211,635,353,wit-surprise,negative
+We should’ve been clearer when we told him to bring his own horse.,1.6154553817847286,0.0156870295333219,2174,1160,690,324,sarcasm,negative
+I can't wait to see how he circles the wagons.,1.6025702046644454,0.0162784002626038,2101,1168,600,333,sarcasm,positive
+"The Old West is changing, Zeke.",1.6214251090644691,0.0161486798152598,2063,1093,658,312,wit-surprise,neutral
+Reckon I should’ve read the whole résumé…,1.6625186660029865,0.0168781038011731,2009,1028,631,350,sarcasm,neutral
+Like to see him try to lead that horse to water.,1.6154613466334165,0.016624832626793,2005,1089,598,318,wit-surprise,neutral
+Don't fire him yet. Let's see if he sticks the landing.,1.6578125,0.017185526005044,1920,985,607,328,sarcasm,neutral
+"It’s OK.  He’s not a real cowboy, either.",1.631190727081138,0.0172375813514002,1898,1014,570,314,sarcasm,neutral
+"There’s Frank, on his high horse again!",1.6500283607487238,0.0185859349292818,1763,953,474,336,sarcasm,neutral
+Must be his first rodeo.,1.619047619047619,0.0176795510759902,1743,933,541,269,sarcasm,neutral
+He don’t ride too good but his dismount is a thing of beauty.,1.6926182237600922,0.0184161367773397,1734,858,551,325,incongruity-absurdity,positive
+I'll give him a 10 if he lands the dismount without losing his hat.,1.5891517599538372,0.0170784680054069,1733,940,565,228,unknown,neutral
+His therapist told him to get back on the horse.,1.5852307692307692,0.0177179016484993,1625,891,517,217,incongruity-absurdity,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+No one will ever wear that.  Not in 100 million years.,2.019339326782354,0.0081203394447338,9566,2926,3529,3111,exaggeration,negative
+Your meal came with a toy?,1.9365426695842451,0.008591126933653,8683,3075,3084,2524,incongruity-absurdity,neutral
+"If that’s a courtship display, I think I know how we go extinct.",1.966234840132304,0.0092525897386006,7256,2380,2741,2135,sarcasm,negative
+It would be a cruel irony if we go extinct but those hats endure.,1.8746245059288535,0.0100866848518845,6325,2481,2156,1688,irony,negative
+"Well, it's an improvement over your MAGA hat.",1.8740912095175148,0.0107881410548453,6052,2560,1694,1798,sarcasm,positive
+"You can advocate for wind power all you want, Randy, but you’re not going to escape your fossil fuel destiny.",2.0448430493273544,0.0101875252586321,5798,1620,2298,1880,sarcasm,negative
+It just doesn't say 'apex predator' to me.,1.8446412754650132,0.0106368276800123,5645,2309,1904,1432,irony,negative
+The hat is kinda dorky but the kid was delicious.,1.7445198836081477,0.0109170536804985,5155,2410,1652,1093,irony,positive
+How did you get it on?,2.0151484951166037,0.0115116414431087,5017,1630,1681,1706,sarcasm,neutral
+"‘You know, sometimes I look at you Dave and think our species is doomed.’",2.0269121813031163,0.010975385244166,4942,1406,1997,1539,sarcasm,negative
+"No, it doesn’t make your arms look small. . . but how did you get it on your head?",1.692842105263158,0.0111070193063902,4750,2345,1519,886,sarcasm,neutral
+I’m a Velocicopter.,1.795049934867564,0.0118740012381588,4606,2064,1422,1120,incongruity-absurdity,neutral
+"I don't know, Bob.  It's a nice hat, but that boy's mom is bound to ask where the rest of him is.",1.6887976822790922,0.0120096379579484,4142,2082,1267,793,wit-surprise,neutral
+"I'm sorry, Herbert. I can't keep waiting for you to evolve.",1.8859757605738312,0.0121399647008746,4043,1461,1582,1000,sarcasm,negative
+They put me at the children's table; so I ate one.,1.885828743114672,0.0129485749112147,3994,1591,1268,1135,incongruity-absurdity,neutral
+How did you put that on?,1.693406868889446,0.0123847880172831,3989,2019,1174,796,sarcasm,neutral
+And now we will hear from Mr. Giuliani’s next witness,1.7441059602649007,0.0133544608060237,3775,1877,987,911,sarcasm,neutral
+That's gonna keep some archeologist up for nights in about 3 trillion years from now.,1.8236826867400115,0.0132111784148154,3454,1399,1265,790,irony,neutral
+That must be from our preposterous period.,1.812845103167684,0.0138221013647862,3441,1513,1059,869,exaggeration,negative
+"Well yes, it does make you look younger, but prehistoric is still ‘prehistoric.",1.6859430604982206,0.0127243196226382,3372,1616,1199,557,sarcasm,neutral
+I wouldn't be caught extinct in that.,1.7078858545566125,0.013655408983365,3259,1605,1001,653,incongruity-absurdity,neutral
+"Be patient.  In ten million years, you'll fly without that.",1.6753894080996885,0.0140511549680039,3210,1707,838,665,incongruity-absurdity,positive
+"You're 65 million years old, Todd.",1.8762455801992928,0.0143536408609241,3111,1213,1070,828,sarcasm,neutral
+What do you mean you don’t know what happened to the kid ?,1.8617741360883504,0.0148219124492167,2807,1086,1023,698,irony,negative
+"Well, to be honest, Phil.  I would have eaten the hat too.",1.749463135289907,0.0144819090226915,2794,1256,982,556,sarcasm,neutral
+"Wait, what? We’re going extinct? I thought you said wear something distinct!",1.7101073676416143,0.0153843089011599,2701,1368,748,585,incongruity-absurdity,negative
+Yes. it does make your arms look too short.,1.6936104695919938,0.0149209298709091,2598,1271,852,475,sarcasm,negative
+All I'm saying is Tyrannosaurus Rex translates as “King of the Tyrant Lizards” and the hat kind of takes away from that.,1.723504106374658,0.0146751009666054,2557,1155,954,448,irony,neutral
+I now identify as velocicopter.,1.6610302791977978,0.0153735247371298,2543,1341,723,479,unknown,neutral
+You’re right. No one will notice the arms anymore.,1.924629324546952,0.0155080588540995,2428,807,997,624,self-deprecating,neutral

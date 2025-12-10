@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+The leftover salmon. Into my dish. You will remember nothing.,2.102103786816269,0.0070387746997584,10695,2363,4885,3447,sarcasm,neutral
+"Remember all the times I ran into the wall chasing that red dot? Who's laughing now, Gary?",2.023674333557887,0.0078477917828709,10391,3207,3732,3452,self-deprecating,neutral
+Must....return....new....puppy...,2.0401525798032525,0.0075376409510355,9962,2637,4292,3033,irony,neutral
+The ahi. Not the canned.,1.922654361678752,0.0078314528095021,9102,2952,3915,2235,irony,neutral
+For 13 years Fred inexplicably woke up with fingertips that smelled like tuna.,1.9227058559569217,0.0081364329355024,8914,3016,3577,2321,unknown,negative
+Having nine lives: awesome. Controlling one human: priceless.,1.920501138952164,0.0084851110127338,8780,3164,3155,2461,self-deprecating,positive
+Now it is I who will post videos of you on the internet.,1.9251227028877984,0.0084353371013073,8761,3093,3235,2433,sarcasm,neutral
+"When you wake, you won't miss the dog, the new kitten, or the liver pate.",1.9196032672112016,0.0082263185966787,8570,2877,3513,2180,sarcasm,positive
+Why we never heard much about Pavlov's cat.,1.9189930209371884,0.0089670124010926,8024,2962,2759,2303,wit-surprise,neutral
+"You will not vote for someone who ""grabs em' by the pussy.",1.8373122317596569,0.0097975455113227,7456,3388,1899,2169,irony,negative
+When you awake you will forget you have fed me.,1.7905803195962997,0.008796036997063,7134,2887,2860,1387,incongruity-absurdity,neutral
+"Whenever I am in the kitchen, it's time to feed the cat.  Whenever I am in the kitchen, it's time...",1.8363816815539489,0.0089185689175208,7053,2662,2888,1503,incongruity-absurdity,neutral
+"Excellent. Now get the dog, get in the car, and drive it back to the shelter.",1.7988955361251726,0.0093231502774528,6519,2649,2538,1332,sarcasm,positive
+"That's right: just open the fridge, put the tuna salad on the floor and walk away.",1.8167381292679057,0.0090742383218243,6297,2335,2789,1173,irony,neutral
+"You will obey my every whim. Oh wait, you already do.",1.813228294764484,0.0099819309789723,6093,2537,2162,1394,self-deprecating,positive
+"Repeat after me, I will never again dress my cat for Halloween.",1.8288508557457213,0.0107118549582053,5317,2162,1906,1249,irony,negative
+"Of course, being a cat, Mr. Fluffy never used his powers for good.",1.7324716020368194,0.0108003601981667,5106,2406,1668,1032,incongruity-absurdity,neutral
+Your fish is my command.,1.847767393561786,0.0114735904298431,4815,1948,1652,1215,incongruity-absurdity,neutral
+"As it was in ancient Egypt, so shall it be on East 48th.",1.7341935483870967,0.011193224699243,4650,2149,1593,908,incongruity-absurdity,neutral
+Who's got the laser pointer now?,1.7338868254315054,0.0110726966965974,4577,2065,1669,843,irony,neutral
+I will uncage the canary...I will uncage the canary...,1.6700046576618537,0.010883155902655,4294,2039,1635,620,unknown,neutral
+Schroedinger's cat liked to keep Keith awake and asleep at the same time.,1.7659730722154223,0.0126892500233106,4085,1933,1175,977,incongruity-absurdity,neutral
+"Yes, that’s it. Now open the door and hand me the tuna...",1.6133780991735538,0.0110623471424044,3872,1965,1443,464,sarcasm,neutral
+"...and you will continue to believe that your are the boss""",1.6654498044328552,0.0117811725175556,3835,1894,1337,604,sarcasm,neutral
+Catatonic State,1.7613212573255197,0.0127439848154843,3754,1699,1252,803,self-deprecating,neutral
+"You will open the door, you will open a can of cat food, you will taste the cat food, and see if  YOU think it tastes like tuna.",1.727995289961731,0.0131427371030882,3397,1584,1153,660,irony,neutral
+"You never thought I’d actually catch the laser, did you Tom?",1.6811684275947794,0.0135862005653783,3218,1637,972,609,irony,negative
+"Open the frig door, Hal.",1.680487002303389,0.013934807690175,3039,1537,936,566,incongruity-absurdity,neutral
+Purrfect.. now take the tuna fish out of the refrigerator... and put the dog in the freezer.,1.7007101792357118,0.014286807375429,2957,1467,908,582,incongruity-absurdity,positive
+"When I say 'meow', you will feed me liver pate from Katz's Deli.",1.6355785837651122,0.0135512762929596,2895,1489,972,434,incongruity-absurdity,neutral

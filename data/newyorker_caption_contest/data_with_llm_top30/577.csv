@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2,"When I said I wanted some concessions, this is not what I had in mind.",2.061598506702868,0.0100781532732723,5893,1593,2344,1956,irony,negative
+5,I thought winning tacos for life would be a little different.,2.0133626212703644,0.0103331589351397,5463,1557,2276,1630,irony,neutral
+12,I feel like he knows I wrote that Yelp review.,1.923105566933532,0.0105088825582218,5371,1815,2154,1402,sarcasm,neutral
+3,Your mother and I don't think working from home is a good idea.,2.045072002992332,0.0107284619325257,5347,1530,2046,1771,sarcasm,negative
+6,I guess I thought a la cart meant something else.,1.9731425210742992,0.0108407102348781,5101,1599,2040,1462,irony,neutral
+16,"What do you mean, we're ""outside your delivery radius""?",1.891464471403813,0.0117370095390234,4616,1745,1627,1244,sarcasm,neutral
+11,The AirBnB listing did say it was close to dining options.,1.9390026714158504,0.0110096495317933,4492,1368,2030,1094,irony,neutral
+1,Ask if they deliver.,2.101634206402508,0.0118552489290402,4467,1198,1617,1652,sarcasm,neutral
+20,It's included with our Amazon Prime.,1.8374218374218372,0.0120651145390182,4158,1651,1532,975,irony,neutral
+21,He can stare at us all he wants. I'm waiting for the pretzel guy.,1.8307806324110671,0.0117326084773088,4048,1528,1677,843,sarcasm,neutral
+4,You're the one who told him he had to find a job or move out.,2.0212221938123243,0.0121009062185488,3911,1079,1670,1162,irony,negative
+19,I'll go on line and check out the menu.,1.8437259430331023,0.0125565952085842,3897,1549,1408,940,incongruity-absurdity,neutral
+7,"The ad said, 'Cozy getaway with a personal chef.'",1.9727195225916452,0.0124709861896559,3519,1012,1591,916,incongruity-absurdity,neutral
+0,We meant get a job AND move out.,2.160504959422904,0.0134449439854934,3327,776,1241,1310,irony,neutral
+25,We get one month free. And we can cancel at anytime.,1.8070439494280557,0.013037756981764,3322,1320,1323,679,sarcasm,neutral
+31,Somehow I expected more from that small business loan to your brother.,1.7844932844932846,0.0128364633503216,3276,1313,1356,607,sarcasm,negative
+14,Two minutes until halftime. I'll get in line while you use the bathroom.,1.905057399937946,0.0136291035212247,3223,1132,1265,826,sarcasm,neutral
+27,And I thought my first two wishes were stupid.,1.797709923664122,0.0137172279935054,3144,1312,1156,676,irony,negative
+40,"Well, he did promise he'd be able to start his own business and work from home.",1.7496657754010696,0.0134524513539193,2992,1278,1185,529,exaggeration,neutral
+30,"I don't know. What has a college degree, a stupid business plan and needs to move out of the house?",1.7911096256684491,0.0145573041170875,2992,1326,965,701,sarcasm,negative
+35,I'll order if you'll pick up.,1.7708023774145616,0.0147009011865527,2692,1162,985,545,sarcasm,neutral
+8,I'll call in the order if you pick it up.,1.9702270189802755,0.0145580993330503,2687,806,1155,726,sarcasm,neutral
+26,I think you're right. It would look better on the other wall.,1.7978252114377768,0.0149885122288078,2483,994,997,492,wit-surprise,positive
+28,Don't buy anything. It will just encourage him.,1.7949858471492115,0.0151927403020217,2473,1011,958,504,sarcasm,negative
+38,One of us needs to learn how to cook.,1.757415684681024,0.0149780353625048,2461,1050,958,453,sarcasm,neutral
+41,"Alexa, find the nearest food truck",1.745528455284553,0.0157402147577852,2460,1142,802,516,sarcasm,neutral
+17,"And then you said ""I wish we had hotdogs like these at home.""",1.8873552983081032,0.0159856136651393,2246,785,929,532,irony,neutral
+39,I preferred the elephant in the room.,1.7540378403322563,0.0167945845467555,2167,994,712,461,unknown,neutral
+22,"Yes, everything is made in house.",1.8282088823816496,0.0164209012803091,2049,772,857,420,irony,neutral
+15,Five bucks the Korean fusion truck in the spare bedroom puts him out of business in a month.,1.893991206643869,0.0174273419374608,2047,756,752,539,sarcasm,negative

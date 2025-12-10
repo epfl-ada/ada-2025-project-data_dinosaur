@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I didn't say I would help.  I said I'd accompany you.,2.14843380014884,0.0063150702858307,14781,3472,5663,5646,wit-surprise,neutral
+Our next song is dedicated to a special someone who decided not to take the family to his in-law’s Florida timeshare.,1.9809118023008097,0.0073529179375678,11735,3889,4202,3644,sarcasm,neutral
+"If I had a shovel, I’d shovel in the morning, I’d shovel in the evening all over this town...",1.9831882317622336,0.0079212271682781,9993,3218,3725,3050,unknown,neutral
+Look at us!  Both enjoying our Christmas gifts to each other.,1.925545171339564,0.0080504400507322,9630,3390,3567,2673,irony,positive
+"Ooo. I've got another one... ""There's snow business like snow business...""",1.9074600743819736,0.0081463143127689,9142,3235,3518,2389,unknown,neutral
+"Remember when you said, 'WE spent a tough ten hours in labor?"" Well, now WE'RE shoveling the snow.",1.9902489388551108,0.0090087732114373,8717,3126,2550,3041,irony,negative
+"Hello sidewalk, my old friend...",1.8659633137513487,0.0086559799407458,8341,3240,2979,2122,unknown,positive
+Now you know how I feel when you help in the kitchen.,1.8474709188341392,0.0090803748163294,7651,3088,2643,1920,sarcasm,neutral
+This one's about a man who wouldn't buy a snowblower.,1.8093864708966965,0.0086765545288158,7628,3098,2903,1627,unknown,neutral
+"I never said I'd help, just that I'd accompany you.",1.9992121848739497,0.00890304579061,7616,2309,3007,2300,wit-surprise,neutral
+Can you believe Nancy traded me this guitar for the snow blower?,1.8622857142857143,0.0096530588356966,7000,2831,2302,1867,irony,negative
+"Ice, ice, baby.",1.6481349149635558,0.0096566317679124,6997,3979,1514,1504,incongruity-absurdity,neutral
+"If I had a shovel, I'd shovel in the mor-mor-ning",1.6966743119266054,0.0089667099170106,6976,3335,2422,1219,unknown,neutral
+Shovel 16 tons and what do you get?  Another bad shoulder and gloves are all wet.,1.7763313609467457,0.0095117591112849,6760,2992,2288,1480,unknown,negative
+Let me know when you're ready to pick up the tempo!,1.8846275752773376,0.0097262566718874,6310,2289,2460,1561,unknown,neutral
+You asked me to accompany you.,1.7434426229508198,0.0094771051572089,6100,2654,2357,1089,incongruity-absurdity,neutral
+"Try to stay with the beat, Harold.",1.729076790336497,0.0099387986643889,5795,2656,2053,1086,sarcasm,neutral
+He’ll be shoveling around the corner when he comes!!! He’ll be shoveling....,1.813443072702332,0.0112896690865449,5103,2224,1607,1272,irony,neutral
+"And now, a traditional song from Hawaii, for which there are plenty of bargain flights and nice hotels.",1.7441130298273155,0.0104037844382003,5096,2224,1952,920,exaggeration,positive
+"Oh, you’re cold and tired?  Hold on, let me get my violin.",1.7304049969776345,0.0112075124924959,4963,2396,1509,1058,sarcasm,negative
+"Sorry, I don't know ""Drop Dead, Glenda."" 
+Could you maybe hum a few bars",1.7842333105491,0.0120763078711227,4389,1980,1376,1033,sarcasm,negative
+"Michael, blow the snow next door.  Hallelujah!",1.6480879780054989,0.0119737587807525,4001,2099,1211,691,sarcasm,positive
+"Oh,give me a home...in a temperate zone....",1.6624937406109164,0.0115866760197344,3994,1972,1398,624,irony,neutral
+I'll pick while you shovel.,1.6269416857652153,0.0117773054559491,3927,2080,1234,613,wit-surprise,neutral
+And my next number is a little tune I picked up in Florida just before you decided to move us back to Vermont,1.673815197246492,0.0120070657782812,3777,1845,1319,613,sarcasm,neutral
+"Any other requests besides 'Karen, Grab a Damn Shovel'?",1.6332077502691065,0.0122365645933814,3716,1965,1149,602,sarcasm,neutral
+I like that we do things together.,1.681403308613805,0.0124805999848745,3506,1696,1232,578,sarcasm,positive
+I look at the drive and I see it needs shoveling.  Still my guitar gently weeps.,1.6296718972895865,0.0125335879184543,3505,1854,1095,556,incongruity-absurdity,neutral
+This next one goes out to the hardest working man in snow business.,1.6150965139729183,0.0120874803242345,3471,1805,1197,469,incongruity-absurdity,neutral
+"Ninety-nine shovels of snow on the ground, ninety-nine shovels of snow . . . you scoop one up and give it a chuck, ninety-eight shovels of snow on the ground.",1.603767942583732,0.0128363812924831,3344,1846,977,521,unknown,neutral

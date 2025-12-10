@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I'm a congressman--obstruction is my job.,1.9130434782608696,0.0940223859061473,69,24,27,18,irony,neutral
+2,Does this suit make me look flat?,1.711111111111111,0.1129146554544009,45,21,16,8,incongruity-absurdity,negative
+4,"I used to lie in the gutter, but then I quit drinking.",1.6176470588235294,0.1336096015898287,34,19,9,6,incongruity-absurdity,neutral
+5,"If you can meditate here, you can meditate anywhere.",1.6176470588235294,0.1267635375125547,34,18,11,5,incongruity-absurdity,positive
+3,"When the right woman comes along, I'll know it.",1.625,0.1166570656571728,32,15,14,3,sarcasm,positive
+6,"Sorry for the inconvenience, I probably should have jumped from a higher window.",1.59375,0.1175984059443203,32,16,13,3,exaggeration,negative
+7,I've decided to take it lying down.,1.59375,0.1336474584313569,32,18,9,5,self-deprecating,neutral
+9,Guess I should have jumped from a few floors higher.,1.5666666666666669,0.1412858302299094,30,18,7,5,sarcasm,neutral
+10,My life has become so pedestrian.,1.5555555555555556,0.1445430301306646,27,16,7,4,self-deprecating,negative
+11,I may have misinterpreted one of the twelve steps.,1.5555555555555556,0.1445430301306646,27,16,7,4,incongruity-absurdity,negative
+13,I'm doing a study on the indifference of man. So far you're all doing great!,1.5384615384615383,0.1384615384615384,26,15,8,3,sarcasm,positive
+14,Walk around. I'm occupying Wall Street.,1.5384615384615383,0.1491593802281947,26,16,6,4,irony,neutral
+15,I'm waiting for the chalk guy.,1.5384615384615383,0.1491593802281947,26,16,6,4,sarcasm,neutral
+16,You probably know my column: Man on the Street.,1.5384615384615383,0.1268647884805434,26,14,10,2,wit-surprise,neutral
+17,Will move for food.,1.5384615384615383,0.1491593802281947,26,16,6,4,self-deprecating,neutral
+22,I want to wake up in a city that doesn't sleep.,1.52,0.1306394529484361,25,14,9,2,irony,negative
+18,"My therapist is right, I do let everyone walk all over me.",1.52,0.142828568570857,25,15,7,3,self-deprecating,neutral
+19,It's the only place that I don't get stepped on.,1.52,0.1540562667772179,25,16,5,4,unknown,neutral
+20,"Brother, can you spare a pillow?",1.52,0.1306394529484361,25,14,9,2,irony,neutral
+21,"There's no chalk outline, so I'm cautiously optimistic.",1.52,0.1306394529484361,25,14,9,2,sarcasm,neutral
+25,"Yup, that's a piano, alright.",1.5,0.1702513061517497,24,17,2,5,irony,positive
+24,The city that never lets you sleep.,1.5,0.1474419561548971,24,15,6,3,incongruity-absurdity,negative
+23,The truest path to enlightenment is to be the path,1.5,0.1345954755145413,24,14,8,2,wit-surprise,positive
+12,I should have jumped from a higher floor.,1.5416666666666667,0.1343147755728984,24,13,9,2,self-deprecating,negative
+26,"The homicide detectives went to buy chalk, I'm just filling in.",1.4782608695652173,0.1387346148204288,23,14,7,2,incongruity-absurdity,neutral
+27,Sometimes you just have to stop and smell the concrete.,1.4782608695652173,0.152315010814211,23,15,5,3,incongruity-absurdity,neutral
+28,I'm trying to understand The Cloud.,1.4782608695652173,0.1647799492938801,23,16,3,4,wit-surprise,neutral
+29,That cloud look like a bear to you?,1.4782608695652173,0.1387346148204288,23,14,7,2,unknown,neutral
+30,Life can be so pedestrian.,1.4782608695652173,0.1647799492938801,23,16,3,4,wit-surprise,negative
+34,Am I the only one here for the flash mob?,1.4545454545454546,0.1430537804489896,22,14,6,2,sarcasm,neutral

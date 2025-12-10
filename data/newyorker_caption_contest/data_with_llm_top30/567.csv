@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,Like I'm the first person who's tried sleeping their way to the top.,1.9187903499830103,0.0146630953162195,2943,1060,1062,821,sarcasm,neutral
+4,It's called a Murphy desk.,1.7955133735979292,0.0161859663953087,2318,989,814,515,unknown,neutral
+2,And yet you embraced the standing desk.,1.861574074074074,0.0166422718394549,2160,816,827,517,irony,neutral
+3,Then quit making the meetings so early.,1.8239808153477215,0.0163981201978054,2085,800,852,433,sarcasm,negative
+8,"Are you in my dream, or am I in your office?",1.737539766702015,0.0180095810300926,1886,889,603,394,sarcasm,neutral
+11,Sorry I'm late. I had trouble getting out of bed this morning.,1.7010479867622723,0.0177751791059303,1813,871,613,329,self-deprecating,negative
+13,I told you I can do this job in my sleep.,1.6956025128498,0.0172778846029471,1751,805,674,272,unknown,neutral
+10,I misunderstood BYOB.,1.7048192771084338,0.0186838388851903,1660,798,554,308,sarcasm,negative
+5,"The doctor said, 'stay in bed,' he didn't say, 'don't go to work.'",1.7743080198722498,0.0198568518789938,1409,586,555,268,unknown,neutral
+15,I'm working undercover.,1.683553597650514,0.0200422872667648,1362,656,481,225,sarcasm,neutral
+12,This would be a completely different cartoon if I were a woman.,1.6956521739130437,0.0213824171559333,1357,690,390,277,self-deprecating,negative
+9,"Yes, I can literally do this job in my sleep.",1.7165109034267914,0.0205665448780181,1284,582,484,218,wit-surprise,positive
+14,You call this a Firm.,1.6875522138680032,0.0222563894939296,1197,600,371,226,sarcasm,neutral
+0,Like you've never taken anything from a hotel room.,1.9415204678362568,0.0235192934251389,1197,433,401,363,incongruity-absurdity,neutral
+18,"I can't, I'm not wearing pants.",1.6297872340425532,0.0212678948463843,1175,610,390,175,self-deprecating,negative
+16,"So then she took out the superglue and I thought, ""I don't like where this is headed.""",1.642661804922516,0.0229620051574244,1097,583,323,191,unknown,negative
+17,Sorry I'm late. I had a little trouble getting out of bed.,1.6306042884990253,0.0230964610481215,1026,540,325,161,self-deprecating,negative
+6,"What can I say, I'm good in bed.",1.7686796315250768,0.0257389408304962,977,455,293,229,self-deprecating,positive
+23,Let me sleep on it and I'll get back to you.,1.6031215161649943,0.0235756254584329,897,472,309,116,sarcasm,neutral
+22,It's only awkward when my wife sleeps in.,1.604994324631101,0.0240530604598418,881,467,295,119,self-deprecating,neutral
+24,Can you believe my doctor said I have to stay in bed? My commute was a nightmare!,1.6,0.0250967720580142,880,490,252,138,exaggeration,negative
+21,"If management wants to screw me, I might as well be comfortable.",1.6058394160583942,0.0259453804427306,822,453,240,129,sarcasm,negative
+19,Combine Murphy's Law and a Murphy bed and you've pretty much got my morning.,1.609547123623011,0.0255863842961274,817,440,256,121,incongruity-absurdity,neutral
+20,It came with a 30 day trial period and I intend to use every minute of it.,1.6067567567567569,0.026031238573356,740,388,255,97,self-deprecating,positive
+25,"Oh, so now we're back to thinking inside the box?",1.5904109589041096,0.0272280415925599,730,408,213,109,unknown,neutral
+29,I'm still sleeping on it.,1.5651465798045603,0.0284616526131848,614,344,193,77,irony,neutral
+28,It's my dream job.,1.567699836867863,0.0289509794391898,613,347,184,82,unknown,positive
+30,Well you let Johnson have a standing desk.,1.5648604269293924,0.0291064021682356,609,347,180,82,sarcasm,neutral
+32,"Dammit Johnson! I said I was sick and staying in bed, not sick and staying home!",1.5617597292724197,0.0283118255343604,591,326,198,67,unknown,negative
+33,I don’t lie. I stand uprightly for what I endorse.,1.5590277777777777,0.032876996621812,576,362,106,108,self-deprecating,neutral

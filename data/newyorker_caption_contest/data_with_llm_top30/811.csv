@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Everything I drink turns to blubber.,1.7666405638214566,0.0130514989369207,3831,1801,1123,906,unknown,negative
+That had better be a paper straw.,1.7660738714090287,0.012649507121873,3655,1596,1318,741,unknown,negative
+I told the aquarium we''ll be working remotely from now on.,1.8455284552845528,0.0138842057077042,3444,1450,1076,918,exaggeration,neutral
+"If Greenpeace shows up, act distressed.",1.768068720379147,0.0130398109314932,3376,1451,1257,668,sarcasm,negative
+Of course I turned off echolocation. I'm on vacation!,1.8054968287526427,0.0162180046421728,2365,1010,805,550,irony,neutral
+Ditch the drink.  The whale watchers are in sight.,1.6744995648389904,0.0165541758176033,2298,1219,608,471,unknown,neutral
+They say 'beached whale' like it's a bad thing.,1.7307514983863532,0.0165291833948965,2169,1013,727,429,irony,negative
+"So when the humans come, just start flopping around like you're in trouble. It's hysterical.",1.7528263103802673,0.0175825565780637,1946,885,657,404,incongruity-absurdity,negative
+Great.  Now you could be charged with migrating under the influence.,1.664401463669629,0.0176275530435062,1913,997,561,355,sarcasm,negative
+There's a human show  at 4 where they are trained to feed us.,1.694519804666305,0.017687146511164,1843,901,605,336,irony,neutral
+"Let's get it straight! We're beach whales, not beached whales.",1.667945205479452,0.0171122964003072,1825,884,648,283,incongruity-absurdity,negative
+We just need to be in the water before the next whale watch boat cruises by,1.718475073313783,0.0179573490289414,1705,776,633,296,incongruity-absurdity,neutral
+Nice having the beach to ourselves while the humans are on that whale watching adventure.,1.6586248492159228,0.0182475771423347,1658,837,550,271,irony,positive
+"I gotta say, this guy Melville's come up with a great beach read.",1.669315403422983,0.0186872791283718,1636,827,522,285,wit-surprise,positive
+The Beaches of My Orca,1.6668715427166565,0.0192217081534729,1627,850,469,308,exaggeration,neutral
+"""Call me Fishmael.""                            ""You're drunk.""",1.700923076923077,0.0193161665851172,1625,808,495,322,sarcasm,neutral
+I'm thinking the Bucket o' Krill for starters.,1.7253433208489388,0.0189512781801912,1602,740,560,301,irony,neutral
+Finally a beach where nobody is trying to drag us back into the ocean.,1.7370772176132738,0.0192324673796644,1567,714,551,302,irony,neutral
+And they say beached whales like its a bad thing....,1.6737451737451738,0.0186296285799814,1554,755,551,248,irony,negative
+Don't take any pictures - I called in beached,1.6604527296937417,0.0195630934942164,1502,773,466,263,sarcasm,negative
+What's got into you?  You're drinking like a fish.,1.7442489851150202,0.0201383633848927,1478,679,496,302,sarcasm,negative
+"If Darwin could see us now.""",1.646153846153846,0.0195241317609911,1430,732,472,226,incongruity-absurdity,neutral
+"Remember, when they carry us back to the water, pretend to be grateful.",1.7345724907063198,0.0208022300017884,1345,616,468,260,sarcasm,positive
+"Enjoy it while it lasts, pretty soon they'll be here and push us back in.",1.7092675635276533,0.020254717356919,1338,617,491,229,sarcasm,neutral
+I love those fake shark fins. They clear the beach every time.,1.7541106128550077,0.0206942479688973,1338,588,491,259,sarcasm,positive
+"Finish up the drink, we have to be back out by the tour boats at 3pm.",1.6379573170731707,0.0212271122530796,1312,711,365,235,sarcasm,neutral
+I can't believe we finally found a spot that isn't covered in beached humans.,1.7075978511128165,0.0212155246345465,1303,628,428,247,irony,negative
+I slipped the cabana boy a fin.,1.646189735614308,0.0218371300489741,1286,702,337,247,unknown,neutral
+"If those 'Save the Whales' idiots don't spoil our vacation again, we can go to the casino later.",1.6515270164447924,0.0211360525861641,1277,664,394,219,irony,negative
+"You were right, Sally. A beach holiday, a little time away from all the swimming, swimming, swimming...",1.6520031421838175,0.0202017757917315,1273,629,458,186,incongruity-absurdity,positive

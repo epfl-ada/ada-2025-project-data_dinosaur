@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+And then he saw something that made his blood run warm.,1.6613055818353832,0.0123543303257693,3171,1486,1273,412,unknown,neutral
+And all that was left was a giant carbon footprint,1.6694829334234538,0.0125780928173747,2959,1343,1251,365,irony,negative
+I always get the damn merit badges stuck in my teeth.,1.5905482041587902,0.0136108680211557,2645,1411,906,328,incongruity-absurdity,negative
+And his caption was lost forever.,1.571319603356217,0.0140684308935994,2622,1483,780,359,unknown,negative
+Why not just exhale and save the batteries?,1.6241766757070903,0.0135657617840561,2581,1280,991,310,sarcasm,neutral
+"Suddenly she heard an asteroid snap. She lay there, petrified.",1.57890499194847,0.012627886523021,2484,1235,1060,189,unknown,negative
+Is there someone in my teeth?,1.5683743444937477,0.0156895337338192,2479,1522,505,452,self-deprecating,neutral
+"Oooh, your stories make my blood run warm.",1.5636844424856766,0.0140513565389147,2269,1219,821,229,sarcasm,positive
+"Dad, that joke is 100 million years old!",1.5756906077348067,0.0177717043176314,1810,1064,450,296,incongruity-absurdity,positive
+Is anyone stuck in my teeth?,1.5532150776053215,0.0175331632399318,1804,1083,444,277,self-deprecating,negative
+Do I have anyone stuck in my teeth?,1.5768361581920904,0.0180315916964629,1770,1042,435,293,self-deprecating,negative
+Wait: You have thumbs?!,1.553072625698324,0.0185469880658965,1611,967,397,247,sarcasm,neutral
+And then they wired his bones together and put him in a museum.,1.5391246684350133,0.0180778580570277,1508,879,445,184,wit-surprise,negative
+Then they strung his bones together with wire and hung them from the ceiling!,1.5542740841248304,0.0184883473931397,1474,846,439,189,wit-surprise,negative
+And then you wake up in a museum naked.,1.6036834924965893,0.0201353172861,1466,841,365,260,unknown,neutral
+Stop it! It makes you look like a monster!,1.5553977272727273,0.0196596139489177,1408,835,364,209,sarcasm,negative
+I can't tell if I'm still hungry or if he has his phone on vibrate.,1.5447870778267254,0.0206149149801899,1362,845,292,225,sarcasm,neutral
+Legend says that the meteor is still out there...,1.53027950310559,0.0199359017909313,1288,774,345,169,exaggeration,neutral
+"…and there, in the museum lobby, missing 
+half his bones, was Uncle Herman!",1.5442546583850931,0.02077546632586,1288,785,305,198,unknown,neutral
+"Please,not the one about the asteroid.",1.5358581788879937,0.0206886444518095,1241,751,315,175,sarcasm,negative
+And then they turned Godzilla… INTO A MUSICAL.,1.5257383966244726,0.0213821537993655,1185,735,277,173,irony,neutral
+Don't do that.  It makes you look scary.,1.5215146299483648,0.0212982098302915,1162,717,284,161,sarcasm,negative
+"It’s a tale as old as, well, us.",1.543647363872083,0.0198131259919579,1157,647,391,119,irony,neutral
+"Yeah, yeah...In a certain kind of light you look just like Godzilla.",1.5220397579948142,0.020692522675244,1157,695,320,142,sarcasm,neutral
+"It’s a win-win. He was delicious, and now we’ve got a flashlight.",1.6697080291970805,0.0244670266263651,1096,600,258,238,unknown,positive
+You look like Marjorie Taylor Greene,1.5146919431279622,0.023565669287736,1055,689,189,177,sarcasm,neutral
+Then they hang your bones and use your corpse for fuel,1.5155778894472365,0.019972088111242,995,555,367,73,irony,negative
+And all this time I didn't think our front legs were good for anything!,1.5082474226804123,0.0228889710031511,970,602,243,125,incongruity-absurdity,negative
+Quoth the Raptor ‘Carnivore.’,1.5077559462254395,0.0249542592084238,967,646,151,170,wit-surprise,neutral
+"And then, they used our remains to power their cars!",1.5083507306889352,0.0230578509343683,958,595,239,124,irony,negative
