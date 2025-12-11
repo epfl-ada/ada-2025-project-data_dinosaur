@@ -1,0 +1,127 @@
+[
+  {
+    "event": "war",
+    "lag": -12,
+    "pearson_corr": -0.09300970565426697
+  },
+  {
+    "event": "war",
+    "lag": -11,
+    "pearson_corr": -0.0468125432355639
+  },
+  {
+    "event": "war",
+    "lag": -10,
+    "pearson_corr": 0.015575498616419983
+  },
+  {
+    "event": "war",
+    "lag": -9,
+    "pearson_corr": -0.03265965756843182
+  },
+  {
+    "event": "war",
+    "lag": -8,
+    "pearson_corr": 0.014756008151420953
+  },
+  {
+    "event": "war",
+    "lag": -7,
+    "pearson_corr": -0.020340932351121395
+  },
+  {
+    "event": "war",
+    "lag": -6,
+    "pearson_corr": 0.09031574844593503
+  },
+  {
+    "event": "war",
+    "lag": -5,
+    "pearson_corr": 0.36552422812450885
+  },
+  {
+    "event": "war",
+    "lag": -4,
+    "pearson_corr": 0.14855483208812711
+  },
+  {
+    "event": "war",
+    "lag": -3,
+    "pearson_corr": 0.3429469726248289
+  },
+  {
+    "event": "war",
+    "lag": -2,
+    "pearson_corr": 0.025043151420614446
+  },
+  {
+    "event": "war",
+    "lag": -1,
+    "pearson_corr": -0.04541943436423312
+  },
+  {
+    "event": "war",
+    "lag": 0,
+    "pearson_corr": -0.12269616637898685
+  },
+  {
+    "event": "war",
+    "lag": 1,
+    "pearson_corr": -0.1513100984419186
+  },
+  {
+    "event": "war",
+    "lag": 2,
+    "pearson_corr": -0.09248662890151901
+  },
+  {
+    "event": "war",
+    "lag": 3,
+    "pearson_corr": -0.08984048973420675
+  },
+  {
+    "event": "war",
+    "lag": 4,
+    "pearson_corr": -0.08776617052344647
+  },
+  {
+    "event": "war",
+    "lag": 5,
+    "pearson_corr": -0.038914283959639626
+  },
+  {
+    "event": "war",
+    "lag": 6,
+    "pearson_corr": 0.041712315904668895
+  },
+  {
+    "event": "war",
+    "lag": 7,
+    "pearson_corr": 0.07679043028129681
+  },
+  {
+    "event": "war",
+    "lag": 8,
+    "pearson_corr": -0.1446643581137939
+  },
+  {
+    "event": "war",
+    "lag": 9,
+    "pearson_corr": -0.07267764495560235
+  },
+  {
+    "event": "war",
+    "lag": 10,
+    "pearson_corr": -0.09470313095343977
+  },
+  {
+    "event": "war",
+    "lag": 11,
+    "pearson_corr": -0.05687876987478033
+  },
+  {
+    "event": "war",
+    "lag": 12,
+    "pearson_corr": -0.11529816095370786
+  }
+]

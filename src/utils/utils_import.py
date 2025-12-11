@@ -81,3 +81,24 @@ from nltk.corpus import stopwords
 sns.set(style="whitegrid", context="talk")
 warnings.filterwarnings("ignore")
 plt.rcParams["figure.figsize"] = (10, 6)
+
+
+
+import os
+import json
+
+def save_json(obj, filename, folder="data/newyorker_caption_contest/exports"):
+    """
+    Save a Python object as a JSON file.
+    filename should NOT include .json.
+    Each graph can generate its own file.
+    """
+    os.makedirs(folder, exist_ok=True)
+    path = os.path.join(folder, f"{filename}.json")
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+
+    print(f"Saved JSON to: {path}")
+    return path
+

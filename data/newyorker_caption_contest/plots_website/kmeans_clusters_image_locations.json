@@ -1,0 +1,307 @@
+{
+  "field": "image_locations",
+  "numDocuments": 361,
+  "k": 20,
+  "clusters": [
+    {
+      "clusterId": 0,
+      "topTerms": [
+        "bar",
+        "funeral",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf",
+        "gas"
+      ]
+    },
+    {
+      "clusterId": 1,
+      "topTerms": [
+        "field",
+        "party",
+        "forest",
+        "castle",
+        "ship",
+        "meeting",
+        "yard",
+        "sea",
+        "beach",
+        "kingdom"
+      ]
+    },
+    {
+      "clusterId": 2,
+      "topTerms": [
+        "cave",
+        "dwelling",
+        "yoga",
+        "gallery",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard"
+      ]
+    },
+    {
+      "clusterId": 3,
+      "topTerms": [
+        "restaurant",
+        "yoga",
+        "funeral",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf",
+        "gas"
+      ]
+    },
+    {
+      "clusterId": 4,
+      "topTerms": [
+        "room",
+        "living",
+        "forest",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf",
+        "gas"
+      ]
+    },
+    {
+      "clusterId": 5,
+      "topTerms": [
+        "desert",
+        "middle",
+        "funeral",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf"
+      ]
+    },
+    {
+      "clusterId": 6,
+      "topTerms": [
+        "backyard",
+        "yoga",
+        "funeral",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf"
+      ]
+    },
+    {
+      "clusterId": 7,
+      "topTerms": [
+        "building",
+        "ledge",
+        "office",
+        "yoga",
+        "funeral",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard"
+      ]
+    },
+    {
+      "clusterId": 8,
+      "topTerms": [
+        "sidewalk",
+        "yoga",
+        "forest",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf",
+        "gas"
+      ]
+    },
+    {
+      "clusterId": 9,
+      "topTerms": [
+        "park",
+        "bench",
+        "public",
+        "heaven",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard"
+      ]
+    },
+    {
+      "clusterId": 10,
+      "topTerms": [
+        "subway",
+        "train",
+        "station",
+        "yoga",
+        "hard",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf"
+      ]
+    },
+    {
+      "clusterId": 11,
+      "topTerms": [
+        "courtroom",
+        "yoga",
+        "funeral",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf"
+      ]
+    },
+    {
+      "clusterId": 12,
+      "topTerms": [
+        "elevator",
+        "yoga",
+        "gallery",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf"
+      ]
+    },
+    {
+      "clusterId": 13,
+      "topTerms": [
+        "ocean",
+        "yoga",
+        "funeral",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf"
+      ]
+    },
+    {
+      "clusterId": 14,
+      "topTerms": [
+        "rooftop",
+        "yoga",
+        "funeral",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf",
+        "gas"
+      ]
+    },
+    {
+      "clusterId": 15,
+      "topTerms": [
+        "mountain",
+        "ridge",
+        "yoga",
+        "funeral",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf"
+      ]
+    },
+    {
+      "clusterId": 16,
+      "topTerms": [
+        "office",
+        "doctor",
+        "therapist",
+        "room",
+        "psychiatry",
+        "police",
+        "psychiatrist",
+        "psychologist",
+        "desk",
+        "corporate"
+      ]
+    },
+    {
+      "clusterId": 17,
+      "topTerms": [
+        "island",
+        "small",
+        "yoga",
+        "funeral",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf",
+        "gas"
+      ]
+    },
+    {
+      "clusterId": 18,
+      "topTerms": [
+        "kitchen",
+        "yoga",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf",
+        "gas"
+      ]
+    },
+    {
+      "clusterId": 19,
+      "topTerms": [
+        "door",
+        "heaven",
+        "hard",
+        "hamster",
+        "hall",
+        "ground",
+        "grocery",
+        "graveyard",
+        "golf",
+        "gas"
+      ]
+    }
+  ]
+}

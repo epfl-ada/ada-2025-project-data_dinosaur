@@ -1,0 +1,202 @@
+[
+  {
+    "term": "room",
+    "count": 70
+  },
+  {
+    "term": "office",
+    "count": 62
+  },
+  {
+    "term": "living",
+    "count": 44
+  },
+  {
+    "term": "restaurant",
+    "count": 36
+  },
+  {
+    "term": "cave",
+    "count": 22
+  },
+  {
+    "term": "kitchen",
+    "count": 18
+  },
+  {
+    "term": "desert",
+    "count": 14
+  },
+  {
+    "term": "field",
+    "count": 14
+  },
+  {
+    "term": "park",
+    "count": 14
+  },
+  {
+    "term": "sidewalk",
+    "count": 14
+  },
+  {
+    "term": "subway",
+    "count": 14
+  },
+  {
+    "term": "bar",
+    "count": 12
+  },
+  {
+    "term": "doctor",
+    "count": 12
+  },
+  {
+    "term": "ocean",
+    "count": 12
+  },
+  {
+    "term": "party",
+    "count": 12
+  },
+  {
+    "term": "island",
+    "count": 10
+  },
+  {
+    "term": "therapist",
+    "count": 10
+  },
+  {
+    "term": "backyard",
+    "count": 8
+  },
+  {
+    "term": "building",
+    "count": 8
+  },
+  {
+    "term": "castle",
+    "count": 8
+  },
+  {
+    "term": "elevator",
+    "count": 8
+  },
+  {
+    "term": "forest",
+    "count": 8
+  },
+  {
+    "term": "meeting",
+    "count": 8
+  },
+  {
+    "term": "mountain",
+    "count": 8
+  },
+  {
+    "term": "ship",
+    "count": 8
+  },
+  {
+    "term": "station",
+    "count": 8
+  },
+  {
+    "term": "store",
+    "count": 8
+  },
+  {
+    "term": "apartment",
+    "count": 6
+  },
+  {
+    "term": "art",
+    "count": 6
+  },
+  {
+    "term": "beach",
+    "count": 6
+  },
+  {
+    "term": "city",
+    "count": 6
+  },
+  {
+    "term": "cliff",
+    "count": 6
+  },
+  {
+    "term": "courtroom",
+    "count": 6
+  },
+  {
+    "term": "door",
+    "count": 6
+  },
+  {
+    "term": "gallery",
+    "count": 6
+  },
+  {
+    "term": "hospital",
+    "count": 6
+  },
+  {
+    "term": "kingdom",
+    "count": 6
+  },
+  {
+    "term": "laboratory",
+    "count": 6
+  },
+  {
+    "term": "rooftop",
+    "count": 6
+  },
+  {
+    "term": "scene",
+    "count": 6
+  },
+  {
+    "term": "sea",
+    "count": 6
+  },
+  {
+    "term": "shop",
+    "count": 6
+  },
+  {
+    "term": "street",
+    "count": 6
+  },
+  {
+    "term": "studio",
+    "count": 6
+  },
+  {
+    "term": "yard",
+    "count": 6
+  },
+  {
+    "term": "alleyway",
+    "count": 4
+  },
+  {
+    "term": "baseball",
+    "count": 4
+  },
+  {
+    "term": "bedroom",
+    "count": 4
+  },
+  {
+    "term": "chamber",
+    "count": 4
+  },
+  {
+    "term": "church",
+    "count": 4
+  }
+]

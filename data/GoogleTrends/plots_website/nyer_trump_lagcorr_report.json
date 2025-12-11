@@ -1,0 +1,27 @@
+[
+  {
+    "event": "trump",
+    "metric": "pearson_0lag",
+    "value": 0.29124458287123073
+  },
+  {
+    "event": "trump",
+    "metric": "spearman_0lag",
+    "value": 0.3710189821591271
+  },
+  {
+    "event": "trump",
+    "metric": "kendall_0lag",
+    "value": 0.26502189565823725
+  },
+  {
+    "event": "trump",
+    "metric": "best_lag_months",
+    "value": -3.0
+  },
+  {
+    "event": "trump",
+    "metric": "best_lag_corr",
+    "value": 0.38604048374946753
+  }
+]

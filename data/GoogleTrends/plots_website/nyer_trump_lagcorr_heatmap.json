@@ -1,0 +1,127 @@
+[
+  {
+    "event": "trump",
+    "lag": -12,
+    "pearson_corr": 0.1465130951753492
+  },
+  {
+    "event": "trump",
+    "lag": -11,
+    "pearson_corr": 0.13689555816072516
+  },
+  {
+    "event": "trump",
+    "lag": -10,
+    "pearson_corr": 0.14775567364406658
+  },
+  {
+    "event": "trump",
+    "lag": -9,
+    "pearson_corr": 0.3012571376603319
+  },
+  {
+    "event": "trump",
+    "lag": -8,
+    "pearson_corr": 0.2403820215049158
+  },
+  {
+    "event": "trump",
+    "lag": -7,
+    "pearson_corr": 0.17598704487847364
+  },
+  {
+    "event": "trump",
+    "lag": -6,
+    "pearson_corr": 0.36472848565305344
+  },
+  {
+    "event": "trump",
+    "lag": -5,
+    "pearson_corr": 0.26709018208048
+  },
+  {
+    "event": "trump",
+    "lag": -4,
+    "pearson_corr": 0.23784143905954094
+  },
+  {
+    "event": "trump",
+    "lag": -3,
+    "pearson_corr": 0.38604048374946753
+  },
+  {
+    "event": "trump",
+    "lag": -2,
+    "pearson_corr": 0.2657171982072672
+  },
+  {
+    "event": "trump",
+    "lag": -1,
+    "pearson_corr": 0.17604356977728858
+  },
+  {
+    "event": "trump",
+    "lag": 0,
+    "pearson_corr": 0.29124458287123073
+  },
+  {
+    "event": "trump",
+    "lag": 1,
+    "pearson_corr": 0.09708301044713426
+  },
+  {
+    "event": "trump",
+    "lag": 2,
+    "pearson_corr": 0.14275679299416233
+  },
+  {
+    "event": "trump",
+    "lag": 3,
+    "pearson_corr": 0.0034879715892498636
+  },
+  {
+    "event": "trump",
+    "lag": 4,
+    "pearson_corr": 0.008303990883230288
+  },
+  {
+    "event": "trump",
+    "lag": 5,
+    "pearson_corr": -0.04589450615031199
+  },
+  {
+    "event": "trump",
+    "lag": 6,
+    "pearson_corr": -0.08590613948664032
+  },
+  {
+    "event": "trump",
+    "lag": 7,
+    "pearson_corr": -0.037601835165458196
+  },
+  {
+    "event": "trump",
+    "lag": 8,
+    "pearson_corr": -0.05008760339633217
+  },
+  {
+    "event": "trump",
+    "lag": 9,
+    "pearson_corr": -0.036279697893470714
+  },
+  {
+    "event": "trump",
+    "lag": 10,
+    "pearson_corr": -0.105046404521963
+  },
+  {
+    "event": "trump",
+    "lag": 11,
+    "pearson_corr": -0.09805178706615097
+  },
+  {
+    "event": "trump",
+    "lag": 12,
+    "pearson_corr": -0.07791451837801809
+  }
+]

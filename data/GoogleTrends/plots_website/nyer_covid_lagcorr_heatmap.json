@@ -1,0 +1,127 @@
+[
+  {
+    "event": "covid",
+    "lag": -12,
+    "pearson_corr": 0.5575600605345321
+  },
+  {
+    "event": "covid",
+    "lag": -11,
+    "pearson_corr": 0.4708830192892737
+  },
+  {
+    "event": "covid",
+    "lag": -10,
+    "pearson_corr": 0.5031723831322991
+  },
+  {
+    "event": "covid",
+    "lag": -9,
+    "pearson_corr": 0.6184931832112649
+  },
+  {
+    "event": "covid",
+    "lag": -8,
+    "pearson_corr": 0.6527254010383213
+  },
+  {
+    "event": "covid",
+    "lag": -7,
+    "pearson_corr": 0.542196045514216
+  },
+  {
+    "event": "covid",
+    "lag": -6,
+    "pearson_corr": 0.54629598257879
+  },
+  {
+    "event": "covid",
+    "lag": -5,
+    "pearson_corr": 0.6494443776170258
+  },
+  {
+    "event": "covid",
+    "lag": -4,
+    "pearson_corr": 0.6663260133887229
+  },
+  {
+    "event": "covid",
+    "lag": -3,
+    "pearson_corr": 0.6284924657983537
+  },
+  {
+    "event": "covid",
+    "lag": -2,
+    "pearson_corr": 0.6310101116476629
+  },
+  {
+    "event": "covid",
+    "lag": -1,
+    "pearson_corr": 0.6301219991293726
+  },
+  {
+    "event": "covid",
+    "lag": 0,
+    "pearson_corr": 0.5826681851742127
+  },
+  {
+    "event": "covid",
+    "lag": 1,
+    "pearson_corr": 0.5063301556352234
+  },
+  {
+    "event": "covid",
+    "lag": 2,
+    "pearson_corr": 0.39055937453637707
+  },
+  {
+    "event": "covid",
+    "lag": 3,
+    "pearson_corr": 0.36200770090063833
+  },
+  {
+    "event": "covid",
+    "lag": 4,
+    "pearson_corr": 0.3787948609365906
+  },
+  {
+    "event": "covid",
+    "lag": 5,
+    "pearson_corr": 0.2951149614942633
+  },
+  {
+    "event": "covid",
+    "lag": 6,
+    "pearson_corr": 0.15053588832995068
+  },
+  {
+    "event": "covid",
+    "lag": 7,
+    "pearson_corr": 0.12259835191938462
+  },
+  {
+    "event": "covid",
+    "lag": 8,
+    "pearson_corr": 0.16547425045275926
+  },
+  {
+    "event": "covid",
+    "lag": 9,
+    "pearson_corr": 0.11283444913820645
+  },
+  {
+    "event": "covid",
+    "lag": 10,
+    "pearson_corr": -0.03133421275054278
+  },
+  {
+    "event": "covid",
+    "lag": 11,
+    "pearson_corr": -0.04856431681238907
+  },
+  {
+    "event": "covid",
+    "lag": 12,
+    "pearson_corr": -0.04292078115062384
+  }
+]
