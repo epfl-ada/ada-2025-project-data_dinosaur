@@ -1,0 +1,1295 @@
+{
+  "event": "climate",
+  "window_start": "2019-09-01",
+  "window_end": "2019-12-31",
+  "raw_and_zscore_timeseries": [
+    {
+      "date": "2016-03-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2016-04-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 20.0
+    },
+    {
+      "date": "2016-05-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 20.0
+    },
+    {
+      "date": "2016-06-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 11.0,
+      "Extreme weather": 21.0
+    },
+    {
+      "date": "2016-07-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 8.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2016-08-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 10.0,
+      "Extreme weather": 22.0
+    },
+    {
+      "date": "2016-09-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 23.0
+    },
+    {
+      "date": "2016-10-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 29.0
+    },
+    {
+      "date": "2016-11-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 16.0
+    },
+    {
+      "date": "2016-12-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 12.0,
+      "Extreme weather": 17.0
+    },
+    {
+      "date": "2017-01-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 22.0
+    },
+    {
+      "date": "2017-02-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 22.0
+    },
+    {
+      "date": "2017-03-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 24.0
+    },
+    {
+      "date": "2017-04-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2017-05-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2017-06-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 12.0,
+      "Extreme weather": 24.0
+    },
+    {
+      "date": "2017-07-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 9.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2017-08-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 11.0,
+      "Extreme weather": 28.0
+    },
+    {
+      "date": "2017-09-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 46.0
+    },
+    {
+      "date": "2017-10-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 23.0
+    },
+    {
+      "date": "2017-11-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 15.0
+    },
+    {
+      "date": "2017-12-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 12.0,
+      "Extreme weather": 17.0
+    },
+    {
+      "date": "2018-01-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 25.0
+    },
+    {
+      "date": "2018-02-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2018-03-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 29.0
+    },
+    {
+      "date": "2018-04-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2018-05-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 24.0
+    },
+    {
+      "date": "2018-06-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 12.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2018-07-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 9.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2018-08-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 11.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2018-09-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 36.0
+    },
+    {
+      "date": "2018-10-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 17.0,
+      "Extreme weather": 23.0
+    },
+    {
+      "date": "2018-11-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 16.0
+    },
+    {
+      "date": "2018-12-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 12.0,
+      "Extreme weather": 17.0
+    },
+    {
+      "date": "2019-01-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 25.0
+    },
+    {
+      "date": "2019-02-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 20.0
+    },
+    {
+      "date": "2019-03-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2019-04-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 18.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2019-05-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 17.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2019-06-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 13.0,
+      "Extreme weather": 17.0
+    },
+    {
+      "date": "2019-07-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 10.0,
+      "Extreme weather": 30.0
+    },
+    {
+      "date": "2019-08-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 13.0,
+      "Extreme weather": 25.0
+    },
+    {
+      "date": "2019-09-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 18.0,
+      "Extreme weather": 30.0
+    },
+    {
+      "date": "2019-10-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 17.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2019-11-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 15.0
+    },
+    {
+      "date": "2019-12-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 13.0,
+      "Extreme weather": 15.0
+    },
+    {
+      "date": "2020-01-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 16.0
+    },
+    {
+      "date": "2020-02-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 15.0
+    },
+    {
+      "date": "2020-03-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 15.0
+    },
+    {
+      "date": "2020-04-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 18.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2020-05-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 20.0
+    },
+    {
+      "date": "2020-06-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 11.0,
+      "Extreme weather": 30.0
+    },
+    {
+      "date": "2020-07-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 10.0,
+      "Extreme weather": 25.0
+    },
+    {
+      "date": "2020-08-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 12.0,
+      "Extreme weather": 41.0
+    },
+    {
+      "date": "2020-09-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 20.0,
+      "Extreme weather": 25.0
+    },
+    {
+      "date": "2020-10-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 16.0,
+      "Extreme weather": 20.0
+    },
+    {
+      "date": "2020-11-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 12.0,
+      "Extreme weather": 21.0
+    },
+    {
+      "date": "2020-12-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 10.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2021-01-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 11.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2021-02-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 29.0
+    },
+    {
+      "date": "2021-03-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 13.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2021-04-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 16.0
+    },
+    {
+      "date": "2021-05-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 13.0,
+      "Extreme weather": 17.0
+    },
+    {
+      "date": "2021-06-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 9.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2021-07-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 8.0,
+      "Extreme weather": 39.0
+    },
+    {
+      "date": "2021-08-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 9.0,
+      "Extreme weather": 40.0
+    },
+    {
+      "date": "2021-09-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 24.0
+    },
+    {
+      "date": "2021-10-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 17.0
+    },
+    {
+      "date": "2021-11-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 13.0,
+      "Extreme weather": 14.0
+    },
+    {
+      "date": "2021-12-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 10.0,
+      "Extreme weather": 29.0
+    },
+    {
+      "date": "2022-01-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 50.0
+    },
+    {
+      "date": "2022-02-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 17.0,
+      "Extreme weather": 51.0
+    },
+    {
+      "date": "2022-03-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 17.0,
+      "Extreme weather": 24.0
+    },
+    {
+      "date": "2022-04-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 23.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2022-05-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 20.0,
+      "Extreme weather": 20.0
+    },
+    {
+      "date": "2022-06-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 13.0,
+      "Extreme weather": 22.0
+    },
+    {
+      "date": "2022-07-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 11.0,
+      "Extreme weather": 19.0
+    },
+    {
+      "date": "2022-08-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 15.0,
+      "Extreme weather": 20.0
+    },
+    {
+      "date": "2022-09-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 20.0,
+      "Extreme weather": 41.0
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 19.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2022-11-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 17.0,
+      "Extreme weather": 39.0
+    },
+    {
+      "date": "2022-12-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 51.0
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 17.0,
+      "Extreme weather": 39.0
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 19.0,
+      "Extreme weather": 38.0
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 21.0,
+      "Extreme weather": 31.0
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 20.0,
+      "Extreme weather": 21.0
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 19.0,
+      "Extreme weather": 18.0
+    },
+    {
+      "date": "2023-06-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 25.0
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 11.0,
+      "Extreme weather": 20.0
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 14.0,
+      "Extreme weather": 44.0
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "event": "climate",
+      "type": "raw",
+      "Climate concern": 21.0,
+      "Extreme weather": 24.0
+    },
+    {
+      "date": "2016-03-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2016-04-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -0.4425828436603031
+    },
+    {
+      "date": "2016-05-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": -0.4425828436603031
+    },
+    {
+      "date": "2016-06-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.0864289525102226,
+      "Extreme weather": -0.32913203021498594
+    },
+    {
+      "date": "2016-07-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -2.037054285956667,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2016-08-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.4033040636590375,
+      "Extreme weather": -0.21568121676966884
+    },
+    {
+      "date": "2016-09-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.10223040332435172
+    },
+    {
+      "date": "2016-10-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": 0.578474477347551
+    },
+    {
+      "date": "2016-11-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -0.8963860974415716
+    },
+    {
+      "date": "2016-12-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.7695538413614077,
+      "Extreme weather": -0.7829352839962544
+    },
+    {
+      "date": "2017-01-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": -0.21568121676966884
+    },
+    {
+      "date": "2017-02-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.21568121676966884
+    },
+    {
+      "date": "2017-03-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": 0.011220410120965389
+    },
+    {
+      "date": "2017-04-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2017-05-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2017-06-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.7695538413614077,
+      "Extreme weather": 0.011220410120965389
+    },
+    {
+      "date": "2017-07-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.7201791748078523,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2017-08-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.0864289525102226,
+      "Extreme weather": 0.4650236639022339
+    },
+    {
+      "date": "2017-09-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": 2.507138305917942
+    },
+    {
+      "date": "2017-10-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.10223040332435172
+    },
+    {
+      "date": "2017-11-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -1.0098369108868888
+    },
+    {
+      "date": "2017-12-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.7695538413614077,
+      "Extreme weather": -0.7829352839962544
+    },
+    {
+      "date": "2018-01-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 0.1246712235662825
+    },
+    {
+      "date": "2018-02-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2018-03-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 0.578474477347551
+    },
+    {
+      "date": "2018-04-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2018-05-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": 0.011220410120965389
+    },
+    {
+      "date": "2018-06-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.7695538413614077,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2018-07-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.7201791748078523,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2018-08-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.0864289525102226,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2018-09-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": 1.3726301714647708
+    },
+    {
+      "date": "2018-10-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.8148217143826668,
+      "Extreme weather": -0.10223040332435172
+    },
+    {
+      "date": "2018-11-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -0.8963860974415716
+    },
+    {
+      "date": "2018-12-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.7695538413614077,
+      "Extreme weather": -0.7829352839962544
+    },
+    {
+      "date": "2019-01-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 0.1246712235662825
+    },
+    {
+      "date": "2019-02-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.4425828436603031
+    },
+    {
+      "date": "2019-03-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2019-04-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.1316968255314817,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2019-05-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.8148217143826668,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2019-06-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.4526787302125928,
+      "Extreme weather": -0.7829352839962544
+    },
+    {
+      "date": "2019-07-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.4033040636590375,
+      "Extreme weather": 0.6919252907928681
+    },
+    {
+      "date": "2019-08-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.4526787302125928,
+      "Extreme weather": 0.1246712235662825
+    },
+    {
+      "date": "2019-09-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.1316968255314817,
+      "Extreme weather": 0.6919252907928681
+    },
+    {
+      "date": "2019-10-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.8148217143826668,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2019-11-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -1.0098369108868888
+    },
+    {
+      "date": "2019-12-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.4526787302125928,
+      "Extreme weather": -1.0098369108868888
+    },
+    {
+      "date": "2020-01-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -0.8963860974415716
+    },
+    {
+      "date": "2020-02-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -1.0098369108868888
+    },
+    {
+      "date": "2020-03-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -1.0098369108868888
+    },
+    {
+      "date": "2020-04-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.1316968255314817,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2020-05-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -0.4425828436603031
+    },
+    {
+      "date": "2020-06-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.0864289525102226,
+      "Extreme weather": 0.6919252907928681
+    },
+    {
+      "date": "2020-07-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.4033040636590375,
+      "Extreme weather": 0.1246712235662825
+    },
+    {
+      "date": "2020-08-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.7695538413614077,
+      "Extreme weather": 1.9398842386913564
+    },
+    {
+      "date": "2020-09-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.7654470478291115,
+      "Extreme weather": 0.1246712235662825
+    },
+    {
+      "date": "2020-10-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.4979466032338519,
+      "Extreme weather": -0.4425828436603031
+    },
+    {
+      "date": "2020-11-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.7695538413614077,
+      "Extreme weather": -0.32913203021498594
+    },
+    {
+      "date": "2020-12-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.4033040636590375,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2021-01-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.0864289525102226,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2021-02-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 0.578474477347551
+    },
+    {
+      "date": "2021-03-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.4526787302125928,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2021-04-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": -0.8963860974415716
+    },
+    {
+      "date": "2021-05-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.4526787302125928,
+      "Extreme weather": -0.7829352839962544
+    },
+    {
+      "date": "2021-06-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.7201791748078523,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2021-07-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -2.037054285956667,
+      "Extreme weather": 1.712982611800722
+    },
+    {
+      "date": "2021-08-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.7201791748078523,
+      "Extreme weather": 1.8264334252460392
+    },
+    {
+      "date": "2021-09-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 0.011220410120965389
+    },
+    {
+      "date": "2021-10-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": -0.7829352839962544
+    },
+    {
+      "date": "2021-11-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.4526787302125928,
+      "Extreme weather": -1.1232877243322057
+    },
+    {
+      "date": "2021-12-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.4033040636590375,
+      "Extreme weather": 0.578474477347551
+    },
+    {
+      "date": "2022-01-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 2.9609415596992106
+    },
+    {
+      "date": "2022-02-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.8148217143826668,
+      "Extreme weather": 3.0743923731445277
+    },
+    {
+      "date": "2022-03-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.8148217143826668,
+      "Extreme weather": 0.011220410120965389
+    },
+    {
+      "date": "2022-04-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 2.716072381275556,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2022-05-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.7654470478291115,
+      "Extreme weather": -0.4425828436603031
+    },
+    {
+      "date": "2022-06-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.4526787302125928,
+      "Extreme weather": -0.21568121676966884
+    },
+    {
+      "date": "2022-07-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.0864289525102226,
+      "Extreme weather": -0.5560336571056202
+    },
+    {
+      "date": "2022-08-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.181071492085037,
+      "Extreme weather": -0.4425828436603031
+    },
+    {
+      "date": "2022-09-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.7654470478291115,
+      "Extreme weather": 1.9398842386913564
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.4485719366802965,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2022-11-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.8148217143826668,
+      "Extreme weather": 1.712982611800722
+    },
+    {
+      "date": "2022-12-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 3.0743923731445277
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 0.8148217143826668,
+      "Extreme weather": 1.712982611800722
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.4485719366802965,
+      "Extreme weather": 1.599531798355405
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 2.0823221589779264,
+      "Extreme weather": 0.8053761042381852
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.7654470478291115,
+      "Extreme weather": -0.32913203021498594
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 1.4485719366802965,
+      "Extreme weather": -0.6694844705509373
+    },
+    {
+      "date": "2023-06-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 0.1246712235662825
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -1.0864289525102226,
+      "Extreme weather": -0.4425828436603031
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": -0.1358036190637779,
+      "Extreme weather": 2.2802366790273076
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "event": "climate",
+      "type": "zscore",
+      "Climate concern": 2.0823221589779264,
+      "Extreme weather": 0.011220410120965389
+    }
+  ],
+  "summary": [
+    {
+      "group": "Climate concern",
+      "pre": 13.953488372093023,
+      "during": 15.75,
+      "post": 14.844444444444445
+    },
+    {
+      "group": "Extreme weather",
+      "pre": 22.0,
+      "during": 19.5,
+      "post": 26.244444444444444
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "event": "trump",
+  "window_start": "2016-06-01",
+  "window_end": "2016-11-30",
+  "raw_and_zscore_timeseries": [
+    {
+      "date": "2016-03-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 68.0
+    },
+    {
+      "date": "2016-04-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 74.0
+    },
+    {
+      "date": "2016-05-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2016-06-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 74.0
+    },
+    {
+      "date": "2016-07-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 80.0
+    },
+    {
+      "date": "2016-08-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 68.0
+    },
+    {
+      "date": "2016-09-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 68.0
+    },
+    {
+      "date": "2016-10-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 71.0
+    },
+    {
+      "date": "2016-11-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 71.0
+    },
+    {
+      "date": "2016-12-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2017-01-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 74.0
+    },
+    {
+      "date": "2017-02-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 70.0
+    },
+    {
+      "date": "2017-03-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 69.0
+    },
+    {
+      "date": "2017-04-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2017-05-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 74.0
+    },
+    {
+      "date": "2017-06-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2017-07-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2017-08-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 77.0
+    },
+    {
+      "date": "2017-09-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 66.0
+    },
+    {
+      "date": "2017-10-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 71.0
+    },
+    {
+      "date": "2017-11-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 73.0
+    },
+    {
+      "date": "2017-12-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2018-01-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 68.0
+    },
+    {
+      "date": "2018-02-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2018-03-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 73.0
+    },
+    {
+      "date": "2018-04-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2018-05-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 73.0
+    },
+    {
+      "date": "2018-06-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 74.0
+    },
+    {
+      "date": "2018-07-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2018-08-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2018-09-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 74.0
+    },
+    {
+      "date": "2018-10-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 72.0
+    },
+    {
+      "date": "2018-11-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 71.0
+    },
+    {
+      "date": "2018-12-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2019-01-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 70.0
+    },
+    {
+      "date": "2019-02-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 71.0
+    },
+    {
+      "date": "2019-03-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 72.0
+    },
+    {
+      "date": "2019-04-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 72.0
+    },
+    {
+      "date": "2019-05-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2019-06-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2019-07-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2019-08-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 77.0
+    },
+    {
+      "date": "2019-09-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 68.0
+    },
+    {
+      "date": "2019-10-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 68.0
+    },
+    {
+      "date": "2019-11-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 71.0
+    },
+    {
+      "date": "2019-12-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 81.0
+    },
+    {
+      "date": "2020-01-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 68.0
+    },
+    {
+      "date": "2020-02-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 68.0
+    },
+    {
+      "date": "2020-03-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 64.0
+    },
+    {
+      "date": "2020-04-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 72.0
+    },
+    {
+      "date": "2020-05-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 81.0
+    },
+    {
+      "date": "2020-06-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 90.0
+    },
+    {
+      "date": "2020-07-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 81.0
+    },
+    {
+      "date": "2020-08-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 80.0
+    },
+    {
+      "date": "2020-09-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2020-10-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2020-11-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2020-12-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 79.0
+    },
+    {
+      "date": "2021-01-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 81.0
+    },
+    {
+      "date": "2021-02-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 71.0
+    },
+    {
+      "date": "2021-03-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 71.0
+    },
+    {
+      "date": "2021-04-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 79.0
+    },
+    {
+      "date": "2021-05-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 81.0
+    },
+    {
+      "date": "2021-06-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 78.0
+    },
+    {
+      "date": "2021-07-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 83.0
+    },
+    {
+      "date": "2021-08-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 83.0
+    },
+    {
+      "date": "2021-09-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 73.0
+    },
+    {
+      "date": "2021-10-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2021-11-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2021-12-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 88.0
+    },
+    {
+      "date": "2022-01-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 100.0
+    },
+    {
+      "date": "2022-02-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 80.0
+    },
+    {
+      "date": "2022-03-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 77.0
+    },
+    {
+      "date": "2022-04-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 82.0
+    },
+    {
+      "date": "2022-05-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 84.0
+    },
+    {
+      "date": "2022-06-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 85.0
+    },
+    {
+      "date": "2022-07-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 86.0
+    },
+    {
+      "date": "2022-08-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 83.0
+    },
+    {
+      "date": "2022-09-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 75.0
+    },
+    {
+      "date": "2022-11-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 80.0
+    },
+    {
+      "date": "2022-12-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 93.0
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 83.0
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 80.0
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 78.0
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 80.0
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 81.0
+    },
+    {
+      "date": "2023-06-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 83.0
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 89.0
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 84.0
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "event": "trump",
+      "type": "raw",
+      "2016 context": 76.0
+    },
+    {
+      "date": "2016-03-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.3530418304286638
+    },
+    {
+      "date": "2016-04-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.37713583384471283
+    },
+    {
+      "date": "2016-05-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2016-06-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.37713583384471283
+    },
+    {
+      "date": "2016-07-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.598770162739238
+    },
+    {
+      "date": "2016-08-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.3530418304286638
+    },
+    {
+      "date": "2016-09-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.3530418304286638
+    },
+    {
+      "date": "2016-10-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.8650888321366883
+    },
+    {
+      "date": "2016-11-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.8650888321366883
+    },
+    {
+      "date": "2016-12-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2017-01-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.37713583384471283
+    },
+    {
+      "date": "2017-02-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.0277398315673467
+    },
+    {
+      "date": "2017-03-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.1903908309980054
+    },
+    {
+      "date": "2017-04-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2017-05-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.37713583384471283
+    },
+    {
+      "date": "2017-06-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2017-07-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2017-08-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.11081716444726258
+    },
+    {
+      "date": "2017-09-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.6783438292899806
+    },
+    {
+      "date": "2017-10-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.8650888321366883
+    },
+    {
+      "date": "2017-11-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.5397868332753714
+    },
+    {
+      "date": "2017-12-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2018-01-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.3530418304286638
+    },
+    {
+      "date": "2018-02-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2018-03-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.5397868332753714
+    },
+    {
+      "date": "2018-04-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2018-05-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.5397868332753714
+    },
+    {
+      "date": "2018-06-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.37713583384471283
+    },
+    {
+      "date": "2018-07-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2018-08-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2018-09-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.37713583384471283
+    },
+    {
+      "date": "2018-10-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.7024378327060298
+    },
+    {
+      "date": "2018-11-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.8650888321366883
+    },
+    {
+      "date": "2018-12-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2019-01-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.0277398315673467
+    },
+    {
+      "date": "2019-02-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.8650888321366883
+    },
+    {
+      "date": "2019-03-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.7024378327060298
+    },
+    {
+      "date": "2019-04-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.7024378327060298
+    },
+    {
+      "date": "2019-05-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2019-06-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2019-07-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2019-08-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.11081716444726258
+    },
+    {
+      "date": "2019-09-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.3530418304286638
+    },
+    {
+      "date": "2019-10-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.3530418304286638
+    },
+    {
+      "date": "2019-11-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.8650888321366883
+    },
+    {
+      "date": "2019-12-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.7614211621698965
+    },
+    {
+      "date": "2020-01-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.3530418304286638
+    },
+    {
+      "date": "2020-02-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -1.3530418304286638
+    },
+    {
+      "date": "2020-03-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -2.003645828151298
+    },
+    {
+      "date": "2020-04-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.7024378327060298
+    },
+    {
+      "date": "2020-05-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.7614211621698965
+    },
+    {
+      "date": "2020-06-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 2.2252801570458227
+    },
+    {
+      "date": "2020-07-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.7614211621698965
+    },
+    {
+      "date": "2020-08-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.598770162739238
+    },
+    {
+      "date": "2020-09-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2020-10-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2020-11-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2020-12-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.4361191633085795
+    },
+    {
+      "date": "2021-01-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.7614211621698965
+    },
+    {
+      "date": "2021-02-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.8650888321366883
+    },
+    {
+      "date": "2021-03-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.8650888321366883
+    },
+    {
+      "date": "2021-04-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.4361191633085795
+    },
+    {
+      "date": "2021-05-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.7614211621698965
+    },
+    {
+      "date": "2021-06-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.27346816387792106
+    },
+    {
+      "date": "2021-07-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.0867231610312136
+    },
+    {
+      "date": "2021-08-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.0867231610312136
+    },
+    {
+      "date": "2021-09-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.5397868332753714
+    },
+    {
+      "date": "2021-10-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2021-11-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2021-12-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.8999781581845059
+    },
+    {
+      "date": "2022-01-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 3.8517901513524078
+    },
+    {
+      "date": "2022-02-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.598770162739238
+    },
+    {
+      "date": "2022-03-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.11081716444726258
+    },
+    {
+      "date": "2022-04-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.9240721616005549
+    },
+    {
+      "date": "2022-05-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.249374160461872
+    },
+    {
+      "date": "2022-06-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.4120251598925304
+    },
+    {
+      "date": "2022-07-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.5746761593231888
+    },
+    {
+      "date": "2022-08-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.0867231610312136
+    },
+    {
+      "date": "2022-09-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.2144848344140544
+    },
+    {
+      "date": "2022-11-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.598770162739238
+    },
+    {
+      "date": "2022-12-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 2.7132331553377984
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.0867231610312136
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.598770162739238
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.27346816387792106
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.598770162739238
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 0.7614211621698965
+    },
+    {
+      "date": "2023-06-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.0867231610312136
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 2.0626291576151643
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": 1.249374160461872
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "event": "trump",
+      "type": "zscore",
+      "2016 context": -0.051833834983395895
+    }
+  ],
+  "summary": [
+    {
+      "group": "2016 context",
+      "pre": 72.75,
+      "during": 72.0,
+      "post": 76.78048780487805
+    }
+  ]
+}

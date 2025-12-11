@@ -1,0 +1,1295 @@
+{
+  "event": "covid",
+  "window_start": "2020-03-01",
+  "window_end": "2021-12-31",
+  "raw_and_zscore_timeseries": [
+    {
+      "date": "2016-03-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 71.0,
+      "Health words": 84.0
+    },
+    {
+      "date": "2016-04-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 72.0,
+      "Health words": 80.0
+    },
+    {
+      "date": "2016-05-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 69.5,
+      "Health words": 77.0
+    },
+    {
+      "date": "2016-06-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 69.0,
+      "Health words": 86.0
+    },
+    {
+      "date": "2016-07-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 69.0,
+      "Health words": 81.0
+    },
+    {
+      "date": "2016-08-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.0,
+      "Health words": 84.0
+    },
+    {
+      "date": "2016-09-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 72.0,
+      "Health words": 78.0
+    },
+    {
+      "date": "2016-10-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 71.0,
+      "Health words": 78.0
+    },
+    {
+      "date": "2016-11-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 66.5,
+      "Health words": 69.0
+    },
+    {
+      "date": "2016-12-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.0,
+      "Health words": 71.0
+    },
+    {
+      "date": "2017-01-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.0,
+      "Health words": 82.0
+    },
+    {
+      "date": "2017-02-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 72.0,
+      "Health words": 85.0
+    },
+    {
+      "date": "2017-03-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 72.0,
+      "Health words": 85.0
+    },
+    {
+      "date": "2017-04-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 73.0,
+      "Health words": 79.0
+    },
+    {
+      "date": "2017-05-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.0,
+      "Health words": 84.0
+    },
+    {
+      "date": "2017-06-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.5,
+      "Health words": 85.0
+    },
+    {
+      "date": "2017-07-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 73.0,
+      "Health words": 83.0
+    },
+    {
+      "date": "2017-08-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.0,
+      "Health words": 86.0
+    },
+    {
+      "date": "2017-09-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 77.0
+    },
+    {
+      "date": "2017-10-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.0,
+      "Health words": 77.0
+    },
+    {
+      "date": "2017-11-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 72.5,
+      "Health words": 80.0
+    },
+    {
+      "date": "2017-12-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 72.0,
+      "Health words": 72.0
+    },
+    {
+      "date": "2018-01-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 69.5,
+      "Health words": 89.0
+    },
+    {
+      "date": "2018-02-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 69.0,
+      "Health words": 86.0
+    },
+    {
+      "date": "2018-03-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 85.0
+    },
+    {
+      "date": "2018-04-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.5,
+      "Health words": 81.0
+    },
+    {
+      "date": "2018-05-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 81.0
+    },
+    {
+      "date": "2018-06-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 80.0
+    },
+    {
+      "date": "2018-07-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 71.0,
+      "Health words": 84.0
+    },
+    {
+      "date": "2018-08-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 71.5,
+      "Health words": 86.0
+    },
+    {
+      "date": "2018-09-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 71.5,
+      "Health words": 82.0
+    },
+    {
+      "date": "2018-10-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.5,
+      "Health words": 85.0
+    },
+    {
+      "date": "2018-11-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 66.5,
+      "Health words": 85.0
+    },
+    {
+      "date": "2018-12-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.0,
+      "Health words": 76.0
+    },
+    {
+      "date": "2019-01-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.5,
+      "Health words": 89.0
+    },
+    {
+      "date": "2019-02-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.5,
+      "Health words": 89.0
+    },
+    {
+      "date": "2019-03-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 88.0
+    },
+    {
+      "date": "2019-04-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 86.0
+    },
+    {
+      "date": "2019-05-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 69.0,
+      "Health words": 83.0
+    },
+    {
+      "date": "2019-06-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 71.5,
+      "Health words": 80.0
+    },
+    {
+      "date": "2019-07-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.5,
+      "Health words": 84.0
+    },
+    {
+      "date": "2019-08-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 87.0
+    },
+    {
+      "date": "2019-09-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 73.0,
+      "Health words": 82.0
+    },
+    {
+      "date": "2019-10-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 69.0,
+      "Health words": 84.0
+    },
+    {
+      "date": "2019-11-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 66.0,
+      "Health words": 76.0
+    },
+    {
+      "date": "2019-12-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 75.0
+    },
+    {
+      "date": "2020-01-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.5,
+      "Health words": 90.0
+    },
+    {
+      "date": "2020-02-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.5,
+      "Health words": 87.0
+    },
+    {
+      "date": "2020-03-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 75.5,
+      "Health words": 84.0
+    },
+    {
+      "date": "2020-04-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 63.0,
+      "Health words": 74.0
+    },
+    {
+      "date": "2020-05-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 65.5,
+      "Health words": 74.0
+    },
+    {
+      "date": "2020-06-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.5,
+      "Health words": 76.0
+    },
+    {
+      "date": "2020-07-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 66.5,
+      "Health words": 100.0
+    },
+    {
+      "date": "2020-08-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 65.0,
+      "Health words": 81.0
+    },
+    {
+      "date": "2020-09-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 75.0
+    },
+    {
+      "date": "2020-10-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 66.5,
+      "Health words": 84.0
+    },
+    {
+      "date": "2020-11-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 60.5,
+      "Health words": 74.0
+    },
+    {
+      "date": "2020-12-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 65.5,
+      "Health words": 71.0
+    },
+    {
+      "date": "2021-01-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 60.0,
+      "Health words": 81.0
+    },
+    {
+      "date": "2021-02-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 60.5,
+      "Health words": 79.0
+    },
+    {
+      "date": "2021-03-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 64.0,
+      "Health words": 84.0
+    },
+    {
+      "date": "2021-04-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 65.5,
+      "Health words": 82.0
+    },
+    {
+      "date": "2021-05-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 66.5,
+      "Health words": 80.0
+    },
+    {
+      "date": "2021-06-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 65.5,
+      "Health words": 77.0
+    },
+    {
+      "date": "2021-07-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 65.0,
+      "Health words": 89.0
+    },
+    {
+      "date": "2021-08-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 64.5,
+      "Health words": 95.0
+    },
+    {
+      "date": "2021-09-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 66.5,
+      "Health words": 90.0
+    },
+    {
+      "date": "2021-10-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 65.5,
+      "Health words": 84.0
+    },
+    {
+      "date": "2021-11-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.5,
+      "Health words": 83.0
+    },
+    {
+      "date": "2021-12-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 65.5,
+      "Health words": 81.0
+    },
+    {
+      "date": "2022-01-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.5,
+      "Health words": 88.0
+    },
+    {
+      "date": "2022-02-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.5,
+      "Health words": 83.0
+    },
+    {
+      "date": "2022-03-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 74.0,
+      "Health words": 90.0
+    },
+    {
+      "date": "2022-04-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 76.0,
+      "Health words": 81.0
+    },
+    {
+      "date": "2022-05-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 75.5,
+      "Health words": 81.0
+    },
+    {
+      "date": "2022-06-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.5,
+      "Health words": 80.0
+    },
+    {
+      "date": "2022-07-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 71.0,
+      "Health words": 82.0
+    },
+    {
+      "date": "2022-08-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.5,
+      "Health words": 84.0
+    },
+    {
+      "date": "2022-09-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 75.0,
+      "Health words": 76.0
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 80.0
+    },
+    {
+      "date": "2022-11-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 64.0,
+      "Health words": 74.0
+    },
+    {
+      "date": "2022-12-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 66.5,
+      "Health words": 72.0
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.5,
+      "Health words": 80.0
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 71.5,
+      "Health words": 85.0
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 86.0
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.5,
+      "Health words": 76.0
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 68.5,
+      "Health words": 79.0
+    },
+    {
+      "date": "2023-06-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.0,
+      "Health words": 79.0
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.5,
+      "Health words": 79.0
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 67.5,
+      "Health words": 80.0
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "event": "covid",
+      "type": "raw",
+      "Pandemic words": 70.5,
+      "Health words": 75.0
+    },
+    {
+      "date": "2016-03-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.7195197709904358,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2016-04-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.0396972729959604,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2016-05-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.23925351798214925,
+      "Health words": -0.8692723329870954
+    },
+    {
+      "date": "2016-06-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.07916476697938706,
+      "Health words": 0.8098173856837336
+    },
+    {
+      "date": "2016-07-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.07916476697938706,
+      "Health words": -0.12301023580006029
+    },
+    {
+      "date": "2016-08-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.24101273502613735,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2016-09-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.0396972729959604,
+      "Health words": -0.6827068086903366
+    },
+    {
+      "date": "2016-10-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.7195197709904358,
+      "Health words": -0.6827068086903366
+    },
+    {
+      "date": "2016-11-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.7212789880344239,
+      "Health words": -2.3617965273611654
+    },
+    {
+      "date": "2016-12-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.5611902370316617,
+      "Health words": -1.988665478767648
+    },
+    {
+      "date": "2017-01-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.5611902370316617,
+      "Health words": 0.06355528849669848
+    },
+    {
+      "date": "2017-02-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.0396972729959604,
+      "Health words": 0.6232518613869749
+    },
+    {
+      "date": "2017-03-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.0396972729959604,
+      "Health words": 0.6232518613869749
+    },
+    {
+      "date": "2017-04-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.3598747750014846,
+      "Health words": -0.49614128439357785
+    },
+    {
+      "date": "2017-05-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.24101273502613735,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2017-06-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.08092398402337515,
+      "Health words": 0.6232518613869749
+    },
+    {
+      "date": "2017-07-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.3598747750014846,
+      "Health words": 0.25012081279345727
+    },
+    {
+      "date": "2017-08-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.24101273502613735,
+      "Health words": 0.8098173856837336
+    },
+    {
+      "date": "2017-09-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": -0.8692723329870954
+    },
+    {
+      "date": "2017-10-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.5611902370316617,
+      "Health words": -0.8692723329870954
+    },
+    {
+      "date": "2017-11-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.1997860239987224,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2017-12-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.0396972729959604,
+      "Health words": -1.8020999544708893
+    },
+    {
+      "date": "2018-01-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.23925351798214925,
+      "Health words": 1.36951395857401
+    },
+    {
+      "date": "2018-02-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.07916476697938706,
+      "Health words": 0.8098173856837336
+    },
+    {
+      "date": "2018-03-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": 0.6232518613869749
+    },
+    {
+      "date": "2018-04-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.08092398402337515,
+      "Health words": -0.12301023580006029
+    },
+    {
+      "date": "2018-05-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": -0.12301023580006029
+    },
+    {
+      "date": "2018-06-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2018-07-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.7195197709904358,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2018-08-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.8796085219931981,
+      "Health words": 0.8098173856837336
+    },
+    {
+      "date": "2018-09-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.8796085219931981,
+      "Health words": 0.06355528849669848
+    },
+    {
+      "date": "2018-10-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.40110148602889956,
+      "Health words": 0.6232518613869749
+    },
+    {
+      "date": "2018-11-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.7212789880344239,
+      "Health words": 0.6232518613869749
+    },
+    {
+      "date": "2018-12-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.5611902370316617,
+      "Health words": -1.0558378572838543
+    },
+    {
+      "date": "2019-01-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.40110148602889956,
+      "Health words": 1.36951395857401
+    },
+    {
+      "date": "2019-02-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.08092398402337515,
+      "Health words": 1.36951395857401
+    },
+    {
+      "date": "2019-03-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": 1.1829484342772512
+    },
+    {
+      "date": "2019-04-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": 0.8098173856837336
+    },
+    {
+      "date": "2019-05-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.07916476697938706,
+      "Health words": 0.25012081279345727
+    },
+    {
+      "date": "2019-06-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.8796085219931981,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2019-07-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.5594310199876736,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2019-08-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": 0.9963829099804924
+    },
+    {
+      "date": "2019-09-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.3598747750014846,
+      "Health words": 0.06355528849669848
+    },
+    {
+      "date": "2019-10-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.07916476697938706,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2019-11-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.8813677390371861,
+      "Health words": -1.0558378572838543
+    },
+    {
+      "date": "2019-12-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": -1.242403381580613
+    },
+    {
+      "date": "2020-01-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.40110148602889956,
+      "Health words": 1.5560794828707687
+    },
+    {
+      "date": "2020-02-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.5594310199876736,
+      "Health words": 0.9963829099804924
+    },
+    {
+      "date": "2020-03-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 2.160318530015296,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2020-04-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.8419002450537594,
+      "Health words": -1.4289689058773718
+    },
+    {
+      "date": "2020-05-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.0414564900399483,
+      "Health words": -1.4289689058773718
+    },
+    {
+      "date": "2020-06-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.40110148602889956,
+      "Health words": -1.0558378572838543
+    },
+    {
+      "date": "2020-07-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.7212789880344239,
+      "Health words": 3.4217347258383564
+    },
+    {
+      "date": "2020-08-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.2015452410427105,
+      "Health words": -0.12301023580006029
+    },
+    {
+      "date": "2020-09-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": -1.242403381580613
+    },
+    {
+      "date": "2020-10-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.7212789880344239,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2020-11-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -2.6423440000675704,
+      "Health words": -1.4289689058773718
+    },
+    {
+      "date": "2020-12-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.0414564900399483,
+      "Health words": -1.988665478767648
+    },
+    {
+      "date": "2021-01-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -2.8024327510703326,
+      "Health words": -0.12301023580006029
+    },
+    {
+      "date": "2021-02-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -2.6423440000675704,
+      "Health words": -0.49614128439357785
+    },
+    {
+      "date": "2021-03-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.521722743048235,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2021-04-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.0414564900399483,
+      "Health words": 0.06355528849669848
+    },
+    {
+      "date": "2021-05-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.7212789880344239,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2021-06-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.0414564900399483,
+      "Health words": -0.8692723329870954
+    },
+    {
+      "date": "2021-07-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.2015452410427105,
+      "Health words": 1.36951395857401
+    },
+    {
+      "date": "2021-08-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.3616339920454728,
+      "Health words": 2.4889071043545625
+    },
+    {
+      "date": "2021-09-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.7212789880344239,
+      "Health words": 1.5560794828707687
+    },
+    {
+      "date": "2021-10-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.0414564900399483,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2021-11-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.40110148602889956,
+      "Health words": 0.25012081279345727
+    },
+    {
+      "date": "2021-12-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.0414564900399483,
+      "Health words": -0.12301023580006029
+    },
+    {
+      "date": "2022-01-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.08092398402337515,
+      "Health words": 1.1829484342772512
+    },
+    {
+      "date": "2022-02-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.5594310199876736,
+      "Health words": 0.25012081279345727
+    },
+    {
+      "date": "2022-03-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 1.680052277007009,
+      "Health words": 1.5560794828707687
+    },
+    {
+      "date": "2022-04-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 2.320407281018058,
+      "Health words": -0.12301023580006029
+    },
+    {
+      "date": "2022-05-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 2.160318530015296,
+      "Health words": -0.12301023580006029
+    },
+    {
+      "date": "2022-06-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.08092398402337515,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2022-07-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.7195197709904358,
+      "Health words": 0.06355528849669848
+    },
+    {
+      "date": "2022-08-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.5594310199876736,
+      "Health words": 0.43668633709021604
+    },
+    {
+      "date": "2022-09-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 2.0002297790125336,
+      "Health words": -1.0558378572838543
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2022-11-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -1.521722743048235,
+      "Health words": -1.4289689058773718
+    },
+    {
+      "date": "2022-12-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.7212789880344239,
+      "Health words": -1.8020999544708893
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.40110148602889956,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.8796085219931981,
+      "Health words": 0.6232518613869749
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": 0.8098173856837336
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.08092398402337515,
+      "Health words": -1.0558378572838543
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.08092398402337515,
+      "Health words": -0.49614128439357785
+    },
+    {
+      "date": "2023-06-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.39934226898491143,
+      "Health words": -0.49614128439357785
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.40110148602889956,
+      "Health words": -0.49614128439357785
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": -0.40110148602889956,
+      "Health words": -0.3095757600968191
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "event": "covid",
+      "type": "zscore",
+      "Pandemic words": 0.5594310199876736,
+      "Health words": -1.242403381580613
+    }
+  ],
+  "summary": [
+    {
+      "group": "Pandemic words",
+      "pre": 69.76530612244898,
+      "during": 65.54545454545455,
+      "post": 70.07142857142857
+    },
+    {
+      "group": "Health words",
+      "pre": 82.18367346938776,
+      "during": 81.72727272727273,
+      "post": 80.47619047619048
+    }
+  ]
+}

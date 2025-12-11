@@ -1,0 +1,133 @@
+{
+  "event": "trump",
+  "label": "Trump / US Election 2016",
+  "window_start": "2016-06",
+  "window_end": "2016-11",
+  "groups": [
+    {
+      "id": 0,
+      "words": [
+        "trump",
+        "donald",
+        "donald_trump",
+        "president",
+        "presidency",
+        "white",
+        "house"
+      ]
+    },
+    {
+      "id": 1,
+      "words": [
+        "election",
+        "vote",
+        "voting",
+        "ballot",
+        "campaign",
+        "candidate",
+        "debate",
+        "poll",
+        "polls",
+        "republican",
+        "democrat"
+      ]
+    }
+  ],
+  "timeseries": [
+    {
+      "month": "2016-03",
+      "group_0": 2,
+      "group_1": 0
+    },
+    {
+      "month": "2016-06",
+      "group_0": 4,
+      "group_1": 0
+    },
+    {
+      "month": "2016-08",
+      "group_0": 6,
+      "group_1": 0
+    },
+    {
+      "month": "2016-11",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2017-08",
+      "group_0": 2,
+      "group_1": 0
+    },
+    {
+      "month": "2017-12",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2018-11",
+      "group_0": 2,
+      "group_1": 0
+    },
+    {
+      "month": "2018-12",
+      "group_0": 7,
+      "group_1": 0
+    },
+    {
+      "month": "2019-01",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2019-03",
+      "group_0": 7,
+      "group_1": 0
+    },
+    {
+      "month": "2019-10",
+      "group_0": 2,
+      "group_1": 0
+    },
+    {
+      "month": "2020-02",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2020-03",
+      "group_0": 2,
+      "group_1": 0
+    },
+    {
+      "month": "2020-05",
+      "group_0": 17,
+      "group_1": 1
+    },
+    {
+      "month": "2020-06",
+      "group_0": 5,
+      "group_1": 0
+    },
+    {
+      "month": "2021-02",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2021-04",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2022-03",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2022-05",
+      "group_0": 0,
+      "group_1": 1
+    }
+  ]
+}

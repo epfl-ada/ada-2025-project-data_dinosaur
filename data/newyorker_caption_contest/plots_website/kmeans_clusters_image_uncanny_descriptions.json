@@ -1,0 +1,307 @@
+{
+  "field": "image_uncanny_descriptions",
+  "numDocuments": 530,
+  "k": 20,
+  "clusters": [
+    {
+      "clusterId": 0,
+      "topTerms": [
+        "alive",
+        "looking",
+        "gingerbread",
+        "chefs",
+        "hospital",
+        "man",
+        "doctors",
+        "trees",
+        "smiling",
+        "beast"
+      ]
+    },
+    {
+      "clusterId": 1,
+      "topTerms": [
+        "people",
+        "middle",
+        "water",
+        "car",
+        "build",
+        "dog",
+        "shouldn",
+        "outside",
+        "thing",
+        "normally"
+      ]
+    },
+    {
+      "clusterId": 2,
+      "topTerms": [
+        "usually",
+        "standing",
+        "shark",
+        "humans",
+        "don",
+        "person",
+        "stand",
+        "close",
+        "upright",
+        "dragons"
+      ]
+    },
+    {
+      "clusterId": 3,
+      "topTerms": [
+        "giant",
+        "does",
+        "lizard",
+        "belong",
+        "paper",
+        "insects",
+        "unusual",
+        "enormous",
+        "sun",
+        "donut"
+      ]
+    },
+    {
+      "clusterId": 4,
+      "topTerms": [
+        "men",
+        "dozen",
+        "tiny",
+        "tubas",
+        "possible",
+        "bathroom",
+        "elevator",
+        "look",
+        "lay",
+        "watching"
+      ]
+    },
+    {
+      "clusterId": 5,
+      "topTerms": [
+        "earth",
+        "pinata",
+        "angels",
+        "aliens",
+        "communicating",
+        "carries",
+        "globe",
+        "playing",
+        "lot",
+        "oxygen"
+      ]
+    },
+    {
+      "clusterId": 6,
+      "topTerms": [
+        "large",
+        "unusual",
+        "lady",
+        "halo",
+        "balls",
+        "aren",
+        "unusually",
+        "beach",
+        "compared",
+        "satan"
+      ]
+    },
+    {
+      "clusterId": 7,
+      "topTerms": [
+        "man",
+        "head",
+        "mountain",
+        "like",
+        "lion",
+        "cannonballing",
+        "pool",
+        "piano",
+        "looks",
+        "diving"
+      ]
+    },
+    {
+      "clusterId": 8,
+      "topTerms": [
+        "place",
+        "really",
+        "office",
+        "stands",
+        "ufos",
+        "traps",
+        "image",
+        "sword",
+        "picture",
+        "anchor"
+      ]
+    },
+    {
+      "clusterId": 9,
+      "topTerms": [
+        "modern",
+        "woman",
+        "times",
+        "knight",
+        "kitchen",
+        "caveman",
+        "man",
+        "carrying",
+        "supposed",
+        "mosquitoes"
+      ]
+    },
+    {
+      "clusterId": 10,
+      "topTerms": [
+        "table",
+        "subway",
+        "station",
+        "waiter",
+        "restaurant",
+        "larger",
+        "middle",
+        "unusual",
+        "menu",
+        "far"
+      ]
+    },
+    {
+      "clusterId": 11,
+      "topTerms": [
+        "time",
+        "period",
+        "belong",
+        "modern",
+        "wrong",
+        "don",
+        "knight",
+        "woman",
+        "doesn",
+        "jacket"
+      ]
+    },
+    {
+      "clusterId": 12,
+      "topTerms": [
+        "unusual",
+        "inside",
+        "room",
+        "living",
+        "people",
+        "man",
+        "house",
+        "office",
+        "sheep",
+        "animals"
+      ]
+    },
+    {
+      "clusterId": 13,
+      "topTerms": [
+        "don",
+        "exist",
+        "size",
+        "snails",
+        "fish",
+        "use",
+        "people",
+        "walk",
+        "lizards",
+        "big"
+      ]
+    },
+    {
+      "clusterId": 14,
+      "topTerms": [
+        "human",
+        "giraffes",
+        "things",
+        "doing",
+        "mosquito",
+        "sized",
+        "magician",
+        "fish",
+        "like",
+        "people"
+      ]
+    },
+    {
+      "clusterId": 15,
+      "topTerms": [
+        "odd",
+        "death",
+        "magic",
+        "client",
+        "alley",
+        "baker",
+        "die",
+        "act",
+        "rocks",
+        "stacked"
+      ]
+    },
+    {
+      "clusterId": 16,
+      "topTerms": [
+        "like",
+        "king",
+        "dressed",
+        "looks",
+        "cacti",
+        "dress",
+        "don",
+        "unusual",
+        "window",
+        "sword"
+      ]
+    },
+    {
+      "clusterId": 17,
+      "topTerms": [
+        "wear",
+        "instead",
+        "shoes",
+        "clothes",
+        "horses",
+        "suits",
+        "wearing",
+        "horse",
+        "don",
+        "people"
+      ]
+    },
+    {
+      "clusterId": 18,
+      "topTerms": [
+        "huge",
+        "snow",
+        "man",
+        "snake",
+        "course",
+        "shovel",
+        "golf",
+        "tiny",
+        "playing",
+        "pool"
+      ]
+    },
+    {
+      "clusterId": 19,
+      "topTerms": [
+        "wearing",
+        "city",
+        "upright",
+        "hat",
+        "clothing",
+        "clothes",
+        "size",
+        "bed",
+        "background",
+        "man"
+      ]
+    }
+  ]
+}
