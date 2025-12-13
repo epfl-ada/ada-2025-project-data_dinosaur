@@ -10,7 +10,8 @@
             "contest_ids": 510,
             "funny": 709,
             "not_funny": 37038,
-            "somewhat_funny": 3438
+            "somewhat_funny": 3438,
+            "date": "07/03/2016"
         },
         {
             "men": 175,
@@ -22,7 +23,8 @@
             "contest_ids": 511,
             "funny": 599,
             "not_funny": 24656,
-            "somewhat_funny": 2950
+            "somewhat_funny": 2950,
+            "date": "14/03/2016"
         },
         {
             "men": 245,
@@ -34,7 +36,8 @@
             "contest_ids": 512,
             "funny": 609,
             "not_funny": 18549,
-            "somewhat_funny": 2416
+            "somewhat_funny": 2416,
+            "date": "21/03/2016"
         },
         {
             "men": 281,
@@ -46,7 +49,8 @@
             "contest_ids": 513,
             "funny": 657,
             "not_funny": 13813,
-            "somewhat_funny": 2424
+            "somewhat_funny": 2424,
+            "date": "27/03/2016"
         },
         {
             "men": 236,
@@ -58,7 +62,8 @@
             "contest_ids": 514,
             "funny": 7639,
             "not_funny": 65884,
-            "somewhat_funny": 22267
+            "somewhat_funny": 22267,
+            "date": "03/04/2016"
         },
         {
             "men": 95,
@@ -70,7 +75,8 @@
             "contest_ids": 515,
             "funny": 922,
             "not_funny": 19387,
-            "somewhat_funny": 3234
+            "somewhat_funny": 3234,
+            "date": "10/04/2016"
         },
         {
             "men": 100,
@@ -82,7 +88,8 @@
             "contest_ids": 516,
             "funny": 1011,
             "not_funny": 20121,
-            "somewhat_funny": 3528
+            "somewhat_funny": 3528,
+            "date": "17/04/2016"
         },
         {
             "men": 181,
@@ -94,7 +101,8 @@
             "contest_ids": 517,
             "funny": 1514,
             "not_funny": 23750,
-            "somewhat_funny": 4649
+            "somewhat_funny": 4649,
+            "date": "24/04/2016"
         },
         {
             "men": 279,
@@ -106,7 +114,8 @@
             "contest_ids": 518,
             "funny": 5439,
             "not_funny": 99197,
-            "somewhat_funny": 19301
+            "somewhat_funny": 19301,
+            "date": "01/05/2016"
         },
         {
             "men": 202,
@@ -118,7 +127,8 @@
             "contest_ids": 519,
             "funny": 6225,
             "not_funny": 72521,
-            "somewhat_funny": 17438
+            "somewhat_funny": 17438,
+            "date": "08/05/2016"
         },
         {
             "men": 185,
@@ -130,7 +140,8 @@
             "contest_ids": 520,
             "funny": 13861,
             "not_funny": 157540,
-            "somewhat_funny": 37921
+            "somewhat_funny": 37921,
+            "date": "15/05/2016"
         },
         {
             "men": 182,
@@ -142,7 +153,8 @@
             "contest_ids": 521,
             "funny": 11490,
             "not_funny": 137198,
-            "somewhat_funny": 35224
+            "somewhat_funny": 35224,
+            "date": "22/05/2016"
         },
         {
             "men": 1532,
@@ -154,7 +166,8 @@
             "contest_ids": 522,
             "funny": 18017,
             "not_funny": 272550,
-            "somewhat_funny": 56768
+            "somewhat_funny": 56768,
+            "date": "29/05/2016"
         },
         {
             "men": 94,
@@ -166,7 +179,8 @@
             "contest_ids": 523,
             "funny": 14431,
             "not_funny": 189091,
-            "somewhat_funny": 44919
+            "somewhat_funny": 44919,
+            "date": "05/06/2016"
         },
         {
             "men": 148,
@@ -178,7 +192,8 @@
             "contest_ids": 524,
             "funny": 6577,
             "not_funny": 142892,
-            "somewhat_funny": 23211
+            "somewhat_funny": 23211,
+            "date": "12/06/2016"
         },
         {
             "men": 231,
@@ -190,7 +205,8 @@
             "contest_ids": 526,
             "funny": 10181,
             "not_funny": 197200,
-            "somewhat_funny": 31296
+            "somewhat_funny": 31296,
+            "date": "03/07/2016"
         },
         {
             "men": 228,
@@ -202,7 +218,8 @@
             "contest_ids": 527,
             "funny": 11151,
             "not_funny": 196086,
-            "somewhat_funny": 30175
+            "somewhat_funny": 30175,
+            "date": "10/07/2016"
         },
         {
             "men": 185,
@@ -214,7 +231,8 @@
             "contest_ids": 528,
             "funny": 3089,
             "not_funny": 82724,
-            "somewhat_funny": 10796
+            "somewhat_funny": 10796,
+            "date": "17/07/2016"
         },
         {
             "men": 110,
@@ -226,7 +244,8 @@
             "contest_ids": 529,
             "funny": 13805,
             "not_funny": 176093,
-            "somewhat_funny": 41393
+            "somewhat_funny": 41393,
+            "date": "31/07/2016"
         },
         {
             "men": 307,
@@ -238,7 +257,8 @@
             "contest_ids": 530,
             "funny": 11051,
             "not_funny": 172294,
-            "somewhat_funny": 35213
+            "somewhat_funny": 35213,
+            "date": "07/08/2016"
         },
         {
             "men": 159,
@@ -250,7 +270,8 @@
             "contest_ids": 531,
             "funny": 30601,
             "not_funny": 383656,
-            "somewhat_funny": 84080
+            "somewhat_funny": 84080,
+            "date": "14/08/2016"
         },
         {
             "men": 234,
@@ -262,7 +283,8 @@
             "contest_ids": 532,
             "funny": 24330,
             "not_funny": 608962,
-            "somewhat_funny": 81694
+            "somewhat_funny": 81694,
+            "date": "28/08/2016"
         },
         {
             "men": 232,
@@ -274,7 +296,8 @@
             "contest_ids": 533,
             "funny": 21214,
             "not_funny": 293559,
-            "somewhat_funny": 62723
+            "somewhat_funny": 62723,
+            "date": "04/09/2016"
         },
         {
             "men": 368,
@@ -286,7 +309,8 @@
             "contest_ids": 534,
             "funny": 24350,
             "not_funny": 334403,
-            "somewhat_funny": 66776
+            "somewhat_funny": 66776,
+            "date": "11/09/2016"
         },
         {
             "men": 172,
@@ -298,7 +322,8 @@
             "contest_ids": 535,
             "funny": 24057,
             "not_funny": 398824,
-            "somewhat_funny": 66048
+            "somewhat_funny": 66048,
+            "date": "18/09/2016"
         },
         {
             "men": 303,
@@ -310,7 +335,8 @@
             "contest_ids": 536,
             "funny": 22283,
             "not_funny": 335307,
-            "somewhat_funny": 57475
+            "somewhat_funny": 57475,
+            "date": "25/09/2016"
         },
         {
             "men": 355,
@@ -322,7 +348,8 @@
             "contest_ids": 537,
             "funny": 28540,
             "not_funny": 548877,
-            "somewhat_funny": 88120
+            "somewhat_funny": 88120,
+            "date": "02/10/2016"
         },
         {
             "men": 126,
@@ -334,7 +361,8 @@
             "contest_ids": 538,
             "funny": 16454,
             "not_funny": 317303,
-            "somewhat_funny": 51918
+            "somewhat_funny": 51918,
+            "date": "09/10/2016"
         },
         {
             "men": 169,
@@ -346,7 +374,8 @@
             "contest_ids": 539,
             "funny": 25603,
             "not_funny": 450048,
-            "somewhat_funny": 79539
+            "somewhat_funny": 79539,
+            "date": "16/10/2016"
         },
         {
             "men": 322,
@@ -358,7 +387,8 @@
             "contest_ids": 541,
             "funny": 29206,
             "not_funny": 408990,
-            "somewhat_funny": 72748
+            "somewhat_funny": 72748,
+            "date": "30/10/2016"
         },
         {
             "men": 229,
@@ -370,7 +400,8 @@
             "contest_ids": 542,
             "funny": 23339,
             "not_funny": 488655,
-            "somewhat_funny": 69608
+            "somewhat_funny": 69608,
+            "date": "06/11/2016"
         },
         {
             "men": 87,
@@ -382,7 +413,8 @@
             "contest_ids": 543,
             "funny": 20943,
             "not_funny": 372711,
-            "somewhat_funny": 56844
+            "somewhat_funny": 56844,
+            "date": "13/11/2016"
         },
         {
             "men": 377,
@@ -394,7 +426,8 @@
             "contest_ids": 544,
             "funny": 8884,
             "not_funny": 174785,
-            "somewhat_funny": 14577
+            "somewhat_funny": 14577,
+            "date": "20/11/2016"
         },
         {
             "men": 414,
@@ -406,7 +439,8 @@
             "contest_ids": 545,
             "funny": 20282,
             "not_funny": 269756,
-            "somewhat_funny": 54057
+            "somewhat_funny": 54057,
+            "date": "27/11/2016"
         },
         {
             "men": 218,
@@ -418,7 +452,8 @@
             "contest_ids": 546,
             "funny": 18574,
             "not_funny": 261370,
-            "somewhat_funny": 53172
+            "somewhat_funny": 53172,
+            "date": "04/12/2016"
         },
         {
             "men": 90,
@@ -430,7 +465,8 @@
             "contest_ids": 547,
             "funny": 20293,
             "not_funny": 320476,
-            "somewhat_funny": 57977
+            "somewhat_funny": 57977,
+            "date": "11/12/2016"
         },
         {
             "men": 411,
@@ -442,7 +478,8 @@
             "contest_ids": 548,
             "funny": 25830,
             "not_funny": 403390,
-            "somewhat_funny": 72205
+            "somewhat_funny": 72205,
+            "date": "18/12/2016"
         },
         {
             "men": 209,
@@ -454,7 +491,8 @@
             "contest_ids": 549,
             "funny": 26579,
             "not_funny": 371775,
-            "somewhat_funny": 77077
+            "somewhat_funny": 77077,
+            "date": "25/12/2016"
         },
         {
             "men": 543,
@@ -466,7 +504,8 @@
             "contest_ids": 550,
             "funny": 23357,
             "not_funny": 365950,
-            "somewhat_funny": 74286
+            "somewhat_funny": 74286,
+            "date": "08/01/2017"
         },
         {
             "men": 94,
@@ -478,7 +517,8 @@
             "contest_ids": 551,
             "funny": 34402,
             "not_funny": 466590,
-            "somewhat_funny": 82193
+            "somewhat_funny": 82193,
+            "date": "15/01/2017"
         },
         {
             "men": 142,
@@ -490,7 +530,8 @@
             "contest_ids": 552,
             "funny": 24992,
             "not_funny": 420262,
-            "somewhat_funny": 74294
+            "somewhat_funny": 74294,
+            "date": "22/01/2017"
         },
         {
             "men": 378,
@@ -502,7 +543,8 @@
             "contest_ids": 553,
             "funny": 30940,
             "not_funny": 436959,
-            "somewhat_funny": 79191
+            "somewhat_funny": 79191,
+            "date": "29/01/2017"
         },
         {
             "men": 214,
@@ -514,7 +556,8 @@
             "contest_ids": 554,
             "funny": 62216,
             "not_funny": 727231,
-            "somewhat_funny": 138613
+            "somewhat_funny": 138613,
+            "date": "05/02/2017"
         },
         {
             "men": 783,
@@ -526,7 +569,8 @@
             "contest_ids": 555,
             "funny": 23078,
             "not_funny": 413535,
-            "somewhat_funny": 64465
+            "somewhat_funny": 64465,
+            "date": "12/02/2017"
         },
         {
             "men": 76,
@@ -538,7 +582,8 @@
             "contest_ids": 556,
             "funny": 36479,
             "not_funny": 580306,
-            "somewhat_funny": 96748
+            "somewhat_funny": 96748,
+            "date": "19/02/2017"
         },
         {
             "men": 145,
@@ -550,7 +595,8 @@
             "contest_ids": 557,
             "funny": 30981,
             "not_funny": 643785,
-            "somewhat_funny": 93232
+            "somewhat_funny": 93232,
+            "date": "06/03/2017"
         },
         {
             "men": 126,
@@ -562,7 +608,8 @@
             "contest_ids": 558,
             "funny": 25541,
             "not_funny": 428134,
-            "somewhat_funny": 70622
+            "somewhat_funny": 70622,
+            "date": "12/03/2017"
         },
         {
             "men": 211,
@@ -574,7 +621,8 @@
             "contest_ids": 559,
             "funny": 14358,
             "not_funny": 199448,
-            "somewhat_funny": 36746
+            "somewhat_funny": 36746,
+            "date": "19/03/2017"
         },
         {
             "men": 457,
@@ -586,7 +634,8 @@
             "contest_ids": 560,
             "funny": 30436,
             "not_funny": 321530,
-            "somewhat_funny": 66951
+            "somewhat_funny": 66951,
+            "date": "26/03/2017"
         },
         {
             "men": 114,
@@ -598,7 +647,8 @@
             "contest_ids": 561,
             "funny": 28123,
             "not_funny": 341160,
-            "somewhat_funny": 68829
+            "somewhat_funny": 68829,
+            "date": "02/04/2017"
         },
         {
             "men": 131,
@@ -610,7 +660,8 @@
             "contest_ids": 562,
             "funny": 7035,
             "not_funny": 146028,
-            "somewhat_funny": 23318
+            "somewhat_funny": 23318,
+            "date": "09/04/2017"
         },
         {
             "men": 131,
@@ -622,7 +673,8 @@
             "contest_ids": 563,
             "funny": 4272,
             "not_funny": 110165,
-            "somewhat_funny": 14475
+            "somewhat_funny": 14475,
+            "date": "17/04/2017"
         },
         {
             "men": 316,
@@ -634,7 +686,8 @@
             "contest_ids": 564,
             "funny": 21594,
             "not_funny": 274642,
-            "somewhat_funny": 53032
+            "somewhat_funny": 53032,
+            "date": "24/04/2017"
         },
         {
             "men": 149,
@@ -646,7 +699,8 @@
             "contest_ids": 565,
             "funny": 6762,
             "not_funny": 122970,
-            "somewhat_funny": 19047
+            "somewhat_funny": 19047,
+            "date": "01/05/2017"
         },
         {
             "men": 169,
@@ -658,7 +712,8 @@
             "contest_ids": 566,
             "funny": 9843,
             "not_funny": 159641,
-            "somewhat_funny": 22393
+            "somewhat_funny": 22393,
+            "date": "07/05/2017"
         },
         {
             "men": 156,
@@ -670,7 +725,8 @@
             "contest_ids": 567,
             "funny": 16411,
             "not_funny": 184541,
-            "somewhat_funny": 38877
+            "somewhat_funny": 38877,
+            "date": "14/05/2017"
         },
         {
             "men": 230,
@@ -682,7 +738,8 @@
             "contest_ids": 568,
             "funny": 20530,
             "not_funny": 221457,
-            "somewhat_funny": 48750
+            "somewhat_funny": 48750,
+            "date": "21/05/2017"
         },
         {
             "men": 232,
@@ -694,7 +751,8 @@
             "contest_ids": 569,
             "funny": 16436,
             "not_funny": 209124,
-            "somewhat_funny": 44576
+            "somewhat_funny": 44576,
+            "date": "29/05/2017"
         },
         {
             "men": 238,
@@ -706,7 +764,8 @@
             "contest_ids": 570,
             "funny": 16936,
             "not_funny": 243540,
-            "somewhat_funny": 42538
+            "somewhat_funny": 42538,
+            "date": "05/06/2017"
         },
         {
             "men": 189,
@@ -718,7 +777,8 @@
             "contest_ids": 571,
             "funny": 26774,
             "not_funny": 271923,
-            "somewhat_funny": 64626
+            "somewhat_funny": 64626,
+            "date": "11/06/2017"
         },
         {
             "men": 236,
@@ -730,7 +790,8 @@
             "contest_ids": 572,
             "funny": 8923,
             "not_funny": 189917,
-            "somewhat_funny": 19495
+            "somewhat_funny": 19495,
+            "date": "25/06/2017"
         },
         {
             "men": 140,
@@ -742,7 +803,8 @@
             "contest_ids": 573,
             "funny": 35107,
             "not_funny": 254979,
-            "somewhat_funny": 76696
+            "somewhat_funny": 76696,
+            "date": "02/07/2017"
         },
         {
             "men": 93,
@@ -754,7 +816,8 @@
             "contest_ids": 574,
             "funny": 37025,
             "not_funny": 292635,
-            "somewhat_funny": 81143
+            "somewhat_funny": 81143,
+            "date": "09/07/2017"
         },
         {
             "men": 280,
@@ -766,7 +829,8 @@
             "contest_ids": 575,
             "funny": 76137,
             "not_funny": 380062,
-            "somewhat_funny": 136972
+            "somewhat_funny": 136972,
+            "date": "16/07/2017"
         },
         {
             "men": 187,
@@ -778,7 +842,8 @@
             "contest_ids": 576,
             "funny": 14207,
             "not_funny": 233745,
-            "somewhat_funny": 36577
+            "somewhat_funny": 36577,
+            "date": "30/07/2017"
         },
         {
             "men": 256,
@@ -790,7 +855,8 @@
             "contest_ids": 577,
             "funny": 49704,
             "not_funny": 244064,
-            "somewhat_funny": 96113
+            "somewhat_funny": 96113,
+            "date": "06/08/2017"
         },
         {
             "men": 70,
@@ -802,7 +868,8 @@
             "contest_ids": 578,
             "funny": 68451,
             "not_funny": 391547,
-            "somewhat_funny": 133763
+            "somewhat_funny": 133763,
+            "date": "13/08/2017"
         },
         {
             "men": 207,
@@ -814,7 +881,8 @@
             "contest_ids": 579,
             "funny": 41545,
             "not_funny": 348960,
-            "somewhat_funny": 89907
+            "somewhat_funny": 89907,
+            "date": "27/08/2017"
         },
         {
             "men": 131,
@@ -826,7 +894,8 @@
             "contest_ids": 580,
             "funny": 39595,
             "not_funny": 298804,
-            "somewhat_funny": 87436
+            "somewhat_funny": 87436,
+            "date": "03/09/2017"
         },
         {
             "men": 557,
@@ -838,7 +907,8 @@
             "contest_ids": 581,
             "funny": 10220,
             "not_funny": 169550,
-            "somewhat_funny": 23803
+            "somewhat_funny": 23803,
+            "date": "10/09/2017"
         },
         {
             "men": 49,
@@ -850,7 +920,8 @@
             "contest_ids": 582,
             "funny": 18240,
             "not_funny": 139371,
-            "somewhat_funny": 38508
+            "somewhat_funny": 38508,
+            "date": "18/09/2017"
         },
         {
             "men": 374,
@@ -862,7 +933,8 @@
             "contest_ids": 583,
             "funny": 35360,
             "not_funny": 238126,
-            "somewhat_funny": 68925
+            "somewhat_funny": 68925,
+            "date": "25/09/2017"
         },
         {
             "men": 571,
@@ -874,7 +946,8 @@
             "contest_ids": 584,
             "funny": 58703,
             "not_funny": 336284,
-            "somewhat_funny": 106514
+            "somewhat_funny": 106514,
+            "date": "01/10/2017"
         },
         {
             "men": 183,
@@ -886,7 +959,8 @@
             "contest_ids": 585,
             "funny": 28202,
             "not_funny": 250271,
-            "somewhat_funny": 78314
+            "somewhat_funny": 78314,
+            "date": "09/10/2017"
         },
         {
             "men": 119,
@@ -898,7 +972,8 @@
             "contest_ids": 586,
             "funny": 51574,
             "not_funny": 322872,
-            "somewhat_funny": 105626
+            "somewhat_funny": 105626,
+            "date": "16/10/2017"
         },
         {
             "men": 244,
@@ -910,7 +985,8 @@
             "contest_ids": 587,
             "funny": 39905,
             "not_funny": 361385,
-            "somewhat_funny": 87256
+            "somewhat_funny": 87256,
+            "date": "23/10/2017"
         },
         {
             "men": 287,
@@ -922,7 +998,8 @@
             "contest_ids": 588,
             "funny": 22132,
             "not_funny": 219437,
-            "somewhat_funny": 53997
+            "somewhat_funny": 53997,
+            "date": "30/10/2017"
         },
         {
             "men": 711,
@@ -934,7 +1011,8 @@
             "contest_ids": 589,
             "funny": 54329,
             "not_funny": 433445,
-            "somewhat_funny": 140635
+            "somewhat_funny": 140635,
+            "date": "06/11/2017"
         },
         {
             "men": 193,
@@ -946,7 +1024,8 @@
             "contest_ids": 590,
             "funny": 91869,
             "not_funny": 578050,
-            "somewhat_funny": 221667
+            "somewhat_funny": 221667,
+            "date": "13/11/2017"
         },
         {
             "men": 174,
@@ -958,7 +1037,8 @@
             "contest_ids": 591,
             "funny": 4,
             "not_funny": 680478,
-            "somewhat_funny": 2876
+            "somewhat_funny": 2876,
+            "date": "20/11/2017"
         },
         {
             "men": 227,
@@ -970,7 +1050,8 @@
             "contest_ids": 592,
             "funny": 17,
             "not_funny": 1012639,
-            "somewhat_funny": 8660
+            "somewhat_funny": 8660,
+            "date": "27/11/2017"
         },
         {
             "men": 346,
@@ -982,7 +1063,8 @@
             "contest_ids": 593,
             "funny": 59838,
             "not_funny": 425105,
-            "somewhat_funny": 134933
+            "somewhat_funny": 134933,
+            "date": "04/12/2017"
         },
         {
             "men": 169,
@@ -994,7 +1076,8 @@
             "contest_ids": 594,
             "funny": 19513,
             "not_funny": 191263,
-            "somewhat_funny": 50072
+            "somewhat_funny": 50072,
+            "date": "11/12/2017"
         },
         {
             "men": 684,
@@ -1006,7 +1089,8 @@
             "contest_ids": 595,
             "funny": 32914,
             "not_funny": 314246,
-            "somewhat_funny": 74400
+            "somewhat_funny": 74400,
+            "date": "18/12/2017"
         },
         {
             "men": 211,
@@ -1018,7 +1102,8 @@
             "contest_ids": 596,
             "funny": 16966,
             "not_funny": 278149,
-            "somewhat_funny": 43047
+            "somewhat_funny": 43047,
+            "date": "25/12/2017"
         },
         {
             "men": 258,
@@ -1030,7 +1115,8 @@
             "contest_ids": 597,
             "funny": 97915,
             "not_funny": 516077,
-            "somewhat_funny": 204630
+            "somewhat_funny": 204630,
+            "date": "01/01/2018"
         },
         {
             "men": 99,
@@ -1042,7 +1128,8 @@
             "contest_ids": 598,
             "funny": 29885,
             "not_funny": 247188,
-            "somewhat_funny": 70308
+            "somewhat_funny": 70308,
+            "date": "08/01/2018"
         },
         {
             "men": 222,
@@ -1054,7 +1141,8 @@
             "contest_ids": 599,
             "funny": 22,
             "not_funny": 505888,
-            "somewhat_funny": 5748
+            "somewhat_funny": 5748,
+            "date": "15/01/2018"
         },
         {
             "men": 645,
@@ -1066,7 +1154,8 @@
             "contest_ids": 600,
             "funny": 986,
             "not_funny": 748307,
-            "somewhat_funny": 7950
+            "somewhat_funny": 7950,
+            "date": "22/01/2018"
         },
         {
             "men": 154,
@@ -1078,7 +1167,8 @@
             "contest_ids": 601,
             "funny": 34238,
             "not_funny": 345026,
-            "somewhat_funny": 88751
+            "somewhat_funny": 88751,
+            "date": "29/01/2018"
         },
         {
             "men": 393,
@@ -1090,7 +1180,8 @@
             "contest_ids": 602,
             "funny": 106212,
             "not_funny": 542365,
-            "somewhat_funny": 234191
+            "somewhat_funny": 234191,
+            "date": "05/02/2018"
         },
         {
             "men": 337,
@@ -1102,7 +1193,8 @@
             "contest_ids": 603,
             "funny": 140355,
             "not_funny": 830641,
-            "somewhat_funny": 315238
+            "somewhat_funny": 315238,
+            "date": "12/02/2018"
         },
         {
             "men": 199,
@@ -1114,7 +1206,8 @@
             "contest_ids": 604,
             "funny": 44213,
             "not_funny": 611414,
-            "somewhat_funny": 149982
+            "somewhat_funny": 149982,
+            "date": "19/02/2018"
         },
         {
             "men": 262,
@@ -1126,7 +1219,8 @@
             "contest_ids": 605,
             "funny": 62396,
             "not_funny": 550041,
-            "somewhat_funny": 158331
+            "somewhat_funny": 158331,
+            "date": "26/02/2018"
         },
         {
             "men": 489,
@@ -1138,7 +1232,8 @@
             "contest_ids": 606,
             "funny": 1648,
             "not_funny": 41045,
-            "somewhat_funny": 4258
+            "somewhat_funny": 4258,
+            "date": "05/03/2018"
         },
         {
             "men": 271,
@@ -1150,7 +1245,8 @@
             "contest_ids": 607,
             "funny": 109486,
             "not_funny": 691549,
-            "somewhat_funny": 225946
+            "somewhat_funny": 225946,
+            "date": "12/03/2018"
         },
         {
             "men": 209,
@@ -1162,7 +1258,8 @@
             "contest_ids": 608,
             "funny": 67456,
             "not_funny": 661987,
-            "somewhat_funny": 228254
+            "somewhat_funny": 228254,
+            "date": "19/03/2018"
         },
         {
             "men": 108,
@@ -1174,7 +1271,8 @@
             "contest_ids": 609,
             "funny": 93750,
             "not_funny": 723830,
-            "somewhat_funny": 228619
+            "somewhat_funny": 228619,
+            "date": "26/03/2018"
         },
         {
             "men": 230,
@@ -1186,7 +1284,8 @@
             "contest_ids": 610,
             "funny": 128259,
             "not_funny": 807521,
-            "somewhat_funny": 284249
+            "somewhat_funny": 284249,
+            "date": "02/04/2018"
         },
         {
             "men": 663,
@@ -1198,7 +1297,8 @@
             "contest_ids": 611,
             "funny": 91854,
             "not_funny": 808187,
-            "somewhat_funny": 235876
+            "somewhat_funny": 235876,
+            "date": "09/04/2018"
         },
         {
             "men": 378,
@@ -1210,7 +1310,8 @@
             "contest_ids": 612,
             "funny": 99046,
             "not_funny": 597829,
-            "somewhat_funny": 215777
+            "somewhat_funny": 215777,
+            "date": "16/04/2018"
         },
         {
             "men": 400,
@@ -1222,7 +1323,8 @@
             "contest_ids": 613,
             "funny": 60310,
             "not_funny": 603704,
-            "somewhat_funny": 168830
+            "somewhat_funny": 168830,
+            "date": "23/04/2018"
         },
         {
             "men": 292,
@@ -1234,7 +1336,8 @@
             "contest_ids": 614,
             "funny": 66414,
             "not_funny": 560327,
-            "somewhat_funny": 174553
+            "somewhat_funny": 174553,
+            "date": "30/04/2018"
         },
         {
             "men": 253,
@@ -1246,7 +1349,8 @@
             "contest_ids": 615,
             "funny": 69763,
             "not_funny": 561864,
-            "somewhat_funny": 167249
+            "somewhat_funny": 167249,
+            "date": "07/05/2018"
         },
         {
             "men": 599,
@@ -1258,7 +1362,8 @@
             "contest_ids": 616,
             "funny": 66928,
             "not_funny": 448780,
-            "somewhat_funny": 147928
+            "somewhat_funny": 147928,
+            "date": "14/05/2018"
         },
         {
             "men": 144,
@@ -1270,7 +1375,8 @@
             "contest_ids": 617,
             "funny": 85743,
             "not_funny": 619259,
-            "somewhat_funny": 190009
+            "somewhat_funny": 190009,
+            "date": "21/05/2018"
         },
         {
             "men": 224,
@@ -1282,7 +1388,8 @@
             "contest_ids": 618,
             "funny": 148572,
             "not_funny": 935925,
-            "somewhat_funny": 292080
+            "somewhat_funny": 292080,
+            "date": "28/05/2018"
         },
         {
             "men": 568,
@@ -1294,7 +1401,8 @@
             "contest_ids": 619,
             "funny": 60084,
             "not_funny": 652958,
-            "somewhat_funny": 154485
+            "somewhat_funny": 154485,
+            "date": "04/06/2018"
         },
         {
             "men": 182,
@@ -1306,7 +1414,8 @@
             "contest_ids": 620,
             "funny": 88181,
             "not_funny": 570402,
-            "somewhat_funny": 173039
+            "somewhat_funny": 173039,
+            "date": "11/06/2018"
         },
         {
             "men": 689,
@@ -1318,7 +1427,8 @@
             "contest_ids": 621,
             "funny": 114459,
             "not_funny": 820706,
-            "somewhat_funny": 267696
+            "somewhat_funny": 267696,
+            "date": "18/06/2018"
         },
         {
             "men": 203,
@@ -1330,7 +1440,8 @@
             "contest_ids": 622,
             "funny": 2881,
             "not_funny": 84346,
-            "somewhat_funny": 11528
+            "somewhat_funny": 11528,
+            "date": "25/06/2018"
         },
         {
             "men": 765,
@@ -1342,7 +1453,8 @@
             "contest_ids": 623,
             "funny": 83300,
             "not_funny": 678610,
-            "somewhat_funny": 199936
+            "somewhat_funny": 199936,
+            "date": "02/07/2018"
         },
         {
             "men": 157,
@@ -1354,7 +1466,8 @@
             "contest_ids": 624,
             "funny": 62583,
             "not_funny": 490273,
-            "somewhat_funny": 141853
+            "somewhat_funny": 141853,
+            "date": "09/07/2018"
         },
         {
             "men": 363,
@@ -1366,7 +1479,8 @@
             "contest_ids": 625,
             "funny": 124372,
             "not_funny": 899024,
-            "somewhat_funny": 290777
+            "somewhat_funny": 290777,
+            "date": "16/07/2018"
         },
         {
             "men": 175,
@@ -1378,7 +1492,8 @@
             "contest_ids": 626,
             "funny": 77739,
             "not_funny": 702782,
-            "somewhat_funny": 207343
+            "somewhat_funny": 207343,
+            "date": "23/07/2018"
         },
         {
             "men": 226,
@@ -1390,7 +1505,8 @@
             "contest_ids": 627,
             "funny": 119867,
             "not_funny": 768097,
-            "somewhat_funny": 261401
+            "somewhat_funny": 261401,
+            "date": "30/07/2018"
         },
         {
             "men": 487,
@@ -1402,7 +1518,8 @@
             "contest_ids": 628,
             "funny": 139220,
             "not_funny": 836506,
-            "somewhat_funny": 312210
+            "somewhat_funny": 312210,
+            "date": "06/08/2018"
         },
         {
             "men": 149,
@@ -1414,7 +1531,8 @@
             "contest_ids": 629,
             "funny": 63282,
             "not_funny": 634638,
-            "somewhat_funny": 160855
+            "somewhat_funny": 160855,
+            "date": "13/08/2018"
         },
         {
             "men": 93,
@@ -1426,7 +1544,8 @@
             "contest_ids": 630,
             "funny": 112994,
             "not_funny": 778761,
-            "somewhat_funny": 248096
+            "somewhat_funny": 248096,
+            "date": "20/08/2018"
         },
         {
             "men": 116,
@@ -1438,7 +1557,8 @@
             "contest_ids": 631,
             "funny": 84473,
             "not_funny": 757798,
-            "somewhat_funny": 211496
+            "somewhat_funny": 211496,
+            "date": "27/08/2018"
         },
         {
             "men": 144,
@@ -1450,7 +1570,8 @@
             "contest_ids": 632,
             "funny": 76552,
             "not_funny": 426167,
-            "somewhat_funny": 152372
+            "somewhat_funny": 152372,
+            "date": "03/09/2018"
         },
         {
             "men": 139,
@@ -1462,7 +1583,8 @@
             "contest_ids": 633,
             "funny": 76614,
             "not_funny": 579324,
-            "somewhat_funny": 178297
+            "somewhat_funny": 178297,
+            "date": "10/09/2018"
         },
         {
             "men": 117,
@@ -1474,7 +1596,8 @@
             "contest_ids": 634,
             "funny": 83241,
             "not_funny": 647475,
-            "somewhat_funny": 191669
+            "somewhat_funny": 191669,
+            "date": "17/09/2018"
         },
         {
             "men": 247,
@@ -1486,7 +1609,8 @@
             "contest_ids": 635,
             "funny": 70647,
             "not_funny": 976296,
-            "somewhat_funny": 248017
+            "somewhat_funny": 248017,
+            "date": "24/09/2018"
         },
         {
             "men": 200,
@@ -1498,7 +1622,8 @@
             "contest_ids": 636,
             "funny": 63608,
             "not_funny": 824922,
-            "somewhat_funny": 193942
+            "somewhat_funny": 193942,
+            "date": "01/10/2018"
         },
         {
             "men": 315,
@@ -1510,7 +1635,8 @@
             "contest_ids": 637,
             "funny": 32817,
             "not_funny": 657815,
-            "somewhat_funny": 114768
+            "somewhat_funny": 114768,
+            "date": "08/10/2018"
         },
         {
             "men": 226,
@@ -1522,7 +1648,8 @@
             "contest_ids": 638,
             "funny": 38178,
             "not_funny": 703554,
-            "somewhat_funny": 130652
+            "somewhat_funny": 130652,
+            "date": "15/10/2018"
         },
         {
             "men": 179,
@@ -1534,7 +1661,8 @@
             "contest_ids": 639,
             "funny": 49680,
             "not_funny": 839475,
-            "somewhat_funny": 157204
+            "somewhat_funny": 157204,
+            "date": "22/10/2018"
         },
         {
             "men": 220,
@@ -1546,7 +1674,8 @@
             "contest_ids": 640,
             "funny": 79772,
             "not_funny": 1275688,
-            "somewhat_funny": 248285
+            "somewhat_funny": 248285,
+            "date": "29/10/2018"
         },
         {
             "men": 364,
@@ -1558,7 +1687,8 @@
             "contest_ids": 641,
             "funny": 72317,
             "not_funny": 1080715,
-            "somewhat_funny": 220956
+            "somewhat_funny": 220956,
+            "date": "05/11/2018"
         },
         {
             "men": 74,
@@ -1570,7 +1700,8 @@
             "contest_ids": 642,
             "funny": 33956,
             "not_funny": 722316,
-            "somewhat_funny": 109015
+            "somewhat_funny": 109015,
+            "date": "12/11/2018"
         },
         {
             "men": 302,
@@ -1582,7 +1713,8 @@
             "contest_ids": 643,
             "funny": 45516,
             "not_funny": 937880,
-            "somewhat_funny": 177595
+            "somewhat_funny": 177595,
+            "date": "19/11/2018"
         },
         {
             "men": 302,
@@ -1594,7 +1726,8 @@
             "contest_ids": 644,
             "funny": 65280,
             "not_funny": 1283799,
-            "somewhat_funny": 246814
+            "somewhat_funny": 246814,
+            "date": "26/11/2018"
         },
         {
             "men": 132,
@@ -1606,7 +1739,8 @@
             "contest_ids": 645,
             "funny": 43256,
             "not_funny": 749850,
-            "somewhat_funny": 172582
+            "somewhat_funny": 172582,
+            "date": "03/12/2018"
         },
         {
             "men": 384,
@@ -1618,7 +1752,8 @@
             "contest_ids": 646,
             "funny": 87103,
             "not_funny": 1249048,
-            "somewhat_funny": 263454
+            "somewhat_funny": 263454,
+            "date": "10/12/2018"
         },
         {
             "men": 384,
@@ -1630,7 +1765,8 @@
             "contest_ids": 647,
             "funny": 90073,
             "not_funny": 1298025,
-            "somewhat_funny": 274693
+            "somewhat_funny": 274693,
+            "date": "17/12/2018"
         },
         {
             "men": 81,
@@ -1642,7 +1778,8 @@
             "contest_ids": 648,
             "funny": 32571,
             "not_funny": 546239,
-            "somewhat_funny": 109764
+            "somewhat_funny": 109764,
+            "date": "24/12/2018"
         },
         {
             "men": 419,
@@ -1654,7 +1791,8 @@
             "contest_ids": 649,
             "funny": 60684,
             "not_funny": 910365,
-            "somewhat_funny": 206711
+            "somewhat_funny": 206711,
+            "date": "31/12/2018"
         },
         {
             "men": 160,
@@ -1666,7 +1804,8 @@
             "contest_ids": 650,
             "funny": 50712,
             "not_funny": 799073,
-            "somewhat_funny": 173293
+            "somewhat_funny": 173293,
+            "date": "07/01/2019"
         },
         {
             "men": 245,
@@ -1678,7 +1817,8 @@
             "contest_ids": 651,
             "funny": 125636,
             "not_funny": 1703970,
-            "somewhat_funny": 381366
+            "somewhat_funny": 381366,
+            "date": "14/01/2019"
         },
         {
             "men": 203,
@@ -1690,7 +1830,8 @@
             "contest_ids": 652,
             "funny": 64862,
             "not_funny": 1133091,
-            "somewhat_funny": 233768
+            "somewhat_funny": 233768,
+            "date": "21/01/2019"
         },
         {
             "men": 286,
@@ -1702,7 +1843,8 @@
             "contest_ids": 653,
             "funny": 51639,
             "not_funny": 790194,
-            "somewhat_funny": 178239
+            "somewhat_funny": 178239,
+            "date": "28/01/2019"
         },
         {
             "men": 346,
@@ -1714,7 +1856,8 @@
             "contest_ids": 654,
             "funny": 65035,
             "not_funny": 986787,
-            "somewhat_funny": 217494
+            "somewhat_funny": 217494,
+            "date": "04/02/2019"
         },
         {
             "men": 175,
@@ -1726,7 +1869,8 @@
             "contest_ids": 655,
             "funny": 42182,
             "not_funny": 568796,
-            "somewhat_funny": 131918
+            "somewhat_funny": 131918,
+            "date": "11/02/2019"
         },
         {
             "men": 175,
@@ -1738,7 +1882,8 @@
             "contest_ids": 656,
             "funny": 43070,
             "not_funny": 577438,
-            "somewhat_funny": 133989
+            "somewhat_funny": 133989,
+            "date": "18/02/2019"
         },
         {
             "men": 632,
@@ -1750,7 +1895,8 @@
             "contest_ids": 657,
             "funny": 72171,
             "not_funny": 1155483,
-            "somewhat_funny": 260458
+            "somewhat_funny": 260458,
+            "date": "25/02/2019"
         },
         {
             "men": 422,
@@ -1762,7 +1908,8 @@
             "contest_ids": 658,
             "funny": 61931,
             "not_funny": 723363,
-            "somewhat_funny": 188479
+            "somewhat_funny": 188479,
+            "date": "04/03/2019"
         },
         {
             "men": 212,
@@ -1774,7 +1921,8 @@
             "contest_ids": 659,
             "funny": 51253,
             "not_funny": 797930,
-            "somewhat_funny": 165766
+            "somewhat_funny": 165766,
+            "date": "11/03/2019"
         },
         {
             "men": 266,
@@ -1786,7 +1934,8 @@
             "contest_ids": 660,
             "funny": 127753,
             "not_funny": 704436,
-            "somewhat_funny": 264048
+            "somewhat_funny": 264048,
+            "date": "18/03/2019"
         },
         {
             "men": 315,
@@ -1798,7 +1947,8 @@
             "contest_ids": 661,
             "funny": 101264,
             "not_funny": 619393,
-            "somewhat_funny": 159128
+            "somewhat_funny": 159128,
+            "date": "25/03/2019"
         },
         {
             "men": 275,
@@ -1810,7 +1960,8 @@
             "contest_ids": 662,
             "funny": 107496,
             "not_funny": 594852,
-            "somewhat_funny": 227030
+            "somewhat_funny": 227030,
+            "date": "01/04/2019"
         },
         {
             "men": 142,
@@ -1822,7 +1973,8 @@
             "contest_ids": 663,
             "funny": 60996,
             "not_funny": 520201,
-            "somewhat_funny": 153161
+            "somewhat_funny": 153161,
+            "date": "08/04/2019"
         },
         {
             "men": 272,
@@ -1834,7 +1986,8 @@
             "contest_ids": 664,
             "funny": 77051,
             "not_funny": 367615,
-            "somewhat_funny": 159913
+            "somewhat_funny": 159913,
+            "date": "15/04/2019"
         },
         {
             "men": 377,
@@ -1846,7 +1999,8 @@
             "contest_ids": 665,
             "funny": 204312,
             "not_funny": 906745,
-            "somewhat_funny": 369910
+            "somewhat_funny": 369910,
+            "date": "22/04/2019"
         },
         {
             "men": 117,
@@ -1858,7 +2012,8 @@
             "contest_ids": 666,
             "funny": 55488,
             "not_funny": 474679,
-            "somewhat_funny": 140204
+            "somewhat_funny": 140204,
+            "date": "29/04/2019"
         },
         {
             "men": 226,
@@ -1870,7 +2025,8 @@
             "contest_ids": 667,
             "funny": 122208,
             "not_funny": 703114,
-            "somewhat_funny": 269436
+            "somewhat_funny": 269436,
+            "date": "06/05/2019"
         },
         {
             "men": 223,
@@ -1882,7 +2038,8 @@
             "contest_ids": 668,
             "funny": 86779,
             "not_funny": 505993,
-            "somewhat_funny": 189622
+            "somewhat_funny": 189622,
+            "date": "13/05/2019"
         },
         {
             "men": 228,
@@ -1894,7 +2051,8 @@
             "contest_ids": 669,
             "funny": 64381,
             "not_funny": 470333,
-            "somewhat_funny": 155674
+            "somewhat_funny": 155674,
+            "date": "20/05/2019"
         },
         {
             "men": 134,
@@ -1906,7 +2064,8 @@
             "contest_ids": 670,
             "funny": 68257,
             "not_funny": 413804,
-            "somewhat_funny": 153838
+            "somewhat_funny": 153838,
+            "date": "27/05/2019"
         },
         {
             "men": 300,
@@ -1918,7 +2077,8 @@
             "contest_ids": 671,
             "funny": 181417,
             "not_funny": 790838,
-            "somewhat_funny": 359816
+            "somewhat_funny": 359816,
+            "date": "03/06/2019"
         },
         {
             "men": 248,
@@ -1930,7 +2090,8 @@
             "contest_ids": 672,
             "funny": 79474,
             "not_funny": 513046,
-            "somewhat_funny": 182097
+            "somewhat_funny": 182097,
+            "date": "10/06/2019"
         },
         {
             "men": 129,
@@ -1942,7 +2103,8 @@
             "contest_ids": 673,
             "funny": 49725,
             "not_funny": 415116,
-            "somewhat_funny": 129165
+            "somewhat_funny": 129165,
+            "date": "17/06/2019"
         },
         {
             "men": 310,
@@ -1954,7 +2116,8 @@
             "contest_ids": 674,
             "funny": 121170,
             "not_funny": 760910,
-            "somewhat_funny": 259000
+            "somewhat_funny": 259000,
+            "date": "24/06/2019"
         },
         {
             "men": 670,
@@ -1966,7 +2129,8 @@
             "contest_ids": 675,
             "funny": 68352,
             "not_funny": 421512,
-            "somewhat_funny": 159671
+            "somewhat_funny": 159671,
+            "date": "01/07/2019"
         },
         {
             "men": 159,
@@ -1978,7 +2142,8 @@
             "contest_ids": 676,
             "funny": 94814,
             "not_funny": 583946,
-            "somewhat_funny": 227947
+            "somewhat_funny": 227947,
+            "date": "08/07/2019"
         },
         {
             "men": 214,
@@ -1990,7 +2155,8 @@
             "contest_ids": 677,
             "funny": 74266,
             "not_funny": 427231,
-            "somewhat_funny": 174593
+            "somewhat_funny": 174593,
+            "date": "15/07/2019"
         },
         {
             "men": 113,
@@ -2002,7 +2168,8 @@
             "contest_ids": 678,
             "funny": 53836,
             "not_funny": 507332,
-            "somewhat_funny": 139873
+            "somewhat_funny": 139873,
+            "date": "22/07/2019"
         },
         {
             "men": 421,
@@ -2014,7 +2181,8 @@
             "contest_ids": 679,
             "funny": 60685,
             "not_funny": 493704,
-            "somewhat_funny": 161713
+            "somewhat_funny": 161713,
+            "date": "29/07/2019"
         },
         {
             "men": 162,
@@ -2026,7 +2194,8 @@
             "contest_ids": 680,
             "funny": 84918,
             "not_funny": 633255,
-            "somewhat_funny": 212983
+            "somewhat_funny": 212983,
+            "date": "05/08/2019"
         },
         {
             "men": 254,
@@ -2038,7 +2207,8 @@
             "contest_ids": 681,
             "funny": 121485,
             "not_funny": 718838,
-            "somewhat_funny": 265592
+            "somewhat_funny": 265592,
+            "date": "12/08/2019"
         },
         {
             "men": 139,
@@ -2050,7 +2220,8 @@
             "contest_ids": 682,
             "funny": 104359,
             "not_funny": 727730,
-            "somewhat_funny": 273726
+            "somewhat_funny": 273726,
+            "date": "19/08/2019"
         },
         {
             "men": 183,
@@ -2062,7 +2233,8 @@
             "contest_ids": 683,
             "funny": 86489,
             "not_funny": 535064,
-            "somewhat_funny": 199977
+            "somewhat_funny": 199977,
+            "date": "26/08/2019"
         },
         {
             "men": 846,
@@ -2074,7 +2246,8 @@
             "contest_ids": 684,
             "funny": 128943,
             "not_funny": 688496,
-            "somewhat_funny": 256637
+            "somewhat_funny": 256637,
+            "date": "02/09/2019"
         },
         {
             "men": 139,
@@ -2086,7 +2259,8 @@
             "contest_ids": 685,
             "funny": 72074,
             "not_funny": 635265,
-            "somewhat_funny": 187031
+            "somewhat_funny": 187031,
+            "date": "09/09/2019"
         },
         {
             "men": 243,
@@ -2098,7 +2272,8 @@
             "contest_ids": 686,
             "funny": 97806,
             "not_funny": 714646,
-            "somewhat_funny": 249243
+            "somewhat_funny": 249243,
+            "date": "16/09/2019"
         },
         {
             "men": 506,
@@ -2110,7 +2285,8 @@
             "contest_ids": 687,
             "funny": 62591,
             "not_funny": 526496,
-            "somewhat_funny": 154623
+            "somewhat_funny": 154623,
+            "date": "23/09/2019"
         },
         {
             "men": 154,
@@ -2122,7 +2298,8 @@
             "contest_ids": 688,
             "funny": 93486,
             "not_funny": 509088,
-            "somewhat_funny": 184623
+            "somewhat_funny": 184623,
+            "date": "30/09/2019"
         },
         {
             "men": 245,
@@ -2134,7 +2311,8 @@
             "contest_ids": 689,
             "funny": 83618,
             "not_funny": 538746,
-            "somewhat_funny": 182913
+            "somewhat_funny": 182913,
+            "date": "07/10/2019"
         },
         {
             "men": 901,
@@ -2146,7 +2324,8 @@
             "contest_ids": 690,
             "funny": 808,
             "not_funny": 33647,
-            "somewhat_funny": 1964
+            "somewhat_funny": 1964,
+            "date": "14/10/2019"
         },
         {
             "men": 643,
@@ -2158,7 +2337,8 @@
             "contest_ids": 691,
             "funny": 76489,
             "not_funny": 722784,
-            "somewhat_funny": 187647
+            "somewhat_funny": 187647,
+            "date": "21/10/2019"
         },
         {
             "men": 330,
@@ -2170,7 +2350,8 @@
             "contest_ids": 692,
             "funny": 75952,
             "not_funny": 572275,
-            "somewhat_funny": 171948
+            "somewhat_funny": 171948,
+            "date": "28/10/2019"
         },
         {
             "men": 110,
@@ -2182,7 +2363,8 @@
             "contest_ids": 693,
             "funny": 111195,
             "not_funny": 567601,
-            "somewhat_funny": 229194
+            "somewhat_funny": 229194,
+            "date": "04/11/2019"
         },
         {
             "men": 210,
@@ -2194,7 +2376,8 @@
             "contest_ids": 694,
             "funny": 74360,
             "not_funny": 520179,
-            "somewhat_funny": 160527
+            "somewhat_funny": 160527,
+            "date": "11/11/2019"
         },
         {
             "men": 1285,
@@ -2206,7 +2389,8 @@
             "contest_ids": 695,
             "funny": 2583,
             "not_funny": 62474,
-            "somewhat_funny": 9288
+            "somewhat_funny": 9288,
+            "date": "18/11/2019"
         },
         {
             "men": 210,
@@ -2218,7 +2402,8 @@
             "contest_ids": 696,
             "funny": 127150,
             "not_funny": 925481,
-            "somewhat_funny": 267436
+            "somewhat_funny": 267436,
+            "date": "25/11/2019"
         },
         {
             "men": 223,
@@ -2230,7 +2415,8 @@
             "contest_ids": 697,
             "funny": 148478,
             "not_funny": 846199,
-            "somewhat_funny": 282759
+            "somewhat_funny": 282759,
+            "date": "02/12/2019"
         },
         {
             "men": 197,
@@ -2242,7 +2428,8 @@
             "contest_ids": 698,
             "funny": 90758,
             "not_funny": 684548,
-            "somewhat_funny": 198269
+            "somewhat_funny": 198269,
+            "date": "09/12/2019"
         },
         {
             "men": 166,
@@ -2254,7 +2441,8 @@
             "contest_ids": 699,
             "funny": 141800,
             "not_funny": 736858,
-            "somewhat_funny": 283218
+            "somewhat_funny": 283218,
+            "date": "16/12/2019"
         },
         {
             "men": 588,
@@ -2266,7 +2454,8 @@
             "contest_ids": 700,
             "funny": 120724,
             "not_funny": 575594,
-            "somewhat_funny": 233531
+            "somewhat_funny": 233531,
+            "date": "23/12/2019"
         },
         {
             "men": 132,
@@ -2278,7 +2467,8 @@
             "contest_ids": 701,
             "funny": 156170,
             "not_funny": 640721,
-            "somewhat_funny": 274083
+            "somewhat_funny": 274083,
+            "date": "30/12/2019"
         },
         {
             "men": 137,
@@ -2290,7 +2480,8 @@
             "contest_ids": 702,
             "funny": 108196,
             "not_funny": 525710,
-            "somewhat_funny": 240980
+            "somewhat_funny": 240980,
+            "date": "06/01/2020"
         },
         {
             "men": 238,
@@ -2302,7 +2493,8 @@
             "contest_ids": 703,
             "funny": 116372,
             "not_funny": 582397,
-            "somewhat_funny": 252567
+            "somewhat_funny": 252567,
+            "date": "13/01/2020"
         },
         {
             "men": 202,
@@ -2314,7 +2506,8 @@
             "contest_ids": 704,
             "funny": 130760,
             "not_funny": 650497,
-            "somewhat_funny": 283850
+            "somewhat_funny": 283850,
+            "date": "20/01/2020"
         },
         {
             "men": 257,
@@ -2326,7 +2519,8 @@
             "contest_ids": 705,
             "funny": 162882,
             "not_funny": 732650,
-            "somewhat_funny": 336807
+            "somewhat_funny": 336807,
+            "date": "27/01/2020"
         },
         {
             "men": 113,
@@ -2338,7 +2532,8 @@
             "contest_ids": 706,
             "funny": 133602,
             "not_funny": 637005,
-            "somewhat_funny": 291237
+            "somewhat_funny": 291237,
+            "date": "03/02/2020"
         },
         {
             "men": 270,
@@ -2350,7 +2545,8 @@
             "contest_ids": 707,
             "funny": 137113,
             "not_funny": 913962,
-            "somewhat_funny": 312520
+            "somewhat_funny": 312520,
+            "date": "10/02/2020"
         },
         {
             "men": 242,
@@ -2362,7 +2558,8 @@
             "contest_ids": 708,
             "funny": 157630,
             "not_funny": 946861,
-            "somewhat_funny": 333070
+            "somewhat_funny": 333070,
+            "date": "17/02/2020"
         },
         {
             "men": 274,
@@ -2374,7 +2571,8 @@
             "contest_ids": 709,
             "funny": 172933,
             "not_funny": 945196,
-            "somewhat_funny": 328972
+            "somewhat_funny": 328972,
+            "date": "24/02/2020"
         },
         {
             "men": 201,
@@ -2386,7 +2584,8 @@
             "contest_ids": 710,
             "funny": 149731,
             "not_funny": 1020822,
-            "somewhat_funny": 355782
+            "somewhat_funny": 355782,
+            "date": "02/03/2020"
         },
         {
             "men": 437,
@@ -2398,7 +2597,8 @@
             "contest_ids": 711,
             "funny": 134645,
             "not_funny": 633374,
-            "somewhat_funny": 278282
+            "somewhat_funny": 278282,
+            "date": "09/03/2020"
         },
         {
             "men": 365,
@@ -2410,7 +2610,8 @@
             "contest_ids": 712,
             "funny": 209262,
             "not_funny": 869489,
-            "somewhat_funny": 394156
+            "somewhat_funny": 394156,
+            "date": "16/03/2020"
         },
         {
             "men": 623,
@@ -2422,7 +2623,8 @@
             "contest_ids": 713,
             "funny": 101643,
             "not_funny": 704861,
-            "somewhat_funny": 243659
+            "somewhat_funny": 243659,
+            "date": "23/03/2020"
         },
         {
             "men": 202,
@@ -2434,7 +2636,8 @@
             "contest_ids": 714,
             "funny": 84154,
             "not_funny": 585394,
-            "somewhat_funny": 193800
+            "somewhat_funny": 193800,
+            "date": "30/03/2020"
         },
         {
             "men": 351,
@@ -2446,7 +2649,8 @@
             "contest_ids": 715,
             "funny": 226909,
             "not_funny": 1326171,
-            "somewhat_funny": 432364
+            "somewhat_funny": 432364,
+            "date": "06/04/2020"
         },
         {
             "men": 290,
@@ -2458,7 +2662,8 @@
             "contest_ids": 716,
             "funny": 11781,
             "not_funny": 208070,
-            "somewhat_funny": 39237
+            "somewhat_funny": 39237,
+            "date": "13/04/2020"
         },
         {
             "men": 276,
@@ -2470,7 +2675,8 @@
             "contest_ids": 717,
             "funny": 109608,
             "not_funny": 692305,
-            "somewhat_funny": 226506
+            "somewhat_funny": 226506,
+            "date": "20/04/2020"
         },
         {
             "men": 361,
@@ -2482,7 +2688,8 @@
             "contest_ids": 718,
             "funny": 263727,
             "not_funny": 1215439,
-            "somewhat_funny": 427402
+            "somewhat_funny": 427402,
+            "date": "27/04/2020"
         },
         {
             "men": 190,
@@ -2494,7 +2701,8 @@
             "contest_ids": 719,
             "funny": 104267,
             "not_funny": 689429,
-            "somewhat_funny": 214694
+            "somewhat_funny": 214694,
+            "date": "04/05/2020"
         },
         {
             "men": 498,
@@ -2506,7 +2714,8 @@
             "contest_ids": 720,
             "funny": 108432,
             "not_funny": 780961,
-            "somewhat_funny": 214865
+            "somewhat_funny": 214865,
+            "date": "11/05/2020"
         },
         {
             "men": 109,
@@ -2518,7 +2727,8 @@
             "contest_ids": 721,
             "funny": 87534,
             "not_funny": 554607,
-            "somewhat_funny": 166401
+            "somewhat_funny": 166401,
+            "date": "18/05/2020"
         },
         {
             "men": 314,
@@ -2530,7 +2740,8 @@
             "contest_ids": 722,
             "funny": 130562,
             "not_funny": 1060712,
-            "somewhat_funny": 274890
+            "somewhat_funny": 274890,
+            "date": "25/05/2020"
         },
         {
             "men": 260,
@@ -2542,7 +2753,8 @@
             "contest_ids": 723,
             "funny": 126695,
             "not_funny": 899380,
-            "somewhat_funny": 283164
+            "somewhat_funny": 283164,
+            "date": "01/06/2020"
         },
         {
             "men": 232,
@@ -2554,7 +2766,8 @@
             "contest_ids": 724,
             "funny": 115483,
             "not_funny": 668498,
-            "somewhat_funny": 205964
+            "somewhat_funny": 205964,
+            "date": "08/06/2020"
         },
         {
             "men": 295,
@@ -2566,7 +2779,8 @@
             "contest_ids": 725,
             "funny": 114619,
             "not_funny": 709638,
-            "somewhat_funny": 199977
+            "somewhat_funny": 199977,
+            "date": "15/06/2020"
         },
         {
             "men": 184,
@@ -2578,7 +2792,8 @@
             "contest_ids": 726,
             "funny": 82874,
             "not_funny": 687395,
-            "somewhat_funny": 196554
+            "somewhat_funny": 196554,
+            "date": "22/06/2020"
         },
         {
             "men": 133,
@@ -2590,7 +2805,8 @@
             "contest_ids": 727,
             "funny": 101190,
             "not_funny": 592852,
-            "somewhat_funny": 217924
+            "somewhat_funny": 217924,
+            "date": "29/06/2020"
         },
         {
             "men": 329,
@@ -2602,7 +2818,8 @@
             "contest_ids": 728,
             "funny": 101989,
             "not_funny": 600604,
-            "somewhat_funny": 213640
+            "somewhat_funny": 213640,
+            "date": "06/07/2020"
         },
         {
             "men": 162,
@@ -2614,7 +2831,8 @@
             "contest_ids": 729,
             "funny": 90164,
             "not_funny": 602186,
-            "somewhat_funny": 199135
+            "somewhat_funny": 199135,
+            "date": "13/07/2020"
         },
         {
             "men": 857,
@@ -2626,7 +2844,8 @@
             "contest_ids": 730,
             "funny": 1246,
             "not_funny": 42605,
-            "somewhat_funny": 10642
+            "somewhat_funny": 10642,
+            "date": "20/07/2020"
         },
         {
             "men": 161,
@@ -2638,7 +2857,8 @@
             "contest_ids": 731,
             "funny": 64086,
             "not_funny": 440622,
-            "somewhat_funny": 156967
+            "somewhat_funny": 156967,
+            "date": "27/07/2020"
         },
         {
             "men": 199,
@@ -2650,7 +2870,8 @@
             "contest_ids": 732,
             "funny": 117556,
             "not_funny": 574351,
-            "somewhat_funny": 236071
+            "somewhat_funny": 236071,
+            "date": "03/08/2020"
         },
         {
             "men": 633,
@@ -2662,7 +2883,8 @@
             "contest_ids": 733,
             "funny": 120275,
             "not_funny": 791974,
-            "somewhat_funny": 243501
+            "somewhat_funny": 243501,
+            "date": "10/08/2020"
         },
         {
             "men": 325,
@@ -2674,7 +2896,8 @@
             "contest_ids": 734,
             "funny": 71202,
             "not_funny": 569019,
-            "somewhat_funny": 190420
+            "somewhat_funny": 190420,
+            "date": "17/08/2020"
         },
         {
             "men": 275,
@@ -2686,7 +2909,8 @@
             "contest_ids": 735,
             "funny": 64748,
             "not_funny": 437794,
-            "somewhat_funny": 163450
+            "somewhat_funny": 163450,
+            "date": "24/08/2020"
         },
         {
             "men": 248,
@@ -2698,7 +2922,8 @@
             "contest_ids": 736,
             "funny": 86996,
             "not_funny": 574554,
-            "somewhat_funny": 198856
+            "somewhat_funny": 198856,
+            "date": "31/08/2020"
         },
         {
             "men": 346,
@@ -2710,7 +2935,8 @@
             "contest_ids": 737,
             "funny": 70646,
             "not_funny": 555454,
-            "somewhat_funny": 204327
+            "somewhat_funny": 204327,
+            "date": "07/09/2020"
         },
         {
             "men": 668,
@@ -2722,7 +2948,8 @@
             "contest_ids": 738,
             "funny": 95371,
             "not_funny": 638637,
-            "somewhat_funny": 196806
+            "somewhat_funny": 196806,
+            "date": "14/09/2020"
         },
         {
             "men": 1473,
@@ -2734,7 +2961,8 @@
             "contest_ids": 739,
             "funny": 107704,
             "not_funny": 601474,
-            "somewhat_funny": 228987
+            "somewhat_funny": 228987,
+            "date": "21/09/2020"
         },
         {
             "men": 593,
@@ -2746,7 +2974,8 @@
             "contest_ids": 740,
             "funny": 86596,
             "not_funny": 688596,
-            "somewhat_funny": 230840
+            "somewhat_funny": 230840,
+            "date": "28/09/2020"
         },
         {
             "men": 283,
@@ -2758,7 +2987,8 @@
             "contest_ids": 741,
             "funny": 50244,
             "not_funny": 466902,
-            "somewhat_funny": 149301
+            "somewhat_funny": 149301,
+            "date": "05/10/2020"
         },
         {
             "men": 534,
@@ -2770,7 +3000,8 @@
             "contest_ids": 742,
             "funny": 27088,
             "not_funny": 517496,
-            "somewhat_funny": 110545
+            "somewhat_funny": 110545,
+            "date": "12/10/2020"
         },
         {
             "men": 247,
@@ -2782,7 +3013,8 @@
             "contest_ids": 743,
             "funny": 61491,
             "not_funny": 865779,
-            "somewhat_funny": 194018
+            "somewhat_funny": 194018,
+            "date": "19/10/2020"
         },
         {
             "men": 493,
@@ -2794,7 +3026,8 @@
             "contest_ids": 744,
             "funny": 59903,
             "not_funny": 835395,
-            "somewhat_funny": 196543
+            "somewhat_funny": 196543,
+            "date": "26/10/2020"
         },
         {
             "men": 414,
@@ -2806,7 +3039,8 @@
             "contest_ids": 745,
             "funny": 92641,
             "not_funny": 660095,
-            "somewhat_funny": 228872
+            "somewhat_funny": 228872,
+            "date": "02/11/2020"
         },
         {
             "men": 354,
@@ -2818,7 +3052,8 @@
             "contest_ids": 746,
             "funny": 87974,
             "not_funny": 779019,
-            "somewhat_funny": 240404
+            "somewhat_funny": 240404,
+            "date": "09/11/2020"
         },
         {
             "men": 368,
@@ -2830,7 +3065,8 @@
             "contest_ids": 747,
             "funny": 87321,
             "not_funny": 558933,
-            "somewhat_funny": 218059
+            "somewhat_funny": 218059,
+            "date": "16/11/2020"
         },
         {
             "men": 210,
@@ -2842,7 +3078,8 @@
             "contest_ids": 748,
             "funny": 66715,
             "not_funny": 616697,
-            "somewhat_funny": 201865
+            "somewhat_funny": 201865,
+            "date": "23/11/2020"
         },
         {
             "men": 250,
@@ -2854,7 +3091,8 @@
             "contest_ids": 749,
             "funny": 63412,
             "not_funny": 446780,
-            "somewhat_funny": 170184
+            "somewhat_funny": 170184,
+            "date": "30/11/2020"
         },
         {
             "men": 313,
@@ -2866,7 +3104,8 @@
             "contest_ids": 750,
             "funny": 73011,
             "not_funny": 538528,
-            "somewhat_funny": 172115
+            "somewhat_funny": 172115,
+            "date": "07/12/2020"
         },
         {
             "men": 178,
@@ -2878,7 +3117,8 @@
             "contest_ids": 751,
             "funny": 68931,
             "not_funny": 527362,
-            "somewhat_funny": 178442
+            "somewhat_funny": 178442,
+            "date": "14/12/2020"
         },
         {
             "men": 222,
@@ -2890,7 +3130,8 @@
             "contest_ids": 752,
             "funny": 140792,
             "not_funny": 697048,
-            "somewhat_funny": 293299
+            "somewhat_funny": 293299,
+            "date": "21/12/2020"
         },
         {
             "men": 328,
@@ -2902,7 +3143,8 @@
             "contest_ids": 753,
             "funny": 69835,
             "not_funny": 832058,
-            "somewhat_funny": 193084
+            "somewhat_funny": 193084,
+            "date": "28/12/2020"
         },
         {
             "men": 303,
@@ -2914,7 +3156,8 @@
             "contest_ids": 754,
             "funny": 57043,
             "not_funny": 491520,
-            "somewhat_funny": 166815
+            "somewhat_funny": 166815,
+            "date": "04/01/2021"
         },
         {
             "men": 648,
@@ -2926,7 +3169,8 @@
             "contest_ids": 755,
             "funny": 76646,
             "not_funny": 557333,
-            "somewhat_funny": 184700
+            "somewhat_funny": 184700,
+            "date": "11/01/2021"
         },
         {
             "men": 268,
@@ -2938,7 +3182,8 @@
             "contest_ids": 756,
             "funny": 66653,
             "not_funny": 498921,
-            "somewhat_funny": 197020
+            "somewhat_funny": 197020,
+            "date": "18/01/2021"
         },
         {
             "men": 355,
@@ -2950,7 +3195,8 @@
             "contest_ids": 757,
             "funny": 58792,
             "not_funny": 522501,
-            "somewhat_funny": 152965
+            "somewhat_funny": 152965,
+            "date": "25/01/2021"
         },
         {
             "men": 119,
@@ -2962,7 +3208,8 @@
             "contest_ids": 758,
             "funny": 53477,
             "not_funny": 379922,
-            "somewhat_funny": 128029
+            "somewhat_funny": 128029,
+            "date": "01/02/2021"
         },
         {
             "men": 383,
@@ -2974,7 +3221,8 @@
             "contest_ids": 759,
             "funny": 51322,
             "not_funny": 563727,
-            "somewhat_funny": 153457
+            "somewhat_funny": 153457,
+            "date": "08/02/2021"
         },
         {
             "men": 468,
@@ -2986,7 +3234,8 @@
             "contest_ids": 760,
             "funny": 67027,
             "not_funny": 571059,
-            "somewhat_funny": 160122
+            "somewhat_funny": 160122,
+            "date": "15/02/2021"
         },
         {
             "men": 223,
@@ -2998,7 +3247,8 @@
             "contest_ids": 761,
             "funny": 67299,
             "not_funny": 663132,
-            "somewhat_funny": 187589
+            "somewhat_funny": 187589,
+            "date": "22/02/2021"
         },
         {
             "men": 283,
@@ -3010,7 +3260,8 @@
             "contest_ids": 762,
             "funny": 83857,
             "not_funny": 618104,
-            "somewhat_funny": 190705
+            "somewhat_funny": 190705,
+            "date": "01/03/2021"
         },
         {
             "men": 222,
@@ -3022,7 +3273,8 @@
             "contest_ids": 763,
             "funny": 71148,
             "not_funny": 620675,
-            "somewhat_funny": 183671
+            "somewhat_funny": 183671,
+            "date": "08/03/2021"
         },
         {
             "men": 261,
@@ -3034,7 +3286,8 @@
             "contest_ids": 764,
             "funny": 55117,
             "not_funny": 456814,
-            "somewhat_funny": 141179
+            "somewhat_funny": 141179,
+            "date": "15/03/2021"
         },
         {
             "men": 207,
@@ -3046,7 +3299,8 @@
             "contest_ids": 765,
             "funny": 54424,
             "not_funny": 536233,
-            "somewhat_funny": 160261
+            "somewhat_funny": 160261,
+            "date": "22/03/2021"
         },
         {
             "men": 219,
@@ -3058,7 +3312,8 @@
             "contest_ids": 766,
             "funny": 67757,
             "not_funny": 499938,
-            "somewhat_funny": 151969
+            "somewhat_funny": 151969,
+            "date": "29/03/2021"
         },
         {
             "men": 266,
@@ -3070,7 +3325,8 @@
             "contest_ids": 767,
             "funny": 65319,
             "not_funny": 538217,
-            "somewhat_funny": 157056
+            "somewhat_funny": 157056,
+            "date": "05/04/2021"
         },
         {
             "men": 519,
@@ -3082,7 +3338,8 @@
             "contest_ids": 768,
             "funny": 71241,
             "not_funny": 531081,
-            "somewhat_funny": 161666
+            "somewhat_funny": 161666,
+            "date": "12/04/2021"
         },
         {
             "men": 326,
@@ -3094,7 +3351,8 @@
             "contest_ids": 769,
             "funny": 83831,
             "not_funny": 642042,
-            "somewhat_funny": 183351
+            "somewhat_funny": 183351,
+            "date": "19/04/2021"
         },
         {
             "men": 351,
@@ -3106,7 +3364,8 @@
             "contest_ids": 770,
             "funny": 46275,
             "not_funny": 360565,
-            "somewhat_funny": 118639
+            "somewhat_funny": 118639,
+            "date": "26/04/2021"
         },
         {
             "men": 239,
@@ -3118,7 +3377,8 @@
             "contest_ids": 771,
             "funny": 52000,
             "not_funny": 430874,
-            "somewhat_funny": 128190
+            "somewhat_funny": 128190,
+            "date": "03/05/2021"
         },
         {
             "men": 109,
@@ -3130,7 +3390,8 @@
             "contest_ids": 772,
             "funny": 54697,
             "not_funny": 484626,
-            "somewhat_funny": 147706
+            "somewhat_funny": 147706,
+            "date": "10/05/2021"
         },
         {
             "men": 86,
@@ -3142,7 +3403,8 @@
             "contest_ids": 773,
             "funny": 58837,
             "not_funny": 442060,
-            "somewhat_funny": 157026
+            "somewhat_funny": 157026,
+            "date": "17/05/2021"
         },
         {
             "men": 137,
@@ -3154,7 +3416,8 @@
             "contest_ids": 774,
             "funny": 58771,
             "not_funny": 566081,
-            "somewhat_funny": 154567
+            "somewhat_funny": 154567,
+            "date": "24/05/2021"
         },
         {
             "men": 558,
@@ -3166,7 +3429,8 @@
             "contest_ids": 775,
             "funny": 69020,
             "not_funny": 572564,
-            "somewhat_funny": 180105
+            "somewhat_funny": 180105,
+            "date": "31/05/2021"
         },
         {
             "men": 392,
@@ -3178,7 +3442,8 @@
             "contest_ids": 776,
             "funny": 60057,
             "not_funny": 471581,
-            "somewhat_funny": 155990
+            "somewhat_funny": 155990,
+            "date": "07/06/2021"
         },
         {
             "men": 344,
@@ -3190,7 +3455,8 @@
             "contest_ids": 777,
             "funny": 66517,
             "not_funny": 531893,
-            "somewhat_funny": 185258
+            "somewhat_funny": 185258,
+            "date": "14/06/2021"
         },
         {
             "men": 239,
@@ -3202,7 +3468,8 @@
             "contest_ids": 778,
             "funny": 53615,
             "not_funny": 527773,
-            "somewhat_funny": 152146
+            "somewhat_funny": 152146,
+            "date": "21/06/2021"
         },
         {
             "men": 118,
@@ -3214,7 +3481,8 @@
             "contest_ids": 779,
             "funny": 66453,
             "not_funny": 478791,
-            "somewhat_funny": 147336
+            "somewhat_funny": 147336,
+            "date": "28/06/2021"
         },
         {
             "men": 349,
@@ -3226,7 +3494,8 @@
             "contest_ids": 780,
             "funny": 60384,
             "not_funny": 547139,
-            "somewhat_funny": 162886
+            "somewhat_funny": 162886,
+            "date": "05/07/2021"
         },
         {
             "men": 175,
@@ -3238,7 +3507,8 @@
             "contest_ids": 781,
             "funny": 52605,
             "not_funny": 575768,
-            "somewhat_funny": 145544
+            "somewhat_funny": 145544,
+            "date": "12/07/2021"
         },
         {
             "men": 216,
@@ -3250,7 +3520,8 @@
             "contest_ids": 782,
             "funny": 52464,
             "not_funny": 484231,
-            "somewhat_funny": 135999
+            "somewhat_funny": 135999,
+            "date": "19/07/2021"
         },
         {
             "men": 166,
@@ -3262,7 +3533,8 @@
             "contest_ids": 783,
             "funny": 54113,
             "not_funny": 553044,
-            "somewhat_funny": 150528
+            "somewhat_funny": 150528,
+            "date": "26/07/2021"
         },
         {
             "men": 113,
@@ -3274,7 +3546,8 @@
             "contest_ids": 784,
             "funny": 129239,
             "not_funny": 800915,
-            "somewhat_funny": 281706
+            "somewhat_funny": 281706,
+            "date": "02/08/2021"
         },
         {
             "men": 443,
@@ -3286,7 +3559,8 @@
             "contest_ids": 785,
             "funny": 23033,
             "not_funny": 315570,
-            "somewhat_funny": 80622
+            "somewhat_funny": 80622,
+            "date": "09/08/2021"
         },
         {
             "men": 863,
@@ -3298,7 +3572,8 @@
             "contest_ids": 786,
             "funny": 98542,
             "not_funny": 717118,
-            "somewhat_funny": 241552
+            "somewhat_funny": 241552,
+            "date": "16/08/2021"
         },
         {
             "men": 353,
@@ -3310,7 +3585,8 @@
             "contest_ids": 787,
             "funny": 44824,
             "not_funny": 489904,
-            "somewhat_funny": 140300
+            "somewhat_funny": 140300,
+            "date": "23/08/2021"
         },
         {
             "men": 245,
@@ -3322,7 +3598,8 @@
             "contest_ids": 788,
             "funny": 69516,
             "not_funny": 564288,
-            "somewhat_funny": 169916
+            "somewhat_funny": 169916,
+            "date": "30/08/2021"
         },
         {
             "men": 188,
@@ -3334,7 +3611,8 @@
             "contest_ids": 789,
             "funny": 29150,
             "not_funny": 333839,
-            "somewhat_funny": 78813
+            "somewhat_funny": 78813,
+            "date": "06/09/2021"
         },
         {
             "men": 199,
@@ -3346,7 +3624,8 @@
             "contest_ids": 790,
             "funny": 73764,
             "not_funny": 583769,
-            "somewhat_funny": 182486
+            "somewhat_funny": 182486,
+            "date": "13/09/2021"
         },
         {
             "men": 469,
@@ -3358,7 +3637,8 @@
             "contest_ids": 791,
             "funny": 67119,
             "not_funny": 641718,
-            "somewhat_funny": 186991
+            "somewhat_funny": 186991,
+            "date": "20/09/2021"
         },
         {
             "men": 183,
@@ -3370,7 +3650,8 @@
             "contest_ids": 792,
             "funny": 55281,
             "not_funny": 564348,
-            "somewhat_funny": 144902
+            "somewhat_funny": 144902,
+            "date": "27/09/2021"
         },
         {
             "men": 168,
@@ -3382,7 +3663,8 @@
             "contest_ids": 793,
             "funny": 58975,
             "not_funny": 497220,
-            "somewhat_funny": 145378
+            "somewhat_funny": 145378,
+            "date": "04/10/2021"
         },
         {
             "men": 379,
@@ -3394,7 +3676,8 @@
             "contest_ids": 794,
             "funny": 58788,
             "not_funny": 480461,
-            "somewhat_funny": 135524
+            "somewhat_funny": 135524,
+            "date": "11/10/2021"
         },
         {
             "men": 780,
@@ -3406,7 +3689,8 @@
             "contest_ids": 795,
             "funny": 56464,
             "not_funny": 532427,
-            "somewhat_funny": 138871
+            "somewhat_funny": 138871,
+            "date": "18/10/2021"
         },
         {
             "men": 169,
@@ -3418,7 +3702,8 @@
             "contest_ids": 796,
             "funny": 49818,
             "not_funny": 478102,
-            "somewhat_funny": 124818
+            "somewhat_funny": 124818,
+            "date": "25/10/2021"
         },
         {
             "men": 383,
@@ -3430,7 +3715,8 @@
             "contest_ids": 797,
             "funny": 71244,
             "not_funny": 515591,
-            "somewhat_funny": 159699
+            "somewhat_funny": 159699,
+            "date": "01/11/2021"
         },
         {
             "men": 183,
@@ -3442,7 +3728,8 @@
             "contest_ids": 798,
             "funny": 61020,
             "not_funny": 479347,
-            "somewhat_funny": 148748
+            "somewhat_funny": 148748,
+            "date": "08/11/2021"
         },
         {
             "men": 183,
@@ -3454,7 +3741,8 @@
             "contest_ids": 799,
             "funny": 93981,
             "not_funny": 750866,
-            "somewhat_funny": 220565
+            "somewhat_funny": 220565,
+            "date": "15/11/2021"
         },
         {
             "men": 560,
@@ -3466,7 +3754,8 @@
             "contest_ids": 800,
             "funny": 52614,
             "not_funny": 543430,
-            "somewhat_funny": 155883
+            "somewhat_funny": 155883,
+            "date": "22/11/2021"
         },
         {
             "men": 171,
@@ -3478,7 +3767,8 @@
             "contest_ids": 801,
             "funny": 36546,
             "not_funny": 399758,
-            "somewhat_funny": 114718
+            "somewhat_funny": 114718,
+            "date": "29/11/2021"
         },
         {
             "men": 606,
@@ -3490,7 +3780,8 @@
             "contest_ids": 802,
             "funny": 64030,
             "not_funny": 514259,
-            "somewhat_funny": 137389
+            "somewhat_funny": 137389,
+            "date": "06/12/2021"
         },
         {
             "men": 305,
@@ -3502,7 +3793,8 @@
             "contest_ids": 803,
             "funny": 64731,
             "not_funny": 578095,
-            "somewhat_funny": 155919
+            "somewhat_funny": 155919,
+            "date": "13/12/2021"
         },
         {
             "men": 208,
@@ -3514,7 +3806,8 @@
             "contest_ids": 804,
             "funny": 43392,
             "not_funny": 491429,
-            "somewhat_funny": 112799
+            "somewhat_funny": 112799,
+            "date": "20/12/2021"
         },
         {
             "men": 305,
@@ -3526,7 +3819,8 @@
             "contest_ids": 805,
             "funny": 46124,
             "not_funny": 564311,
-            "somewhat_funny": 114193
+            "somewhat_funny": 114193,
+            "date": "27/12/2021"
         },
         {
             "men": 120,
@@ -3538,7 +3832,8 @@
             "contest_ids": 806,
             "funny": 49130,
             "not_funny": 506523,
-            "somewhat_funny": 136951
+            "somewhat_funny": 136951,
+            "date": "03/01/2022"
         },
         {
             "men": 175,
@@ -3550,7 +3845,8 @@
             "contest_ids": 807,
             "funny": 37747,
             "not_funny": 444831,
-            "somewhat_funny": 91252
+            "somewhat_funny": 91252,
+            "date": "10/01/2022"
         },
         {
             "men": 289,
@@ -3562,7 +3858,8 @@
             "contest_ids": 808,
             "funny": 85060,
             "not_funny": 607302,
-            "somewhat_funny": 189158
+            "somewhat_funny": 189158,
+            "date": "17/01/2022"
         },
         {
             "men": 102,
@@ -3574,7 +3871,8 @@
             "contest_ids": 809,
             "funny": 46889,
             "not_funny": 497125,
-            "somewhat_funny": 114344
+            "somewhat_funny": 114344,
+            "date": "24/01/2022"
         },
         {
             "men": 291,
@@ -3586,7 +3884,8 @@
             "contest_ids": 810,
             "funny": 51085,
             "not_funny": 574626,
-            "somewhat_funny": 150645
+            "somewhat_funny": 150645,
+            "date": "31/01/2022"
         },
         {
             "men": 331,
@@ -3598,7 +3897,8 @@
             "contest_ids": 811,
             "funny": 47928,
             "not_funny": 432938,
-            "somewhat_funny": 145839
+            "somewhat_funny": 145839,
+            "date": "07/02/2022"
         },
         {
             "men": 539,
@@ -3610,7 +3910,8 @@
             "contest_ids": 812,
             "funny": 65716,
             "not_funny": 468802,
-            "somewhat_funny": 154431
+            "somewhat_funny": 154431,
+            "date": "14/02/2022"
         },
         {
             "men": 267,
@@ -3622,7 +3923,8 @@
             "contest_ids": 813,
             "funny": 46052,
             "not_funny": 519889,
-            "somewhat_funny": 130811
+            "somewhat_funny": 130811,
+            "date": "21/02/2022"
         },
         {
             "men": 74,
@@ -3634,7 +3936,8 @@
             "contest_ids": 814,
             "funny": 48053,
             "not_funny": 384997,
-            "somewhat_funny": 124568
+            "somewhat_funny": 124568,
+            "date": "28/02/2022"
         },
         {
             "men": 181,
@@ -3646,7 +3949,8 @@
             "contest_ids": 815,
             "funny": 43896,
             "not_funny": 371168,
-            "somewhat_funny": 113117
+            "somewhat_funny": 113117,
+            "date": "07/03/2022"
         },
         {
             "men": 257,
@@ -3658,7 +3962,8 @@
             "contest_ids": 816,
             "funny": 65233,
             "not_funny": 594761,
-            "somewhat_funny": 175139
+            "somewhat_funny": 175139,
+            "date": "14/03/2022"
         },
         {
             "men": 105,
@@ -3670,7 +3975,8 @@
             "contest_ids": 817,
             "funny": 32036,
             "not_funny": 426216,
-            "somewhat_funny": 98792
+            "somewhat_funny": 98792,
+            "date": "21/03/2022"
         },
         {
             "men": 107,
@@ -3682,7 +3988,8 @@
             "contest_ids": 818,
             "funny": 46549,
             "not_funny": 549042,
-            "somewhat_funny": 166809
+            "somewhat_funny": 166809,
+            "date": "28/03/2022"
         },
         {
             "men": 301,
@@ -3694,7 +4001,8 @@
             "contest_ids": 819,
             "funny": 64119,
             "not_funny": 571261,
-            "somewhat_funny": 158572
+            "somewhat_funny": 158572,
+            "date": "04/04/2022"
         },
         {
             "men": 285,
@@ -3706,7 +4014,8 @@
             "contest_ids": 820,
             "funny": 37254,
             "not_funny": 425702,
-            "somewhat_funny": 95781
+            "somewhat_funny": 95781,
+            "date": "11/04/2022"
         },
         {
             "men": 135,
@@ -3718,7 +4027,8 @@
             "contest_ids": 821,
             "funny": 51938,
             "not_funny": 536644,
-            "somewhat_funny": 138510
+            "somewhat_funny": 138510,
+            "date": "18/04/2022"
         },
         {
             "men": 375,
@@ -3730,7 +4040,8 @@
             "contest_ids": 822,
             "funny": 41114,
             "not_funny": 516048,
-            "somewhat_funny": 110304
+            "somewhat_funny": 110304,
+            "date": "25/04/2022"
         },
         {
             "men": 92,
@@ -3742,7 +4053,8 @@
             "contest_ids": 823,
             "funny": 22351,
             "not_funny": 303266,
-            "somewhat_funny": 64064
+            "somewhat_funny": 64064,
+            "date": "02/05/2022"
         },
         {
             "men": 117,
@@ -3754,7 +4066,8 @@
             "contest_ids": 824,
             "funny": 48416,
             "not_funny": 608194,
-            "somewhat_funny": 144335
+            "somewhat_funny": 144335,
+            "date": "09/05/2022"
         },
         {
             "men": 475,
@@ -3766,7 +4079,8 @@
             "contest_ids": 825,
             "funny": 58505,
             "not_funny": 578526,
-            "somewhat_funny": 157523
+            "somewhat_funny": 157523,
+            "date": "16/05/2022"
         },
         {
             "men": 188,
@@ -3778,7 +4092,8 @@
             "contest_ids": 826,
             "funny": 41924,
             "not_funny": 565462,
-            "somewhat_funny": 119860
+            "somewhat_funny": 119860,
+            "date": "23/05/2022"
         },
         {
             "men": 408,
@@ -3790,7 +4105,8 @@
             "contest_ids": 827,
             "funny": 57566,
             "not_funny": 593935,
-            "somewhat_funny": 145686
+            "somewhat_funny": 145686,
+            "date": "30/05/2022"
         },
         {
             "men": 179,
@@ -3802,7 +4118,8 @@
             "contest_ids": 828,
             "funny": 38729,
             "not_funny": 432308,
-            "somewhat_funny": 114258
+            "somewhat_funny": 114258,
+            "date": "06/06/2022"
         },
         {
             "men": 204,
@@ -3814,7 +4131,8 @@
             "contest_ids": 829,
             "funny": 49300,
             "not_funny": 494200,
-            "somewhat_funny": 146960
+            "somewhat_funny": 146960,
+            "date": "13/06/2022"
         },
         {
             "men": 174,
@@ -3826,7 +4144,8 @@
             "contest_ids": 830,
             "funny": 34096,
             "not_funny": 395258,
-            "somewhat_funny": 100073
+            "somewhat_funny": 100073,
+            "date": "20/06/2022"
         },
         {
             "men": 382,
@@ -3838,7 +4157,8 @@
             "contest_ids": 831,
             "funny": 93906,
             "not_funny": 679331,
-            "somewhat_funny": 238334
+            "somewhat_funny": 238334,
+            "date": "27/06/2022"
         },
         {
             "men": 363,
@@ -3850,7 +4170,8 @@
             "contest_ids": 832,
             "funny": 28023,
             "not_funny": 438894,
-            "somewhat_funny": 83542
+            "somewhat_funny": 83542,
+            "date": "04/07/2022"
         },
         {
             "men": 161,
@@ -3862,7 +4183,8 @@
             "contest_ids": 833,
             "funny": 55538,
             "not_funny": 578950,
-            "somewhat_funny": 165330
+            "somewhat_funny": 165330,
+            "date": "11/07/2022"
         },
         {
             "men": 80,
@@ -3874,7 +4196,8 @@
             "contest_ids": 834,
             "funny": 29683,
             "not_funny": 368295,
-            "somewhat_funny": 82880
+            "somewhat_funny": 82880,
+            "date": "18/07/2022"
         },
         {
             "men": 116,
@@ -3886,7 +4209,8 @@
             "contest_ids": 835,
             "funny": 46519,
             "not_funny": 508806,
-            "somewhat_funny": 123715
+            "somewhat_funny": 123715,
+            "date": "25/07/2022"
         },
         {
             "men": 79,
@@ -3898,7 +4222,8 @@
             "contest_ids": 836,
             "funny": 94005,
             "not_funny": 804102,
-            "somewhat_funny": 219435
+            "somewhat_funny": 219435,
+            "date": "01/08/2022"
         },
         {
             "men": 207,
@@ -3910,7 +4235,8 @@
             "contest_ids": 837,
             "funny": 28264,
             "not_funny": 558902,
-            "somewhat_funny": 86163
+            "somewhat_funny": 86163,
+            "date": "08/08/2022"
         },
         {
             "men": 590,
@@ -3922,7 +4248,8 @@
             "contest_ids": 838,
             "funny": 32497,
             "not_funny": 559119,
-            "somewhat_funny": 101403
+            "somewhat_funny": 101403,
+            "date": "15/08/2022"
         },
         {
             "men": 172,
@@ -3934,7 +4261,8 @@
             "contest_ids": 839,
             "funny": 39507,
             "not_funny": 421902,
-            "somewhat_funny": 100928
+            "somewhat_funny": 100928,
+            "date": "22/08/2022"
         },
         {
             "men": 343,
@@ -3946,7 +4274,8 @@
             "contest_ids": 840,
             "funny": 38358,
             "not_funny": 555846,
-            "somewhat_funny": 127488
+            "somewhat_funny": 127488,
+            "date": "29/08/2022"
         },
         {
             "men": 192,
@@ -3958,7 +4287,8 @@
             "contest_ids": 841,
             "funny": 47403,
             "not_funny": 555229,
-            "somewhat_funny": 124045
+            "somewhat_funny": 124045,
+            "date": "05/09/2022"
         },
         {
             "men": 249,
@@ -3970,7 +4300,8 @@
             "contest_ids": 842,
             "funny": 39553,
             "not_funny": 436347,
-            "somewhat_funny": 99571
+            "somewhat_funny": 99571,
+            "date": "12/09/2022"
         },
         {
             "men": 111,
@@ -3982,7 +4313,8 @@
             "contest_ids": 843,
             "funny": 39667,
             "not_funny": 534719,
-            "somewhat_funny": 109609
+            "somewhat_funny": 109609,
+            "date": "19/09/2022"
         },
         {
             "men": 68,
@@ -3994,7 +4326,8 @@
             "contest_ids": 844,
             "funny": 39914,
             "not_funny": 464778,
-            "somewhat_funny": 118035
+            "somewhat_funny": 118035,
+            "date": "26/09/2022"
         },
         {
             "men": 139,
@@ -4006,7 +4339,8 @@
             "contest_ids": 845,
             "funny": 43869,
             "not_funny": 523389,
-            "somewhat_funny": 108092
+            "somewhat_funny": 108092,
+            "date": "03/10/2022"
         },
         {
             "men": 168,
@@ -4018,7 +4352,8 @@
             "contest_ids": 846,
             "funny": 60605,
             "not_funny": 669516,
-            "somewhat_funny": 176205
+            "somewhat_funny": 176205,
+            "date": "10/10/2022"
         },
         {
             "men": 239,
@@ -4030,7 +4365,8 @@
             "contest_ids": 847,
             "funny": 28753,
             "not_funny": 563717,
-            "somewhat_funny": 93892
+            "somewhat_funny": 93892,
+            "date": "17/10/2022"
         },
         {
             "men": 151,
@@ -4042,7 +4378,8 @@
             "contest_ids": 848,
             "funny": 36520,
             "not_funny": 611723,
-            "somewhat_funny": 107859
+            "somewhat_funny": 107859,
+            "date": "24/10/2022"
         },
         {
             "men": 322,
@@ -4054,7 +4391,8 @@
             "contest_ids": 849,
             "funny": 33649,
             "not_funny": 554645,
-            "somewhat_funny": 97540
+            "somewhat_funny": 97540,
+            "date": "31/10/2022"
         },
         {
             "men": 183,
@@ -4066,7 +4404,8 @@
             "contest_ids": 850,
             "funny": 269,
             "not_funny": 26469,
-            "somewhat_funny": 3693
+            "somewhat_funny": 3693,
+            "date": "07/11/2022"
         },
         {
             "men": 180,
@@ -4078,7 +4417,8 @@
             "contest_ids": 851,
             "funny": 26901,
             "not_funny": 424783,
-            "somewhat_funny": 93884
+            "somewhat_funny": 93884,
+            "date": "14/11/2022"
         },
         {
             "men": 132,
@@ -4090,7 +4430,8 @@
             "contest_ids": 852,
             "funny": 44056,
             "not_funny": 657629,
-            "somewhat_funny": 128798
+            "somewhat_funny": 128798,
+            "date": "21/11/2022"
         },
         {
             "men": 279,
@@ -4102,7 +4443,8 @@
             "contest_ids": 853,
             "funny": 39686,
             "not_funny": 733518,
-            "somewhat_funny": 133328
+            "somewhat_funny": 133328,
+            "date": "28/11/2022"
         },
         {
             "men": 188,
@@ -4114,7 +4456,8 @@
             "contest_ids": 854,
             "funny": 36385,
             "not_funny": 615269,
-            "somewhat_funny": 102602
+            "somewhat_funny": 102602,
+            "date": "05/12/2022"
         },
         {
             "men": 100,
@@ -4126,7 +4469,8 @@
             "contest_ids": 855,
             "funny": 33430,
             "not_funny": 543849,
-            "somewhat_funny": 93292
+            "somewhat_funny": 93292,
+            "date": "12/12/2022"
         },
         {
             "men": 94,
@@ -4138,7 +4482,8 @@
             "contest_ids": 856,
             "funny": 83885,
             "not_funny": 822863,
-            "somewhat_funny": 186003
+            "somewhat_funny": 186003,
+            "date": "19/12/2022"
         },
         {
             "men": 360,
@@ -4150,7 +4495,8 @@
             "contest_ids": 857,
             "funny": 45639,
             "not_funny": 583181,
-            "somewhat_funny": 118043
+            "somewhat_funny": 118043,
+            "date": "26/12/2022"
         },
         {
             "men": 119,
@@ -4162,7 +4508,8 @@
             "contest_ids": 858,
             "funny": 34655,
             "not_funny": 477283,
-            "somewhat_funny": 94606
+            "somewhat_funny": 94606,
+            "date": "02/01/2023"
         },
         {
             "men": 127,
@@ -4174,7 +4521,8 @@
             "contest_ids": 859,
             "funny": 51166,
             "not_funny": 634912,
-            "somewhat_funny": 144501
+            "somewhat_funny": 144501,
+            "date": "09/01/2023"
         },
         {
             "men": 255,
@@ -4186,7 +4534,8 @@
             "contest_ids": 860,
             "funny": 34495,
             "not_funny": 564381,
-            "somewhat_funny": 115208
+            "somewhat_funny": 115208,
+            "date": "16/01/2023"
         },
         {
             "men": 337,
@@ -4198,7 +4547,8 @@
             "contest_ids": 861,
             "funny": 43288,
             "not_funny": 619166,
-            "somewhat_funny": 101986
+            "somewhat_funny": 101986,
+            "date": "23/01/2023"
         },
         {
             "men": 209,
@@ -4210,7 +4560,8 @@
             "contest_ids": 862,
             "funny": 37743,
             "not_funny": 451221,
-            "somewhat_funny": 92956
+            "somewhat_funny": 92956,
+            "date": "30/01/2023"
         },
         {
             "men": 543,
@@ -4222,7 +4573,8 @@
             "contest_ids": 863,
             "funny": 61106,
             "not_funny": 742460,
-            "somewhat_funny": 146080
+            "somewhat_funny": 146080,
+            "date": "06/02/2023"
         },
         {
             "men": 111,
@@ -4234,7 +4586,8 @@
             "contest_ids": 864,
             "funny": 33927,
             "not_funny": 521281,
-            "somewhat_funny": 107287
+            "somewhat_funny": 107287,
+            "date": "13/02/2023"
         },
         {
             "men": 194,
@@ -4246,7 +4599,8 @@
             "contest_ids": 865,
             "funny": 39190,
             "not_funny": 767472,
-            "somewhat_funny": 112089
+            "somewhat_funny": 112089,
+            "date": "20/02/2023"
         },
         {
             "men": 225,
@@ -4258,7 +4612,8 @@
             "contest_ids": 866,
             "funny": 63361,
             "not_funny": 807807,
-            "somewhat_funny": 148931
+            "somewhat_funny": 148931,
+            "date": "27/02/2023"
         },
         {
             "men": 309,
@@ -4270,7 +4625,8 @@
             "contest_ids": 867,
             "funny": 38296,
             "not_funny": 627208,
-            "somewhat_funny": 106481
+            "somewhat_funny": 106481,
+            "date": "06/03/2023"
         },
         {
             "men": 294,
@@ -4282,7 +4638,8 @@
             "contest_ids": 868,
             "funny": 44029,
             "not_funny": 707163,
-            "somewhat_funny": 134016
+            "somewhat_funny": 134016,
+            "date": "13/03/2023"
         },
         {
             "men": 239,
@@ -4294,7 +4651,8 @@
             "contest_ids": 869,
             "funny": 33447,
             "not_funny": 492660,
-            "somewhat_funny": 112656
+            "somewhat_funny": 112656,
+            "date": "20/03/2023"
         },
         {
             "men": 138,
@@ -4306,7 +4664,8 @@
             "contest_ids": 870,
             "funny": 28902,
             "not_funny": 424643,
-            "somewhat_funny": 65449
+            "somewhat_funny": 65449,
+            "date": "27/03/2023"
         },
         {
             "men": 141,
@@ -4318,7 +4677,8 @@
             "contest_ids": 871,
             "funny": 30617,
             "not_funny": 477267,
-            "somewhat_funny": 96092
+            "somewhat_funny": 96092,
+            "date": "03/04/2023"
         },
         {
             "men": 160,
@@ -4330,7 +4690,8 @@
             "contest_ids": 872,
             "funny": 38537,
             "not_funny": 530023,
-            "somewhat_funny": 108930
+            "somewhat_funny": 108930,
+            "date": "10/04/2023"
         },
         {
             "men": 144,
@@ -4342,7 +4703,8 @@
             "contest_ids": 873,
             "funny": 47075,
             "not_funny": 493664,
-            "somewhat_funny": 117628
+            "somewhat_funny": 117628,
+            "date": "17/04/2023"
         },
         {
             "men": 228,
@@ -4354,7 +4716,8 @@
             "contest_ids": 874,
             "funny": 43958,
             "not_funny": 496699,
-            "somewhat_funny": 110011
+            "somewhat_funny": 110011,
+            "date": "24/04/2023"
         },
         {
             "men": 125,
@@ -4366,7 +4729,8 @@
             "contest_ids": 875,
             "funny": 37876,
             "not_funny": 485907,
-            "somewhat_funny": 101129
+            "somewhat_funny": 101129,
+            "date": "01/05/2023"
         },
         {
             "men": 117,
@@ -4378,7 +4742,8 @@
             "contest_ids": 876,
             "funny": 43653,
             "not_funny": 541773,
-            "somewhat_funny": 145288
+            "somewhat_funny": 145288,
+            "date": "08/05/2023"
         },
         {
             "men": 265,
@@ -4390,7 +4755,8 @@
             "contest_ids": 877,
             "funny": 25836,
             "not_funny": 387584,
-            "somewhat_funny": 66569
+            "somewhat_funny": 66569,
+            "date": "15/05/2023"
         },
         {
             "men": 87,
@@ -4402,7 +4768,8 @@
             "contest_ids": 878,
             "funny": 48036,
             "not_funny": 587901,
-            "somewhat_funny": 131713
+            "somewhat_funny": 131713,
+            "date": "22/05/2023"
         },
         {
             "men": 234,
@@ -4414,7 +4781,8 @@
             "contest_ids": 879,
             "funny": 69228,
             "not_funny": 830977,
-            "somewhat_funny": 205658
+            "somewhat_funny": 205658,
+            "date": "29/05/2023"
         },
         {
             "men": 160,
@@ -4426,7 +4794,8 @@
             "contest_ids": 880,
             "funny": 38806,
             "not_funny": 570842,
-            "somewhat_funny": 113389
+            "somewhat_funny": 113389,
+            "date": "05/06/2023"
         },
         {
             "men": 944,
@@ -4438,7 +4807,8 @@
             "contest_ids": 881,
             "funny": 35250,
             "not_funny": 519825,
-            "somewhat_funny": 109242
+            "somewhat_funny": 109242,
+            "date": "12/06/2023"
         },
         {
             "men": 407,
@@ -4450,7 +4820,8 @@
             "contest_ids": 882,
             "funny": 52807,
             "not_funny": 623484,
-            "somewhat_funny": 128610
+            "somewhat_funny": 128610,
+            "date": "19/06/2023"
         },
         {
             "men": 349,
@@ -4462,7 +4833,8 @@
             "contest_ids": 883,
             "funny": 49115,
             "not_funny": 598262,
-            "somewhat_funny": 129430
+            "somewhat_funny": 129430,
+            "date": "26/06/2023"
         },
         {
             "men": 260,
@@ -4474,7 +4846,8 @@
             "contest_ids": 884,
             "funny": 65048,
             "not_funny": 830692,
-            "somewhat_funny": 173866
+            "somewhat_funny": 173866,
+            "date": "03/07/2023"
         },
         {
             "men": 246,
@@ -4486,7 +4859,8 @@
             "contest_ids": 885,
             "funny": 37907,
             "not_funny": 633099,
-            "somewhat_funny": 112962
+            "somewhat_funny": 112962,
+            "date": "10/07/2023"
         },
         {
             "men": 123,
@@ -4498,7 +4872,8 @@
             "contest_ids": 886,
             "funny": 35467,
             "not_funny": 483573,
-            "somewhat_funny": 107660
+            "somewhat_funny": 107660,
+            "date": "17/07/2023"
         },
         {
             "men": 227,
@@ -4510,7 +4885,8 @@
             "contest_ids": 887,
             "funny": 25108,
             "not_funny": 343461,
-            "somewhat_funny": 74863
+            "somewhat_funny": 74863,
+            "date": "24/07/2023"
         },
         {
             "men": 161,
@@ -4522,7 +4898,8 @@
             "contest_ids": 888,
             "funny": 36786,
             "not_funny": 532868,
-            "somewhat_funny": 103253
+            "somewhat_funny": 103253,
+            "date": "31/07/2023"
         },
         {
             "men": 305,
@@ -4534,7 +4911,8 @@
             "contest_ids": 889,
             "funny": 53643,
             "not_funny": 673705,
-            "somewhat_funny": 137769
+            "somewhat_funny": 137769,
+            "date": "07/08/2023"
         },
         {
             "men": 159,
@@ -4546,7 +4924,8 @@
             "contest_ids": 890,
             "funny": 36269,
             "not_funny": 568316,
-            "somewhat_funny": 115784
+            "somewhat_funny": 115784,
+            "date": "14/08/2023"
         },
         {
             "men": 185,
@@ -4558,7 +4937,8 @@
             "contest_ids": 891,
             "funny": 50679,
             "not_funny": 712942,
-            "somewhat_funny": 165114
+            "somewhat_funny": 165114,
+            "date": "21/08/2023"
         },
         {
             "men": 164,
@@ -4570,7 +4950,8 @@
             "contest_ids": 892,
             "funny": 50492,
             "not_funny": 596652,
-            "somewhat_funny": 141107
+            "somewhat_funny": 141107,
+            "date": "28/08/2023"
         },
         {
             "men": 119,
@@ -4582,7 +4963,8 @@
             "contest_ids": 893,
             "funny": 83768,
             "not_funny": 786848,
-            "somewhat_funny": 215129
+            "somewhat_funny": 215129,
+            "date": "04/09/2023"
         },
         {
             "men": 243,
@@ -4594,7 +4976,8 @@
             "contest_ids": 894,
             "funny": 44343,
             "not_funny": 705740,
-            "somewhat_funny": 128594
+            "somewhat_funny": 128594,
+            "date": "11/09/2023"
         },
         {
             "men": 187,
@@ -4606,7 +4989,8 @@
             "contest_ids": 895,
             "funny": 45284,
             "not_funny": 608144,
-            "somewhat_funny": 124381
+            "somewhat_funny": 124381,
+            "date": "18/09/2023"
         }
     ]
 }
