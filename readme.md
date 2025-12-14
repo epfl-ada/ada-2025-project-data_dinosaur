@@ -8,9 +8,21 @@ In this project, we examine how humor changes in reaction to social, political, 
 Our objective is to create an interactive humor timeline that identifies thematic shifts in jokes and high points in public engagement as well as humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
 By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
 
+### Final Contributions
+
+The final analysis of this project includes:
+- A complete analysis and cleaning of the New Yorker Caption Contest dataset
+- A gender heterogeneity analysis comparing humor between men and women in captions
+- A timeline-based study of humor evolution centered on four major events: wars, climate change, the Trump election, and COVID-19
+- Large Language Model (LLM)–based clustering of humor types
+- An interactive website presenting all analyses and results as a data story
+
+
 ## Research questions
 
 This project explores how humor evolves in response to societal and global changes. We will ask whether humor trends reflect world events, and if peaks in caption activity or shifts in audience ratings align with major political or social crises. We will also investigate how humor themes and styles develop over time, by analyzing which topics dominate in different years such as politics, social movements, or everyday life, and whether these shifts correlate with patterns of public interest online. By comparing humor trends with Google search data for key events or figures like "Trump" or "COVID-19", we will finally aim to determine whether captions talking about these key elements appear more frequently or not.
+In addition, we study whether humor differs across groups, with a specific focus on gender heterogeneity between men and women. 
+Finally, we leverage Large Language Models to automatically classify captions into humor types and analyze how these humor categories evolve over time and across major world events.
 
 
 ## Additional Datasets
@@ -36,7 +48,10 @@ We used *The New Yorker Cartoon Caption Contest* dataset (2016-2023) combined wi
 
 For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulously sorted data. This and as well a moving average filter is used to analyse the development over time without having noise from specific captions.
 
-In addition, the polar words (man/women) are analysed by mean impact of the votes `funny` and `not funny`.
+In addition, the polar words (man/women) are analysed by mean impact of the votes `funny` and `not funny`. This allows us to study gender heterogeneity in humor reception and themes over time.
+
+The timeline analysis focuses in particular on four major categories of events: wars, climate-related crises, the Trump election, and the COVID-19 pandemic.
+
 
 ## Data Collection and Preparation
 We used *The New Yorker Cartoon Caption Contest* dataset (2016–2023), containing captions, images, and reader votes. Data were cleaned, normalized, and focused on three key text fields: `image_descriptions`, `image_uncanny_descriptions`, and `questions`.  
@@ -44,10 +59,10 @@ To connect humor with real-world events, we collected weekly **Google Trends** d
 
 ## Analysis Process
 Captions were preprocessed (tokenization, stopword removal, n-grams). TF-IDF and K-Means clustering were used to identify recurring topics across different text fields, while Google Trends data from 2016 to 2023 provided a measure of public interest for the same words. Word groups linked to negative or pandemic-related terms were tracked over time to observe shifts in tone before and after COVID-19. Using a sentence-transformer model, words were classified into humor categories such as dark humor, irony, or surrealism, revealing the thematic diversity of the dataset. Finally, each contest was tagged with its humor types to visualize how these categories evolved weekly across the studied period.
-In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six types (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*), while a **RoBERTa** model assessed sentiment (*positive, neutral, negative*). These predictions were added to the metadata of each contest.
+In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six types (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*), while a **RoBERTa** model assessed sentiment (*positive, neutral, negative*). These predictions were added to the metadata of each contest. These LLM-based annotations enable a structured, large-scale analysis of humor styles and their evolution across time and events.
 
-## Presenting the Results
-We visualized humor and sentiment distributions with pie charts and histograms to explore how tone and style evolved over time and reflected major global events.
+## Results and Data Story
+All results are presented and contextualized in an interactive data story website.
 
 # Proposed timeline
 
