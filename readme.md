@@ -1,6 +1,8 @@
 
 # [The Timeline of Humor: Do Jokes Evolve with the World?](https://sipofoy.github.io/ada-2025-data-dinosaur-website/)
 <sub><span style="color:#bfbfbf;"><em>(Please click on the title above to access the website.)</em></span></sub>
+<sub><span style="color:#bfbfbf;"><em>Note: the code for the website is maintained in a separate repository: https://github.com/SipofoY/ada-2025-data-dinosaur-website.git</em></span></sub>
+
 
 Jokes often reveal what people care about, fear, or protest against, making humor a mirror of society.
 In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2023). Millions of reader-rated captions for weekly cartoons are included in the dataset.
@@ -64,6 +66,15 @@ In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six t
 ## Results and Data Story
 All results are presented and contextualized in an interactive data story website.
 
+## Website repository
+
+The interactive data story website is developed in a separate repository:
+https://github.com/SipofoY/ada-2025-data-dinosaur-website.git
+
+The website is deployed to GitHub Pages and can be accessed here:
+https://sipofoy.github.io/ada-2025-data-dinosaur-website/
+
+
 # Proposed timeline
 
 how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
@@ -101,21 +112,29 @@ Jannik :
     - by counting certain wordgroups
     - by analysing over time
 - anaylsis of the funny and unfunny votes: is there an interessting developement?
+- gender heterogeneity analysis (plots + website page)
   
 Silvia:
 - Pre processing the data
 - Data cleaning
 - Creation of dataframes
+- Data analysis and plots + website introduction page and data visualization 
 
 Thara:
 - Google trends analysis 
     - comparison between frequencies of words in the google trends and in the dataset
+    - Correlation calculations
     - clustering type of humor
+- Creation of the website and implementation of the stucture and draft
+- Timeline and Google trends vs our captions analysis, plots and website page
 
 Yann:
 - Google trends analysis
     - import Google trends dataset
-    - LLM 
+    - LLM
+- Data visualization on the website
+- LLM and humor clustering analysis, plots and website page
+- Creation of the website repo and page deployment
     
 Yuno:
 - Contest dataset
@@ -123,6 +142,7 @@ Yuno:
 - Caption analysis
     - words frequency in the captions
     - analysis of timeline of words like Trump or COVID
+- Gender heterogeneity analysis (plots + website page)
 
 ## Quick start
 
@@ -144,7 +164,7 @@ pip install -r pip_requirements.txt
 
 The directory structure of our project looks like this:
 
-```
+```bash
 ├── data                           <- Project data files
 │   ├── GoogleTrends                <- Datasets of Google Trends
 │   ├── humor_types                 <- Datasets of humor types
@@ -162,3 +182,35 @@ The directory structure of our project looks like this:
 ├── pip_requirements.txt            <- File for installing python dependencies
 │
 └── README.md
+```
+
+### Website (separate repository)
+
+The website lives in the repository above. Its structure is:
+
+```
+├── .github/workflows <- GitHub Actions deployment
+│ └── deploy.yml
+│
+├── web <- Website source code
+│ ├── public <- Static assets
+│ ├── scripts <- Build and data scripts
+│ ├── plots_website_timeline <- Timeline visualizations
+│ └── src
+│ ├── app <- Next.js app router
+│ ├── components <- React components
+│ │ ├── About.tsx
+│ │ ├── Book.tsx
+│ │ ├── Clusters.tsx
+│ │ ├── GenderPage.tsx
+│ │ ├── Methodology.tsx
+│ │ ├── StoryPage.tsx
+│ │ └── TimelineBook.tsx
+│ ├── context <- React contexts
+│ └── data <- Processed data for visualization
+│
+├── next.config.ts <- Next.js configuration
+├── tsconfig.json <- TypeScript configuration
+├── package.json <- Project dependencies
+└── README.md
+
