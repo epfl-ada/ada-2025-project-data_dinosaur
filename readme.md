@@ -3,11 +3,15 @@
 <sub><span style="color:#bfbfbf;"><em>(Please click on the title above to access the website.)</em></span></sub>
 <sub><span style="color:#bfbfbf;"><em>Note: the code for the website is maintained in a separate repository: https://github.com/SipofoY/ada-2025-data-dinosaur-website.git</em></span></sub>
 
+**TL;DR** — We analyze how humor in The New Yorker Cartoon Caption Contest (2016–2023) evolves over time and across major world events. 
+Using NLP, Google Trends, and Large Language Models, we study thematic shifts, gender heterogeneity in humor, and changes in humor styles during wars, climate crises, the Trump election, and COVID-19. 
+All results are presented through an interactive data story website.
 
+## Context 
 Jokes often reveal what people care about, fear, or protest against, making humor a mirror of society.
 In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2023). Millions of reader-rated captions for weekly cartoons are included in the dataset.
 
-Our objective is to create an interactive humor timeline that identifies thematic shifts in jokes and high points in public engagement as well as humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
+Our objective is to create an interactive humor timeline that highlights thematic shifts in jokes, public engagement, and humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
 By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
 
 ### Final Contributions
@@ -26,8 +30,17 @@ This project explores how humor evolves in response to societal and global chang
 In addition, we study whether humor differs across groups, with a specific focus on gender heterogeneity between men and women. 
 Finally, we leverage Large Language Models to automatically classify captions into humor types and analyze how these humor categories evolve over time and across major world events.
 
+This project addresses the following research questions:
+- To what extent do humor trends in The New Yorker Cartoon Caption Contest reflect major societal and global events?
+- Do peaks in caption activity or changes in audience ratings align temporally with political, social, or international crises?
+- How do humor themes and styles evolve over time, and which topics dominate different periods (e.g., politics, social movements, everyday life)?
+- Are shifts in humor topics correlated with public interest as measured by Google search trends for key terms such as “Trump” or “COVID-19”?
+- Are there systematic differences in humor between men and women, indicating gender heterogeneity in humor expression or reception?
+- Can Large Language Models reliably classify captions into distinct humor types, and how do these humor categories evolve across time and major world events?
+
 
 ## Additional Datasets
+In addition to the main caption dataset, we used external datasets to enrich the temporal and societal context of the analysis.
 
 Jain, L., Jamieson, K., Mankoff, R., Nowak, R., Sievert, S., (2020). 
 The New Yorker Cartoon Caption Contest Dataset. 
@@ -35,7 +48,7 @@ https://nextml.github.io/caption-contest-data/
 - Needed to obtain the dates of each contest
 
 
-Google Trends data (via the pytrends API) used to correlate caption topics with public-interest dynamics. :
+Google Trends data (via the pytrends API) used to correlate caption topics with public-interest dynamics :
 - Weekly search-interest scores (0–100) for topic clusters:
     - Politics (“Trump”, “Biden”, “election”),
     - Social movements (“Me Too”, “Black Lives Matter”, “feminism”),
@@ -60,13 +73,14 @@ We used *The New Yorker Cartoon Caption Contest* dataset (2016–2023), containi
 To connect humor with real-world events, we collected weekly **Google Trends** data (2016–2023) for political, social, and crisis-related topics via the *pytrends* API. All processed data were stored in `contests_with_humor.json`.
 
 ## Analysis Process
-Captions were preprocessed (tokenization, stopword removal, n-grams). TF-IDF and K-Means clustering were used to identify recurring topics across different text fields, while Google Trends data from 2016 to 2023 provided a measure of public interest for the same words. Word groups linked to negative or pandemic-related terms were tracked over time to observe shifts in tone before and after COVID-19. Using a sentence-transformer model, words were classified into humor categories such as dark humor, irony, or surrealism, revealing the thematic diversity of the dataset. Finally, each contest was tagged with its humor types to visualize how these categories evolved weekly across the studied period.
+Captions were preprocessed (tokenization, stopword removal, n-grams). TF-IDF and K-Means clustering were used to identify recurring topics across different text fields, while Google Trends data from 2016 to 2023 provided a measure of public interest for the same words. For the four main events studied (wars, climate change, the Trump election, and COVID-19), we explicitly analyzed the relationship between caption frequencies and Google Trends signals by computing Pearson, Spearman, and Kendall τ correlations to quantify linear and rank-based associations. Word groups linked to specific events terms were tracked over time to observe shifts in tone before and after the main period of the event. Using a sentence-transformer model, words were classified into humor categories such as dark humor, irony, or surrealism, revealing the thematic diversity of the dataset. Finally, each contest was tagged with its humor types to visualize how these categories evolved weekly across the studied period.
+
 In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six types (*irony, sarcasm, exaggeration, incongruity-absurdity, self-deprecating, wit-surprise*), while a **RoBERTa** model assessed sentiment (*positive, neutral, negative*). These predictions were added to the metadata of each contest. These LLM-based annotations enable a structured, large-scale analysis of humor styles and their evolution across time and events.
 
 ## Results and Data Story
 All results are presented and contextualized in an interactive data story website.
 
-## Website repository
+### Website repository
 
 The interactive data story website is developed in a separate repository:
 https://github.com/SipofoY/ada-2025-data-dinosaur-website.git
