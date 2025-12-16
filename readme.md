@@ -11,7 +11,7 @@ All results are presented through an interactive data story website.
 Jokes often reveal what people care about, fear, or protest against, making humor a mirror of society.
 In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2023). Millions of reader-rated captions for weekly cartoons are included in the dataset.
 
-Our objective is to create an interactive humor timeline that highlights thematic shifts in jokes, public engagement, and humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and international crises like COVID-19. 
+Our objective is to create an interactive humor timeline that highlights thematic shifts in jokes, public engagement, and humor types. We investigate the relationship between humor trends and significant social events like the US elections, gender inequality and international crises like COVID-19. 
 By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
 
 ### Final Contributions
