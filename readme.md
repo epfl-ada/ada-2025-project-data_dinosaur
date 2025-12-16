@@ -11,7 +11,7 @@ All results are presented through an interactive data story website.
 Jokes often reveal what people care about, fear, or protest against, making humor a mirror of society.
 In this project, we examine how humor changes in reaction to social, political, and international events by analyzing The New Yorker Cartoon Caption Contest dataset (2016–2023). Millions of reader-rated captions for weekly cartoons are included in the dataset.
 
-Our objective is to create an interactive humor timeline that highlights thematic shifts in jokes, public engagement, and humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and Black Lives Matter movements, and international crises like COVID-19. 
+Our objective is to create an interactive humor timeline that highlights thematic shifts in jokes, public engagement, and humor types. We investigate the relationship between humor trends and significant social events like the US elections, the #MeToo and international crises like COVID-19. 
 By combining natural-language processing, statistical analysis, and Google Trends data, we aim to uncover whether people literally “laugh about what’s happening in the world” and when they stop laughing.
 
 ### Final Contributions
@@ -35,7 +35,7 @@ This project addresses the following research questions:
 - Do peaks in caption activity or changes in audience ratings align temporally with political, social, or international crises?
 - How do humor themes and styles evolve over time, and which topics dominate different periods (e.g., politics, social movements, everyday life)?
 - Are shifts in humor topics correlated with public interest as measured by Google search trends for key terms such as “Trump” or “COVID-19”?
-- Are there systematic differences in humor between men and women, indicating gender heterogeneity in humor expression or reception?
+- Are there systematic differences in humor between men and women, indicating gender heterogeneity in humor expression or reception? And how is the gender inequality represented in the captions?
 - Can Large Language Models reliably classify captions into distinct humor types, and how do these humor categories evolve across time and major world events?
 
 
@@ -123,7 +123,7 @@ Week 10:
 
 Jannik : 
 - caption analysis
-    - by counting certain wordgroups
+    - per topic (gender, Trump and Climate change)
     - by analysing over time
 - anaylsis of the funny and unfunny votes: is there an interessting developement?
 - gender heterogeneity analysis (plots + website page)
