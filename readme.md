@@ -3,7 +3,7 @@
 <sub><span style="color:#bfbfbf;"><em>(Please click on the title above to access the website.)</em></span></sub>
 <sub><span style="color:#bfbfbf;"><em>Note: the code for the website is maintained in a separate repository: https://github.com/SipofoY/ada-2025-data-dinosaur-website.git</em></span></sub>
 
-**TL;DR** — We analyze how humor in The New Yorker Cartoon Caption Contest (2016–2023) evolves over time and across major world events. 
+We analyze how humor in The New Yorker Cartoon Caption Contest (2016–2023) evolves over time and across major world events. 
 Using NLP, Google Trends, and Large Language Models, we study thematic shifts, gender heterogeneity in humor, and changes in humor styles during wars, climate crises, the Trump election, and COVID-19. 
 All results are presented through an interactive data story website.
 
