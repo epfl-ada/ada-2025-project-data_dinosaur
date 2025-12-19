@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I just swabbed that floor.,1.6475587144622992,0.0092082130982712,6472,3321,2108,1039,unknown,neutral
+"Sir, as I said, there’s an ATM on the corner.",1.509110901665096,0.0089296419824713,6366,3950,1588,824,sarcasm,neutral
+"If you're going to bury that here, you need to buy something.",1.6933073424301497,0.0098134445024128,6156,3065,1918,1173,unknown,negative
+We don't take plunder.,1.57502980752853,0.0092216905508211,5871,3255,1858,754,wit-surprise,neutral
+The lemon tarts prevent scurvy.,1.5918228279386712,0.0095984889365042,5870,3286,1700,882,wit-surprise,neutral
+"Sorry, we're cashless.",1.4870608397600686,0.0088060197744514,5835,3588,1652,592,sarcasm,neutral
+And stop calling me wench.,1.6690250215703193,0.0100498619316971,5795,2979,1759,1056,sarcasm,negative
+"Sir, this is a Whole Foods. The only payment we accept is an arm and a leg.",1.7050484094052558,0.010659761537852,5784,3007,1476,1300,sarcasm,neutral
+Do you have anything smaller?,1.6050347222222223,0.0094693211757208,5760,3079,1873,800,sarcasm,neutral
+Nothing smaller?,1.5652705061082024,0.0093406375387579,5730,3231,1765,733,incongruity-absurdity,neutral
+"I'm sorry, but we've gone cashless.",1.5073324022346368,0.0090076977804054,5728,3451,1653,621,sarcasm,negative
+You now have $1.36 in Rewards Points,1.56897458369851,0.0096065606484239,5705,3270,1627,805,unknown,neutral
+"No, sir. There's no actual ""Starbuck"" here.",1.569422503071792,0.0096291529216531,5697,3267,1617,808,sarcasm,negative
+It's actually way easier to just pay with our app.,1.6143836820819413,0.009710869697776,5687,3056,1773,855,sarcasm,positive
+Uhhh…we’re cashless.,1.470805487161449,0.0087919330734328,5686,3559,1578,546,sarcasm,neutral
+Sorry sir there was a typo it should have read elderly Pilates meet up.,1.656996285158323,0.0104512179589688,5653,3063,1476,1113,irony,neutral
+I can't make change for loot.,1.484773371104816,0.0088156616652022,5648,3457,1651,539,irony,negative
+"I'm sorry sir, but we don't accept plunder.",1.570694542877392,0.0094940694073921,5644,3174,1719,748,sarcasm,negative
+It’s a logo. She’s not actually here.,1.5053172633817795,0.0093466160098613,5642,3486,1466,690,irony,neutral
+Sorry. Visa or Mastercard. We don’t accept plunder.,1.5762681802057468,0.0095962797063607,5638,3177,1681,779,sarcasm,negative
+"Blackboard! Is there a Blackboard here, your latte is ready.",1.58376265766566,0.0100311300488876,5629,3261,1452,911,sarcasm,positive
+I'm guessing you don't want decaf.,1.549040511727079,0.0095221769542747,5628,3293,1585,747,sarcasm,neutral
+Is that Roger with 3 arrrgs?,1.5634003201138182,0.0096717943198524,5623,3245,1584,789,irony,neutral
+"I’m sorry, the manager said no doubloons. Do you have Venmo?",1.513980409617097,0.0091699151352403,5615,3364,1620,626,sarcasm,negative
+I still need to see your ID!!!,1.4658584417899805,0.0090067704914583,5609,3585,1441,582,sarcasm,neutral
+We're card only,1.4690565364722667,0.0088831582766669,5607,3521,1543,543,irony,neutral
+I'm afraid all of our prices have come up since 1763.,1.528392857142857,0.0092615859025343,5600,3306,1637,654,sarcasm,negative
+"Sorry, credit only",1.4706513958482463,0.0088009061793036,5588,3478,1592,515,sarcasm,neutral
+"Sir we are looking for a caption here, not a captain",1.545910148559155,0.0098548792536155,5587,3366,1393,825,sarcasm,neutral
+It’s not a question of money sir.  We’re out of the almond croissants.,1.6358257127487896,0.0101399123587274,5577,2993,1626,955,sarcasm,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Our grant was awarded by a hedge fund.,1.7023982558139534,0.0149640510728515,2752,1379,813,560,irony,neutral
+We use the males as a control group - they never ask for directions.,1.842814371257485,0.0160128355062749,2672,1158,776,738,irony,neutral
+"Forget the experiment for a minute, where the hell has your mouth gone?",1.7083333333333333,0.0159304774942933,2664,1402,637,625,sarcasm,negative
+It's a female.  She's asking for directions.,1.6404663407295976,0.0159600436070678,2659,1550,515,594,irony,neutral
+"He should do well, he is a field mouse.",1.6932856575288042,0.0150123266997095,2517,1218,853,446,incongruity-absurdity,neutral
+We’ve decided the most intelligent ones never enter the maze at all.,1.723328025477707,0.0154759673965937,2512,1199,809,504,wit-surprise,neutral
+"Yes I did do my undergrad at Iowa, how’d you know?",1.696774193548387,0.0152083379148638,2480,1201,830,449,sarcasm,neutral
+He’s still dizzy from the crop circles.,1.632900795311846,0.0164568456130924,2389,1372,522,495,wit-surprise,neutral
+The real trick was getting them to grow the corn.,1.6676816006959547,0.0158790801757359,2299,1175,713,411,wit-surprise,neutral
+'It gets them off the wheel and into nature.',1.6735537190082646,0.0161513400989357,2178,1090,709,379,incongruity-absurdity,neutral
+The smartest ones simply eat their way out.,1.7416666666666667,0.0171039458807544,2040,940,687,413,sarcasm,neutral
+There is no exit. We're measuring existential dread.,1.7619753086419754,0.0180089825256506,2025,963,581,481,incongruity-absurdity,negative
+"Just as we thought, the city mouse has no idea what to do next.",1.6999503229011426,0.016900036085008,2013,971,675,367,irony,negative
+This is Donald. He is going to get lost and then declare victory.,1.7239661185849526,0.0184405904702847,2007,1038,485,484,irony,negative
+It's made out of marijuana.  That's as far as they get.,1.6663336663336663,0.0170101017710814,2002,1025,620,357,incongruity-absurdity,negative
+It’s cannabis.  They never get far.,1.7143571785892946,0.0173327716910156,1999,967,636,396,sarcasm,negative
+"We took away his phone, he's already lost.",1.7530120481927711,0.017883884031344,1992,941,602,449,sarcasm,negative
+Had to take his phone away – he was using Google Maps.,1.6680286006128702,0.0176834203310821,1958,1032,544,382,unknown,neutral
+Our research is backed by a hedge fund.,1.728395061728395,0.0178877383417425,1944,940,592,412,exaggeration,neutral
+I accidentally spelled it ‘maize’ in the grant proposal.,1.7338834450747809,0.0180085911516763,1939,936,583,420,incongruity-absurdity,negative
+We’re testing if the mice can navigate the US healthcare system before we proceed with the drug trials.,1.6699842849659507,0.0176764957553013,1909,988,563,358,irony,neutral
+You call it corn. We call it maze.,1.670569451836083,0.0176643940522916,1879,962,574,343,incongruity-absurdity,neutral
+"Unlike the males, she does it backwards, in high heels.",1.641653072321914,0.0180139883626836,1839,996,506,337,incongruity-absurdity,neutral
+He's not one of the test mice--he's with the rescue team.,1.700382722799344,0.0177367336368145,1829,882,613,334,incongruity-absurdity,neutral
+Their development of agriculture was an unexpected result.,1.641488779419814,0.0178098031403938,1827,974,534,319,wit-surprise,neutral
+"Honestly, I think the fact we cultivated miniature corn is more impressive.",1.7032967032967032,0.0179256086950454,1820,882,596,342,irony,positive
+"To accurately simulate the IKEA experience there is, in fact, no way out.",1.7874102705687465,0.0189181561886241,1811,820,556,435,incongruity-absurdity,negative
+"He’s smarter then we thought, he refuses to go in.",1.7223149693934334,0.0179202418306726,1797,837,622,338,sarcasm,positive
+He hasn't moved in an hour. Maybe the marijuana maze wasn't such a good idea.,1.6630864895421142,0.0182632745666719,1769,920,525,324,sarcasm,negative
+"Next time, let's try putting the cheese at the end of the maze.",1.7114252061248527,0.0186532164118636,1698,817,554,327,incongruity-absurdity,neutral

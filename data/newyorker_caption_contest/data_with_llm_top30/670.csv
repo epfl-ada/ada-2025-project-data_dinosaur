@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It’s the swimming portion that I am most concerned with.,2.027882364912995,0.0077691648246323,9827,2796,3967,3063,incongruity-absurdity,neutral
+"Armstrong? No, though I do get mistaken for Lance a lot.",2.035021551724138,0.0083059868226953,9280,2831,3300,3149,self-deprecating,neutral
+I think you misunderstood 'ironman competition'.,2.0085035891772502,0.0079865494371085,9055,2584,3813,2657,irony,negative
+"Whew, I'm a lot rustier than I thought.",1.9816988950276244,0.008022195917919,8688,2517,3816,2355,self-deprecating,negative
+"It started as a crusade, now it's just a commute.",1.9623245506032996,0.008496388026117,8122,2557,3321,2244,wit-surprise,negative
+I always said I'd take up cycling when I hit the middle ages.,1.9630229419703105,0.0089196099938473,7410,2370,2962,2078,unknown,neutral
+"Costume party?  No, substitute teacher, seventh grade.",1.877228800871104,0.0092232818364014,7347,2822,2613,1912,incongruity-absurdity,neutral
+You won't believe how many people want to shoot the messenger.,1.877737226277372,0.0091930525280888,7124,2663,2681,1780,sarcasm,negative
+Anyone wearing spandex shouldn’t judge anyone’s else’s fashion choices.,1.817240328967408,0.009538250787921,6566,2673,2421,1472,sarcasm,neutral
+"No, no! The coach suggested UNDER armor.",1.7393182909265483,0.0095318284292815,6249,2828,2233,1188,incongruity-absurdity,negative
+It’s honestly more comfortable than the seat.”,1.8036388602814968,0.0100010575917694,5826,2419,2147,1260,incongruity-absurdity,positive
+"It started with wearing a helmet like everyone else. Then I scraped my knee, so I started wearing knee pads, then it sort of snowballed",1.7911007862759114,0.0102955946194701,5596,2381,2009,1206,unknown,neutral
+First time biking in New York City?,1.7876857749469215,0.0103833296356086,5181,2141,2010,1030,irony,neutral
+It’s just until I can afford health insurance.,1.8711507293354943,0.0109693425186436,4936,1832,1911,1193,self-deprecating,neutral
+"Normally, I wouldn't send a knight out on a bike like this.",1.7160522097549806,0.0119130452136672,4367,2159,1293,915,wit-surprise,negative
+"It's your first Ironman, right?",1.802914642609299,0.0112485459378693,4323,1692,1791,840,irony,neutral
+"It's New York, Mom.  Every day's a battle.",1.6554036626257416,0.0116873060980916,3877,1942,1336,599,sarcasm,neutral
+"I said, '""Wear your Under Armour.""",1.8996840442338072,0.0127022263335762,3798,1373,1433,992,unknown,neutral
+Don’t ask. It was Amazon prime day.,1.6859263185793798,0.0123760296045331,3773,1871,1217,685,irony,neutral
+"The bike?  It’s a $15,000 carbon fibre kit that weighs 3.4 pounds. Why?",1.6852207293666026,0.0126197041892985,3647,1825,1148,672,irony,negative
+This part isn't nearly as bad as the swim.,1.6864879955332217,0.0119994073974779,3582,1693,1335,554,unknown,negative
+Surely you joust.,1.7356803576417994,0.0129331410454514,3579,1669,1187,723,wit-surprise,neutral
+You said we were doing a century.  I picked the 13th.,1.7490460815967126,0.0132407765558882,3407,1552,1158,697,sarcasm,neutral
+Well the helmet would look stupid without the rest of it.,1.7973817316274918,0.0130560975124648,3361,1372,1298,691,unknown,negative
+All attempts to pass me are feudal.”,1.709880239520958,0.0129901397282074,3340,1571,1169,600,wit-surprise,neutral
+It even comes with knight vision.,1.76672,0.0136498704528754,3125,1359,1136,630,irony,neutral
+I'm Medieval Knievel,1.6837359098228664,0.0136639309457605,3105,1546,995,564,unknown,neutral
+Out for your knightly ride?,1.6161500191350937,0.014126416884483,2613,1375,866,372,sarcasm,neutral
+Stay clear of magnet schools.,1.7567049808429118,0.0154740547406013,2610,1210,825,575,incongruity-absurdity,neutral
+"On thy left, fair maiden.",1.6539565395653957,0.0149833185101143,2439,1250,788,400,incongruity-absurdity,neutral

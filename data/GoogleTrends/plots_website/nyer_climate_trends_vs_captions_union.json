@@ -1,0 +1,548 @@
+[
+  {
+    "date": "2016-03-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2016-04-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 22.0
+  },
+  {
+    "date": "2016-05-01T00:00:00",
+    "event": "climate",
+    "captions": 7.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2016-06-01T00:00:00",
+    "event": "climate",
+    "captions": 7.0,
+    "google_trends": 12.0
+  },
+  {
+    "date": "2016-07-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 10.0
+  },
+  {
+    "date": "2016-08-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 12.0
+  },
+  {
+    "date": "2016-09-01T00:00:00",
+    "event": "climate",
+    "captions": 9.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2016-10-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2016-11-01T00:00:00",
+    "event": "climate",
+    "captions": 4.0,
+    "google_trends": 25.0
+  },
+  {
+    "date": "2016-12-01T00:00:00",
+    "event": "climate",
+    "captions": 4.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2017-01-01T00:00:00",
+    "event": "climate",
+    "captions": 14.0,
+    "google_trends": 22.0
+  },
+  {
+    "date": "2017-02-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 22.0
+  },
+  {
+    "date": "2017-03-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 23.0
+  },
+  {
+    "date": "2017-04-01T00:00:00",
+    "event": "climate",
+    "captions": 5.0,
+    "google_trends": 26.0
+  },
+  {
+    "date": "2017-05-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 24.0
+  },
+  {
+    "date": "2017-06-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 34.0
+  },
+  {
+    "date": "2017-07-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 12.0
+  },
+  {
+    "date": "2017-08-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 13.0
+  },
+  {
+    "date": "2017-09-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 23.0
+  },
+  {
+    "date": "2017-10-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 20.0
+  },
+  {
+    "date": "2017-11-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2017-12-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 18.0
+  },
+  {
+    "date": "2018-01-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2018-02-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2018-03-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 20.0
+  },
+  {
+    "date": "2018-04-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 23.0
+  },
+  {
+    "date": "2018-05-01T00:00:00",
+    "event": "climate",
+    "captions": 8.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2018-06-01T00:00:00",
+    "event": "climate",
+    "captions": 7.0,
+    "google_trends": 12.0
+  },
+  {
+    "date": "2018-07-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 10.0
+  },
+  {
+    "date": "2018-08-01T00:00:00",
+    "event": "climate",
+    "captions": 24.0,
+    "google_trends": 13.0
+  },
+  {
+    "date": "2018-09-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2018-10-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 26.0
+  },
+  {
+    "date": "2018-11-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 25.0
+  },
+  {
+    "date": "2018-12-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 20.0
+  },
+  {
+    "date": "2019-01-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 20.0
+  },
+  {
+    "date": "2019-02-01T00:00:00",
+    "event": "climate",
+    "captions": 40.0,
+    "google_trends": 24.0
+  },
+  {
+    "date": "2019-03-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 26.0
+  },
+  {
+    "date": "2019-04-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 28.0
+  },
+  {
+    "date": "2019-05-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 28.0
+  },
+  {
+    "date": "2019-06-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 16.0
+  },
+  {
+    "date": "2019-07-01T00:00:00",
+    "event": "climate",
+    "captions": 12.0,
+    "google_trends": 13.0
+  },
+  {
+    "date": "2019-08-01T00:00:00",
+    "event": "climate",
+    "captions": 8.0,
+    "google_trends": 18.0
+  },
+  {
+    "date": "2019-09-01T00:00:00",
+    "event": "climate",
+    "captions": 9.0,
+    "google_trends": 46.0
+  },
+  {
+    "date": "2019-10-01T00:00:00",
+    "event": "climate",
+    "captions": 11.0,
+    "google_trends": 28.0
+  },
+  {
+    "date": "2019-11-01T00:00:00",
+    "event": "climate",
+    "captions": 7.0,
+    "google_trends": 25.0
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2020-01-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 23.0
+  },
+  {
+    "date": "2020-02-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 24.0
+  },
+  {
+    "date": "2020-03-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 18.0
+  },
+  {
+    "date": "2020-04-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2020-05-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2020-06-01T00:00:00",
+    "event": "climate",
+    "captions": 11.0,
+    "google_trends": 12.0
+  },
+  {
+    "date": "2020-07-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 11.0
+  },
+  {
+    "date": "2020-08-01T00:00:00",
+    "event": "climate",
+    "captions": 5.0,
+    "google_trends": 13.0
+  },
+  {
+    "date": "2020-09-01T00:00:00",
+    "event": "climate",
+    "captions": 4.0,
+    "google_trends": 30.0
+  },
+  {
+    "date": "2020-10-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 22.0
+  },
+  {
+    "date": "2020-11-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 17.0
+  },
+  {
+    "date": "2020-12-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 15.0
+  },
+  {
+    "date": "2021-01-01T00:00:00",
+    "event": "climate",
+    "captions": 25.0,
+    "google_trends": 18.0
+  },
+  {
+    "date": "2021-02-01T00:00:00",
+    "event": "climate",
+    "captions": 5.0,
+    "google_trends": 18.0
+  },
+  {
+    "date": "2021-03-01T00:00:00",
+    "event": "climate",
+    "captions": 16.0,
+    "google_trends": 16.0
+  },
+  {
+    "date": "2021-04-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2021-05-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 16.0
+  },
+  {
+    "date": "2021-06-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 13.0
+  },
+  {
+    "date": "2021-07-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 13.0
+  },
+  {
+    "date": "2021-08-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 15.0
+  },
+  {
+    "date": "2021-09-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 18.0
+  },
+  {
+    "date": "2021-10-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2021-11-01T00:00:00",
+    "event": "climate",
+    "captions": 4.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2021-12-01T00:00:00",
+    "event": "climate",
+    "captions": 11.0,
+    "google_trends": 15.0
+  },
+  {
+    "date": "2022-01-01T00:00:00",
+    "event": "climate",
+    "captions": 8.0,
+    "google_trends": 19.0
+  },
+  {
+    "date": "2022-02-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2022-03-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 24.0
+  },
+  {
+    "date": "2022-04-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 100.0
+  },
+  {
+    "date": "2022-05-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 31.0
+  },
+  {
+    "date": "2022-06-01T00:00:00",
+    "event": "climate",
+    "captions": 0.0,
+    "google_trends": 18.0
+  },
+  {
+    "date": "2022-07-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 17.0
+  },
+  {
+    "date": "2022-08-01T00:00:00",
+    "event": "climate",
+    "captions": 9.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2022-09-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 27.0
+  },
+  {
+    "date": "2022-10-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 26.0
+  },
+  {
+    "date": "2022-11-01T00:00:00",
+    "event": "climate",
+    "captions": 2.0,
+    "google_trends": 26.0
+  },
+  {
+    "date": "2022-12-01T00:00:00",
+    "event": "climate",
+    "captions": 17.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2023-01-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 23.0
+  },
+  {
+    "date": "2023-02-01T00:00:00",
+    "event": "climate",
+    "captions": 4.0,
+    "google_trends": 26.0
+  },
+  {
+    "date": "2023-03-01T00:00:00",
+    "event": "climate",
+    "captions": 5.0,
+    "google_trends": 28.0
+  },
+  {
+    "date": "2023-04-01T00:00:00",
+    "event": "climate",
+    "captions": 4.0,
+    "google_trends": 54.0
+  },
+  {
+    "date": "2023-05-01T00:00:00",
+    "event": "climate",
+    "captions": 6.0,
+    "google_trends": 29.0
+  },
+  {
+    "date": "2023-06-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 17.0
+  },
+  {
+    "date": "2023-07-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 17.0
+  },
+  {
+    "date": "2023-08-01T00:00:00",
+    "event": "climate",
+    "captions": 1.0,
+    "google_trends": 21.0
+  },
+  {
+    "date": "2023-09-01T00:00:00",
+    "event": "climate",
+    "captions": 3.0,
+    "google_trends": 29.0
+  }
+]

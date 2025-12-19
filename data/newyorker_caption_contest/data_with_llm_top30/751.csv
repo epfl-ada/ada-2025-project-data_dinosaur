@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"If you see a fork in the road, avoid it.",1.9675685361046409,0.0106604402708415,5581,1863,2036,1682,incongruity-absurdity,neutral
+"It would never work...
+we move in different circles.",1.8998010490142885,0.0106189404523425,5529,2028,2027,1474,sarcasm,negative
+I had to break up with my last boyfriend because he was a prick.,1.8759469696969695,0.011496138916228,5280,2210,1515,1555,self-deprecating,negative
+"If you jump up and down, it starts snowing.",1.9423538831064853,0.0114460313149682,4996,1787,1710,1499,incongruity-absurdity,neutral
+"Well it’s clear this is a dream, no one is looking at their phone.",1.873394495412844,0.0113090236050042,4905,1888,1750,1267,sarcasm,neutral
+My fish says you get used to it.,1.90067305731185,0.011124966569091,4903,1755,1880,1268,unknown,neutral
+I want one that snows.,1.8345965225144896,0.0115569928253633,4486,1776,1676,1034,irony,neutral
+Remember when this was just a metaphor?,1.8409605799728137,0.0115850815638633,4414,1714,1688,1012,sarcasm,negative
+Somewhere my hamster is laughing,1.8301441058351051,0.012104789309579,4233,1733,1486,1014,sarcasm,positive
+Really regretting that bean burrito right about now.,1.8629610655737705,0.0131270476832304,3904,1617,1205,1082,sarcasm,negative
+"It's not the vaccine I'm afraid of, it's the needle.",1.860081190798376,0.0128467226227516,3695,1421,1370,904,incongruity-absurdity,negative
+I almost never lose my keys anymore.,1.8089117395029992,0.0125083297947933,3501,1357,1456,688,incongruity-absurdity,positive
+"Excuse me sir, can I bounce something off you?",1.8028985507246376,0.0130806597981073,3450,1425,1280,745,sarcasm,neutral
+Is yours medical or ideological?,1.801349765258216,0.0133472978045093,3408,1440,1205,763,irony,neutral
+"And to think, a year ago we were all stuck inside.",1.846335001471887,0.0129202969883451,3397,1264,1391,742,irony,negative
+She’s going to have a heck of a time cleaning up after her dog.,1.810529537802265,0.0138600366013589,3267,1393,1100,774,sarcasm,positive
+The only thing we have to fear is sphere itself.,1.831979200519987,0.0146383230912834,3077,1316,962,799,wit-surprise,neutral
+Remember when these things contained thoughts?,1.8155371900826447,0.0139692796827637,3025,1223,1137,665,incongruity-absurdity,neutral
+I sense a little surface tension between us.,1.8293253173012691,0.0141877379266289,2994,1201,1103,690,sarcasm,neutral
+I'm looking for a man that thinks outside the bubble.,1.7996491228070175,0.0141798355703375,2850,1159,1103,588,wit-surprise,neutral
+I miss physical contact. And high heels.,1.786061588330632,0.0155014036255893,2468,1052,892,524,sarcasm,neutral
+Never fails that I have to go to the bathroom as soon as I put this on.,1.8175182481751824,0.0154547094179517,2466,992,932,542,self-deprecating,negative
+My goldfish cracks up when I walk in the door.,1.7852485737571313,0.0157951500446492,2454,1071,839,544,incongruity-absurdity,positive
+I liked it better when it was just a metaphor,1.8152709359605912,0.0156396277961076,2436,992,902,542,sarcasm,positive
+"You’re great and all, but we just travel in different circles.",1.7850967476327706,0.0153069166526045,2429,1008,935,486,sarcasm,positive
+Remember how silly we looked when we all had to wear masks?,1.7847682119205297,0.015064335988322,2416,978,980,458,irony,negative
+It’s fine until they add the snowflakes.,1.7818102317446436,0.0164348261723264,2287,1010,766,511,irony,neutral
+Your bubble or mine?,1.7837956847203875,0.0165431403019586,2271,1004,754,513,sarcasm,neutral
+Maybe it would've been easier to just get the vaccine.,1.8026666666666664,0.0159935761028446,2250,913,868,469,sarcasm,negative
+Do you mind if I bounce an idea off you?,1.79009009009009,0.0161583150754364,2220,925,836,459,sarcasm,neutral

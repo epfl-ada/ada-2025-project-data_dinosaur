@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+We’re going down in flames. Going up in smoke is the next car over.,1.999520120655378,0.0064319032516,14587,4451,5715,4406,exaggeration,negative
+"No, the worst part is still the music.",2.0285336488273367,0.0066853772114053,14369,4428,5102,4828,sarcasm,negative
+This is Hell.  For High Water take the elevator to the right.,2.040708211348111,0.0063151332329729,14346,3878,6036,4425,incongruity-absurdity,negative
+So now we know what the 'FIRE' button does.,1.9740023303233325,0.0067875009188499,13732,4538,5007,4172,incongruity-absurdity,neutral
+Kellyanne! We’ve been waiting for you.,2.049980864906238,0.0073127353521011,13065,4297,3842,4923,sarcasm,positive
+You might want to try the stairs. This one only goes down and takes an eternity.,2.238284352660842,0.0064109190571776,12590,2144,5323,5119,sarcasm,neutral
+Seriously?! You're asking whether we're going up or down?,2.0176710844377763,0.0071329278150551,11997,3599,4608,3784,sarcasm,neutral
+Look everyone. The Devil does wear Prada.,1.9441467090939544,0.0073290603451011,11942,4189,4230,3517,sarcasm,neutral
+First trip on a White House elevator?,2.0169737291026952,0.0074403903954318,11724,3744,4057,3920,irony,neutral
+I just pressed 2020,2.078147226173542,0.0075322514232902,11248,3232,3940,4075,irony,neutral
+We're from infernal affairs,1.9510269979370347,0.0073865013911183,11149,3710,4286,3146,sarcasm,negative
+It was this or ride the elevator alone with Trump,1.9461446558220752,0.0078984042352202,10881,4026,3430,3421,irony,neutral
+Sorry—the Stairway to Heaven is down the hall.,1.9738501483679525,0.0073906512261271,10784,3368,4355,3058,unknown,neutral
+"Telling us to 'take the stairs' during a fire is an infringement on our rights! USA! USA! USA!""",1.8934288905435592,0.0081272753692786,10744,4463,2963,3307,sarcasm,negative
+"Observing no one is wearing a mask, Eunice hesitates to enter.",1.9454122030740568,0.0078141447525846,10735,3836,3652,3241,irony,neutral
+You might want to take the stairs. The firefighters are working from home.,1.9060546692788507,0.0077399089199989,10719,4009,3710,2992,sarcasm,neutral
+"No, this is the second circle 'Lust.'  You want 'Greed,' two circles down.  Nice body, by the way.",1.8367873173526883,0.0077695925090455,10471,4303,3561,2595,sarcasm,neutral
+I’ve been told we have the best elevators . Nobody does elevators better than us. They’re fantastic elevators. Probably the greatest elevators in history .,1.9178931061192872,0.0081895538546279,10328,4053,3070,3197,exaggeration,positive
+"Never push 6, 3 times. Never.",1.907897354286851,0.0079129863623265,10054,3685,3612,2746,incongruity-absurdity,negative
+At that point Janet decided that maybe she wasn’t cut out to work for the Trump administration.,1.817388528253698,0.0083740719121662,9397,4127,2856,2399,sarcasm,negative
+"Why yes, this is the Republican-only elevator.  How can you tell?”",1.9059178879069247,0.0086657574219894,8939,3482,2827,2627,sarcasm,neutral
+"Sorry, we are still debating if this thing’s going “Up in flames” or “Down in flames”",1.7952226085006169,0.0080343758965733,8917,3679,3389,1844,sarcasm,negative
+"Yes, of course we’re going down.”",1.7666748406081412,0.0083640208225771,8156,3499,3054,1597,irony,neutral
+Try the stairs. This takes an eternity.,1.8246397143221529,0.0086671745868773,7841,3131,2960,1747,irony,negative
+Times have changed.  We don't use a hand basket anymore.,1.7902483900643975,0.0092313862145654,7609,3436,2328,1834,incongruity-absurdity,neutral
+"Somebody pressed all the buttons, so, we've been to hell and back.",1.8676470588235297,0.0087844550432494,7548,2791,2978,1774,sarcasm,negative
+Your first time in a Trump building?,1.751568894952251,0.0093361862049028,7330,3476,2194,1656,sarcasm,neutral
+"This is the Elevator to Hell.  Stairway to Heaven is at the end of the hall.""",1.7608504398826978,0.0092043401760198,6820,2988,2474,1355,incongruity-absurdity,neutral
+The last White House briefing said something about setting yourself on fire to kill the virus.”,1.757046568627451,0.0098722725638664,6528,3065,1982,1476,exaggeration,neutral
+"Sure, the experts will say there’s a fire, but I’m still skeptical.",1.7721912872584342,0.0099170382957966,6106,2691,2116,1297,exaggeration,neutral

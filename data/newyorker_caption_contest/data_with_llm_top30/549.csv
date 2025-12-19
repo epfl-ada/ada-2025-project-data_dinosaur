@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I admire your restraint.,1.9019963702359344,0.0340185321735302,551,205,195,151,sarcasm,positive
+1,"Above all, we value restraint.",1.8633405639913232,0.0373854599911092,461,184,156,121,wit-surprise,positive
+2,I admire your restraint.,1.7926136363636365,0.0421841213338659,352,154,117,81,sarcasm,positive
+3,OK. NOW we can discuss the election.,1.7723076923076924,0.0445672202936043,325,150,99,76,sarcasm,neutral
+4,"On casual Fridays, it's just handcuffs.",1.7694704049844237,0.0453161284634721,321,151,93,77,incongruity-absurdity,neutral
+5,I see from your resume that you and I went to some of the same institutions.,1.765079365079365,0.0459254662278413,315,150,89,76,sarcasm,neutral
+6,I really admire your restraint,1.735191637630662,0.0468124005864117,287,138,87,62,sarcasm,positive
+7,Your contract includes an escape clause.,1.7142857142857142,0.0479817838959527,266,130,82,54,unknown,neutral
+8,"Yes, actually you DO have to be crazy to work here.",1.7132075471698114,0.0475536129661114,265,128,85,52,sarcasm,negative
+9,Impressive resume. And you seem committed.,1.7121212121212122,0.0483214639686419,264,130,80,54,sarcasm,positive
+10,We expect all our employees to be committed.,1.697211155378486,0.0512766184390707,251,132,63,56,unknown,neutral
+11,I have some good news: We're letting you go.,1.6820083682008369,0.0509797535224628,239,124,67,48,sarcasm,positive
+12,Production is low of course but employee theft is down to zero.,1.679324894514768,0.0513753994312695,237,124,65,48,incongruity-absurdity,negative
+13,I've still got my eye on that padded corner office.,1.6779661016949152,0.0479521909491065,236,114,84,38,incongruity-absurdity,neutral
+14,We're really looking for someone who's committed.,1.676595744680851,0.0499902293773632,235,119,73,43,incongruity-absurdity,neutral
+15,"Well, you did agree to binding arbitration.",1.6752136752136753,0.0505492809340184,234,120,70,44,sarcasm,neutral
+16,Tell me about a difficult situation you've been in and what you did to get out of it.,1.6738197424892705,0.0496417348918585,233,117,75,41,self-deprecating,neutral
+17,"So, no words per minute then?",1.670995670995671,0.0500321129692718,231,117,73,41,sarcasm,neutral
+18,That's five minutes without social media. Let's try for five more.,1.6666666666666667,0.053595268366739,228,125,54,49,self-deprecating,neutral
+19,Well this is embarrassing. We wore the same outfit today.,1.6666666666666667,0.0517613608591046,228,120,64,44,incongruity-absurdity,negative
+20,The best part is that they never ask us to get coffee.,1.6666666666666667,0.0494710147662937,228,114,76,38,sarcasm,positive
+21,You're probably wondering how I called this meeting.,1.6651982378854626,0.0527137824252316,227,122,59,46,wit-surprise,neutral
+23,"I'd help you, but my hands are tied.",1.6545454545454543,0.0561208768045698,220,127,42,51,incongruity-absurdity,negative
+25,I can see you're committed.,1.6465116279069767,0.0521510528464733,215,114,63,38,sarcasm,positive
+24,"Productivity may be down, but so are sexual harassment claims.",1.6495327102803738,0.0518862226314955,214,112,65,37,irony,negative
+26,I prefered the nicotine patches.,1.6415094339622642,0.0510890773554146,212,110,68,34,unknown,neutral
+27,Can you describe a tough situation you dealt with in the past and how you managed to get out of it?,1.6415094339622642,0.0510890773554146,212,110,68,34,self-deprecating,neutral
+28,"I could have sworn he said we needed to be ""retrained.""",1.6394230769230769,0.0527831701591885,208,111,61,36,wit-surprise,neutral
+29,"Yes, you do have to be crazy to work here.",1.635922330097087,0.0514286022645491,206,107,67,32,self-deprecating,negative
+30,There's been too much finger pointing around here.,1.6341463414634143,0.0521101763886456,205,108,64,33,unknown,negative

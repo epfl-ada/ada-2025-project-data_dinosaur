@@ -1,0 +1,202 @@
+[
+  {
+    "term": "man",
+    "count": 596
+  },
+  {
+    "term": "woman",
+    "count": 244
+  },
+  {
+    "term": "people",
+    "count": 180
+  },
+  {
+    "term": "sitting",
+    "count": 170
+  },
+  {
+    "term": "talking",
+    "count": 158
+  },
+  {
+    "term": "looking",
+    "count": 140
+  },
+  {
+    "term": "standing",
+    "count": 128
+  },
+  {
+    "term": "looks",
+    "count": 106
+  },
+  {
+    "term": "room",
+    "count": 98
+  },
+  {
+    "term": "men",
+    "count": 88
+  },
+  {
+    "term": "table",
+    "count": 80
+  },
+  {
+    "term": "couple",
+    "count": 72
+  },
+  {
+    "term": "giant",
+    "count": 70
+  },
+  {
+    "term": "look",
+    "count": 68
+  },
+  {
+    "term": "office",
+    "count": 68
+  },
+  {
+    "term": "wearing",
+    "count": 66
+  },
+  {
+    "term": "having",
+    "count": 64
+  },
+  {
+    "term": "holding",
+    "count": 62
+  },
+  {
+    "term": "outside",
+    "count": 56
+  },
+  {
+    "term": "walking",
+    "count": 54
+  },
+  {
+    "term": "inside",
+    "count": 52
+  },
+  {
+    "term": "huge",
+    "count": 48
+  },
+  {
+    "term": "restaurant",
+    "count": 46
+  },
+  {
+    "term": "watching",
+    "count": 46
+  },
+  {
+    "term": "face",
+    "count": 44
+  },
+  {
+    "term": "living",
+    "count": 44
+  },
+  {
+    "term": "staring",
+    "count": 44
+  },
+  {
+    "term": "doctor",
+    "count": 42
+  },
+  {
+    "term": "couch",
+    "count": 40
+  },
+  {
+    "term": "dog",
+    "count": 38
+  },
+  {
+    "term": "head",
+    "count": 38
+  },
+  {
+    "term": "like",
+    "count": 38
+  },
+  {
+    "term": "person",
+    "count": 38
+  },
+  {
+    "term": "waiter",
+    "count": 38
+  },
+  {
+    "term": "bunch",
+    "count": 36
+  },
+  {
+    "term": "carrying",
+    "count": 36
+  },
+  {
+    "term": "caveman",
+    "count": 36
+  },
+  {
+    "term": "large",
+    "count": 36
+  },
+  {
+    "term": "cave",
+    "count": 34
+  },
+  {
+    "term": "king",
+    "count": 34
+  },
+  {
+    "term": "fish",
+    "count": 32
+  },
+  {
+    "term": "house",
+    "count": 32
+  },
+  {
+    "term": "angry",
+    "count": 30
+  },
+  {
+    "term": "bar",
+    "count": 30
+  },
+  {
+    "term": "door",
+    "count": 30
+  },
+  {
+    "term": "ground",
+    "count": 30
+  },
+  {
+    "term": "island",
+    "count": 30
+  },
+  {
+    "term": "appears",
+    "count": 28
+  },
+  {
+    "term": "boy",
+    "count": 28
+  },
+  {
+    "term": "building",
+    "count": 28
+  }
+]

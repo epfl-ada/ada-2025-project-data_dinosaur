@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+221,"Happy accident. We thought the realtor said 'tract' home, but we've come to love the convenient commute.",1.4679802955665024,0.0480162672002523,203,130,51,22,incongruity-absurdity,positive
+112,"I want to hear all about the kids, and we have about the next seven minutes.",1.5024875621890548,0.0499374624375242,201,125,51,25,sarcasm,neutral
+3793,He gets home from work in no time.,1.2686567164179106,0.0371538877636787,201,155,38,8,incongruity-absurdity,positive
+3832,"Yes, right down the middle...  Come, let me show you the bedroom.",1.2676767676767675,0.0388303623373995,198,155,33,10,incongruity-absurdity,neutral
+3452,The place where the train stops was cheaper but Jack and I decided to pay more for extra privacy.,1.2777777777777777,0.0391293173587012,198,153,35,10,incongruity-absurdity,neutral
+3961,"And then I said to myself, ""Why not try living on both sides of the track.""",1.263959390862944,0.0374917069027137,197,153,36,8,incongruity-absurdity,neutral
+5228,He takes his work home with him.,1.2284263959390862,0.0340324873974106,197,157,35,5,unknown,neutral
+1223,"Well, it's cut my commute in half... so that's the positive.",1.3604060913705585,0.0441933255553084,197,141,41,15,exaggeration,positive
+5054,"When I signed up for the meal-train, I didn't read the small print.",1.233502538071066,0.0385088268233553,197,162,24,11,unknown,neutral
+3862,You're definitely on the right track,1.2666666666666666,0.0385205292610683,195,152,34,9,sarcasm,positive
+1795,Kevin? I've completely lost track of him.,1.3333333333333333,0.044028363401989,195,145,35,15,sarcasm,negative
+1788,"The dirty, railcar hobo sex was worth the compromise alone.",1.3333333333333333,0.0434238262910167,195,144,37,14,irony,neutral
+2186,I was railroaded into this relationship.,1.317948717948718,0.0431042296040528,195,147,34,14,incongruity-absurdity,negative
+2905,Once our solar is installed we will be upgrading to a third rail.,1.2938144329896908,0.0394437368769099,194,146,39,9,incongruity-absurdity,neutral
+6952,Told him a million times I spell it KC Jones not Casey!,1.1597938144329898,0.0283280475820019,194,165,27,2,unknown,neutral
+821,I'm so glad the MTA is adding more local stops.,1.38659793814433,0.0467994831176983,194,137,39,18,sarcasm,positive
+6220,He's taking this hobo thing a little too far.,1.1958762886597938,0.0329118118199325,194,161,28,5,sarcasm,negative
+1764,"No,we prefer flying.",1.3350515463917525,0.0404364474697457,194,138,47,9,irony,neutral
+5287,"Sorry to railroad you like this, but your fence is in fact touching our property line",1.2268041237113405,0.0379839614833556,194,160,24,10,sarcasm,negative
+2235,The divorce papers are in the mail.,1.3160621761658031,0.0433760564935211,193,146,33,14,sarcasm,neutral
+512,What did you think a railroad apartment was?,1.4145077720207253,0.0467070258178545,193,130,46,17,unknown,neutral
+619,"He said he wanted the ""big boy"" train set.",1.4041450777202074,0.0454292174009072,193,130,48,15,incongruity-absurdity,neutral
+4482,I know we just met. I was railroaded.,1.2487046632124352,0.036014090089269,193,151,36,6,sarcasm,neutral
+294,How was I to know what size a standard gauge ‘train set’ is?,1.453125,0.0499722122282228,192,127,43,22,irony,neutral
+3158,He says it reminds him that my father railroaded him into marrying me.,1.2864583333333333,0.0415283891164015,192,149,31,12,irony,neutral
+654,Of course the in laws had to out shine Santa with Billy's train set,1.4010416666666667,0.0490195627293576,192,136,35,21,irony,neutral
+5726,The station manager has a crush on me.,1.2135416666666667,0.0322937777275383,192,154,35,3,sarcasm,neutral
+1769,You might say I got railroaded into it.,1.3333333333333333,0.0463156833558965,192,146,28,18,unknown,neutral
+830,I liked it better as a xylophone.,1.3854166666666667,0.0471363544917936,192,136,38,18,incongruity-absurdity,positive
+5385,Doesn't it seem like just yesterday when he outgrew his first little Brio set?,1.2239583333333333,0.0351735412118486,192,155,31,6,unknown,neutral

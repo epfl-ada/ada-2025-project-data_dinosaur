@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Three yea's, six ney's, and Anderson is still up in the air on this one.",1.9993946731234864,0.0136387190510706,3304,1016,1274,1014,irony,neutral
+2,"I think you fail to recognize the gravity of our situation, Atkins.",1.8924345643599856,0.0150179539916983,2789,1043,1003,743,sarcasm,negative
+1,He's been suspended indefinitely.,1.9678044996121025,0.0157801858824083,2578,870,921,787,irony,negative
+6,This is no time for levity.,1.785546875,0.0152286594309796,2560,1093,923,544,wit-surprise,negative
+4,The memo said to 'expect incoming male' but we had assumed it was a typo,1.808888888888889,0.0156651618121984,2475,1033,882,560,sarcasm,neutral
+3,"Reynolds, this is no time for levity!",1.8153446033810143,0.0160903920876465,2307,941,851,515,sarcasm,negative
+8,At this time I'd like to turn it over to Mr. Thompson from our satellite office.,1.758193091231178,0.0162393107637297,2258,1011,782,465,incongruity-absurdity,neutral
+7,"Davis, you idiot! It's not that kind of office pool!",1.7662459093034129,0.0169450733818202,2139,965,709,465,sarcasm,negative
+5,He doesn't seem to realize the gravity of the situation here.,1.7863247863247864,0.017868787384048,1755,719,692,344,wit-surprise,negative
+12,Not what I had in mind when I said feel free to jump in anytime ..,1.675257731958763,0.0174981039458406,1746,842,629,275,sarcasm,neutral
+13,"How high, Boss?",1.670411985018727,0.0194871149324759,1602,838,454,310,sarcasm,neutral
+11,You are suspended until further notice,1.6780776826859776,0.0196857490286255,1519,770,468,281,sarcasm,negative
+9,I asked Ted to drop in on this meeting.,1.737748344370861,0.0192703747735952,1510,673,560,277,unknown,neutral
+14,"If he sticks the dismount, I say we have our new chairman!",1.6615502686108978,0.0210222261347683,1303,670,404,229,wit-surprise,neutral
+10,"Apparently, you don't understand the gravity of the situation.",1.6802656546489565,0.0228059044965881,1054,511,369,174,sarcasm,negative
+15,You said to jump right in.,1.6030701754385963,0.0261078462095794,912,536,202,174,sarcasm,neutral
+18,Who knew you could order an executive from Amazon.,1.5897435897435896,0.0274162473424722,780,454,192,134,exaggeration,neutral
+19,"Jack be nimble, Jack be quick, Jack be an idiot.",1.5876152832674573,0.0289423372002515,759,462,148,149,wit-surprise,neutral
+20,"No, no... the speakerphone button is on the left. That's the eject button.",1.5820029027576197,0.0282988575153465,689,394,189,106,sarcasm,neutral
+21,If I may jump in for a second...,1.5754857997010463,0.0268192912282812,669,363,227,79,irony,neutral
+17,If I could just jump in here for a second....,1.5958795562599049,0.0280128337740366,631,335,216,80,wit-surprise,neutral
+16,"And with this simple technique, we can now re-accommodate our passengers into overhead compartments.",1.5971107544141252,0.0308949968745522,623,361,152,110,wit-surprise,positive
+24,"Yup, ANOTHER giant leap for man, kinda.",1.567699836867863,0.0323430474517951,613,386,106,121,irony,neutral
+25,I’m from the oversight committee.,1.56738768718802,0.0280401027425106,601,328,205,68,sarcasm,neutral
+26,"How high, Boss?",1.5659432387312189,0.0310410885176231,599,359,141,99,sarcasm,neutral
+23,The motion to limit Briggs to 3 cappuccinos is seconded.,1.568561872909699,0.0291179325268933,598,336,184,78,sarcasm,neutral
+27,There he goes. Jumping to conclusions again.,1.5634517766497462,0.0291047488302654,591,333,183,75,sarcasm,negative
+28,"""WOW !!! New bullet-speed escalator !!!",1.5613126079447324,0.0326415874453939,579,361,111,107,sarcasm,positive
+29,"Some of you may already know Bob, our vertical integration expert.",1.55078125,0.0318064263420234,512,299,144,69,wit-surprise,neutral
+30,Everyone should feel free to jump right in if you have anything to add.,1.5481335952848725,0.0294375603095305,509,279,181,49,sarcasm,positive

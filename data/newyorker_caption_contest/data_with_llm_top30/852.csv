@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You're sitting on my side salad.,1.6412989588497768,0.0116232557595192,4034,2082,1317,635,sarcasm,neutral
+"Tomorrow, I’m getting the sushi boat.",1.541014570966001,0.0132050292044637,3706,2438,531,737,irony,neutral
+She wanted her own little slice of paradise.,1.5330783938814532,0.0133971971494933,2615,1509,818,288,unknown,neutral
+I’m spending the summer in Mexico. I have a quesadilla there.,1.6326137239784118,0.015542630402454,2594,1464,619,511,incongruity-absurdity,positive
+And the best part is the flies come to me.,1.6338582677165354,0.015268690840664,2540,1387,696,457,self-deprecating,positive
+You try cooking for a thousand tadpoles.,1.5825283494330111,0.0150938672344835,2381,1350,675,356,incongruity-absurdity,neutral
+I heard that princesses like guys with lots of dough.,1.5992812219227313,0.0162543288457482,2226,1279,560,387,wit-surprise,neutral
+"Italian design, right on the lake, and the price was right.",1.621218961625282,0.0160367653213133,2215,1209,636,370,incongruity-absurdity,positive
+Dinner? I'm on it.,1.6405594405594406,0.0162465176999845,2145,1131,654,360,incongruity-absurdity,neutral
+It’s my bachelor pad.,1.507785032646911,0.0160420177305802,1991,1241,489,261,incongruity-absurdity,neutral
+"But unfortunately, now I have to choose between being hungry or homeless.",1.5842405391394505,0.016966257837704,1929,1103,525,301,exaggeration,negative
+They threw in a side order of flies.,1.5934182590233543,0.0168275923477326,1884,1041,568,275,incongruity-absurdity,neutral
+"I got flies on one half,  just how you like it.",1.565217391304348,0.0169009182948585,1817,1038,531,248,incongruity-absurdity,neutral
+"Next time, I want to try the Pad Thai.",1.6332394366197185,0.0180881012328115,1775,960,506,309,unknown,positive
+Do you like what I’ve done with the pad?,1.5722444317532838,0.0170674657177623,1751,981,538,232,incongruity-absurdity,neutral
+I got tired of Pad Thai.,1.6857142857142855,0.0189846217886738,1750,913,474,363,unknown,negative
+I’m almost croaked when I heard they delivered.,1.5556199304750868,0.0173297697183993,1726,1001,491,234,irony,neutral
+And I thought mine was plain.,1.4997084548104955,0.0185615236773996,1715,1150,273,292,incongruity-absurdity,neutral
+I find the Italian model gives me a smoother ride.,1.5266946610677865,0.016967614875185,1667,981,494,192,incongruity-absurdity,positive
+"I gotta say, it sure does attract flies.",1.520506634499397,0.0169553129528178,1658,983,487,188,unknown,neutral
+Flies were extra.,1.5595166163141994,0.0173487119036292,1655,937,510,208,incongruity-absurdity,neutral
+It was a special offer so I jumped on it.,1.6567616737416615,0.0182561733720144,1649,833,549,267,unknown,positive
+"New York is great, but I do miss Chicago.",1.527534418022528,0.0177747861067255,1598,959,435,204,unknown,positive
+"It's OK, as long as I don't sit on the Jalapenos.",1.739321608040201,0.0199374203282336,1592,765,477,350,incongruity-absurdity,neutral
+You catch more flies with pizza.,1.578252671275927,0.0180918714996301,1591,891,480,220,unknown,negative
+"Nah, I hate it.  But all my favorite foods love it.",1.5347355003186742,0.0176494444358308,1569,918,463,188,incongruity-absurdity,negative
+"I don’t know what it is but the moon is really hitting your eye, tonight.",1.5121794871794871,0.017997574229323,1560,960,401,199,sarcasm,neutral
+"Before I croak, I just want my piece of the pie",1.5205655526992288,0.017468626736463,1556,921,460,175,exaggeration,neutral
+I’m from across the pond.,1.563425627817128,0.0181957750965157,1553,886,459,208,wit-surprise,neutral
+It's a starter pad. I'm hoping to upgrade to deep dish.,1.6150356448476992,0.0187147342357614,1543,828,481,234,incongruity-absurdity,positive

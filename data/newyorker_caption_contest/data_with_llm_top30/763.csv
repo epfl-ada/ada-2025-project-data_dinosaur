@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You can use the loaner corn dog while you wait. Can you drive a stick?,1.8899966766367564,0.010878482707221,6018,2513,1656,1849,incongruity-absurdity,neutral
+How long have you been driving with the Check Condiment light on?,1.816901408450704,0.0114488802399245,4757,1998,1632,1127,sarcasm,neutral
+I can give you a ballpark estimate.,1.8114149305555556,0.0114251600264704,4608,1901,1673,1033,wit-surprise,neutral
+When does it knock worst?,1.8161862527716184,0.0122600494877561,4510,2019,1301,1190,unknown,neutral
+I’ll give you a ballpark figure.,1.7957905286895517,0.0122062466032445,3991,1680,1446,863,unknown,neutral
+"Yeah, we’ve got the part you need, but its only sold in packages of eight.",1.8133756278086175,0.0129631415912545,3783,1621,1247,915,incongruity-absurdity,neutral
+So when did the ‘check mustard’ light come on?,1.7792171995589856,0.0130243050783503,3628,1605,1219,803,sarcasm,neutral
+To be honest with you nobody knows what's inside these things.,1.7817076540480796,0.0129727720783544,3619,1583,1243,793,unknown,negative
+Everything looks kosher.,1.789871944121071,0.0129857777050258,3436,1432,1294,710,irony,neutral
+Everything looks kosher to me.,1.7727807172251615,0.0130265509624153,3402,1456,1262,683,sarcasm,neutral
+"Yeah, everything looks kosher.",1.8050520059435364,0.0131857431066695,3365,1376,1269,720,sarcasm,positive
+"Actually, it creates its own gas.",1.791803769069698,0.0138951509025648,3343,1499,1041,803,incongruity-absurdity,negative
+There’s a teenie-weenie problem.,1.7804656788630178,0.0136351327447763,3307,1459,1115,733,unknown,negative
+"Topped off the condiments,steamed your buns and rotated the dog.",1.8112593556784904,0.0143373320153542,3073,1315,1023,735,incongruity-absurdity,neutral
+How long has your check mustard light been on?,1.772879091516366,0.0139488664389168,2994,1289,1096,609,sarcasm,neutral
+"You should have seen the last guy, he was driving a lemon.",1.792984869325997,0.0146703886757463,2908,1273,964,671,unknown,neutral
+How long has the “Check Condiments” light been on?,1.863588667366212,0.0146546540649707,2859,1099,1051,709,unknown,neutral
+I can only give you a ball park estimate.,1.8387096774193548,0.0143989388234917,2852,1110,1092,650,unknown,neutral
+"Unfortunately, ordering parts is difficult because no one knows what these things are made of.",1.7694736842105263,0.0146537179268771,2850,1276,955,619,incongruity-absurdity,negative
+I can’t give you an exact estimate but I can give you a ballpark.,1.7547838412473422,0.0145886949359054,2822,1278,958,586,wit-surprise,neutral
+I'm gonna need to put it up on the grill.,1.787668734038672,0.0147430242680614,2741,1169,985,587,incongruity-absurdity,neutral
+"Sure, it's drivable, but come back if the knock gets wurst.",1.777615215801024,0.015149085148109,2734,1229,884,621,incongruity-absurdity,neutral
+You can’t use Dijon on these American models.,1.7912713472485768,0.0147557968787516,2635,1088,1009,538,irony,negative
+"To be safe, I suggest you stay off the main arteries",1.7459438068856352,0.015334018928766,2527,1153,863,511,incongruity-absurdity,neutral
+"Trust me, I've seen wurst.",1.7614192495921697,0.0153790989042999,2452,1073,891,488,unknown,neutral
+It's going to need the works.,1.7643630308076603,0.0156727626031205,2402,1058,852,492,incongruity-absurdity,neutral
+"Well, you’re low on oil and high in saturated fat.",1.7767780634104542,0.0160041575721911,2334,1016,823,495,sarcasm,neutral
+"You need eight spark plugs, but they're sold in packs of ten.",1.7411918225315357,0.0167090922635174,2299,1112,670,517,incongruity-absurdity,neutral
+I should've checked this before we left the deli.,1.7397260273972603,0.0176668391164607,2263,1170,512,581,exaggeration,neutral
+I am assuming you want me to be frank with you.,1.7737089201877934,0.01659552578596,2130,920,772,438,sarcasm,neutral

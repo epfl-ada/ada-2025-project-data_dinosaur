@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"We have them between all tables, it encourages social distancing.",2.108550979407333,0.0058147102081091,15928,3535,7139,5250,sarcasm,neutral
+He’s acting up because your purse was somebody he knew,2.10674452171631,0.0061377505996016,15242,3665,6293,5281,sarcasm,negative
+You can tell whether it's an alligator or a crocodile by whether you see it later or after a while.,2.0733408482457376,0.0068983302747463,14194,4339,4488,5364,incongruity-absurdity,neutral
+"No, you can't have another customer. You haven't finished the last one.",2.0276993513925983,0.0068398090254026,13105,3876,5003,4220,wit-surprise,negative
+"We asked the flooring company for red tiles, but it autocorrected to rep-tiles.",2.024167987321712,0.0070167062930424,12620,3796,4730,4083,incongruity-absurdity,neutral
+"We used to have customers who would sit here 
+for three hours and just use our wifi. They're gone.",2.0206416513321064,0.006773782407839,12499,3488,5274,3730,irony,negative
+"Oh, lots of reasons. These days though it’s mostly guarding the toilet paper.",2.0063780093424364,0.0072741776721919,11132,3274,4520,3329,sarcasm,neutral
+Your odds of dying from the coronavirus just went down.,1.914120231675654,0.0078457073058862,10014,3561,3745,2699,exaggeration,negative
+Not again...no one wants to hear how you got flushed down the toilet when you were little.,1.950814296644442,0.0082957625846467,9149,3121,3359,2669,self-deprecating,negative
+THIS is what happens when you drain the swamp.,1.979071068830442,0.0083233029347493,8935,2863,3397,2675,irony,negative
+"... Technically, yes, but he identifies as a crocodile.",1.8828884241604136,0.0086725410775962,8129,3027,3028,2068,incongruity-absurdity,neutral
+I wouldn't worry -- he's just eaten. In fact that's how your table became available.,1.870004995004995,0.0085803521778354,8008,2957,3130,1915,sarcasm,neutral
+So remind me who ordered the tofu salad and who ordered the three raw chickens?,1.8775458570524983,0.0087862819458835,7905,2967,2942,1993,sarcasm,neutral
+Moats between tables is why we're allowed to stay open.,1.8145295854190733,0.0083582884348721,7791,2991,3250,1540,sarcasm,neutral
+"I’m sorry, unless it’s an emotional support alligator, I’m afraid it has to wait outside.",1.8293080054274085,0.0090705089474733,7370,2975,2677,1714,sarcasm,negative
+We took him in after the president drained the swamp.,1.7813645334085142,0.0092075604677422,7094,3093,2459,1534,irony,neutral
+Let’s just say he’ll have what you’re having.,1.8278892632195691,0.0093783983352387,6827,2740,2510,1564,sarcasm,neutral
+I have a reptile disruption.,1.7252027448534,0.0100788405824275,6412,3223,1723,1458,exaggeration,neutral
+"If you'd like him to leave he responds to ""see ya later""",1.8583916083916083,0.0096037627489928,6292,2333,2515,1443,sarcasm,neutral
+It’s our way of encouraging social distancing.,1.9096,0.0093657722175097,6250,2021,2772,1456,sarcasm,neutral
+"No, those are real tears.",1.7839465971996094,0.0097428290126174,6142,2605,2262,1273,self-deprecating,negative
+"Say what you will, but the big fella has increased our to-go business by 50%.",1.8328934345100627,0.009395970433472,6062,2212,2648,1200,incongruity-absurdity,positive
+"I need the truth, Harry.  Is her date more than 30 minutes late, or was he a bit early ...?",1.8384629069560576,0.0105698989143631,5621,2291,1945,1384,sarcasm,neutral
+“Lighten up! Her shoes are called Crocs. Don’t take it so personal.”,1.7657426106113456,0.0101217149180856,5447,2343,2046,1049,sarcasm,neutral
+Cups go in the trash. Bowls and flatware in the recycling. Compost in the alligator.,1.8545741948231576,0.0103871018720017,5061,1803,2191,1067,incongruity-absurdity,negative
+He says he wouldn't want to be in your shoes,1.8200685069514408,0.0110892059470491,4963,2041,1773,1148,sarcasm,negative
+You may want to finish up. At happy hour this place is a zoo.,1.809098294069862,0.0109160668057559,4924,2004,1856,1064,sarcasm,neutral
+Complaints go in the box behind the alligator.,1.8812732342007432,0.0118127831744996,4304,1578,1659,1067,incongruity-absurdity,neutral
+"Dude, cough into your elbow",1.7797800140416569,0.0119660789726867,4273,1881,1452,940,sarcasm,negative
+"You know, our food disposal is 100% environmentally friendly.",1.682138517618469,0.011212254568792,4115,1931,1563,621,irony,positive

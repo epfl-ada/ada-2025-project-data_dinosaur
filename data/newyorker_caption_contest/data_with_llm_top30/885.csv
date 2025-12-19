@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Oh my God! My butt is huge.,1.66606225445754,0.0143115460731071,3309,1858,698,753,self-deprecating,positive
+Just give me a moment to collect myself.,1.6399132321041214,0.0138041226783012,2766,1406,950,410,self-deprecating,neutral
+Don't feel bad. In a few weeks it'll be like this never happened.,1.6333078686019862,0.0146974025216082,2618,1396,786,436,self-deprecating,negative
+I shouldn’t have warmed up.,1.6436825885978428,0.0149983516766064,2596,1385,751,460,self-deprecating,negative
+"Well, technically, I was out cold before the punch.",1.6066089693154997,0.0148823106666087,2542,1412,718,412,self-deprecating,neutral
+I’m technically still standing,1.6478484011054086,0.0147633739466297,2533,1302,821,410,self-deprecating,neutral
+"My whole life flashed before my eyes. Monday, Tuesday, all of it.",1.6730386300278774,0.0158560414833079,2511,1337,658,516,unknown,neutral
+I just need a second to get my head back in the game.,1.6059749697214372,0.0148662172447092,2477,1358,737,382,self-deprecating,neutral
+Give me a moment to collect myself.,1.659678858162355,0.0157056393147101,2242,1131,743,368,self-deprecating,neutral
+"I saw that left hook coming at me, but I just froze.",1.6335841956726247,0.0162540432325418,2126,1129,647,350,wit-surprise,neutral
+I should have quit while I was a head.,1.5942168674698796,0.0168531433921186,2075,1203,511,361,unknown,negative
+Something feels off,1.614975845410628,0.0163873652346587,2070,1127,613,330,self-deprecating,negative
+Part of me thinks this was a bad idea.,1.5956500247157686,0.0160310798420042,2023,1097,644,282,self-deprecating,negative
+You’re still not getting the hat back.,1.5729166666666667,0.0169231660550698,1824,1032,539,253,sarcasm,negative
+Please tell me the dog isn't out.,1.651073197578426,0.0180813619270971,1817,967,517,333,sarcasm,negative
+That’s not what I meant when I told you to knock it off,1.6091954022988506,0.0183983628787731,1740,985,450,305,sarcasm,negative
+"Okay,Okay ! Keep the scarf.",1.543465405085748,0.0172214162519641,1691,986,491,214,sarcasm,neutral
+I wasn't built for this.,1.5360333531864203,0.0172008420178283,1679,987,484,208,self-deprecating,negative
+"OK you win, but in a few weeks this'll all be water under the bridge",1.6228179551122195,0.019250102191092,1604,893,423,288,sarcasm,neutral
+"Time out, I sneezed.",1.591337099811676,0.0185531589357713,1593,895,454,244,incongruity-absurdity,negative
+He's got a dark sense of humor for a six-year-old.,1.5743329097839898,0.0191587937664185,1574,932,380,262,sarcasm,negative
+It's March. We're both going to lose.,1.6091731266149871,0.0186006730067809,1548,835,483,230,sarcasm,negative
+I don't know if my medical insurance covers freezer burn.,1.5281124497991967,0.0212404001140062,1494,1022,155,317,exaggeration,negative
+"You know the rules, nothing above the scarf",1.5563139931740615,0.0185699315538759,1465,839,437,189,irony,neutral
+"If we took this inside, I’d mop the floor with you.",1.580158159597412,0.0196269345360233,1391,787,401,203,unknown,negative
+I feel oddly liberated.,1.518167456556082,0.0220985648870832,1266,843,190,233,self-deprecating,positive
+"Christmas is great. Boxing Day, not so much.",1.5802371541501976,0.0206238376223843,1265,717,362,186,incongruity-absurdity,positive
+Usually you just talk my head off.,1.5608766233766234,0.0209153224694252,1232,721,331,180,self-deprecating,negative
+"You’re fine, put some ice on it.",1.6129827444535745,0.0213840905182234,1217,665,358,194,sarcasm,neutral
+'Just put ice on it' is your answer to everything.,1.5122362869198311,0.0204381072039528,1185,723,317,145,sarcasm,negative

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Just keep walking and act illiterate.,1.962162690653109,0.0079615745763694,10228,3516,3583,3129,sarcasm,negative
+Just play it cool and whatever you do don’t say the movie was better .,1.9544696300657445,0.0078681378677086,10191,3457,3741,2993,sarcasm,neutral
+"Be careful, the one behind us is unabridged.",1.9895136322780385,0.0079549160192822,10013,3225,3668,3120,incongruity-absurdity,neutral
+They all appear to be runaway bestsellers.,1.917245545152522,0.0079121446958,9933,3533,3689,2711,exaggeration,neutral
+"Uh-oh, it’s a novel virus.",1.8888888888888888,0.0082213137151742,9648,3741,3238,2669,exaggeration,negative
+These must be the rough drafts.,1.9332077051926295,0.0080699774969946,9552,3311,3568,2673,incongruity-absurdity,negative
+Don't give them anything. It only encourages sequels.,1.9930108114011136,0.008379882022488,9157,2976,3269,2912,sarcasm,negative
+I wish they'd stop calling us 'spineless.',1.852738602820597,0.0082446626021851,9147,3616,3262,2269,sarcasm,negative
+I suppose this is what the librarian meant by delinquent books.,1.936257634647418,0.0082923739071927,9005,3093,3393,2519,incongruity-absurdity,neutral
+"For God’s sake Ethel, give them your Kindle.",1.8939997722873736,0.0085270339980367,8783,3319,3076,2388,sarcasm,neutral
+All Stephen King novels... I don’t see this ending well.,1.930665425779432,0.0085829211083136,8596,3040,3112,2444,sarcasm,negative
+we're literally surrounded,1.9745672907099965,0.0089494651191537,8493,2999,2711,2783,irony,negative
+This is textbook harassment.,1.9459882112354143,0.0089174823866434,8313,2984,2794,2535,unknown,negative
+The classics can be so intimidating.,1.8924432641236115,0.0083159500598158,8284,2901,3387,1996,unknown,negative
+"Don't worry — they're not street smart, just book smart.",1.9469232655062516,0.0087733096720515,8158,2789,3013,2356,sarcasm,negative
+Just ignore them and they'll go out of print.,1.869614087673286,0.008638678275208,8007,2982,3087,1938,sarcasm,negative
+"Get a Kindle, you said. The books won't mind, you said.",1.8727432296890671,0.0088383122753616,7976,3059,2874,2043,sarcasm,neutral
+Hand over the Kindle and no one gets hurt.,1.8934581804378083,0.0090318643164469,7903,3013,2719,2171,sarcasm,neutral
+I wish the library would just go back to charging late fees.,1.9447191581082792,0.0091135711366094,7887,2813,2697,2377,sarcasm,negative
+"I hated not finishing them, but I figured, what’s the worst that could happen?",1.8640529531568228,0.0087242398546009,7856,2955,3014,1887,self-deprecating,negative
+That big one scares the Dickens out of me.,1.9440977639105563,0.0091120576216625,7692,2683,2756,2253,incongruity-absurdity,negative
+I can't tell what they want.  They're hard to read.,1.9416163736552088,0.0088007254821905,7622,2485,3097,2040,unknown,negative
+These are the worst of tomes.,1.8624901497241924,0.0091443612936526,7614,3019,2623,1972,unknown,negative
+"Give us your Kindle, and no one gets hurt.",1.874242024782494,0.0091866322145253,7586,2965,2610,2011,sarcasm,neutral
+I've always felt uncomfortable in literary circles.,1.9462076385153309,0.0090143215738347,7436,2457,2922,2057,wit-surprise,negative
+"Don't judge them, dear. You don't know their stories.""",1.9080172294011393,0.0090961900845231,7197,2504,2851,1842,unknown,neutral
+They are bound and determined.,1.9379888268156424,0.0093430347522949,7160,2473,2658,2029,wit-surprise,neutral
+"Normally, I like when books come to life.",1.8922450126440011,0.0090208000707966,7118,2486,2913,1719,unknown,positive
+I like books that are a little less demanding.,1.8544366899302096,0.0089604091246391,7021,2564,2915,1542,wit-surprise,positive
+"Careful, they look like hardbacks.",1.8698895423899011,0.0092674389112679,6971,2599,2680,1692,unknown,neutral

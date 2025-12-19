@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I’m referring you to another therapist. I’m afraid I can’t see you any longer.,1.8979973297730308,0.0131891006771222,3745,1430,1267,1048,sarcasm,negative
+"And just when I finally got comfortable in my own skin, she repainted the bedroom.",1.938722294654498,0.0147547303285527,3068,1124,1008,936,self-deprecating,neutral
+"If you’re still here, your time is up.",1.882133152173913,0.0151098485031029,2944,1183,925,836,sarcasm,negative
+"Yes, that’s impressive, but I’m talking about changing who you are on the inside.",1.8525179856115108,0.0154391365295047,2780,1156,878,746,self-deprecating,positive
+"No, wait! I can change!",1.8478812024628757,0.0152925363695283,2761,1133,915,713,self-deprecating,neutral
+Patient failed to show for yet another session…,1.8870836718115351,0.0164351121134763,2462,973,794,695,sarcasm,negative
+Hmm.  I'm beginning to see a pattern.,1.8397108843537415,0.016992181780251,2352,1017,695,640,self-deprecating,neutral
+"It's like, why's it always me that has to change?",1.8407239819004524,0.0168855596033441,2210,900,762,548,self-deprecating,negative
+And my father was almost never around... I think.,1.8458870168483648,0.0180156330281049,2018,840,649,529,self-deprecating,negative
+This seems to be a recurring pattern with you.,1.836146971201589,0.0171751677435409,2014,790,764,460,sarcasm,negative
+"On the plus side, you seem to have no trouble fitting in",1.8295511850731216,0.0170338647423243,1983,768,785,430,sarcasm,positive
+I see you've been struggling with a reptile dysfunction,1.8278350515463917,0.0188774417418616,1940,866,542,532,sarcasm,negative
+You really shouldn’t let your background define you.,1.8489583333333333,0.0182279452865103,1920,779,652,489,self-deprecating,neutral
+I prefer the old couch.It looked better on me,1.8545168067226891,0.0182946468078058,1904,765,651,488,self-deprecating,positive
+It’s like she doesn’t even know I’m there. I may as well  be part of the furniture.,1.8641509433962264,0.0181726230047646,1855,711,685,459,self-deprecating,negative
+So tell me a little bit about your background.,1.831664580725907,0.0194528960633747,1598,640,587,371,sarcasm,neutral
+Patient keeps repeating old patterns.,1.8159744408945688,0.0197940153612855,1565,650,553,362,incongruity-absurdity,negative
+Why am I always the one who needs to change?,1.8755074424898512,0.0205856848312244,1478,566,530,382,self-deprecating,negative
+I'm just so tired of trying to blend in.,1.8110129163834128,0.0202129095562554,1471,607,535,329,self-deprecating,negative
+Let's start with your background.,1.8106060606060608,0.0212225234875689,1452,638,451,363,unknown,neutral
+So you think it's a reptile dysfunction?,1.848708487084871,0.0225868423327969,1355,586,388,381,wit-surprise,negative
+Adapts well to changing environments.,1.853441894892672,0.0213709150527542,1351,530,489,332,unknown,neutral
+"I'd like, just once, to stand out in a crowd.",1.8318181818181816,0.0212831813240206,1320,524,494,302,self-deprecating,neutral
+"First, you have to NOT want to change.",1.8018720748829953,0.02289291757207,1282,590,359,333,self-deprecating,negative
+I’d like to begin with your background.,1.801751592356688,0.0221825943507822,1256,537,431,288,sarcasm,neutral
+It's like they don't even see me.,1.7983333333333331,0.0219496711621726,1200,492,458,250,sarcasm,negative
+But all I do is CHANGE!,1.817147856517935,0.0232035660810561,1143,475,402,266,self-deprecating,neutral
+I'm beginning to see a pattern here.,1.790528233151184,0.0233695067434263,1098,468,392,238,wit-surprise,neutral
+"Do you start billing when I come in the room, or when you notice that I'm here?",1.791248860528715,0.0238725501950072,1097,481,364,252,sarcasm,neutral
+...and how long have you been experiencing this reptile dysfunction?,1.787174721189591,0.0247798818487669,1076,494,317,265,sarcasm,neutral

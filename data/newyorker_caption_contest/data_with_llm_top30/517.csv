@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Who'd have thought they'd get you for tax evasion.,2.391304347826087,0.1748983943860678,23,5,4,14,wit-surprise,negative
+2,Just don't laugh when they talk about the death penalty.,2.2777777777777777,0.2109046117681379,18,5,3,10,sarcasm,negative
+1,"It's probably unethical for me to say this, but I think we have a better shot if you take out jurors four and seven.",2.388888888888889,0.2003084041924437,18,4,3,11,sarcasm,neutral
+3,Stop it. They'll just keep bringing in a new judge.,2.25,0.2140872096444188,16,4,4,8,sarcasm,negative
+5,Saying it was his appointed day is not going to get you off,2.1875,0.2452677108793573,16,6,1,9,sarcasm,negative
+206,The judge asked if this is your first offense.,1.8,0.2225394561056747,15,7,4,4,wit-surprise,neutral
+3405,"Please just stop with the, ""I am death,"" speech. Okay?",1.0666666666666669,0.0690065559342354,15,14,1,0,sarcasm,negative
+1310,"Yes, but Johnnie Cochran's not around any more. And whose fault is that?",1.5,0.2029994857352875,14,9,3,2,sarcasm,negative
+5647,"If we're going to win this case, you need to lose the hoodie and keep a low profile.",1.0,0.0741249316661101,14,14,0,0,sarcasm,neutral
+6058,Pleading guilty will avoid you death penalty.,1.0,0.0741249316661101,14,14,0,0,wit-surprise,negative
+8,Your priors are going to be a problem.,2.142857142857143,0.25370101935418,14,5,2,7,irony,negative
+7391,"Another accident, huh? The judge won't let you plead The Fifth again!",1.0,0.0741249316661101,14,14,0,0,sarcasm,negative
+3097,"Don't worry, it's a jury of your teenage peers.",1.2142857142857142,0.1547266795640519,14,12,1,1,sarcasm,neutral
+4,It looked like you convinced the older jurors.,2.2142857142857144,0.2385526741328836,14,4,3,7,sarcasm,neutral
+20,Don't worry. We were able to dig up a couple of witnesses.,2.076923076923077,0.2391635654638157,13,4,4,5,sarcasm,neutral
+3301,"Win or lose, we're still going to the party.",1.1538461538461535,0.1041543385209738,13,11,2,0,incongruity-absurdity,neutral
+3300,Our only defense is..the devil is in the details,1.1538461538461535,0.1041543385209738,13,11,2,0,sarcasm,negative
+3403,"Please remember, next time wear a suit and tie.",1.0769230769230769,0.0800640769025435,13,12,1,0,sarcasm,neutral
+3404,"Think of it this way, encountering juror bias is not unusual, but simply a matter of degree. In some cases, like yours, it just seems to be a tad more pronounced.",1.0769230769230769,0.0800640769025435,13,12,1,0,sarcasm,neutral
+3083,We'll take the death-and taxes-sure-things stance.,1.2307692307692308,0.1661728384207143,13,11,1,1,wit-surprise,neutral
+19,It's the jury of your peers that worries me.,2.076923076923077,0.2391635654638157,13,4,4,5,wit-surprise,negative
+4898,"Seeing as how this is a wrongful death case, I thought that perhaps I should give the closing argument this time..",1.0,0.0800640769025435,13,13,0,0,sarcasm,neutral
+17,I'm afraid they'll give you life.,2.076923076923077,0.2646124030839781,13,5,2,6,sarcasm,negative
+6,You just killed your chance for an acquittal.,2.1538461538461537,0.2737712372315721,13,5,1,7,sarcasm,negative
+7,Any priors?,2.1538461538461537,0.2492592576310715,13,4,3,6,irony,neutral
+16,"We're going with the ""it was their time"" defense.",2.076923076923077,0.2106625221173715,13,3,6,4,sarcasm,neutral
+18,I'll plead you down from grim reaping to simple reaping.,2.076923076923077,0.2391635654638157,13,4,4,5,wit-surprise,neutral
+4683,"No, this is not a death penalty case either.",1.0,0.0870388279778489,12,12,0,0,sarcasm,negative
+7592,The judge is asking if you are the ghost who walks?,1.0,0.0870388279778489,12,12,0,0,unknown,neutral
+2145,Let's challenge Juror number four. Her grandma died recently.,1.25,0.1794351406413183,12,10,1,1,sarcasm,neutral

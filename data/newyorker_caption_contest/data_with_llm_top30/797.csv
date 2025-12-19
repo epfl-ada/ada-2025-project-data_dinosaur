@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"My pronouns are thy, thou, and thine.",1.8465626037861176,0.0106340597050609,6022,2591,1771,1660,incongruity-absurdity,neutral
+You’re seriously asking why my bathroom breaks are so long?,1.815343099460293,0.0109440657631323,5188,2182,1785,1221,irony,negative
+Is this a Middle Age crisis?,1.8600469116497265,0.0112531637816432,5116,2065,1702,1349,self-deprecating,negative
+Must you turn everything into a crusade!,1.837914308811641,0.011408737322778,4948,2065,1625,1258,sarcasm,negative
+Your horse is in my parking spot again.,1.796036333608588,0.0112526367498198,4844,2080,1672,1092,irony,negative
+If you think that’s uncomfortable you should try wearing heels.,1.8595248972133391,0.012054685008464,4378,1743,1507,1128,unknown,neutral
+My pronouns are Thee/Thou.,1.8136992956035949,0.012688275855239,4117,1819,1246,1052,irony,neutral
+There's a damsel on line one. Sounds important.,1.8432585717968548,0.0125590773103467,3879,1538,1411,930,sarcasm,positive
+"Just remember, Doris:   it's not just a visor.  It's a supervisor.",1.7721285563751317,0.0127283266261986,3796,1698,1265,833,unknown,neutral
+"No Steven, it's ARBOR Day.",1.7652358240593535,0.0128902969551408,3774,1730,1200,844,sarcasm,neutral
+"Shirley, you joust?",1.8284023668639051,0.013381184943346,3718,1611,1134,973,incongruity-absurdity,neutral
+You seem a little defensive.,1.7564389697648377,0.0127454421075499,3572,1580,1284,708,sarcasm,negative
+"Enough already,Larry. We all got the booster.",1.7964626614261652,0.01304779626684,3562,1516,1255,791,sarcasm,negative
+You could just get the shot.,1.837215990796664,0.0136073839793288,3477,1448,1147,882,sarcasm,neutral
+Why not just get vaccinated,1.8348267622461172,0.0140360670721913,3348,1426,1049,873,sarcasm,neutral
+"You’re not a knight, Doug, and I’m not your wench.  Get your own coffee.",1.8437873357228196,0.0142244010182441,3348,1436,999,913,sarcasm,negative
+It says here that you're a free lancer.,1.856752655538695,0.0137444839911334,3295,1295,1177,823,sarcasm,neutral
+I can live with damsel. Harlot or wench and I go to HR.,1.8223205817262096,0.0145321961217429,3163,1387,951,825,incongruity-absurdity,neutral
+What do you mean by an 'antiquated and hostile' work environment?,1.781061328249126,0.0137292144903528,3147,1353,1130,664,sarcasm,negative
+"Well, you know what they say––dress for the job you want, not the job you have.",1.8352713178294573,0.0138798150089194,3096,1220,1166,710,irony,neutral
+It looks like I've been assigned to queen's bishop 3.  Where the hell is that?,1.7929905011464131,0.0145004137304036,3053,1361,963,729,sarcasm,negative
+"The WD-40 rep is here to see you, Sire",1.7690253671562082,0.0140692972007613,2996,1314,1060,622,wit-surprise,positive
+My preferred pronoun is Sir.,1.7831081081081082,0.0142347851202299,2960,1278,1046,636,sarcasm,neutral
+I think an N95 would suffice.,1.7780040733197555,0.0141242781706329,2946,1265,1070,611,sarcasm,neutral
+That could be anyone's horse in your parking spot.,1.82778730703259,0.0147080615317368,2915,1213,991,711,sarcasm,neutral
+I consider it not so much an assignment as a quest.,1.756276150627615,0.0135093486279883,2868,1185,1197,486,wit-surprise,neutral
+I was promised a round table,1.7829430269136666,0.0143468272322174,2861,1220,1042,599,incongruity-absurdity,neutral
+I don't think you understand what she meant when she said wear protection.,1.788663400979706,0.0151023570399678,2858,1297,868,693,sarcasm,negative
+"Yes, we do have a rigid dress code.",1.76621964479884,0.0143924353821447,2759,1188,1029,542,wit-surprise,neutral
+"As you see from the feedback, some employees find it difficult to get through to you.",1.7342242019302152,0.0140380302526322,2694,1171,1071,452,sarcasm,negative

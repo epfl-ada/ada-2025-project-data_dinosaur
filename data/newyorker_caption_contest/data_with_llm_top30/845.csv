@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+And that is how cryptocurrency works.,1.6574846967167502,0.0132683467260522,3594,1963,899,732,wit-surprise,neutral
+I specialize in the more arcane areas of the tax code.,1.6213201115587232,0.0129774885076645,3227,1719,1011,497,wit-surprise,neutral
+...and that's how bit coin works.,1.651530440632358,0.0145361240182628,2973,1632,745,596,wit-surprise,neutral
+"Mrs. Johnson, let me say once again, that although Mr. Johnson said he would give you the moon and the stars…they are not his to give and you are therefore not entitled to half”",1.6097184728114151,0.0149144394984282,2593,1451,703,439,sarcasm,neutral
+They say you should dress for the job you want.,1.6326718966312874,0.0162642246591801,2167,1165,633,369,irony,neutral
+"No, no diploma per se.",1.6014967259120674,0.0159509200664922,2138,1177,636,325,wit-surprise,neutral
+The good news is we found your luggage; the bad news is it's gonna take 3.7 light years to get it to you.,1.599337748344371,0.0163057206844041,2114,1187,587,340,irony,negative
+Your horoscopes show you'll be getting a big bill from a charlatan.,1.5464064731080438,0.0175357077662907,2101,1371,312,418,sarcasm,negative
+In Florida astrologer is the only medical professional licensed to deal with your problem.,1.5932530120481927,0.0164934083149682,2075,1179,561,335,exaggeration,neutral
+"A mortgage I’ll approve for thee, if you can solve these riddles three.",1.684395383843452,0.017418162055355,1993,1016,590,387,unknown,neutral
+"Well, Joanna, what DID you mean by “needing space”?",1.5874055415617128,0.0161963430762375,1985,1095,614,276,sarcasm,neutral
+The stars will align for your marriage once your check clears.,1.5812403895438236,0.0163809846446671,1951,1090,588,273,sarcasm,positive
+I’ll take your case but I must warn you that my fees are astronomical.,1.6425554382259768,0.0170397085789111,1894,980,611,303,wit-surprise,negative
+It’s actually not that complicated— you are from Mars and your wife is from Venus.,1.6389333333333334,0.0173076283690988,1875,987,578,310,incongruity-absurdity,neutral
+"So where do you see yourselves, say, five light years from now?",1.5738236884802597,0.016640480083345,1849,1035,567,247,sarcasm,neutral
+Our fund invests primarily in future futures.,1.584101382488479,0.0171096466712637,1736,952,554,230,incongruity-absurdity,neutral
+"Well, yes, I agree. Wealth management is not an exact science. What makes you ask?",1.58478130617136,0.0176907425657097,1669,926,510,233,sarcasm,neutral
+Were you thinking one way or round trip?,1.6156670746634028,0.0179385017500605,1634,864,534,236,incongruity-absurdity,neutral
+This is just a side job. I teach middle school science.,1.5311496467565833,0.0179860871613855,1557,928,431,198,self-deprecating,neutral
+Maybe you both need a little bit of space.,1.5741100323624595,0.0181953698234356,1545,864,475,206,sarcasm,neutral
+I’m not entirely clear…why are worried about your investments with us?,1.5299319727891156,0.0189344305410441,1470,895,371,204,sarcasm,negative
+"yes, some people do call me a financial wizard. why do you ask",1.523941707147814,0.0181746652525825,1441,849,429,163,self-deprecating,neutral
+A lot of schools have uniforms.,1.541724617524339,0.0189620620586818,1438,852,393,193,unknown,neutral
+"Sure, I can look at your stock portfolio but keep in mind I am not a financial wizard.",1.539593552908199,0.018685910053424,1427,835,414,178,sarcasm,neutral
+"Sorry, I can't actually put the magic back in your relationship.",1.5201129146083274,0.0185667139733109,1417,849,399,169,sarcasm,negative
+You've no doubt heard that a lot of my former clients went on to become big stars.,1.5310734463276836,0.0186730228762008,1416,837,406,173,sarcasm,positive
+"Yes, I can literally bring the magic back to your marriage.",1.5263157894736843,0.0185332901731223,1406,830,412,164,sarcasm,positive
+"Of course, I must warn you that asset management is not an exact pseudo-science.",1.520260492040521,0.0191913715937604,1382,842,361,179,wit-surprise,neutral
+"It's general relativity in the mornings, advanced string theory in the afternoons, and pajama day every Friday.",1.5246734397677797,0.0192022573701503,1378,833,367,178,wit-surprise,neutral
+"Having heard your tax situation, it's clear you've come to the right place.",1.5216752387950037,0.0190484765621194,1361,817,378,166,sarcasm,positive

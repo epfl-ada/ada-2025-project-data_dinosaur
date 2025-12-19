@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3262,"Gordon Ramsey is shaming me!""",1.1056105610561056,0.0205439498819844,303,276,22,5,sarcasm,negative
+1998,"Hey Lady, want some pancakes with real Canadian syrup?",1.180602006688963,0.0268524775440687,299,255,34,10,sarcasm,neutral
+1173,I won't tell if you won't.,1.2281879194630871,0.0290096753992066,298,241,46,11,unknown,neutral
+1467,"OK, OK. Is it eat my cake and have it too, or have my cake and eat it too?",1.2087542087542087,0.0284302110887871,297,246,40,11,incongruity-absurdity,neutral
+961,It's our traditional end-of-the season zucchini bread giveaway.,1.2414965986394555,0.031199939168771,294,238,41,15,incongruity-absurdity,positive
+2574,"Your husband called, there's 15 minutes left in the 4th quarter, so he bought you endless pancakes special",1.1496598639455782,0.0244307782080565,294,257,30,7,sarcasm,positive
+3343,Psssst... Hot cakes for sale?,1.0955631399317407,0.019134405818311,293,268,22,3,sarcasm,neutral
+1363,New York bans sugar,1.2150170648464165,0.0288993322968401,293,241,41,11,exaggeration,neutral
+2924,'It's about time Tiffany.',1.129692832764505,0.0229523205390626,293,261,26,6,sarcasm,neutral
+2047,Looks like you're having a bad hair day. Wanna borrow my hat?,1.178082191780822,0.0267361269140384,292,249,34,9,sarcasm,negative
+1700,"How much, for just the icing...?",1.1952054794520548,0.0278430462873537,292,245,37,10,sarcasm,neutral
+2436,"Agent Petrov, once you read the syrup message detailing your next consignment, be sure to destroy all evidence.... How? They're pancakes. Eat them... Celiacs?! Don't worry they're gluten free... Yes I'm sure... No, I don't know what the chef Putin.",1.1575342465753424,0.0239532608369044,292,251,36,5,sarcasm,neutral
+341,"Death by chocolate, for your cheating husband.",1.3047945205479452,0.0335900685369515,292,220,55,17,sarcasm,negative
+3276,GIDDY UP    THIS FOODS NOT GOING TO DELIVER ITSELF,1.1030927835051547,0.0203381813879471,291,265,22,4,unknown,negative
+220,Do you think the cherry makes a too optimistic statement in these troubled times?,1.3298969072164948,0.035828503725308,291,217,52,22,irony,neutral
+2616,Psst...you want some banned cakes?,1.147766323024055,0.0254468416106107,291,257,25,9,sarcasm,neutral
+2547,"Psst, lady. Michael wants you to give this special cake to Fredo.",1.1512027491408934,0.0246667753248602,291,254,30,7,sarcasm,neutral
+879,Psst. lady.  Would you like to adopt a homeless fruitcake?,1.2474226804123711,0.0292468900635559,291,228,54,9,sarcasm,neutral
+842,Syrup's gonna cost you extra.,1.2508591065292096,0.0309212511589648,291,231,47,13,sarcasm,negative
+2677,"Hello, would you like to visit my pancake parlor?",1.1448275862068966,0.0239110134333328,290,254,30,6,unknown,neutral
+3273,Hot cakes is so eighties.,1.103448275862069,0.019200258930952,290,262,26,2,unknown,negative
+63,"In a classic example of a typo, Mel tried to sell his creations in a bake alley.",1.406896551724138,0.0399836213479389,290,204,54,32,incongruity-absurdity,negative
+5,"Louise tried to avoid carbs, but they aggressively pursued her.",1.5413793103448277,0.0439657219523064,290,178,67,45,unknown,neutral
+1482,Step back in the alley. No sales tax.,1.207612456747405,0.029725300348601,289,242,34,13,incongruity-absurdity,neutral
+1057,It's to die for.,1.2352941176470589,0.0310027221585135,289,235,40,14,incongruity-absurdity,positive
+2008,Guess which day of Advent this one's for.,1.179930795847751,0.02654392496624,289,245,36,8,irony,neutral
+1552,This city has a real pan-cake-handling problem.,1.204152249134948,0.0275023629103153,289,238,43,8,unknown,negative
+2067,"Psssst, you like sugar?",1.1770833333333333,0.0264825484541938,288,245,35,8,exaggeration,neutral
+1250,How much for just the cherry?,1.2222222222222223,0.0282099558455829,288,232,48,8,sarcasm,neutral
+2397,"Don't worry, ma'am, I believe it's vegan.",1.1597222222222223,0.024261443018233,288,247,36,5,sarcasm,positive

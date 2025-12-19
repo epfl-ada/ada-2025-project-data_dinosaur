@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Let’s stop here and call it a halfway house.,1.822870715982355,0.0148925705322482,2947,1270,929,748,incongruity-absurdity,neutral
+The only thing keeping up with the Kardashians are my glutes.,1.6988358993616222,0.0172788995314275,2663,1580,305,778,sarcasm,neutral
+"You're right, the marble countertops would have been a mistake.",1.7186507936507935,0.0148482656862888,2520,1154,921,445,sarcasm,negative
+We really need to find a house sitter next time.,1.75475515985431,0.0154949622198296,2471,1110,857,504,sarcasm,neutral
+I regret the marble countertops,1.8144927536231883,0.0158300383509626,2415,996,871,548,incongruity-absurdity,negative
+We should have read the fine print when we took this job for home delivery.,1.781169389509888,0.0164511826662679,2326,1042,751,533,sarcasm,neutral
+Its gonna be great sleeping in my own bed to night,1.7148387096774194,0.015617731789916,2325,1085,818,422,irony,positive
+The bank can’t foreclose what they can’t find.,1.7701248385708137,0.016459098857,2323,1059,739,525,wit-surprise,negative
+You could have been more clear when asking me to help you move.,1.7965425531914894,0.0163118959564219,2256,953,809,494,sarcasm,neutral
+You'll be thanking me when we're not setting up tent poles in the dark.,1.774537037037037,0.016235213242283,2160,913,821,426,unknown,neutral
+"It's not just the rate hike, it's the carrying cost.",1.761416589002796,0.0172129000759568,2146,999,660,487,exaggeration,negative
+We definitely overpacked.,1.7395784543325528,0.0164654453711572,2135,968,755,412,exaggeration,negative
+My possessions stopped sparking joy about a mile back.,1.7620640229335882,0.017227569275374,2093,958,675,460,self-deprecating,negative
+'Let me do the talking when your mother wakes up.',1.8356626506024096,0.0177962411555637,2075,880,656,539,sarcasm,neutral
+I'm glad we sent the kids ahead with the furniture.,1.7107039537126325,0.0163577901465089,2074,962,750,362,unknown,positive
+"When the loan officer said we'd be carrying this burden for the next 30 years, this isn't what I envisioned.",1.7560975609756098,0.0171541773399069,2050,929,692,429,exaggeration,negative
+"Would you please stop saying ""location, location, location.""",1.7426871591472484,0.0174729894322593,2017,947,642,428,sarcasm,negative
+"Let's stop soon, I need to use the bathroom",1.7440119760479045,0.0169972789875389,2004,902,713,389,incongruity-absurdity,neutral
+Did we forget anything?,1.6815189873417722,0.0184608770551241,1975,1079,446,450,exaggeration,neutral
+"There's no way we could carry a second home.""",1.7869852567361464,0.0178615476654615,1967,871,644,452,exaggeration,negative
+I'm thinking of down-downsizing.,1.6830657690315898,0.0200890481887488,1931,1155,233,543,unknown,neutral
+I’ll be really mad if they do have bathrooms up there.,1.7321428571428572,0.0174822768231363,1904,877,660,367,incongruity-absurdity,negative
+I can’t wait to see the look on the kids’ faces when they wake up.,1.821103374397429,0.0184837824220399,1867,792,617,458,sarcasm,positive
+Yet I still have the feeling I have forgotten something.,1.826809651474531,0.0179417260215854,1865,749,690,426,self-deprecating,negative
+"You really know who your friends are on moving day.""",1.736318407960199,0.0175312507767962,1809,804,678,327,sarcasm,neutral
+We never should've offered home delivery.,1.827796234772979,0.0186960188259457,1806,752,613,441,wit-surprise,negative
+"When I agreed to a mobile home, this is not what I had in mind.",1.6994991652754592,0.0176527918537837,1797,854,629,314,irony,negative
+"When they said, “priced to move,” I had no idea.",1.7780883174958078,0.0184164593884784,1789,785,616,388,incongruity-absurdity,negative
+"You did remember to bring the house key, right?",1.7563595251554551,0.0181648952887059,1769,784,632,353,unknown,neutral
+I found I have less back pain if I sleep in my own bed.,1.7361507709880069,0.0184413599889789,1751,813,587,351,self-deprecating,positive

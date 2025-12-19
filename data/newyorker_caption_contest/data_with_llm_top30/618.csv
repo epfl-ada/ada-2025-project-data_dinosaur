@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+9,It was hit or myth.,1.8490188225871045,0.0080911537272535,9988,4133,3230,2625,incongruity-absurdity,neutral
+1,Well of course they don’t exist. Now.,1.9345659989727784,0.0082267397121087,9735,3546,3280,2909,exaggeration,negative
+5,"And this is a unicorn, a rare being most don’t even believe exists. Come to think of it, you have a lot in common with him, Black Guy In A New Yorker Cartoon.",1.8778308747143155,0.0085141772411992,9626,4018,2766,2842,sarcasm,neutral
+2,It’s on the enchanted species list.,1.898771089356384,0.0080253980842072,9602,3504,3566,2532,irony,neutral
+0,"Strangely enough, you are the first person to ask about the clock.",1.9580710551584335,0.0084312923586106,9373,3327,3112,2934,sarcasm,neutral
+8,It's hard to get off a good shot once that carousel gets moving.,1.8597889295713976,0.0082942088533814,9286,3708,3172,2406,incongruity-absurdity,negative
+11,Where did you get the clock?,1.828768600388182,0.0084662408148245,9274,4012,2838,2424,incongruity-absurdity,neutral
+12,"I also have a centaur, but it makes people uncomfortable.",1.816788807461692,0.0084302977102691,9006,3858,2940,2208,self-deprecating,negative
+17,"In my defense, it came out of nowhere.",1.8003183989083469,0.0084025105033878,8794,3783,2984,2027,self-deprecating,neutral
+3,The damn thing had been leaving rainbows all over my lawn.,1.8897711349836528,0.0086017407742077,8564,3237,3034,2293,irony,negative
+4,"Well, sure, but I never would have believed in a Trump presidency, either.",1.883007377913105,0.0088731754540048,8539,3428,2682,2429,sarcasm,negative
+7,Bagged the Emu while on Safari. Bagged the unicorn while on LSD.,1.865590735493409,0.0089884190268994,8117,3280,2648,2189,exaggeration,neutral
+10,I glued the horn on. I didn't want the grand-kids to know I accidentally shot a horse.,1.8427603203943317,0.0090554380927191,8115,3438,2515,2162,incongruity-absurdity,negative
+19,I’m still cleaning the glitter out of the truck.,1.7697204193709437,0.0086928671068087,8012,3560,2737,1715,unknown,neutral
+13,"And then, just when I thought he'd gotten away, the carousel circled around again and I got a clean shot.",1.8167259786476868,0.0089550257111293,7868,3335,2640,1893,unknown,neutral
+15,Of course I felt bad...I was aiming for the leprechaun.,1.806880375293198,0.0090548443841834,7674,3298,2560,1816,incongruity-absurdity,negative
+16,Turns out they're magical but not particularly swift.,1.8007307842881377,0.008751394038584,7663,3164,2862,1637,incongruity-absurdity,neutral
+24,"It’s okay. They’re mythical, not endangered.",1.7466002423589606,0.0088350196760004,7427,3332,2645,1450,irony,neutral
+27,The gun mythfired.,1.7242317106336686,0.0092620262854946,7354,3613,2156,1585,incongruity-absurdity,negative
+22,Coney Island carousel; 1969. Got him on the rise.,1.753779109355849,0.0090615522090629,7343,3340,2471,1532,wit-surprise,positive
+6,I figured nobody would believe me so I shot it.,1.8730721987170735,0.0095054437814865,7327,2949,2359,2019,incongruity-absurdity,negative
+32,Now it's MY little pony.,1.6954778038998757,0.0093387236547601,7231,3716,2001,1514,irony,positive
+18,I found it in the same place where Fox News gets its stories.,1.785563825305435,0.0098523702492229,7121,3388,1872,1861,sarcasm,neutral
+26,"Extinct? Well, yeah - now.",1.7252917193870378,0.0092764761117515,7113,3422,2223,1468,irony,neutral
+25,"Yes, I am that much of an asshole.",1.745302713987474,0.0099694889387921,6706,3306,1802,1598,self-deprecating,negative
+40,I’m not allowed back at Disneyland.,1.6558191728117986,0.0096991255696724,6238,3273,1839,1126,sarcasm,negative
+28,It would be a much better story if I hadn't hit it with the car.,1.7123552123552124,0.0098335291749927,6216,3019,1966,1231,incongruity-absurdity,negative
+30,I joined a fantasy hunting league.,1.6961675868788568,0.009823106776275,6158,3049,1931,1178,unknown,neutral
+23,"Don’t worry, it died of imaginary causes.",1.7490228013029316,0.0099958845624681,6140,2847,1987,1306,exaggeration,negative
+34,"Surprisingly, a lot like chicken.",1.6937618147448017,0.0102491335841244,5819,2942,1717,1160,incongruity-absurdity,neutral

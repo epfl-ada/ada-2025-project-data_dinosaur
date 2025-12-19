@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"If you no longer wish to receive these messages, check unsubscribe and  place in the bottle labeled return.",1.7759361571516268,0.0113049713674098,4887,2196,1590,1101,sarcasm,negative
+Please rate your cruise on a scale of 1-10.,1.7519060375025757,0.0115207289153918,4853,2314,1429,1110,irony,neutral
+"So far, it looks like no one is coming to the recital.",1.737784656201636,0.0115002180136281,4523,2101,1507,915,irony,negative
+"These reviews are all terrible, but 'washed up' really hurts.",1.7811786203746005,0.0122687203289333,4378,2026,1284,1068,sarcasm,negative
+It's bad news.  Elvis is dead.,1.6613607188703463,0.0129417728579738,3895,2153,908,834,sarcasm,negative
+"‘Good news, you got into Juilliard’",1.8083975551421736,0.0130661837207674,3763,1638,1208,917,sarcasm,positive
+We could win an island vacation!,1.7526709401709402,0.0130291759650364,3744,1767,1136,841,unknown,positive
+'We're lost at C.',1.7518087448883295,0.0143388576274,3179,1531,906,742,unknown,negative
+"It seems someone else wrote a song called ""HELP""",1.8127197187599873,0.0145155968497419,3129,1379,957,793,irony,neutral
+We have been trying to reach you regarding your piano's extended warranty.,1.753287197231834,0.0148657398747642,2890,1367,869,654,sarcasm,neutral
+"Doesn't matter how many times Ikea sends the instructions, it never ends up as a boat!",1.7119624141669678,0.0149099741922921,2767,1364,836,567,incongruity-absurdity,negative
+Due to rising sea levels we are being advised to move further inland.,1.722856091277144,0.0149454786530987,2717,1305,860,552,exaggeration,neutral
+"Damn, I wish they'd sent the whole score in one bottle.",1.6914852997327223,0.0146656809500757,2619,1266,895,458,incongruity-absurdity,negative
+"Knopp & Knopp Attorneys LLC, representing the estates of Richard Rodgers and Oscar Hammerstein II, wish to remind you once again that no music or lyrics from “South Pacific” may be performed without the express consent of the rights holders.",1.741130604288499,0.0153227432330541,2565,1190,849,526,unknown,neutral
+This one suggests we move to a major key.,1.7718676122931445,0.0155598235122057,2538,1135,847,556,irony,neutral
+The neighbors say you're still too loud.,1.6451740506329111,0.0149339184663172,2528,1320,785,423,irony,negative
+It's another one asking you to keep it down.,1.6549778315195485,0.0147721588260674,2481,1247,843,391,sarcasm,neutral
+Another ridiculous estimate to move the piano!,1.678997122893547,0.0154384044143098,2433,1221,772,440,exaggeration,negative
+We're saved! They're coming to tune the piano!,1.7583225248594898,0.0163520215120733,2313,1062,748,503,unknown,positive
+FINAL NOTICE: If payment is not recieved immediately the piano will be removed from your premises!,1.721708498458829,0.016266898470106,2271,1086,731,454,incongruity-absurdity,negative
+The reviews are in. 'Her new work is engaging yet remote',1.7455673758865249,0.0163620858061711,2256,1041,748,467,wit-surprise,positive
+The neighbors still want to know if we could practice elsewhere.,1.6620781527531083,0.0156390777726707,2252,1129,755,368,sarcasm,neutral
+What we need is a good bridge.,1.690018315018315,0.0166338451761673,2184,1103,655,426,unknown,neutral
+I'm starting to think it was a bad idea to ask for requests.,1.6510560146923785,0.0155926279326963,2178,1089,760,329,sarcasm,negative
+Wouldn't you know? It's written for three voices.,1.6812206572769952,0.0164863468968636,2130,1064,681,385,wit-surprise,neutral
+"Next time they ask you, ""What's the one thing you'd bring with you to a desert island,"" maybe you should say something about food and a boat?",1.6575212866603597,0.0167286407660629,2114,1111,616,387,unknown,neutral
+"I'm sorry Linda,when they asked what I would bring to a desert island I thought it was a hypothetical.",1.6526917579799905,0.0162427298890928,2099,1072,684,343,sarcasm,negative
+Great.  The keys are in Florida.,1.7129140662506002,0.017421926341536,2083,1043,595,445,irony,positive
+All of these are for two pianos!,1.647596153846154,0.0163408036085973,2080,1073,667,340,wit-surprise,neutral
+It's from the couple on the next island.   They like your playing but ask if you could  please not play after 10 P.M.,1.6702386751095957,0.0162304190786705,2053,1005,720,328,sarcasm,neutral

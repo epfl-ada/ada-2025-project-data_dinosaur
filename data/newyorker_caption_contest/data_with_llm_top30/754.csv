@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Wait, is the call for Times Square or Columbus Circle?",1.7678894927536233,0.0118485278376867,4416,2000,1441,975,sarcasm,neutral
+"Whoa, the new recruit went down the laundry chute.",1.8272040302267003,0.0127698352370325,3970,1687,1282,1001,unknown,neutral
+What if I don't identify with either?,1.7581832022329358,0.0122511752627929,3941,1757,1380,804,unknown,neutral
+I’m not sure the department knows what diversity in the workplace really means.,1.7665639445300465,0.0125109704330041,3894,1747,1309,838,unknown,negative
+I guess it depends on what shape you’re in.,1.7571968595521954,0.0130523488615513,3439,1526,1222,691,wit-surprise,neutral
+After you - I’m out of shape.,1.770423375074538,0.0137145032608547,3354,1531,1062,761,self-deprecating,negative
+I can’t decide whether to go pole dancing or square dancing.,1.7408394403730847,0.0145008819037373,3002,1437,906,659,incongruity-absurdity,neutral
+I have a feeling there’s a psychologist waiting down there.,1.787564766839378,0.0142293310209553,2895,1221,1068,606,wit-surprise,neutral
+Since when did the pizza delivery guy get his own pole?,1.7513089005235605,0.0149972480967256,2674,1219,901,554,incongruity-absurdity,negative
+I guess this makes us bi-polar,1.7503852080123266,0.0156514217709312,2596,1230,784,582,incongruity-absurdity,neutral
+"After that last election, I really don’t trust the poles.",1.7454249694997968,0.015986112942226,2459,1165,755,539,sarcasm,negative
+I hope they didn't change the wheels on the truck.,1.7347024308466052,0.0160124634856545,2386,1130,759,497,incongruity-absurdity,negative
+It's for the pizza guy!,1.7331365935919056,0.0158342704518464,2372,1106,793,473,incongruity-absurdity,neutral
+Its hard to decide. I don’t trust the poles anymore.,1.7282841249465126,0.016266235196497,2337,1126,720,491,irony,negative
+"Is the call from Times Square, or Columbus Circle?",1.7471681014952425,0.0165710015190213,2207,1018,729,460,sarcasm,neutral
+Try not to overthink it.,1.736388384754991,0.0158373446544397,2204,976,833,395,self-deprecating,neutral
+Is the fire in Times Square or Columbus Circle?,1.7265696087352138,0.0164243448769701,2198,1034,731,433,incongruity-absurdity,neutral
+They said I need to be in shape for this job. They didn’t explain which shape.,1.729470802919708,0.0159680337226545,2192,989,807,396,self-deprecating,neutral
+"When I put it in the suggestion box, I meant it as a joke!",1.7215554488718194,0.0167207696121728,2083,977,709,397,sarcasm,neutral
+Last phase of the interview. Choose wisely.,1.7211770381090208,0.0163544261321438,2073,944,763,366,sarcasm,neutral
+Don’t take the square one—Joe went through it last week and came out a Republican.,1.720118052139695,0.0177786592315993,2033,1017,568,448,wit-surprise,neutral
+"No idea, let’s just take the stairs.",1.7272727272727273,0.0169841444707535,1991,917,700,374,sarcasm,neutral
+Careful...it might be a metaphor.,1.743705941591138,0.0173781391999205,1986,915,665,406,wit-surprise,neutral
+"I don’t mind the square hole, but the square pole is not fun.",1.7340479836651352,0.0175724690734167,1959,922,636,401,incongruity-absurdity,negative
+"The one on the left is for paper, plastic, and cardboard fires, and the one on the right is for dumpster fires.",1.7191011235955056,0.0172900741254821,1958,925,658,375,irony,neutral
+I’ve never been a big fan of exit polls.,1.7195629552549427,0.0175395744742006,1922,913,635,374,wit-surprise,negative
+"You okay down there, Peg?",1.7211640211640211,0.0180877470184714,1890,921,575,394,sarcasm,neutral
+Is this call for Columbus Circle or Madison Square Garden?,1.7145178764897075,0.0178612154237292,1846,882,609,355,sarcasm,neutral
+I see the diversity committee met again.,1.7532967032967033,0.0181969600458616,1820,828,613,379,sarcasm,neutral
+"Is it me, or is everything getting unnecessarily complicated?",1.710511200459506,0.0180054228528947,1741,819,609,313,exaggeration,negative

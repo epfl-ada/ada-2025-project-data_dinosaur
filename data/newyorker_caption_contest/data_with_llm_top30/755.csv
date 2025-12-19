@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+So what am I then? Ancient history?,1.8658154661527344,0.0120280767367824,4151,1562,1584,1005,self-deprecating,neutral
+"Kevin, at some point you're going to have to shave and go back into the office",1.8654255319148936,0.0128171706876053,3760,1448,1370,942,sarcasm,neutral
+You knew I was a Neanderthal when you married me.,1.878474114441417,0.0128221912429484,3670,1357,1402,911,sarcasm,negative
+I just can’t get past the difference in our ages.,1.8604444444444443,0.0135582340850431,3375,1315,1216,844,incongruity-absurdity,negative
+"There’s meat, or we have a new dish called ‘cooked meat’.",1.8804611650485437,0.0136479077589777,3296,1235,1223,838,irony,neutral
+"Of course everything's locally sourced.  Where else is there?""",1.844633627242323,0.0134062240626786,3289,1267,1266,756,unknown,neutral
+Would you like the “hunt” or “gather” menu?,1.861146095717884,0.0134926259790842,3176,1169,1279,728,unknown,neutral
+"Myles, the pandemic is ending.  You should try to find your pants.",1.8731012658227848,0.014365714499108,3160,1256,1049,855,sarcasm,negative
+The restroom is just down the hall and anywhere you want.,1.8982131461391192,0.0143237646099786,3134,1183,1087,864,incongruity-absurdity,neutral
+"Sorry John, but there’s too much history between us.",1.894948143191703,0.0148103555391315,2989,1153,997,839,sarcasm,negative
+Welcome to the first Hard Rock Cafe,1.8612473721093203,0.0148808072633846,2854,1127,996,731,incongruity-absurdity,positive
+"Yes, the mammoth is free range.",1.911787072243346,0.0152951458424113,2630,935,992,703,irony,neutral
+Do you want to go out tonight or do you want me to kill something on the way home from work?,1.847437425506555,0.0153359638846508,2517,966,969,582,sarcasm,neutral
+Welcome to Dino’s Cafe. I’m Paul. I’ll be hunting and gathering for you this evening.,1.8266129032258065,0.0155962758507266,2480,1000,910,570,sarcasm,positive
+"No, men stayed pretty much the same.",1.82441200324412,0.0161576953342608,2466,1048,803,615,sarcasm,neutral
+Your entree is still on the run.,1.8258451005562688,0.016173961926688,2337,953,838,546,incongruity-absurdity,neutral
+Early evidence that women develop faster than men.,1.8293736501079911,0.0166530639275346,2315,974,762,579,irony,neutral
+You're probably wondering why I dragged you here.,1.8205242114615727,0.0168938567315868,2251,961,733,557,sarcasm,negative
+Do you want to go clubbing later?,1.9181208053691272,0.0169943558417327,2235,820,778,637,sarcasm,neutral
+"Hi, my name's Frugg. And I'll be hunting and gathering for you tonight.",1.819047619047619,0.0167948819624882,2205,921,762,522,sarcasm,neutral
+"It's not you, it's me. I've evolved.",1.8228882833787463,0.0165214883328926,2202,891,810,501,self-deprecating,neutral
+I feel as though only one of us in this relationship has evolved.,1.8470319634703196,0.0164912347246769,2190,845,835,510,self-deprecating,neutral
+"Sorry, I’m the hunter. For your vegan requests, I’ll send over the gatherer.”",1.8853188334157192,0.01732221702861,2023,743,769,511,sarcasm,neutral
+All of our drinks are on the rocks ...,1.8119877049180328,0.0174976867934079,1952,801,717,434,incongruity-absurdity,negative
+You look nothing like your drawing.,1.87006237006237,0.0175188008271283,1924,709,756,459,unknown,negative
+I'm so sorry for the delay. We're still trying to invent fire.,1.8080918534718424,0.0181025201206156,1829,757,666,406,exaggeration,negative
+"So, this is what $90,000 ACTUALLY gets you in Brooklyn.",1.8126027397260271,0.0185537384141396,1825,776,615,434,exaggeration,neutral
+The hardest part was finding a good electrician to wire the ceiling light.,1.8096846846846848,0.0186601837171595,1776,750,614,412,wit-surprise,negative
+Hi. I’m Thog and I’ll be your hunter and gatherer tonight/,1.8059530623926732,0.0178989344011579,1747,693,701,353,sarcasm,neutral
+"You're taking this paleo diet way too literally, John.",1.8022700119474313,0.0185870864842526,1674,682,641,351,sarcasm,negative

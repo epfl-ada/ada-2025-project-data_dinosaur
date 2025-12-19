@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2,The coroner said it occurred sometime between 360 million years ago and 4am.,2.0121031398000357,0.0108026587643686,5701,1862,1908,1931,incongruity-absurdity,neutral
+3,"It's Kansas, m'am. Evolution is a crime.",1.995704948646125,0.0114257643166523,5355,1883,1612,1860,irony,negative
+0,It's a textbook case--depending on which state your textbooks are from.,2.0374271205567047,0.0111334167938868,5317,1656,1806,1855,wit-surprise,neutral
+9,It's going to take a while to notify all the next of kin.,1.9388629283489096,0.0112042795451926,5136,1822,1806,1508,irony,negative
+1,I suspect some people will deny this ever happened.,2.0331337325349303,0.0113459399453887,5010,1535,1774,1701,exaggeration,negative
+10,A billion years of evolution and they still don't look both ways...,1.9302938196555215,0.0117435271880261,4935,1863,1553,1519,sarcasm,neutral
+15,"Well, at least we have a timeline.",1.9064908722109533,0.010814362878563,4930,1673,2045,1212,exaggeration,neutral
+4,I wouldn't have expected this in a million years.,1.9852519459238016,0.0115537860293232,4882,1627,1700,1555,self-deprecating,negative
+11,Looks like a textbook case — except in Texas.,1.9291729648024185,0.0120139609000164,4631,1723,1513,1395,irony,neutral
+28,Looks like his past caught up with him.,1.8373576309794988,0.0117978829113144,4390,1756,1592,1042,irony,negative
+19,Looks to me like he was running from his past.,1.89277566539924,0.0126648301370585,3945,1482,1404,1059,irony,neutral
+14,We have to improve our response time.,1.9103150406504064,0.0131477654571215,3936,1531,1227,1178,incongruity-absurdity,neutral
+24,This didn't just happen over night.,1.862033195020747,0.0125321530806355,3856,1470,1448,938,exaggeration,neutral
+17,Just when he got on his own two feet.,1.9020397208803008,0.0129434410146321,3726,1363,1365,998,irony,neutral
+27,Looks like the crime took place some time between 600 Million B.C. and 3 A.M.,1.8391608391608392,0.0133422582491508,3575,1471,1208,896,irony,neutral
+32,I can't help thinking we're missing a link here.,1.8029739776951672,0.0131163145957489,3497,1464,1258,775,wit-surprise,negative
+5,"Say what you will, he died a man.",1.975301204819277,0.0140525213110672,3320,1130,1142,1048,unknown,negative
+7,"Mind you, it's just a theory.",1.9615260265114776,0.0142000963355867,3093,1026,1160,907,wit-surprise,neutral
+13,We suspect the cause of death was natural selection.,1.917056856187291,0.0145400822490387,2990,1079,1080,831,incongruity-absurdity,negative
+33,"""We've been trying to get a stoplight at this intersection since the beginning of time.'",1.7991266375545851,0.0145743710006164,2977,1300,975,702,unknown,neutral
+8,Looks like the past finally caught up with him.,1.941815632667368,0.0147753430103226,2853,976,1067,810,exaggeration,neutral
+38,I estimate time of death somewhere between 10pm last night and the Middle Devonian Period.,1.7874293785310735,0.0144671712719341,2832,1204,1026,602,wit-surprise,neutral
+25,"We're waiting on the DNA results, but believe they were all related.",1.861803519061584,0.0143546348590533,2728,981,1143,604,irony,neutral
+20,There's a missing link here somewhere...,1.8866171003717471,0.0151325966989003,2690,998,999,693,wit-surprise,negative
+26,Looks like his past caught up with him.,1.8428736073761045,0.0154691095895079,2603,1047,918,638,irony,negative
+23,Get Darwin from forensics on this. He may have a theory.,1.8626459143968872,0.0156376790330046,2570,1008,907,655,sarcasm,neutral
+53,At this point it's still just a theory.,1.7185185185185186,0.0149950416000339,2565,1202,883,480,wit-surprise,negative
+45,God only knows what's next.,1.7606403748535728,0.0156525408870308,2561,1183,808,570,irony,positive
+51,"We do have a theory, but not everyone is going to accept it.",1.724950884086444,0.014838019129118,2545,1159,927,459,wit-surprise,neutral
+46,"Start questioning relatives, no matter how distant.",1.7562130177514792,0.0150207908448836,2535,1109,935,491,sarcasm,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I’ve changed my mind. I love it.,1.974987974987975,0.0185881496036568,2079,773,585,721,self-deprecating,positive
+“So this is how you lionize yourself?”,1.6777939042089989,0.0188129046826266,2067,1196,341,530,sarcasm,neutral
+Does this make me the trophy's wife?,1.7097560975609756,0.0169324699292915,2050,986,673,391,self-deprecating,neutral
+"All right, now out like a lamb!",1.7676369018253577,0.0181413910583004,2027,966,566,495,unknown,neutral
+Still not level.,1.8645459209851205,0.0192181154940679,1949,851,511,587,incongruity-absurdity,neutral
+Getting warmer.,1.645473393227367,0.0212533242698744,1447,820,320,307,irony,positive
+Are you even listening to me?,1.8300423131170664,0.0220173679071927,1418,628,403,387,sarcasm,negative
+Can't  you stop being a Dentist for even one minute!,1.5952203136669156,0.019690284265373,1339,728,425,186,sarcasm,negative
+"That reminds me, I need to visit the gynecologist.",1.565979381443299,0.0233911153274642,970,559,273,138,self-deprecating,neutral
+I liked it at the store but at home it seems too daring.,1.5599078341013826,0.0276629437606663,868,563,124,181,incongruity-absurdity,positive
+That reminds me. Your mother called.,1.5654761904761905,0.0246549146936987,840,476,253,111,sarcasm,neutral
+As long as it covers your nose and mouth it counts as a mask.,1.5624242424242425,0.0256436745762193,825,483,220,122,sarcasm,neutral
+There.  That’s perfect.,1.558011049723757,0.0267500326431503,724,418,208,98,incongruity-absurdity,positive
+"I tried calling 911, but she can't stop laughing.",1.54519368723099,0.0272727004938681,697,411,192,94,sarcasm,negative
+"In the condo, the mighty condo, the lion eats tonight",1.5380029806259314,0.0295581012385977,671,423,135,113,incongruity-absurdity,neutral
+Should we go back to the singing bass?,1.5207373271889402,0.0276056207461662,651,392,179,80,sarcasm,neutral
+OMG - he did remember you!,1.5705024311183144,0.0306557919426853,617,368,146,103,sarcasm,positive
+I changed my mind. Let’s keep it.,1.5233968804159446,0.0283932352492926,577,337,178,62,self-deprecating,neutral
+It's always the last place you look.,1.5035335689045937,0.0283759374055045,566,339,169,58,incongruity-absurdity,neutral
+I know you can still hear me.,1.5256637168141594,0.0287219050878914,565,329,175,61,sarcasm,neutral
+I wish I could say this is the stupidest thing you've done.,1.525328330206379,0.0323587382122138,533,335,116,82,self-deprecating,negative
+Am I going to be a trophy widow?,1.5135658914728682,0.0297315602697401,516,304,159,53,self-deprecating,neutral
+I think it belongs in the den.,1.49500998003992,0.0306442809654366,501,308,138,55,unknown,negative
+"Well, give me a second to savor the irony here, Bob.",1.534274193548387,0.0326305021246302,496,300,127,69,irony,negative
+"Sometimes you swallow your pride, other times your pride swallows you.",1.516597510373444,0.0332533336298924,482,301,113,68,self-deprecating,neutral
+"To be fair, you started it.",1.510548523206751,0.0323372316020485,474,290,126,58,sarcasm,neutral
+This is so much better than your singing fish.,1.487068965517241,0.0291000422189339,464,271,160,33,sarcasm,positive
+"Well, Harry, at least for once in your life your head is not up your ass.",1.4944567627494456,0.0352889834415415,451,298,83,70,sarcasm,negative
+"Yes, it was a gift from my mother. Why do you ask?",1.505592841163311,0.0336495483073483,447,278,112,57,self-deprecating,neutral
+"Well, look at that…a lion’s head and a horse’s ass all in the same wall hanging!",1.5045871559633028,0.0359407418899101,436,284,84,68,wit-surprise,negative

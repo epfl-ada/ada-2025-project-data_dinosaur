@@ -1,0 +1,27 @@
+[
+  {
+    "event": "covid",
+    "metric": "pearson_0lag",
+    "value": 0.5826681851742127
+  },
+  {
+    "event": "covid",
+    "metric": "spearman_0lag",
+    "value": 0.6834106426406631
+  },
+  {
+    "event": "covid",
+    "metric": "kendall_0lag",
+    "value": 0.5418041473905126
+  },
+  {
+    "event": "covid",
+    "metric": "best_lag_months",
+    "value": -4.0
+  },
+  {
+    "event": "covid",
+    "metric": "best_lag_corr",
+    "value": 0.6663260133887229
+  }
+]

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Boss is makin' us work from home now.,2.0137658837119754,0.0077645030513641,10388,3212,3833,3343,self-deprecating,neutral
+This your last chance to come clean.,2.139093374660984,0.0071262727580654,10324,2143,4624,3557,sarcasm,negative
+"Stop fighting it kid, everyone eventually sings in the shower.",2.0090628218331616,0.0078734624627858,9710,2911,3813,2986,incongruity-absurdity,negative
+I’m gonna ask you one more time; then I’m gonna flush the toilet.,1.963739624290083,0.0084724019594755,9156,3198,3099,2859,sarcasm,neutral
+People don't realize how hard it is to Work From Home in my profession.,1.770011273957159,0.0085634134855103,7983,3485,2857,1641,irony,negative
+Why didn’t you go BEFORE I tied you up?,1.8564553829231405,0.0090242420606661,7273,2788,2756,1729,sarcasm,negative
+"You think this is bad, I had to do the last guy via Zoom.",1.8190459110473456,0.0107125568606395,5576,2392,1806,1378,irony,negative
+The boss is giving you one last chance to come clean.,1.7337795129206173,0.009853649106349,5379,2336,2149,894,unknown,neutral
+Tell me where your stash of toilet paper is and nobody gets hurt.,1.7523429710867398,0.010691698953182,5015,2232,1801,982,sarcasm,negative
+You ain’t gonna be so tough when the hot water runs out.,1.7412404349577124,0.0101246980273059,4966,2090,2078,798,sarcasm,neutral
+"Normally, I’d dump you in the East River, but it’s not safe to leave the house.",1.9633486047480215,0.0111215038241945,4802,1517,1944,1341,sarcasm,negative
+We're stayin' right here 'till you come clean.,1.787734781624802,0.0111079546714036,4419,1773,1811,835,sarcasm,neutral
+"The boss started me in money laundering, but I'm more of a people person.",1.7593880389429764,0.0116982332576844,4314,1947,1470,897,incongruity-absurdity,neutral
+"Piers are closed, Benny. It is what it is.",1.7813370473537604,0.0116030624257326,4308,1823,1604,881,self-deprecating,neutral
+Sing.,1.6907771535580525,0.0117440933257369,4272,2133,1331,808,unknown,neutral
+The EPA says we can't drop you in the river.,1.6869249394673125,0.011525379353375,4130,1989,1448,693,sarcasm,negative
+"You think you’re in hot water now, just wait till I flush the toilet.",1.7311209824928142,0.0117813404072378,3827,1669,1518,640,sarcasm,neutral
+"For the last time, I'm sure that I'm six feet away.",1.7739707835325365,0.0124840663245915,3765,1626,1364,775,self-deprecating,neutral
+"It's shower curtains for you, pal.",1.7391179839633448,0.0129909413446137,3492,1603,1197,692,sarcasm,neutral
+Yeah. My first day. Why?,1.817180616740088,0.0137784638256196,3178,1302,1155,721,sarcasm,neutral
+Turns out we have to quarantine you for 14 days before we can dump you in the East River.,1.6508921644685803,0.0146703146358198,2578,1357,778,443,exaggeration,negative
+Gotta prove to the boss I can be just as productive from home.,1.6630265210608424,0.0143903911713947,2564,1258,912,394,self-deprecating,positive
+"All right, start singing",1.715527950310559,0.0149877616290964,2415,1096,910,409,unknown,neutral
+Let me know if the smoke bothers you.,1.6517779705117086,0.015635169362052,2306,1191,727,388,sarcasm,neutral
+"It's not cruel, but it is unusual.",1.674066599394551,0.0165577860924551,1982,975,683,324,incongruity-absurdity,negative
+"Soon you'll be sleeping with the rubber duckies, pal.",1.627060830017055,0.0175583727354089,1759,927,561,271,sarcasm,neutral
+Everyone's brave until they get soap in their eye.,1.6256781193490055,0.0174288910564906,1659,867,555,237,sarcasm,neutral
+How did you know Giuliani sent me?,1.7266099635479952,0.0198694480362208,1646,821,454,371,sarcasm,neutral
+"We don't want you to die, just come clean.",1.6208825357364822,0.0178540624565619,1609,833,553,223,sarcasm,negative
+Don't make me use the rubber ducky,1.6195244055068836,0.0187027224205288,1598,866,474,258,sarcasm,negative

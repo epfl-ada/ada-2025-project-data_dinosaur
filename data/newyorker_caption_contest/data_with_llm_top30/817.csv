@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"If three wise, angry men come by, you haven’t seen me.",1.6858156028368794,0.0148693491886294,2820,1461,784,575,sarcasm,negative
+I hope nobody needs to go North.,1.6624579124579124,0.0155659449951579,2376,1220,738,418,unknown,negative
+"A genie granted me one wish. I said, ‘make me a star’.",1.6992385786802031,0.016392971983717,2364,1213,649,502,wit-surprise,neutral
+"They tell you to reach for these, but never what to do you if actually catch one.",1.768107476635514,0.0191920556436973,1712,784,541,387,incongruity-absurdity,neutral
+"You know we brought a flashlight, right?",1.6798245614035088,0.0187756037255527,1596,786,535,275,sarcasm,neutral
+I was really good in school today.,1.695297805642633,0.0193293749103347,1595,792,497,306,incongruity-absurdity,positive
+Stop wasting time asking me how I got it. Hurry up and make a wish!!,1.6076585059635906,0.0180667388701969,1593,849,520,224,sarcasm,negative
+But I wanted the moon.,1.6044164037854889,0.0186041546558163,1585,872,468,245,exaggeration,neutral
+You were supposed to wish upon a star. Not wish a star upon you.,1.6017868538608806,0.0183857666553541,1567,851,489,227,incongruity-absurdity,neutral
+The stars really do feel so much closer outside of the city.,1.6551724137931034,0.0182893840871932,1566,773,560,233,irony,positive
+You told me to pack light.,1.6029889538661468,0.019198481726017,1539,863,424,252,unknown,neutral
+"I said twinkle, twinkle LITTLE star!!!!",1.6357615894039734,0.0192192988491217,1510,796,468,246,incongruity-absurdity,positive
+"As usual, you didn't listen. I asked for the Sun and the Moon . . .",1.610337972166998,0.0192458570636472,1509,830,437,242,exaggeration,negative
+This is Twinkle. He going to tell us what he is.,1.6201859229747675,0.0197573481805825,1506,837,404,265,irony,neutral
+You promised me the moon.,1.6986666666666668,0.0200488322391389,1500,746,460,294,sarcasm,positive
+You know it’s gonna end up in one of our yard sales.,1.6840253342716396,0.0204411527725165,1421,717,436,268,sarcasm,negative
+That was the easy part.  Now let's see you put it in your pocket.,1.6259814418272662,0.0196846541760928,1401,740,445,216,incongruity-absurdity,neutral
+You don’t see stars like this in the city.,1.642135642135642,0.0197991498261483,1386,713,456,217,irony,neutral
+These mushrooms are starting to kick in.,1.6618392469225198,0.0207059720199153,1381,721,406,254,unknown,neutral
+"Nice, but I was hoping for the moon.",1.59009009009009,0.0197878123314489,1332,732,414,186,incongruity-absurdity,positive
+Remember when you said that the stars looked so close you could almost touch them?,1.6022900763358778,0.0194961751642265,1310,690,451,169,sarcasm,neutral
+I'm only going to give this place one star.,1.6666666666666667,0.021344005059725,1287,663,390,234,irony,negative
+Make a really big wish.,1.6444086886564762,0.0212454842242752,1243,648,389,206,exaggeration,neutral
+You'd never see stars like this in the city.,1.6686291000841045,0.0216067004725155,1189,592,399,198,irony,positive
+"Wow, Amazon Prime really does deliver everything.",1.5795454545454546,0.0215768187378029,1144,646,333,165,incongruity-absurdity,positive
+"OK,you win,you do have a heavenly body.""",1.601049868766404,0.0221787965957381,1143,640,319,184,sarcasm,positive
+I don't think I can give this campsite more than one star.,1.6608238387379493,0.0223841985278974,1141,585,358,198,incongruity-absurdity,negative
+Thanks for your effort Honey; but I asked for the moon.,1.613879003558719,0.0226650319241537,1124,625,308,191,exaggeration,positive
+It turns out they’re just cardboard covered in tin foil.”,1.7511190689346463,0.0242127369604561,1117,539,317,261,unknown,negative
+"I'm keeping it. There's so many, no one will notice it's missing.",1.5965391621129326,0.0217205929438867,1098,595,351,152,incongruity-absurdity,neutral

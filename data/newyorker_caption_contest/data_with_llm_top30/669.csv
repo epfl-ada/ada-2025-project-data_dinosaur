@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+He went right from crawling to stand-up!,2.2059180744175775,0.0076579136963239,9057,1677,3843,3537,incongruity-absurdity,neutral
+"Thanks, you've been a great audience, I'll be awake all night.",2.081864564007421,0.0083009848722828,8624,2253,3418,2953,sarcasm,positive
+"I'd like to start off by saying—thanks for having me, folks!",1.9831063383970664,0.0087266033442077,7636,2298,3174,2164,unknown,positive
+My next guests I have known my entire life.,2.0426871938418474,0.0089568247017795,7145,1929,2993,2223,wit-surprise,neutral
+"Look, honey! He skipped crawling and went straight to stand-up!",2.025814642403724,0.0088441719511244,7089,1881,3146,2062,incongruity-absurdity,positive
+... and also big thanks to those tuning in on the baby monitor.,1.928852602420178,0.0090566530967847,6859,2203,2946,1710,self-deprecating,positive
+My next number will be a Number Two.,1.9195979899497488,0.0101509490172983,6368,2368,2145,1855,unknown,neutral
+"America, are you ready for a change?  I know I am",1.969856291622853,0.010814020636388,5706,1992,1894,1820,sarcasm,positive
+"Thank you, thank you.  Don't miss my next show, at 2 AM.",1.9528195488721805,0.0103839243763689,5320,1657,2257,1406,sarcasm,positive
+Look!  He's speaking without crib notes!,1.8299612569952648,0.0112713277893856,4646,1833,1770,1043,sarcasm,neutral
+He's the only candidate actually calling for a change,1.8740314367943325,0.0116347394756926,4517,1701,1684,1132,irony,positive
+I love his bedtime routine.,1.860053739364084,0.0115051823226692,4466,1676,1739,1051,irony,positive
+How about a nice round of applause for the couple that lives down the hall.,1.7412731006160165,0.0111051461729703,4383,1908,1705,770,sarcasm,positive
+"Listen, dear, he's learned all the words he needs to be President.",1.728300958937792,0.0123367627189165,4067,1966,1242,859,sarcasm,neutral
+"Thank you! I’ll be back at 1am, 3am, and 5am!",1.8896725440806048,0.0118206391003643,3970,1344,1720,906,sarcasm,positive
+"And another thing. Why do people say, “Last night I slept like a baby”? I guess that’s fine if they woke up screaming and peed the bed. Heh heh...You guys are great. I’m here all week!",1.7429760665972944,0.0123305892005148,3844,1744,1344,756,self-deprecating,positive
+He’s really been working on his bedtime routine.,1.700885445489762,0.0120076374323877,3614,1651,1396,567,incongruity-absurdity,neutral
+He's got a million listeners and an eight-word vocabulary. FOX News is offering his own series.,1.7996059667886293,0.0136728576256298,3553,1607,1051,895,sarcasm,neutral
+He went from crawling to stand-up overnight!,1.8137808137808136,0.0131044756043938,3367,1345,1304,718,incongruity-absurdity,neutral
+I'd like to thank my producers...,1.785604900459418,0.0133451259141157,3265,1374,1217,674,sarcasm,positive
+Well he can't be any less qualified than our current President.,1.6741573033707866,0.0144269107630719,2848,1459,858,531,sarcasm,negative
+"Did you hear the one about the dirty diaper? Never mind, it stinks.",1.683339203945051,0.0139384006869778,2839,1382,977,480,unknown,negative
+The time for a change is now!,1.7189306358381502,0.0143870564415507,2768,1291,964,513,exaggeration,neutral
+Now we just need to neglect him so he'll have lots of material.,1.7964731814842028,0.0148769448776619,2722,1153,970,599,sarcasm,neutral
+"Look Honey, he's already more articulate than Trump.",1.6550812240272006,0.0149532760504939,2647,1397,766,484,irony,positive
+Maybe we should have played Mozart instead of Sinatra.,1.725362872421696,0.014675341241234,2618,1196,945,477,incongruity-absurdity,neutral
+I see we have our two regulars here for the late show.,1.6684740511231604,0.0140910348022867,2582,1264,923,395,sarcasm,neutral
+"Incomplete sentences.  Limited vocabulary.  Slurred words.  Ill-fitting clothes. The military as props in the background.  An inauguration-sized crowd.  Honey, I think someday our Joey could be the president!",1.6511728931364031,0.0161285971329389,2302,1243,624,435,exaggeration,negative
+"And now, for the two people who made it all possible...",1.683673469387755,0.0148605260774213,2254,1030,907,317,sarcasm,positive
+Let's have a hand for the folks who made this all possible.,1.9589570255915016,0.016755209887757,2071,646,864,561,incongruity-absurdity,positive

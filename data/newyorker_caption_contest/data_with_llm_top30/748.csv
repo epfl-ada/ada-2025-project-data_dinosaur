@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Study for six years in Paris and you're stuck in some rib joint.,1.8371857258718576,0.0111366702864971,4932,1975,1785,1172,irony,neutral
+Talk about being consumed by your work.,1.8617278522752256,0.0114535171649789,4549,1715,1748,1086,incongruity-absurdity,neutral
+I thought you said the job was in Wales!,1.8420819490586933,0.0119786827187418,4515,1875,1478,1162,irony,neutral
+Not the return to inside dining I was expecting,1.851590909090909,0.0118328251346984,4400,1730,1593,1077,sarcasm,negative
+This isn't what I thought a return to inside dining would look like.,1.8185951352580132,0.011877257832213,4399,1836,1525,1038,sarcasm,negative
+I can't stand working on an empty stomach.,1.8064589492836025,0.0117668452985557,4397,1846,1556,995,incongruity-absurdity,negative
+I hear that the dinner crowd comes in waves.,1.8452634065674465,0.0119534458732807,4233,1658,1572,1003,wit-surprise,neutral
+I would prefer to go out the way we came in.,1.868321513002364,0.0120457671730291,4230,1613,1561,1056,wit-surprise,negative
+I thought they said the job was in WALES,1.8259501331396757,0.0123729189966478,4131,1728,1394,1009,irony,neutral
+I guess its just us for dinner,1.8593598448108632,0.0123239002636691,4124,1622,1460,1042,sarcasm,neutral
+I’m beginning to think that we may be the catch of the day.,1.8107358870967745,0.0122466816578866,3968,1627,1465,876,sarcasm,neutral
+"It's slow now, but we'll be pooped by the end of the night.",1.8465057179161373,0.0131263967780367,3935,1682,1175,1078,self-deprecating,negative
+"hate to say it, but there's a way out in the back",1.8319768968233132,0.0127892763148547,3809,1560,1329,920,unknown,negative
+Wales. I said some of the finest chefs in the world trained in WALES.,1.8047337278106508,0.0132949467607533,3549,1527,1188,834,irony,positive
+I swore I'd never work in another rib joint.,1.8036581880537297,0.0129547879987279,3499,1438,1310,751,unknown,negative
+The catch of the day should be arriving any second.,1.7842170160295932,0.0134139256093657,3244,1372,1200,672,incongruity-absurdity,neutral
+I usually wake up at this point.,1.866377874041986,0.0144483419415372,3001,1167,1068,766,irony,neutral
+"Dude, I swear the ad said this gig was in Wales.",1.7777777777777777,0.0147183366586725,2844,1262,952,630,irony,negative
+De-boning is going to be a bitch.,1.7824358511022769,0.0146874479003205,2767,1192,985,590,unknown,negative
+"I thought the agency meant a cooking job in Wales.""",1.7754868270332187,0.0153615430942533,2619,1169,869,581,incongruity-absurdity,neutral
+"The difference between ""let's eat, chefs!"" and ""let's eat chefs!"" is not as subtle as one would think.... --",1.8142747505755947,0.0154387741633236,2606,1096,898,612,wit-surprise,neutral
+I cannot cook in an empty stomach.,1.7826086956521738,0.0155775484433507,2507,1094,864,549,self-deprecating,negative
+We'll just have to work with what comes in.,1.77058582548136,0.0153179788571376,2441,1043,915,483,incongruity-absurdity,neutral
+You’re not going to like the exit route..,1.7692963752665245,0.0160172696273545,2345,1038,810,497,sarcasm,negative
+I guess we're the catch of the day.,1.7808159722222223,0.0158933247432685,2304,978,853,473,sarcasm,neutral
+"Man, they weren't kidding when they said this was a bare bones kitchen.",1.7660924750679965,0.0163436212566961,2206,968,786,452,incongruity-absurdity,negative
+I don’t like to cook in an empty stomach.,1.775239835541343,0.0165219266655088,2189,955,771,463,wit-surprise,negative
+"Counting the blow hole, there are 3 ways out of this.",1.7641119779715466,0.0163505017149596,2179,952,789,438,wit-surprise,neutral
+So much for “we’ve got bigger fish to fry”,1.7669956140350878,0.0178036488322155,1824,789,671,364,sarcasm,negative
+I imagined the return of indoor dining differently.,1.752676056338028,0.0183511780628646,1775,804,606,365,irony,neutral

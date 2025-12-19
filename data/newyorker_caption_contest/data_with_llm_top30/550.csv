@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"When I asked you to line up a meeting with the Department Chairs, this is not what I meant.",1.9525032092426189,0.030158717296386,779,295,226,258,sarcasm,neutral
+1,Are you willing to relocate?,1.809756097560976,0.0380796857929811,410,168,152,90,sarcasm,neutral
+2,Where do you see yourself five chairs from now?,1.7979274611398963,0.0410348556313208,386,172,120,94,incongruity-absurdity,neutral
+3,"Actually, we were looking for someone a bit more aggressive.",1.7460815047021945,0.041939978419163,319,140,120,59,sarcasm,neutral
+4,"At one point I had them in a semicircle, but it gave people a sense of equality.",1.7452830188679245,0.043684074449362,318,147,105,66,wit-surprise,neutral
+5,Martin realized he was facing some fierce competition for the ghost writer position.,1.7290969899665551,0.0472655639626015,299,151,78,70,wit-surprise,neutral
+6,For $25 you can upgrade to the Business Class interview.,1.7132616487455197,0.0464101476650557,279,135,89,55,exaggeration,neutral
+7,"As you can see, we do things differently here at Pez.",1.6920152091254752,0.0496779796514753,263,138,68,57,unknown,neutral
+8,Obviously you weren't my first choice.,1.6823529411764706,0.0467023708618145,255,124,88,43,sarcasm,negative
+9,What makes you think you were not our first choice?,1.6811023622047243,0.0451792448075408,254,119,97,38,sarcasm,negative
+11,"To be honest, you weren't our first choice for this position.",1.6785714285714286,0.0468721061568907,252,123,87,42,sarcasm,negative
+10,I'm looking for someone with whom I can work closely--but not too closely.,1.6785714285714286,0.0437312057208088,252,114,105,33,wit-surprise,neutral
+12,You weren't our first choice.,1.6746987951807228,0.0480630460278089,249,125,80,44,sarcasm,negative
+13,Where do you see yourself sitting in five years?,1.6720647773279351,0.0456164501115422,247,117,94,36,unknown,neutral
+14,"I'm afraid this is the end of the line for you, Jenkins.",1.6666666666666667,0.0479662141663751,246,124,80,42,sarcasm,negative
+15,"The good news is, there's room for advancement.",1.6625,0.046431684494159,240,116,89,35,unknown,positive
+16,Thank you for lining up a meeting with the department chairs.,1.6582278481012658,0.0523557289839196,237,131,56,50,sarcasm,positive
+17,"As you can see, we have plenty of advancement opportunities.",1.6567796610169492,0.045178484147901,236,111,95,30,incongruity-absurdity,positive
+18,"So, how's the assertiveness training course going?",1.6567796610169492,0.048637985876013,236,120,77,39,sarcasm,neutral
+20,"I have good news and bad news, Agent 008.",1.651063829787234,0.0521212572752061,235,130,57,48,wit-surprise,positive
+21,Correct. Advance one chair.,1.6415929203539823,0.0465039359408175,226,110,87,29,wit-surprise,neutral
+22,"I must admit, you weren't our first choice.",1.6330275229357798,0.0451986323991494,218,103,92,23,sarcasm,negative
+26,Where do you see yourself in seven chairs?,1.625,0.0505407878024948,216,115,67,34,incongruity-absurdity,neutral
+23,"For an additional $75, you can upgrade your interview from economy to first class.",1.6261682242990654,0.0504669647039945,214,113,68,33,exaggeration,neutral
+24,"Well, you're remotely qualified.",1.6261682242990654,0.049145535092186,214,110,74,30,sarcasm,neutral
+25,"Norm, this isn't what I meant about lining up a meeting.",1.6261682242990654,0.0504669647039945,214,113,68,33,sarcasm,neutral
+27,"I won't lie, you are not my first choice.",1.6208530805687205,0.0497495978682245,211,110,71,30,sarcasm,negative
+28,"I have a risky assignment for you, 008.",1.6208530805687205,0.0536772887755878,211,119,53,39,wit-surprise,neutral
+29,We got rid of middle management.,1.619047619047619,0.0504081788589085,210,111,68,31,unknown,neutral
+30,"I'm afraid it's the end of the line for you, Mr. Jones.",1.6153846153846154,0.0494372759167039,208,108,72,28,sarcasm,negative

@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Sink or swim is nothing. Be glad you weren't here when the corporate culture was dog eat dog.,1.8146984924623115,0.0117955106718844,4776,2131,1407,1238,wit-surprise,negative
+And the boss thought he walked on water,1.7456059204440333,0.0118754741600818,4324,2028,1376,920,wit-surprise,neutral
+He looked solid on paper.,1.8094657233471576,0.0124655473201697,4099,1770,1340,989,wit-surprise,positive
+He's just treading water until he can retire.,1.787902187902188,0.012222614814614,3885,1644,1428,813,wit-surprise,neutral
+They say it’s better for your back than a standing desk.,1.7947198275862069,0.0128131579929915,3712,1610,1262,840,incongruity-absurdity,neutral
+Carl manages our liquid assets.,1.7497928748964375,0.0125948012415922,3621,1606,1315,700,unknown,neutral
+We’re all drowning in work Harold - spare us the drama.,1.799013921113689,0.0135486150156781,3448,1507,1127,814,sarcasm,negative
+That's Phil from liquidations.,1.7452113104287017,0.0133539739722872,3289,1520,1099,670,sarcasm,neutral
+"And this is Wade. Seriously, his name is Wade.",1.808503937007874,0.0140932160009728,3175,1363,1057,755,irony,neutral
+That's Norm. He handles our liquid assets.,1.7345188948872658,0.0134678456839898,3149,1428,1129,592,wit-surprise,neutral
+"It's always something with this guy - one day he's buried in paperwork, the next day he's drowning in it",1.7557077625570776,0.0138937772867178,3066,1373,1069,624,unknown,negative
+"Tim's a nice guy, but he's prone to the occasional meltdown.",1.7374543037554004,0.0137313883009159,3009,1352,1095,562,self-deprecating,negative
+"He lost his regular position, so we made him a floater.",1.7304085733422638,0.0138509099742824,2986,1366,1059,561,unknown,neutral
+All the MBAs think they can walk on water.,1.7393939393939395,0.0141609873112192,2970,1372,1000,598,wit-surprise,neutral
+"You'll be working with Hal here, in Liquidations. 
+They're swamped.",1.735736786839342,0.0141359072159905,2857,1315,991,551,sarcasm,neutral
+Legal warned him he was on thin ice.,1.740323715693174,0.0142708766800827,2842,1287,1006,549,incongruity-absurdity,negative
+Apparently I was mistaken. He's not in over his head.,1.7256795422031477,0.0139766342406422,2796,1252,1059,485,sarcasm,negative
+"Well, I warned him that he was on thin ice.",1.7383551673944686,0.0142128039377174,2748,1216,1035,497,sarcasm,negative
+We think he's been leaking information.,1.7502734232592052,0.0146667609633296,2743,1237,954,552,wit-surprise,neutral
+"I said, 'You're literally on thin ice.' And he said, 'I don't think you know what literal means'"".",1.7148217636022514,0.015008747007558,2665,1288,849,528,wit-surprise,negative
+I think he’s regretting his decision to liquidate.,1.7226890756302522,0.0150346415563395,2618,1238,868,512,exaggeration,negative
+Looks like he’s having another meltdown.,1.717357910906298,0.0145145238160489,2604,1186,968,450,sarcasm,negative
+He’s making progress. Last week he was up to his eyeballs.,1.8070973612374883,0.0161800781406784,2198,885,852,461,incongruity-absurdity,positive
+"Sometimes, I yell, ""Marco"", just for fun.",1.7735124760076777,0.0177332527961139,2084,972,612,500,incongruity-absurdity,neutral
+I thought having a meltdown was just a metaphor.,1.733044733044733,0.0168791570467972,2079,967,700,412,self-deprecating,negative
+Looks like Charles won the office pool,1.7366071428571428,0.0171237280670805,2016,931,685,400,sarcasm,positive
+"As you see, it's sink or swim around here.",1.713998996487707,0.0165923414920792,1993,913,737,343,incongruity-absurdity,neutral
+You'd be surprised how many people think that's a rug.,1.7212456052235057,0.0175927875129095,1991,968,610,413,incongruity-absurdity,negative
+"They say it's good for your back, but I still prefer a desk.",1.6972381448671183,0.0169310568605441,1919,941,632,346,unknown,positive
+You’ll be replacing Carl in handling liquidations.,1.696343402225755,0.0169460961807543,1887,917,639,331,sarcasm,neutral

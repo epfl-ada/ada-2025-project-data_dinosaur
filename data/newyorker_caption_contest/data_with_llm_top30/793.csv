@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It's an appetizer. I'm having people for dinner tonight.,1.821841851494696,0.013022885309035,4148,1894,1099,1155,unknown,neutral
+"No bag, thanks. I want my wife to think I caught it.",1.7692542787286063,0.013693161105052,3272,1468,1091,713,incongruity-absurdity,neutral
+Throw it to me.  I want to say I caught it.,1.814803247970019,0.0140911920373739,3202,1369,1057,776,incongruity-absurdity,neutral
+I’d appreciate the ‘Endangered Species’ discount,1.717754651529486,0.0137352359224207,3171,1522,1022,627,sarcasm,neutral
+This is the only place I can get wild-caught anymore.,1.711318795430945,0.0140594893773936,2889,1362,999,528,exaggeration,negative
+Obviously you haven’t stood for hours in a freezing river trying to catch one with your mouth!,1.7591822591822592,0.0143210884896039,2886,1285,1011,590,sarcasm,negative
+Teach a bear to shop and he will never have to fish again.,1.916985064258423,0.015321855925953,2879,1102,914,863,incongruity-absurdity,neutral
+"Sure, it's fresh.  I know the guy who caught it.",1.6902212705210564,0.0156616454368909,2802,1531,608,663,irony,neutral
+There were a dozen but I got hungry in line.,1.705366922234392,0.0143264694387146,2739,1292,962,485,incongruity-absurdity,neutral
+Don't bother with the bag -- I'll eat it in the car.,1.7533482142857142,0.0145424594071294,2688,1177,997,514,incongruity-absurdity,neutral
+Can I get a discount? This fish is dead.,1.7570128885519334,0.0152756469137451,2638,1210,859,569,unknown,negative
+When I said Holy Mackerel...I meant the price,1.714503816793893,0.0150705076660497,2620,1260,848,512,exaggeration,neutral
+No bag—my cubs still think I catch my own salmon.,1.7625145518044238,0.0147009090473271,2577,1096,997,484,irony,neutral
+"When I was a kid, we had to catch our own fish!",1.7649122807017543,0.0150884045814126,2565,1121,926,518,incongruity-absurdity,neutral
+"That didn’t come from a river where peanuts are processed, did it?",1.7581213307240704,0.0157197820072076,2555,1190,793,572,incongruity-absurdity,neutral
+"I used to catch them myself. But by the time I fly up to Alaska and take a taxi out to the river, the carbon footprint is the same.",1.7228628230616303,0.0153193814711791,2515,1187,838,490,irony,neutral
+I was in the mood for fast food tonight,1.7473382473382473,0.0152325032630475,2442,1078,903,461,sarcasm,positive
+You didn't see me here.  My wife thinks I catch these.,1.6609745939192004,0.0156759920788739,2401,1253,709,439,incongruity-absurdity,neutral
+The stream was on my commute but we're work-from-home now.,1.7679582063561168,0.0159477727967845,2297,999,832,466,irony,neutral
+I had to stop catching them myself.  Bad arthritis.,1.6782490974729245,0.0177908496633102,2216,1248,433,535,incongruity-absurdity,negative
+The airline said I could check one emotional support animal.,1.7166970802919708,0.0169576710737112,2192,1089,635,468,irony,neutral
+"I used to look for fish in rivers, but then I found this place.",1.690792487402657,0.0159268701121738,2183,1046,766,371,unknown,neutral
+I'm on a salmon run.,1.7988800746616893,0.0169597068104509,2143,919,736,488,irony,neutral
+"Believe me, I can tell fresh from frozen!",1.6915142991092358,0.01588165609602,2133,1004,783,346,incongruity-absurdity,positive
+I'd like to return it for something in salmon.,1.7008099094807052,0.016466942009059,2099,1005,717,377,irony,neutral
+"I was assigned omnivore at birth, but I  identify as pescatarian.",1.7376970855231724,0.0171577478050689,2093,991,660,442,incongruity-absurdity,neutral
+I miss the chase.,1.6997590361445782,0.0161463105631267,2075,966,766,343,unknown,neutral
+I find my odds are much better at catching them here.,1.7137274059599414,0.0163693698150422,2047,938,757,352,incongruity-absurdity,neutral
+"If it comes up, you never saw me. I told my family I was going to the river",1.695328031809145,0.0163092410221681,2012,938,749,325,sarcasm,neutral
+"This is wild caught, right?",1.6841025641025642,0.0171006797433453,1950,961,644,345,irony,neutral

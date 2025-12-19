@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+So much for death-defying.,1.693784078516903,0.0115587856603087,4585,2321,1347,917,self-deprecating,negative
+John 3:16 still the time to beat!,1.7292702066439969,0.0130825235932473,3823,1908,1042,873,irony,positive
+This is his last resort.,1.577322331647591,0.0128243196064736,3757,2290,765,702,wit-surprise,negative
+He’s got on way too many layers for where he’s going.,1.6639978649586336,0.0125818263267541,3747,1952,1102,693,unknown,negative
+"Yeah, I know. His Dad owns the place.",1.7209110867178925,0.0131831959063452,3644,1804,1053,787,sarcasm,neutral
+How he keeps mixing up Shalom and Slalom is beyond me.,1.7335691128794577,0.0137727792351851,3393,1664,969,760,irony,negative
+You won’t see that in hell.,1.6805764034824378,0.013122675935744,3331,1657,1081,593,incongruity-absurdity,negative
+OMG Hell must have frozen over.,1.7170834588731545,0.013996441026805,3319,1681,896,742,sarcasm,negative
+Most folks opt for wings.,1.705864570737606,0.013007104462049,3308,1555,1171,582,incongruity-absurdity,neutral
+You’d think he’d wear a helmet this time,1.7102308172177167,0.0136474968186376,3206,1556,1023,627,sarcasm,neutral
+There's no snow where he's going.,1.681704260651629,0.0135879738889131,3192,1610,988,594,incongruity-absurdity,negative
+"It’s not what most people expect God to look like, I know",1.7028894472361809,0.0139454048770252,3184,1599,932,653,irony,neutral
+Moses is back from the mountaintop.,1.6181646763042112,0.013257590668534,3182,1729,939,514,incongruity-absurdity,neutral
+Behold the slippery slope.,1.671306548560582,0.0135112523855176,3161,1602,996,563,wit-surprise,negative
+Oh that's the-agony-of-defeat guy.  God gave him a free pass.,1.6224912392481683,0.013342880443826,3139,1693,938,508,sarcasm,neutral
+The last run of the day is always a killer,1.6873203449377197,0.0138168814613538,3131,1578,954,599,unknown,negative
+"Yes, there is golf as well.",1.7122279129321385,0.013271105213657,3124,1438,1147,539,irony,neutral
+That’s our premium level.,1.6349053577157524,0.0131382505957032,3117,1615,1025,477,wit-surprise,neutral
+He doesn't yet know that he is approaching his final gate.,1.6945781199871672,0.0137160947827846,3117,1535,999,583,wit-surprise,neutral
+He'll be penalized for missing this gate.,1.6697809278350515,0.0135197733132756,3104,1562,1005,537,irony,negative
+Another perk of Heaven. No snowboarders allowed.,1.6303577183370932,0.0134103247895676,3103,1651,948,504,unknown,positive
+He’s actually not dead..yet.,1.704795852235904,0.0138646269831048,3086,1505,987,594,exaggeration,neutral
+There's always someone who tries to skip the line.,1.6199346405228758,0.0131513648076079,3060,1612,999,449,sarcasm,negative
+"Oh, that person is a Unitarian. Unitarians have a different process.",1.6288312563152576,0.0138934960172438,2969,1606,859,504,irony,negative
+This is the only elevation that still gets real snow.,1.714334124025754,0.0142436836446903,2951,1425,944,582,incongruity-absurdity,neutral
+The fourth member of your party is arriving any second now.,1.637468716481945,0.0140163967611087,2797,1459,893,445,sarcasm,neutral
+"If he sticks the landing, he can stay.",1.6506456241032998,0.0142405208023766,2788,1445,872,471,sarcasm,neutral
+That sport has been great for business.,1.6494126284875184,0.0143348135254822,2724,1407,865,452,unknown,positive
+Even before he arrived he was going downhill fast.,1.6204863669859986,0.0141156272607595,2714,1444,856,414,unknown,negative
+"Well, they do say fresh powder is heaven.",1.639574629699962,0.0142181773115663,2633,1346,890,397,irony,positive

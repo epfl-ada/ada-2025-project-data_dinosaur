@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Call to let me know you got home safe.,1.7118736383442266,0.0128075713198096,3672,1787,1156,729,sarcasm,positive
+Where do you see yourself in five seconds?,1.7499268792044458,0.0134980605653465,3419,1599,1076,744,incongruity-absurdity,neutral
+So...how long has the circus been letting you work from home?,1.7141509433962263,0.0142304098987382,3180,1608,873,699,sarcasm,neutral
+A circus? Really. And what do you do there?,1.6819531507753216,0.0138803071737566,3031,1520,955,556,sarcasm,negative
+Very impressive—my dates usually end the evening by pretending to receive a phone call.,1.6883459887751733,0.0139536770940254,3029,1512,949,568,sarcasm,positive
+"I hate to see you go, but I love to watch you leave.",1.7452673530388576,0.014606526329368,3011,1448,882,681,sarcasm,negative
+I heard you were leaving but I didn't know you were getting fired.,1.6964824120603017,0.0144467329176297,2985,1520,851,614,sarcasm,neutral
+I would say my two biggest fears are a woman leaving me and loud noises.,1.6782786885245902,0.0144316083436789,2928,1515,840,573,self-deprecating,negative
+I never thought I'd find a woman of your caliber.,1.660057678442682,0.0145676569097639,2774,1448,821,505,sarcasm,negative
+It might be lower risk to just get the vaccine and fly commercial.,1.704966641957005,0.0153797171926334,2698,1376,742,580,sarcasm,neutral
+My place is just 35 degrees away if you need a place to crash.,1.712280701754386,0.0155079468593957,2565,1266,771,528,irony,neutral
+I was fired recently myself.,1.7162373145979704,0.015223975191367,2562,1227,835,500,irony,negative
+"Usually, the women I meet just say they have to go the the bathroom.",1.6654874213836477,0.0149830728138748,2544,1294,807,443,sarcasm,neutral
+Mind if I ask you a loaded question?,1.663170633319887,0.0152346468612322,2479,1271,772,436,sarcasm,neutral
+Are you sure I can't just drive you home?,1.6890651085141903,0.0151744634855334,2396,1149,843,404,sarcasm,neutral
+Or I could just get you an Uber.,1.6620450606585788,0.0154585694898201,2308,1158,772,378,sarcasm,neutral
+I admire your exit strategy.,1.647732276530163,0.0154727953241788,2271,1158,755,358,sarcasm,positive
+Don't often meet a woman of your caliber.,1.6418109187749668,0.016092488642699,2253,1205,649,398,sarcasm,neutral
+"So, what makes you think you’re going to be fired?",1.660916931457104,0.0160633113996704,2203,1126,698,379,sarcasm,neutral
+Are you sure you don't want me to call you an Uber?,1.6538994000922935,0.0159120863007526,2167,1099,719,349,sarcasm,neutral
+Godspeed.,1.6391992551210428,0.0176298014830773,2148,1244,435,469,sarcasm,positive
+Not quite what I was expecting from your launch party,1.6831730769230768,0.0166736794110637,2080,1035,669,376,sarcasm,negative
+And then when Phil described you as a 'Blonde Bombshell' I thought he was just being misogynistic.,1.7085995085995087,0.0175177485878255,2035,1018,592,425,sarcasm,negative
+It's so hard to find women of your caliber.,1.6345565749235471,0.0172357608472457,1962,1061,557,344,sarcasm,negative
+"''When we play the 1812 Overture, that's your cue.''",1.6661450182576942,0.0172609979781383,1917,974,609,334,wit-surprise,neutral
+I've been instructed to keep you away from the powder room.,1.684044233807267,0.0176468980710551,1899,956,587,356,sarcasm,neutral
+"Rumor has it, you have a short fuse.",1.675338753387534,0.017387189908819,1845,911,622,312,sarcasm,negative
+Its nice to meet someone of your caliber.,1.629175946547884,0.0178834171508717,1796,972,518,306,sarcasm,positive
+Impressive exit strategy!,1.627986348122867,0.0171897452266491,1758,905,602,251,sarcasm,positive
+I like a woman with an exit strategy.,1.6428978893325727,0.0179035734524413,1753,917,545,291,sarcasm,positive

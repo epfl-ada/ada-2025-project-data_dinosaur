@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Worse than a cold. It's a common cold.,2.2038674033149173,0.0066020402214666,12670,2470,5147,5053,incongruity-absurdity,negative
+I’m afraid we’ve found a problem with the Crown Jewels.,2.2047504758751963,0.0069833906493221,12083,2576,4457,5050,wit-surprise,negative
+"Well, the good news is, it’s not just a pain in the ass; it’s a royal pain in the ass.",2.0415435580624943,0.0074830693516139,11169,3270,4165,3734,sarcasm,positive
+Experiencing any trouble on the throne?,2.0408686887198755,0.0074502183608286,10913,3091,4285,3537,sarcasm,neutral
+"On the bright side, I've got some good news for the prince.",2.0893546607832323,0.0076016588585665,10878,2976,3954,3948,incongruity-absurdity,positive
+"Well, King Midas, you really shouldn’t have touched that area.",1.9883491496758432,0.0077771276924326,10643,3488,3791,3364,incongruity-absurdity,negative
+"It’s not a king’s ransom, it’s your co-pay.",1.975885019774284,0.0077183542649803,10367,3329,3959,3079,wit-surprise,neutral
+"Under pre-existing conditions, why did you write 'Frog'?",2.0700080353555643,0.0081208172319687,9956,2944,3371,3641,irony,neutral
+Well lets just say Long live the King may be a bit on the optimistic side,2.0646366311976454,0.0080559729916561,8834,2265,3733,2836,exaggeration,positive
+The robe is supposed to open in the back.,1.8920529012272131,0.0085144688006928,8393,3055,3189,2149,unknown,neutral
+You need to excersise. Try moving more than one square at a time.,1.8836098541980897,0.0087378783174681,7956,2933,3016,2007,incongruity-absurdity,neutral
+So you want to become a Queen?,1.931844288449266,0.0091595822866911,7835,2860,2649,2326,wit-surprise,neutral
+This may be your kingdom but you’re out of our network,1.9185214109071975,0.0089341600049423,7683,2694,2921,2068,sarcasm,negative
+And come back if you have an insurrection that lasts longer than 4 hours.,1.9164954505429996,0.0097459397133054,6814,2513,2357,1944,sarcasm,negative
+"... but first, what happened to the last doctor who ordered a colonoscopy?",1.851391798862616,0.0095052468795166,6682,2587,2501,1594,sarcasm,neutral
+"Have you ever experienced delusions of grandeur, Mr. Smith?",1.861947469570788,0.0099985498643766,6244,2439,2228,1577,wit-surprise,negative
+I said impotent not omnipotent.,1.8537924151696608,0.0100230382028364,6012,2319,2253,1440,wit-surprise,neutral
+No collusion but there may be an obstruction.,1.8528766661042688,0.0104119855533866,5927,2404,1991,1532,irony,neutral
+One of us has to tell the queen she also needs a penicillin shot.,1.8039878938935376,0.0103836425188184,5617,2359,2000,1258,sarcasm,neutral
+It’s quite common among Middle Age men.,1.87086856264412,0.0106641209390879,5204,1919,2038,1247,incongruity-absurdity,neutral
+You've crossed off Anne as your emergency contact.,1.8393341076267904,0.0110341508866994,5166,2106,1784,1276,sarcasm,neutral
+"Aside from beheadings, is there any other family history of surgery?",1.8070244672454616,0.0107530356282258,5068,2068,1910,1090,sarcasm,negative
+Your blood work indicates that you are healthy and the court jester was your father.,1.7869608826479435,0.0109403397419693,4985,2131,1785,1069,wit-surprise,neutral
+Occupation?,1.749591836734694,0.0108457927028079,4900,2179,1769,952,unknown,neutral
+Now we come to 'the Emperor has no clothes' part of the exam.,1.800578034682081,0.0110748455192206,4844,2018,1774,1052,wit-surprise,neutral
+"Is this your first winter of  discontent?""",1.750221827861579,0.0110720826097603,4508,1949,1736,823,irony,neutral
+"Ahhh, why yes, I have attended royal balls before.",1.7590661831368994,0.0116666310585349,4412,1984,1507,921,sarcasm,positive
+"So, the drawbridge is stuck in the down-position?",1.7632434944237918,0.0117012159609568,4304,1898,1527,879,irony,neutral
+"You'll need to alert your past partners, including all the King's horses and all the King's men.",1.840586455666744,0.012244827586632,4297,1781,1420,1096,sarcasm,neutral
+Is the royal pain in the usual place?,1.8071428571428572,0.0118675065453051,4200,1725,1560,915,sarcasm,negative

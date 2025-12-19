@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You all remember Phil — we used to hang out under his bed.,2.11263907124594,0.0065426367786726,14471,3766,5311,5393,incongruity-absurdity,neutral
+"Publicly, we're still saying there are no side effects.",2.34137523465202,0.0063175174651533,14383,2526,4427,7428,irony,neutral
+This is a good point to stop the meeting; I see that lunch has arrived.,2.03758206927779,0.0070105988668813,13251,4074,4601,4573,incongruity-absurdity,positive
+"Do we need to discuss diversity, or are we good?",1.9636292530308956,0.0069356184324813,12785,4173,4903,3708,sarcasm,neutral
+Dr. Smith here will explain what went wrong with the clinical trial.,2.0101719544683943,0.0069217559740312,12387,3626,5016,3745,exaggeration,negative
+"Suddenly,  Jeff realized he should have posted his resume on other sites besides monster.com",2.0302907260029235,0.0072876798827733,12314,3861,4225,4227,incongruity-absurdity,neutral
+Apparently we’re the only people willing to work in the White House during Trump’s second term.,1.9334969325153375,0.0075900311729036,12225,4753,3538,3934,sarcasm,neutral
+"Good, Human Resources is here.",1.946831275720165,0.007292803065736,12150,4275,4251,3623,sarcasm,positive
+He’s an attorney. Of course he’s cold-blooded.,1.930758148748424,0.0076764771939352,11106,4048,3782,3276,sarcasm,negative
+"Everyone I would like you to meet Andy, our diversity hire.",1.8778973911356804,0.0076775901280239,10311,3847,3878,2585,sarcasm,positive
+Didn't we order Chinese?,1.8435426802299868,0.0086875632308576,9044,3917,2630,2497,incongruity-absurdity,neutral
+The ambassador from earth says they will not try to colonize Mars if we provide dirt on Joe Biden.,1.8335269516728625,0.0087984565937746,8608,3711,2622,2275,exaggeration,neutral
+I'd like to introduce one of our human resources,1.7784906100548232,0.008112440657828,8573,3583,3308,1682,wit-surprise,neutral
+Mr. Reilly will serve as the face of our Company.,1.8014740846409891,0.0082908546707904,8412,3440,3204,1767,wit-surprise,neutral
+"He brings a fresh perspective, and frankly, we need his opposable thumbs.",1.9260407968507691,0.0086159124782792,8383,2941,3121,2321,wit-surprise,positive
+So the board still has no women?,1.8186541958950375,0.0091020621663822,7698,3285,2525,1887,irony,negative
+Don't you guys remember Timmy?  We all used to hide under his bed.,1.83470268764796,0.0091065442930894,7181,2842,2688,1650,irony,neutral
+Looks like someone forgot that it was casual Friday.,1.7860559501377011,0.0091831513004467,6899,2910,2558,1431,irony,negative
+"Obviously, half of you received a placebo.",1.82536599940245,0.0098996804224405,6694,2882,2099,1713,sarcasm,negative
+He was a rescue.,1.8039245283018868,0.009607057356427,6625,2807,2312,1506,irony,neutral
+Take it easy now. We all looked like that on our first day.,1.8177091298363663,0.0095237831081202,6539,2658,2421,1460,self-deprecating,neutral
+"Now today team, Zogg has brought along his emotional support human.",1.79247073710851,0.0098354706436806,6322,2725,2184,1413,sarcasm,neutral
+"All those in favor, raise something.",1.7866275051831375,0.0103347007659221,5788,2538,1947,1303,incongruity-absurdity,neutral
+"Love your Halloween costume, Ed.
+Creepy. Take a seat.",1.8864902506963788,0.0104639762358932,5744,2169,2058,1517,sarcasm,positive
+"So it's agreed, the bathrooms will be species neutral.",1.762266148958701,0.009998416441325,5666,2440,2134,1092,incongruity-absurdity,neutral
+Our ethos is ‘diversity without judgment’.,1.6900826446280992,0.0108394509263241,5082,2551,1553,976,incongruity-absurdity,positive
+The Phase 2 antidote has failed,1.7389152810768012,0.011482811966533,5052,2519,1334,1198,irony,negative
+All in favor of having Stan for lunch?,1.678550089623581,0.0106543168764861,5021,2501,1635,885,irony,neutral
+"He may not look like a monster at first glance, but this is the pharmaceutical rep I’ve been telling you about.",1.7342629482071714,0.0108489823764652,5020,2339,1681,1000,sarcasm,negative
+"I know you're skeptical, but he claims he can cure our reptile dysfunction.",1.8573484069886947,0.0118180959858512,4865,2049,1461,1355,wit-surprise,neutral

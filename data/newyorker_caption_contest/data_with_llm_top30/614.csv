@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4,The public is saying your latest work is inaccessible.,1.8535505934419636,0.0110293512836713,4971,1920,1859,1192,sarcasm,negative
+2,The Zen Way is on the next mountain. This is the Steinway.,1.870622772069616,0.0118056872713413,4769,1933,1520,1316,wit-surprise,neutral
+1,Your lesson was yesterday.,1.8788200339558572,0.0116866901089065,4712,1836,1611,1265,sarcasm,neutral
+6,The Craigslist ad said it's free if I pick it up myself...?,1.842860201241704,0.0114436839856557,4671,1853,1699,1119,irony,neutral
+8,I'm moving all of my music to the cloud.,1.825389755011136,0.0118097472895005,4490,1866,1542,1082,exaggeration,neutral
+3,I know you didn't send for a tuner. The people down in the valley did.,1.8629671574178936,0.0122074203948876,4415,1796,1428,1191,incongruity-absurdity,neutral
+9,"To be honest with you, we regret both the promise of free delivery and the promise of lifetime tunings.",1.8,0.0119394391163112,4340,1863,1482,995,sarcasm,negative
+11,Is this the Steinway to Heaven?,1.7911424257674886,0.0127052066528864,3974,1776,1252,946,incongruity-absurdity,neutral
+17,"I know you're discouraged by the turnout, but I think it's the venue.",1.7726224045116636,0.0120342248758259,3901,1646,1496,759,sarcasm,negative
+15,With a helicopter. You've got two questions left.,1.777923097044206,0.012607422970836,3823,1680,1312,831,wit-surprise,neutral
+21,I see that no one but you plays at this level.,1.7561818665248603,0.0123171561991177,3761,1643,1392,726,sarcasm,neutral
+20,There've been complaints about the hills being alive with the sound of music.,1.7585378868729988,0.0126701351195113,3748,1689,1275,784,wit-surprise,negative
+23,Big deal! Try it with a piano on your back.,1.7505359056806002,0.0129767139352029,3732,1754,1155,823,unknown,neutral
+5,Everyone wants the secret of life. No one asks how the hell I got this baby up here.,1.8526543878656556,0.0130923934294402,3692,1480,1276,936,unknown,negative
+19,"I guess if you can make it here, you can make it anywhere.",1.7697841726618706,0.0128749861509234,3614,1594,1258,762,irony,neutral
+14,"Franz, just call it ""Unfinished"" and come down.",1.779290780141844,0.01304004465734,3525,1531,1241,753,sarcasm,neutral
+0,"No, I said to play with more attitude.",1.8817326873753208,0.0135195417555836,3509,1357,1210,942,sarcasm,neutral
+16,"Sorry to tell you this; the divorce is now final, and she got the piano.",1.773493287632105,0.0134581626838089,3501,1596,1102,803,incongruity-absurdity,negative
+31,Your wife says she can still hear it.,1.7012867647058822,0.0134885658303474,3264,1602,1035,627,incongruity-absurdity,neutral
+26,"Yup, no kidding, I just said, “Alexa, find live music nearby.”",1.71113184079602,0.013565317771334,3216,1550,1045,621,sarcasm,neutral
+13,You find out who your real friends are when you ask them to help you move.,1.7855227882037534,0.0140003421317139,2984,1261,1102,621,sarcasm,positive
+22,How 'bout this time I show you how to tune the piano yourself?,1.7522030313711667,0.0141932470699903,2837,1249,1042,546,unknown,neutral
+38,We're putting the band back together!,1.6537089871611983,0.0142265831705659,2804,1449,877,478,unknown,positive
+25,This is Enrichment. Enlightenment is the next ledge up.,1.7178329571106097,0.0147686203169334,2658,1251,906,501,wit-surprise,positive
+24,I play best when I'm high.,1.7213987077156974,0.0150667682894641,2631,1254,856,521,unknown,positive
+40,I'm afraid this will be my last lesson. I've found a teacher closer to home.,1.6353527607361964,0.0144630255791374,2608,1360,839,409,wit-surprise,negative
+33,"Anything but ""Climb Every Mountain.""",1.6941982272361,0.0155077244621981,2482,1236,769,477,unknown,neutral
+34,"Life is hard my son, Rachmaninoff is harder.",1.690261865793781,0.0152498307249774,2444,1190,821,433,wit-surprise,negative
+35,"It's free, but you have to move it.",1.6725409836065577,0.0152243247481854,2440,1220,799,421,incongruity-absurdity,neutral
+10,"The meaning of life? No I don't know it, but maybe if you hum a few bars...",1.7944325481798715,0.0166085971223547,2335,1041,733,561,wit-surprise,neutral

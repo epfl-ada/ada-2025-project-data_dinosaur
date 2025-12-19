@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Tell me about your childhood very quickly.,2.0,0.1412197576227205,27,7,13,7,incongruity-absurdity,neutral
+1,I think that’s all the time we have for today.,1.9047619047619049,0.1940147503567939,21,9,5,7,unknown,neutral
+2,Looks like our time is up for today.,1.8888888888888888,0.1787554814532985,18,6,8,4,unknown,neutral
+3,I'm afraid I'm still going to have to bill you for the full hour.,1.8888888888888888,0.1594289008843197,18,5,10,3,sarcasm,negative
+4,Let's not forget what happened the last time our session ran late.,1.8888888888888888,0.1961873335922043,18,7,6,5,sarcasm,negative
+6,I see our time is almost up.,1.8333333333333333,0.1852396434087371,18,7,7,4,sarcasm,neutral
+7,Now I want you to pay attention to how this makes you feel.,1.8333333333333333,0.1852396434087371,18,7,7,4,unknown,neutral
+5,I see that our time is about up,1.8823529411764703,0.1894720400988989,17,6,7,4,sarcasm,neutral
+8,I believe our time is up.,1.8235294117647056,0.1962009421195049,17,7,6,4,sarcasm,negative
+10,So this is the part of the dream where you wake up?,1.8125,0.2276464729941289,16,8,3,5,sarcasm,neutral
+9,I feel another breakthrough coming.,1.8125,0.1875,16,6,7,3,self-deprecating,positive
+52,"Well, I see that our time has run out.",1.6666666666666667,0.2108185106778919,15,8,4,3,sarcasm,negative
+19,Just how much stronger do you think it'll make us this time?,1.7333333333333334,0.2062515031210258,15,7,5,3,sarcasm,positive
+24,That's all the time we have.,1.7333333333333334,0.2062515031210258,15,7,5,3,irony,neutral
+23,This is the worst man cave ever.,1.7333333333333334,0.2281742581087797,15,8,3,4,incongruity-absurdity,negative
+22,"Well, it looks like our time is about up.",1.7333333333333334,0.2281742581087797,15,8,3,4,self-deprecating,negative
+21,"Well, it appears our time is up.",1.7333333333333334,0.2062515031210258,15,7,5,3,self-deprecating,negative
+20,I think we're BOTH getting tired of you re-living this nightmare.,1.7333333333333334,0.1817027050317991,15,6,7,2,sarcasm,negative
+18,"That last session was painful, but try to focus on the light at the end of the tunnel.",1.7333333333333334,0.1817027050317991,15,6,7,2,self-deprecating,negative
+16,This will be our last session,1.8,0.1999999999999999,15,6,6,3,unknown,neutral
+15,"Well, looks like we're all out of time for today.",1.8,0.1745743121887938,15,5,8,2,incongruity-absurdity,negative
+14,Wait for it. Wait for it...,1.8,0.1999999999999999,15,6,6,3,sarcasm,neutral
+13,"On the sunny side, we won't have to put up with the itching.",1.8,0.2225394561056747,15,7,4,4,incongruity-absurdity,positive
+12,This reminds me of getting your hopes up in the caption contest.,1.8,0.2429971585175823,15,8,2,5,irony,negative
+11,"Well, I see we're about out of time.",1.8,0.2225394561056747,15,7,4,4,unknown,negative
+28,I see that our time is up.,1.7142857142857142,0.2206028560426893,14,7,4,3,sarcasm,negative
+25,I'm having second thoughts about this train phobia therapy.,1.7142857142857142,0.2206028560426893,14,7,4,3,wit-surprise,negative
+26,Sign my cast for good luck.,1.7142857142857142,0.1941046344247878,14,6,6,2,incongruity-absurdity,positive
+27,"Well, it looks as though our hour is just about up.",1.7142857142857142,0.1941046344247878,14,6,6,2,exaggeration,neutral
+17,Looks like our time is up.,1.7857142857142858,0.2142857142857142,14,6,5,3,exaggeration,negative

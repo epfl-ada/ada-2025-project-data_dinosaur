@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It makes the holes we chewed in the couch seem so small.,1.542361111111111,0.0136320308577901,2880,1731,736,413,unknown,negative
+Not all holes are sniffable.,1.4744525547445255,0.0146976724414748,2740,1909,362,469,incongruity-absurdity,neutral
+The whole universe has fleas and ringworm.,1.4675925925925926,0.0157184002489771,2592,1887,198,507,wit-surprise,negative
+"Don't howl, son. That’s the bark side.",1.463350785340314,0.0163279621595304,2292,1645,232,415,unknown,negative
+It makes all our problems seem so small — except for that mailman.,1.4613995485327314,0.0159937736622963,2215,1545,318,352,unknown,negative
+The one night I need to blow off some steam.,1.4790628115653042,0.0160541483817233,2006,1313,425,268,sarcasm,neutral
+I see an everything bagel.  What do you see?,1.512605042016807,0.0165438558920122,1904,1186,460,258,incongruity-absurdity,neutral
+It's probably just a phase.,1.709051724137931,0.0181077492578334,1856,913,570,373,self-deprecating,neutral
+Looks like there’s nothing on tonight.,1.4512987012987013,0.0162527399508309,1848,1236,390,222,incongruity-absurdity,negative
+It's moments like these that I'm reminded just how insignificant my owner is.,1.44316807738815,0.0178194853213793,1654,1151,273,230,self-deprecating,negative
+"Next time, don't howl so loud.",1.4635639926515616,0.0168879553001157,1633,1053,403,177,sarcasm,negative
+I think the Cow did it.,1.519280205655527,0.0184364482799396,1556,965,374,217,irony,neutral
+I know how this looks but I swear it was there last night,1.5836550836550836,0.0184960989476874,1554,871,459,224,irony,neutral
+"Okay, now you did it...",1.5164835164835164,0.0181092064760189,1547,947,401,199,sarcasm,neutral
+"Well, we still have the mailman.",1.6851008458035133,0.0200344497994795,1537,792,437,308,sarcasm,neutral
+I don’t know whether to howl or to question the meaning of life.,1.5229357798165135,0.0180798046560619,1526,918,418,190,irony,negative
+That’s what happens when you don't pay your electric bill.,1.4353250164149705,0.019664761494879,1523,1121,141,261,incongruity-absurdity,negative
+I don't think we're gonna get that ball back,1.4384920634920637,0.0185043110313312,1512,1054,253,205,sarcasm,negative
+"Finally, all that howling worked.",1.5329780146568954,0.0186082202800745,1501,904,394,203,irony,positive
+What the hell are you howling at?,1.5096602265156562,0.0183860195455789,1501,929,379,193,sarcasm,negative
+You read much Sartre?,1.496997998665777,0.0177908862850788,1499,922,409,168,wit-surprise,neutral
+Is it just me or do you also have strong urge to sniff it?,1.6032064128256514,0.0198036792650077,1497,854,383,260,sarcasm,neutral
+We are but specks of dust in the expanse of the infinite cosmos.  Can I sniff your butt?,1.507372654155496,0.0187361232174623,1492,939,349,204,sarcasm,negative
+Should we howl just to mess with them?,1.46693657219973,0.0176130116857543,1482,946,380,156,sarcasm,negative
+"You're named after that one, Spot.",1.60148849797023,0.0197589039267841,1478,838,391,249,unknown,neutral
+Looks like Elon missed a spot.,1.5067750677506777,0.0186953588781295,1476,924,356,196,irony,neutral
+Do you think we finally scared it away?,1.470788043478261,0.0176526226481185,1472,933,385,154,irony,neutral
+That last howl seems to have triggered something.,1.4636301835486063,0.0172548784399702,1471,928,404,139,irony,neutral
+Maybe it really was made of cheese.,1.4751869476546566,0.017665941821521,1471,926,391,154,incongruity-absurdity,neutral
+You know it’s a good howl if you scared off the moon!,1.463331048663468,0.0176514740924958,1459,933,376,150,unknown,positive

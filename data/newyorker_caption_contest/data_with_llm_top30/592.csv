@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4794,"We're not getting Shakespeare, but about every three minutes we get a presidential tweet.",1.0,0.0001546431613684,6467,6467,0,0,sarcasm,neutral
+4797,"Ever so subtly, Ed began to push his right wing agenda.",1.0,0.0001568258453813,6377,6377,0,0,irony,neutral
+4792,I'm pretty sure I said 'hackers'.,1.0,0.0001570968506927,6366,6366,0,0,sarcasm,neutral
+4790,I am concerned that this project could go south really fast.,1.0,0.0001572697968218,6359,6359,0,0,irony,negative
+4789,They want to know if they can work remotely during the winter,1.0,0.0001584158420811,6313,6313,0,0,sarcasm,neutral
+4787,"And this, I assume, is the billing department?",1.0,0.0001591723045231,6283,6283,0,0,sarcasm,neutral
+4796,"No Shakespeare yet, but they have reproduced several presidential tweets.",1.0,0.0001598337733866,6257,6257,0,0,irony,neutral
+4799,First day of hunting season. Attendance is always great.,1.0,0.0001620614218107,6171,6171,0,0,unknown,positive
+4800,Take away the computers and they’re just sitting ducks.,1.0,0.000163492193794,6117,6117,0,0,incongruity-absurdity,negative
+4779,"This whole project's about to go south on us, I can feel it.",1.0,0.0001652209836286,6053,6053,0,0,exaggeration,negative
+4783,This is our web-based group.,1.0,0.0001654670312604,6044,6044,0,0,irony,neutral
+4785,"Third row back, far right, is a flight risk.",1.0,0.0001656314705472,6038,6038,0,0,wit-surprise,negative
+4786,That's correct - we gradually wean them off Google Maps until they can migrate on their own again.,1.0,0.0001658512320156,6030,6030,0,0,wit-surprise,neutral
+4780,AFLAC online helpdesk,1.0,0.0001748710332818,5719,5719,0,0,irony,neutral
+4781,"And this whole time, we thought it was the Russians.",1.0,0.000175085354781,5712,5712,0,0,exaggeration,negative
+4803,"No luck getting them to type Shakespeare, but they nailed Trump's inauguration speech on the first try.",1.0,0.000175700606845,5692,5692,0,0,irony,neutral
+4788,Do you mind if I take a gander?,1.0,0.0001760098572335,5682,5682,0,0,sarcasm,neutral
+4816,We could increase efficiency if they arranged these workstations in a 'V' formation.,1.0,0.00017656925998,5664,5664,0,0,wit-surprise,neutral
+4777,"Laugh all you want, but they've been beating the market.",1.0,0.0001768815784754,5654,5654,0,0,incongruity-absurdity,negative
+4778,We think he may be a decoy.,1.0,0.0001815376244203,5509,5509,0,0,wit-surprise,neutral
+4828,"I keep trying to tell them: We're ducks, man, we don't tweet.",1.0,0.0001846551572822,5416,5416,0,0,irony,negative
+4819,"Touch typing? No, mostly hunt and peck.",1.0,0.0001896993274207,5272,5272,0,0,incongruity-absurdity,neutral
+4815,This experiment could go south on us.,1.0,0.0001906395967101,5246,5246,0,0,irony,negative
+4821,The monkeys demanded benefits.,1.0,0.0001940052390541,5155,5155,0,0,exaggeration,neutral
+4822,"I know you were supposed to teach a history class on The Quakers, but there was an unfortunate typo in the course catalog.",1.0,0.0001987083964104,5033,5033,0,0,wit-surprise,negative
+4818,"We call it ""online billing.""",1.0,0.0002022040248935,4946,4946,0,0,incongruity-absurdity,neutral
+4791,Well the Republican health care plan isn't going to write itself.,1.0,0.0002055709744644,4865,4865,0,0,sarcasm,negative
+4817,"When you said your class was full with a bunch of stupid ducks, I thought it was an autocorrect.",1.0,0.0002076196419367,4817,4817,0,0,sarcasm,negative
+4798,I'm afraid this whole experiment is about to go South.,1.0,0.0002094021579899,4776,4776,0,0,irony,negative
+4814,It’s all about the billable hours.,1.0,0.0002128338843593,4699,4699,0,0,sarcasm,neutral

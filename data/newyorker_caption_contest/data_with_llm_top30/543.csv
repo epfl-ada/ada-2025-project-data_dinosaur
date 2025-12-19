@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I really just thought they would send me a lapel pin when I registered.,1.818918918918919,0.0414760586454936,370,157,123,90,sarcasm,neutral
+1,If he farts I'm out of here.,1.7952522255192878,0.0510308116377443,337,189,28,120,sarcasm,negative
+2,"Well, at least the 800-lb gorilla finally left.",1.7885196374622356,0.044591832404457,331,151,99,81,sarcasm,neutral
+3,I see it. Don't change the subject.,1.665137614678899,0.0504817710210247,218,109,73,36,sarcasm,neutral
+4,We're seeing the end of the Republican party.,1.658878504672897,0.0558338395549121,214,120,47,47,exaggeration,negative
+5,The zoo won't pay the ransom. Now what?,1.6556603773584906,0.057103630658887,212,122,41,49,unknown,negative
+6,Face it: 'Ms. Bigly' refuses to go with you to the Trump rally today!,1.6540284360189574,0.058904479138606,211,126,32,53,sarcasm,negative
+7,It looked smaller online.,1.6490384615384617,0.0548171447057038,208,114,53,41,incongruity-absurdity,neutral
+8,"Why can't you just wear a button, like most people?",1.647342995169082,0.0524383268351828,207,108,64,35,unknown,negative
+9,Well SOMEONE clogged the toilet.,1.64390243902439,0.0537909760727345,205,110,58,37,irony,negative
+11,...and we also have to do something about the bull in the china closet.,1.6403940886699508,0.0542647306081499,203,110,56,37,wit-surprise,neutral
+10,"When you said ""a large memory device"" I thought you meant a hard drive.",1.6403940886699508,0.0538134522004829,203,109,58,36,wit-surprise,neutral
+12,It's your metaphor. You feed it!,1.6108108108108108,0.0573551356526492,185,106,45,34,wit-surprise,neutral
+13,I think we're gonna need a bigger pee pad.,1.6043956043956045,0.0587022142512651,182,107,40,35,incongruity-absurdity,negative
+14,"Well he's ignoring us too, Sylvia!",1.6022099447513811,0.0541010343335852,181,98,57,26,sarcasm,negative
+15,It's hiding from the Republican Party.,1.5932203389830508,0.0585279599705753,177,104,41,32,irony,neutral
+16,"If his memory is so good, why can't he remember that he lives in 12B and not 12C?",1.5862068965517242,0.0553457181130129,174,97,52,25,wit-surprise,neutral
+17,"A homing elephant? A ""HOMING"" elephant? Well, genius, now we're gonna have TWO elephants in the room !!!!",1.5813953488372092,0.0594241328429197,172,103,38,31,sarcasm,neutral
+18,"Well, at least HE remembers our anniversary.",1.5798816568047338,0.0578969501275997,169,98,44,27,sarcasm,positive
+22,Are we speaking metaphorically?,1.5714285714285714,0.0557317937293839,168,95,50,23,irony,neutral
+23,"Great, now I’m living with two Dumbos.",1.5714285714285714,0.0600419422429236,168,102,36,30,sarcasm,negative
+20,"No, Steve, this isn't just about who empties her litter box.",1.5748502994011977,0.0597032229509393,167,100,38,29,irony,neutral
+24,I would have preferred a bumper sticker.,1.5670731707317074,0.0593817576690913,164,98,39,27,wit-surprise,negative
+26,"At least, for once, you're using the word ""literally"" correctly!",1.5617283950617284,0.0580472019076978,162,95,43,24,sarcasm,positive
+27,Isn't it enough to just tell our friends we're Republicans?,1.5617283950617284,0.056710803001809,162,93,47,22,sarcasm,neutral
+28,We had a hellava lot more room when he was just a metaphor.,1.5617283950617284,0.05603065179889,162,92,49,21,wit-surprise,neutral
+25,"That reminds me, your mother called.",1.565217391304348,0.059620050021526,161,96,39,26,sarcasm,neutral
+30,You're right. With Trump we really are seeing a different side of the Republican Party.,1.55625,0.060622345626907,160,98,35,27,irony,neutral
+19,I can't wait until those Petersons downstairs crank their stereo again.,1.575,0.0585127519295134,160,92,44,24,sarcasm,positive
+29,"No darling, I said I wanted something elegant for my birthday...",1.55625,0.0572886291361722,160,93,45,22,sarcasm,positive

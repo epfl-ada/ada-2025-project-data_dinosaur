@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"It's perfectly normal to feel depressed around the hollandaise.""",1.8454526621089704,0.0122832218937535,4827,2188,1197,1442,sarcasm,negative
+It's not just your kids that hate you. All kids hate you.,1.724105238208106,0.0123103678249622,4219,2091,1201,927,self-deprecating,negative
+I'm afraid that you're in a persistent vegetative state.,1.7503285151116952,0.0128090535377141,3805,1781,1193,831,wit-surprise,negative
+What happened after they invited you for a dip?,1.7423545331529091,0.0128240607805806,3695,1721,1205,769,unknown,neutral
+I'm going to prescribe a mild fertilizer.,1.747586598523566,0.0130644811857169,3522,1615,1181,726,unknown,neutral
+"If you think it’s not easy being green, you should try being black.",1.7651235444476,0.0138130292451573,3521,1693,962,866,incongruity-absurdity,negative
+When did you first suspect you're genetically modified?,1.7197527229908742,0.0131247088125523,3397,1603,1143,651,self-deprecating,neutral
+"Usually, I treat couch potatoes.",1.7992788461538465,0.0138369859367961,3328,1461,1074,793,incongruity-absurdity,neutral
+It appears that you have Florets syndrome.,1.7486160859654836,0.0144108521978259,3071,1462,919,690,wit-surprise,negative
+And how did being left on the plate make you feel?,1.77015558698727,0.0146702493391247,2828,1260,958,610,sarcasm,neutral
+…And is the ‘Green Giant’ in the room with us right now?,1.843130183916336,0.0155670777324893,2773,1183,842,748,sarcasm,neutral
+"Believe in  yourself. If cauliflower can become pizza, you can do anything.",1.7938484071768583,0.0152809132721592,2731,1210,874,647,incongruity-absurdity,positive
+What makes you think he just wants you as something on the side ?,1.8621591333582368,0.0155766738715888,2677,1079,888,710,sarcasm,neutral
+"So, you feel you’re being stalked?",1.7256006006006006,0.0148498873402062,2664,1248,899,517,sarcasm,negative
+Let me start our session by admitting that I have never liked you,1.696579476861167,0.0153857598412273,2485,1222,795,468,sarcasm,negative
+"When I saw 'B. Spears' on my schedule, I expected someone else.",1.826946847960445,0.0166247791425801,2427,1060,727,640,sarcasm,neutral
+It's not a bad thing for people to like you for your head and not your body...,1.6852416195037003,0.016019590502968,2297,1152,716,429,self-deprecating,neutral
+"I'm sick of hearing about kale,too.",1.7074235807860263,0.0157964277234213,2290,1087,786,417,sarcasm,negative
+You have an unresolved edible complex.,1.71722928540114,0.0164458842843442,2281,1117,692,472,self-deprecating,negative
+"So you were assigned ‘tree’ at sprouting, but identify as ‘broccoli’?",1.6822262118491922,0.0165863640874737,2228,1149,638,441,incongruity-absurdity,neutral
+"No, I'd say you're completely sane.
+I'm the one talking to a giant stick of broccoli.",1.7686025408348458,0.0172929212834524,2204,1040,634,530,incongruity-absurdity,neutral
+"No, you're not imagining it. No one likes you.",1.6966803092314688,0.0164295815904811,2199,1087,692,420,self-deprecating,negative
+Visualize yourself as a main dish.,1.6799444187123669,0.0161276424249837,2159,1062,726,371,incongruity-absurdity,neutral
+"No, you’re not crazy. Very few people like you.",1.667292351008916,0.0163076712226253,2131,1076,688,367,self-deprecating,negative
+"Yes, you are good for them, but are they good for you?",1.7208969465648856,0.0167210230775359,2096,988,705,403,self-deprecating,positive
+You aren’t paranoid — most people do hate you.,1.7151898734177216,0.01713694235372,2054,995,649,410,self-deprecating,negative
+You seem to be suffering from an edible complex.,1.732016210739615,0.0174741883289937,1974,930,643,401,sarcasm,negative
+"I'm afraid our time is up, although you really need another 10 minutes.",1.7488561260803257,0.0175709964786313,1967,906,649,412,sarcasm,negative
+Relax. Kale is a fad. Broccoli is forever.,1.7234262125902993,0.0170538008250563,1938,888,698,352,unknown,neutral
+"Unlike cauliflower, you made it this far without white privilege.",1.6741749607124148,0.0179021810003062,1909,996,539,374,sarcasm,neutral

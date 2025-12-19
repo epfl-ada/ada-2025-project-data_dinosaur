@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+6259,"...and so, how are the toes today?",1.2376237623762376,0.0278337061886042,303,239,56,8,sarcasm,neutral
+5560,Fortunately I took Python in college.,1.25503355704698,0.0323489398425602,298,240,40,18,unknown,positive
+3737,So your naturopath prescribed this for bloating?,1.2996632996632995,0.034117510621496,297,228,49,20,irony,neutral
+3335,"And finally, would you describe this as a pre-existing condition?",1.310580204778157,0.0353209739022732,293,224,47,22,self-deprecating,neutral
+5957,"So, the music wasn't completely effective.",1.2457337883959043,0.0298646500308935,293,232,50,11,sarcasm,negative
+3029,I’m surprised you weren’t able to charm your way out of this one!,1.3184931506849316,0.0324326613801543,292,212,67,13,sarcasm,negative
+1390,"So far, nothing obvious. We'll have to do more tests.",1.3767123287671232,0.0385934082253392,292,211,52,29,incongruity-absurdity,neutral
+7409,I'm sending you in for a series of tests.,1.2061855670103092,0.0278870102668038,291,240,42,9,sarcasm,neutral
+1610,Congratulations! It’s a boa.,1.3655172413793104,0.0377216509407166,290,210,54,26,incongruity-absurdity,positive
+8042,You look a little tense - to start with I'm going to suggest you try a bit of mindfulness...,1.1827586206896552,0.0266029579908491,290,245,37,8,sarcasm,neutral
+6343,"I’m feeling pretty rattled, Doctor.",1.2352941176470589,0.0321443064916764,289,238,34,17,sarcasm,negative
+2135,Looks like your coverage is good.,1.3460207612456747,0.0365841848897497,289,212,54,23,irony,positive
+158,"You came to the right place, reptile dysfunction is my specialty.",1.519031141868512,0.0438643776922819,289,183,62,44,wit-surprise,neutral
+2169,Breathe normally,1.3449477351916377,0.0360797610291087,287,209,57,21,self-deprecating,neutral
+6431,The tests don’t show Aspbergers,1.2334494773519165,0.0303000445576436,287,232,43,12,irony,neutral
+4025,I think I've found the cause of your chest pain.,1.2926829268292683,0.0340944375034543,287,221,48,18,sarcasm,neutral
+6432,I want you to cut down on pizza and rats.,1.2334494773519165,0.0303000445576436,287,232,43,12,sarcasm,negative
+1572,"If this doesn’t work, we'll talk about liposuction.",1.367132867132867,0.0364763548433158,286,202,63,21,unknown,negative
+7167,"""There's lots we can do, OK?
+I do not think couple's counselling would  be our first intervention.""",1.2132867132867131,0.0275774214901613,286,232,47,7,sarcasm,neutral
+5703,. . . and you know it's unhealthy to get too wrapped up in your work.,1.2517482517482517,0.0296948298664353,286,223,54,9,self-deprecating,negative
+2754,Can you be more specific than just a squeezing sensation?,1.326315789473684,0.0345561413300055,285,209,59,17,sarcasm,neutral
+8227,"Paranoid, no, but he does look like he's trying to shrink you.",1.1754385964912282,0.0265902824454121,285,243,34,8,wit-surprise,neutral
+1832,"The symptoms began *after* you ate the apple, is that right?",1.3578947368421053,0.0381002307917718,285,209,50,26,wit-surprise,neutral
+8742,It's just to help with the chaffing from the snake skin is hugging your curves.  You think you have problems?  You should have seen the lady with the alligator purse!,1.1508771929824562,0.0234508356752796,285,246,35,4,unknown,negative
+8401,"I know you're trying to avoid big pharma, but 2 Advil would have been a more effective fever reducer.",1.168421052631579,0.0248334679443263,285,242,38,5,sarcasm,neutral
+5513,DO YOU HAVE ANY ALLERGIES?,1.256140350877193,0.0334015402467759,285,230,37,18,irony,neutral
+1972,Would you say it's more of a sharp pain or a dull ache?,1.352112676056338,0.0354122567069364,284,202,64,18,incongruity-absurdity,neutral
+868,The X-rays show you have a human stuck in your coils.,1.408450704225352,0.0390595980030656,284,195,62,27,wit-surprise,neutral
+4777,How would you rate your pain on a scale of one to ten?,1.2746478873239435,0.0328208666350556,284,221,48,15,self-deprecating,neutral
+1303,"If I can just get you to sign this insurance form, we’ll have a look at you.",1.380281690140845,0.0381425568651901,284,201,58,25,sarcasm,neutral

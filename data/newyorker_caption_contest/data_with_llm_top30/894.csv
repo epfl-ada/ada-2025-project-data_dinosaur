@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+That’s how you paint a face.,1.5612998522895123,0.0124500050610816,3385,1956,958,471,incongruity-absurdity,neutral
+"You throw a pie, it’s a joke. You throw paint, it’s art.",1.6278784157199877,0.0135844817578234,3257,1810,849,598,incongruity-absurdity,neutral
+It’s like a New Yorker cartoon. You have to pretend to get it.,1.6612847818619032,0.0149371032639765,2911,1605,687,619,sarcasm,negative
+I think it could use more balloons.,1.5518969219756622,0.0146330986504222,2794,1742,562,490,incongruity-absurdity,neutral
+I don't know whether to laugh or cry.,1.5518612215395735,0.0147286740646501,2767,1728,551,488,irony,negative
+"Art as a career?  No way - you're going to finish college, just like your old man!",1.5442869796279894,0.0152555423066744,2258,1342,603,313,wit-surprise,negative
+"It doesn't speak to me.  Then again, it was painted by a mime.",1.600095556617296,0.0165291668388656,2093,1184,562,347,incongruity-absurdity,negative
+"Personally, I prefer works from his ‘seltzer down the pants’ period.",1.5794583546244252,0.0169741131724635,1957,1136,508,313,sarcasm,neutral
+"Ever since I can remember, paintings of children have given me nightmares.",1.6502816180235536,0.0178314139978687,1953,1067,502,384,incongruity-absurdity,negative
+The feet lack proportion.,1.5326086956521738,0.0169429495661509,1932,1198,439,295,wit-surprise,negative
+"It's good, but I wouldn't shove my face through it.",1.5578666666666667,0.0170417819290543,1875,1108,488,279,incongruity-absurdity,neutral
+It's nice but the feet are too small.,1.546875,0.0161854029957337,1856,1062,573,221,irony,positive
+The reviewer said some clown painted this. I feel insulted.,1.55893536121673,0.0169729352445647,1841,1073,507,261,irony,negative
+I'm just not sure I can take this artist seriously.,1.5286659316427784,0.0161708946760923,1814,1059,551,204,sarcasm,negative
+"Well, it's art -- but is it funny?",1.5532626882320133,0.016968758836173,1793,1042,510,241,incongruity-absurdity,neutral
+This guy used to do my makeup.,1.544463568559954,0.017027213706696,1743,1018,501,224,sarcasm,neutral
+I've had enough of this. Have the valet bring the unicycles around.,1.5407185628742517,0.0177558555817061,1670,999,439,232,sarcasm,negative
+There's a sort of sadness here that I can appreciate.,1.5333333333333334,0.0167431310166167,1635,934,530,171,unknown,neutral
+Any Bozo could paint that.,1.6486988847583643,0.0193206725310261,1614,869,443,302,sarcasm,negative
+I hate to be critical but this one’s only a two honker for me.,1.519488817891374,0.0171588562092631,1565,917,483,165,wit-surprise,negative
+"I’d explain it to you, but then it wouldn’t be funny.",1.556578947368421,0.0179886524252465,1520,860,474,186,incongruity-absurdity,negative
+I told you the New York art scene has become a circus.,1.5334658714380385,0.0179789263597447,1509,884,445,180,unknown,negative
+Portraits of people creep me out,1.563660477453581,0.0191671246432195,1508,890,386,232,irony,negative
+Big deal; any Bozo could have painted this.,1.5861837692823608,0.019348396033866,1491,852,404,235,sarcasm,negative
+See how the nose seems to follow you?,1.6775510204081632,0.0198067375201929,1470,737,470,263,incongruity-absurdity,neutral
+This is an example of Pre-Ronald McDonaldism,1.5642954856361149,0.0192978687341981,1462,855,389,219,incongruity-absurdity,negative
+The flowers look so real.  Like they could just squirt you in the face.,1.5206611570247934,0.0188722490237545,1452,890,368,194,incongruity-absurdity,positive
+When he died he left some big shoes to fill.,1.6125,0.0196213357067699,1440,786,426,228,unknown,negative
+I throw paint against a wall and a bunch of kids giggle. He does it and they put it in a museum.,1.5578424414478351,0.0190444919658162,1409,809,414,186,irony,neutral
+I rode my tiny tricycle three miles for this?,1.5376420454545454,0.0191698536117155,1408,840,379,189,incongruity-absurdity,neutral

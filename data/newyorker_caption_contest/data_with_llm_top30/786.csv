@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+My client is prepared to walk.,1.8602540834845736,0.0092612017891773,7163,2781,2607,1775,unknown,neutral
+My client wants out.,1.7995790106750864,0.0097189991466082,6651,2896,2196,1559,sarcasm,negative
+"He'll negotiate, but he won't beg.",1.8734635991175543,0.009611033402105,6346,2317,2517,1512,wit-surprise,neutral
+My client wants to play ball.,1.8104596394347896,0.0097455350988954,6157,2499,2328,1330,unknown,positive
+It's simple really. He's had his shots. He wants you to get yours.,1.8448965977318212,0.0105511495611679,5996,2543,1842,1611,sarcasm,neutral
+"And what value would you place on *your* testicles, Mr. Flanagan?",1.851774165355707,0.0110908640213439,5721,2509,1555,1657,wit-surprise,neutral
+My client is not just going to roll over.,1.8487760652765184,0.0103727161533153,5515,2119,2114,1282,sarcasm,neutral
+I'd advise you to sign. He knows where the bones are buried.,1.8180966654177595,0.0106517943392101,5338,2190,1929,1219,wit-surprise,neutral
+"Just so you know, he’s prepared to walk.",1.8541625664239323,0.010907590385141,5081,1960,1902,1219,sarcasm,neutral
+This is the homework your son alleges my client ate.,1.907247540654487,0.0114060829000229,4981,1866,1711,1404,irony,negative
+"Cheap kibble, one short walk a day and getting his balls cut off, if this goes to court, who do you think the jury will side with?",1.8291988613257424,0.0118305416259615,4918,2192,1379,1347,irony,negative
+"...and you understand, that while this is  one year  contract for you, it's a seven year contract for him.",1.8847015685475657,0.0113371437966627,4909,1864,1747,1298,sarcasm,neutral
+"The ball is in your court Mr. Smith, and frankly my client would like you to throw it back.",1.85136815920398,0.0112343413976165,4824,1885,1775,1164,sarcasm,neutral
+"Sir, even I can smell the other dog on you.",1.82798833819242,0.011547001816449,4802,2021,1586,1195,sarcasm,neutral
+Turns out he was not your best friend,1.833155080213904,0.0114362959733533,4675,1884,1687,1104,sarcasm,negative
+I'm guessing you thought he'd just roll over?,1.8502050507230736,0.0113735912068041,4633,1792,1746,1095,sarcasm,neutral
+"And finally, an option to extend his leash.",1.9008031256783156,0.0115884669313121,4607,1676,1712,1219,irony,neutral
+He wants out.,1.8019607843137255,0.0114282183791793,4590,1920,1659,1011,sarcasm,neutral
+He says you can keep the cat.,1.8758590113056972,0.0119812605196837,4511,1775,1521,1215,irony,neutral
+He wants you to beg.,1.812989921612542,0.0117008317789626,4465,1860,1580,1025,sarcasm,negative
+"We believe your use of the term ""fix"" constitutes false advertising.",1.799685251798561,0.0119242705634972,4448,1941,1457,1050,sarcasm,negative
+"My client claims that you repeatedly pretend to throw the ball,but never do.   Is this true?",1.826914044152184,0.0118269195510163,4258,1700,1595,963,wit-surprise,neutral
+All my client's asking is that you play ball.,1.839379474940334,0.0117926935887626,4190,1611,1641,938,sarcasm,neutral
+Three daily walks and a belly rub.  It's his final offer.,1.800528719057919,0.0117268937518354,4161,1688,1615,858,unknown,neutral
+My client would like to remind you that he is legally entitled to anything that falls on the floor.,1.858671855996108,0.0120094513282262,4111,1550,1592,969,sarcasm,neutral
+And here is a picture of you petting that beagle in the park.,1.8036674816625915,0.0122077005897524,4090,1732,1433,925,irony,neutral
+You can make this all go away if you just tell him where you hid the ball.,1.8444723618090453,0.0126113669734276,3980,1617,1365,998,sarcasm,neutral
+She says you knew she was a bitch when you married her.,1.8215454316637305,0.0133262214581442,3973,1819,1044,1110,sarcasm,negative
+"My client says that the bacon on the counter was left unattended. 
+We call that 'entrapment'.",1.8736383442265796,0.0129349631869426,3672,1389,1358,925,incongruity-absurdity,negative
+He's issued a stay.,1.7841886269070737,0.0126743726922148,3605,1519,1346,740,incongruity-absurdity,neutral

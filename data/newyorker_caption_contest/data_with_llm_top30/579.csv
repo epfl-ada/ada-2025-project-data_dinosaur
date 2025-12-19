@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,The truth is you came from a box of free kittens.,2.013177824901545,0.0100616201227836,6602,2163,2189,2250,self-deprecating,neutral
+3,"He does know the dog got more votes, right?",1.975108225108225,0.0116013262658768,4620,1495,1745,1380,irony,neutral
+5,The taxidermist really captured his personality.,1.9594563986409963,0.0122695742258745,4415,1560,1474,1381,incongruity-absurdity,positive
+8,"No, your majesty, eating the canaries was not what we meant when we asked you to stop the tweeting.",1.8926713947990543,0.0123020357501097,4230,1605,1474,1151,sarcasm,negative
+1,Get over yourself... it was ONE mouse!,2.002514458134272,0.0122683229847198,3977,1185,1597,1195,self-deprecating,negative
+12,"A royal heir? Nice try, but you're still getting neutered.",1.8364415322580645,0.0120952805283046,3968,1529,1559,880,sarcasm,negative
+11,"After legalizing catnip, nothing else seems important to him",1.8472681067344343,0.0121179750607908,3935,1483,1570,882,irony,negative
+10,"Whatever, he still shits in a box.",1.8508905852417303,0.0130574073778603,3930,1653,1210,1067,irony,negative
+13,"This is a bit awkward, Sire, but the parakeet is missing.",1.8329752953813103,0.012371793329933,3724,1424,1498,802,unknown,negative
+2,Our estate planner wants to know if you would like your inheritance in a lump sum or spread out over nine lives.,1.9973002159827211,0.0124382013242577,3704,1066,1582,1056,unknown,neutral
+9,he just got his resuslts from ancestry.com,1.877651845393781,0.0130228276229169,3441,1240,1382,819,irony,neutral
+14,Why is it always the orange ones with delusions of grandeur?,1.8096658711217184,0.0137529536403998,3352,1442,1106,804,sarcasm,negative
+15,"We're just saying, it might be tough to rule the world when you sleep for 12 hours a day",1.793221393034826,0.0130004719198654,3216,1275,1331,610,sarcasm,neutral
+16,"Even if he's deposed, I'm sure he'll land on his feet.",1.785924713584288,0.0134586827413654,3055,1242,1225,588,wit-surprise,neutral
+18,YOU'RE the one who wanted to call him Donald!,1.7656028368794323,0.0150477586784413,2820,1308,865,647,sarcasm,negative
+20,He's overcompensating for his tiny claws.,1.759471050750536,0.0148728433117584,2798,1283,905,610,irony,neutral
+22,"Ok, I'll say it--the emperor has no claws.",1.7456140350877194,0.0147705944343868,2622,1168,953,501,unknown,neutral
+7,We're sorry we didn't think about your line of succession before we...you know.,1.9301397205588824,0.0157439126066597,2505,871,938,696,sarcasm,negative
+25,We never should have let him watch the Lion King.,1.708418056120374,0.0150879026464663,2459,1151,874,434,irony,negative
+24,"Sorry, but we had to remove your family jewels.",1.7161770790235829,0.0156340126402298,2417,1154,795,468,unknown,negative
+19,Maybe children would be easier.,1.763535400277649,0.0165088846787096,2161,952,768,441,self-deprecating,neutral
+4,It doesn't mean you won't still be royalty. It just means there will be no heir.,1.9631840796019904,0.0181707131337568,2010,705,674,631,wit-surprise,neutral
+29,He clawed his way to the top.,1.6879795396419437,0.0168582605562681,1955,943,679,333,unknown,positive
+23,We'd prefer you 'think' inside the box.,1.7347357619291943,0.0178953872974477,1949,935,596,418,unknown,neutral
+28,"I know you don't want to move, but do you think you could just check that you're not sitting on the remote?",1.6946607341490545,0.0174634686413949,1798,851,645,302,sarcasm,neutral
+6,"You see, ""reigning"" cats and dogs can have two different meanings ...",1.9501146788990824,0.0182699909068473,1744,553,725,466,wit-surprise,neutral
+33,It could be worse. He could think he's the president.,1.6715542521994136,0.0185902440512499,1705,874,517,314,sarcasm,negative
+34,The dog wants to know if he can come back in.,1.6666666666666667,0.0181216363258289,1635,802,576,257,irony,neutral
+32,This is why no one names a cat Rex.,1.6800991940483572,0.0184065031508417,1613,781,567,265,unknown,negative
+36,At three you have the Royal Scratching Post. At four the Ball of Twine arrives...,1.6619987269255252,0.0184931168687658,1571,777,548,246,incongruity-absurdity,neutral

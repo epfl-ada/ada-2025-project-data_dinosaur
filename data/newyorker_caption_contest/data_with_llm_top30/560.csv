@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,That's Bob Mankoff. He used to be the cartoon editor of the New Yorker.,1.9313482216708024,0.0124995906787976,4836,2004,1160,1672,wit-surprise,neutral
+1,He got the cave but she got the wheel and the fire.,1.898812049215104,0.0122293742605112,4714,1924,1343,1447,irony,neutral
+3,I couldn't afford that place if I lived to be 30.,1.7701986754966887,0.0119173002351002,4530,2097,1377,1056,wit-surprise,negative
+4,So this is how the 1% live.,1.7655908760009706,0.0123546596167336,4121,1892,1303,926,irony,negative
+5,I invented fire. He invested in it.,1.7560795873249817,0.0126246379828052,4071,1938,1188,945,wit-surprise,neutral
+8,It looks pricey - they have a doorman.,1.7041558441558442,0.0126412378045852,3850,1922,1145,783,wit-surprise,neutral
+6,She left him for a guy with wheels.,1.7426451099920488,0.0128694661913976,3773,1789,1166,818,unknown,neutral
+12,Why can't I have a man cave?,1.6228364042434391,0.0126832990432286,3582,1962,1009,611,sarcasm,negative
+7,It makes our place look like a pit.,1.7153846153846153,0.0130472720675044,3510,1690,1129,691,incongruity-absurdity,negative
+9,He comes from prehistoric money.,1.6756443672169128,0.0131676209469734,3453,1775,1023,655,wit-surprise,neutral
+11,I never thought of digging sideways...,1.6606562222879102,0.0131831052080493,3383,1763,1005,615,wit-surprise,neutral
+15,Do you think your Dad's been waiting there all night?,1.593976777939042,0.0140772810658583,2756,1539,797,420,sarcasm,neutral
+13,Wait til the bear wakes up.,1.6075854299662036,0.0148103513689562,2663,1505,698,460,irony,neutral
+2,He got the man cave in the divorce.,1.874946282767512,0.0177671735595353,2327,1018,582,727,irony,neutral
+14,He drew on the walls so we're keeping the security deposit.,1.5981675392670156,0.0156672160892398,2292,1290,633,369,incongruity-absurdity,neutral
+16,"Sure our place is a pit, but his is a hole in the wall.",1.577328646748682,0.0153836845042922,2276,1297,644,335,incongruity-absurdity,negative
+18,He'll be there forever. It's rent controlled.,1.5474285714285714,0.0178896709374591,1750,1065,412,273,incongruity-absurdity,neutral
+20,I told you we had the instructions upside down!,1.532227185705169,0.0182367441701182,1567,946,408,213,incongruity-absurdity,neutral
+17,Should we tell him about the bear?,1.5537669027688346,0.0187765878785986,1553,926,394,233,unknown,neutral
+19,"He had a place like ours, but people kept dropping in.",1.5423948220064725,0.0185570438405423,1545,926,400,219,incongruity-absurdity,neutral
+21,He may be on to something. He looks dry.,1.5303941215764862,0.0178913296553127,1497,875,450,172,wit-surprise,negative
+22,And I heard the kitchen has granite counter tops.,1.5269203158650395,0.0192325656196156,1393,844,364,185,irony,neutral
+23,He just came out as homo sapien,1.5214770158251696,0.019645892433896,1327,809,344,174,irony,neutral
+10,I knew he'd cave!,1.6616161616161615,0.0244351298263749,1188,690,210,288,sarcasm,negative
+26,His place really is a hole in the wall.,1.5115089514066495,0.0202025059763378,1173,707,332,134,unknown,negative
+24,"The artists move in, the rents go up, and we end up living in some hole.",1.51240376390077,0.0207179186025903,1169,717,305,147,incongruity-absurdity,negative
+27,"He says he's ""waiting for inspiration"" but I think he's just gonna paint another bison.",1.5085201793721974,0.0207861113405377,1115,677,309,129,irony,neutral
+28,"You know what? ""Cave Man"" does have a better ring to it than ""Hole Man""...",1.500996015936255,0.0225264473206911,1004,631,243,130,incongruity-absurdity,positive
+29,"No, THIS is a manhole. That's a man cave.",1.498492462311558,0.0223659410746691,995,622,250,123,incongruity-absurdity,negative
+25,Getting past the guard is easy. How do we remove the paintings?,1.5118434603501545,0.023146433343002,971,605,235,131,incongruity-absurdity,neutral

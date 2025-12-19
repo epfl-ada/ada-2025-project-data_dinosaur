@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I have no concrete plans for the rest of the day.,2.095238095238096,0.1940147503567939,21,7,5,9,self-deprecating,negative
+5,I'm just waiting for the next big idea to hit me...,2.0,0.1807753815155468,18,5,8,5,self-deprecating,positive
+1,I told my ex I'll take her back if she drops some weight.,2.055555555555556,0.1891194287088926,18,5,7,6,irony,neutral
+2,"Don't worry, I will take it to the grave.",2.0,0.2182178902359923,15,5,5,5,sarcasm,negative
+3,You better give me the short version.,2.0,0.2182178902359923,15,5,5,5,sarcasm,neutral
+4,Duck?! For lunch?,2.0,0.1690308509457033,15,3,9,3,irony,neutral
+6,The tragedy for me is the soul crushing predictability of my life.,1.9333333333333331,0.2281742581087797,15,6,4,5,self-deprecating,negative
+11,"For once, I really feel like today is my day.",1.9285714285714288,0.2214905974807294,14,5,5,4,self-deprecating,positive
+27,And then it struck me: Everything I said was becoming real.,1.8571428571428568,0.2058790548922549,14,5,6,3,self-deprecating,neutral
+12,"Here's the problem, nothing surprises me anymore.",1.9285714285714288,0.2214905974807294,14,5,5,4,self-deprecating,negative
+9,I'm pretty sure she doesn't know about Melissa.,1.9285714285714288,0.2450450892415138,14,6,3,5,sarcasm,neutral
+10,All I said was she could drop a few pounds.,1.9285714285714288,0.2214905974807294,14,5,5,4,sarcasm,neutral
+8,"What you wanted to say was ""figuratively.""",1.9285714285714288,0.2665259963875803,14,7,1,6,wit-surprise,neutral
+7,"Could you explain the ""act of God"" clause again?",1.9285714285714288,0.2665259963875803,14,7,1,6,sarcasm,neutral
+19,Very little surprises me anymore.,1.9230769230769231,0.2106625221173715,13,4,6,3,wit-surprise,negative
+28,It's the overhead that's gonna kill me,1.8461538461538465,0.1910213387916838,13,4,7,2,unknown,negative
+23,I'm just waiting for some kind of sign.,1.9230769230769231,0.2391635654638157,13,5,4,4,sarcasm,neutral
+22,I'm certain my wife has no idea I'm cheating on her.,1.9230769230769231,0.1368856186157859,13,2,10,1,irony,negative
+21,My ex keeps telling me I should try this place.,1.9230769230769231,0.2646124030839781,13,6,2,5,sarcasm,neutral
+20,So I told them 'Who needs your silly witness protection program?',1.9230769230769231,0.2646124030839781,13,6,2,5,sarcasm,negative
+13,Relax- it's only a metaphor.,1.9230769230769231,0.2106625221173715,13,4,6,3,wit-surprise,neutral
+18,I didn't order duck.,1.9230769230769231,0.2878197989826108,13,7,0,6,incongruity-absurdity,neutral
+17,"Fortunately, she seems very amicable about the divorce.",1.9230769230769231,0.2106625221173715,13,4,6,3,irony,positive
+16,At least today can't get any worse....,1.9230769230769231,0.2391635654638157,13,5,4,4,self-deprecating,negative
+15,What's the worst-case scenario?,1.9230769230769231,0.2106625221173715,13,4,6,3,unknown,neutral
+14,I rarely leave a tip,1.9230769230769231,0.2391635654638157,13,5,4,4,sarcasm,negative
+63,Do you have any aspirin? I feel a headache coming on.,1.75,0.25,12,6,3,3,incongruity-absurdity,negative
+33,Do you think I worry too much?,1.8333333333333333,0.207193853502687,12,4,6,2,self-deprecating,neutral
+32,Can anything be worse than this coffee?,1.8333333333333333,0.207193853502687,12,4,6,2,sarcasm,negative
+31,Nothing hurts more than stepping barefoot on a kid's Lego brick.,1.8333333333333333,0.2706147136286628,12,6,2,4,unknown,negative

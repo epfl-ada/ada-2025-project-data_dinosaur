@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It was even weirder when he was on the swim team.,1.8740072202166065,0.0155766891053753,2770,1127,865,778,incongruity-absurdity,negative
+How did they find this guy?,1.8285501304509877,0.015248443582007,2683,1106,931,646,irony,negative
+He's got no skin in the game.,1.809333865177503,0.0157822989198945,2507,1067,851,589,wit-surprise,negative
+We're hoping to see more of him as the season goes on!,1.9094188376753507,0.0155546775922214,2495,876,968,650,irony,positive
+He’s the kind of talent you rarely see.,1.866024869634978,0.0155553855981957,2493,941,945,607,exaggeration,positive
+"He says his folks come to every game, but I haven’t seen ‘em yet.",1.7983125753314584,0.0156605108814055,2489,1061,869,559,irony,neutral
+"We DID draft him sight unseen""",1.7924757281553398,0.0154312900978913,2472,1037,911,524,sarcasm,neutral
+Players like him are a vanishing breed',1.785893155258765,0.0156148572945071,2396,1011,887,495,wit-surprise,negative
+"When we signed the contract with his agent, I thought he said, ""invincible.""",1.8419800095192764,0.0174372788546729,2101,863,707,531,wit-surprise,neutral
+He may need more time to develop.,1.720684448917967,0.0177691624246615,1987,978,586,423,incongruity-absurdity,neutral
+No one will know who’s on first.,1.7651948051948052,0.017635324919906,1925,855,667,403,wit-surprise,neutral
+"He was a no-show at spring training, too.",1.7452330508474576,0.0174790857409246,1888,846,677,365,sarcasm,negative
+I still think it’s a bigger deal that she’s the first woman.,1.7617250673854448,0.0184970649553933,1855,862,573,420,irony,positive
+You’re right.  Without that uniform he’s nothing.,1.8312780269058295,0.0185979734027699,1784,726,633,425,sarcasm,negative
+"On the plus side, he's very hard for pitchers to read.",1.807086614173228,0.0180101144630107,1778,717,687,374,unknown,negative
+He's nothing without the uniform.,1.818596691386195,0.0187723472228133,1753,729,613,411,sarcasm,neutral
+Wait until you see the arm on this kid.,1.8295912492803683,0.0186742021058157,1737,699,635,403,incongruity-absurdity,neutral
+It can get awkward in the showers but he's a great hitter.,1.7281722933643773,0.0181716907957326,1718,784,617,317,incongruity-absurdity,positive
+"He's our best player, but he'll never be the face of the franchise.",1.7871462264150944,0.0187825873820797,1696,726,605,365,wit-surprise,negative
+Old players never die; they just fade away.,1.7162485065710873,0.018458572610054,1674,782,585,307,wit-surprise,neutral
+Team owner values transparency above all else.,1.7554479418886195,0.0187140945325264,1652,729,598,325,wit-surprise,positive
+They say he's got potential but I just don't see it.,1.748768472906404,0.0183084002910729,1624,697,638,289,sarcasm,negative
+"They signed him, but didn't get his image rights.",1.7255146600124769,0.0189813021691147,1603,743,557,303,irony,neutral
+He doesn't have any skin in the game.,1.7746390458254866,0.0194368087706866,1593,699,554,340,wit-surprise,negative
+"Frankly, I just don't see him playing baseball.",1.7128399746995573,0.0187866152467836,1581,733,569,279,wit-surprise,negative
+Sometimes I  just get the feeling Davis isn't all there.,1.7194106342088404,0.0186730880404014,1561,705,589,267,sarcasm,neutral
+"Really, I don't see what anyone sees in him either.",1.7190506735086597,0.018783195826953,1559,709,579,271,sarcasm,negative
+He's great but some games he just doesn't show up.,1.7061855670103092,0.0183667270124103,1552,701,606,245,sarcasm,negative
+That tattoo remover did a heckuva job,1.7045751633986927,0.0196846081639457,1530,746,490,294,sarcasm,positive
+You don't notice him until he puts on the uniform.,1.706484641638225,0.0193107080785484,1465,678,539,248,sarcasm,neutral

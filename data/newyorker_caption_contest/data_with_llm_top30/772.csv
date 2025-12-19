@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+At least you died doing what you loved.,1.7670356703567036,0.0122927334438611,4065,1832,1348,885,sarcasm,positive
+You might want to throw on some clean underwear.,1.7604221635883903,0.0131744496088391,3790,1809,1080,901,unknown,neutral
+This isn't what I meant when I said to go towards the light.,1.8090128755364807,0.0131373719420343,3728,1623,1194,911,sarcasm,negative
+Eat whatever you want. It’s a bus that kills you.,1.7912831618841365,0.0132474158062478,3694,1663,1139,892,sarcasm,negative
+You wouldn’t do that if you could see yourself from behind.,1.7269736842105263,0.0128944767416484,3648,1740,1164,744,self-deprecating,neutral
+Go ahead. Eat the bacon. We get hit by a bus.,1.791060291060291,0.0149985370827049,2886,1301,887,698,sarcasm,negative
+"In fairness, I said to go toward the light.",1.7205422314911365,0.0147547065346364,2877,1415,851,611,irony,neutral
+Don’t mind me—I’m just curious to see what we choked on.,1.7810839532412328,0.015034463335673,2823,1277,887,659,sarcasm,neutral
+You could call this a religious experience. It was your last supper.,1.7135250266240682,0.0150292323434868,2817,1415,794,608,incongruity-absurdity,neutral
+"At this point, I wouldn’t worry about searching out a healthy option.",1.763138415988157,0.0145376682042296,2702,1167,1008,527,exaggeration,neutral
+You decide; I'm up in the air.,1.7416506717850289,0.0149550260369005,2605,1182,914,509,unknown,neutral
+Let's just say the milk isn't the only thing that's about to expire.,1.8038507821901324,0.0154298292208234,2493,1032,918,543,self-deprecating,neutral
+Any wings in there?,1.7720713073005094,0.0164784444808123,2356,1083,727,546,sarcasm,neutral
+You know how we always say “another cookie won’t kill me”?,1.773310521813516,0.0160519311713832,2338,1029,810,499,self-deprecating,neutral
+I've been in the liquor cabinet with the rest of the spirits.,1.7401301518438177,0.0163595734297826,2305,1088,728,489,sarcasm,neutral
+Try the Death by Chocolate cake. It was delicious.,1.7789934354485777,0.0165494846227198,2285,1023,744,518,incongruity-absurdity,positive
+Turns out expiration dates do matter.,1.705521472392638,0.0157797653185232,2282,1083,788,411,unknown,neutral
+"Don’t worry, most of this stuff expires after you do.",1.7486678507992894,0.0160984388907963,2252,1011,796,445,self-deprecating,neutral
+I’m just a figment of your refrigeration.,1.725481209899175,0.0168960320426994,2182,1061,659,462,sarcasm,negative
+Your better angel is on break. I'm here to tell you that the Cherry Garcia is hidden in a bag of peas.,1.727484834344377,0.0170144278074115,2143,1036,655,452,sarcasm,neutral
+It was at that moment Frank realized that those weren't normal brownies,1.7791411042944785,0.0175519670081932,2119,977,633,509,incongruity-absurdity,neutral
+"When she said, ""I'll kill you if you eat my ice cream,"" she meant it.",1.7255185721177038,0.0172952414366952,2073,1005,632,436,unknown,negative
+Long story short; don't worry about saving the cake for tomorrow.,1.78324403312226,0.0174754794845256,2053,914,670,469,unknown,neutral
+"In light of what happens in about an hour or so, go for the chocolate cake""",1.725705329153605,0.0175908004495429,1914,901,637,376,sarcasm,neutral
+If I could do it all over again I'd have the whole damn cheese cake,1.728008634646519,0.0180083142617481,1853,877,603,373,sarcasm,neutral
+The good news is you eat whatever you want from now on.,1.719094922737307,0.0176823281743921,1812,839,643,330,self-deprecating,positive
+You don't have much time left.  Eat the cake.,1.702268954067515,0.0179869338036308,1807,877,591,339,sarcasm,negative
+"The cheesecake is to die for, but don't take my word for it.",1.7469135802469136,0.0183516112789128,1782,817,599,366,incongruity-absurdity,positive
+"Let's just say, I'd make it your best late-night snack ever.",1.75,0.0187813755076401,1692,769,577,346,incongruity-absurdity,positive
+"Whoa, you’re still alive? It looks like I’m a few minutes early!",1.7124260355029586,0.0188871616709057,1690,822,532,336,sarcasm,positive

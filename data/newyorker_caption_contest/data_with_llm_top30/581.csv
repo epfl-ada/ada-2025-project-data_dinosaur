@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Expect a chilly reception at the circumcision symposium.,1.9355966050923612,0.0209778967017889,2003,951,230,822,incongruity-absurdity,neutral
+2,Your mother wanted me to give you this.,1.704526046114432,0.0252537685163192,1171,661,195,315,incongruity-absurdity,neutral
+4,It gets chilly at night in the desert.,1.6814562002275313,0.0297009640095884,879,525,109,245,unknown,negative
+5,"Put this on, take two tablets, and call me in the morning.",1.6533127889060093,0.0311089166283972,649,355,164,130,sarcasm,neutral
+7,...and this is just one sample of what I can do with the foreskins.,1.6467661691542288,0.0358199313380205,603,377,62,164,wit-surprise,neutral
+11,Because I'm your Father and I said so.,1.585014409221902,0.0398061797910702,347,197,97,53,exaggeration,neutral
+13,So that's why you had me sacrifice the sheep?,1.582608695652174,0.0393637950415961,345,194,101,50,irony,negative
+3,"For Heavens sake, just try it on.",1.6878980891719746,0.0429633781537753,314,155,102,57,sarcasm,negative
+6,What else would I do with the sacrificial lamb?,1.648562300319489,0.0465203838687292,313,180,63,70,sarcasm,neutral
+9,Thy wool be done.,1.6012861736334405,0.0439893582583421,311,180,75,56,incongruity-absurdity,neutral
+16,People who bought tablets also bought this.,1.5666666666666669,0.0459832099000979,300,188,54,58,exaggeration,neutral
+18,"It's not a commandment, just a suggestion.",1.563758389261745,0.0432150561435083,298,176,76,46,incongruity-absurdity,neutral
+19,Not a commandment. Just a suggestion.,1.5551470588235294,0.0443785921174022,272,160,73,39,sarcasm,neutral
+21,For every ten we throw in a free sweater.,1.5447470817120623,0.0457547573460995,257,154,66,37,unknown,neutral
+20,"Like everything else, I made it myself.",1.54863813229572,0.0483246218870993,257,161,51,45,unknown,neutral
+24,Thou shalt not machine wash.,1.5333333333333334,0.0482853366266341,240,149,54,37,incongruity-absurdity,negative
+23,Couldn't you just change the weather?,1.5344827586206895,0.0488187334212243,232,143,54,35,sarcasm,neutral
+17,"Beat that, Amazon!",1.5644444444444443,0.0510437789758364,225,136,51,38,exaggeration,positive
+26,Thy wool be done.,1.5246636771300448,0.0495636740612091,223,139,51,33,incongruity-absurdity,neutral
+27,Not a commandment. Just a suggestion.,1.5246636771300448,0.048741763400286,223,137,55,31,sarcasm,neutral
+31,It's a Christmas sweater. Someday you'll understand.,1.516431924882629,0.0526540041686673,213,139,38,36,irony,neutral
+30,"One more thing before you go, is this sweater white and gold or blue and black?",1.5165876777251184,0.0513179809058287,211,134,45,32,irony,neutral
+33,This is not a commandment. Just a suggestion.,1.5142857142857142,0.0501665357950276,210,131,50,29,sarcasm,neutral
+32,"Yes, it's Egyptian cotton, but, Mose, nobody needs to know!",1.5144230769230769,0.05053520935957,208,130,49,29,incongruity-absurdity,neutral
+35,"It's not a commandment, but if you love Me you'll wear it.",1.5120772946859904,0.0493187506643819,207,127,54,26,incongruity-absurdity,positive
+34,"Put this sweater on, take those 2 tablets, and call me in the morning.",1.5121951219512195,0.0506343103618791,205,128,49,28,unknown,neutral
+36,"What do you mean, how do I know your size?",1.5098039215686274,0.0498671063438052,204,126,52,26,sarcasm,neutral
+14,#11 Thou Shall Not Regift,1.572139303482587,0.0521202160192959,201,116,55,30,irony,neutral
+38,Your mom wanted me to give you this.,1.5075376884422111,0.0546638823185283,199,132,33,34,incongruity-absurdity,neutral
+37,"Here, keep warm, take the two tablets and call me in the morning.",1.5075376884422111,0.0537272960484382,199,130,37,32,unknown,neutral

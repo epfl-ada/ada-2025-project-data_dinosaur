@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1642,I told you two to invest in Bitcoin.,1.2816537467700255,0.0283780933117211,387,299,67,21,irony,neutral
+2776,"With blinders, he thinks I'm a jockey.",1.2285714285714286,0.0252001879821399,385,310,62,13,unknown,neutral
+3546,I'm going to play the role of the Mouse King!,1.1948051948051948,0.0236069699731881,385,321,53,11,unknown,neutral
+2287,I hypnotized him. At least I think I did.,1.2493506493506494,0.0260159294024399,385,303,68,14,incongruity-absurdity,neutral
+278,The dog was a big help.,1.4114583333333333,0.0328790557372323,384,259,92,33,unknown,positive
+472,"Look fellas, I’m just sayin’: Be the change you want to see in the world.",1.3753280839895012,0.031463813668823,381,265,89,27,self-deprecating,positive
+580,"If you’re rich enough, you can just grab one any time you want!",1.3622047244094488,0.0344690900040893,381,285,54,42,irony,positive
+2331,"If you guys ever read 'Dune', you'd totally get this.",1.2473684210526317,0.0259183993462279,380,299,68,13,unknown,positive
+336,"Heading back to the hypnotist, need anything?",1.4,0.0321864447675424,380,257,94,29,sarcasm,neutral
+1348,The main hazards are laser pointers and sudden cucumbers.,1.2989417989417988,0.0305750692742581,378,292,59,27,incongruity-absurdity,negative
+3590,I told you I could domesti-cat her.,1.193121693121693,0.0229261151576451,378,313,57,8,wit-surprise,neutral
+3095,"Plus, no trail of poop.",1.2142857142857142,0.0247994294038298,378,309,57,12,irony,neutral
+631,He's taking me to Fancy Feast for dinner.,1.3571428571428572,0.0312072720857925,378,269,83,26,irony,positive
+1304,I told him we were blind. He feels sorry for me.,1.3023872679045092,0.0304610076266204,377,289,62,26,incongruity-absurdity,negative
+4634,"Stop you hemming and hawing, once focused, she is a real pussy cat",1.1326259946949602,0.0178901330833277,377,328,48,1,sarcasm,negative
+4832,"A tisket, a tasket, ridin' catback in the saddle, again...",1.1087533156498677,0.0173236671947827,377,339,35,3,unknown,neutral
+279,When I get there?  I don't know - I imagine I'll run like hell.,1.4111405835543769,0.0349623899525374,377,263,73,41,sarcasm,negative
+4134,"With those blinders on, he thinks I'm a horse-whisperer.",1.16710875331565,0.0219782131109742,377,322,47,8,sarcasm,neutral
+4073,One cat with blinders: see how he trots!,1.1702127659574468,0.0208177473009444,376,316,56,4,incongruity-absurdity,neutral
+1732,The hard part is getting into the saddle.,1.2765957446808511,0.0280872554518407,376,290,68,18,wit-surprise,neutral
+3133,"Yes, a bell would be better in the long run.",1.2127659574468086,0.024259051597854,376,306,60,10,wit-surprise,positive
+3193,This cat is a ringer.  Bet on us in the fifth.,1.2101063829787233,0.0244661578026025,376,308,57,11,incongruity-absurdity,negative
+318,It's called thinking outside the litter box.,1.4042553191489362,0.0333212593192332,376,257,86,33,incongruity-absurdity,neutral
+1896,He needs to be in a catatonic state for this to work,1.2693333333333334,0.0279797906866489,375,292,65,18,sarcasm,negative
+679,He is not happy about losing that bet,1.352,0.031542179552293,375,270,78,27,sarcasm,negative
+3119,I need to take it slow because this saddle isn't tied down to anything.,1.2133333333333334,0.0237235013382445,375,303,64,8,incongruity-absurdity,neutral
+1872,I broke him with Sun Tzu and some rolled catnip.,1.2700534759358288,0.0290498164568701,374,295,57,22,incongruity-absurdity,neutral
+47,"He chooses to identify as a horse, and who am I to judge?",1.5,0.0374354591237375,374,238,85,51,incongruity-absurdity,neutral
+2434,"We're safe. Out of sight, out of mind.",1.2433155080213905,0.0260763874861982,374,296,65,13,sarcasm,positive
+798,The Doberman owed me a favor.,1.339572192513369,0.0323369624603953,374,278,65,31,unknown,neutral

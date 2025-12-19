@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"C’mon, live a little.",2.019902912621359,0.0191174445335192,2060,755,509,796,unknown,neutral
+1,"C’mon, live a little.",1.9744232698094284,0.0193091549362467,1994,767,511,716,unknown,neutral
+12,"After flirting with Death all afternoon, Bob finally makes his move.",1.6808236808236807,0.0216738290836525,1554,894,262,398,unknown,neutral
+18,"No thanks, I prefer spirits.",1.611913357400722,0.0227195783372976,1108,615,308,185,sarcasm,negative
+10,"Thanks, but I prefer spirits.",1.6989351403678603,0.02422022122747,1033,515,314,204,sarcasm,positive
+15,Last call.,1.65234375,0.0246057775371389,1024,557,266,201,sarcasm,neutral
+9,Last call.,1.7092457420924574,0.0272059872286411,822,404,253,165,sarcasm,neutral
+3,Just one. I have to get up in the morning and you don't.,1.8136300417246176,0.0303979678778782,719,318,217,184,irony,negative
+4,Last call? You have no idea.,1.7909967845659165,0.0301374921710829,622,254,244,124,sarcasm,negative
+24,I think I'll pass. I'm your designated driver.,1.5495495495495497,0.031204366942818,555,331,143,81,sarcasm,positive
+22,"I said ""you're toast"", not ""your toast""",1.5606060606060606,0.0326188047419383,528,315,130,83,sarcasm,neutral
+25,"Sure, I’ve got a few minutes to kill.",1.5447619047619048,0.0333622972258139,525,327,110,88,unknown,neutral
+6,"C’mon, one won’t kill ya.",1.75,0.0340872025500891,512,232,176,104,self-deprecating,negative
+21,Ironically it is Miller time... Mr. Miller.,1.5685884691848906,0.0347765962808908,503,308,104,91,irony,neutral
+11,I guess one more won’t kill me,1.6837606837606838,0.0344376309508158,468,227,162,79,self-deprecating,negative
+27,"No thanks, I prefer spirits.",1.5301724137931034,0.0340842156387815,464,285,112,67,sarcasm,negative
+28,A quick one but then we have to go.,1.5257270693512304,0.0331780377462899,447,266,127,54,sarcasm,neutral
+8,Can't - I'm on the job.,1.7104072398190044,0.0342706973727843,442,197,176,69,sarcasm,neutral
+14,It's happy hour? Well this is awkward.,1.6583143507972664,0.0368248063686438,439,231,127,81,sarcasm,negative
+13,“Last Call” You probably hear that a lot,1.662790697674419,0.0351644797518196,430,211,153,66,sarcasm,neutral
+20,"Okay, you got one more day if you're buying.",1.6009501187648456,0.034704271991669,421,224,141,56,exaggeration,neutral
+2,"No, thanks. I'm just here to kill time.",1.8175182481751824,0.0389246184183548,411,172,142,97,sarcasm,neutral
+30,"None for me, thanks. I'm your designated driver.",1.517073170731707,0.0369042102411828,410,261,86,63,sarcasm,neutral
+19,The good news--no hangover tomorrow...,1.6104218362282878,0.0368369854488111,403,219,122,62,self-deprecating,positive
+26,No thanks. I'm the designated reaper.,1.536523929471033,0.0360859146486479,397,237,107,53,sarcasm,neutral
+31,"Hey buddy, one drink ain't gonna kill ya!",1.512690355329949,0.0361576399334723,394,244,98,52,sarcasm,neutral
+23,You look like you're ready for a cold one.,1.5601023017902813,0.0362460384413909,391,224,115,52,sarcasm,neutral
+29,I must admit you're taking it really well.,1.5195822454308094,0.0369362336340986,383,236,95,52,sarcasm,positive
+33,I've always preferred you over taxes!,1.5027472527472527,0.0378201930494157,364,230,85,49,sarcasm,positive
+32,I'm here for last call.,1.5027624309392265,0.0375739668401796,362,227,88,47,sarcasm,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"He's pro-gun, but I like his stance on migration.",1.9147727272727275,0.0602272727272727,176,64,63,49,irony,positive
+1,Now that's what I call riding shotgun,1.90625,0.0606547574961621,160,55,65,40,unknown,neutral
+3,It must be great to be endangered.,1.8789808917197448,0.068433820987279,157,68,40,49,exaggeration,negative
+4,"Mockingbird, pretty sure.",1.868421052631579,0.0664570521537153,152,62,48,42,unknown,neutral
+5,"This gives a whole new meaning to ""riding shotgun.""",1.8657718120805369,0.0621999185502581,149,54,61,34,incongruity-absurdity,positive
+2,We might be empty nesters sooner than we thought.,1.881118881118881,0.0639251804064262,143,51,58,34,irony,negative
+6,"Yes, but it's that self-destructive personality that makes his songs so memorable.",1.8652482269503543,0.0654033221226852,141,53,54,34,self-deprecating,negative
+8,It must be nice to be on the endangered species list.,1.8267716535433072,0.0742369324080365,127,57,35,35,sarcasm,negative
+10,Did she always take this position on guns?,1.815126050420168,0.0705709381212249,119,48,45,26,irony,neutral
+11,He always liked to ride shotgun.,1.809090909090909,0.0747477878205266,110,46,39,25,unknown,positive
+7,Does this make us bad parents?,1.8363636363636364,0.0780573907546341,110,47,34,29,self-deprecating,negative
+693,I hear that he's part stool pigeon.,1.4128440366972477,0.0600303032184931,109,72,29,8,wit-surprise,neutral
+9,Dave hasn't been himself since flying into that window.,1.820754716981132,0.0731736845201681,106,41,43,22,incongruity-absurdity,negative
+30,"Remember Son: ""Keep your friends close and your enemies closer.""",1.7264150943396226,0.0716046584388137,106,47,41,18,wit-surprise,neutral
+15,"Someone really should explain to Larry what ""riding shotgun"" means.",1.78,0.0773030243635886,100,43,36,21,sarcasm,negative
+16,It took us years to get somebody in the inside.,1.7755102040816326,0.0801463686325581,98,44,32,22,sarcasm,neutral
+12,"I'm really OK with being ""the two in the bush"".",1.7916666666666667,0.0836616340137338,96,44,28,24,self-deprecating,positive
+289,Should I tell him or should you?,1.5208333333333333,0.0725161304903023,96,58,26,12,sarcasm,neutral
+18,"Wow, that Brass Balled Warbler really lives up to its name.",1.768421052631579,0.0812178186128793,95,43,31,21,irony,positive
+19,He says it's a better adrenaline rush than high-voltage power lines.,1.768421052631579,0.0755015059273697,95,39,39,17,irony,positive
+17,We may not have covered every single thing before pushing him out of the nest..,1.7692307692307692,0.0734247234014171,91,35,42,14,unknown,neutral
+20,I don't think he understood when you said he could ride shotgun.,1.7582417582417582,0.0802022159505861,91,40,33,18,sarcasm,negative
+14,Well that's a mocking bird for ya.,1.78021978021978,0.0838659867693717,91,41,29,21,sarcasm,negative
+22,"I could be brave, too if I were out of season.",1.7555555555555555,0.0762922155274715,90,37,38,15,incongruity-absurdity,neutral
+23,You never know who you'll get when you call for an Uber ride.,1.7555555555555555,0.0794976599049608,90,39,34,17,sarcasm,neutral
+21,"Sweetie, we might be empty nesters sooner than we thought.",1.755813953488372,0.0792164889626168,86,36,35,15,irony,negative
+26,"She's taking a little too much advantage of her endangered species status, don't you think?",1.744186046511628,0.0878159474836793,86,42,24,20,irony,negative
+24,I'm pretty sure that's a Mockingbird.,1.7469879518072289,0.0904544530652564,83,41,22,20,irony,neutral
+48,He always rides shotgun when he travels,1.7,0.0878721741357397,80,40,24,16,unknown,neutral
+28,"If I were a protected species, I would show off too.",1.7341772151898731,0.091347268805224,79,39,22,18,unknown,neutral

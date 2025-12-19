@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,"Yep, we're lost. We passed this guy an hour ago.",1.8651685393258424,0.0878046443879057,89,37,27,25,irony,negative
+2,"He's always had his head in the clouds, but THIS ???",1.862068965517241,0.0852256369501501,87,34,31,22,exaggeration,neutral
+0,"As senior squeegee-man during flight simulations, moving up didn’t pan out.",1.869047619047619,0.0908615010062385,84,35,25,24,wit-surprise,neutral
+3,"OK, but he is going to have to check that bag.",1.8059701492537317,0.0980100650415911,67,29,22,16,sarcasm,neutral
+4,It's the only way Delta lets you redeem their vouchers,1.7936507936507935,0.1040863257825714,63,29,18,16,exaggeration,neutral
+5,"While stoned, he mistook a weather balloon for exhaust from a semi.",1.7936507936507935,0.1015969017481257,63,28,20,15,irony,neutral
+6,Jack had it all till the beanstalk died.,1.7758620689655171,0.0985162257304313,58,24,23,11,wit-surprise,neutral
+7,"Well, let me at least wipe your windshield.",1.7291666666666667,0.1143110077865733,48,23,15,10,sarcasm,negative
+8,"Same guy, same cloud. I think we're going in circles.",1.7234042553191489,0.1279675594138063,47,26,8,13,irony,negative
+9,"For those seated on the right side of the plane, the Grand Canyon should be visible in a moment. And for those seated on the left, an excellent view of Bob.",1.7234042553191489,0.1243005506106974,47,25,10,12,sarcasm,positive
+10,Don't make eye contact.,1.711111111111111,0.1334174818638514,45,26,6,13,sarcasm,neutral
+11,Keep going. He just wants to clean our windshield then charge us a fiver.,1.711111111111111,0.108349519640306,45,20,18,7,sarcasm,negative
+12,Why do they always pick a spot where it's impossible to pull over...,1.697674418604651,0.1178192570044237,43,21,14,8,sarcasm,negative
+13,I really don't understand cloud commuting.,1.675,0.1358142585316903,40,23,7,10,irony,negative
+14,Either he is high or I am.,1.6666666666666667,0.1290123038276248,39,21,10,8,sarcasm,neutral
+15,"Damn, Sully, it’s always an adventure with you.",1.6666666666666667,0.1236715281444934,39,20,12,7,sarcasm,positive
+18,Some people will do anything to avoid TSA screening.,1.6578947368421053,0.1374235377183389,38,22,7,9,sarcasm,negative
+16,Remember when basic economy level still got you a seat on the plane?,1.6666666666666667,0.1380131118684708,36,20,8,8,exaggeration,neutral
+17,Act like theres no room.,1.6666666666666667,0.1490711984999859,36,22,4,10,unknown,neutral
+19,I’ll bet you he changes finger when he finds out this is Air Force One.,1.6571428571428573,0.1474879692735383,35,21,5,9,sarcasm,neutral
+20,Looks like United has kicked out another unruly passenger.,1.6571428571428573,0.1356147357134063,35,19,9,7,irony,neutral
+21,He used to squeegee the windows.,1.6363636363636365,0.1216846848803713,33,16,13,4,wit-surprise,neutral
+22,I don’t trust anyone who doesn’t obey the laws of physics.,1.6363636363636365,0.1363636363636363,33,18,9,6,wit-surprise,negative
+25,That backpack would never fit in the overhead.,1.625,0.1402043439573686,32,18,8,6,sarcasm,negative
+26,"Hank, check our coordinates . . . I think we passed that guy 20 minutes ago.",1.625,0.1402043439573686,32,18,8,6,sarcasm,neutral
+27,Maybe we shouldn't have eaten those mushrooms before take-off.,1.625,0.1328199120322629,32,17,10,5,incongruity-absurdity,negative
+24,At least one every time we fly over Colorado...,1.625,0.1166570656571728,32,15,14,3,irony,neutral
+23,I thought you said your son was grounded.,1.625,0.1402043439573686,32,18,8,6,sarcasm,neutral
+28,"Relax. I said, hitchhiker. Not hijacker.",1.6129032258064515,0.1366056986078042,31,17,9,5,sarcasm,neutral
+29,Uber surge pricing again,1.6129032258064515,0.1515328088598092,31,19,5,7,irony,negative

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Just to mess with him put them back on the tree.,2.172655983634504,0.0063263684275845,14665,3256,5621,5788,irony,neutral
+"This is your first abduction, isn’t it?",2.0287993617869966,0.0070849695381435,12535,3768,4638,4129,sarcasm,negative
+"Must be valuable, they spend hours collecting them!",2.007687656560422,0.0072098180256017,11577,3439,4610,3528,irony,positive
+"Wait, did they say 'take the man and leave' or 'take the man and leaves?'",2.0634424913000804,0.0074625882133212,11207,3164,4168,3875,unknown,neutral
+"Trust me—I know their language. If he’s ‘raking it in,’ it’s money.",1.9210857973824529,0.0079237793697846,10315,3779,3571,2965,wit-surprise,neutral
+"We travel 1,000 light years and you miss by three feet.",1.919428809672712,0.0082490581536804,9594,3549,3269,2776,irony,neutral
+"No, the OTHER pile of useless organic matter.",1.919774131685489,0.0084787780975819,9386,3573,2993,2820,sarcasm,negative
+"After the year they’ve had, it’s the least we can do.",1.878674505611972,0.0082051179241498,9355,3582,3326,2447,irony,negative
+As long as we're up here we should do the gutters.,1.882820136852395,0.0089801358292407,8184,3236,2671,2277,incongruity-absurdity,neutral
+Can’t wait to see the look on his face when we put these back on the tree.,1.7477748691099475,0.0089996605532954,7640,3570,2427,1643,irony,positive
+"Put them in the neighbor's yard so he has to say aliens did it.""",1.7853918752564628,0.0093840819924307,7311,3306,2268,1737,sarcasm,neutral
+I AM getting the intelligent life form! The other one still hasn’t accepted the election results.,1.900994318181818,0.0100478498640507,7040,2894,1953,2193,sarcasm,neutral
+"I think you've slightly misinterpreted ""A good interplanetary explorer discreetly gathers information and leaves.""",1.8925233644859816,0.0100544351728274,6634,2619,2109,1906,wit-surprise,neutral
+What trouble?  We just beam them up and dump them over the fence.  I've seen him do it dozens of times.,1.7168852459016393,0.0097408500924069,6100,2873,2081,1146,sarcasm,neutral
+Please let it taste better than kale.,1.6998344675372448,0.0105251564280907,5437,2698,1673,1066,irony,neutral
+I guess his wife is the hunter.,1.774002370604504,0.0113313846137273,5062,2346,1514,1202,irony,neutral
+"This advanced species makes oxygen, reduces CO2, and changes colors.",1.7541745931092791,0.0115690842944105,4731,2222,1450,1059,irony,positive
+"First, you get them to believe you are here to help them.",1.7511561330103502,0.0112620148269738,4541,2013,1645,883,sarcasm,neutral
+Idiot! That’s the lawn tractor beam.,1.699099099099099,0.0124683810817825,4440,2401,974,1065,unknown,negative
+I guess the trees make them do it.  Wait until you see what the dogs make them do.,1.706627937681542,0.0129839276006099,3787,1933,1036,818,incongruity-absurdity,neutral
+Why do you only do chores on other planets?,1.6916572717023677,0.0129505461298696,3548,1771,1100,677,irony,negative
+"The human next door wants us to abduct his, too.",1.6763856812933025,0.0126124652967227,3464,1696,1193,575,irony,negative
+Another American job lost to an  illegal alien.,1.6907308377896613,0.0138319992334905,3366,1765,877,724,irony,negative
+I said hover not hoover.,1.6939216291268129,0.0136214620533427,3241,1622,989,630,unknown,neutral
+He’s spent all afternoon collecting them - they must be worth SOMETHING,1.6317638791286015,0.0135293986024575,2846,1458,978,410,unknown,neutral
+I find that random acts of kindness before the anal probe always helps.,1.6296863045141543,0.0152261996835932,2614,1455,672,487,sarcasm,positive
+The real fun starts when his wife gets home and we beam them back down again.,1.6262230919765166,0.0148346680074804,2555,1374,762,419,sarcasm,positive
+He was collecting them. They must be important.,1.6223468161794152,0.014166907419159,2497,1275,890,332,incongruity-absurdity,positive
+Then we'll dump them in the yard down the street where they cut down all their trees.,1.6277310924369748,0.0158708398912409,2380,1321,624,435,irony,negative
+If they only knew our money grows on their trees.,1.8351219512195125,0.017280162364944,2050,824,740,486,irony,negative

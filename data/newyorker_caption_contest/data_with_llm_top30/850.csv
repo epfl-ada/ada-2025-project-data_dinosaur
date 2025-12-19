@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"If you wanted me to jump, you could've just pushed me.",1.8,0.137649440322337,20,6,12,2,sarcasm,neutral
+I'm about to be at your door!,1.631578947368421,0.1745591994923894,19,10,6,3,sarcasm,positive
+Don’t you ever take a holiday?,1.4736842105263157,0.1771842971642469,19,13,3,3,sarcasm,negative
+"Hey down there, you’re killing that song.",1.3888888888888888,0.1432327254954975,18,12,5,1,sarcasm,positive
+I prefer soul.,1.6666666666666667,0.1807753815155468,18,9,6,3,self-deprecating,neutral
+Are you working from home full time now?,1.5625,0.1818596070232933,16,9,5,2,sarcasm,neutral
+Don't quit your night job!,1.5625,0.1572882174014739,16,8,7,1,unknown,neutral
+Know anything else besides 'Highway To Hell'?,1.375,0.125,16,10,6,0,sarcasm,neutral
+This motherfucker.,1.6,0.2350278605572012,15,10,1,4,sarcasm,negative
+You win. Come back.,1.4666666666666666,0.2152886581991869,15,11,1,3,sarcasm,positive
+Where'd you get that soul?,1.4666666666666666,0.1652319197418807,15,9,5,1,wit-surprise,negative
+"Ok, you win. I'll give you back the scythe.",1.5333333333333334,0.1918994445677132,15,9,4,2,sarcasm,positive
+Keep it down!  You’ll wake the Grateful Dead!,1.3333333333333333,0.1868706368604627,15,12,1,2,incongruity-absurdity,positive
+Just when I thought the music had died down,1.3333333333333333,0.1593638145779191,15,11,3,1,unknown,negative
+I wouldn't quit my day job if I were you.,1.3333333333333333,0.1593638145779191,15,11,3,1,sarcasm,neutral
+Have you got anything besides Knockin’ on Heaven’s Door?,1.5,0.2029994857352875,14,9,3,2,sarcasm,neutral
+Enough with the Lana Del Rey!,1.3571428571428572,0.1692628769313116,14,10,3,1,sarcasm,negative
+"Don't make be come down there, you're be very sorry if I have to!",1.3571428571428572,0.1692628769313116,14,10,3,1,sarcasm,negative
+Dude! Death Metal is long gone.,1.4285714285714286,0.1727058642362825,14,9,4,1,exaggeration,negative
+"If you’re trying to kill me, it’s working.",1.4285714285714286,0.1727058642362825,14,9,4,1,self-deprecating,negative
+C'mon you're killin'  that song!,1.2857142857142858,0.1252940027581469,14,10,4,0,sarcasm,positive
+What?  Afraid to meet me face to face?,1.2857142857142858,0.1633633928276758,14,11,2,1,sarcasm,negative
+"Stairway to Heaven again—seriously!
+You’re killin’ me.",1.2857142857142858,0.1633633928276758,14,11,2,1,sarcasm,negative
+One more rendition of ‘In a gadda da vida’ and I’m gonna kill myself!,1.2142857142857142,0.1138039295450988,14,11,3,0,exaggeration,negative
+Could you at least switch to acoustic and play some Grateful Dead?,1.1428571428571428,0.0970523172123939,14,12,2,0,sarcasm,neutral
+Can you keep it down? We're trying to live up here.,1.3846153846153846,0.1804006061470549,13,9,3,1,unknown,neutral
+Death metal? Really? You'll be a walking cliché!,1.3846153846153846,0.140441681411581,13,8,5,0,sarcasm,negative
+He is dead. He just hasn’t left the building yet.,1.1538461538461535,0.1538461538461539,13,12,0,1,sarcasm,negative
+Thorwald sure has changed.,1.3846153846153846,0.140441681411581,13,8,5,0,irony,neutral
+Would it kill you to play something other than The Funeral March?,1.2307692307692308,0.1216260638526299,13,10,3,0,sarcasm,neutral

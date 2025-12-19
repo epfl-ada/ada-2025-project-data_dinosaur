@@ -1,0 +1,27 @@
+[
+  {
+    "event": "war",
+    "metric": "pearson_0lag",
+    "value": -0.12269616637898688
+  },
+  {
+    "event": "war",
+    "metric": "spearman_0lag",
+    "value": -0.06753816683922614
+  },
+  {
+    "event": "war",
+    "metric": "kendall_0lag",
+    "value": -0.04510193039580572
+  },
+  {
+    "event": "war",
+    "metric": "best_lag_months",
+    "value": -5.0
+  },
+  {
+    "event": "war",
+    "metric": "best_lag_corr",
+    "value": 0.36552422812450885
+  }
+]

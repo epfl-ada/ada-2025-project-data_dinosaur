@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I pictured it differently when you said you kept my room just like it was.,1.7676190476190476,0.0247974965682346,1050,489,316,245,irony,neutral
+1,"Fine, mom. You've made your point. I'll start looking for an apartment tomorrow.",1.736,0.0260764586047232,875,406,294,175,sarcasm,neutral
+3,"Mom! When you said I could have my old room back, this isn't what I had in mind.",1.7191011235955056,0.0275904412469933,801,388,250,163,unknown,negative
+4,I hate being born on Leap Year.,1.7160963244613434,0.0287641287303872,789,401,211,177,unknown,negative
+2,"No, you grow up.",1.7354497354497354,0.0283605414433566,756,356,244,156,sarcasm,neutral
+5,"Hey Mom, when I asked if I can move back into my old room, this wasn't exactly what I had in mind.",1.7029972752043596,0.0289607783098364,734,367,218,149,irony,negative
+6,"Nope, still not ready to finish those peas.",1.7020689655172414,0.0299757600855534,725,376,189,160,self-deprecating,negative
+7,"I can hear you, you know.",1.6983240223463687,0.0299378185397181,716,370,192,154,sarcasm,neutral
+8,It's time to get my own crib.,1.6885964912280702,0.031265353189304,684,368,161,155,irony,neutral
+9,You said I could have my OLD room back...not my FIRST room!,1.6836581709145426,0.032118266203909,667,368,142,157,incongruity-absurdity,negative
+10,...but I regress.,1.6693548387096775,0.0321716362628768,620,335,155,130,wit-surprise,neutral
+11,"Yeah, my parents let me move back into my old room.""",1.6661237785016287,0.0315459487773536,614,324,171,119,unknown,neutral
+12,"Mom, this is exactly why I don't come home to visit more often.",1.6639209225700164,0.0307332980812879,607,310,191,106,sarcasm,negative
+13,I think I overslept.,1.6552315608919383,0.0321952178117634,583,311,162,110,self-deprecating,negative
+14,"Of course I could climb out -- but, then what?",1.638059701492537,0.0321164656640659,536,280,170,86,self-deprecating,neutral
+16,Alexa. Are my parents ever coming back?,1.634469696969697,0.0348760018100393,528,301,119,108,sarcasm,neutral
+17,"Siri, what's the Guinness World Record for the longest time out?",1.630057803468208,0.0339008329869529,519,286,139,94,irony,neutral
+18,This is why I don't like coming home over break.,1.622266401590457,0.0329550609155004,503,268,157,78,sarcasm,negative
+19,Are you sure this is the only way to stay on your insurance?,1.609704641350211,0.0341059528877388,474,259,141,74,sarcasm,neutral
+20,You should probably know that I can hear you too.,1.6080508474576272,0.0328902006276695,472,249,159,64,sarcasm,neutral
+21,"Naturally, I'm touched that you kept my room exactly as it was when I was kidnapped.",1.6080508474576272,0.038322434845237,472,292,73,107,sarcasm,positive
+22,This isn't what I had in mind when I said I wanted to move back home.,1.603896103896104,0.0334645173128748,462,247,151,64,exaggeration,negative
+23,I'm starting to regret moving back in with my parents.,1.5968819599109132,0.0346878576493555,449,248,134,67,self-deprecating,negative
+24,"Yes, your AirBnB post promised that I'll sleep like a baby, but...",1.5959821428571428,0.0365739202872741,448,261,107,80,sarcasm,neutral
+25,"You know I can climb out of here, right?",1.5950782997762865,0.0337962933711538,447,241,146,60,unknown,neutral
+15,I'm pretty sure I'm in the control group.,1.635955056179775,0.0363470633556833,445,241,125,79,self-deprecating,neutral
+26,It's true what they say. You can't go home again.,1.5909090909090908,0.0358579458100442,440,251,118,71,unknown,neutral
+27,This is the last time I use Airbnb.,1.580568720379147,0.0380160483441929,422,254,91,77,sarcasm,negative
+28,"Not what I meant by ""getting my own crib"". Over.",1.5789473684210529,0.0383155009815864,418,253,88,77,self-deprecating,negative
+29,I'm ready to eat my broccoli now.,1.5742092457420924,0.0380903275395902,411,247,92,72,incongruity-absurdity,positive

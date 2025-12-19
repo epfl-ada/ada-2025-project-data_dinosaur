@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You say ‘flood’ like it’s a bad thing.,1.7544825137582103,0.0106071671145323,5633,2646,1724,1263,sarcasm,negative
+This must be your first flood.,1.7195784094538489,0.0138497185157404,3131,1502,1005,624,sarcasm,neutral
+"Wait, there’s a flood coming, and you want us to get IN the boat?",1.6286102616377849,0.0150957568938186,2943,1736,564,643,irony,negative
+You took us out of school for this?,1.7471092875792615,0.0156711173156672,2681,1307,745,629,irony,negative
+Being on cedar planks makes us really uncomfortable.,1.7337962962962965,0.0159303124644588,2592,1289,704,599,unknown,negative
+"Which list are we on, guest or menu?",1.6936067551266587,0.0158362154084975,2487,1273,703,511,sarcasm,neutral
+We’ll meet you there.,1.6555246053853296,0.0165900772011669,2154,1137,622,395,sarcasm,neutral
+Let me guess - the cats suggested you bring us.,1.651350071056371,0.0167882187679946,2111,1124,599,388,sarcasm,neutral
+I think we’ll take our chances.”,1.641776476329917,0.0164175225603163,2049,1064,655,330,sarcasm,neutral
+Really?  Do you do everything He tells you?,1.6458865610628512,0.0172239492278884,1957,1037,576,344,sarcasm,neutral
+What do you mean we'd be useful on Fridays?,1.7166324435318274,0.018122101328294,1948,977,546,425,sarcasm,neutral
+All this so you can spread our descendants on bagels?,1.6515697375193,0.0177222482284475,1943,1049,522,372,sarcasm,negative
+We were told that there would be water.,1.616822429906542,0.0169183565014802,1926,1041,582,303,incongruity-absurdity,neutral
+We weren't endangered until a few minutes ago.,1.6792249730893434,0.0180556171863879,1858,956,542,360,irony,neutral
+"Trust us, we'll be fine out here. And after few days, you're really not going to want us in there.",1.656160458452722,0.0181786850244118,1745,906,533,306,sarcasm,neutral
+"You do know that trying to rescue us from a huge body of water is kind of weird, right?",1.6580188679245282,0.0188333677812544,1696,899,478,319,sarcasm,negative
+How about we skip the ark and just meet up with you at Mount Ararat in a few weeks.,1.632047477744807,0.0181220171772687,1685,890,525,270,irony,neutral
+We’ll take our chances with the flood if that’s alright with you,1.6519402985074627,0.0185234010713496,1675,874,510,291,sarcasm,neutral
+"Yes, we're sushi grade. Why do you ask?",1.6824529447480268,0.0189442534587288,1647,831,508,308,sarcasm,neutral
+The cats invited us.,1.5952970297029705,0.018103329368347,1616,887,496,233,incongruity-absurdity,positive
+Psalmon 8:8,1.6304211187932118,0.0190982552882592,1591,864,451,276,irony,neutral
+Can you give us a hand?  We're floundering here.,1.6559343434343434,0.0190239849734571,1584,820,489,275,wit-surprise,neutral
+We would like a cabin with an open porthole.,1.632081476766391,0.0188602225074605,1571,834,481,256,unknown,neutral
+"Forty days of floods? Are you kidding, Noah? That's our wet dream.",1.6602564102564104,0.0199703722243343,1560,840,410,310,incongruity-absurdity,negative
+We left a few thousand eggs in steerage,1.5940721649484535,0.0183694958269327,1552,849,484,219,incongruity-absurdity,neutral
+"I know what God said, but I think we'll be OK.",1.6787330316742082,0.0196058596505911,1547,788,468,291,sarcasm,positive
+Don’t tell me you already have two talking fish.,1.7457293035479633,0.0207693663810851,1522,742,425,355,wit-surprise,neutral
+"C’mon,man. Fish gotta swim.",1.6163021868787275,0.0192682236040039,1509,823,442,244,unknown,neutral
+"What, you thought we'd drown?",1.6706507304116869,0.0201322628952823,1506,789,424,293,sarcasm,negative
+"Bears and eagles also? You know what, I'll take my chances at home.",1.6260811709913503,0.0191728791992513,1503,801,463,239,irony,neutral

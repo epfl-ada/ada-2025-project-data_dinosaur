@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Who had the wings?”,1.6109470815353168,0.0110778886471737,4403,2379,1358,666,incongruity-absurdity,neutral
+Are you going to finish those croissant crumbs?,1.5853833293527586,0.0114261077253093,4187,2372,1179,636,sarcasm,neutral
+"Yes, sir, all of our poultry is free-range.""",1.5876288659793814,0.0114511214322736,4171,2355,1181,635,unknown,positive
+It's arm to table.,1.5286057692307693,0.0107532207938407,4160,2443,1235,482,incongruity-absurdity,neutral
+We'll have those crumbs on your table cleaned up in no time.,1.6422885572139303,0.0119407756056329,4020,2128,1202,690,unknown,neutral
+Your eggs will be right out,1.627402046418767,0.0117354802659302,4007,2130,1240,637,unknown,neutral
+We just had these flown in.,1.601966221325939,0.0113604239950332,3967,2119,1308,540,exaggeration,neutral
+They recommend the beef.,1.7019328585961342,0.0126991223781692,3932,2007,1090,835,incongruity-absurdity,neutral
+It's best when we don't tell you their names,1.5730077120822623,0.0117924739112558,3890,2237,1077,576,irony,neutral
+I understand you have a complaint about the way the eggs were made.,1.5677136972193615,0.0119041500559854,3884,2271,1021,592,sarcasm,negative
+It's our third day of Christmas Special.,1.5461196759864124,0.0116304831465179,3827,2253,1058,516,irony,positive
+We have three turtle doves left over from the holidays.,1.5287195292799105,0.0117339219042964,3569,2114,1023,432,incongruity-absurdity,neutral
+This is our early bird special.,1.6311072564324949,0.0128377170355796,3459,1859,1017,583,unknown,neutral
+Who’s feeling peckish?,1.5171014492753625,0.0118662886060539,3450,2073,970,407,incongruity-absurdity,neutral
+"These are locally sourced, I assure you...Central Park, in fact.",1.57821482602118,0.0127316515034559,3305,1876,947,482,incongruity-absurdity,positive
+I'm not your waiter.  I'm just here to pick up chicks.,1.56244160697602,0.013178980088851,3211,1905,806,500,sarcasm,neutral
+Care for a cockatiel?,1.6146158650843223,0.0134509333675679,3202,1782,872,548,incongruity-absurdity,neutral
+May I tell you about tonight’s special on wings?,1.4621768273220557,0.0125144876399726,3133,2064,690,379,incongruity-absurdity,neutral
+Your eggs should be out any minute now.,1.7002237136465324,0.0135492390550134,3129,1508,1051,570,unknown,neutral
+You asked for separate bills?,1.5824812542603954,0.0135566985896931,2934,1659,841,434,sarcasm,neutral
+I'm training them to recite the specials.,1.5141643059490084,0.0133058435946177,2824,1725,746,353,unknown,neutral
+Our menu is arm to table.,1.4893390191897655,0.012662362034431,2814,1720,811,283,unknown,neutral
+"Oh, don’t worry about the crumbs. Our busbirds will take care of it.",1.5408942202835332,0.0132049070963924,2751,1581,852,318,sarcasm,neutral
+May I introduce tonight’s specials?,1.602059580728209,0.0139948814779242,2719,1480,841,398,unknown,neutral
+"No, I ordered the 2 turtle doves my wife ordered the 3 French hens…you’ve got this all mixed up!….we’ll just take a partridge in a pear tree",1.5046142488002954,0.0136316910022953,2709,1685,681,343,irony,neutral
+My true love gave these to me.,1.5685681904042312,0.0139106239195479,2647,1495,799,353,unknown,positive
+Welcome to game night.,1.516337386018237,0.0136449893954011,2632,1589,727,316,incongruity-absurdity,positive
+Our early bird specials.,1.6819747416762345,0.0148678502431479,2613,1302,840,471,incongruity-absurdity,neutral
+They're much quicker than a busboy at cleaning up crumbs.,1.5345786963434025,0.0138624816377053,2516,1466,755,295,unknown,positive
+Where would you like your eggs?,1.5762644364794902,0.014609131286076,2511,1430,715,366,incongruity-absurdity,neutral

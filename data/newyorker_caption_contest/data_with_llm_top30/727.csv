@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It's the closest you'll get to Manhattan in your price range.,2.087966349670812,0.0078181053448679,10936,3216,3539,4178,incongruity-absurdity,neutral
+"Now I gotta tell you, it's not technically IN Brooklyn",2.017056816845077,0.0087990787968306,8501,2724,2904,2871,irony,neutral
+"No cable, but satellite works great up here!",2.001527106133876,0.0088822677191161,7858,2435,2975,2446,unknown,positive
+The place has great views but not much atmosphere.,1.8673576686194984,0.0097149301653569,6657,2591,2358,1707,unknown,positive
+Ambiance it has in abundance: Atmosphere? Not so much.,2.000311817898347,0.0101120568889728,6414,2102,2207,2104,unknown,neutral
+And the best part? It all runs on solar.,1.9324173190605527,0.0099789538942231,6259,2176,2329,1752,irony,positive
+This unit comes with a vacuum.,1.8871669858958733,0.0107274935527202,5743,2257,1872,1610,unknown,neutral
+It may be small but the view is out of this world!,1.865427927927928,0.0107148524313833,5328,2041,1964,1322,incongruity-absurdity,positive
+And 2020 is only ten days long up here.,1.8930652133057695,0.0114761041870084,5321,2179,1531,1610,exaggeration,neutral
+Keep in mind the neighborhood is expanding.,1.9947755417956656,0.0112087362208015,5168,1691,1812,1663,incongruity-absurdity,neutral
+"So when you said the most important thing to you was space, I knew I had to show you this one ...",1.9407984420642648,0.011252400656588,5135,1830,1779,1526,irony,neutral
+"You work remote, right?",2.027648839556004,0.011290616870299,4955,1498,1822,1635,sarcasm,neutral
+That’s right!  This unit would be perfect for someone who works remotely.,1.7976584934835431,0.0114211265391262,4527,1886,1668,971,irony,positive
+"As you can see, space won’t be an issue here.",1.805014551152899,0.0114537694782043,4467,1829,1680,958,incongruity-absurdity,neutral
+The commute is a little longer but look at this space!,1.8115066039847776,0.0115564193940623,4467,1839,1631,994,incongruity-absurdity,positive
+Another plus - you’ll only weigh 20 lbs here.,1.8572088724584104,0.0119933906519005,4328,1699,1546,1082,exaggeration,positive
+Set your expectations to stunned!,1.7569311663479923,0.013204993528285,4184,2158,885,1141,sarcasm,neutral
+Well after the 2020 election Canada filled up so fast. So this really is the next emerging area.,1.808794466403162,0.0127807624155177,4048,1799,1224,1024,exaggeration,neutral
+And with your price range this is the closest you get to Manhattan,1.9120961682945157,0.0127324969695985,3993,1483,1378,1132,irony,neutral
+"And like all suites in Trump Tower, it’s not tethered to reality.",1.8487590486039296,0.0136122214729261,3868,1725,1004,1139,exaggeration,neutral
+"No train, but there's a shuttle.",2.0021899808376675,0.0130672731458053,3653,1135,1375,1143,sarcasm,neutral
+"Yes, it’s a bit far from the city, but there are plans for a shuttle.",1.7649171270718231,0.012693746710766,3620,1581,1309,730,incongruity-absurdity,neutral
+This is the Great Room … open space to plan.,1.8391428571428572,0.0141857696870938,3500,1559,945,996,incongruity-absurdity,positive
+This is the Master of the Universe bedroom.,1.7533026995979322,0.0137033905663892,3482,1676,990,816,incongruity-absurdity,neutral
+"Yes, this is nice but wait 'till you see the sun room!",1.7553956834532374,0.0130695643133579,3475,1559,1205,709,incongruity-absurdity,positive
+It’s been available since the previous owner opened the window.,1.9215873015873015,0.0148302730332253,3150,1224,949,977,incongruity-absurdity,neutral
+Ignore the 3D paintings - mischievous children.,1.7934121016827784,0.0162445721794907,2793,1377,616,800,incongruity-absurdity,negative
+The view from the balcony will take your breath away.,1.849820788530466,0.0150738424557513,2790,1125,959,706,incongruity-absurdity,positive
+"The view, I think you'll agree, is out of this world.",1.8800635424940428,0.0156172390309664,2518,942,936,640,incongruity-absurdity,positive
+You’ve heard of Alexa? This place has Hal.,1.7382328654004957,0.0164878904783367,2422,1197,662,563,incongruity-absurdity,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It prints out his tweets. All the new uniforms have them.,2.1800242456896552,0.0064262542737504,14848,3456,5263,6129,wit-surprise,neutral
+You can't imagine what it's like to have someone stare at your chest and never look you in the eye.,2.0431588613406797,0.0069951628571062,13068,3908,4688,4472,sarcasm,negative
+"And this, I’m proudest of: a list of all the names the President has called me.",2.015746162367463,0.0069597448021949,12638,3770,4899,3969,self-deprecating,positive
+"That, madam, is the price of freedom.",1.9310280893668303,0.0077779512077271,10787,3917,3697,3173,wit-surprise,negative
+After the budget cuts we only get a list of the medals,1.9658680357482412,0.0075411673132524,10518,3331,4215,2972,irony,negative
+That one is for fighting high prices.,1.6949319660816409,0.0078272041928243,10142,5202,2845,2095,irony,neutral
+"Wait, if my grocery list is here, I must have left the nuclear codes in my cart.",1.8647095052350648,0.0082043840892694,9742,3942,3176,2624,self-deprecating,neutral
+Oh this? It’s a list of all the bosses I’ve had since Trump became President.,1.8649225840896957,0.0081662713544724,9365,3642,3346,2377,self-deprecating,neutral
+It’s the Paper Heart for bureaucratic valor.,1.9042228994340444,0.0082905031210565,9188,3383,3302,2503,unknown,neutral
+I was in the merchant marines.,1.8159509202453987,0.0082399353907868,8965,3705,3205,2055,wit-surprise,neutral
+"Everybody has a price, but not everybody offers a detailed invoice.",1.8128123580190825,0.0081465668867586,8804,3550,3352,1902,wit-surprise,neutral
+"I got the blue one in Kosovo, and the long white one at Costco",1.912882932166302,0.0092130227443837,7312,2615,2719,1978,unknown,neutral
+"Yes, I do know how much this war is going to cost us.",1.7335050808644623,0.0087905062354049,6987,3065,2719,1203,wit-surprise,negative
+Live tweets. He likes your dress.,1.7621942179392145,0.0094177748998553,6745,3010,2329,1406,sarcasm,positive
+"Hopefully soon, China will start making our medals again.",1.84380138112463,0.0099961424010774,6082,2397,2238,1447,irony,positive
+"To make things easier, it's a list of topics the White House prohibits me from discussing.",1.669132605881265,0.0098761655601092,5407,2626,1948,833,sarcasm,negative
+I was stationed at CVS during the War on Drugs.,1.936599962595848,0.0113208481874712,5347,2012,1662,1673,incongruity-absurdity,neutral
+"They're for valor, loyalty, courage, and my wife's to dos.",1.6996799096215405,0.0100668801880474,5311,2466,1974,871,irony,positive
+"Came with the Uniform. It says ""Do Not Remove Under Penalty of Law.""",1.6917427550615325,0.010811619638143,5038,2499,1593,946,incongruity-absurdity,neutral
+It was quid pro quo. I have the receipts.,1.6882449650637072,0.0108562513364059,4866,2390,1603,873,irony,neutral
+"No, not Kosovo. Costco.",1.6870662460567822,0.0106902327285425,4755,2276,1694,785,irony,neutral
+"And at the end of my service, I received an honorable surcharge",1.687715269804822,0.0110976845288732,4355,2060,1595,700,sarcasm,positive
+The medals are for kicking ass. The paper is for taking names.,1.7223117660603269,0.0116129505549977,4343,2042,1465,836,wit-surprise,neutral
+My allowed responses to questions from the President.,1.676477458537725,0.0111817707679342,4281,2062,1542,677,sarcasm,neutral
+I print out the Commander-In-Chief's tweets on toilet paper so I can properly deploy them.,1.7460087082728593,0.0127357506798942,4134,2044,1096,994,sarcasm,neutral
+That's the list of subpoenas I've been ordered to ignore.,1.7407407407407407,0.011953820972052,4104,1873,1422,809,sarcasm,negative
+We think it's always important to have a paper trail.,1.7538115471132216,0.0116188542432408,4001,1694,1598,709,unknown,neutral
+My resignation speech in case I'm overcome with moral courage.,1.72267620020429,0.012403971531994,3916,1873,1256,787,self-deprecating,neutral
+It's proof I'm a survivor - a list of all the Trump officials who resigned before me.,1.6321868583162218,0.0118082843697579,3896,2038,1253,605,self-deprecating,neutral
+"Yes, it's a receipt.  I'm General Store.",1.8258719416970328,0.0129701358007002,3842,1634,1243,965,irony,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Four stomachs? Now I’ve seen everything.,1.5614297092791716,0.0072301587428398,10044,5805,2839,1400,incongruity-absurdity,neutral
+You’re standing right where I want to put the crop circle.,1.5872587258725872,0.0073438645304762,9999,5611,2904,1484,wit-surprise,neutral
+This is the last time we're bringing you back.  Stop jumping over the moon.,1.7279388997832594,0.0083117662658534,9689,4919,2487,2283,sarcasm,neutral
+Don't be embarrassed.  Our atmosphere is all methane.,1.6858329008822004,0.0078650778533708,9635,4860,2942,1833,incongruity-absurdity,neutral
+"Our technology detected a ""moo moo here"" and a ""moo moo there.""",1.6820893960012562,0.0078544915706076,9553,4816,2958,1779,irony,neutral
+"Let me get this straight, you're food, clothing and a beverage?",1.774414680447163,0.0082700205056603,9482,4385,2851,2246,wit-surprise,neutral
+"Well, you don't look like your picture either.",1.6586669699727024,0.0081696876958479,8792,4592,2609,1591,sarcasm,negative
+Take me to your Dairy Queen.,1.6526447788417693,0.0081245348634031,8772,4592,2635,1545,incongruity-absurdity,neutral
+They do what to you twice a day?,1.641923436041083,0.0079690225647865,8568,4414,2808,1346,irony,neutral
+Why don't they just drink their own?,1.6224967022424752,0.0081228001532394,8339,4462,2563,1314,sarcasm,negative
+"Yeah, well, we tried talking to your leader. Frankly, you make more sense.",1.6186354378818737,0.0085085417104653,7856,4303,2246,1307,sarcasm,neutral
+"No, not your breeder, your leader...",1.6131991336475984,0.0082096545984053,7849,4181,2523,1145,sarcasm,neutral
+"It’s ironic. When you go missing, they’ll put your face on a milk carton.",1.618827754264461,0.0085611435600291,7797,4280,2209,1308,irony,negative
+And then they drink it?,1.7040434052448004,0.0088859892181597,7741,3850,2332,1559,irony,neutral
+"Parking was tough, I was circling the crops for hours.",1.620832256397002,0.0083051833104049,7738,4088,2496,1154,incongruity-absurdity,negative
+"We're humanitarians. We only eat humans.""",1.7017730969204106,0.0091050605239136,7501,3784,2170,1547,incongruity-absurdity,negative
+I come in peace. Can you tell me what I'm standing in?,1.606523816022929,0.0085941629207146,7327,3991,2228,1108,incongruity-absurdity,neutral
+Finally! Some intelligent life.,1.6279966933039405,0.0086900649540077,7258,3841,2276,1141,wit-surprise,positive
+It comes from where? And they drink it?,1.6617403314917127,0.0089333572642361,7240,3730,2229,1281,irony,neutral
+They pull on your what?!,1.6537271448663853,0.0090278002897974,7110,3717,2138,1255,unknown,neutral
+We come in lactose tolerance.,1.6066249644583452,0.0087233633872149,7034,3810,2181,1043,irony,neutral
+I’m not authorized to take you over the moon.,1.6154622818404731,0.0088484456108808,6933,3727,2145,1061,wit-surprise,neutral
+Do I look like I eat meat?,1.689187238342717,0.0092712014845455,6927,3473,2134,1320,unknown,neutral
+"So wait, this is Roswell, Idaho?",1.5738225946258306,0.0087223847187601,6922,3926,2020,976,incongruity-absurdity,neutral
+I'm out of methane.,1.7085367657937565,0.0092518359232087,6759,3227,2275,1257,irony,negative
+"Turns out, you’re the most intelligent life we’ve encountered.",1.630418700991271,0.0089938227188103,6759,3558,2141,1060,irony,positive
+Your face rings a bell.,1.6541765402843602,0.009144244248408,6752,3477,2133,1142,sarcasm,neutral
+"My ship runs on methane, can you help me?",1.6612038140643623,0.0090895825631228,6712,3383,2220,1109,sarcasm,negative
+"My name is George Santos. You can trust me, my mother was also a cow and she died in Pearl Harbor.",1.714584578601315,0.0101035806983701,6692,3513,1576,1603,exaggeration,negative
+I find it hard to believe you jumped over anything.,1.746103797851415,0.0094644292755655,6609,3008,2271,1330,sarcasm,negative

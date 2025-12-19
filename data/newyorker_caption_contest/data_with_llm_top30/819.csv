@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Can’t believe I was caught dead in these pants.,1.7793447602516814,0.0118346176626627,4609,2108,1410,1091,self-deprecating,negative
+I certainly have one regret.,1.7347417840375587,0.0118512210028687,4260,1989,1412,859,self-deprecating,negative
+I can change.,1.7231973434535104,0.0117465031817312,4216,1971,1441,804,self-deprecating,neutral
+I could repant.,1.752896725440806,0.0127776099937489,3970,1898,1155,917,self-deprecating,neutral
+"My wife said, ""Try them on, it won't kill you. """,1.8676339946698253,0.0140852143575641,3377,1384,1056,937,unknown,neutral
+"I swore I would never be caught dead in these pants, yet here we are.",1.825091575091575,0.0141190410801638,3276,1406,1037,833,self-deprecating,negative
+My wife said she'd kill me if I ever wore these pants again...,1.7966412213740457,0.0140298870910573,3275,1456,1029,790,sarcasm,negative
+I can't believe I died on laundry day.,1.6971463639153117,0.0134964604188777,3259,1610,1026,623,incongruity-absurdity,negative
+Joseph got the coat and I got the pants.,1.7478042659974906,0.013872324914159,3188,1481,1030,677,unknown,neutral
+"Okay, I took two risks today.",1.7238782554126135,0.0137904572433086,3187,1527,1013,647,self-deprecating,neutral
+All I know is the devil wears Prada.,1.7149591451917032,0.0140301963627154,3182,1579,931,672,sarcasm,negative
+"So my wife says, “Would it kill you to wear something colorful?",1.841335453100159,0.0143277453400831,3145,1304,1036,805,irony,neutral
+I was expecting this to be a Zoom Call,1.7280561761889563,0.0140183423330455,3133,1506,973,654,incongruity-absurdity,neutral
+"Ah, Mr. Rubik, we’ve been expecting you.",1.7878103837471784,0.0143021691272934,3101,1382,995,724,sarcasm,positive
+I told my wife I wouldn’t be caught dead in them.,1.7293622531563613,0.0137892528383745,3089,1438,1049,602,incongruity-absurdity,neutral
+I’m here to see a guy named Joseph about a coat.,1.7048429319371727,0.0138302577955121,3056,1477,1004,575,wit-surprise,neutral
+It’s my wife’s idea of a joke. I said I’d wear them over my dead body.,1.7988659106070717,0.0145789156758871,2998,1317,967,714,sarcasm,neutral
+Joseph kept the coat and gave me the pants.,1.6984501347708896,0.0141577917328542,2968,1465,933,570,unknown,neutral
+Well if it isn’t Mr. Fancy Pants.,1.7115254237288136,0.0145016953833239,2950,1463,875,612,sarcasm,negative
+"Sorry, I thought it was going to be a zoom meeting.",1.800862688713156,0.0151240484535374,2782,1217,902,663,irony,neutral
+I didn’t think fashion sins counted.,1.7017416545718431,0.0145473798584081,2756,1337,904,515,unknown,negative
+"As for the cause of death. . . 'embarrassment,' I assume?",1.7226921662375874,0.0148098311312102,2719,1292,889,538,self-deprecating,negative
+"Dress for the heaven you want, I always say.",1.6907993966817496,0.0147060227670673,2652,1297,878,477,incongruity-absurdity,positive
+Well.....If you kept us naked this probably wouldn't be an issue.,1.6738310708898945,0.01494781288086,2652,1359,799,494,sarcasm,neutral
+I only knew about the moral code.,1.6835156544700114,0.0150512086899177,2651,1348,794,509,wit-surprise,neutral
+"Look at these pants, haven't I suffered enough?",1.7012987012987013,0.0147788087426856,2618,1256,888,474,self-deprecating,negative
+"Well, you can come in, but those pants can go to hell.",1.7396937573616018,0.0157784443953414,2547,1225,760,562,sarcasm,negative
+You could have let me finish the last three holes!,1.7160286074884308,0.0156955159771363,2377,1129,794,454,sarcasm,neutral
+I didn't think I'd be caught dead in these pants.,1.7873881550916062,0.0163333984083661,2347,1037,772,538,incongruity-absurdity,negative
+Covid. You lose your sense of taste.,1.6444924406047516,0.0164546749451438,2315,1283,572,460,self-deprecating,negative

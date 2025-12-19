@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Dating is such a minefield.,1.7689793866264454,0.0128509113453729,3978,1872,1153,953,sarcasm,negative
+"When you told me your ex wanted every last dime, I had no idea she would take it this far.",1.8252753977968177,0.0140221514626852,3268,1385,1069,814,irony,negative
+"Now I think about it, my keys might actually be in my bag.",1.7859042553191489,0.0140050980073985,3008,1278,1096,634,self-deprecating,neutral
+This is  not what I meant when I said I was looking for change.,1.811171171171171,0.0149089513287945,2775,1167,965,643,self-deprecating,negative
+They're still looking for votes.,1.7925281102647803,0.0157519834863978,2757,1288,753,716,irony,neutral
+Just admit you never bought a ring.,1.8023907358983935,0.0156228834957924,2677,1191,824,662,sarcasm,negative
+I’ll bet they can’t even detect irony.,1.7616640746500778,0.0158579321873432,2572,1211,763,598,irony,negative
+"You know there's a ""find my phone"" app, right?",1.7812,0.0151783654294803,2500,1053,941,506,sarcasm,neutral
+"You see them too, right?",1.7835443037974683,0.0162465547254059,2370,1053,777,540,irony,neutral
+They're searching for the Republican's moral compass. No luck so far.,1.7849553761155972,0.0172730314329437,2353,1133,593,627,sarcasm,negative
+This is not what I expected when you said your friends were into metal.,1.7579729139362168,0.0164192636443441,2289,1050,743,496,irony,negative
+Why don’t you just admit you never bought me a ring.,1.7952930728241565,0.0167640565982457,2252,990,733,529,sarcasm,negative
+Three more dollars and we can order a pizza.,1.8529680365296803,0.0166980147527292,2190,853,806,531,unknown,positive
+"If they find the keys, will you even remember where you parked?",1.7672012415933782,0.0176032288524213,1933,856,671,406,incongruity-absurdity,neutral
+"O.K., you win. I pawned it.",1.7411702688455457,0.0177400156772199,1897,875,638,384,unknown,positive
+I guess I'm not the only one who thinks you're hiding something.,1.7953216374269003,0.0175097983587173,1881,774,718,389,sarcasm,negative
+Just how lucky is that penny?,1.7806176783812566,0.0176298635952977,1878,799,692,387,irony,positive
+Not sure your Dad and his friends quite grasp the whole Bitcoin thing.,1.7460661964188822,0.0185579202597476,1843,878,555,410,sarcasm,neutral
+"Throw some of your loose change out the front door. Otherwise,they will never go away.",1.7702926559911651,0.018355782122959,1811,808,611,392,unknown,negative
+"Honey, the remote is in your hand.",1.7461024498886415,0.0183558308945712,1796,829,594,373,sarcasm,neutral
+"You know the remote is plastic, right?",1.7769662921348317,0.0187263280703466,1780,798,581,401,sarcasm,neutral
+"This new service is a little pricy, but they always find my keys.",1.7331378299120237,0.018343350265531,1705,777,606,322,incongruity-absurdity,negative
+I just wish they were vacuums.,1.7335384615384617,0.0188291429751472,1625,742,574,309,incongruity-absurdity,negative
+Did you consider just looking under the cushions first?,1.731829573934837,0.0183719888976289,1596,701,622,273,sarcasm,neutral
+"You looked under the cushions, right ?",1.713907284768212,0.0189518593833109,1510,687,568,255,incongruity-absurdity,neutral
+"When you said you were going to look for an engagement ring, I thought you meant at a jewelry store.",1.7196710075394106,0.0198283437464213,1459,680,508,271,sarcasm,neutral
+"When the Yogi said to “seek change,” I don’t think this is what he meant.",1.7191166321601103,0.0204176728543271,1449,698,460,291,unknown,negative
+Isn’t it cheaper just to buy a new remote?,1.7194696441032795,0.0201021291965285,1433,672,491,270,sarcasm,neutral
+Just admit that you never actually bought me a ring.,1.7861150070126228,0.0209722243833402,1426,632,467,327,sarcasm,negative
+"If you’d bought me a bigger engagement ring, we could have found it on our own.",1.713126843657817,0.02072768563126,1356,645,455,256,sarcasm,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,We never should have applauded.,1.8421052631578947,0.0455446051209443,285,110,110,65,irony,negative
+1,What's happening on your side?,1.814126394052045,0.0492278388848228,269,117,85,67,sarcasm,neutral
+2,"If we hadn't eaten Ted, he really would have enjoyed this.",1.8038461538461537,0.0506852587406914,260,117,77,66,incongruity-absurdity,neutral
+3,"Well, I like it more than their ""ship on the horizon"" gag.",1.792828685258964,0.0522371380510876,251,117,69,65,sarcasm,positive
+4,OK. We have two wishes left.,1.7911646586345382,0.0497988833576302,249,108,85,56,unknown,neutral
+5,"l knew they were smart, but sarcastic?",1.7544642857142858,0.0550710652123271,224,110,59,55,sarcasm,neutral
+6,Apparently their sense of irony is also highly evolved.,1.7544642857142858,0.0535972804909231,224,106,67,51,irony,neutral
+7,Very nice. Now do a boat.,1.7522522522522523,0.0517466070603497,222,100,77,45,incongruity-absurdity,positive
+8,I wish we'd brought food instead of LSD.,1.7307692307692308,0.0572102991006474,208,106,52,50,sarcasm,negative
+10,"There's smart, and then there's smartass.",1.7246376811594204,0.0559117871731181,207,103,58,46,sarcasm,neutral
+9,They're at it again. It's like they wait for you to go behind the tree.,1.7254901960784317,0.057857746748334,204,105,50,49,sarcasm,negative
+11,Oh sure they're smart. It's the sarcasm I can't stand.,1.703125,0.0557742692950915,192,94,61,37,sarcasm,negative
+12,I knew they were smart. I didn't know they were sarcastic.,1.6984126984126984,0.057581155208485,189,96,54,39,sarcasm,neutral
+13,Remember how you said we were done talking unless one of three things happened?,1.6935483870967742,0.0574403796295625,186,94,55,37,sarcasm,neutral
+14,"That was great guys, now do a rescue boat.",1.691891891891892,0.0561802741469524,185,91,60,34,sarcasm,positive
+15,"They've captured the look, but not the mood.",1.6885245901639343,0.0534763688112585,183,85,70,28,incongruity-absurdity,neutral
+16,"Yes, it's art. But is it relevant?",1.6833333333333331,0.0581501513266921,180,92,53,35,irony,neutral
+19,"Almost there, but they haven't quite captured the melancholy.",1.6686046511627908,0.0589213716755573,172,89,51,32,wit-surprise,negative
+20,It wasn't funny yesterday and it's not funny today.,1.6686046511627908,0.0600643567528852,172,91,47,34,self-deprecating,negative
+21,"Okay, that's pretty good. Now try ""boat.""",1.6666666666666667,0.0574662821227487,171,86,56,29,incongruity-absurdity,positive
+22,"Martin... very slowly, pass me your iPhone.",1.6647058823529413,0.0607094141982762,170,91,45,34,sarcasm,neutral
+23,"I'm gonna do a split, just to mess with them.",1.6647058823529413,0.0583710407239818,170,87,53,30,sarcasm,neutral
+24,Let's have sex and see what they do.,1.6607142857142858,0.0607846922319055,168,90,45,33,sarcasm,neutral
+25,"I'd always heard they were smart, but I never knew they were smart asses.",1.6607142857142858,0.0583920783326697,168,86,53,29,sarcasm,negative
+26,The one playing you is creeping me out,1.6607142857142858,0.0571582261196864,168,84,57,27,sarcasm,negative
+28,"Impressive. Now, make a boat.",1.658682634730539,0.0574651866768752,167,84,56,27,incongruity-absurdity,positive
+29,"On the twenty-third day, Orson realized that the dolphins were not, in fact, trying to help.",1.6545454545454543,0.0587216273924484,165,85,52,28,irony,negative
+32,"The heartless bastards probably did this to Amelia Earhart, too.",1.6524390243902438,0.0656432120479992,164,96,29,39,irony,negative
+30,"Irony and sarcasm, sure signs of advanced intelligence.",1.6524390243902438,0.0627291622177629,164,91,39,34,sarcasm,neutral
+31,It turns out the universal language isn't music. It's sarcasm.,1.6524390243902438,0.0609138547071247,164,88,45,31,sarcasm,negative

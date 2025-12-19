@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"I love space, but I miss seasons.",1.596505376344086,0.0128582595057215,3720,2197,827,696,irony,neutral
+"Don't worry, your wife was explicit.  The dog stays.",1.587092297015961,0.0146935895409475,2882,1737,598,547,irony,neutral
+Of course when Spielberg hired us we thought we'd be in a movie.,1.638721804511278,0.0151051984976597,2660,1461,699,500,sarcasm,neutral
+"One mile over the speed of light, 200 hours of community service.",1.6033346258239627,0.0151559247382579,2579,1478,646,455,irony,neutral
+"Hey, it's no different from you guys going to the moon to collect rocks.",1.672289156626506,0.0159089792577279,2490,1326,654,510,sarcasm,neutral
+And then AI took all our jobs.,1.6485084306095978,0.0165189043288694,2313,1279,568,466,exaggeration,negative
+We compost in peace.,1.6657657657657658,0.0165665821371619,2220,1171,620,429,incongruity-absurdity,positive
+"It’s ok, nobody is going to believe you.",1.6307908282639214,0.0165858990596672,2137,1168,590,379,sarcasm,neutral
+Fact is Americans won’t take these jobs.,1.639529411764706,0.0167867361893004,2125,1157,577,391,irony,negative
+Who says it doesn't grow on trees?,1.5654450261780104,0.0182422131021347,2101,1389,236,476,exaggeration,neutral
+"We figured these must be valuable, since so many earthlings collect them.",1.5962554008641383,0.0161950133811435,2083,1159,606,318,irony,positive
+"We're aliens, we're illegal, and we do yard work. So why do you look surprised?",1.6429277942631058,0.0178647665133814,2022,1142,460,420,sarcasm,negative
+We are just cleaning up this planet before we list it.,1.6523835029459024,0.0179252024754115,1867,997,522,348,exaggeration,neutral
+We try to leave every planet a little nicer than how we found it.,1.6596916299559472,0.0175543288192861,1816,922,590,304,incongruity-absurdity,neutral
+What more do we have to do to prove we come in peace?,1.623878923766816,0.0178070215759514,1784,966,523,295,irony,neutral
+"If you keep your mouth shut, we'll do your yard, too.",1.5753424657534247,0.0176165494923551,1752,1006,484,262,sarcasm,negative
+I was a surgeon back home.,1.5662368112543965,0.018176632742878,1706,1011,424,271,wit-surprise,neutral
+"They were already dead when we got here, I swear.",1.636200716845878,0.0190228095458993,1674,922,439,313,exaggeration,negative
+We're in the middle of our semester abroad.,1.6191913095956547,0.0183375422087042,1657,897,494,266,irony,neutral
+"You haven't seen a set of keys, have you?",1.6840193704600483,0.0195558048280663,1652,865,444,343,sarcasm,neutral
+"No, this is not what we envisioned when we said we were coming for the fall of man.",1.6132017273288093,0.0190048522619879,1621,909,430,282,exaggeration,negative
+We like to tidy the place before we take it over,1.579987646695491,0.0181021452980176,1619,912,475,232,unknown,neutral
+We need them to line your cages.,1.6398224476854788,0.0195861006611588,1577,863,419,295,incongruity-absurdity,negative
+Adopt-a- Planet. We got Earth.,1.6998722860791826,0.019863085299453,1566,789,458,319,incongruity-absurdity,neutral
+Not as surprising as watching you pick up his poo.,1.7077713551701992,0.0206594483070707,1557,811,390,356,sarcasm,negative
+We collect decaying life forms. Come with me.,1.5484710474951204,0.0198757819172651,1537,970,291,276,wit-surprise,negative
+"Not illegal, just aliens.",1.5975130890052356,0.0193483055737339,1528,868,407,253,irony,neutral
+We do some extra terrestrial work on the side.,1.6560163154316792,0.0197790700742628,1471,763,451,257,incongruity-absurdity,neutral
+Just cleaning up the place before we move in.,1.5410526315789477,0.0190687027696351,1425,846,387,192,incongruity-absurdity,neutral
+"This is a pretty easy work trip.  Last time, they made us stack huge stones into pyramids.",1.5423487544483985,0.0207670219314618,1405,894,260,251,incongruity-absurdity,positive

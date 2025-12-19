@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2,It’s off the rack.  The guy on the rack doesn’t need it anymore.,2.0228799709460685,0.0078066103772726,11014,3573,3616,3825,incongruity-absurdity,neutral
+5,"May I say, sir: quite riveting.",1.9711301044634375,0.0076386802484575,10530,3391,4052,3087,sarcasm,positive
+0,She’ll appreciate you’re wearing protection.,2.045754131244627,0.0075923087555002,10469,2930,4130,3409,sarcasm,positive
+9,LIMERICK: When buying a nice suit of steel...No matter how good it may feel...You do have to watch...If it's tight in the crotch...Cause it'll make you scream when you kneel.,1.925601750547046,0.008325851028651,10054,3905,2992,3157,unknown,negative
+3,It does make you look slightly middle-aged.,1.988291368770076,0.0082310217028708,9651,3212,3340,3099,sarcasm,neutral
+6,"If you like it, I'd suggest going ahead before the steel tariffs hit.",1.9657909446618225,0.008464070929405,8945,3024,3203,2718,irony,neutral
+8,Perfect for a knight on the town.,1.929628786153496,0.0085022655960391,8782,3118,3164,2500,unknown,positive
+15,"May I inquire what the bride is wearing, sir?",1.8819460456536776,0.00834993379547,8674,3195,3308,2171,sarcasm,neutral
+11,"It says ""old money, really old money.""",1.9151278409090908,0.0084041421067775,8448,2909,3347,2192,irony,neutral
+16,"Dressed to kill, eh?",1.8756892831455287,0.0085630779054291,8342,3134,3111,2097,unknown,negative
+14,"Congratulations on becoming the new White House Press Secretary, by the way.",1.9006894883270835,0.0089153185651883,8267,3167,2754,2346,sarcasm,positive
+12,Oh a 'suit of Armani?' Our mistake sir.,1.9101654846335696,0.0092668210562973,7191,2572,2693,1926,sarcasm,negative
+4,"Yes, of course you’ll have the only key, Mrs. Trump.",1.9734539522467744,0.0102284847870719,6743,2470,1982,2291,sarcasm,neutral
+23,It works for a casual joust or that formal crusade.,1.78514631043257,0.0093752466406366,6288,2558,2523,1207,incongruity-absurdity,neutral
+10,Will you be billing this to the E.P.A. as well sir?,1.922232824427481,0.0106012916918778,6288,2485,1807,1996,sarcasm,neutral
+26,It comes with an assortment of refrigerator magnets too.,1.7527266807748656,0.0100004786860878,6143,2834,1994,1315,unknown,neutral
+30,"A bit snug in the codpiece, but we can hammer that out.",1.7159231176159409,0.0097860701560172,5671,2574,2134,963,incongruity-absurdity,neutral
+24,"A word of caution, Sir:  always lift the visor before you fart.",1.7830791060659807,0.0110088003992352,5638,2670,1521,1447,sarcasm,neutral
+32,....and we'll throw in 2 years of WD-40,1.7059571376679985,0.0097593852091578,5506,2491,2143,872,exaggeration,neutral
+7,Can I interest you in some Under Armour to go with that?,1.9483859201167244,0.0106017231639421,5483,1838,2090,1555,sarcasm,neutral
+20,"If I may ask, sir, Renaissance fair or confirmation hearing?",1.8091676256233216,0.0106434900254519,5214,2132,1945,1137,sarcasm,neutral
+13,It also comes in stainless.,1.9043227665706053,0.0106119701769693,5205,1798,2107,1300,irony,neutral
+36,"Sir, the power suit never goes out of style.",1.6857084357084358,0.0102846560809969,4884,2270,1879,735,sarcasm,positive
+17,All you need is a little altercation.,1.87286886971164,0.0114472711085627,4751,1819,1717,1215,sarcasm,neutral
+37,Are you sure that that 'knight in shining armor' wasn't just a metaphor she was using?,1.6829006650933276,0.0106753911266912,4661,2211,1717,733,sarcasm,neutral
+28,"Of course, it may slow you down a bit at airport security.",1.726062687848862,0.0104447092490927,4658,1996,1942,720,sarcasm,neutral
+18,"Of course, it's no iron",1.8139028110699495,0.0115260677256986,4589,1905,1633,1051,irony,neutral
+35,You should have thought of that before you tried it on.,1.6885639458751638,0.0113175873251857,4582,2280,1449,853,sarcasm,neutral
+1,Our welder comes in on Wednesdays if you’re interested in complimentary alterations.,2.0356257046223223,0.0100958854385168,4435,926,2425,1084,incongruity-absurdity,neutral
+19,"As a matter of fact, there is a silver lining.",1.8101937269372692,0.0114558377059743,4336,1723,1713,900,incongruity-absurdity,positive

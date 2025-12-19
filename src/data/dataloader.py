@@ -1,16 +1,36 @@
 import pandas as pd
 import numpy as np
-import os, sys
-import matplotlib.pyplot as plt
+import os, spacy, requests
 from datetime import timedelta
 from bs4 import BeautifulSoup
-import requests
 from io import StringIO
 
+nlp = spacy.load("en_core_web_sm", disable=["parser","ner"])
 
-
-
+# =========================
+# CSV Generator
+# =========================
+def save_to_csv(df, path): 
+    '''
+    Save DataFrame to CSV file.
+    Args:
+        df (pd.DataFrame): DataFrame to save.
+        path (str): Path to save the CSV file.
+    '''
+    
+    df.to_csv(path, index=False)
+    
+    
+# =========================
+# Data loaders
+# =========================
 def get_image_data(): 
+    '''
+    Scrape dataset from New Yorker caption contest website, and load and clean image metadata.
+    Returns:
+        pd.DataFrame: Cleaned DataFrame with image metadata.
+    '''
+    
     data_folder = './data/newyorker_caption_contest/'
     df = pd.read_json(data_folder + 'contests.json')
     metadata = df['metadata'].apply(pd.Series)
@@ -30,16 +50,8 @@ def get_image_data():
     df_scrape.drop(columns=['Cartoon'], inplace=True)
     df_scrape = df_scrape.iloc[::-1].reset_index(drop=True)
 
-    #check if all expected contest IDs are present
-    expected_ids = list(range(510, 896))
-    missing_ids_df = pd.Series(expected_ids)[~pd.Series(expected_ids).isin(df['contest_id'])]
-    missing_ids_scrape = pd.Series(expected_ids)[~pd.Series(expected_ids).isin(df_scrape['Contest Dashboard'].astype(int))]
-
-    #print('Missing data from df: ',missing_ids_df.tolist())
-    #print('Missing data from df_scrape: ',missing_ids_scrape.tolist())
-
     df_scrape['date'] = pd.to_datetime(df_scrape['date'], errors='coerce')
-
+    
     # Assume contest happens each week and fill missing dates
     for i in range(1, len(df_scrape)):
         if pd.isna(df_scrape.loc[i, 'date']):
@@ -61,21 +73,27 @@ def get_image_data():
 
 
 def get_caption_dataset(df_image):
+    '''
+    Load and clean New Yorker caption contest captions.
+    Args:
+        df_image (pd.DataFrame): DataFrame with image metadata and website data.
+    Returns:
+        pd.DataFrame: Cleaned DataFrame with captions and associated metadata.
+    '''
     
     path = "./data/newyorker_caption_contest/data/"
-    dirs = os.listdir(path)
-    files = [os.path.join(path,i) for i in os.listdir(path) if os.path.isfile(os.path.join(path,i))]
+    files = [os.path.join(path,i) for i in os.listdir(path) if os.path.isfile(os.path.join(path,i)) and i.endswith('.csv')]
 
     df = pd.DataFrame()
 
     data_frames = []
     for file in files:
         
-        data = pd.read_csv(file, sep=',')
+        data = pd.read_csv(file, sep=',', encoding='latin-1')
         file_number_csv =  os.path.split(file)[-1]
         file_number = int(file_number_csv.replace('.csv', ''))
         data['contest_id'] = file_number #add a column with the contest id 
-        # starting from 660 the rank is nolonger shown, but comparing it with https://nextml.github.io/caption-contest-data/dashboards/883.html
+        # starting from 660 the rank is no longer shown, but by comparing it with https://nextml.github.io/caption-contest-data/dashboards/883.html
         # we can assume that the order is the rank 
         if file_number >= 660: 
             data.insert(0, 'rank', np.arange(0, len(data)))
@@ -95,3 +113,26 @@ def get_caption_dataset(df_image):
     
     return merged_df
 
+def get_gender_masks_chunked(captions, female_kw, male_kw, chunk_size=5000):
+    '''
+    Get boolean masks for captions containing female and male keywords using chunked processing.
+    Args:
+        captions (List[str]): List of captions.
+        female_kw (Set[str]): Set of female keywords.
+        male_kw (Set[str]): Set of male keywords.
+        chunk_size (int): Size of each chunk for processing.
+    Returns:
+        Tuple[List[bool], List[bool]]: Two lists of boolean values indicating presence of female and male keywords.
+    '''
+    female_results = []
+    male_results = []
+    
+    for i in range(0, len(captions), chunk_size):
+        chunk = captions[i:i+chunk_size]
+        
+        for doc in nlp.pipe(chunk, batch_size=200):
+            lemmas = {token.lemma_.lower() for token in doc if token.is_alpha}
+            female_results.append(bool(lemmas & female_kw))
+            male_results.append(bool(lemmas & male_kw))
+    
+    return female_results, male_results

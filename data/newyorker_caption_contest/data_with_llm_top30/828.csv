@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"If they're looking for intelligent life, why would they come to a golf course?",1.8004738088970782,0.0133636405680419,3799,1743,1071,985,wit-surprise,negative
+"Ok, just figured out why those foursomes in front of us disappeared.",1.7554683118339878,0.0130130235336951,3566,1619,1200,747,sarcasm,neutral
+A close encounter of the back nine.,1.6524216524216524,0.013013890986907,3510,1865,1000,645,incongruity-absurdity,neutral
+They're looking for the miniature golf course.,1.6955762514551804,0.0131133110929254,3436,1697,1088,651,incongruity-absurdity,neutral
+"Okay, Mr. I-Know-All-the-Rules, here's one for you.",1.683284457478006,0.012964797070263,3410,1688,1114,608,irony,neutral
+"All they said was, ""Take us to your Masters.""",1.7356774780236437,0.0136173138292309,3299,1560,1051,688,incongruity-absurdity,neutral
+Their research shows this is the best place to find the US president.,1.6793611793611791,0.0134359542077868,3256,1646,1008,602,irony,positive
+"They want our leader.
+You’re up by two strokes.",1.712923076923077,0.0135864783322243,3250,1575,1033,642,wit-surprise,neutral
+They come in peace and suggest you relax your grip.,1.7317376437674852,0.0132978497132068,3217,1462,1156,599,sarcasm,neutral
+My advice is to just let them play through.,1.6674528301886793,0.013406610711815,2968,1449,1057,462,sarcasm,neutral
+Define 'man-made obstacle'.,1.6815680880330124,0.0138822041497739,2908,1425,984,499,irony,neutral
+They asked to play through and I'm inclined to let them.,1.6722571628232006,0.013787692576734,2862,1401,998,463,irony,positive
+They’re saying that there’s no sign of intelligent life here.,1.6732923744127213,0.0147390867339839,2767,1431,809,527,wit-surprise,negative
+This is still more believable than your hole-in-one story.,1.8286245353159851,0.0151853899819976,2690,1104,943,643,sarcasm,neutral
+The saucer is looking for the cup,1.651031894934334,0.014915525281305,2665,1417,761,487,unknown,neutral
+"It's ok, they're members",1.7078482914006758,0.014704146324026,2663,1269,903,491,sarcasm,positive
+And you thought the bridge with the little windmill was tough.,1.6877165960723912,0.0145013921016948,2597,1241,926,430,wit-surprise,neutral
+They want to know if we lost a ball on the Moon in 1971?,1.847731755424063,0.0161585842234804,2535,1061,799,675,irony,neutral
+He claims I broke his windshield.,1.7430939226519335,0.0154076551507544,2534,1171,843,520,irony,negative
+And yet they don’t allow carts.,1.7151539708265802,0.0149826247984495,2468,1135,901,432,irony,negative
+I knew once we started using AstroTurf this would happen.,1.7256745707277188,0.015522205453995,2446,1148,821,477,unknown,neutral
+I hate playing in New Mexico,1.749271137026239,0.0159014672655835,2401,1105,793,503,sarcasm,negative
+Everyone's landing on the green but you.,1.76,0.0159989358046302,2375,1075,795,505,irony,neutral
+They brought my ball back.,1.7059821807382265,0.0155064774448291,2357,1116,818,423,incongruity-absurdity,neutral
+He says this is the stupidest waste of time in the entire universe.,1.806021505376344,0.017291236499537,2325,1077,622,626,sarcasm,negative
+I’m not sure they’re at the right black hole,1.6375054135989606,0.0155317974106636,2309,1213,720,376,wit-surprise,negative
+They want our leader. They figured he’d be here.,1.661693725318122,0.0156169520764586,2279,1149,752,378,sarcasm,neutral
+What’s the ruling on foreign objects?,1.66895919303072,0.0152172199911898,2181,1031,841,309,wit-surprise,neutral
+Looks like your Eagle has landed.,1.680792261630585,0.0161173449360894,2171,1069,726,376,irony,positive
+Everyone thinks we're at the office. Let's just keep this to ourselves.,1.7169722614010343,0.0167296103734417,2127,1019,691,417,sarcasm,neutral

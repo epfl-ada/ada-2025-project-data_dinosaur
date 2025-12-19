@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You seem really nice - most of the guys I date are clowns.,1.901625677365569,0.0119077938307877,4798,1891,1488,1419,sarcasm,positive
+I think I got the waiter’s attention.,1.776655776655777,0.0137799320072997,3367,1536,1047,784,sarcasm,positive
+"Now, pull the tablecloth!",1.8191755153029356,0.0143692924653408,3202,1400,981,821,incongruity-absurdity,neutral
+My biggest fan was my late husband.,1.8542274052478136,0.0146277886968027,3087,1277,983,827,self-deprecating,positive
+Okay on three yank on the table cloth.,1.7631048387096775,0.0143847219582671,2976,1352,977,647,unknown,neutral
+I like to think I bring a lot to the table.,1.7912827781715095,0.0147503428490501,2822,1222,967,633,self-deprecating,positive
+It was at that moment Jane thought maybe she was trying too hard.,1.762540599061711,0.0147756531840009,2771,1245,939,587,self-deprecating,neutral
+"Of course, I'm vaccinated.  Do you think I'm crazy?",1.7863247863247864,0.015531240250125,2691,1222,822,647,self-deprecating,positive
+I think it’s working: the waiter’s coming over.,1.786661614247821,0.0153245327962469,2639,1159,884,596,sarcasm,positive
+This is far easier for me than listening to you talk about cryptocurrency.,1.7589082638362397,0.0152823288049387,2638,1207,860,571,sarcasm,positive
+"I didn’t say I was juggling careers, I said I had a juggling career.",1.764294049008168,0.0153809946602416,2571,1156,865,550,wit-surprise,neutral
+"So, like my profile said, I bring a lot to the table.",1.823690383111806,0.0154805353136364,2558,1049,911,598,self-deprecating,positive
+Am I more interesting than your phone yet?,1.778498985801217,0.015783355028728,2465,1090,831,544,self-deprecating,neutral
+I'm a great catch.,1.7521865889212829,0.0171130238283455,2401,1215,566,620,self-deprecating,positive
+"Wow, then you picked the kids up from school AND emptied the dishwasher?",1.760096153846154,0.0176117334673802,2080,980,619,481,sarcasm,neutral
+Go ahead. I'm listening.,1.7742718446601942,0.0166087865755248,2060,870,785,405,sarcasm,neutral
+"So, have you ever dated a single mom before?",1.7849093581577655,0.017316924663883,2041,891,698,452,sarcasm,neutral
+Am I vaccinated? No. That sounds too risky to me.,1.7411526794742165,0.01810246733994,1978,963,564,451,self-deprecating,negative
+"What did YOU think I meant when I said, 'I'm juggling a lot right now?'",1.7415103902686264,0.0172382790356336,1973,899,685,389,self-deprecating,neutral
+Kids? I love kids. Hand me one.,1.885015608740895,0.0186889625264693,1922,768,607,547,sarcasm,positive
+"Now, when I count to three, toss me that glass.",1.7489539748953975,0.0173311572615974,1912,849,694,369,unknown,neutral
+You won't believe what I do on a second date.,1.799472295514512,0.0179451317599898,1895,806,663,426,unknown,neutral
+"OK, on the count of three, pull the table cloth out as fast as you can.",1.740232312565998,0.0180660702410937,1894,895,596,403,unknown,neutral
+"I'm just not sure if I can juggle a relationship, too",1.7386424371993587,0.0175790154818296,1871,849,662,360,sarcasm,negative
+"Well, look at that, you finally put your phone down.""",1.7859818084537185,0.0186195879321471,1869,848,573,448,sarcasm,positive
+My last boyfriend died in a tragic dining accident.,1.7380568974771873,0.0185384384921894,1863,904,543,416,incongruity-absurdity,negative
+I will feel safer if you wear a mask,1.7600452744765138,0.0189133692105308,1767,821,549,397,sarcasm,neutral
+I go on a lot of first dates.,1.751841359773371,0.0182000355173281,1765,789,625,351,self-deprecating,neutral
+I never know what to do with my hands when I am talking.,1.7432273262661957,0.0182720976064708,1698,755,624,319,self-deprecating,negative
+"So, you're the guy who likes long walks on the beach.",1.7312986235786954,0.0204616472685674,1671,869,382,420,sarcasm,neutral

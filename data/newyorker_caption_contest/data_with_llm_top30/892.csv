@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"And the comet missed the earth, and all the dinosaurs lived happily ever after.",1.770941652224148,0.0136525796036973,3462,1604,1047,811,incongruity-absurdity,positive
+"Helen? Did you feed Cuddles, yet.? . . . Helen?",1.6543250327653998,0.013881478424651,3052,1607,893,552,sarcasm,neutral
+"Yes, it's called Thesaurus, but you're not related.",1.7895081967213116,0.0148721646326339,3050,1417,858,775,wit-surprise,neutral
+We can stop here if it’s getting too scary.,1.6222375690607735,0.0135033502689665,2896,1518,954,424,sarcasm,negative
+Go back to sleep. There's no little boy hiding under your bed.,1.696434752509519,0.0144858034869673,2889,1447,872,570,incongruity-absurdity,negative
+"Sorry girl, we're not allowed back at the dog park.",1.632019532612487,0.0138614592329635,2867,1511,900,456,sarcasm,negative
+You don't scare me.  It's a presidential election year.,1.6570218772053635,0.0148252844966404,2834,1535,736,563,sarcasm,neutral
+Knights only slay dragons who don’t eat their vegetables.,1.646186440677966,0.0141597657798703,2832,1482,870,480,incongruity-absurdity,negative
+"Karl, relax. The delivery guy will be here shortly. Then we’ll both eat.",1.6406695156695157,0.0144176647262573,2808,1505,807,496,sarcasm,neutral
+"Ok, one more then back under the bed.",1.6828550404709346,0.0147314628636416,2718,1369,842,507,self-deprecating,neutral
+You wouldn't like it. It's about evolution.,1.659006671608599,0.0145492048117646,2698,1387,844,467,sarcasm,negative
+"Ok, ok, go get your leash!",1.669393826701376,0.0141982010379266,2689,1320,938,431,unknown,neutral
+"Frankly yes, I preferred it when we had an elephant in the room.",1.692279000372995,0.0150947457628493,2681,1358,790,533,incongruity-absurdity,neutral
+"Nope, still not as scary as Trump.",1.612168719671519,0.0150084158080704,2679,1529,660,490,sarcasm,negative
+What now? A little boy is hiding under your bed?,1.6631736526946108,0.0145497793495329,2672,1357,858,457,incongruity-absurdity,negative
+"Honey, do you remember when Ryan’s iguana got loose last summer?",1.6950757575757576,0.0151616578605512,2640,1326,793,521,unknown,neutral
+"Well, that the end of this chapter. I think it’s time to tuck you under Tommy’s bed.",1.5985345160046278,0.0145715098933397,2593,1443,748,402,unknown,neutral
+"No, I'm not reading the asteroid part again. You know it gives you nightmares.",1.7033603707995364,0.0150625830778473,2589,1258,841,490,sarcasm,negative
+You need to go out again?,1.6062839410395655,0.0143779314591383,2578,1394,805,379,sarcasm,neutral
+"When I said, 'you could devour this in one sitting,"" I was talking about the book. Okay?",1.5983670295489891,0.0138590890198744,2572,1359,887,326,incongruity-absurdity,positive
+It's called evolution and you're not going to like the ending.,1.7157894736842103,0.015469402078253,2565,1255,784,526,exaggeration,negative
+"And at just that moment, the dragon realized it was a vegetarian. The End.",1.604468835750686,0.0145646453090663,2551,1394,772,385,incongruity-absurdity,negative
+"Keep quiet, my landlord thinks you're extinct.",1.649402390438247,0.0147895353594978,2510,1283,824,403,wit-surprise,negative
+"I already checked, and there aren't any children under your bed.",1.670921420023933,0.0150632075442701,2507,1261,810,436,sarcasm,neutral
+"For crying out loud, Timmy, there is nothing under your bed!",1.5978260869565215,0.0148341372031868,2484,1379,725,380,incongruity-absurdity,negative
+"But it has a happy ending.  After the meteor hit, all of your ancestors became beautiful birds.",1.6064223960477564,0.014486937327152,2429,1285,815,329,exaggeration,positive
+You're supposed to be under the bed....and where's Tommy?,1.6045738045738045,0.0150809880628649,2405,1321,714,370,incongruity-absurdity,neutral
+Shouldn’t you be under my kid’s bed?,1.5951686797167848,0.0148135243403234,2401,1315,743,343,sarcasm,neutral
+Um... what makes you ask if you were adopted?,1.6684714702207413,0.0152953663470644,2401,1204,789,408,sarcasm,neutral
+"Now, now…it’s just an eclipse. Mass extinctions are very rare.",1.7477820025348545,0.0162916520633642,2367,1117,730,520,exaggeration,neutral

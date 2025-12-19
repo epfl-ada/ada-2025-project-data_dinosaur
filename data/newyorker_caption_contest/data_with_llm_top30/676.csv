@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"You know we could've had eggs for life, right?",2.0026242667489966,0.0067041557198784,12956,3755,5412,3789,incongruity-absurdity,neutral
+"Like I said yesterday, it's almost done.",1.9816692351366696,0.006800847146075,12329,3630,5295,3404,irony,neutral
+Cook time is 15 minutes per pound - Go ahead and plant the potatoes!,1.9170958631001829,0.0073101395577904,12038,4412,4212,3414,unknown,neutral
+I don't tell you how to gather.,1.9255274789425405,0.0072689112241635,11991,4278,4328,3385,wit-surprise,neutral
+A simple 'Thank you for inventing fire' would be nice.,1.9156407144095715,0.0073830428628039,11534,4153,4201,3180,sarcasm,positive
+It's the last time I let your father shop at Costco.,1.867082225685214,0.0078737710237408,10909,4510,3339,3060,sarcasm,negative
+It took one million years to discover fire. You can wait another five minutes.,1.8800888230940045,0.0074579189082732,10808,3974,4156,2678,unknown,neutral
+"I’d invite the neighbors for dinner, but our dinner ate the neighbors.",1.8779478294349792,0.0078505194805947,10389,4037,3583,2769,incongruity-absurdity,neutral
+Of course it's rare - it's almost extinct.,1.8917363448800089,0.0083251336141036,9209,3491,3224,2494,irony,neutral
+"Quit your complaining, when I was a kid we didnt even have fire.",1.8323758026360255,0.0082866684266745,8877,3574,3217,2086,sarcasm,negative
+It’s not a grill problem; it’s a chicken problem.,1.9349278930707,0.0093236290807414,8529,3457,2170,2902,incongruity-absurdity,negative
+Well... it's pterodactyl. Tastes like chicken.,1.836834566722368,0.0084876423675448,8378,3323,3099,1956,incongruity-absurdity,neutral
+"Eat it raw?  What are we, neanderthals?",1.831795511221945,0.0087270242871717,8020,3237,2895,1888,incongruity-absurdity,negative
+Rare? It is nearly extinct.,1.7592809691285658,0.0087746211441371,7677,3415,2695,1567,incongruity-absurdity,negative
+Of course it's paleo.,1.867070707070707,0.009335233676058,7425,2961,2490,1974,irony,neutral
+Wait till you see the egg we’re having in the morning.,1.7468551236749117,0.0088969371442487,7075,3103,2660,1312,incongruity-absurdity,neutral
+You're damn right it's free range!,1.746292526897354,0.0093400408073879,6878,3157,2309,1412,irony,positive
+You should see the breasts,1.7792427952533434,0.0110217084679212,5309,2427,1627,1255,unknown,neutral
+I'm more curious about where you found the spatula and grill.,1.8512297540491904,0.0110972054088822,5001,1967,1811,1223,sarcasm,neutral
+I’m calling it the George Beforeman Grill.,1.736341059602649,0.0114157554092249,4832,2326,1454,1052,incongruity-absurdity,neutral
+"No, Timmy, dinner is not ready yet; why don't you go draw on the wall or something?",1.7265706533082863,0.0106804122521928,4791,2143,1815,833,sarcasm,negative
+"Trader Joe's was closed, so I went to Costco.",1.6662476429918291,0.0109466766115499,4773,2427,1512,834,irony,neutral
+"Of course it's not done, I only discovered fire an hour ago.",1.639151438773367,0.0106409651326103,4761,2452,1575,734,incongruity-absurdity,negative
+"If you hear a heavy hopping sound, get back into the cave.",1.7328405491024288,0.0111865370645495,4735,2204,1592,939,unknown,neutral
+Do I tell you how to gather?,1.7131522000480883,0.0116790626784875,4159,1947,1458,754,wit-surprise,neutral
+Wait til you see the breast.,1.6293790770717564,0.0114246058081665,4139,2169,1335,635,incongruity-absurdity,neutral
+Why don’t you do some drawings on the walls? This’s going to take awhile!,1.6199345582683111,0.0113197683431214,3973,2053,1377,543,incongruity-absurdity,negative
+"A Pinot Noir, I think, from the back of the cave.",1.667881311816762,0.0119183803060766,3842,1898,1322,622,wit-surprise,neutral
+"Mark my words, son. The Weber clan will be revered for generations.",1.727561556791104,0.0125174632267784,3777,1772,1262,743,incongruity-absurdity,positive
+Everyone OK with dark meat?,1.6901960784313723,0.012222294082417,3570,1676,1324,570,irony,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3,You should have seen my parents when I told them I didn't want to be a hunter OR a gatherer.,1.785375118708452,0.0139755073518489,3159,1386,1065,708,incongruity-absurdity,negative
+9,How do you know it doesn't look like you?,1.7542949756888169,0.0139661152003763,3085,1400,1043,642,wit-surprise,negative
+2,"Well, if you want a record of your existence, it’s either this or the tar pits.",1.787037037037037,0.0144880773447437,3024,1350,968,706,unknown,negative
+7,The drawing is the easy part. It's coming up with a caption that's tough.,1.757068062827225,0.0146577532017863,2865,1314,933,618,incongruity-absurdity,neutral
+4,"I'm calling it ""The Elephant in the Room""",1.7851093860268172,0.0148651640867859,2834,1257,929,648,wit-surprise,neutral
+12,Don't worry - no one will see this in a million years.,1.7342228633249188,0.0146383244631589,2773,1290,930,553,self-deprecating,negative
+1,I know what you're thinking -- don't quit hunting and gathering.,1.7951375049820646,0.0156475028758063,2509,1080,863,566,wit-surprise,neutral
+5,It's SUPPOSED to be primitive!,1.7663273960983883,0.0157817445334301,2358,1032,845,481,irony,negative
+23,Primitive? Compared to what?,1.657065706570657,0.0159956187333352,2222,1143,698,381,wit-surprise,neutral
+0,Trust me. One day your portrait will be used as the symbol of a political party even more primitive than we are.,1.820525059665871,0.018045229857757,2095,936,599,560,wit-surprise,negative
+35,Well of course it looks primitive!,1.6083743842364533,0.0163692259569403,2030,1105,615,310,irony,negative
+17,I AM making your nose look smaller.,1.6956521739130437,0.0168961972423849,1932,916,688,328,sarcasm,neutral
+28,I think I'll call it 'The elephant in the room',1.637223974763407,0.0172803337912452,1902,1010,572,320,wit-surprise,neutral
+25,"OK, I'm done, you can put your clothes back on.",1.6458333333333333,0.0184989891178675,1728,925,490,313,sarcasm,neutral
+18,Fire is easy. Art is hard.,1.6866952789699572,0.0184084753827857,1631,786,570,275,wit-surprise,neutral
+32,Would it kill you to smile?,1.618955512572534,0.0187791379266575,1551,832,478,241,sarcasm,neutral
+8,It will be worth more when you're extinct.,1.7553260167850226,0.0198233095767316,1549,707,514,328,incongruity-absurdity,neutral
+11,"As best as I can remember, this is what she looks like. Do you want me to arrange a date or not?",1.73921698739217,0.0195397160291575,1507,681,538,288,unknown,neutral
+14,"Laugh now, but in a few thousand years people will go nuts for this stuff.",1.720852764823451,0.0192236311342755,1501,684,552,265,exaggeration,negative
+16,"What do you mean ""what is it""?",1.703729281767956,0.0201639553656402,1448,704,469,275,sarcasm,neutral
+15,"Excuse me, you ARE the elephant in the room.",1.706085753803596,0.0202650393255547,1446,704,463,279,sarcasm,neutral
+21,"You're so vain, you probably think this wall is about you.",1.6683029453015428,0.0205016596844138,1426,742,415,269,sarcasm,negative
+10,"One day you’ll be the symbol of a major political party. So, turn your head, lose all of your perspective, and don’t move one step forward.",1.7420941672522838,0.0214422619114086,1423,696,398,329,sarcasm,negative
+6,"Don't worry, it's just a cave painting. No one will ever see it.",1.763326226012793,0.0199099553238388,1407,598,544,265,irony,negative
+13,Your nose IS big.,1.731407942238267,0.0209845586320799,1385,658,441,286,sarcasm,neutral
+40,Stop being so hard on yourself. You're just big-boned.,1.5843591600289646,0.0189091385168542,1381,747,461,173,self-deprecating,negative
+27,What did you think you looked like?,1.6386806596701649,0.0196962015946299,1334,673,470,191,sarcasm,neutral
+38,"What do you mean ""what is it""?",1.5889894419306183,0.0200315532118681,1326,737,397,192,sarcasm,neutral
+34,Which one of us has an art degree from Pre-Columbia?,1.614307931570762,0.0206797123726337,1286,697,388,201,sarcasm,neutral
+29,Oh don't be such a prima-mastadonna,1.6358565737051791,0.0212190429441272,1255,666,380,209,sarcasm,negative

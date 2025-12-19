@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Nothing has sold yet, but we’ve gotten a few nibbles.",1.782471199457872,0.0119616570128632,4427,1988,1414,1025,incongruity-absurdity,neutral
+They’re not looking for a way out. They’re looking for meaning.,1.7268188302425107,0.0117627682533013,4206,1955,1445,806,wit-surprise,neutral
+They’ve learned to feign interest until the cheese platters come out.,1.7515513126491646,0.0123622276949058,4190,1991,1249,950,sarcasm,neutral
+The really smart ones come on weekdays to avoid the crowds.,1.712048497095226,0.012072361603015,3959,1876,1347,736,incongruity-absurdity,neutral
+And now they will only eat brie or camembert.,1.6840215439856374,0.012473600372939,3899,1993,1145,761,incongruity-absurdity,negative
+And then we trap them in the gift shop.,1.7343423799582462,0.0127261478995429,3832,1833,1184,815,irony,neutral
+"And to think, all we did was change their diet from Velveeta to Brie.",1.79013698630137,0.0136710053054767,3650,1708,1000,942,wit-surprise,neutral
+The audience is still predominantly white.,1.7187413745514766,0.0133547701919172,3623,1823,996,804,irony,neutral
+It’s remarkable when you consider three of them are blind.,1.7382702091577162,0.0135972561868753,3538,1741,982,815,wit-surprise,negative
+"We believe, mice and men share a common trait: the ability to look interested at things they will never understand.",1.6360792492179352,0.0139230512627351,2877,1516,892,469,wit-surprise,neutral
+"I was trying to boost their intelligence, but I merely made them pretentious.",1.7236057523675905,0.0147183841591156,2851,1383,873,595,wit-surprise,negative
+I thought this was a blind study.,1.6388160359685275,0.0146092757507089,2669,1416,801,452,sarcasm,neutral
+"Instead of cheese, their reward is feeling superior.",1.6333465033583563,0.0147954527933966,2531,1335,789,407,wit-surprise,neutral
+They just look.  They never buy.,1.7205764611689351,0.0150401520728404,2498,1152,892,454,wit-surprise,neutral
+The art history majors take the longest.,1.628525382755842,0.0149565558335588,2482,1321,762,399,wit-surprise,negative
+They seem to resent that the only way out is through the gift shop.,1.635036496350365,0.0151951955152066,2466,1316,734,416,irony,negative
+You think that's strange?  We're still looking for the one who painted them.,1.7206063088897992,0.0162225279266669,2441,1220,683,538,wit-surprise,neutral
+I like this more than giving them cancer.,1.6989690721649484,0.0158258928920002,2425,1211,733,481,sarcasm,positive
+We are one step closer to isolating the pretentiousness gene,1.6983078827899298,0.0157430027639477,2423,1203,748,472,irony,neutral
+I think they only came because of the free wine and cheese.,1.6521378165213785,0.0153256978098949,2409,1246,755,408,sarcasm,neutral
+"Exactly the same as the last group: 1. Still lifes with cheese,
+2. Panic-stricken cats, and 3. Anything by Banksy.",1.6425902864259028,0.0153075702934915,2409,1264,742,403,unknown,neutral
+They are really only here for the wine and cheese,1.6756756756756757,0.0154671850377802,2368,1179,778,411,sarcasm,neutral
+"Of course, the only way out is through the gift shop.",1.7194337194337197,0.0160810079577255,2331,1121,743,467,incongruity-absurdity,neutral
+"So it appears if we remove the gift shop, they never find their way out.",1.6927398444252375,0.0160137372908199,2314,1151,723,440,irony,negative
+"Okay, we've proven that everyone's a critic.",1.688300220750552,0.0158480376341336,2265,1107,757,401,sarcasm,neutral
+"Still and all, I throw a piece of cheese in there and they'll trample a Picasso to get to it.",1.60786065207682,0.0155246830483887,2239,1215,687,337,unknown,neutral
+On average they go through much faster when we hang Warhols,1.668332576101772,0.0159500970763222,2201,1102,727,372,irony,neutral
+This is the control group we got from the Met.,1.6422018348623852,0.015767139303345,2180,1120,720,340,irony,neutral
+"We were right: if they aren’t allowed to take selfies, they actually look at the art!",1.6035120147874309,0.0156595306101237,2164,1173,676,315,irony,neutral
+"Just like humans, though...Once you add the cheese buffet, they all run to THAT end of the gallery...",1.601024208566108,0.0155913853405705,2148,1160,685,303,irony,neutral

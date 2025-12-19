@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3726,"""I believe I accidentally set off your security system"".",1.0,0.0002461538480182,4063,4063,0,0,sarcasm,negative
+380,My insurance doesn't cover prehistoric conditions.,1.0,0.0002611989051921,3829,3829,0,0,incongruity-absurdity,negative
+3725,It counts your steps and keeps your heart-rate up.,1.0,0.0002652871756989,3770,3770,0,0,unknown,neutral
+3723,I'm under cave arrest.,1.0,0.0002694328463085,3712,3712,0,0,unknown,negative
+3731,Yes he’s a herbivore. Unfortunately I’m Herb.,1.0,0.0002697963062454,3707,3707,0,0,self-deprecating,negative
+3727,Somebody carve 9-1-1.,1.0,0.0002710394387268,3690,3690,0,0,incongruity-absurdity,neutral
+3732,It's only on for a month and then just some community service,1.0,0.0002720718294797,3676,3676,0,0,sarcasm,neutral
+3728,The doctor said it will eventually just go extinct.,1.0,0.0002784351969067,3592,3592,0,0,exaggeration,negative
+3729,"He has trouble with ""heel"" and for God's sake please don't say B - A - L - L.",1.0,0.0002799944028558,3572,3572,0,0,sarcasm,negative
+3717,"So far he understands Sit, Fetch, and Roll Over but Heel is painfully problematic.",1.0,0.0002830055214409,3534,3534,0,0,unknown,negative
+3724,"My wife said to ignore it, since what it wants is attention; but then again, my wife is missing.",1.0,0.000285591892102,3502,3502,0,0,irony,negative
+3736,It would mean a lot if you guys didn't cave-paint this.,1.0,0.0003008876218795,3324,3324,0,0,irony,negative
+3735,I can't understand why people think these Crocs are so comfortable.,1.0,0.0003047386901137,3282,3282,0,0,incongruity-absurdity,negative
+3734,"I have this idea called ""pet"", but I haven't ironed out all the details.",1.0,0.000312158580359,3204,3204,0,0,wit-surprise,neutral
+3719,Turns out... the bark wasn't that bad.,1.0,0.0003162055375488,3163,3163,0,0,unknown,positive
+3755,I am so ready for mammals.,1.0,0.0003200512122912,3125,3125,0,0,self-deprecating,positive
+3737,"Luckily for me, I have Obamacare and they're still covering prehistoric conditions.",1.0,0.0003312903805596,3019,3019,0,0,irony,positive
+3753,He was so cute as an egg.,1.0,0.0003345041023537,2990,2990,0,0,unknown,positive
+3754,"Since the meteor hit, he's become very clingy.",1.0,0.0003414717481903,2929,2929,0,0,incongruity-absurdity,negative
+3748,"A little obedience training, and a couple million years of evolution, and you're looking at man's best friend.",1.0,0.000350446825075,2854,2854,0,0,wit-surprise,neutral
+3744,The garbage disposal is acting up again.,1.0,0.0003529204219407,2834,2834,0,0,unknown,negative
+3741,"""Would you mind turning-off your home security system""!",1.0,0.0003574620253699,2798,2798,0,0,sarcasm,neutral
+3747,Just give me a minute to disarm the security system.,1.0,0.0003622532209394,2761,2761,0,0,incongruity-absurdity,neutral
+3681,It's time for his walk.,1.0,0.0003692080550265,2709,2709,0,0,unknown,neutral
+3749,Monitor lizard.,1.0,0.0003725088535464,2685,2685,0,0,incongruity-absurdity,neutral
+3752,Before I leave there's something that's been gnawing at me.,1.0,0.0003747423712025,2669,2669,0,0,self-deprecating,negative
+3687,I thought Crocs were supposed to be comfortable!,1.0,0.0003842459244786,2603,2603,0,0,incongruity-absurdity,neutral
+3751,Let me give you some advice: don’t try to drain the swamp,1.0,0.0003869220424506,2585,2585,0,0,sarcasm,negative
+3743,He is costing me an arm and a leg to feed.,1.0,0.0003934684317734,2542,2542,0,0,incongruity-absurdity,negative
+3718,"As soon as we discover fire, we're going to eat him.",1.0,0.0004080799921714,2451,2451,0,0,incongruity-absurdity,negative

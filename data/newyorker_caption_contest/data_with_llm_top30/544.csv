@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Given Mr Tell's declining accuracy with his bow and arrow, we're lucky the guys don't use Apples.",1.9569536423841056,0.0406813650064831,302,82,151,69,sarcasm,negative
+1,"Where exactly is Bethlehem, NY? Hmmm. Off the top of my head … 42°36'N 73°50'W in Albany County.",1.929078014184397,0.0418191315102872,282,80,142,60,wit-surprise,neutral
+2,I liked it better when they were just little voices inside our heads.,1.9051383399209487,0.0515953102750815,253,98,81,74,sarcasm,positive
+3,I liked it better when the voices were inside my head.,1.7530864197530864,0.0655658648331687,162,81,40,41,sarcasm,positive
+4,It wouldn't be so bad if their printers weren't in our pants.,1.7181208053691277,0.0700344146652697,149,81,29,39,sarcasm,negative
+5,Are you thinking what I'm thinking?,1.7162162162162162,0.0755202222312158,148,89,12,47,sarcasm,neutral
+6,Have your person contact my person.,1.6884057971014492,0.0788690319286595,138,87,7,44,sarcasm,neutral
+7,I live in constant fear he will hit ctrl+alt+del,1.6742424242424243,0.0684383587106232,132,69,37,26,sarcasm,negative
+8,Don't you miss the days when we thought about sex?,1.6742424242424243,0.0667269668199902,132,67,41,24,sarcasm,neutral
+9,Have your guy call my guy.,1.6692307692307693,0.0812752132621769,130,84,5,41,sarcasm,neutral
+10,Are you thinking what I'm thinking?,1.6692307692307693,0.0790435230596521,130,81,11,38,sarcasm,neutral
+11,Are you thinking what I'm thinking?,1.6666666666666667,0.0803738036950686,129,82,8,39,sarcasm,neutral
+12,Does your guy wear pants?,1.6666666666666667,0.0732791378316071,129,73,26,30,sarcasm,neutral
+13,Are you thinking what I’m thinking?,1.6666666666666667,0.0780805752245088,129,79,14,36,sarcasm,neutral
+14,I'll have my person contact your person.,1.6666666666666667,0.0796167337273119,129,81,10,38,sarcasm,neutral
+15,I'll have my people call your people,1.6640625,0.0778631191487525,128,78,15,35,sarcasm,neutral
+16,Are you thinking what I'm thinking?,1.656,0.0787843115216188,125,77,14,34,sarcasm,neutral
+17,"Remember when the only things on our minds were sex, drugs, and rock and roll?",1.656,0.0673019196390175,125,64,40,21,sarcasm,negative
+18,Funny...I was just thinking the same thing...,1.6451612903225807,0.0794961417771188,124,78,12,34,sarcasm,neutral
+20,"Hey, Are you thinking what I'm thinking?",1.6422764227642277,0.0809200734271891,123,79,9,35,sarcasm,neutral
+21,Are you thinking what I'm thinking?,1.6422764227642277,0.077556032635524,123,75,17,31,sarcasm,neutral
+19,I'll have my guy call your guy.,1.6422764227642277,0.0809200734271891,123,79,9,35,sarcasm,neutral
+23,Are you thinking what I'm thinking?,1.6363636363636365,0.0787295821622217,121,75,15,31,sarcasm,neutral
+24,Are you thinking what I'm thinking?,1.6363636363636365,0.0778498944161523,121,74,17,30,sarcasm,neutral
+25,Are you thinking what I'm thinking?,1.6363636363636365,0.0795995487064466,121,76,13,32,sarcasm,neutral
+26,Are you thinking what I'm thinking?,1.6363636363636365,0.0804601093778894,121,77,11,33,sarcasm,neutral
+27,I'll have my people email your people,1.6363636363636365,0.0821541921922785,121,79,7,35,sarcasm,neutral
+28,Are you thinking what I'm thinking?,1.6363636363636365,0.0804601093778894,121,77,11,33,sarcasm,neutral
+29,Are you thinking what I'm thinking?,1.6363636363636365,0.0821541921922785,121,79,7,35,sarcasm,neutral
+22,Are you thinking what I'm thinking?,1.6363636363636365,0.0804601093778894,121,77,11,33,sarcasm,neutral

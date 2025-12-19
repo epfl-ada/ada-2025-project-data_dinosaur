@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,So much for the suggestion box being anonymous,2.082170193606484,0.011592466394245,4442,1158,1761,1523,sarcasm,negative
+4,It was a very hostile takeover.,2.034298224276332,0.0121595028588306,4111,1181,1608,1322,unknown,negative
+6,It says very clearly that there are penalties for early withdrawal.,1.999243761028485,0.0122449299908876,3967,1181,1608,1178,irony,negative
+3,Let's see him check his phone during a meeting now.,2.058666666666667,0.012484095569406,3750,992,1546,1212,sarcasm,neutral
+1,"Don't worry, Ken's in stocks. You'll be working in bonds.",2.0762545556490046,0.0129016348244158,3567,933,1429,1205,sarcasm,neutral
+11,Ted's in stocks. You'll be working primarily with bonds.,1.898142937535172,0.0129728741504326,3554,1262,1392,900,sarcasm,neutral
+7,He chose the stock option.,1.9955303933253876,0.0135555133930278,3356,1042,1287,1027,wit-surprise,neutral
+5,"I thought they were putting art in the lobby, not Art in the lobby.",1.9993975903614456,0.0137325116982133,3320,1040,1242,1038,incongruity-absurdity,neutral
+17,"Yep, he's the one who hit ""reply all"".",1.8681887366818877,0.0137038469043069,3285,1258,1202,825,sarcasm,neutral
+2,"Whatever you do, don't take the stock option.",2.0733269292347103,0.0140774667889988,3123,860,1174,1089,sarcasm,neutral
+13,I'm liking the new policy on sexual harassment.,1.8839080459770117,0.0154992617595011,2610,987,939,684,sarcasm,positive
+18,"He hit ""Reply All"".",1.8634920634920635,0.015791804700885,2520,987,890,643,sarcasm,neutral
+16,I prefer bonds. With stocks it's too easy to get locked in.,1.869914853358562,0.0168564974819425,2114,790,809,515,wit-surprise,neutral
+22,There's a substantial penalty for early withdrawals.,1.785177766649975,0.01694740998789,1997,833,760,404,incongruity-absurdity,negative
+19,So we finally figured out whose car had the Trump bumper sticker on it.,1.8414450577019568,0.0181227152368462,1993,835,639,519,irony,neutral
+15,That's Dave. He's in stocks.,1.8720626631853785,0.0174152505048366,1915,694,772,449,wit-surprise,neutral
+21,That's who you'll be replacing.,1.8112600536193029,0.0177361616679922,1865,756,705,404,sarcasm,negative
+33,That's Jensen. He's in stocks.,1.738562091503268,0.0177754441058506,1836,835,646,355,wit-surprise,neutral
+24,They do things a little differently at the New England branch.,1.776102735901731,0.0181768324159883,1791,775,642,374,unknown,neutral
+26,"Around here, there IS such thing as a stupid question.",1.77262313860252,0.018267675139166,1746,752,639,355,sarcasm,negative
+25,"Mitch, for what it's worth, I actually loved that Facebook post.",1.7742927429274291,0.0193387267231904,1626,719,555,352,sarcasm,positive
+36,Did I mention the stock options?,1.7193650793650794,0.0189257850345507,1575,727,563,285,exaggeration,neutral
+12,Our employee retention program is unmatched in the industry.,1.89119170984456,0.0199028383717216,1544,565,582,397,unknown,positive
+9,Tom actually believed that the CEO wanted his honest opinion.,1.927381745502998,0.0204010926002713,1501,527,556,418,sarcasm,neutral
+8,We've found it more cost-effective than a motivational speaker.,1.9276139410187667,0.0203382558170788,1492,518,564,410,sarcasm,positive
+37,Apparently Fred misunderstood the stock option program.,1.7186234817813766,0.0198826678168812,1482,701,497,284,sarcasm,negative
+20,It's uncanny how his eyes seem to follow you.,1.8169705469845725,0.0209893965194879,1426,602,483,341,wit-surprise,neutral
+29,We're not allowed to publicly shame people on social media anymore.,1.753679318357862,0.0211883436470872,1291,572,465,254,sarcasm,negative
+14,"Now he'll think twice before hitting ""reply all.""",1.878367346938776,0.0219570186363315,1225,445,484,296,sarcasm,neutral
+43,Watch how the eyes seem to follow you as you walk by.,1.691533948030176,0.0226024139613635,1193,604,353,236,sarcasm,neutral

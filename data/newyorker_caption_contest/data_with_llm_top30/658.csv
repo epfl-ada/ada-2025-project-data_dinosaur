@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+418,The boss has been barking at me all day,1.497816593886463,0.046572746221232,229,143,58,28,sarcasm,negative
+3259,I miss the days when dogs socialized by sniffing rears.,1.2831858407079646,0.0375964459383004,226,175,38,13,irony,neutral
+3349,"This department has
+gone to the dogs.",1.278538812785388,0.0382936746965438,219,171,35,13,unknown,negative
+3350,"On the dating sites, everyone assumes you're a dog.",1.278538812785388,0.0360393976176004,219,167,43,9,sarcasm,neutral
+2992,"They said this place had gone to the dogs, but I thought that was just a figure of speech!",1.298165137614679,0.0378074261546029,218,164,43,11,incongruity-absurdity,neutral
+3127,Give them all the calls about yoga pants.,1.2903225806451613,0.0382870770525791,217,166,39,12,sarcasm,neutral
+2190,They’ll do anything for a treat!,1.3410138248847927,0.0399385560675883,217,156,48,13,unknown,positive
+1929,"The boss hasn't called me ""good girl"" either, I don't know what's going.",1.3564814814814814,0.0429206461680545,216,157,41,18,sarcasm,negative
+4857,"These dog day afternoons are not what they used to be, can’t they just nap and leave us alone?",1.2,0.0303568574775771,215,176,35,4,unknown,negative
+1419,What do you mean we have to pee on the lawn?,1.3906976744186046,0.0450026914476432,215,152,42,21,sarcasm,negative
+4539,The bring your kids to work program should have been expanded long ago.,1.219626168224299,0.0346344196344966,214,176,29,9,irony,neutral
+1648,Why are they working?  It’s more fun having your whole life off.,1.3738317757009346,0.0429521014942285,214,151,46,17,self-deprecating,neutral
+3293,I went to college for this!,1.2816901408450705,0.0361768570012583,213,161,44,8,sarcasm,positive
+1007,"Stop saying, ‘Good girl, good girl’!",1.4245283018867925,0.0452995960595764,212,142,50,20,sarcasm,negative
+2927,At least they're not Boomers.,1.30188679245283,0.0374328351043117,212,157,46,9,sarcasm,neutral
+1288,"Well, don't look at me, I'm not letting them out!",1.400943396226415,0.0435707817517847,212,144,51,17,sarcasm,negative
+812,"Don't worry, if their are no open computers you can just throw a ball.",1.4407582938388626,0.0465485525291972,211,140,49,22,sarcasm,neutral
+31,I can not believe he asked me to walk him home,1.6824644549763033,0.053689243184728,211,108,62,41,sarcasm,negative
+1382,I guess the company is really serious about diversity and inclusion.,1.3933649289099526,0.0451559425678055,211,148,43,20,incongruity-absurdity,positive
+198,I think it’s time to mark OUR territory.,1.5545023696682465,0.0489389153905472,211,121,63,27,irony,neutral
+1943,Did they tell you to sit and stay?,1.3554502369668249,0.0420479013005395,211,151,45,15,unknown,neutral
+2895,Is it just me or has the marketing department really gone to the dogs?,1.3033175355450235,0.038765559765112,211,158,42,11,sarcasm,negative
+3977,Nobody knows when a place has gone to the dogs...on the Internet.,1.2476190476190476,0.0354394375965074,210,166,36,8,irony,neutral
+221,When did this job go from being white-collar to just collar?,1.5476190476190477,0.04821342426567,210,120,65,25,sarcasm,neutral
+192,If he licks me again I'm reporting him to Inhuman Resources.,1.5571428571428572,0.0513686646352509,210,125,53,32,sarcasm,negative
+2488,I thought WeWoof was just a typo.,1.325358851674641,0.0428649430427956,209,158,34,17,wit-surprise,negative
+3860,At least they have filled the vacant positions.,1.2535885167464116,0.0370144956548387,209,166,33,10,exaggeration,neutral
+5572,Animal Farm 2.0!,1.1339712918660287,0.0263784511771471,209,184,22,3,exaggeration,positive
+4615,"No more immigrants, but he's still bringing in 'furriners'.",1.215311004784689,0.0356698237517212,209,174,25,10,irony,negative
+2904,"Dog people, am I right?",1.3028846153846154,0.0379221161356375,208,154,45,9,irony,neutral

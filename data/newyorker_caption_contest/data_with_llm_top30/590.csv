@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+6,"No one will believe this, not in a million years.",1.908633997486986,0.0107117639874412,5571,2058,1964,1549,exaggeration,negative
+10,I get he's an artist. It's the 'in residence' part I'm not comfortable with.,1.8962541314726404,0.0105530014509088,5446,1963,2085,1398,sarcasm,negative
+12,It's a New Yorker cartoon. Just laugh and act like you get it.,1.861618297136268,0.0115302979681872,5203,2209,1505,1489,irony,neutral
+4,"The way he tells it, we come out looking like a couple of Neanderthals.",1.9215608986992512,0.0109791297035583,5074,1766,1940,1368,sarcasm,neutral
+11,You distract him with gentle criticism about his use of perspective and meager color palette while I club him from behind.,1.882757226601981,0.0114038637876987,4947,1915,1697,1335,wit-surprise,negative
+0,"He did my summer cave in Lascaux, too.",1.9661845589733145,0.0113985654533392,4909,1651,1773,1485,irony,neutral
+2,"Sure, drawing it is the easy part, it's the caption that's tough.",1.9434889434889435,0.0114055941136094,4884,1697,1766,1421,unknown,neutral
+26,"Sure he can draw, but can he do captions?",1.8001684565171614,0.0111740476151085,4749,1977,1744,1028,incongruity-absurdity,neutral
+8,Will the day ever come when you can just have a meal without posting it?,1.8988740174208625,0.0118563704954002,4707,1819,1545,1343,sarcasm,neutral
+1,"Well, he can kiss his security deposit goodbye.",1.9631928097581848,0.0115800835180389,4673,1553,1739,1381,irony,negative
+18,If it's a grocery list we're in trouble,1.8328611898017,0.0113091947098491,4589,1794,1768,1027,unknown,negative
+7,YOU tell him not to write on the walls.,1.8990501435829468,0.01166260360814,4527,1645,1694,1188,sarcasm,negative
+29,They'll never believe this in a million years!,1.770449172576832,0.0121852287689347,4230,1925,1351,954,exaggeration,negative
+16,"For our sake, I hope he's not a starving artist.",1.8355576739752144,0.0117556272855886,4196,1618,1650,928,sarcasm,negative
+15,They're not going to believe this in a million years!,1.8366028708133968,0.0122033543336735,4180,1698,1467,1015,exaggeration,negative
+22,You go first; I'm the gatherer.,1.8119596541786744,0.0119797032243833,4164,1709,1529,926,incongruity-absurdity,neutral
+21,"Let's see--the specials today are bison, fish, and...uh-oh.",1.8140376266280756,0.0120940888634679,4146,1714,1489,943,incongruity-absurdity,neutral
+19,Still want to brag about your handprint?,1.8177387914230017,0.0122858449082887,4104,1713,1426,965,irony,neutral
+25,Why does he have to post everything he does to his wall?,1.8032624814631733,0.0122636183209211,4046,1707,1428,911,sarcasm,negative
+20,"They go extinct, we take the credit, no one's the wiser.",1.816228513650152,0.0124403247016271,3956,1641,1401,914,wit-surprise,negative
+40,First he invents the wheel; now this. It's embarrassing.,1.7310901749663523,0.0127426119442945,3715,1754,1206,755,incongruity-absurdity,negative
+36,They'll never believe this! Not in a million years!,1.745108695652174,0.0130194971559776,3680,1736,1146,798,exaggeration,negative
+27,"He calls it, 'The Last Supper.'",1.7815904139433552,0.0130362723455886,3672,1634,1206,832,incongruity-absurdity,neutral
+28,"If you ask me, his Jurassic period was better",1.7774122807017545,0.0128453979759798,3648,1594,1272,782,wit-surprise,neutral
+3,It will be worth even more when he's extinct.,1.9411764705882355,0.012979334593823,3604,1206,1404,994,irony,neutral
+35,Paints like Picasso but tastes like chicken.,1.7499276410998552,0.0133031759910217,3455,1596,1127,732,incongruity-absurdity,neutral
+32,Liberal arts are a dead end. The future is hunting and gathering.,1.7623557265463154,0.013362768958892,3379,1516,1150,713,exaggeration,negative
+41,"Let me guess, you didn't invent the wheel either.",1.731024096385542,0.013622387499775,3320,1589,1035,696,sarcasm,neutral
+14,Face it. You are that hairy.,1.8401215805471125,0.0134100628796549,3290,1278,1260,752,self-deprecating,neutral
+37,"You know, once those pictures get posted they're there forever...",1.739619107087106,0.0136996176983618,3203,1488,1061,654,sarcasm,neutral

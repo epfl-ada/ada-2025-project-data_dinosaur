@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+This is the watercolor gallery. We don't allow charcoal here.,1.8940129449838188,0.0227367102184443,1236,467,433,336,incongruity-absurdity,neutral
+"You are under the wrong impression, sir.",1.8152266894781863,0.0235319421917225,1169,506,373,290,sarcasm,negative
+"Sir, this is the Met. The Mets are down the street.",1.898472596585804,0.023189052052898,1113,395,436,282,unknown,neutral
+This is watercolors. Charcoals are the next room over.,1.7140221402214022,0.0215134327247803,1084,471,452,161,incongruity-absurdity,neutral
+I’ll have the Rauschenburger.,1.7118644067796611,0.0232640125444755,1062,502,364,196,wit-surprise,neutral
+"Make mine rare, but not priceless.",1.7942973523421588,0.0250074586508422,982,423,338,221,unknown,neutral
+"Fine, but no flash photography.",1.66948257655755,0.0252141670367676,947,493,274,180,incongruity-absurdity,neutral
+That's a rare medium. Well done.,1.6958041958041958,0.0264803951210633,858,428,263,167,wit-surprise,positive
+That’s not how artist-in-residence works.,1.8788968824940049,0.0272736037376328,834,315,305,214,sarcasm,negative
+"The lily pond outside, you idiot.",1.6646191646191646,0.0273061300880286,814,429,229,156,unknown,negative
+And here we see the stark contrast between a French Impressionist and an American Concessionist.,1.64,0.0263651075974151,800,418,252,130,wit-surprise,neutral
+"Sir, these are oils.  Charcoal is upstairs.",1.6297872340425532,0.0252475840079251,705,337,292,76,unknown,neutral
+Anybody know where the cows from the Chagall paintings went?,1.6214285714285714,0.0284010349257381,700,380,205,115,wit-surprise,neutral
+Mr. Warhol has the ketchup in the next gallery.,1.6259097525473072,0.0273627696229319,687,353,238,96,incongruity-absurdity,neutral
+"Sir, everything in here is rare.",1.6285714285714286,0.0280184713111648,630,316,232,82,sarcasm,neutral
+"You’re at the Met, not the Mets.",1.613913043478261,0.0286169979697135,575,289,219,67,incongruity-absurdity,neutral
+There's  a ketchup bottle in the Warhol room.,1.57397504456328,0.0290532665255848,561,303,194,64,unknown,neutral
+And in this room you will see an exceptionally talented artist who works only in charcoal.,1.575,0.0284204900114634,560,296,206,58,wit-surprise,positive
+"Well sir, normally I WOULD call the police,
+but someone just bought you and your son for $80,000!",1.708029197080292,0.0332442644539828,548,269,170,109,exaggeration,negative
+I’ll give you ten grand for that napkin with the ketchup stain.,1.5602409638554218,0.032578508310756,498,289,139,70,unknown,negative
+I could’ve made that!,1.5465587044534412,0.0328260859743894,494,294,130,70,wit-surprise,positive
+You could have been clearer when you said you worked in charcoal,1.6765327695560253,0.0335641489019105,473,227,172,74,sarcasm,neutral
+My five-year-old could have cooked that.,1.5655021834061136,0.0327530027248639,458,255,147,56,sarcasm,negative
+This is not what I had in mind when you said charcoal was your preferred medium,1.5664335664335665,0.034721281808001,429,244,127,58,sarcasm,negative
+"When you've finished the burgers, I'll need a couple of Rubens.",1.616504854368932,0.0348288321020477,412,212,146,54,wit-surprise,neutral
+"Two Jardin-burgers, hold the Manets, and we'd like it to Gogh.",1.5390243902439025,0.0373455520823847,410,255,89,66,sarcasm,neutral
+"When I asked you to display Weber's best work, I meant Max Weber!",1.5714285714285714,0.0359419125291989,392,219,122,51,wit-surprise,positive
+No hats in the museum!,1.5260416666666667,0.0339724264220093,384,219,128,37,incongruity-absurdity,neutral
+"Sir, the event was called Meet at the Met, not Meat at the Met!",1.5810055865921788,0.0365943378719109,358,192,124,42,irony,neutral
+I’ll take mine to Gogh,1.664804469273743,0.0405137863773763,358,185,108,65,unknown,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I’ve advised my client not to talk.,1.907074780058651,0.0105456176123256,5456,1932,2099,1425,wit-surprise,neutral
+10,The memo speaks for itself. Which is more than I can say for Brad here.,1.8362550568291276,0.010710936352183,5191,2040,1961,1190,sarcasm,neutral
+8,We want time-and-a-half.,1.84775828460039,0.0109382834625593,5130,2024,1863,1243,incongruity-absurdity,neutral
+15,Here's my resignation. I just don't feel like I have a voice here.,1.802893309222423,0.0109281972988797,4977,2066,1826,1085,self-deprecating,negative
+7,"His words, not mine.",1.853615520282187,0.0113303322435712,4536,1701,1798,1037,sarcasm,neutral
+6,Do you have any idea who you're talking to?,1.857300884955752,0.0117268755832222,4520,1773,1619,1128,sarcasm,neutral
+5,"Trust me, I speak for both of us.",1.858908110536958,0.0113806812431976,4451,1641,1797,1013,self-deprecating,positive
+14,"It's pretty much boilerplate, but if you have questions I'll be in the brown suitcase under Phil's desk.",1.8067400275103165,0.011749469399854,4362,1816,1573,973,sarcasm,neutral
+2,I want to report inappropriate touching.,1.8798805695911804,0.0125185105238176,4354,1778,1321,1255,irony,negative
+3,Of course he had a hand in this!,1.87595818815331,0.011854354369021,4305,1602,1635,1068,irony,negative
+31,"Sure, you may be busy but my boss is literally up my ass.",1.7212609623133444,0.012413428350023,4219,2123,1149,947,sarcasm,negative
+12,"Read the memo from HR, Fred. From now on, I'm a ""vocally enabled support mannequin,"" not a ""dummy.""",1.816888045540797,0.0121946604431679,4216,1778,1432,1006,sarcasm,neutral
+16,At least I know I'm a puppet.,1.7998046875,0.0121836882847731,4096,1737,1442,917,self-deprecating,negative
+13,"If he goes, I go.",1.815033161385409,0.0120396379946077,4071,1647,1530,894,unknown,neutral
+17,How do you explain this invoice for a wood chipper?,1.7954948114401417,0.012943860914518,3951,1794,1171,986,unknown,neutral
+19,Ancestry.com says your desk is my uncle.,1.7902774242809876,0.012947540861598,3929,1792,1169,968,sarcasm,neutral
+20,The coward behind me. That's who's firing you.,1.7611303652359371,0.0127537019464453,3751,1699,1249,803,sarcasm,negative
+23,This is the list of grievances from an employee who wishes to remain anonymous.,1.7511336356361695,0.0126339311598281,3749,1704,1274,771,irony,negative
+33,You didn't hear this from me.,1.7179487179487178,0.0123174131743129,3744,1740,1320,684,sarcasm,neutral
+1,I've got corporate up my ass on this one John...,1.901238122660524,0.0143328211917637,3473,1427,962,1084,sarcasm,negative
+34,I heard you say you got hired by a dummy. Now you can say you got fired by one too.,1.7157375145180025,0.0132147589586538,3444,1664,1095,685,sarcasm,negative
+27,What did you think dummy corporation meant?,1.7361192285213325,0.0132030634156619,3422,1591,1143,688,sarcasm,neutral
+32,There's no easy way to say this: we're downsizing.,1.7205618649133294,0.013286244982213,3346,1586,1109,651,exaggeration,negative
+30,"Watch out, the guy behind me is very manipulative.",1.7225728884881275,0.0130929851811896,3327,1538,1174,615,sarcasm,negative
+37,Here's my resume. Do you mind if my friend stays for the interview?,1.6838311019567456,0.0138867397121011,2913,1424,986,503,sarcasm,neutral
+38,Read my lips.,1.6827309236947792,0.0145208975020401,2739,1363,882,494,unknown,neutral
+39,Would you like to see him fire you while drinking a glass of water?,1.667521994134897,0.0145893649988633,2728,1396,843,489,sarcasm,negative
+29,Please accept my application for White House Press Secretary.,1.7264367816091954,0.0163065866600688,2610,1360,604,646,sarcasm,neutral
+46,And I don't appreciate your referring to me as 'that dummy from accounting'!,1.643353941267388,0.0146034586175913,2588,1340,831,417,sarcasm,negative
+43,I'm sorry about this but upper management is forcing my hand.,1.6569428238039674,0.0146567745089126,2571,1302,849,420,sarcasm,negative

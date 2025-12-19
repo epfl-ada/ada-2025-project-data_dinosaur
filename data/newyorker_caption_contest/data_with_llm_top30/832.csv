@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Re-treat!,1.689085209461385,0.0133132838743283,3509,1806,988,715,unknown,neutral
+"If we breach the wall, we will be in deep shit!",1.6159329140461216,0.0159373288354015,2385,1356,589,440,unknown,negative
+On the count of three we S. T. O. R. M. the C. A. S. T. L. E.,1.6160977665402445,0.0158678954240347,2373,1339,606,428,incongruity-absurdity,neutral
+He's not going to roll over that easily.,1.593984962406015,0.0148133126002243,2261,1206,767,288,wit-surprise,negative
+"I have met the enemy, and he’s a good boy!",1.669182948490231,0.0161644454910023,2252,1158,681,413,sarcasm,positive
+We will not negotiate with terriers.,1.7834912043301758,0.0172511168380987,2217,1023,651,543,unknown,negative
+Re-treat! Re-treat!,1.658749394086282,0.0165826662351484,2063,1057,653,353,unknown,neutral
+Launch the frisbee,1.594079277471149,0.0163139478529611,1993,1097,608,288,unknown,neutral
+"I think we're in for a licking , guys!",1.6593574706782257,0.0170127128558936,1961,1004,621,336,exaggeration,positive
+Launch the squeaky toy!,1.5960945529290853,0.0165804437170284,1946,1072,588,286,incongruity-absurdity,positive
+"Retreat, not re-treat!",1.6663095875736476,0.0184438470748003,1867,1008,474,385,unknown,neutral
+The bones only buy us time. Catapult the squirrel.,1.642935377875137,0.0183751907891063,1826,1005,468,353,wit-surprise,neutral
+"Forget the bones, get me a frisbee.",1.5779554540262708,0.0170722261517479,1751,972,546,233,incongruity-absurdity,neutral
+Enough snacks!  Release the giant squirrel!,1.5888441633122483,0.0177386663375465,1739,980,494,265,incongruity-absurdity,neutral
+No one brought a tennis ball?,1.5854503464203231,0.0175017884149615,1732,967,516,249,incongruity-absurdity,neutral
+"Finnegan, get up here and rub his belly.",1.56737998843262,0.0171270228072934,1729,974,529,226,unknown,neutral
+Deploy the tennis balls!”,1.5786090005844535,0.0174329575282803,1711,957,518,236,exaggeration,neutral
+Re-treat everyone!,1.5951821386603997,0.0179429883405193,1702,950,491,261,unknown,neutral
+Aren't we just rewarding bad behavior?,1.5630603705917514,0.0175910513799511,1673,958,488,227,sarcasm,negative
+"This isn't working,we'll have to try the Trojan Cat!",1.563253012048193,0.018020986707372,1660,968,449,243,sarcasm,negative
+Get ready to launch the tennis ball!,1.5585412667946257,0.0179130678512775,1563,889,475,199,unknown,positive
+"Of course, I’ve asked him to lie down.",1.6100064143681847,0.0187825350173777,1559,851,465,243,self-deprecating,neutral
+Fall back!  We’re dressed like his chew toy!,1.552648790058862,0.0184352083791201,1529,892,429,208,sarcasm,neutral
+We’re also gonna need that big tennis ball.,1.548168249660787,0.0183247261624593,1474,848,444,182,unknown,neutral
+We're being forced to re-treat.,1.5638148667601683,0.018910727988179,1426,810,428,188,exaggeration,neutral
+"Okay, plan B—prepare the Frisbee!",1.554054054054054,0.0187891712379244,1406,802,429,175,incongruity-absurdity,neutral
+"It's working. Now after me, ""Who's a good boy?""",1.576271186440678,0.0194952748756099,1357,759,414,184,unknown,positive
+"I said ""attack"", not ""a snack'""",1.5423855963990998,0.0200089080956286,1333,800,343,190,wit-surprise,neutral
+It's working! Call in the belly-rubbers and the castle will be ours!,1.574287913779831,0.0198084120407763,1299,725,402,172,sarcasm,positive
+"Yes, I mean literally throw me a bone.",1.617174959871589,0.0213694461753955,1246,684,355,207,self-deprecating,negative

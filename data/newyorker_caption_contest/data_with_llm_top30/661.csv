@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I am pleased to announce that Dopey will be leaving us to pursue a career as White House Chief of Staff.,2.1541678282687484,0.0067542828287646,14348,3760,4616,5972,sarcasm,positive
+"Remember guys , when the prince comes you’re just my sisters kids.",1.9933549156585448,0.0070992593518699,11738,3511,4794,3433,sarcasm,neutral
+"To be honest, finding out that you're all gay is a bit of a relief.",2.0080451900034233,0.0072329250706533,11684,3524,4542,3618,self-deprecating,positive
+"Grouchy, you'll be Press Secretary, Dopey you'll be Attorney General...",1.9194127243066883,0.0085314999543095,9195,3477,2982,2736,sarcasm,neutral
+Don't tell me.  Let me guess. Creepy is behind me.,1.889150678783799,0.0082302116479101,8913,3239,3423,2251,sarcasm,negative
+"So, which one of you is ‘Wealthy’?",1.8464085874157816,0.0085448052631812,8757,3575,2952,2230,sarcasm,neutral
+This shot is for the USC application!  Pretend you know how to skate!,1.809127551683786,0.0091796409454501,7691,3366,2427,1898,incongruity-absurdity,positive
+"We’ve hired a lobbyist to represent our interests in Washington, D.C. His name?  Sleazy.",1.688790356103644,0.0091530775770383,7217,3654,2155,1408,sarcasm,negative
+"Yes, they do make you look taller!",1.7539149888143175,0.0086388851791002,7152,3005,2902,1245,unknown,positive
+It doesn't matter if you're whistling or not.  OSHA says you have to wear a helmet.,1.7169465218004798,0.0088578241076009,7087,3257,2579,1251,unknown,neutral
+"Hurry, we need to go meet the other Democratic candidates!",1.6926737813671762,0.0093582158734304,6934,3498,2069,1367,sarcasm,neutral
+"""Really? All of you are running for the Democratic presidential nomination?",1.6080527086383605,0.0089327484580082,6830,3724,2059,1047,irony,neutral
+Good news ! The boss called and you're all hired. The company is downsizing.,1.7461459403905446,0.0093835778362712,6811,3126,2288,1397,exaggeration,positive
+I am now Snow Caucasian and you are the seven little persons.,1.8033367783847631,0.0096486642106654,6773,2932,2241,1600,irony,neutral
+"Global warming has forced some changes to ""Disney on Ice"".",1.6977957260642773,0.0097764956881383,5943,2857,2025,1061,exaggeration,neutral
+"Well, this is a Grimm scene.",1.6830220713073003,0.0098790204201083,5890,2922,1913,1055,irony,neutral
+"How are all my little adjectives.""",1.7099353521605989,0.010011484466366,5878,2831,1921,1126,incongruity-absurdity,neutral
+"I would prefer, ""Hello, Snow White"". Not ""Hi, Ho""",1.8311332076118636,0.0107410470066089,5833,2538,1742,1553,sarcasm,neutral
+"Grumpy, you need to try these mushrooms that Happy just found!",1.6257679797614746,0.0098982453972569,5534,2923,1759,852,irony,positive
+Is Gropey still in the Snow White House?,1.7191162343900095,0.0111530569400534,5205,2621,1425,1159,sarcasm,neutral
+"Unlike Sleeping Beauty, I'm not afraid of small pricks on spinning wheels",1.6847040437585463,0.0111636537416973,5119,2694,1345,1080,sarcasm,neutral
+"Scene eliminated by censors for; exploiting  ""people of short stature"", rollerskating without helmets, woman showing too much cleavage, sexual innuendo of 7 men frolicking together, ""Happy"" leering at woman, all characters too ""handsy""...",1.6764467826790772,0.0110427485006675,4942,2547,1447,948,unknown,negative
+"Now that the mine is closing, I am training you for Amazon home delivery",1.642950676560454,0.0106926641569173,4582,2310,1598,674,irony,neutral
+"Oh, good - you're all here except Trumpy - that piece of shit.",1.6778270509977826,0.012288623137702,4510,2496,971,1043,sarcasm,negative
+Amusing but what I said is that you guys needed to start dating,1.6594827586206895,0.0116749184834115,3944,1960,1367,617,sarcasm,neutral
+I'd be a great referee for your roller derby; I'm the fairest of them all.,1.6388109927089176,0.0125138841920759,3566,1872,1110,584,wit-surprise,positive
+A day in the life of Nancy Pelosi.,1.6461166515563614,0.0137735396191437,3309,1831,818,660,sarcasm,neutral
+We don't use that term anymore. You are persons of special stature.,1.5398466155385129,0.0127473328578921,2999,1738,903,358,sarcasm,neutral
+OK. 10 more minutes. Then off to work you go.,1.798671793079343,0.0139574787255958,2861,1143,1151,567,sarcasm,neutral
+"I mean, it's not like mining jobs are ever coming back.",1.5603967410556143,0.0132728716004335,2823,1595,874,354,irony,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,He said the patent expired,1.792929292929293,0.0279073477066664,990,505,185,300,incongruity-absurdity,neutral
+1,He says the guy with the original idea never took out a patent!,1.729957805907173,0.0324068027603102,711,387,129,195,irony,neutral
+2,He is making a life preserver for my Mother.,1.726878612716763,0.0311298192321052,692,352,177,163,incongruity-absurdity,neutral
+3,I hope he discovers fire soon. Dinner is at six.,1.726878612716763,0.0298961356785449,692,334,213,145,incongruity-absurdity,neutral
+4,He told me that the patent expired.,1.7109375,0.033227658103717,640,345,135,160,incongruity-absurdity,neutral
+5,"There, that's as close to a perfect square as I can get it.",1.662790697674419,0.0363602132347648,516,292,106,118,incongruity-absurdity,positive
+6,I don't have the heart to tell him it's been done.,1.643312101910828,0.038143460527037,471,275,89,107,unknown,negative
+7,He 'fears' something might happen to me soon that will send him to prison; so he's learning to use a rock hammer.,1.6408602150537634,0.0378451644170471,465,268,96,101,irony,negative
+8,It came today but we ordered it ages ago.,1.6343612334801765,0.0363204351244925,454,249,122,83,irony,neutral
+9,The hole in the middle was my idea.,1.6319290465631928,0.0359915829946688,451,245,127,79,incongruity-absurdity,neutral
+10,Turns out it was never patented.,1.6300448430493273,0.0361912561154303,446,243,125,78,exaggeration,neutral
+11,I don't want to break his heart.,1.6281179138321995,0.0411774832414535,441,277,51,113,sarcasm,negative
+12,I don't have the heart to tell him.,1.6247139588100687,0.0394451877057944,437,261,79,97,sarcasm,negative
+13,"It's been in our family for 12,000 years.",1.6229885057471265,0.0359630701859074,435,235,129,71,incongruity-absurdity,neutral
+14,Douglas just got his Mechanical Engineering Degree from Trump University!,1.6218097447795825,0.0391014235147783,431,254,86,91,irony,positive
+15,It would break his heart if I told him it had been done already.,1.6120481927710844,0.0395348484665057,415,246,84,85,wit-surprise,negative
+16,I'm letting the Patent Office tell him.,1.6025,0.0374464948284528,400,223,113,64,sarcasm,neutral
+17,When he's done I'm going to reinvent the divorce.,1.602015113350126,0.039486178050839,397,233,89,75,sarcasm,neutral
+18,"Well, I laughed at him too, but turns out Bruce is the first to actually apply for a patent.",1.5888594164456231,0.0402172210079688,377,224,84,69,irony,neutral
+19,"He's not reinventing it, he's making it great again.",1.5877659574468086,0.0388763928991988,376,216,99,61,irony,positive
+20,"His influences are Brancusi, Warhol, and Krispy Kreme.",1.5849056603773586,0.0376008366414486,371,206,113,52,wit-surprise,neutral
+21,Harry got some discouraging news from the Patent Office this morning.,1.5837837837837838,0.0388344338826005,370,212,100,58,unknown,negative
+22,Try to look surprised.,1.5826558265582655,0.0381590970536386,369,208,107,54,sarcasm,neutral
+23,"It was supposed to be a square, but he kept cutting corners.",1.578512396694215,0.0382755775521378,363,205,106,52,incongruity-absurdity,neutral
+25,I've got an inkling I'm getting a big rock for our anniversary.,1.5588235294117647,0.0394988044912251,340,198,94,48,incongruity-absurdity,neutral
+24,He's rethinking his choice of font.,1.561764705882353,0.0407826160233421,340,203,83,54,wit-surprise,neutral
+26,I hid the instructions.,1.5548961424332344,0.0404460633161235,337,201,85,51,incongruity-absurdity,neutral
+27,"For me, it's a lifesaver.",1.5504587155963303,0.0407382750519435,327,195,84,48,self-deprecating,positive
+28,"...but the worst of it is, in bed he calls me Wilma.",1.5476923076923077,0.0402403473860141,325,192,88,45,sarcasm,negative
+29,That's not the Big O I was thinking of.,1.5434782608695652,0.0428619659320946,322,202,65,55,wit-surprise,neutral

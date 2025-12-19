@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Already sold.  Guy on the phone.  Kim something.,1.867142608392826,0.0107002444891832,5743,2320,1866,1557,sarcasm,neutral
+Amazon accidentally sent two.,1.895934352853413,0.0108946638526523,5362,2014,1892,1456,incongruity-absurdity,negative
+"Yeah, and you never took a pen home from the office?",1.8269522365428357,0.0109039849460024,5276,2190,1809,1277,sarcasm,negative
+"You know how it is. You promise yourself you're going to use it every day, but after a couple of weeks it just ends up in the back of the garage.",1.834346206626152,0.0107618873264276,5101,1999,1948,1154,incongruity-absurdity,negative
+"It works fine, we’re just no longer a nuclear family.",1.8781796502384736,0.0114350425432018,5032,1999,1647,1386,incongruity-absurdity,neutral
+"Well, if you wanted the aircraft carrier, you should have been here first thing this morning.",1.8434193821413456,0.0112975584207113,4726,1853,1760,1113,wit-surprise,neutral
+"The paperwork's in the glove box. Title, owner's manual, nuclear launch codes. All there.",1.811797108101905,0.011681128503934,4357,1782,1613,962,unknown,neutral
+"Please stop calling it a hoagie, it's a sub.",1.7967136150234742,0.0123738231500875,4260,1910,1306,1044,irony,negative
+"Sorry, sold the yellow one to some musicians.",1.8235294117647056,0.0129358186888103,3876,1659,1242,975,irony,neutral
+"Because of rising sea levels, we live in the submarine.  We're actually selling the house.",1.7799205899035735,0.013229112730428,3526,1561,1180,785,exaggeration,negative
+Do you still have the box?,1.8038318558764657,0.0133333465155222,3497,1497,1189,811,unknown,neutral
+A minivan just makes more sense for us right now.,1.7782974742750235,0.0132657678885166,3207,1339,1240,628,sarcasm,neutral
+"No, we’d only have to do a background check if I were selling you a gun.",1.858827278521351,0.0144254731367149,3138,1277,1027,834,sarcasm,negative
+Is this the submarine mentioned in the ad?,1.765721733463669,0.014326486300872,3069,1410,968,691,irony,neutral
+Don't tell France where you got it.,1.7733333333333334,0.0145664322572912,2925,1314,960,651,sarcasm,negative
+I don't need it now that I'm working from home,1.7807047553882998,0.0144299254661971,2923,1280,1004,639,unknown,negative
+"Cash only, mate. Trying to keep this one under the radar.",1.7816500711237553,0.0144912956602919,2812,1204,1018,590,sarcasm,neutral
+"I've got two words for you, son: Chick magnet.",1.7653817642698295,0.0150971352235879,2698,1220,891,587,unknown,neutral
+"Yeah, like you never took pens home from the office?!?!",1.7583459787556903,0.0151824429351591,2636,1196,881,559,sarcasm,negative
+It only comes in navy,1.756183745583039,0.0150233249268933,2547,1118,932,497,unknown,neutral
+When the sea levels rise you'll look like a genius.,1.7534059945504088,0.015846901387295,2202,947,851,404,exaggeration,positive
+"it's only got 20,000 leagues on it",1.75743822491175,0.0170334127877992,1983,869,726,388,incongruity-absurdity,neutral
+It’s $5 because I’ve lost the charger for it,1.7354188759278897,0.0178676089353252,1886,883,619,384,sarcasm,negative
+"The sub? No that’s not for sale
+I’m working from home",1.7321428571428572,0.0183561722413943,1792,845,582,365,sarcasm,neutral
+"Yes, I can hold it for you while you ask your Mom.",1.7640845070422535,0.0183502151008456,1704,737,632,335,sarcasm,neutral
+"Sure, but you'll have to come back at high tide to pick it up.",1.7518564356435644,0.0186267012988643,1616,703,611,302,incongruity-absurdity,neutral
+Brought it home and the wife went totally ballistic.,1.7272727272727273,0.019162865363504,1606,752,540,314,irony,neutral
+"Six wars, sure, but only one owner!",1.7816455696202531,0.018432880792622,1580,634,657,289,unknown,neutral
+It’s Old Navy.,1.721311475409836,0.0197065230114672,1525,723,504,298,irony,neutral
+I thought I was ordering a sandwich.,1.7227332457293036,0.0204802952077853,1522,755,434,333,unknown,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It's not actually enough that you identify as a hamster.,1.7801144270913871,0.0101539725624258,6467,3023,1843,1601,sarcasm,negative
+"Well for starters, you were 4 days late to the interview.",1.8051539912005028,0.0099144087028907,6364,2731,2142,1491,sarcasm,negative
+"I understand you beat a hare, but this is a rat race",1.7772425249169437,0.0103882797080812,6020,2775,1811,1434,incongruity-absurdity,negative
+You're cold blooded.  You belong in upper management.,1.8158703071672355,0.0107318741624988,5860,2616,1707,1537,sarcasm,negative
+Tell us something about yourself. Where do you see yourself in half an hour?,1.7951382772591158,0.0107254559249005,5677,2554,1732,1391,self-deprecating,neutral
+You'll be powering Texas.,1.7798975446034269,0.0109584407158165,5661,2684,1539,1438,irony,positive
+You will still get nowhere; it will just take longer.,1.768985095812633,0.0105206776954072,5636,2559,1820,1257,sarcasm,negative
+Slow and steady meets down the hall. These guys are here for the rat race.,1.7623867874267447,0.010495296887061,5631,2574,1821,1236,incongruity-absurdity,negative
+"Look, I’m not gonna give you the run-around. It’s a go-nowhere job, but you can work at your own pace.",1.77868406742795,0.0104555763901915,5517,2409,1920,1188,sarcasm,negative
+"I'll be honest, you're our diversity hire.",1.7842672020441686,0.0107383950242844,5479,2449,1763,1267,sarcasm,positive
+"Yes,they're all blind but see how they run?",1.7792828685258963,0.0113739522330869,5020,2306,1516,1198,incongruity-absurdity,neutral
+We're really looking for someone with more lab experience.,1.7575325732899023,0.011085139563524,4912,2222,1659,1031,sarcasm,neutral
+"However, the 130 years of experience on your resume is admirable",1.7654729869592216,0.0110697121280338,4831,2129,1706,996,sarcasm,positive
+"Yes, you beat the hare.  But this is a rat race.",1.7624733475479744,0.0115690516232589,4690,2161,1482,1047,unknown,neutral
+First spin class?”,1.7536548112590007,0.0115242362636693,4583,2098,1516,969,irony,neutral
+"Sure, you beat the hare...but this is the rat race.",1.7587633885102238,0.0123227161198243,4108,1896,1307,905,unknown,neutral
+But I think we may have an opening for you over at the wheels of justice.,1.7532338308457711,0.0131014447408103,4020,2005,1002,1013,sarcasm,neutral
+"The job is pointless, exhausting, and will get you absolutely nowhere. When can you start?",1.7567567567567568,0.0133125735000186,3515,1626,1118,771,sarcasm,negative
+"First, let me bring you up to speed.",1.868842902943748,0.0139707950696823,3431,1403,1075,953,exaggeration,neutral
+"Good, I see you brought your helmet.",1.736826347305389,0.0135105268098721,3340,1573,1073,694,sarcasm,positive
+Technically you work from home already.,1.7313480627601665,0.0142274556174656,3123,1519,924,680,sarcasm,neutral
+You must be the temp.,1.7373834779813564,0.0137846201163556,3111,1435,1058,618,sarcasm,neutral
+You understand we're paid in cheese?,1.7311227839789889,0.0139261664332576,3046,1419,1027,600,irony,neutral
+It's the blind mice - they'll never know.,1.73786078098472,0.0146454104272709,2945,1417,883,645,unknown,negative
+"These wheels provide power to Google, Facebook and Twitter. You’ll be assigned to the DMV wheel.",1.7357388316151203,0.0150279921990355,2910,1442,795,673,irony,neutral
+You may be in the wrong metaphor.,1.740118922700245,0.014659283143771,2859,1346,910,603,wit-surprise,negative
+The main thing is just to look busy.,1.7272403982930298,0.014508135923073,2812,1320,939,553,sarcasm,neutral
+"In one month, I'll have you getting nowhere faster than ever.",1.7416822429906542,0.0151349485953419,2675,1254,858,563,sarcasm,negative
+"To be honest, you were a diversity hire.",1.7243589743589745,0.0152895279587588,2652,1288,807,557,sarcasm,neutral
+For you we’ll need to reinvent the wheel.,1.7285067873303168,0.0150410657841686,2652,1253,866,533,sarcasm,neutral

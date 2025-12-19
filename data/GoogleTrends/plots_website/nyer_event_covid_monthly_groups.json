@@ -1,0 +1,160 @@
+{
+  "event": "covid",
+  "label": "COVID / Pandemic",
+  "window_start": "2020-03",
+  "window_end": "2021-12",
+  "groups": [
+    {
+      "id": 0,
+      "words": [
+        "covid",
+        "virus",
+        "pandemic",
+        "lockdown",
+        "quarantine",
+        "vaccine",
+        "mask",
+        "isolation",
+        "outbreak",
+        "testing",
+        "hospital",
+        "doctor",
+        "nurse",
+        "sick",
+        "illness"
+      ]
+    },
+    {
+      "id": 1,
+      "words": [
+        "fear",
+        "death",
+        "anxiety",
+        "worry",
+        "stress",
+        "sad",
+        "panic",
+        "crisis",
+        "trauma",
+        "suffering"
+      ]
+    }
+  ],
+  "timeseries": [
+    {
+      "month": "2016-04",
+      "group_0": 0,
+      "group_1": 2
+    },
+    {
+      "month": "2016-05",
+      "group_0": 0,
+      "group_1": 1
+    },
+    {
+      "month": "2016-10",
+      "group_0": 0,
+      "group_1": 4
+    },
+    {
+      "month": "2017-01",
+      "group_0": 0,
+      "group_1": 1
+    },
+    {
+      "month": "2017-03",
+      "group_0": 0,
+      "group_1": 3
+    },
+    {
+      "month": "2017-05",
+      "group_0": 11,
+      "group_1": 0
+    },
+    {
+      "month": "2017-07",
+      "group_0": 2,
+      "group_1": 0
+    },
+    {
+      "month": "2017-12",
+      "group_0": 0,
+      "group_1": 2
+    },
+    {
+      "month": "2018-02",
+      "group_0": 13,
+      "group_1": 0
+    },
+    {
+      "month": "2018-03",
+      "group_0": 0,
+      "group_1": 3
+    },
+    {
+      "month": "2018-07",
+      "group_0": 0,
+      "group_1": 1
+    },
+    {
+      "month": "2019-01",
+      "group_0": 10,
+      "group_1": 1
+    },
+    {
+      "month": "2019-03",
+      "group_0": 16,
+      "group_1": 0
+    },
+    {
+      "month": "2019-06",
+      "group_0": 1,
+      "group_1": 1
+    },
+    {
+      "month": "2020-01",
+      "group_0": 0,
+      "group_1": 1
+    },
+    {
+      "month": "2020-02",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2020-03",
+      "group_0": 0,
+      "group_1": 1
+    },
+    {
+      "month": "2020-04",
+      "group_0": 0,
+      "group_1": 1
+    },
+    {
+      "month": "2020-11",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2021-01",
+      "group_0": 2,
+      "group_1": 0
+    },
+    {
+      "month": "2021-02",
+      "group_0": 0,
+      "group_1": 2
+    },
+    {
+      "month": "2021-11",
+      "group_0": 0,
+      "group_1": 1
+    },
+    {
+      "month": "2023-09",
+      "group_0": 0,
+      "group_1": 1
+    }
+  ]
+}

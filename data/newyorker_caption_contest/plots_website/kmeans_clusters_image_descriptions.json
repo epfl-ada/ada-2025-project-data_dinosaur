@@ -1,0 +1,307 @@
+{
+  "field": "image_descriptions",
+  "numDocuments": 530,
+  "k": 20,
+  "clusters": [
+    {
+      "clusterId": 0,
+      "topTerms": [
+        "kitchen",
+        "cooking",
+        "hazmat",
+        "traps",
+        "knight",
+        "suit",
+        "mess",
+        "locked",
+        "tight",
+        "stove"
+      ]
+    },
+    {
+      "clusterId": 1,
+      "topTerms": [
+        "couch",
+        "nearby",
+        "dog",
+        "room",
+        "sitting",
+        "hot",
+        "man",
+        "living",
+        "people",
+        "monkeys"
+      ]
+    },
+    {
+      "clusterId": 2,
+      "topTerms": [
+        "cave",
+        "caveman",
+        "cup",
+        "coffee",
+        "hole",
+        "modern",
+        "shop",
+        "talking",
+        "china",
+        "cavepeople"
+      ]
+    },
+    {
+      "clusterId": 3,
+      "topTerms": [
+        "room",
+        "living",
+        "sitting",
+        "man",
+        "going",
+        "woman",
+        "train",
+        "chair",
+        "women",
+        "throne"
+      ]
+    },
+    {
+      "clusterId": 4,
+      "topTerms": [
+        "holding",
+        "standing",
+        "like",
+        "face",
+        "man",
+        "looks",
+        "worried",
+        "look",
+        "cloud",
+        "woman"
+      ]
+    },
+    {
+      "clusterId": 5,
+      "topTerms": [
+        "doctor",
+        "patient",
+        "gingerbread",
+        "king",
+        "wrapped",
+        "snake",
+        "examination",
+        "man",
+        "office",
+        "hospital"
+      ]
+    },
+    {
+      "clusterId": 6,
+      "topTerms": [
+        "men",
+        "walking",
+        "carrying",
+        "man",
+        "woman",
+        "street",
+        "briefcase",
+        "island",
+        "building",
+        "business"
+      ]
+    },
+    {
+      "clusterId": 7,
+      "topTerms": [
+        "maze",
+        "mouse",
+        "lab",
+        "mice",
+        "scientists",
+        "scientist",
+        "head",
+        "computers",
+        "mounted",
+        "snail"
+      ]
+    },
+    {
+      "clusterId": 8,
+      "topTerms": [
+        "fish",
+        "bar",
+        "bartender",
+        "dumpty",
+        "humpty",
+        "talking",
+        "offers",
+        "alcohol",
+        "plaque",
+        "beer"
+      ]
+    },
+    {
+      "clusterId": 9,
+      "topTerms": [
+        "looking",
+        "outside",
+        "window",
+        "people",
+        "man",
+        "house",
+        "woman",
+        "couple",
+        "talking",
+        "store"
+      ]
+    },
+    {
+      "clusterId": 10,
+      "topTerms": [
+        "office",
+        "psychiatrist",
+        "desk",
+        "talking",
+        "couch",
+        "therapist",
+        "man",
+        "patient",
+        "sword",
+        "notes"
+      ]
+    },
+    {
+      "clusterId": 11,
+      "topTerms": [
+        "hair",
+        "tower",
+        "man",
+        "looks",
+        "rapunzel",
+        "shock",
+        "long",
+        "phone",
+        "barber",
+        "like"
+      ]
+    },
+    {
+      "clusterId": 12,
+      "topTerms": [
+        "man",
+        "mountain",
+        "climbing",
+        "staring",
+        "leaves",
+        "old",
+        "piano",
+        "cat",
+        "huge",
+        "sitting"
+      ]
+    },
+    {
+      "clusterId": 13,
+      "topTerms": [
+        "man",
+        "woman",
+        "sitting",
+        "table",
+        "watching",
+        "door",
+        "look",
+        "king",
+        "store",
+        "opening"
+      ]
+    },
+    {
+      "clusterId": 14,
+      "topTerms": [
+        "conversation",
+        "having",
+        "man",
+        "appear",
+        "skeleton",
+        "coffins",
+        "eye",
+        "deer",
+        "coffin",
+        "cemetery"
+      ]
+    },
+    {
+      "clusterId": 15,
+      "topTerms": [
+        "boy",
+        "man",
+        "standing",
+        "dog",
+        "wearing",
+        "sharks",
+        "angry",
+        "genie",
+        "right",
+        "talking"
+      ]
+    },
+    {
+      "clusterId": 16,
+      "topTerms": [
+        "people",
+        "whale",
+        "subway",
+        "car",
+        "station",
+        "island",
+        "waiting",
+        "train",
+        "waiter",
+        "having"
+      ]
+    },
+    {
+      "clusterId": 17,
+      "topTerms": [
+        "restaurant",
+        "table",
+        "waiter",
+        "menu",
+        "sitting",
+        "man",
+        "dinner",
+        "soup",
+        "eating",
+        "reading"
+      ]
+    },
+    {
+      "clusterId": 18,
+      "topTerms": [
+        "cliff",
+        "hiking",
+        "hikers",
+        "mountains",
+        "edge",
+        "watch",
+        "walking",
+        "man",
+        "cars",
+        "nature"
+      ]
+    },
+    {
+      "clusterId": 19,
+      "topTerms": [
+        "party",
+        "bunch",
+        "woman",
+        "people",
+        "drunk",
+        "approaching",
+        "astronaut",
+        "talking",
+        "drink",
+        "diver"
+      ]
+    }
+  ]
+}

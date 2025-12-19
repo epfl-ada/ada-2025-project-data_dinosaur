@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3,"Ideally, you want the dough to rise to about 35,000 feet.",1.89726539772255,0.0071422220192235,12031,4373,4521,3137,wit-surprise,neutral
+1,"This way, it's a business trip",1.908077283173036,0.0069205733245606,11749,3895,5039,2815,sarcasm,neutral
+4,I'd sit in first class if I had enough dough.,1.8891806247170664,0.0071913773055615,11045,3834,4601,2610,wit-surprise,neutral
+6,There will be plenty for you. The two people next to me don't have mouths.,1.830181784963917,0.0078379450030498,10947,4768,3270,2909,sarcasm,positive
+7,"Yes, that is a pepperoni in my pocket.",1.82325496294941,0.0076568374600842,10931,4639,3585,2707,sarcasm,neutral
+2,You can either complain about airline food or do something about it,1.9034203242388297,0.0075032268404189,10116,3416,4261,2439,sarcasm,negative
+5,When we cross the equator it spins the other way.,1.8341718655665125,0.0077403962292911,9938,3919,3748,2271,incongruity-absurdity,neutral
+9,The trick is adding the water before you go through security.,1.818593875906527,0.0076913945986306,9928,3979,3771,2178,incongruity-absurdity,neutral
+13,I was told to pack my carry-on with the things I'd knead most.,1.7742760667144173,0.0078706454588288,9773,4310,3359,2104,incongruity-absurdity,neutral
+15,I call it New York to Chicago style.,1.7665868138735548,0.0077050606210511,9601,4118,3606,1877,incongruity-absurdity,neutral
+17,"Ya, well your laptop is bothering me.",1.7429009976976209,0.0080943820981836,9121,4199,3068,1854,sarcasm,negative
+8,It's an emotional support pizza.,1.8218790522220916,0.0089066166455119,8483,3744,2506,2233,sarcasm,neutral
+27,"So I said to myself, ""Why not? Everyone else brings his work on the plane.""",1.6702237078940605,0.0082560662489599,7778,3767,2809,1202,incongruity-absurdity,neutral
+10,"It's my fault, really. Our coupon didn't specify the delivery area.",1.788244987640758,0.0091071140646064,7282,3133,2558,1591,incongruity-absurdity,negative
+20,People don't realize the effort that goes into a plane cheese pizza.,1.7182375588193357,0.0093000854673945,7013,3393,2203,1417,sarcasm,neutral
+30,I'd sit in business class if I had a little more dough.,1.6580720773513038,0.0091094697439556,6826,3499,2162,1165,wit-surprise,neutral
+0,"If I had more dough, I'd be in first class.",2.053989488772097,0.0094934315167126,6279,1616,2708,1955,incongruity-absurdity,neutral
+18,"Because, Becky ... if I wasn’t wearing it people would look at me like I’m crazy.",1.7344013490725128,0.009912563320805,5930,2724,2057,1149,self-deprecating,negative
+31,I always try to get some work done on the plane.,1.6500085866391894,0.0094581562213636,5823,2892,2077,854,unknown,neutral
+22,One perk as an air marshal — I get to pick my own disguise.,1.7039736248481694,0.0099643082456835,5763,2754,1961,1048,sarcasm,positive
+14,I'm part of Bakers Without Borders. You?,1.7727192205491586,0.0103294115259968,5645,2487,1954,1204,incongruity-absurdity,neutral
+26,The hardest part of my job? Getting the marinara sauce into the travel size shampoo bottles.,1.6720179204778791,0.0100582545826555,5357,2618,1878,861,incongruity-absurdity,negative
+19,What's it say to do next ?,1.7213711221754118,0.0104399766627989,5222,2416,1845,961,unknown,neutral
+40,"Oh it was easy, I just registered it as an Emotional Support Pizza.",1.6084615384615384,0.0103335334778031,5200,2860,1516,824,self-deprecating,positive
+25,At this point in the flight it's probably closer to Chicago-style.,1.6723535457348406,0.0102532973372831,4865,2302,1855,708,incongruity-absurdity,neutral
+34,Is this your first time flying small business class?,1.6356811658202697,0.0110915797075887,4529,2387,1405,737,sarcasm,neutral
+24,I really should get back to the cockpit.,1.6786380597014925,0.0118312202611336,4288,2197,1272,819,sarcasm,neutral
+43,"No, no bacon topping.  Not until pigs fly.",1.5961216183864018,0.0121939329482828,4177,2481,902,794,incongruity-absurdity,neutral
+46,"I see you're catching up on work, too.",1.5858145727426771,0.0109410801740847,4131,2231,1380,520,sarcasm,neutral
+21,First time on Alitalia?,1.7172464840858623,0.0118238676929518,4053,1883,1433,737,sarcasm,neutral

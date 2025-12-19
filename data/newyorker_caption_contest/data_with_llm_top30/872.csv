@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I saw the way you looked at that giraffe.,1.71010296010296,0.0140410583831014,3108,1533,943,632,unknown,neutral
+That eventually hit the spot.,1.6771066368381804,0.0147500179611058,2682,1355,838,489,incongruity-absurdity,positive
+You haven't noticed my new necklace.,1.786034353995519,0.0152918156678511,2678,1186,879,613,sarcasm,neutral
+Does the dress make my neck look too long?,1.6498435054773084,0.0152441847622784,2556,1363,725,468,self-deprecating,negative
+"Howard be careful when you go to the restroom, there are ceiling fans.",1.692638997650744,0.0152466302358225,2554,1273,794,487,sarcasm,neutral
+It's so nice to meet someone who doesn't stare at my chest.,1.7034131031777169,0.0155663726715037,2549,1277,751,521,sarcasm,positive
+We have plenty of time to catch the ark.,1.67453213995118,0.0160803300331473,2458,1311,636,511,incongruity-absurdity,neutral
+"I'm not being hysterical, Alan. I saw nuggets shaped like us on their kids' menu.",1.6708750544188071,0.0161829966163687,2297,1193,667,437,sarcasm,neutral
+Did it go down the wrong way?”,1.628861003861004,0.0186565515065537,2072,1284,278,510,sarcasm,neutral
+I heard our future is in oil.,1.7488050982474774,0.0186467417485954,1883,912,532,439,irony,neutral
+Why is everyone here acting like we don't exist?,1.747863247863248,0.0181278472636459,1872,871,602,399,sarcasm,negative
+I was starting to believe that all the good ones were extinct.,1.6230309614340033,0.0175419535107169,1841,999,537,305,irony,negative
+"If the waiter asks us where we're from, just say Europe.",1.6333699231613612,0.0172484256412331,1822,950,590,282,sarcasm,neutral
+Did you notice how the waiter paused before recommending the littleneck clams?,1.6840934371523917,0.0180833647634526,1798,902,562,334,sarcasm,neutral
+"Don’t look, but the Rex’s are right behind you.",1.6709228090539756,0.0183807904226064,1723,878,534,311,incongruity-absurdity,neutral
+Stop complaining. Do you know how hard it is to find a vegetarian restaurant with 90-foot ceilings?,1.6208133971291867,0.0185133380232115,1672,916,474,282,irony,negative
+I'm from Great Neck. How about you?,1.612257281553398,0.0191678228738171,1648,946,397,305,incongruity-absurdity,neutral
+"Keep your eyes up here Mr.""",1.68,0.0189692717355753,1625,818,509,298,sarcasm,neutral
+You wouldn’t believe how long ago I had to make this reservation,1.6214374225526642,0.0185071699027826,1614,867,491,256,exaggeration,neutral
+"Simon, I'm just not sure we have a future...",1.6814439518682711,0.019139704837491,1579,788,506,285,sarcasm,negative
+Let’s skip dessert and go see what that big flash of light was all about.,1.6715425531914894,0.0192509311913667,1504,747,504,253,exaggeration,neutral
+Was it hard to find a place with no ceiling fans?,1.6135135135135137,0.0196003988335961,1480,817,418,245,incongruity-absurdity,neutral
+But all I did was ask for a straw.,1.6476578411405296,0.019448550593236,1473,761,470,242,sarcasm,neutral
+I wouldn't have imagined we'd be dining here in a million years.,1.7141877998629198,0.0200578265843399,1459,696,484,279,exaggeration,negative
+This was the only restaurant in town without ceiling fans.,1.6080055210489994,0.0199294126660392,1449,812,393,244,unknown,neutral
+Why do we always get a table outside?,1.6125,0.0188690625599207,1440,756,486,198,sarcasm,neutral
+Have you noticed we're the last ones here?,1.6098939929328622,0.0193953187599894,1415,760,447,208,sarcasm,neutral
+"Geez, you could go extinct waiting for some service at this place.",1.671252715423606,0.020005728235533,1381,683,469,229,sarcasm,negative
+"Is it just me, or do they seem short-staffed?",1.6189090909090909,0.0195801959890503,1375,724,451,200,sarcasm,negative
+I think we should date other chiropractors.,1.598103574033552,0.0235710362123927,1371,908,106,357,sarcasm,neutral

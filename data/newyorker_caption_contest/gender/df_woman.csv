@@ -1,0 +1,807 @@
+contest_id,date,rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+510,2016-03-07,3,"When the right woman comes along, I'll know it.",1.625,0.1166570656571728,32,15,14,3,sarcasm,positive
+510,2016-03-07,78,My ex-wife puts you all to shame.,1.3888888888888888,0.1644735886557074,18,13,3,2,sarcasm,negative
+510,2016-03-07,86,This is how I met my first wife.,1.3888888888888888,0.1644735886557074,18,13,3,2,irony,neutral
+511,2016-03-14,9,I promised to take your mother shoe shopping as soon as I was finished.,1.619047619047619,0.1614840472172682,21,11,7,3,wit-surprise,neutral
+511,2016-03-14,12,Your mother doesn't want me hurt. Only humiliated.,1.6,0.1521771820505364,20,10,8,2,sarcasm,negative
+511,2016-03-14,14,Because I promised your mother we would talk after I finished the driveway.,1.6,0.1835325870964494,20,12,4,4,irony,neutral
+511,2016-03-14,31,"Dad, is this what you meant when you told mom size doesn't matter?",1.5333333333333334,0.1652319197418807,15,8,6,1,sarcasm,neutral
+511,2016-03-14,34,Tell your mother I'll be in to meet her parents when I'm done.,1.5294117647058822,0.1740023465617534,17,10,5,2,sarcasm,neutral
+511,2016-03-14,41,"""Your mother said we should be spending more time together"".",1.5,0.1290994448735805,16,8,8,0,unknown,neutral
+511,2016-03-14,54,It's your Mom's idea.,1.4666666666666666,0.1652319197418807,15,9,5,1,sarcasm,neutral
+511,2016-03-14,60,"Quick switch shovels, Moms coming!",1.4666666666666666,0.1652319197418807,15,9,5,1,irony,neutral
+511,2016-03-14,61,No Thanks - I'm trying to beat mom's Fitbit total,1.4666666666666666,0.1918994445677132,15,10,3,2,sarcasm,neutral
+511,2016-03-14,64,"' Son, when your mother gets like that, this is how you create a little me-time.'",1.4666666666666666,0.1652319197418807,15,9,5,1,sarcasm,neutral
+511,2016-03-14,69,You'll understand one day when YOUR mother-in-law is visiting.,1.4666666666666666,0.1918994445677132,15,10,3,2,sarcasm,neutral
+512,2016-03-21,76,"""What do you mean you killed your wife""?",1.625,0.3238992347717331,8,5,1,2,sarcasm,negative
+513,2016-03-27,74,Did you see the size of that lady's purse?,1.7142857142857142,0.1844277783908292,7,2,5,0,unknown,neutral
+514,2016-04-03,79,"Mom and Dad sent you, didn't they?",1.6984126984126984,0.1002682542150743,63,32,18,13,sarcasm,neutral
+515,2016-04-10,29,Curing your fear of women was much less painful.,1.7,0.2603416558635552,10,5,3,2,sarcasm,negative
+515,2016-04-10,99,"Well, my wife thinks I'm just accident-prone.",1.6,0.2211083193570266,10,5,4,1,self-deprecating,negative
+516,2016-04-17,22,I'm certain my wife has no idea I'm cheating on her.,1.9230769230769231,0.1368856186157859,13,2,10,1,sarcasm,negative
+516,2016-04-17,34,So ...what are the chances of my ex-wife retaliating?,1.818181818181818,0.2634795772034443,11,5,3,3,unknown,negative
+516,2016-04-17,47,I slept with your wife.,1.818181818181818,0.2959785562927219,11,6,1,4,sarcasm,neutral
+516,2016-04-17,94,"My wife wants to cement our relationship, whatever that means.",1.7,0.2603416558635552,10,5,3,2,sarcasm,positive
+518,2016-05-01,21,Let's live with Mom.,1.6,0.075451202078768,90,48,30,12,irony,neutral
+518,2016-05-01,23,Mom took the beach house in the divorce,1.595505617977528,0.0761682943973293,89,48,29,12,irony,neutral
+518,2016-05-01,29,"I know where Mom hid his cigarettes, but I'm not tellin'.",1.5789473684210529,0.0863756745620432,76,44,20,12,wit-surprise,neutral
+518,2016-05-01,39,I'm thinking it's mom's turn to scoop the box.,1.5606060606060606,0.0893613389253977,66,38,19,9,unknown,neutral
+518,2016-05-01,44,"Well, actually, I've accepted it. But mother and the cat are livid.",1.554054054054054,0.0905409549797938,74,46,15,13,irony,negative
+518,2016-05-01,45,"Mom's right, we need a cover for this thing.",1.553846153846154,0.0877900939270256,65,37,20,8,incongruity-absurdity,neutral
+518,2016-05-01,56,"My therapist says the grains of sand represent the ephemeral nature of acquisition, but Mom just calls him a loser.",1.5405405405405406,0.0885716789592339,74,46,16,12,wit-surprise,negative
+519,2016-05-08,62,It's my wife's idiot nephew.,1.6610169491525424,0.0985285354196914,59,30,19,10,sarcasm,negative
+520,2016-05-15,73,And these women... They just fall for you?,1.6306306306306306,0.0664138464884665,111,55,42,14,unknown,negative
+521,2016-05-22,1,"Well, I thought your mother was joining us...",1.8654434250764529,0.0312914199103765,654,259,224,171,sarcasm,neutral
+521,2016-05-22,2,I thought your mother was joining us.,1.845679012345679,0.0374976658968941,486,209,143,134,sarcasm,neutral
+521,2016-05-22,17,I thought your mother was coming.,1.6914285714285715,0.0565386778861577,175,84,61,30,sarcasm,neutral
+521,2016-05-22,36,My ex-wife got everything except the patio furniture.,1.6470588235294117,0.0660051351454034,119,59,43,17,wit-surprise,neutral
+521,2016-05-22,58,My wife is always trying to catch me on Google Earth.,1.623931623931624,0.0672898544376568,117,61,39,17,sarcasm,neutral
+521,2016-05-22,62,"I know it's huge, but I thought your mother was joining us.",1.6134453781512603,0.0697006067112196,119,66,33,20,sarcasm,neutral
+522,2016-05-29,5,He has your mother's eyes.,1.7188841201716738,0.0256830827668079,932,454,286,192,irony,neutral
+522,2016-05-29,77,"Sir, your mother suggests that you ""make a friend"" in a less literal manner.",1.479591836734694,0.0487731126621851,196,123,52,21,sarcasm,neutral
+523,2016-06-05,28,Did I complain when you had your sisters for the weekend?,1.6188524590163935,0.0481656497583615,244,133,71,40,unknown,neutral
+523,2016-06-05,30,You said they were both girls!,1.6118721461187215,0.0492941957357527,219,117,70,32,unknown,neutral
+523,2016-06-05,41,I liked it better when you were the cat lady.,1.5898876404494382,0.0537615121526736,178,97,57,24,sarcasm,positive
+523,2016-06-05,45,"Look on the bright side. No one will call you the Crazy Cat Lady.""",1.578125,0.0475249443665311,192,99,75,18,sarcasm,positive
+523,2016-06-05,57,I'm glad you're not one of those crazy cat ladies.,1.554054054054054,0.0577539586936354,148,84,46,18,sarcasm,neutral
+523,2016-06-05,85,At least you won't be the crazy cat lady,1.5328947368421053,0.0589776995548313,152,92,39,21,unknown,neutral
+523,2016-06-05,91,I promised myself I would never become a cat lady.,1.5294117647058822,0.0580559947482417,136,78,44,14,self-deprecating,negative
+524,2016-06-12,6,Harry has his usual dream before his mother-in-law's visit.,1.6347517730496457,0.0454068084849007,282,152,81,49,irony,neutral
+524,2016-06-12,41,Sorry I called your wife hot.,1.4766355140186915,0.0668533431669502,107,68,27,12,unknown,negative
+524,2016-06-12,45,I hit a nerve when I called you a dragon with a girl tattoo.,1.471698113207547,0.0645776202194659,106,66,30,10,sarcasm,negative
+526,2016-07-03,17,I let my mother-in-law move in with us.,1.641025641025641,0.0722889403856736,117,64,31,22,unknown,neutral
+526,2016-07-03,18,I taught my mother how to use a computer.,1.6355140186915889,0.0755775077876129,107,59,28,20,incongruity-absurdity,neutral
+526,2016-07-03,51,They took into consideration that I had you for a wife.,1.5340909090909092,0.0790963587644334,88,54,21,13,unknown,neutral
+526,2016-07-03,67,"My dear wife, I have your Mother to thank for this. By the way, I haven't seen her here.",1.5172413793103448,0.0798656800838583,87,55,19,13,sarcasm,positive
+526,2016-07-03,96,"Well,after all,we did live with your mother for 20 years.",1.4938271604938271,0.0726981260268508,81,48,26,7,sarcasm,neutral
+527,2016-07-10,27,"Sorry about all the circles, my wife was driving.",1.5700934579439252,0.076412404088776,107,66,21,20,unknown,neutral
+527,2016-07-10,96,It was so nice of your wife to volunteer you.,1.4943820224719102,0.0698816954205926,89,53,28,8,sarcasm,positive
+529,2016-07-31,46,Getting away from my wife. She thinks I'm delusional.,1.6442307692307692,0.0747391146317075,104,55,31,18,irony,negative
+534,2016-09-11,83,No need to introduce yourself.... you must be my wife's attorney!,1.5326633165829149,0.0527257362185595,199,123,46,30,sarcasm,neutral
+535,2016-09-18,2,Of course I knew I was marrying a mermaid. I just didn't expect to live with my mother-in-law too.,1.859375,0.0378022615361897,512,228,128,156,sarcasm,neutral
+535,2016-09-18,63,"Call it the Mother Theresa approach,'If you can't save all the whales, just save one.'",1.532934131736527,0.055557871535111,167,100,45,22,unknown,neutral
+536,2016-09-25,17,My mother was an Escort.,1.6405228758169934,0.0646591304834974,153,86,36,31,incongruity-absurdity,neutral
+536,2016-09-25,28,"I'm tired of being the ""smart"" car. The girls all go for the muscle cars.",1.6,0.065543815711371,140,81,34,25,sarcasm,negative
+537,2016-10-02,2,He is making a life preserver for my Mother.,1.726878612716763,0.0311298192321052,692,352,177,163,incongruity-absurdity,neutral
+537,2016-10-02,66,I asked him to make my mom a new toilet seat.,1.48046875,0.0459616647710163,256,170,49,37,wit-surprise,neutral
+537,2016-10-02,96,I just feel like evolution is something that happens to other women's husbands.,1.4506437768240343,0.0478334829800625,233,161,39,33,sarcasm,neutral
+538,2016-10-09,54,"Either you're a subconscious dream manifestation of my ex-wife, or I'm in really big trouble.",1.4416666666666669,0.0459639004955847,240,165,44,31,sarcasm,negative
+538,2016-10-09,58,"Don't marry a cat lady, they said, but did I listen?",1.4364406779661016,0.0465248538927528,236,164,41,31,unknown,negative
+542,2016-11-06,1,She is Henry's only surviving wife.,1.7296137339055797,0.0368301515110416,466,227,138,101,unknown,neutral
+542,2016-11-06,16,"Actually, I think that's YOUR wife.",1.5851851851851853,0.0459783935902599,270,156,70,44,sarcasm,neutral
+542,2016-11-06,26,She's the only surviving wife of Henry the VIII.,1.562248995983936,0.0485048409659746,249,151,56,42,unknown,neutral
+542,2016-11-06,29,"Well, he did behead two of his wives.",1.5551020408163263,0.048480787868891,245,149,56,40,wit-surprise,negative
+542,2016-11-06,35,That's Lady Goodyear.,1.546218487394958,0.0470736372507978,238,141,64,33,irony,neutral
+542,2016-11-06,42,The lady doth protect too much.,1.528888888888889,0.0492124932160132,225,139,53,33,wit-surprise,neutral
+542,2016-11-06,51,Methinks the lady doth project too much,1.5,0.051842673532121,206,134,41,31,unknown,neutral
+542,2016-11-06,54,ah..there goes the executioners wife.,1.492537313432836,0.0499349840900481,201,127,49,25,unknown,negative
+542,2016-11-06,58,"The lady doth protrude too much, methinks.",1.4774193548387098,0.058850519544763,155,103,30,22,unknown,neutral
+542,2016-11-06,59,I find today's women unapproachable.,1.476683937823834,0.0482154211669294,193,120,54,19,unknown,negative
+542,2016-11-06,61,I see Henry's new wife is taking precautions.,1.476683937823834,0.0514641723453858,193,126,42,25,sarcasm,neutral
+542,2016-11-06,74,That's Lord Firestone's wife.,1.4555555555555555,0.050645873307386,180,117,44,19,sarcasm,neutral
+542,2016-11-06,75,Methinks the lady doth protect too much.,1.4555555555555555,0.0536224832996546,180,122,34,24,unknown,neutral
+542,2016-11-06,89,"That's Henry's seventh wife, she's not taking any chances!",1.442528735632184,0.0492199761408207,174,112,47,15,unknown,neutral
+543,2016-11-13,25,"That reminds me, your mother called.",1.565217391304348,0.059620050021526,161,96,39,26,sarcasm,neutral
+543,2016-11-13,76,"Which reminds me, your mother called.",1.4887218045112782,0.0609566603407151,133,84,33,16,sarcasm,neutral
+545,2016-11-27,31,"Who swiped my watering can, and WHO CHANGED THE BOY-GIRL, BOY-GIRL SEATING ??",1.65625,0.0663792201278372,160,93,29,38,unknown,negative
+545,2016-11-27,75,"Ladies, and Gentlemen, I represent the hedge fund that just bought you out.""",1.5789473684210529,0.0676818296560798,133,80,29,24,sarcasm,neutral
+545,2016-11-27,87,"The company welcomes its new CEO, who narrowly defeated a woman for the position.",1.573643410852713,0.0685318012018872,129,78,28,23,irony,positive
+547,2016-12-11,72,Not the first time a woman has led us astray.,1.5045454545454546,0.0471247724559559,220,135,59,26,sarcasm,negative
+547,2016-12-11,77,My mother warned me that chasing skirts would be the death of me.,1.4976958525345625,0.0462469347194799,217,132,62,23,sarcasm,negative
+548,2016-12-18,93,Let me guess. Your wife's in labor and you live on the moon?,1.5138121546961325,0.0551841244189301,181,115,39,27,sarcasm,neutral
+551,2017-01-15,5,"Ladies and gentlemen, if you look to your right, youâll see a gift of friendship from the people of France; straight ahead, a gift of friendship from the people of Russia",1.8951336531871144,0.02112109860051,1459,559,494,406,wit-surprise,positive
+551,2017-01-15,62,"And to your right, you'll catch our last glimpse of Lady Liberty for quite some time.",1.5714285714285714,0.0418299534020426,322,189,82,51,irony,neutral
+554,2017-02-05,29,Your wife called. She wants you to pick up a cream pie on the way home.,1.6435006435006434,0.0269599717588154,777,407,240,130,sarcasm,neutral
+554,2017-02-05,58,Your Mom and I begged you to go to a regular college.,1.566914498141264,0.0321215288848405,538,316,139,83,sarcasm,neutral
+554,2017-02-05,63,"Girls say they want a guy who's funny and spontaneous, but they don't really mean it.",1.5502008032128514,0.0327363850885149,498,295,132,71,sarcasm,neutral
+556,2017-02-19,11,"Honey, I've told you a thousand times: the mother ship is not coming back to get you.",1.6865021770682147,0.0333201116043264,689,405,95,189,sarcasm,negative
+556,2017-02-19,14,Whipping up something special for my mother?,1.6805555555555556,0.0298261516705959,720,382,186,152,irony,neutral
+556,2017-02-19,24,Iâm just whipping up a little something for your mother.,1.6363636363636365,0.0344594041454291,583,346,103,134,sarcasm,neutral
+556,2017-02-19,27,One of your Mothers recipes?,1.627027027027027,0.0328498415661038,555,308,146,101,sarcasm,neutral
+556,2017-02-19,60,Another of your mother's recipes tonight?,1.5465994962216625,0.0358797522621686,397,232,113,52,sarcasm,neutral
+556,2017-02-19,74,I see you are using your mother's recipe.,1.502994011976048,0.0397227681736489,334,212,76,46,sarcasm,neutral
+557,2017-03-06,11,Mom's apple pie? What's a Mom?,1.62453531598513,0.0478521163775919,269,152,66,51,incongruity-absurdity,neutral
+557,2017-03-06,18,Mom's apple pie? Who's mom?,1.6,0.0484291392253095,250,143,64,43,sarcasm,neutral
+557,2017-03-06,39,Oooo. Mom's apple pie! ... Wait..Who's Mom?,1.5471698113207548,0.055246171362457,212,138,32,42,sarcasm,positive
+557,2017-03-06,43,"Pie and a naked woman, I must have died and gone to Heaven.",1.534653465346535,0.0521110964162179,202,124,48,30,sarcasm,negative
+557,2017-03-06,46,Like WHOSE mother used to make?,1.5323383084577114,0.0527926105268947,201,125,45,31,sarcasm,neutral
+557,2017-03-06,52,Mom's apple pie? What's a Mom?,1.5206185567010309,0.0547945660450239,194,125,37,32,incongruity-absurdity,neutral
+557,2017-03-06,73,What do you mean 'just like mom used to make?',1.4917127071823204,0.0534958301045511,181,116,41,24,unknown,neutral
+557,2017-03-06,84,What do you mean it's your mother's recipe?,1.4827586206896552,0.0563101090294983,174,116,32,26,sarcasm,neutral
+557,2017-03-06,87,How could it be your mother's recipe?,1.4827586206896552,0.054511522403508,174,113,38,23,sarcasm,negative
+558,2017-03-12,1,"Fine, mom. You've made your point. I'll start looking for an apartment tomorrow.",1.736,0.0260764586047232,875,406,294,175,sarcasm,neutral
+558,2017-03-12,3,"Mom! When you said I could have my old room back, this isn't what I had in mind.",1.7191011235955056,0.0275904412469933,801,388,250,163,sarcasm,negative
+558,2017-03-12,5,"Hey Mom, when I asked if I can move back into my old room, this wasn't exactly what I had in mind.",1.7029972752043596,0.0289607783098364,734,367,218,149,irony,negative
+558,2017-03-12,12,"Mom, this is exactly why I don't come home to visit more often.",1.6639209225700164,0.0307332980812879,607,310,191,106,sarcasm,negative
+558,2017-03-12,31,"Mom, Dad, did you forget something?",1.5724815724815724,0.03994130005084,407,256,69,82,sarcasm,neutral
+558,2017-03-12,34,Mom...Dad...you still alive?,1.5626598465473145,0.0400189175673265,391,245,72,74,sarcasm,neutral
+558,2017-03-12,39,"This isn't exactly what I had in mind when I asked to move back in with you, mom.",1.5414364640883975,0.0385173931687898,362,218,92,52,sarcasm,negative
+558,2017-03-12,46,"Its not a phase mom, its who I am.",1.5316091954022988,0.0395254380221289,348,214,83,51,self-deprecating,neutral
+558,2017-03-12,49,"Mom... Dad... you know I can hear you, too, right?",1.5263157894736843,0.0380970174674891,342,204,96,42,sarcasm,neutral
+558,2017-03-12,50,"So, Mom, this isn't really what I had in mind when I said it would be fun to stay in my old room.",1.5250737463126844,0.0392517944384709,339,207,86,46,sarcasm,negative
+558,2017-03-12,60,"Mom, is this really the only way I can keep my health insurance?",1.509375,0.0393386594005515,320,196,85,39,irony,neutral
+558,2017-03-12,63,"Listen Mom, a lot of kids move back home after college...",1.504731861198738,0.041345963545616,317,203,68,46,unknown,neutral
+558,2017-03-12,68,"Mom, I'm off to college in August whether you like it or not.",1.493421052631579,0.0414144933877459,304,195,68,41,irony,neutral
+558,2017-03-12,70,"I love you too, Mom, but at some point you've got to let go.",1.4916943521594683,0.0401035807108223,301,188,78,35,sarcasm,positive
+558,2017-03-12,71,"Hey mom, I think I overslept.",1.4916943521594683,0.0409236162692606,301,191,72,38,sarcasm,negative
+558,2017-03-12,72,"I'm starting to feel you're not all that happy about me moving back home, Mom.",1.4916943521594683,0.0395474448902404,301,186,82,33,sarcasm,negative
+558,2017-03-12,76,"Mom, I think I'm finally ready to discuss moving out.",1.4828767123287672,0.0395501441286673,292,181,81,30,sarcasm,positive
+558,2017-03-12,81,"OK mom, you win. I'll move out.",1.4773519163763067,0.0418270725913833,287,186,65,36,sarcasm,neutral
+558,2017-03-12,87,"This seems like a really long time out, Mom.",1.471830985915493,0.0421476302166994,284,186,62,36,unknown,negative
+558,2017-03-12,88,Mom...Dad...come quick! I've grown up!,1.4695340501792116,0.0408597174295885,279,178,71,30,unknown,positive
+558,2017-03-12,90,"Mom, just thought you'd like to know I gave your breast milk 4 stars on Yelp.",1.4695340501792116,0.0450612697312156,279,192,43,44,sarcasm,positive
+558,2017-03-12,92,"Mom, I'm staying here until my caption wins the New Yorker competition.",1.4673913043478262,0.0439646704699058,276,186,51,39,irony,neutral
+558,2017-03-12,93,Mom? I overslept.,1.4654545454545456,0.0431693657175331,275,183,56,36,unknown,negative
+560,2017-03-26,39,I heard his wife left him for some big wheel inventor.,1.4835443037974685,0.0246027323214001,790,498,202,90,sarcasm,neutral
+560,2017-03-26,58,This should be fun. Heâs never seen a woman.,1.4564102564102563,0.0289908753060037,585,389,125,71,unknown,positive
+562,2017-04-09,35,I know Mom will love you. Dad may eat you.,1.5491803278688523,0.0446885064252147,244,139,76,29,unknown,positive
+562,2017-04-09,52,"Mom, am I adopted?",1.5,0.0545272809745151,174,110,41,23,sarcasm,neutral
+562,2017-04-09,60,"Tell me the truth, Mom. Was I adopted?",1.4910179640718564,0.0536310596716808,167,104,44,19,sarcasm,neutral
+563,2017-04-17,13,"It's not as glamorous as you think, Mom.",1.548913043478261,0.0509938592543774,184,104,59,21,unknown,negative
+563,2017-04-17,17,I'm working from home until my wife can get the kid another hamster.,1.5330188679245282,0.0450463183098178,212,118,75,19,irony,neutral
+563,2017-04-17,84,Call my wife and tell her I'm running late.,1.404040404040404,0.0640796632357128,99,67,24,8,unknown,negative
+563,2017-04-17,87,Mom! I got the job! And my own office!,1.4035087719298245,0.0862024236687711,57,39,13,5,sarcasm,positive
+564,2017-04-24,96,Get a picture and email it to my wife. I'm going to have to explain several charges to Hooters.,1.4404761904761905,0.0424736207071169,252,167,59,26,sarcasm,neutral
+565,2017-05-01,8,Your wife said it's best if you don't know who the father is.,1.6561264822134387,0.0518015676253245,253,144,52,57,irony,neutral
+567,2017-05-14,12,This would be a completely different cartoon if I were a woman.,1.6956521739130437,0.0213824171559333,1357,690,390,277,sarcasm,negative
+567,2017-05-14,22,It's only awkward when my wife sleeps in.,1.604994324631101,0.0240530604598418,881,467,295,119,incongruity-absurdity,neutral
+569,2017-05-29,62,A woman would have just leaned in.,1.464,0.0428270079557487,250,160,64,26,sarcasm,neutral
+570,2017-06-05,38,I'll get the cat lady.,1.5572815533980582,0.0316436871301735,515,297,149,69,unknown,neutral
+571,2017-06-11,13,My ex-wife got the rest of the boat.,1.672077922077922,0.0161054986240914,2156,1072,719,365,incongruity-absurdity,neutral
+571,2017-06-11,53,The wife got the boat.,1.4678492239467849,0.0314143731724716,451,284,123,44,irony,neutral
+571,2017-06-11,83,I know. I know. But it was my mom's.,1.4155251141552512,0.0315374469792089,438,298,98,42,irony,neutral
+571,2017-06-11,95,My ex-wife got the rest.,1.4,0.0328272464152467,380,260,88,32,unknown,neutral
+573,2017-07-02,96,It turns out that my mother was right. I have nothing between my ears.,1.528735632183908,0.036995511299834,435,280,80,75,self-deprecating,neutral
+574,2017-07-09,96,"Your mother wants hers ""well done,"" so I figured I wouldn't waste a steak on her.",1.4617224880382775,0.0333517636169575,418,270,103,45,sarcasm,neutral
+576,2017-07-30,26,Has your mother left?,1.6305309734513274,0.0360753082066636,452,247,125,80,sarcasm,neutral
+576,2017-07-30,52,"If I'd known your mother is a witch, I would have been nicer to her.",1.55956678700361,0.0469143000745939,277,172,55,50,sarcasm,negative
+576,2017-07-30,54,Is your mother gone yet?,1.5517241379310345,0.044858181764689,261,153,72,36,sarcasm,neutral
+577,2017-08-06,3,Your mother and I don't think working from home is a good idea.,2.045072002992332,0.0107284619325257,5347,1530,2046,1771,unknown,negative
+579,2017-08-27,71,"Cats have nine lives, not eight wives.",1.5430711610486891,0.0307146438855616,534,312,154,68,unknown,neutral
+579,2017-08-27,79,"Get a grip Arthur, your father was a Chicago cat named Three Toes and your mother was a Persian stripper...",1.535070140280561,0.0310859352718838,499,290,151,58,sarcasm,negative
+581,2017-09-10,1,Take it. You mother worries.,1.710144927536232,0.0948401294811483,69,34,21,14,sarcasm,neutral
+581,2017-09-10,2,Your mother wanted me to give you this.,1.704526046114432,0.0252537685163192,1171,661,195,315,unknown,neutral
+581,2017-09-10,8,"Yes, 'honor thy mother' means wearing the sweater she knitted you.",1.6421052631578947,0.0532076521169335,190,97,64,29,sarcasm,positive
+581,2017-09-10,29,"Not now, Mom!",1.5195530726256985,0.0556520921906262,179,113,39,27,unknown,neutral
+581,2017-09-10,38,Your mom wanted me to give you this.,1.5075376884422111,0.0546638823185283,199,132,33,34,unknown,neutral
+581,2017-09-10,45,Mom?,1.4972375690607735,0.0551933425137775,181,118,36,27,unknown,neutral
+581,2017-09-10,68,And mother insists I give you this.,1.4675324675324677,0.0576606093994154,154,102,32,20,unknown,neutral
+581,2017-09-10,75,And this commandment is from your mother.,1.4635761589403973,0.0562043217031319,151,98,36,17,unknown,neutral
+581,2017-09-10,92,...so it's true . You are a woman,1.4545454545454546,0.0609579723620426,143,98,25,20,unknown,positive
+581,2017-09-10,97,"Honour thy father and mother. Also, your mother says to wear a sweater.",1.451851851851852,0.0582768203092196,135,88,33,14,wit-surprise,positive
+582,2017-09-18,39,My wife and I hit a bump at 45 mph--I'd like to report four missing children.,1.6611418047882136,0.0328529925138168,543,282,163,98,unknown,negative
+582,2017-09-18,47,I'll be home in ten...your mother in twelve.,1.6300174520069808,0.0292055281460384,573,285,215,73,unknown,neutral
+582,2017-09-18,97,"We do everything together Mom, he's still distant.",1.5071090047393365,0.048152351804117,211,129,57,25,irony,neutral
+583,2017-09-25,41,The anti-groping device has decreased women's complaints by 90%.,1.6962962962962962,0.0285465298196647,675,319,242,114,irony,positive
+584,2017-10-01,18,Looks like the women's healthcare committee just got out.,1.936936936936937,0.0347267601989514,555,204,182,169,unknown,neutral
+585,2017-10-09,12,Could you please rub the coffee pot? I need to talk to my wife.,1.778014486578611,0.016100672403993,2347,1032,804,511,unknown,neutral
+585,2017-10-09,53,"Let me get this straight. It's world peace, the girl of your dreams, and a tall Colombian roast?",1.581532416502947,0.031333713559265,509,278,166,65,unknown,neutral
+585,2017-10-09,97,"My wife is in the lamp, and I'll give you ten wishes NOT to rub it.",1.5186440677966102,0.0415384223978997,295,180,77,38,wit-surprise,negative
+587,2017-10-23,6,"""Male leaping one lane of the Interstate"" was powerful, but ""Mother and Child contemplating I95"" is beautiful.",1.883204134366925,0.017859176840972,1935,723,715,497,sarcasm,positive
+587,2017-10-23,15,"Oh, please, every work of art reminds you of your mother.",1.7878602084610669,0.0186691815475853,1631,673,631,327,sarcasm,positive
+587,2017-10-23,36,Yep. Mom and me. No permission asked. Not a penny in royalties.,1.6626506024096386,0.023700097470224,996,503,326,167,unknown,neutral
+587,2017-10-23,43,That's my first wife. She got custody.,1.646525679758308,0.0242846379958613,993,528,288,177,unknown,neutral
+587,2017-10-23,60,"For a moment, I thought it was the ladies' room.",1.6138917262512769,0.0239248785972127,979,536,285,158,incongruity-absurdity,neutral
+587,2017-10-23,70,"Ah, 'Mother and Child' by Doe Vinci.",1.596717467760844,0.0253022178065956,853,474,249,130,sarcasm,neutral
+588,2017-10-30,2,"Is he religious? Mom, heâs practically a fixture at the church next door.",1.912472647702407,0.0181813575040264,1828,639,710,479,unknown,neutral
+588,2017-10-30,16,"Yes Mother, I'm seeing someone!",1.7301173402868315,0.0193694214575433,1534,704,540,290,sarcasm,positive
+588,2017-10-30,19,"Gotta go, Mom. The guy's here with the cathedral.",1.697228144989339,0.0208140006679909,1407,706,421,280,wit-surprise,neutral
+588,2017-10-30,31,"Yes, Mom, I've found someone to watch my plant while I'm away.""",1.615819209039548,0.0242319062162457,885,465,295,125,sarcasm,positive
+588,2017-10-30,34,"Yes, Mom, I met him at church.",1.6109756097560977,0.0251533081718279,820,434,271,115,sarcasm,neutral
+588,2017-10-30,49,and Mom he studies architecture at Notre Dame.,1.566600397614314,0.0313089368308204,503,280,161,62,irony,neutral
+588,2017-10-30,58,"Yes, mother. I really am seeing someone.",1.5477855477855478,0.0351045441697,429,254,115,60,sarcasm,neutral
+588,2017-10-30,68,"Mom, it's more than just a hunch, he's a dead ringer.",1.5210843373493976,0.0405675809135639,332,208,75,49,wit-surprise,negative
+588,2017-10-30,91,"Yes mom, for the most part, the restraining order is working",1.4883720930232558,0.0433258817389792,258,162,66,30,sarcasm,positive
+588,2017-10-30,92,"Actually mom, I am seeing someone.",1.4883720930232558,0.0453664096592878,258,168,54,36,sarcasm,neutral
+588,2017-10-30,96,"For the last time, Mother, I live in an Upper East Side doorman building on the 17th floor. What âcreepsâ are going to bother me here?",1.4684684684684686,0.0431333785712971,222,136,68,18,sarcasm,negative
+589,2017-11-06,27,And for the lady?,1.7573852922690132,0.0198857737145714,1591,740,497,354,unknown,neutral
+589,2017-11-06,58,I regret that we had to seat your wife at a separate table.,1.636520241171404,0.0213626562045547,1161,595,393,173,unknown,negative
+589,2017-11-06,69,And for the lady?,1.6221198156682028,0.0225688254820597,1085,582,331,172,unknown,neutral
+590,2017-11-13,58,He's a great artist but he also ate my wife so...my opinion is mixed.,1.6616915422885572,0.0218210931189712,1206,619,376,211,sarcasm,negative
+591,2017-11-20,25,Tell me again about how much you loofah your mother.,1.0,0.0606339062590832,17,17,0,0,sarcasm,negative
+591,2017-11-20,29,Now you have to wash that girl right out of your hair.,1.0,0.0606339062590832,17,17,0,0,sarcasm,negative
+591,2017-11-20,45,Help me to understand how I remind you of your mother.,1.0,0.0606339062590832,17,17,0,0,sarcasm,neutral
+591,2017-11-20,57,"C'mon, Mom said to scrub.",1.0,0.0606339062590832,17,17,0,0,unknown,neutral
+591,2017-11-20,59,Your mother sent these over. We can talk more about Rubber Duckie when you finish your bath.,1.0,0.0606339062590832,17,17,0,0,irony,neutral
+593,2017-12-04,1,"No, my wife served the papers personally.",2.0381205673758864,0.0171410467348692,2256,706,758,792,unknown,neutral
+593,2017-12-04,3,"...oh, and there's a note from your mother.",2.012561983471074,0.0148730641626633,3025,993,1001,1031,sarcasm,neutral
+593,2017-12-04,10,I have reason to believe that my wife found our love letters.,1.9411764705882355,0.0241107923765896,1105,389,392,324,wit-surprise,positive
+593,2017-12-04,21,My wife served the papers herself.,1.855256475368208,0.0178289408687944,1969,779,696,494,unknown,neutral
+593,2017-12-04,34,I need to order some Post-It Notes for my wife.,1.7384428223844282,0.0263554355305165,822,370,297,155,unknown,neutral
+593,2017-12-04,93,I believe my wife chose to serve me the papers herself.,1.5897435897435896,0.0359874199350924,429,243,119,67,irony,neutral
+594,2017-12-11,24,I bet they don't know his wife jogs up this path every morning.,1.6652977412731007,0.0246722922969652,974,506,288,180,unknown,negative
+594,2017-12-11,67,Third girl this week. And they say weâre shady.,1.506060606060606,0.039159432656211,330,205,83,42,sarcasm,negative
+594,2017-12-11,98,It's so hard to tell the male and female of the species apart ...,1.4701195219123506,0.0408136170570602,251,154,76,21,sarcasm,negative
+595,2017-12-18,25,"He says he used to know his wife's size, but with global warming...",1.682890855457227,0.0207832337054668,1356,680,426,250,wit-surprise,neutral
+596,2017-12-25,43,"So I tells my old lady, 'Oh yeah, well, maybe I'll have two tonight, and maybe I won't come home.",1.482084690553746,0.0392402276674748,307,193,80,34,unknown,neutral
+597,2018-01-01,15,Ted thought this girls' trip was a great idea. He even packed for me.,1.765856777493606,0.0087358785850412,7820,3463,2725,1632,sarcasm,positive
+597,2018-01-01,35,I envy you single girls; you always have less baggage.,1.6596289187460014,0.0130664727793692,3126,1547,1096,483,sarcasm,positive
+597,2018-01-01,37,But I had to ship his mother UPS.,1.6538952745849298,0.0136189224177738,3132,1639,938,555,unknown,neutral
+597,2018-01-01,74,Wait until he finds out I am headed to my mother's.,1.5815247634947134,0.0175257575323952,1797,1029,491,277,sarcasm,neutral
+597,2018-01-01,84,I brought some souvenirs back for my sister.,1.5683453237410072,0.0244881714202205,834,466,262,106,incongruity-absurdity,neutral
+598,2018-01-08,25,"So Ray, the last thing I remember is my wife driving me to the airport saying, âYou want a man cave? Iâll give you a man cave!â",1.6262870987280436,0.018717768054136,1651,901,466,284,unknown,neutral
+598,2018-01-08,44,My wife had the better lawyer,1.5711645101663585,0.0224408170935098,1082,626,294,162,unknown,positive
+598,2018-01-08,68,I'm the second to try a bouncy ball on a mountain cliff. My late wife was the first.,1.5085803432137286,0.0285421080309605,641,402,152,87,incongruity-absurdity,neutral
+599,2018-01-15,18,My wife got a matching bracelet.,2.0,0.0106733858991767,133,1,131,1,unknown,positive
+599,2018-01-15,26,"The wife wanted a dog, but those wonât be domesticated for another 3,000 years.",1.990697674418605,0.0065623509578706,215,2,213,0,irony,negative
+599,2018-01-15,98,"Don't worry, Mom. I've got an extra one.",1.0,0.0444554224474387,23,23,0,0,sarcasm,positive
+600,2018-01-22,74,"You learned that men are from Mars, women are from Venus, and cats are from Uranus?",1.981818181818182,0.0183493960854393,55,1,54,0,wit-surprise,neutral
+602,2018-02-05,43,"And tomorrow when you wake up, you'll be a gingerbread woman.",1.8090809628008755,0.0191156143284541,1828,818,541,469,sarcasm,positive
+602,2018-02-05,95,Would you like to donate your body to the Girl Scouts?,1.699672131147541,0.0196835014398868,1525,748,487,290,unknown,neutral
+603,2018-02-12,97,Sheldon. Mom wants you to come home.,1.573109243697479,0.0220372829535426,1190,706,286,198,unknown,neutral
+604,2018-02-19,90,And the other restroom will have a lady mammoth,1.506375227686703,0.03024611565489,549,340,140,69,unknown,neutral
+605,2018-02-26,0,"Son, your Mom and I want you back in the picture.",1.856748296814583,0.0106844637413928,5431,2128,1953,1350,sarcasm,positive
+605,2018-02-26,8,"Due to NEA budget cuts, the painting you would have seen here will be described by my wife, Ethel, her sister, Irene, and myself.",1.754063874545802,0.0109898917294457,5229,2452,1611,1166,wit-surprise,neutral
+605,2018-02-26,42,That's my wife you're calling derivative.,1.5707280271595625,0.0139212805920929,2651,1494,801,356,sarcasm,negative
+605,2018-02-26,63,"Sure, you have time to go to an art gallery, but not to call your poor mother and father",1.5,0.0198902959372645,1232,762,324,146,unknown,negative
+606,2018-03-05,92,"Ladies and gentlemen, off of our left wing you'll see an example of the increasingly rare hobo-cumulus formation.",1.5217391304347827,0.1647799492938801,23,15,4,4,unknown,neutral
+606,2018-03-05,100,"No, if Mom finds out we picked up a hitchhiker, sheâll never let us fly her plane again.",1.5,0.1577712739752547,22,14,5,3,sarcasm,negative
+607,2018-03-12,0,My only regret is that he never got around to visiting your mother.,1.9791271347248576,0.0129021466394451,4216,1524,1256,1436,wit-surprise,negative
+607,2018-03-12,19,Does this mean your mother will be living with us forever?,1.82053312219583,0.0130490826891878,3789,1623,1223,943,sarcasm,neutral
+607,2018-03-12,64,"All I said was, âwould it kill you to call your mother once in awhile?â",1.6527242707760044,0.0181072273932342,1817,966,516,335,sarcasm,neutral
+607,2018-03-12,90,Was this your mother's only outfit?,1.6118577075098814,0.0220925572693259,1265,731,294,240,unknown,neutral
+608,2018-03-19,50,Did you or did you NOT offer to show Sister Margaret your huge organ?,1.6277326670830732,0.0191166643865891,1601,877,443,281,unknown,neutral
+611,2018-04-09,4,I don't know Mom. I'm starting to think maybe I was adopted.,1.834063869755792,0.0112589281617199,4791,1918,1750,1123,sarcasm,negative
+614,2018-04-30,31,Your wife says she can still hear it.,1.7012867647058822,0.0134885658303474,3264,1602,1035,627,irony,neutral
+614,2018-04-30,47,Mom says just to call it âUnfinishedâ and come home for dinner.,1.6174575278265964,0.0179394784062028,1707,920,520,267,irony,neutral
+614,2018-04-30,54,Mom always told me you'd just gone to the store for cigarettes.,1.600231749710313,0.0247334569882901,863,469,270,124,irony,neutral
+614,2018-04-30,89,Mom says you can stop practicing now.,1.5510718789407314,0.0253681664717262,793,460,229,104,unknown,neutral
+615,2018-05-07,0,"I can hear the wife now: ""You caught it, you clean it.""",1.932124259292512,0.0108112627372414,5569,2014,1919,1636,unknown,neutral
+615,2018-05-07,2,I've finally caught something my wife will let me hang in the living room.,1.88521836506159,0.0107231337483127,5358,1993,1987,1378,unknown,positive
+615,2018-05-07,4,Too bad it's catch and release. My wife would love this.,1.8596428571428567,0.0104067251688953,5600,2146,2094,1360,unknown,negative
+615,2018-05-07,7,"Finally, something my wife will let me mount in the living room.",1.8374339347548752,0.0104782743055336,5487,2171,2037,1279,unknown,positive
+615,2018-05-07,20,My wife told me to bring home something nice for dinner.,1.718248175182482,0.0198800983219099,1370,618,520,232,unknown,positive
+615,2018-05-07,22,The irony of it is that I told my wife that I couldn't go antiquing.,1.709066305818674,0.0139497869447005,2956,1405,1006,545,unknown,negative
+615,2018-05-07,56,"If my wife asks, it took all day to clean the chandelier.",1.57625,0.025368027966885,800,447,245,108,unknown,neutral
+615,2018-05-07,57,My wife said I couldn't go fishing until I cleaned the chandelier. So.......,1.575910931174089,0.0234295680994758,988,566,275,147,wit-surprise,neutral
+615,2018-05-07,60,"Well, I finally caught something my wife will like.",1.5739583333333331,0.0235075217389635,960,546,277,137,unknown,positive
+615,2018-05-07,62,"Finally, something my wife will let me put up in the living room.",1.5736906211936663,0.0252374045370934,821,464,243,114,unknown,positive
+615,2018-05-07,84,"I promised you we'd go fishing, I promised Mom I'd clean the chandelier",1.5516304347826086,0.0271936855009876,736,439,188,109,incongruity-absurdity,neutral
+617,2018-05-21,84,"If Iâd known that this is all it amounts to, I wouldâve killed your mother right off the bat.",1.59192348565356,0.0250555856258183,941,548,229,164,sarcasm,negative
+618,2018-05-28,43,3D printer. My wife thinks its real.,1.6453045685279188,0.0111613515931873,4728,2528,1349,851,unknown,neutral
+619,2018-06-04,15,I see my wife stopped by.,1.768383543893748,0.0142312881615552,3087,1405,992,690,unknown,neutral
+619,2018-06-04,78,"Well, that's about everyone. Should we let the women try?",1.5114285714285711,0.0393826994722081,350,222,77,51,unknown,neutral
+621,2018-06-18,33,You're not the first woman to come here looking for something more appropriate for the workplace.,1.6982881597717547,0.0205981108938521,1402,692,441,269,unknown,neutral
+622,2018-06-25,1,My wife got the house.,1.7663934426229508,0.0518959218722179,244,115,71,58,irony,neutral
+622,2018-06-25,67,My wife thinks I'm vegan.,1.4130434782608696,0.1010863072027351,46,32,9,5,irony,neutral
+623,2018-07-02,15,Any chance you can do that with a pig?  My wife would have to let me get a motorcycle if you could.,1.817066760119152,0.0107583153042145,5707,2502,1747,1458,unknown,neutral
+624,2018-07-09,6,Yes mother! I was wearing clean underwear.,1.8842616920651605,0.0091127401626081,7612,2897,2699,2016,unknown,positive
+624,2018-07-09,22,"I get it, Mom, I havenât visited in a while.",1.6696824224519942,0.0099577968396181,5416,2644,1917,855,unknown,neutral
+624,2018-07-09,25,"For the hundredth time, lady, I'm not interested in jumping your bones!",1.618919825561892,0.0137072753733672,2981,1619,879,483,sarcasm,negative
+624,2018-07-09,42,"No Mom, I'm still not seeing anyone.",1.4997111496244946,0.0168153526650757,1731,1073,451,207,sarcasm,negative
+624,2018-07-09,46,My mother's still trying to fix me up.,1.4920331421287445,0.01858931490286,1569,1026,314,229,unknown,neutral
+624,2018-07-09,52,Sorry... Iâm just not into older women.,1.4774143302180685,0.0192167144571926,1284,815,325,144,sarcasm,negative
+624,2018-07-09,56,I don't date older women!,1.4665461121157324,0.0204132437330765,1106,707,282,117,irony,negative
+624,2018-07-09,60,"Fine, Mom, I should have eaten my veggies. You happy now?",1.4603174603174602,0.0205919529171272,1008,634,284,90,unknown,positive
+624,2018-07-09,67,"Mothers are forever, son.",1.4444444444444444,0.0236332675961349,810,533,194,83,unknown,positive
+624,2018-07-09,70,"Lady, I'd buy you a drink, but clearly you can't hold your liquor.",1.4390581717451525,0.0250179475979919,722,479,169,74,sarcasm,negative
+624,2018-07-09,74,"You made it! I told you the family plot was a good idea - we are going to have SUCH a good time! I'll show you around, introduce you to all the neighbors - well, not all the neighbors. There is this one woman, Sheila, don't get me started, she ...",1.4344827586206896,0.0247732306496218,725,482,171,72,sarcasm,positive
+625,2018-07-16,24,I've been carbon-dating your sister.,1.661073267984715,0.0099617671306248,6019,3163,1733,1123,sarcasm,neutral
+625,2018-07-16,75,"Ladies and gentleman, next up to bat...President Trump as seen by the rest of the planet!",1.4643696162881754,0.020392719596942,1277,864,233,180,sarcasm,neutral
+626,2018-07-23,14,Fire that idiot in purchasing. Get me a CHEVY Bronco and for Heaven's sake CANCEL MY WIFE'S JAGUAR!!,1.7314685314685314,0.0096057338083565,7150,3576,1918,1656,unknown,negative
+626,2018-07-23,48,"Honey, I found the perfect horse for your mother.",1.5178316690442226,0.027792467385987,701,440,159,102,sarcasm,positive
+626,2018-07-23,67,"Guess what, Mom.  I made pardner.",1.4815217391304347,0.0221733320919418,920,570,257,93,incongruity-absurdity,neutral
+627,2018-07-30,23,"You can come back in, sir. Your wife just left.",1.7436988027725269,0.0098787940908267,6348,2988,1999,1361,unknown,neutral
+628,2018-08-06,19,"So then I tell her, âWell after two days your mother stinks too.â",1.89788179916318,0.0090114117444074,7648,2805,2819,2024,sarcasm,negative
+628,2018-08-06,54,"Since The Shape of Water, I've been beating women off with a stick!",1.672351885098743,0.0158265359710129,2228,1106,746,376,wit-surprise,neutral
+628,2018-08-06,67,I tell all the girls that I'm rich in Omega-3.,1.6316685584562998,0.0174048552097445,1762,914,583,265,sarcasm,positive
+629,2018-08-13,0,"In retrospect, I should have been more specific when I told the genie I wanted to be in a rock group and have women climbing all over me.",2.0122547332185885,0.0069041071957542,14525,4940,4467,5118,sarcasm,neutral
+629,2018-08-13,6,"...and then for my third wish I said, 'I want women climbing all over me!'",1.783617747440273,0.0087506243201763,7325,3018,2874,1433,unknown,neutral
+629,2018-08-13,17,"The ad said ""meet challenging women in a relaxed environment...""",1.6938435940099834,0.0212085258234415,1202,565,440,197,irony,neutral
+630,2018-08-20,3,Is your mom still in the lounge chair?,1.966448530175548,0.0083790358973982,9627,3420,3110,3097,sarcasm,neutral
+630,2018-08-20,14,Iâm just saying it might have been helpful to know that the travel agent is your ex-wife.,1.8113942712721145,0.0081133479717762,9496,4032,3223,2241,sarcasm,neutral
+630,2018-08-20,44,It's still better than last year when you brought your mother.,1.6189097925711529,0.016053408835654,2073,1099,665,309,unknown,positive
+630,2018-08-20,100,Should we wake up your mother?,1.4671848013816926,0.0204854231947991,1158,754,267,137,sarcasm,neutral
+632,2018-09-03,27,We think they had a woman on the inside.,1.7176667463542912,0.011515088321717,4183,1917,1530,736,unknown,neutral
+633,2018-09-10,4,"'Two more times, Dad, then we need to pick up Mom at ballet class.""",1.8354987007795325,0.0077656908239817,10006,3977,3698,2331,unknown,neutral
+633,2018-09-10,19,"I donât care what your mother said, Iâm not ready to go home yet.",1.6219709208400646,0.0203000851209479,1238,638,430,170,sarcasm,negative
+633,2018-09-10,69,"Look away, kid.  This lady is about to recall a tough life lesson about skirts and hot metal slides.",1.4839255499153976,0.0201572996123923,1182,746,300,136,sarcasm,negative
+633,2018-09-10,84,Call your mother and tell her thereâs traffic,1.4598108747044918,0.0226311299800915,846,535,233,78,sarcasm,neutral
+635,2018-09-24,49,My ex-wife says I have intimacy issues.,1.5849056603773586,0.0593880415465939,159,91,43,25,self-deprecating,negative
+635,2018-09-24,59,Mom said thereâd be knights like this,1.574585635359116,0.0554691730298834,181,105,48,28,irony,neutral
+636,2018-10-01,53,"You donât scare me, I married your sister",1.5089974293059123,0.0375856259678292,389,249,82,58,sarcasm,neutral
+636,2018-10-01,71,"It's the 1st time my wife made my lunch in 25 years, why do you ask?",1.497584541062802,0.0356658043373247,414,265,92,57,sarcasm,neutral
+636,2018-10-01,72,"If youâre free tonight, weâre having my mother-in-law over for dinner.",1.4960212201591512,0.0375850552458097,377,243,81,53,sarcasm,neutral
+636,2018-10-01,79,My wife forgot to put cheese in my sandwich.  Can this day get any worse?!,1.4908616187989556,0.0361993184795767,383,243,92,48,sarcasm,negative
+637,2018-10-08,1,Your wife said for me to tell you that you're doing it wrong.,1.5526315789473684,0.0520780069558943,228,144,42,42,sarcasm,negative
+637,2018-10-08,76,"You really think Mother plays favorites?""",1.4278846153846154,0.0464551338392587,208,140,47,21,sarcasm,neutral
+637,2018-10-08,77,"Here, we see homo domesticus Americanus performing his annual autumn ritual, in the hope of currying favor with the female of the species.  Please do not feed.",1.4272727272727272,0.0455209146017089,220,149,48,23,unknown,negative
+638,2018-10-15,0,I wear the pants but my wife controls them.,1.691358024691358,0.0674237837436846,162,92,28,42,incongruity-absurdity,neutral
+638,2018-10-15,1,"I wear the pants, but my wife has the remote.",1.6451612903225807,0.0639057849439152,155,86,38,31,wit-surprise,neutral
+638,2018-10-15,6,The puppy wasn't attracting the type of women I'm interested in.,1.5766871165644172,0.0589589463290217,163,95,42,26,sarcasm,negative
+638,2018-10-15,9,My wife forgave me for the affair.  With conditions.,1.5561497326203209,0.0572902237509651,187,117,36,34,unknown,positive
+638,2018-10-15,19,My wife has the remote,1.5286624203821657,0.0589530504327593,157,97,37,23,unknown,neutral
+638,2018-10-15,25,My wife is at the controls . . . long story.,1.521472392638037,0.0572921646610789,163,101,39,23,irony,neutral
+638,2018-10-15,41,Actually my wife has the controls.,1.4842767295597483,0.0541674184354631,159,99,43,17,sarcasm,neutral
+638,2018-10-15,81,Of course my wife has the remote control.,1.4545454545454546,0.05468078801162,165,110,35,20,unknown,neutral
+638,2018-10-15,87,My wife got the bra version.,1.4502923976608186,0.0532169412944158,171,114,37,20,sarcasm,neutral
+641,2018-11-05,3,Hello? Is this 'single working woman with border collie wishes to meet ideal mate?',1.608108108108108,0.0618664878724404,148,82,42,24,sarcasm,neutral
+641,2018-11-05,15,Check out channel 12. This idiot woman has a house full of cats.,1.578125,0.0578737485682589,192,119,35,38,sarcasm,negative
+641,2018-11-05,23,"Well Mom, coming from someone with 6 cats, that seems a bit hypocritical!",1.5625,0.0612292192959985,160,98,34,28,sarcasm,negative
+642,2018-11-12,22,"Until that day, Inez couldn't recall any cautionary tales of a woman enticed into a dark alley by a stack of hotcakes covered in real maple syrup",1.4716312056737588,0.04054614562579,282,179,73,30,sarcasm,neutral
+642,2018-11-12,60,"Just keep walking, lady, and no one will gain weight.",1.407725321888412,0.042636337834272,233,159,53,21,sarcasm,neutral
+642,2018-11-12,80,"It's non-vegan, sugar filled, packed with gluten, and will make you forget your ex-husband's young new wife.",1.3933823529411764,0.0411648164459036,272,195,47,30,unknown,negative
+643,2018-11-19,3,This next piece is dedicated to my ex-wife.,1.518348623853211,0.048314639944208,218,133,57,28,wit-surprise,neutral
+643,2018-11-19,24,I would like to dedicate this to my ex-wife.,1.465346534653465,0.0501849752502115,202,134,42,26,sarcasm,neutral
+643,2018-11-19,69,This next oneâs dedicated to my ex-wife.,1.422330097087379,0.046230712179248,206,139,47,20,irony,neutral
+643,2018-11-19,85,I dedicate this song to my father and mother who had different plans for me.,1.4195121951219511,0.0458518269422646,205,138,48,19,irony,neutral
+643,2018-11-19,96,This one's going out to my ex-wife and her attorney.,1.416289592760181,0.0443661324860079,221,150,50,21,unknown,neutral
+644,2018-11-26,7,This next piece is dedicated to my ex-wife.,1.4983498349834985,0.0401825733755934,303,188,79,36,wit-surprise,neutral
+644,2018-11-26,18,This next oneâs dedicated to my ex-wife.,1.4740484429065743,0.0407269114510573,289,185,71,33,irony,neutral
+644,2018-11-26,25,I would like to dedicate this to my ex-wife.,1.4664179104477613,0.0433867541595093,268,177,57,34,sarcasm,neutral
+644,2018-11-26,41,"Ladies and Gentlemen,.. Rhapsody in Black and Blue.",1.4545454545454546,0.0401387001219382,297,196,67,34,wit-surprise,neutral
+644,2018-11-26,68,I dedicate this song to my father and mother who had different plans for me.,1.4335664335664335,0.0393540286198812,286,190,68,28,irony,neutral
+644,2018-11-26,70,And this next piece is for my ex-wife.,1.4332129963898916,0.0405990369762111,277,186,62,29,irony,neutral
+644,2018-11-26,93,This one's going out to my ex-wife and her attorney.,1.4215686274509804,0.0379787236024017,306,207,69,30,unknown,neutral
+645,2018-12-03,29,"Geez, you've said no to the igloo, the lighthouse, the old woman's shoe and now this.  What ARE you looking for?",1.5789473684210529,0.0658088777470669,114,62,38,14,unknown,negative
+645,2018-12-03,81,I have one more place to show you.  It is owned by a little old lady who has a of lot kids.,1.5213675213675213,0.0602067987891546,117,66,41,10,incongruity-absurdity,neutral
+646,2018-12-10,1,"Oh, shit! What if your sister-in-law is also right about God?",1.646643109540636,0.0467825957943094,283,155,73,55,sarcasm,negative
+646,2018-12-10,99,That reminds me; did you call your Mother?,1.4890829694323144,0.0469768479564196,229,146,54,29,sarcasm,neutral
+647,2018-12-17,2,"Oh, shit! What if your sister-in-law is also right about God?",1.6375838926174495,0.0454539767260369,298,165,76,57,sarcasm,negative
+647,2018-12-17,94,That reminds me; did you call your Mother?,1.4916666666666667,0.0464918772867849,240,154,54,32,sarcasm,neutral
+648,2018-12-24,5,"And now, ladies and gentleman, I will turn my assistant into an accomplice.",1.605095541401274,0.0617917732298515,157,90,39,28,sarcasm,neutral
+648,2018-12-24,16,"Ladies & Gentlemen, I call this one the ""Florida Ballot Box""",1.5555555555555556,0.0636694985752983,135,80,35,20,unknown,neutral
+648,2018-12-24,17,The President says thereâs not a âshred of evidenceâ and yet ladies and gentlemen âhere we are.â,1.5555555555555556,0.0587422814041867,162,97,40,25,irony,neutral
+648,2018-12-24,23,"Ladies and gentlemen, hereâs a little trick I learned while attending Trump University...",1.543010752688172,0.0550173452817477,186,114,43,29,sarcasm,neutral
+648,2018-12-24,28,"And last, your mother's string bean casserole recipe.",1.5337423312883436,0.0559171657391024,163,97,45,21,wit-surprise,neutral
+648,2018-12-24,49,"And now, ladies and gentlemen, the translator's notes.",1.5,0.0519633160964472,180,111,48,21,wit-surprise,neutral
+648,2018-12-24,50,Ladies and gentlemen: how magic is used to count votes in North Carolina.â,1.5,0.0587090006286717,158,102,33,23,sarcasm,neutral
+648,2018-12-24,83,Another summons from a woman sawed in half.,1.4764705882352942,0.0548408076040221,170,111,37,22,unknown,negative
+649,2018-12-31,11,His mother refuses to fly.,1.6219512195121952,0.063726657863142,164,97,32,35,irony,negative
+650,2019-01-07,25,"""You know, for the first time in my career I think the problem might not be your mother""",1.5735294117647058,0.0623018453035921,136,77,40,19,unknown,neutral
+651,2019-01-14,17,Your wife was right. You have a reptile dysfunction.,1.6386861313868613,0.0494927515816482,274,159,55,60,sarcasm,negative
+652,2019-01-21,61,I am seeing naked ladies; what are you seeing?,1.5212121212121212,0.0540918976517308,165,98,48,19,unknown,neutral
+652,2019-01-21,90,Your mother goes to such great lengths to get us to visit.,1.5,0.0624880941040923,126,78,33,15,sarcasm,negative
+653,2019-01-28,9,The females bite. The males drink.,1.6337209302325582,0.0588676694743223,172,94,47,31,incongruity-absurdity,neutral
+655,2019-02-11,57,"Yes, ladies and gentlemen, it is me against the world.",1.5782312925170068,0.063246415204758,147,87,35,25,self-deprecating,neutral
+655,2019-02-11,79,A stay-at-home mom for 4 1/2 billion years with no managerial expertise...,1.5555555555555556,0.0629328660336734,144,87,34,23,sarcasm,negative
+656,2019-02-18,51,"Yes, ladies and gentlemen, it is me against the world.",1.587837837837838,0.0635479285400941,148,87,35,26,self-deprecating,neutral
+656,2019-02-18,90,A stay-at-home mom for 4 1/2 billion years with no managerial expertise...,1.5472972972972974,0.061642693068213,148,90,35,23,sarcasm,negative
+657,2019-02-25,15,"Would you rather get back your truck, your dog, or your wife?",1.5545023696682465,0.0493979147093343,211,122,61,28,unknown,neutral
+657,2019-02-25,16,"Who is ""coming around the mountain,"" John?  Could it be your mother?",1.5539906103286385,0.0490473304390772,213,123,62,28,unknown,neutral
+657,2019-02-25,39,"So what is it this time - the girl, the truck, or the dog?",1.530701754385965,0.0479071802091338,228,138,59,31,unknown,neutral
+657,2019-02-25,60,It's  just out of tune.  It's not your mother's fault.,1.5116279069767442,0.0488335867670461,215,133,54,28,sarcasm,negative
+657,2019-02-25,67,"Blame your mother all you want, but she told you not to grow up to be a cowboy.",1.5080213903743316,0.0521896948009314,187,116,47,24,sarcasm,negative
+657,2019-02-25,89,I'm going to go ahead and assume there's an ex-wife somewhere in this.,1.4955357142857142,0.045627944806435,224,137,63,24,sarcasm,neutral
+657,2019-02-25,97,"Ok, your wife left, and your dog died.  You need a third thing for it to be a country song, Bob",1.492822966507177,0.0475376462138039,209,129,57,23,sarcasm,negative
+658,2019-03-04,2,"I got a ""You're a good girl. Yes you are"" on my performance review.",1.7975460122699387,0.0640473327691689,163,74,48,41,unknown,positive
+658,2019-03-04,8,"All my evaluation said was ""Good girl.""",1.7484662576687116,0.0635630428530547,163,79,46,38,self-deprecating,positive
+658,2019-03-04,28,"Got a ""good girl"" on my review, so yeah I'm happy.",1.6911764705882353,0.0523623606024312,204,98,71,35,unknown,positive
+658,2019-03-04,38,"I don't think you have a clue what it's like for me, being the only woman in this office.",1.6703296703296704,0.0593970729131566,182,98,46,38,sarcasm,negative
+658,2019-03-04,96,They sent Lady home because she went into heat.  Thatâs just not right.,1.6,0.0605714768115487,150,83,44,23,irony,negative
+659,2019-03-11,7,Mother says I'd date anyone with a pulse.,1.6643835616438356,0.0646763661197922,146,77,41,28,self-deprecating,neutral
+660,2019-03-18,54,"I'm afraid DNA doesn't lie, but I can't say the same for the queen mother.",1.633972602739726,0.0171186054641484,1825,944,605,276,unknown,neutral
+661,2019-03-25,2,"Remember guys , when the prince comes youâre just my sisters kids.",1.9933549156585448,0.0070992593518699,11738,3511,4794,3433,sarcasm,neutral
+661,2019-03-25,21,"Scene eliminated by censors for; exploiting  ""people of short stature"", rollerskating without helmets, woman showing too much cleavage, sexual innuendo of 7 men frolicking together, ""Happy"" leering at woman, all characters too ""handsy""...",1.6764467826790772,0.0110427485006675,4942,2547,1447,948,unknown,negative
+661,2019-03-25,36,"Hi guys!  I'm Snow White's sister, Off White!",1.5358000961076406,0.0155718662269218,2081,1232,583,266,exaggeration,positive
+661,2019-03-25,98,Would it be an aggressive act of cultural appropriation for an unwoke cisgendered white woman to join you seven other-enabled individuals in recreation?,1.411231884057971,0.0287642756330404,552,384,109,59,unknown,neutral
+662,2019-04-01,9,...of course he 'takes' that woman. He's a viking. That's what they do.,1.883016503029037,0.0080212865375035,9574,3574,3546,2454,unknown,neutral
+662,2019-04-01,45,It's always the wife who converts.,1.65015479876161,0.012955896553196,3230,1638,1084,508,sarcasm,neutral
+662,2019-04-01,65,It's the same dress her mother wore.,1.5727728983688831,0.0181453874656179,1594,904,467,223,incongruity-absurdity,neutral
+663,2019-04-08,40,"Hi, my name is Bob, this is my wife, Sally, and I am a candidate for the Democratic Party nomination for the presidency of the United States.",1.5578231292517006,0.0209320267458739,1323,805,298,220,irony,neutral
+663,2019-04-08,88,"We're the Toppings. I'm Jim, and this is my wife Edna.",1.4456521739130437,0.0286909830757837,552,363,132,57,wit-surprise,neutral
+664,2019-04-15,31,Stop calling it a workplace accident: You cut a woman in half!,1.7485069674850695,0.0140057273517748,3014,1365,1042,607,sarcasm,negative
+664,2019-04-15,99,You will serve two sentences. One for each half of your wife.,1.5555555555555556,0.0365496124734427,387,224,111,52,sarcasm,negative
+665,2019-04-22,46,Remember when Mom read us that story about how the fox tricked the Gingerbread Man and you said nobody could be that stupid?,1.702463054187192,0.0137735775407029,3045,1467,1017,561,sarcasm,negative
+665,2019-04-22,85,"Can we keep him, Mom? Please?",1.573924158500213,0.0147500710748053,2347,1312,723,312,sarcasm,neutral
+666,2019-04-29,21,"I think our sessions are helping, but my wife keeps asking how I got lipstick on my collar . . . . and my jacket . . . and my pants.",1.6656410256410257,0.0166847301730183,1950,964,674,312,unknown,neutral
+666,2019-04-29,57,for some reason I donât feel like talking about my mother right now.,1.5216572504708097,0.0300718053373062,531,315,155,61,unknown,negative
+666,2019-04-29,69,Mother wore this color.,1.5121951219512195,0.0289374494159361,574,346,162,66,irony,neutral
+666,2019-04-29,85,"You know doc, I think this couch says more about you than any story I can tell you about my mom.",1.48729792147806,0.0331999624112199,433,271,113,49,sarcasm,neutral
+666,2019-04-29,87,Iâm not sure that Iâm comfortable talking about my mother on this couch.,1.4838709677419355,0.0321621374639432,434,267,124,43,sarcasm,negative
+667,2019-05-06,23,This confirms we're females - we're reading the instructions,1.7357190486774838,0.01159093601275,4499,2111,1466,922,unknown,neutral
+668,2019-05-13,12,Honey! Your mother's here!,1.8571428571428568,0.0089192947435965,8624,3672,2516,2436,sarcasm,positive
+668,2019-05-13,14,"If Mother asks,you're a Jewish doctor under a spell.",1.7747913424812565,0.0093462713659223,7069,3175,2318,1576,wit-surprise,neutral
+668,2019-05-13,25,"No, the dragon lady is one moat over.",1.6633627019089574,0.0139057101134112,2724,1330,981,413,unknown,neutral
+668,2019-05-13,52,Mom!  Someone from the Trump 2020 campaign is here!,1.518222222222222,0.0214329754188728,1125,692,283,150,irony,neutral
+668,2019-05-13,55,I know you've been singeing other girls.,1.5105263157894735,0.0334306436457704,380,219,128,33,sarcasm,neutral
+668,2019-05-13,58,"It's time you met my family. Mom and Dad will be fine, but watch out for my brother George. He thinks he's a saint.",1.492082825822168,0.0231629829427494,821,495,248,78,sarcasm,positive
+668,2019-05-13,71,There's nothing worse than a woman scorched.,1.4840848806366047,0.0248394798951748,754,470,203,81,sarcasm,negative
+669,2019-05-20,36,When I was born I was so ugly the doctor slapped my mother.,1.620341124447252,0.019526220862808,1583,892,400,291,unknown,negative
+669,2019-05-20,60,"I'd like to thank my Mom and Dad, who are here tonight.",1.5404255319148936,0.0261385591673949,705,406,217,82,unknown,positive
+669,2019-05-20,72,Iâd like to dedicate this one called âScreaming at the top of my lungsâ to my mom and dad.,1.5287539936102237,0.0282382573345235,626,373,175,78,irony,positive
+669,2019-05-20,93,"Hush, here comes the part of the acceptance speech where he thanks his mother.",1.5023255813953489,0.0327203634566904,430,259,126,45,sarcasm,neutral
+669,2019-05-20,98,"Ah, and here they are now. Ladies and Gentlemen, please give a warm welcome to My Parents.",1.493212669683258,0.0312603509300963,442,264,138,40,sarcasm,positive
+670,2019-05-27,33,"It's New York, Mom.  Every day's a battle.",1.6554036626257416,0.0116873060980916,3877,1942,1336,599,sarcasm,neutral
+670,2019-05-27,64,My mom is kind of overprotective.,1.5497512437810943,0.0196042491963028,1206,673,403,130,incongruity-absurdity,negative
+670,2019-05-27,69,My wife took the horse today,1.5357833655705997,0.021961772467342,1034,609,296,129,unknown,neutral
+670,2019-05-27,78,My wife says Iâm having a middle age crisis.,1.5080213903743316,0.0251331338871823,748,451,214,83,unknown,negative
+671,2019-06-03,36,Please mom... I promise I'll take care of them.,1.7441787287602266,0.0134003277624088,3178,1417,1157,604,irony,positive
+673,2019-06-17,37,"Would you prefer my sister, Alopecia?",1.525065963060686,0.0186638814563597,1516,931,374,211,sarcasm,neutral
+673,2019-06-17,47,My sister got a pixie cut and she's been trapped in her tower for years.,1.48355754857997,0.0180392847370746,1338,815,399,124,irony,negative
+673,2019-06-17,48,You must be looking for my sister. Iâm Todd.,1.4813432835820894,0.0191287144888231,1340,856,323,161,sarcasm,neutral
+673,2019-06-17,63,Rapunzel's my little sister. I'm Niagra.,1.4451073985680192,0.0231215201592954,838,549,205,84,unknown,neutral
+673,2019-06-17,89,"It's strong enough for a man, but made for a woman.",1.415,0.0269825991455599,600,409,133,58,incongruity-absurdity,neutral
+676,2019-07-08,20,No.  There is not enough for your mother to come over.,1.738083291520321,0.0172056965857819,1993,917,681,395,irony,negative
+678,2019-07-22,2,"Oh dear, that's my wife!  Act casual.",1.9944444444444445,0.0102173945642444,5940,1858,2257,1825,unknown,neutral
+678,2019-07-22,61,My mother always said âOnce you start necking thereâs no telling where it might end.â,1.4952978056426331,0.0225500962367942,957,596,248,113,incongruity-absurdity,neutral
+679,2019-07-29,76,I see that the queen and her sister have returned from Palm Springs.,1.4678111587982832,0.0237852927422712,699,433,209,57,sarcasm,neutral
+681,2019-08-12,34,...but no....you had to go and snap my mother's head off.,1.6267896141713176,0.0115475148314853,4121,2222,1227,671,unknown,negative
+681,2019-08-12,35,How come they didn't ask the woman who had the frog legs to leave?,1.6226215644820297,0.0139232819519387,2838,1528,857,453,incongruity-absurdity,negative
+684,2019-09-02,21,So the board still has no women?,1.8186541958950373,0.0091020621663822,7698,3285,2525,1887,irony,negative
+684,2019-09-02,66,"Alright, girls. Who ordered the stripper?",1.6037187681580476,0.0183407668227764,1721,976,452,293,sarcasm,neutral
+685,2019-09-09,100,"It's Smoky's wife, Honey",1.4109589041095891,0.0229223780998069,803,545,186,72,unknown,neutral
+686,2019-09-16,30,Iâm just praying the real mother doesnât come back.,1.6413938753959874,0.0105968058546283,4735,2412,1609,714,sarcasm,negative
+686,2019-09-16,90,"All I know is, whatever comes out of there Iâm not the mother.",1.472943722943723,0.0223317573820116,924,592,230,101,sarcasm,negative
+687,2019-09-23,37,You didn't tell me your Mom was on the parade committee again.,1.5425696594427245,0.019705103188144,1292,757,370,165,sarcasm,neutral
+687,2019-09-23,68,Heâs asking if I have a big sister!,1.4871134020618555,0.024393921553274,776,480,214,82,sarcasm,neutral
+688,2019-09-30,22,"They're for valor, loyalty, courage, and my wife's to dos.",1.6996799096215405,0.0100668801880474,5311,2466,1974,871,sarcasm,positive
+688,2019-09-30,72,"Some from Vietnam, to remember courage under fire. Others from my wife, to remember coleslaw and butter.",1.5228548516439455,0.020025628381239,1247,751,340,156,wit-surprise,neutral
+688,2019-09-30,86,That one's from my wife.  I have to stop at the store on the way home.,1.5020833333333334,0.0220346835267802,960,589,263,108,sarcasm,neutral
+689,2019-10-07,39,In my defense I must say that I managed to free the beautiful lady that this monster swallowed,1.60230179028133,0.0260142997525073,782,424,245,113,unknown,neutral
+689,2019-10-07,81,A chivalrous man always opens the door for a lady.,1.4942932396839332,0.0205374571375579,1139,707,301,131,wit-surprise,positive
+690,2019-10-14,1,My mother in law sucks all the oxygen out of the room.,1.959183673469388,0.1269714724825176,49,20,11,18,sarcasm,negative
+690,2019-10-14,67,My mother-in-law sucks all the air out of the room,1.4,0.1902379462422684,15,11,2,2,sarcasm,negative
+690,2019-10-14,92,"Thatâs one small step for man, and ladies shoes on floor 5.",1.3636363636363635,0.2032789070454355,11,8,2,1,sarcasm,neutral
+691,2019-10-21,48,"Looks like your women's night ad had a typo on the ""no men"" wanted.",1.6210350584307178,0.0216789541919621,1198,650,352,196,sarcasm,negative
+691,2019-10-21,99,"Still, it beats your mother visiting.",1.5,0.0222018292176485,1034,651,249,134,sarcasm,neutral
+694,2019-11-11,55,"In the days and weeks since the holidays, the Peloton wife continued to find many unique and special ways to thank her husband for his thoughtful gift.",1.508384819064431,0.0211399369465879,1133,707,278,148,sarcasm,positive
+694,2019-11-11,56,"Lady, I'd rather be paid in cash.....",1.5063025210084031,0.0185994883025313,1428,879,375,174,unknown,negative
+694,2019-11-11,58,"Yes and how many sidewalks must a man not salt, before he listens to his wife?",1.4982435597189696,0.016902869300735,1708,1060,445,203,unknown,neutral
+695,2019-11-18,64,"Itâs a telegram from France, Mr.Winthrop.Iâm afraid your wife has been dredged in eggs and she  suffered burns on 90% of her body.",1.596774193548387,0.0843667969962538,62,38,14,9,unknown,negative
+696,2019-11-25,20,Did your mother say why she thought I'd like this place?,1.7323340471092077,0.0120628061456945,4203,1998,1332,873,unknown,neutral
+696,2019-11-25,26,It's almost as if your mom's in the kitchen.,1.7168557985053972,0.0093659102647734,7226,3625,2031,1570,sarcasm,neutral
+697,2019-12-02,94,Arr...that's what you deserve for not giving up your seat to a pregnant woman.,1.465643762508339,0.0185295561752269,1499,1000,300,199,unknown,negative
+699,2019-12-16,79,"Ok, boys. Just describe your feelings when a girl is on top.",1.5579584775086506,0.021076582706081,1156,665,337,154,sarcasm,neutral
+699,2019-12-16,93,Really? NONE of you blames your mother?,1.5332050048123196,0.0214152204406584,1039,603,318,118,unknown,negative
+700,2019-12-23,25,What were your wife's other two wishes?,1.8827967806841048,0.0103736660185136,5964,2337,2009,1618,unknown,neutral
+700,2019-12-23,26,Your wife called and asked us not to refill your Viagra.,1.87559498052791,0.0119155774824231,4622,1852,1500,1270,sarcasm,negative
+701,2019-12-30,39,It'll just be me tonight. My wife got trapped at work.,1.738563698967044,0.011974813302311,4066,1859,1408,795,sarcasm,negative
+703,2020-01-13,73,Get any closer and this nice woman will be going home with a new pocket book and matching shoes.,1.5831469052945564,0.0195383848760924,1341,739,422,180,unknown,neutral
+704,2020-01-20,15,"A lady on 16 said 'Send me to Aruba,' but that's not what Alexa heard.",1.8417813178855904,0.0088333387727042,8286,3447,2707,2132,sarcasm,neutral
+704,2020-01-20,49,We can't leave.  Your ex-wife paid for the whole day in advance.,1.65760664401661,0.0145766801184836,2649,1357,844,448,sarcasm,negative
+707,2020-02-10,21,"When his wife asked him if he really was essential personnel, Atlas shrugged.",1.801853411962932,0.0102705590700104,5935,2567,1978,1389,wit-surprise,neutral
+708,2020-02-17,39,Why couldn't she just sew us masks like a normal mother-in-law?,1.691390412592416,0.0115717414292038,4193,2036,1419,737,sarcasm,negative
+709,2020-02-24,57,"Social distancing? Nah, lady...this is the FREEDOM elevator.â",1.6252723311546842,0.0210383528494857,1377,774,345,258,irony,neutral
+710,2020-03-02,10,"From what I can make out, his wife left him and his dog died.",1.9186883051698176,0.0072507293322248,11954,4312,4307,3328,unknown,negative
+710,2020-03-02,26,This one's for everybody whose mother pushed them out of a nest before they could fly.,1.7477597079322933,0.0076874520076966,9039,3941,3491,1605,unknown,neutral
+710,2020-03-02,28,"The way I heard it, if that mockingbird don't sing, he has to buy his wife a diamond ring. So, that's why.",1.6874297640070637,0.0094199548993805,6229,2997,2177,1052,unknown,neutral
+710,2020-03-02,32,This one goes out to the little lady I just pooped on.,1.680111564042051,0.0112828469594831,4661,2369,1415,877,sarcasm,neutral
+710,2020-03-02,90,"His wife migrated south, he lost his nest egg, and his dog died?",1.499597099113618,0.0197829748268134,1241,767,328,146,irony,negative
+711,2020-03-09,14,"No mother, he has not gotten to first base.",1.9644886363636365,0.0104495056693813,5632,1835,2162,1635,wit-surprise,neutral
+711,2020-03-09,76,"Yes, Mom--the boys are six feet apart, and the catcher is wearing a mask.",1.6878048780487804,0.0160659279416686,2050,962,766,322,unknown,neutral
+711,2020-03-09,81,The wife. In the family room. With a baseball bat.,1.6741674167416742,0.0237233722705738,1111,587,299,225,sarcasm,neutral
+711,2020-03-09,90,"I know, Mom, but at some point it went from fantasy to full-on delusion.",1.658250146799765,0.0181715475962083,1703,869,547,287,sarcasm,negative
+713,2020-03-23,91,"Ladies and gentlemen, welcome to the 2024 presidential debates. You will each have two minutes for an opening statement. The format will be balloon animals, mimes, and creepy jokes.",1.5829493087557605,0.0263628836458321,868,518,194,156,wit-surprise,neutral
+715,2020-04-06,65,In the end it was all the queen's women who got the job done.,1.6185410334346504,0.0097470705621824,5922,3226,1728,966,wit-surprise,positive
+716,2020-04-13,8,My mom lost 45 pounds and my dad lost a leg.,1.801526717557252,0.0688977450660772,131,56,45,30,incongruity-absurdity,neutral
+716,2020-04-13,17,Mom rigged it up after dad started working from home.,1.7565217391304349,0.069422049473773,115,49,45,21,sarcasm,neutral
+716,2020-04-13,22,When Mom goes on a diet we all suffer.,1.7433628318584071,0.0751933465056233,113,54,34,25,incongruity-absurdity,negative
+716,2020-04-13,26,It's hard visiting your mother when she's on a diet.,1.7157894736842103,0.0828700704515737,95,48,26,21,incongruity-absurdity,negative
+716,2020-04-13,38,I think I know where Mom and Dad put the beer.,1.6956521739130437,0.1198612934964367,46,24,12,10,unknown,neutral
+716,2020-04-13,49,I'm guessing mom wants us to get our own place.,1.6790123456790125,0.0839369996217532,81,40,27,14,sarcasm,neutral
+716,2020-04-13,90,Do you think Mom & Dad are trying to tell us we overstayed our welcome?,1.6296296296296295,0.1614407016126176,27,16,5,6,sarcasm,negative
+716,2020-04-13,99,Maybe Mom and Dad didnât want us moving home after college,1.621212121212121,0.0935324670084458,66,36,19,11,sarcasm,neutral
+718,2020-04-27,24,"If we pull this off, thereâll be one confused posse searching the desert for a couple of eight hundred pound women.",1.8535676251331203,0.0083701689364746,9390,3907,2964,2519,sarcasm,negative
+720,2020-05-11,7,Your wife is lucky.  I can't even get my husband to pick up his towel.,1.8146764913697384,0.0080043717918708,9907,4231,3276,2395,sarcasm,positive
+720,2020-05-11,35,Think of it as God's way of helping you understand women...,1.6977308158669668,0.0104481636230425,5773,2955,1608,1210,sarcasm,positive
+721,2020-05-18,5,"Mom, can't I just wear a mask?",1.8497154970434009,0.0082010772676688,8963,3476,3358,2129,sarcasm,neutral
+721,2020-05-18,23,"Mom, I am sorry.  I 'll do social distancing, I promise.",1.7061627511065711,0.0143893113837356,2937,1451,898,588,irony,negative
+721,2020-05-18,42,"Mom, I think you need some friends your own age.",1.6465677179962894,0.0161423772932423,2156,1121,676,359,sarcasm,neutral
+721,2020-05-18,45,"Mom, remind me when you are going back to your real job?",1.645151606124287,0.0130966673767587,3331,1752,1009,570,sarcasm,neutral
+721,2020-05-18,64,"Mom, when will you be allowed to go back to your office?",1.5986869101354124,0.0147611251399527,2437,1332,751,354,unknown,neutral
+721,2020-05-18,79,I can finally move out of my mom's basement,1.5839210155148096,0.0210285317353858,1418,862,284,272,irony,positive
+722,2020-05-25,67,"Man,woman,tree,house, piano.",1.5651530108588352,0.0171728536435372,2026,1237,433,356,unknown,neutral
+722,2020-05-25,74,"Man, Woman, House, Piano, Magazine.",1.5521023765996345,0.0317602867338685,547,328,136,83,unknown,neutral
+724,2020-06-08,45,"I just loved your first book, The Dragon with the Girl Tattoo!",1.666775884665793,0.0139501551844214,3052,1584,901,567,sarcasm,positive
+724,2020-06-08,70,"You can't use dragon meat in your recipes, lady.",1.5887016848364717,0.0178619107315119,2018,1235,378,405,sarcasm,negative
+724,2020-06-08,79,"I know I wasnât the best mother, but you make me sound like an absolute monster!",1.564504632929437,0.0187687911886093,1403,785,444,174,sarcasm,negative
+725,2020-06-15,29,You said you and Mom played this game earlier? Where is Mom?,1.8931144915932747,0.0081922222692574,9992,3941,3178,2873,unknown,neutral
+725,2020-06-15,48,This is why mom only lets you see me on the weekends.,1.670585808580858,0.0105166907344001,4848,2361,1723,764,sarcasm,neutral
+725,2020-06-15,79,Mom thinks you should start with the watermelon.,1.5439870863599676,0.0215653335777699,1239,768,268,203,incongruity-absurdity,neutral
+726,2020-06-22,77,The new neighbors really know how to suck the wife out of a party.,1.5538674033149171,0.0193904989741841,1448,863,369,216,sarcasm,negative
+728,2020-07-06,82,Your mother sent me.,1.5819607843137256,0.0213466811047516,1275,751,309,215,unknown,neutral
+729,2020-07-13,91,"I get that we have to be six feet apart, but does your mother really need the axe?",1.4993968636911943,0.0247140514110911,829,521,202,106,sarcasm,neutral
+730,2020-07-20,34,"I""m proud to be known as the first woman on your research team. But humility compels me to decline being honored also as the first woman to try your experimental formula.",1.6666666666666667,0.6666666666666666,3,2,0,1,unknown,positive
+732,2020-08-03,36,Please show us on the lady where he touched you,1.7179319371727748,0.0148501501283753,3056,1582,754,720,unknown,neutral
+732,2020-08-03,48,"Your honor, my client only speaks when mom and dad leave the room.",1.689509954058193,0.0148561409475269,2612,1284,855,473,sarcasm,neutral
+734,2020-08-17,56,Your wife sent me. Said you hadnât showered and changed out of your pajamas since March.,1.5847826086956522,0.0249754328011212,920,534,234,152,sarcasm,neutral
+735,2020-08-24,20,Youâre seriously marrying a woman who chose carrot cake?,1.758489368454459,0.0134860397705223,3151,1375,1162,614,unknown,negative
+735,2020-08-24,21,"I know itâs only your birthday, but your mother wanted me to remind you youâre not getting any younger.",1.7231735159817352,0.0132700733542007,3504,1700,1074,730,unknown,neutral
+735,2020-08-24,38,My first wife was an ice cream cake.  What a mess.,1.604735883424408,0.0305740228472497,549,292,182,75,unknown,negative
+735,2020-08-24,54,And for Walterâs 40th birthday his mom dropped yet another subtle hint,1.5586907449209932,0.0248048608720832,886,523,231,132,irony,neutral
+736,2020-08-31,42,"I don't know, Bob.  It's a nice hat, but that boy's mom is bound to ask where the rest of him is.",1.6887976822790922,0.0120096379579484,4142,2082,1267,793,unknown,neutral
+738,2020-09-14,17,I guess his wife is the hunter.,1.774002370604504,0.0113313846137273,5062,2346,1514,1202,sarcasm,neutral
+738,2020-09-14,35,Do you think his wife will find it harder to believe he saw us or that he actually raked the lawn?,1.6443850267379678,0.0173535730439649,1870,977,581,312,sarcasm,neutral
+738,2020-09-14,46,The real fun starts when his wife gets home and we beam them back down again.,1.6262230919765166,0.0148346680074804,2555,1374,762,419,unknown,positive
+738,2020-09-14,60,"He was nice about us taking his wife, it's the least we can do.",1.5921745673438676,0.0204620212089269,1329,751,369,209,irony,neutral
+738,2020-09-14,86,"My understanding is,  if he gets them all he can mate with his wife",1.5519630484988454,0.035750865248441,433,260,107,66,wit-surprise,neutral
+739,2020-09-21,3,"He may be my best friend, but you will always be the reason mom and I got married.",2.0011014148945185,0.0075073745529645,11803,3919,3952,3932,sarcasm,positive
+739,2020-09-21,21,Maybe you could use your next wish to change your sister back before Mommy gets home?,1.806953924914676,0.0117590860882517,4688,2059,1475,1154,sarcasm,neutral
+739,2020-09-21,24,"He's the chick magnet. You want a new mom, don't you?",1.7459981167608287,0.0118955968242027,4248,1953,1421,874,sarcasm,neutral
+739,2020-09-21,56,But you said you'd rather have a puppy than a brother or sister.,1.6175710594315245,0.0253605044342619,774,397,276,101,irony,neutral
+739,2020-09-21,82,Your mother and I believed having you would prepare us for a dog.,1.5854700854700854,0.0244497559829265,936,536,252,148,sarcasm,neutral
+740,2020-09-28,2,He was very excited to get the job. His wife is over the moon.,2.002061083005434,0.0110939472024913,5337,1752,1824,1761,irony,positive
+741,2020-10-05,14,"To be honest, you're the first girl I've brought up here he likes.",1.7251635930993456,0.0183701956283495,1681,771,601,309,sarcasm,positive
+741,2020-10-05,29,Well you passed that test.  My mother is next.,1.6663376110562684,0.0238109150381475,1013,516,319,178,sarcasm,positive
+742,2020-10-12,77,A woman who thinks you're an art installation wants to buy you.  I just want a burger.,1.4506437768240343,0.042509521396748,233,148,65,20,sarcasm,neutral
+743,2020-10-19,4,Does this make me the trophy's wife?,1.7097560975609756,0.0169324699292915,2050,986,673,391,unknown,neutral
+743,2020-10-19,10,That reminds me. Your mother called.,1.5654761904761905,0.0246549146936987,840,476,253,111,sarcasm,neutral
+743,2020-10-19,26,"Yes, it was a gift from my mother. Why do you ask?",1.505592841163311,0.0336495483073483,447,278,112,57,sarcasm,neutral
+743,2020-10-19,37,"You can come out now, my mom left.",1.4867469879518072,0.0345994153353806,415,264,100,51,sarcasm,neutral
+743,2020-10-19,38,"You can pretend you are being eaten by that lion, but we are still going to my sisters this weekend.",1.4859154929577465,0.0342526226644184,426,272,101,53,sarcasm,neutral
+743,2020-10-19,77,Well at least your head isn't where my mother always says it is.,1.4512987012987013,0.0385156337519292,308,201,75,32,sarcasm,negative
+743,2020-10-19,85,I guess this makes me a trophy wife.,1.4491803278688524,0.0385039321919251,305,199,75,31,sarcasm,positive
+743,2020-10-19,90,"Anyway, my mother is only staying for the weekend.",1.4453125,0.0409062427444233,256,165,68,23,irony,neutral
+749,2020-11-30,41,Your mother says she still wishes you had gone to medical school,1.7541776605101145,0.0159780504625902,2274,1008,817,449,sarcasm,neutral
+755,2021-01-11,21,Early evidence that women develop faster than men.,1.829373650107992,0.0166530639275346,2315,974,762,579,irony,neutral
+755,2021-01-11,36,Normally I meet women by clubbing.,1.7949932341001351,0.0208486940803871,1478,665,456,357,sarcasm,neutral
+755,2021-01-11,43,"Itâs just coffee, lady. Weâre not inventing the wheel here.",1.7788378143972243,0.0224023175021263,1153,489,430,234,sarcasm,neutral
+755,2021-01-11,68,"Call me crazy, but sometimes I think that women are just more evolved.",1.7529550827423168,0.0255143519182554,846,363,329,154,sarcasm,neutral
+757,2021-01-25,1,Well it looks like my mother found out that youâre not Jewish.,1.822623828647925,0.0121646600697726,4482,1954,1369,1159,sarcasm,negative
+757,2021-01-25,3,That reminds me. Your mother called.,1.802893309222423,0.0120094173496293,4424,1933,1430,1061,sarcasm,neutral
+757,2021-01-25,31,That reminds me.  Howâs your mother doing?,1.7104025091479351,0.0177282128638743,1913,932,603,378,sarcasm,neutral
+757,2021-01-25,41,"Oh, that reminds me. When are we going to tell your mother we're engaged?",1.6906614785992218,0.023712441324421,1028,505,336,187,sarcasm,neutral
+757,2021-01-25,61,"Reminds me, we're invited to my mother's house for dinner.",1.6705882352941177,0.0237305952016786,1020,516,324,180,incongruity-absurdity,neutral
+758,2021-02-01,86,Mom! I told you not to call me at work!,1.6074074074074074,0.0319314769573444,540,296,160,84,sarcasm,negative
+759,2021-02-08,18,And another thing.  Stop referring to me as your trophy wife.,1.698019801980198,0.0226875050124611,1212,619,342,251,sarcasm,negative
+759,2021-02-08,26,And stop referring to me as your trophy wife,1.686046511627907,0.0246837886299988,1032,537,282,213,sarcasm,negative
+759,2021-02-08,27,"I'm tired of being your trophy wife, Ken.""",1.6836836836836837,0.0247766920650065,999,514,287,198,irony,negative
+759,2021-02-08,54,"Well, you said you wanted a trophy wife.",1.6429699842022116,0.0298019076496171,633,331,197,105,sarcasm,neutral
+759,2021-02-08,63,"Larry, I don't want to be your trophy wife anymore.",1.6382252559726962,0.0314606427715504,586,314,170,102,sarcasm,negative
+759,2021-02-08,68,"You said you wanted a Trophy Wife, didn't you?",1.6339285714285714,0.031769687595362,560,298,169,93,sarcasm,neutral
+759,2021-02-08,78,"â¦ and then, after going through all of that, his wife says, âYouâre not keeping that thing in our house!â",1.6264367816091954,0.0342030929744652,522,293,131,98,unknown,negative
+759,2021-02-08,81,Trophy wife? What makes you say that?,1.622266401590457,0.0341356423494964,503,278,137,88,unknown,neutral
+759,2021-02-08,84,You wanted a trophy wife!  Deal with it!,1.619718309859155,0.0335289690531864,497,269,148,80,sarcasm,negative
+759,2021-02-08,89,Then he had the nerve to call me his trophy wife.,1.6171079429735231,0.0341155883231739,491,270,139,82,sarcasm,negative
+761,2021-02-22,20,They're for your mother.,1.7763739734680986,0.0140699548499996,3166,1425,1024,717,sarcasm,neutral
+761,2021-02-22,34,Take one for your mother.,1.7372929754426043,0.0185916363294381,1751,820,571,360,sarcasm,neutral
+761,2021-02-22,40,These are for me.  Heâs here for your mom.,1.7264618434093162,0.0248586757924368,1009,490,305,214,sarcasm,neutral
+761,2021-02-22,61,I think these are for your mother.,1.6794081381011097,0.0274960674908398,811,420,231,160,sarcasm,neutral
+761,2021-02-22,64,"Relax.  This is his sister, The Grim Baker.",1.6734972677595628,0.0278478677735592,732,366,239,127,sarcasm,neutral
+761,2021-02-22,83,We can bring these to your mom's house.,1.6531986531986531,0.0311850951022607,594,310,180,104,sarcasm,neutral
+761,2021-02-22,85,Tell your Mother she has a gentleman caller.,1.6481802426343155,0.0323391506350819,577,311,158,108,sarcasm,positive
+763,2021-03-08,41,"Uh oh, lady, you used regular. This baby takes dijon.",1.7176395939086295,0.0190980829808482,1576,738,545,293,sarcasm,neutral
+763,2021-03-08,52,"Frankly, lady, I don't think you wanna know what's in there.",1.697754749568221,0.0222990299671216,1158,561,386,211,sarcasm,negative
+763,2021-03-08,55,This is Iowa lady. We donât carry Grey Poupon .,1.6937101185050136,0.0235196312279572,1097,552,329,216,unknown,neutral
+764,2021-03-15,40,Everyone said Mom and Dad flushed youâ¦But I always knewâ¦,1.7120651369356032,0.0208779179254178,1351,648,444,259,incongruity-absurdity,neutral
+766,2021-03-29,9,I sent my wife up an hour ago about the noise. Have you seen her?,1.799905168326221,0.0122038180611371,4218,1831,1400,987,sarcasm,neutral
+766,2021-03-29,34,"The cat is hanging from the drapes, the dog is hiding under the bed, and my wife is missing, although that is probably unrelated.",1.7515605493133584,0.0194184028724748,1602,732,536,334,incongruity-absurdity,negative
+766,2021-03-29,52,I haven't seen my wife since she came up here to complain about the noise.,1.6928327645051195,0.020345203687652,1465,738,439,288,irony,negative
+766,2021-03-29,54,My wife wonât go to sleep until she finds out what kind of vibrator youâre using down here.,1.6904090267983074,0.0209879764964318,1418,730,397,291,sarcasm,neutral
+766,2021-03-29,57,"I have a mother-in-law, and a financial opportunity for you.",1.6822875297855442,0.0219474917626596,1259,645,369,245,sarcasm,positive
+766,2021-03-29,74,"Lady,  I donât live downstairs, I live THREE BLOCKS away.",1.653301886792453,0.0260141784225544,848,441,260,147,unknown,neutral
+766,2021-03-29,87,My wife's Yorkie is stuck to the ceiling again.,1.630656934306569,0.0289083775698323,685,369,200,116,unknown,negative
+766,2021-03-29,94,My wife wants to thank you for drowning out my snoring.,1.6208609271523178,0.0286127800245811,604,307,219,78,sarcasm,positive
+767,2021-04-05,12,"So, have you ever dated a single mom before?",1.7849093581577655,0.017316924663883,2041,891,698,452,unknown,neutral
+767,2021-04-05,15,To be fair your profile did say...âa well- balanced Woman who loves to entertainâ,1.7757697456492638,0.01997382403545,1494,650,529,315,sarcasm,positive
+767,2021-04-05,48,"Instead of explaining how it feels to be a woman in her 40s, let me show you.",1.7093802345058626,0.0222967600284485,1194,578,385,231,sarcasm,neutral
+767,2021-04-05,60,Don't listen to your friends. Could a crazy woman do this?,1.6927899686520376,0.0249096128563007,957,476,299,182,unknown,negative
+767,2021-04-05,80,In your profile you said you admire a woman who can multitask.,1.6745718050065876,0.0263882389688197,759,364,278,117,sarcasm,positive
+767,2021-04-05,81,"On your profile,you said you were looking for an athletic woman whose not afraid to take risks!",1.6732283464566928,0.0262519352203515,762,365,281,116,sarcasm,positive
+767,2021-04-05,84,"I donât know why youâre surprised, all women can do this",1.6694101508916324,0.0283095166712991,729,373,224,132,sarcasm,negative
+767,2021-04-05,85,I'm a single mom who is working remotely and home schooling her kids.  This is how I unwind.,1.6693548387096775,0.0277818234157068,744,377,236,131,irony,neutral
+767,2021-04-05,86,"Yes, I am a working single mom.  Why do you ask?",1.6685314685314685,0.0287661272108958,715,369,214,132,sarcasm,neutral
+768,2021-04-12,1,Can't we ever have a girls night without him interrupting?,1.855083179297597,0.015340084699454,2705,1085,927,693,sarcasm,negative
+770,2021-04-26,92,"Keep walking, dear. Women now get followed everywhere they go in Texas.",1.6345776031434185,0.0349602390602363,509,285,125,99,sarcasm,positive
+771,2021-05-03,73,Theyâre still not as intrusive as your mother.,1.6224489795918366,0.0326323178133515,490,255,165,70,sarcasm,neutral
+773,2021-05-17,51,Wishing for a girl to turn my world upside down was not well thought out.,1.7256438969764838,0.0255448158712111,893,416,306,171,irony,negative
+774,2021-05-24,51,Would you be a girl from Nantucket?,1.602373887240356,0.0207907801352498,1348,767,350,231,sarcasm,neutral
+775,2021-05-31,90,I slept with your sister.,1.6847133757961783,0.0318555134801849,628,330,166,132,irony,neutral
+776,2021-06-07,11,"Mother said, âif you find a good mechanic donât let him go.â",1.8178867652362063,0.0146379270490821,2773,1122,1034,617,wit-surprise,neutral
+776,2021-06-07,45,When the IRS lady came to question Matt's deduction for a home office she didn't stay long.,1.7175879396984923,0.024745904672082,995,483,310,202,wit-surprise,neutral
+776,2021-06-07,83,"Then he says, ""Whadya want me to do, lady, come to your house and fix it?"" So I said, ""Yes!""",1.655378486055777,0.0342704788745513,502,264,147,91,sarcasm,neutral
+777,2021-06-14,19,"Yes, I can hold it for you while you ask your Mom.",1.7640845070422535,0.0183502151008456,1704,737,632,335,unknown,neutral
+777,2021-06-14,30,Brought it home and the wife went totally ballistic.,1.7272727272727273,0.019162865363504,1606,752,540,314,unknown,neutral
+777,2021-06-14,40,"My wife said if it no longer sparks joy, get rid of it.",1.7181303116147308,0.0199608500281953,1412,652,506,254,irony,negative
+777,2021-06-14,46,My wife told me to get rid of some of my old navy crap,1.7047210300429183,0.0215271699969273,1165,537,435,193,sarcasm,neutral
+777,2021-06-14,53,It runs just fine but my wife wanted it out of the basement.,1.696768060836502,0.0225107037844575,1052,488,395,169,irony,positive
+777,2021-06-14,55,Do the torpedos work? My wife got our yacht in the divorce.,1.695357833655706,0.0244980412503418,1034,526,297,211,wit-surprise,neutral
+781,2021-07-12,15,I would say my two biggest fears are a woman leaving me and loud noises.,1.6782786885245902,0.0144316083436789,2928,1515,840,573,irony,negative
+781,2021-07-12,19,"Usually, the women I meet just say they have to go the the bathroom.",1.6654874213836477,0.0149830728138748,2544,1294,807,443,unknown,neutral
+781,2021-07-12,23,I never thought I'd find a woman of your caliber.,1.660057678442682,0.0145676569097639,2774,1448,821,505,sarcasm,negative
+781,2021-07-12,27,I've been waiting my whole life for a woman of your caliber.,1.644167758846658,0.0191540927727086,1526,795,479,252,sarcasm,positive
+781,2021-07-12,28,I like a woman with an exit strategy.,1.6428978893325727,0.0179035734524413,1753,917,545,291,sarcasm,positive
+781,2021-07-12,29,Don't often meet a woman of your caliber.,1.6418109187749668,0.016092488642699,2253,1205,649,398,sarcasm,neutral
+781,2021-07-12,30,How refreshing to meet a woman of your caliber.,1.6409691629955947,0.0206105434491888,1362,726,399,237,sarcasm,positive
+781,2021-07-12,33,It's so hard to find women of your caliber.,1.6345565749235471,0.0172357608472457,1962,1061,557,344,sarcasm,negative
+781,2021-07-12,48,I've never met a woman of your calibre before.,1.603161397670549,0.0214096442381837,1202,664,351,187,sarcasm,negative
+781,2021-07-12,58,I'm impressed! Most women I talk to just quietly walk out the door.,1.5862785862785862,0.0234722208884473,962,536,288,138,unknown,positive
+781,2021-07-12,64,Where will we find another woman of your caliber?,1.5804274465691788,0.0247736087928751,889,507,248,134,sarcasm,negative
+781,2021-07-12,81,I've been searching for a woman of your caliber for years.,1.5545454545454545,0.0280837698260299,660,384,186,90,sarcasm,positive
+781,2021-07-12,89,I don't think I've ever met a woman of your caliber before,1.5445205479452055,0.0313602535083809,584,361,128,95,sarcasm,neutral
+781,2021-07-12,90,I've always admired women of your caliber.,1.5440677966101697,0.0313873174979243,590,367,125,98,sarcasm,positive
+781,2021-07-12,92,Most girls just have one of their friends call them with a fake emergency.,1.541958041958042,0.02969442381212,572,335,164,73,sarcasm,neutral
+781,2021-07-12,98,Itâs not often that I come to these gatherings and meet a woman of such high caliber.,1.5373406193078325,0.0311799194812624,549,332,139,78,sarcasm,positive
+782,2021-07-19,96,"Jesus, Fred, help me. This is worse than playing charades with your mother.",1.529505582137161,0.0281127197034038,627,372,178,77,sarcasm,negative
+783,2021-07-26,15,Did my mom send you?,1.7292271934921557,0.0189930337863102,1721,830,527,364,sarcasm,neutral
+783,2021-07-26,64,"It was my mother, wasn't it, who sent you here?",1.5842857142857143,0.0280880321359228,700,399,193,108,sarcasm,neutral
+784,2021-08-02,31,Read me the one about the man and the woman in the garden again?,1.7219123505976095,0.0087349672618825,7530,3501,2622,1407,unknown,neutral
+784,2021-08-02,41,My mother was a bookworm,1.696782466775472,0.0081227666267071,8578,4122,2935,1521,incongruity-absurdity,negative
+784,2021-08-02,64,Read that part again where I give the lady an apple and all hell breaks loose.,1.5835662381218558,0.0180031926435241,1789,1046,442,301,unknown,neutral
+784,2021-08-02,70,Have you missed the wife?,1.5705263157894738,0.0190856704237738,1425,807,423,195,sarcasm,neutral
+784,2021-08-02,83,The part about the woman and the apple is a bit exaggerated.,1.536231884057971,0.0227444657943591,966,569,276,121,exaggeration,neutral
+784,2021-08-02,92,I swallowed your trophy wife.,1.527027027027027,0.0244626828827847,888,545,218,125,sarcasm,negative
+785,2021-08-09,16,His mother thinks he's practicing.,1.6741573033707866,0.0281547316474198,801,427,208,166,unknown,neutral
+786,2021-08-16,96,"Under the custody agreement, you will have your wife on weekends and alternate holidays while Fluffy will retain primary custody.",1.6443812233285915,0.029210835666818,703,380,193,130,wit-surprise,neutral
+787,2021-08-23,42,I am packing some gifts for your mother to remind her of her childhood.,1.625990491283677,0.021497825129478,1262,692,350,220,wit-surprise,neutral
+787,2021-08-23,64,"If your mother wonât be civilized this weekend, then neither will I.",1.5932611311672684,0.02567071834655,831,465,239,127,sarcasm,negative
+787,2021-08-23,93,Last chance to join me in the man cave for the weekend rather than going to your mother's.,1.5508130081300813,0.0302962316331796,492,271,171,50,sarcasm,neutral
+788,2021-08-30,24,Wouldn't it be easier to just tell your mother you're not an astronaut?,1.7115987460815048,0.0217251583589465,1276,621,402,253,sarcasm,neutral
+789,2021-09-06,77,My mother always wanted me to marry a monarch.,1.5982658959537572,0.0408462628201761,346,197,91,58,incongruity-absurdity,neutral
+790,2021-09-13,91,Still think your little carnival girl was worth it?,1.5282583621683967,0.025180322532815,867,539,198,130,unknown,negative
+791,2021-09-20,43,His wife sends him out here a lot.,1.6873868436934218,0.0188409526285005,1657,827,521,309,sarcasm,neutral
+792,2021-09-27,31,"Oh, great, your mother's coming to visit!",1.6588877855014896,0.0172234073861949,2014,1062,577,375,sarcasm,positive
+792,2021-09-27,86,From your Mom again: âJust keep practicing; someday youâll thank me.â,1.550660792951542,0.0283619711062905,681,408,171,102,sarcasm,positive
+793,2021-10-04,1,Could you toss it to me instead? I want to tell my wife I caught it.,1.8571428571428568,0.0205748741089226,1512,607,514,391,sarcasm,neutral
+793,2021-10-04,8,"No bag, thanks. I want my wife to think I caught it.",1.7692542787286063,0.013693161105052,3272,1468,1091,713,sarcasm,neutral
+793,2021-10-04,25,"If my wife asks, you never saw me.",1.7164616285881664,0.018332997540907,1707,800,591,316,sarcasm,neutral
+793,2021-10-04,35,"Actually, you can skip the bag--I'll just take it in my mouth so my wife thinks I caught it in the river.",1.695906432748538,0.0186091187417292,1539,715,577,247,sarcasm,neutral
+793,2021-10-04,51,You didn't see me here.  My wife thinks I catch these.,1.6609745939192004,0.0156759920788739,2401,1253,709,439,unknown,neutral
+793,2021-10-04,74,Iâll take it without the bag; my wife thinks Iâve been fishing.,1.6066606660666067,0.022187860600141,1111,608,332,171,incongruity-absurdity,neutral
+795,2021-10-18,17,"Of course, I miss him, but a woman has to eat.",1.7172751558325914,0.0162255438982986,2246,1071,739,436,sarcasm,neutral
+795,2021-10-18,91,Will the lady be expecting anyone else?,1.5716374269005848,0.027662625939302,684,388,201,95,sarcasm,neutral
+796,2021-10-25,14,I can't focus with that lady downstairs banging on her ceiling.,1.737118320610687,0.0167918815893533,2096,967,713,416,unknown,negative
+796,2021-10-25,82,Youâll always be my bowling trophy wife.,1.5730659025787963,0.028049615352887,698,404,188,106,sarcasm,positive
+797,2021-11-01,67,"So, just to let you know, the women in the office aren't happy with being referred to as damsels.",1.6573088092933204,0.0231776165551426,1033,524,339,170,unknown,negative
+798,2021-11-08,35,My mother in law is in the back seat.Sheâs delicious.,1.7301745635910224,0.0173894745619762,2005,951,644,410,sarcasm,positive
+799,2021-11-15,47,"I saw the woman next door talking to her dog. She thinks he understands her. Weird, no?",1.7098939929328625,0.0141933090159214,2830,1338,976,516,sarcasm,neutral
+800,2021-11-22,18,I still think itâs a bigger deal that sheâs the first woman.,1.7617250673854448,0.0184970649553933,1855,862,573,420,sarcasm,positive
+801,2021-11-29,26,"Checkmate!  Now go ""collect"" my mother-in-law like you promised.",1.620764239365537,0.0206093406147737,1387,771,371,245,sarcasm,negative
+801,2021-11-29,63,Checkmate! You know my mother-in-law's address?,1.561919504643963,0.0297598495017202,646,388,153,105,wit-surprise,neutral
+801,2021-11-29,80,Mate! And I also slept with your wife!,1.5268817204301075,0.0330667392411553,465,280,125,60,irony,neutral
+802,2021-12-06,3,This is from the ladies over there on the 40th floor balcony,1.8324160704457897,0.0133839723385506,3634,1538,1167,929,sarcasm,neutral
+803,2021-12-13,90,"Let me ask you, is your wife someone that likes to push you around?",1.5925925925925926,0.0352230570765902,459,262,122,75,sarcasm,neutral
+804,2021-12-20,18,Letâs see your mother call me a loser now!,1.7002583979328163,0.01950336098252,1548,757,498,293,sarcasm,negative
+804,2021-12-20,59,Poor Stan misunderstood when his wife asked to try something new tonight.,1.564826700898588,0.0264335810676296,779,455,208,116,unknown,negative
+805,2021-12-27,1,Your mom and I think it may be time for you to get your own place.,1.7681441792498782,0.0170985052217689,2053,909,711,433,sarcasm,neutral
+805,2021-12-27,6,I think he's been seeing the woman upstairs.,1.7380607814761215,0.0133534968297435,3455,1635,1090,730,unknown,neutral
+805,2021-12-27,20,I think it's time we address the 115-pound woman in the room.,1.7117794486215538,0.0145681204088181,2793,1346,906,541,unknown,neutral
+805,2021-12-27,23,So you're saying he's been picking up girls all over town?,1.7053093034583535,0.0169105794207966,2053,994,670,389,sarcasm,neutral
+805,2021-12-27,35,"Well Mr. Kong, I think itâs time to address the 150 pound woman in the room.",1.6622247972190034,0.018235578820579,1726,885,539,302,unknown,neutral
+805,2021-12-27,52,"Milton, itâs time we address the 120-pound woman in the room.",1.621875,0.0244806283721143,960,526,271,163,unknown,neutral
+805,2021-12-27,64,"Son, your mother and I have something to tell you.",1.5870253164556962,0.0296764841920944,632,360,173,99,irony,neutral
+805,2021-12-27,73,Itâs time to talk about the 120-pound woman in the room.,1.576592082616179,0.0307116635867327,581,334,159,88,irony,neutral
+805,2021-12-27,82,Actually I  donât think your wife is exaggerating the size of the issue.,1.568014705882353,0.0306492027943237,544,307,165,72,unknown,negative
+806,2022-01-03,34,"Don't give me that look, three drowning girls this month said I was their knight in shining armor.",1.640405993233446,0.0155489751964895,2069,1023,767,279,irony,negative
+806,2022-01-03,90,I wish they all could be Canterbury girls.,1.5237366003062789,0.0281292768980828,653,398,168,87,unknown,neutral
+807,2022-01-10,40,It's a female.  She's asking for directions.,1.6404663407295976,0.0159600436070678,2659,1550,515,594,sarcasm,neutral
+808,2022-01-17,74,Mom?  Dad?,1.5733015494636473,0.0249947569524061,839,475,247,117,unknown,neutral
+809,2022-01-24,2,'Let me do the talking when your mother wakes up.',1.8356626506024096,0.0177962411555637,2075,880,656,539,unknown,neutral
+809,2022-01-24,56,The idea struck me when I heard your mother was afraid of heights.,1.6271929824561404,0.0261293716230768,912,517,218,177,irony,neutral
+809,2022-01-24,69,How much further away do you want the mother-in-law suite?,1.5918032786885246,0.0306663730354412,610,350,159,101,irony,neutral
+809,2022-01-24,86,"And then the rental lady says,""Listen smart ass: 'House for rent, mountain view.' are unrelated clauses, and you can take that all the way to the Supreme Court.""",1.5693581780538302,0.0325346860899379,483,272,147,64,unknown,negative
+809,2022-01-24,92,Couldn't we have left your mother with a caregiver?,1.5583173996175907,0.0324215035359603,523,310,134,79,unknown,neutral
+812,2022-02-14,12,"Well, naturally I wouldn't expect you to understand what it means to have a bitch for a mother.",1.8707274320771248,0.0171269409094873,2282,930,717,635,unknown,negative
+812,2022-02-14,67,"No,no. It wasnât a Freudian slip. My mother really is a bitch.",1.670995670995671,0.0264793590151736,924,501,226,197,unknown,negative
+813,2022-02-21,12,"If Napoleon listens to his mother heâll avoid another a long, hungry march home.",1.718094157685763,0.0176789525923429,1763,804,652,307,wit-surprise,neutral
+813,2022-02-21,43,"Donât call me Josephine, Iâm your mother>",1.6270793036750484,0.0146034469240326,2585,1374,801,410,unknown,negative
+813,2022-02-21,87,"No. L'Ã©tat, c'est Mom.",1.485655737704918,0.0324271201205879,488,315,109,64,unknown,neutral
+815,2022-03-07,83,Call your wacko vegan sister and tell her to get over here.,1.6310160427807487,0.0399889783800217,374,206,100,68,unknown,negative
+816,2022-03-14,0,My ex-wife got most of the house.,1.8623156012516764,0.0121066055615785,4474,1817,1456,1201,incongruity-absurdity,neutral
+816,2022-03-14,28,My mother says I was a difficult birth,1.7274418604651165,0.0238210466461939,1075,514,340,221,unknown,negative
+816,2022-03-14,74,Did your mom have a difficult delivery?,1.6012207527975586,0.0244206666532163,983,562,251,170,unknown,negative
+818,2022-03-28,24,Your profile said youâre seeking a woman for fun and good times.,1.648076923076923,0.0185823692901072,1560,791,527,242,unknown,neutral
+819,2022-04-04,0,"My wife said, ""Try them on, it won't kill you. """,1.8676339946698253,0.0140852143575641,3377,1384,1056,937,incongruity-absurdity,neutral
+819,2022-04-04,2,"So my wife says, âWould it kill you to wear something colorful?",1.841335453100159,0.0143277453400831,3145,1304,1036,805,unknown,neutral
+819,2022-04-04,7,My wife said she'd kill me if I ever wore these pants again...,1.7966412213740457,0.0140298870910573,3275,1456,1029,790,sarcasm,negative
+819,2022-04-04,13,But my wife said SHE would die of embarrassment if I wore these.,1.7661448140900196,0.0175638581608938,2044,939,644,461,irony,negative
+819,2022-04-04,19,I told my wife I wouldnât be caught dead in them.,1.7293622531563613,0.0137892528383745,3089,1438,1049,602,unknown,negative
+819,2022-04-04,24,"Funny enough, my wife used to say these pants were proof there was no God.""",1.718422674060382,0.0196871720474013,1623,803,474,346,wit-surprise,neutral
+819,2022-04-04,27,My wife said it wouldn't kill me to try some color.,1.714107365792759,0.0269243920676485,801,382,267,152,incongruity-absurdity,positive
+819,2022-04-04,57,"My wife bought them for me. She isn't here, is she?",1.6178600160901049,0.0211638439645184,1243,674,370,199,sarcasm,neutral
+819,2022-04-04,66,The very last thing I heard my wife say was âThereâs no way on earth that youâre going to wear those pants outâ¦â,1.586859688195991,0.0242509489193306,898,499,271,128,sarcasm,negative
+819,2022-04-04,85,"I told my wife, ""I wouldn't be caught dead in those pants."" And yet, here we are.",1.5601552393272962,0.0277171714858627,773,474,165,134,incongruity-absurdity,negative
+819,2022-04-04,87,"Funny, because my wife said I looked like hell.",1.5584795321637428,0.027785043395008,684,398,190,96,self-deprecating,negative
+819,2022-04-04,89,Any idea? My wife said that God only knows why I bought these pants.,1.5550595238095235,0.0294080137037813,672,411,149,112,incongruity-absurdity,neutral
+820,2022-04-11,34,You're right--all of these make me think of my mother.,1.6565656565656566,0.0245749523953911,891,445,307,139,irony,neutral
+820,2022-04-11,38,Please. Let's not discuss my mother.,1.6436363636363636,0.0264955460658112,825,438,243,144,sarcasm,negative
+820,2022-04-11,41,"To be honest, they all remind me of my mother.",1.6379066478076378,0.0287754948109651,707,381,201,125,wit-surprise,neutral
+820,2022-04-11,58,I dont want to talk about my mother any more.,1.614516129032258,0.0300636562491029,620,339,181,100,irony,negative
+820,2022-04-11,68,"It's my mother. No, wait, my father. No, definitely my mother. Ooh, a butterfly!",1.6,0.033738354333106,500,282,136,82,incongruity-absurdity,positive
+820,2022-04-11,79,"Yes, of course it reminds me of my mother!",1.589430894308943,0.0338662857220175,492,281,132,79,sarcasm,positive
+820,2022-04-11,99,Honestly? It reminds me of my mother.,1.5647668393782384,0.0383777796855452,386,230,94,62,sarcasm,negative
+822,2022-04-25,57,"Well dear I'm your Auntie on your mother's side, one thousand times removed.",1.5093399750933998,0.0243128037834805,803,484,229,90,wit-surprise,neutral
+822,2022-04-25,63,"So,after my alien reassignment surgery,I became your mother. Any questions,Jeffrey?",1.4890625,0.0275287691624982,640,402,163,75,sarcasm,neutral
+822,2022-04-25,72,...and that's how I met your mother.,1.4774535809018567,0.0253937368637011,754,483,182,89,irony,neutral
+822,2022-04-25,82,"The ad your mom placed said she was looking for a babysitter who was, ""out of this world.""",1.4628482972136223,0.0277390321800933,646,427,139,80,irony,neutral
+822,2022-04-25,97,"Your mother said that rather than hide under your bed, I should read to you.",1.445736434108527,0.0438922221255115,258,175,51,32,sarcasm,neutral
+823,2022-05-02,5,You heard me right ladies and gentlemen; we're arriving early and your luggage is on this plane!,1.6795727636849132,0.0197440996375645,1498,754,470,274,unknown,positive
+823,2022-05-02,18,"Ladies and gentlemen, the captain has now turned on the âapplauseâ sign.",1.5932203389830508,0.0240244676906809,944,527,274,143,sarcasm,neutral
+823,2022-05-02,29,I will now saw a woman in half and she still won't have legroom.,1.5697841726618704,0.029801291744933,695,428,138,129,unknown,negative
+823,2022-05-02,72,"My live magic show replaces our in-flight movie, cancelled over complaints of its violence and insensitive treatment of women, which we can't condone. For my first trick, I'll be sawing a woman in half.""",1.489795918367347,0.0391409342439063,343,222,74,47,unknown,negative
+827,2022-05-30,42,"I know what you mean. My wife complains about me carrying my work home, too.",1.6328173374613002,0.018007660952264,1615,828,552,235,unknown,negative
+827,2022-05-30,81,My wife says Iâm taking this Paleo diet a little too far.,1.5421115065243178,0.0247629323977903,843,499,231,113,irony,negative
+829,2022-06-13,23,Reminds me of a girl I used to know,1.7103174603174602,0.0195491826193459,1512,719,512,281,sarcasm,neutral
+829,2022-06-13,33,Mom would have liked it.  A nice simple headstone.,1.678589942975635,0.0174673020128398,1929,977,595,357,irony,positive
+829,2022-06-13,100,"For the last time, that is not mom",1.5461847389558232,0.0321254836837418,498,292,140,66,sarcasm,neutral
+830,2022-06-20,19,The loudest boos are coming from my mother.  Letâs start there.,1.6777163904235728,0.0168976949997295,2172,1136,600,436,irony,negative
+830,2022-06-20,33,Even my mom said I wasnât a keeper.,1.6371681415929205,0.0265011550199935,791,415,248,128,self-deprecating,negative
+830,2022-06-20,56,Leave my soccer mom out of this.â,1.5784518828451883,0.0258297028866609,956,591,177,188,sarcasm,negative
+831,2022-06-27,1,And a special shoutout to my lovely wife whoâs in the audience tonight.,1.8039346895074944,0.008804891349362,7472,3040,2857,1575,sarcasm,positive
+831,2022-06-27,2,This next one goes out to a special lady in the audience. You know who you are.,1.7851666175169567,0.009361083060326,6782,2900,2439,1443,sarcasm,positive
+831,2022-06-27,6,"... and lastly, to my  ever supportive, encouraging  and, I hope, forgiving wife who I forgot to mention at the award banquet earlier this evening.",1.762164081922576,0.0087907231187873,8447,4000,2456,1991,unknown,positive
+831,2022-06-27,20,"My wife can read me like a book. In fact, she prefers the book.",1.7402024820378836,0.0098304665339882,6124,2814,2087,1223,sarcasm,positive
+831,2022-06-27,41,So my wife asked me to up my performance in bedâ¦.,1.6705737199259716,0.0107419516714653,4863,2429,1607,827,sarcasm,neutral
+831,2022-06-27,50,"Ladies and gentlemen, working from home is still not going great.",1.6125356125356125,0.0134714664745287,2808,1470,956,382,unknown,negative
+831,2022-06-27,52,This isnât the first time my wife has been unimpressed with me in bed.,1.608695652173913,0.0141452930613239,2599,1383,850,366,sarcasm,negative
+831,2022-06-27,54,Jennifer really wished Robertâs mid-life crises was another woman and not stand up.,1.6006074411541382,0.0146960038265535,2634,1485,716,433,sarcasm,negative
+831,2022-06-27,64,This one goes out to the little lady in the pink nightgown.,1.5583145221971406,0.0197973460149614,1329,769,378,182,sarcasm,neutral
+831,2022-06-27,79,"I'd like to give a shout out to my wife, if she listening tonight...",1.5449526813880126,0.0199347744846847,1268,739,367,162,sarcasm,positive
+831,2022-06-27,93,"Take my pleas, wife!",1.5300713557594292,0.0232651372560507,981,599,244,138,irony,neutral
+831,2022-06-27,98,So my wife told me I should take more risks in the bedroomâ¦,1.5244399185336048,0.0217307210666036,982,572,305,105,wit-surprise,neutral
+834,2022-07-18,42,"No, I ordered the 2 turtle doves my wife ordered the 3 French hensâ¦youâve got this all mixed up!â¦.weâll just take a partridge in a pear tree",1.5046142488002954,0.0136316910022953,2709,1685,681,343,sarcasm,negative
+836,2022-08-01,4,My wife insisted that I stop and ask for directions.,1.7416267942583732,0.011522578365695,4389,1992,1539,858,unknown,neutral
+836,2022-08-01,8,"My name is George Santos. You can trust me, my mother was also a cow and she died in Pearl Harbor.",1.714584578601315,0.0101035806983701,6692,3513,1576,1603,irony,negative
+838,2022-08-15,90,Tell the one about the little girl who lives over the bed.,1.4476885644768855,0.0291946075347957,411,248,142,21,incongruity-absurdity,neutral
+840,2022-08-29,10,THAT does not make you Iron Man any more than THIS makes me Cat Woman.,1.6473684210526316,0.0197322506006741,1520,812,432,276,sarcasm,negative
+840,2022-08-29,43,Let me guess. Your mom did all your laundry.,1.5522388059701493,0.0202008392196474,1273,743,357,173,sarcasm,neutral
+840,2022-08-29,52,I see why your first wife took you to the cleaners.,1.529039070749736,0.0240449544476147,947,587,219,141,sarcasm,negative
+840,2022-08-29,71,"Well, my mother always said you were two dimensional.",1.5083870967741937,0.0249595983909912,775,471,214,90,sarcasm,negative
+842,2022-09-12,15,"I know, right?  You don't see too many female pilots.",1.661697990926766,0.0198701706134893,1543,819,427,297,unknown,neutral
+842,2022-09-12,28,"Didn't expect to see a female pilot, huh?",1.637597911227154,0.0177936849756534,1915,1053,503,359,unknown,negative
+842,2022-09-12,29,I understand your surprise. It IS unusual to have a female pilot.,1.6340410219503418,0.0146673228731217,2779,1525,746,508,unknown,neutral
+842,2022-09-12,34,What's scarier is I still make more than female pilots.,1.6216045483259631,0.019149538829095,1583,872,438,273,irony,negative
+843,2022-09-19,36,Yes I HAVE heard the one about the woman on the flying trapeze who caught her husband in the act.,1.5490494296577946,0.0199191366039854,1315,773,362,180,wit-surprise,neutral
+843,2022-09-19,47,Do you agree that your mother is NEVER coming over again?,1.5302904564315352,0.0203386026400829,1205,716,339,150,unknown,negative
+843,2022-09-19,78,"And that kids, is how I met your mother",1.4292993630573247,0.0241293915345478,785,531,171,83,unknown,neutral
+843,2022-09-19,85,So you don't mind my mother moving in with us?,1.419170243204578,0.0262495372513949,699,489,127,83,unknown,neutral
+844,2022-09-26,27,I've called a close female colleague of mine over for a second opinion.,1.6368460955269144,0.0209505867494721,1319,708,382,229,sarcasm,neutral
+844,2022-09-26,91,My wife and I would love to have you for dinner tonight.,1.49890590809628,0.0322134313044634,457,280,126,51,sarcasm,positive
+845,2022-10-03,7,Itâs actually not that complicatedâ you are from Mars and your wife is from Venus.,1.6389333333333334,0.0173076283690988,1875,987,578,310,wit-surprise,neutral
+848,2022-10-24,25,His last wife also had no parachute.,1.541029207232267,0.0282687219704684,719,447,155,117,irony,negative
+849,2022-10-31,2,I'd like my wife's opinion. She's over in the bridle section.,1.741171905316259,0.0158436227832251,2577,1253,738,586,unknown,neutral
+849,2022-10-31,19,My wife was riding me pretty hard about getting a new suit.,1.6334405144694537,0.0186561947976215,1555,810,505,240,sarcasm,neutral
+852,2022-11-21,79,You may attract the ladies but I attract the flies.,1.4310099573257469,0.0258747652553629,703,479,145,79,self-deprecating,neutral
+853,2022-11-28,85,"Be careful -- that's baby swiss, and the mother may be nearby!",1.3861517976031958,0.0246418096236251,751,543,126,82,sarcasm,neutral
+854,2022-12-05,54,My wife told me I've been spending too much time in the office.,1.518450184501845,0.0203178020287935,1084,629,348,107,irony,negative
+855,2022-12-12,11,Mom & Dad haven't crashed their walkers into each other in weeks.,1.609,0.024139215018341,1000,563,265,172,sarcasm,neutral
+855,2022-12-12,38,This is easier than telling your mom we're separated.,1.5063001145475372,0.0147050387016975,2619,1707,498,414,irony,neutral
+855,2022-12-12,100,Mom sounded quite worried when I told her that we're now living on the street.,1.402135231316726,0.0277688865746717,562,390,118,54,irony,negative
+856,2022-12-19,14,I had to put my wife in a bowl yesterday,1.670020120724346,0.013209030622318,3479,1819,989,671,incongruity-absurdity,neutral
+857,2022-12-26,1,"Ladies, ant, gentlemen, this is your captain speaking.",1.7513389441469014,0.0223175942214367,1307,628,376,303,sarcasm,neutral
+857,2022-12-26,61,Câmon lady! Would ya rather i sat behind and kicked your seat the whole flight ?,1.5622895622895625,0.0297709437067811,594,343,168,83,unknown,negative
+857,2022-12-26,65,I thought only the females could fly.,1.5506003430531732,0.0307223011821044,583,350,145,88,unknown,neutral
+857,2022-12-26,96,"Lady, you want to talk about leg room?",1.5098039215686274,0.0358361908388752,357,212,108,37,unknown,neutral
+859,2023-01-09,85,So my wife said 'prove I'm wrong',1.5249221183800623,0.029663232849687,642,406,135,101,irony,neutral
+860,2023-01-16,24,Thatâs where I met my wife.,1.5683587667393335,0.0135259831578117,3211,1935,727,549,incongruity-absurdity,neutral
+863,2023-02-06,81,"Iâve dedicated DECADES of my life indicating Male bathrooms for this company, and youâre just going to let me go!? My wife works here too!",1.5018050541516246,0.0252500375894771,831,530,185,116,unknown,negative
+863,2023-02-06,86,"The kids will stay with your ex-wife on the minivan's rear window, but we've arranged to have it parked near your crosswalk signal on weekends and holidays.",1.4933333333333334,0.0263982935169722,750,482,166,102,sarcasm,neutral
+865,2023-02-20,97,"âSee that, son. Any day the mother ship will come back for us and these humans will be in for a big surprise. Fetch the ball, my ass.â",1.362760834670947,0.0274513777735444,623,471,78,74,unknown,negative
+866,2023-02-27,64,My wife thinks I'm at the planetarium.,1.4740882917466411,0.0184571013633826,1563,1043,299,221,unknown,neutral
+866,2023-02-27,94,They refuse to acknowledge my preference and keep calling me mother.,1.4343220338983051,0.0229270225142002,944,652,174,118,unknown,negative
+867,2023-03-06,45,One of the squirrels is having his lady friend over.,1.4885159010600706,0.0211527195161913,1132,724,263,145,unknown,neutral
+867,2023-03-06,51,What? My wife always makes me put on a tie when we see her branch of the family.,1.4834710743801651,0.0219680350507242,968,605,258,105,unknown,neutral
+868,2023-03-13,14,"My wife says Iâm too vanilla. Like, what does that even mean?",1.6367112810707456,0.0186632388705796,1569,817,505,247,self-deprecating,negative
+868,2023-03-13,15,"My wife no longer finds ""Mister Softee"" an ironic nickname.",1.636259323006311,0.0185729595634701,1743,956,465,322,unknown,neutral
+868,2023-03-13,29,My mom...she's a Dairy Queen,1.5940983606557375,0.0188264956108298,1525,847,450,228,wit-surprise,neutral
+868,2023-03-13,36,I feel women want only one thing from me,1.570113314447592,0.0194029066792198,1412,809,401,202,sarcasm,negative
+868,2023-03-13,53,My wife complains that I'm cold and self-serving.,1.5178777393310263,0.0265303429519864,867,574,137,156,self-deprecating,negative
+868,2023-03-13,73,I've always had a frosty relationship with my mother.,1.4912,0.027744327209498,625,390,163,72,unknown,neutral
+868,2023-03-13,100,Mother was cold.,1.4722222222222223,0.0296908724249966,540,346,133,61,irony,negative
+869,2023-03-20,56,"Well, since the old lady left it all to me, can someone take the cat for ""a ride"".",1.5179738562091505,0.0298329936189461,612,385,137,90,unknown,negative
+869,2023-03-20,69,If you don't order the Fresh Caught Tuna I won't order the Lady Fingers.,1.4959016393442623,0.0311086946141269,488,300,134,54,unknown,negative
+870,2023-03-27,4,"Of course, we'll place it higher if it's a girl.",1.672907488986784,0.0191893692693594,1816,1001,408,407,unknown,neutral
+870,2023-03-27,36,"Buffett if itâs a girl, Warren if itâs a boy.",1.511111111111111,0.0215109581738891,1125,702,271,152,unknown,neutral
+870,2023-03-27,50,Your mom handed it to me and said 'We don't need any more dreamers in this family...',1.4577883472057076,0.023032126707311,841,539,219,83,sarcasm,neutral
+871,2023-04-03,8,"Hi mom, I dissolved my relationship with Jim.",1.6289424860853432,0.0165925600941402,2156,1188,580,388,sarcasm,negative
+871,2023-04-03,9,"Mom, it just doesn't taste the same as yours.  Who do you think I'm missing",1.6059664387818522,0.0185905437588539,1609,889,465,255,sarcasm,negative
+871,2023-04-03,65,"Hey guys, itâs your girl Elphaba, AKA Miss Toil Nâ Trouble. To all my haters out there, thank you for the motivation. And to all my witchy Wicca chicas on the channel, I am obsessed with this new slow cooker cauldron from Pottery Barn. Use code âEYEOFNEWTâ to take 20% off your first order.",1.45,0.0265631292678615,700,471,143,86,sarcasm,positive
+871,2023-04-03,70,"Mom, I finally found a man I love; he's so tender!",1.4444444444444444,0.0381107966983352,306,200,76,30,irony,positive
+873,2023-04-17,25,"Initial test results from the colonoscopy indicate we have located your glasses, your angry eyes, and your wife's purse.",1.6652030735455543,0.0185344707734501,1822,977,478,367,sarcasm,neutral
+874,2023-04-24,26,"Don't worry, your wife was explicit.  The dog stays.",1.587092297015961,0.0146935895409475,2882,1737,598,547,unknown,neutral
+876,2023-05-08,58,"How is it, that the majority of us caption voters can CONSISTANTLY vote favorably for ALL of the captions (that we later find out were) submitted by Colin Mills and his mother, Carol Lasky?",1.528099910793934,0.0252640706834571,1121,790,70,261,unknown,neutral
+877,2023-05-15,42,"Whatâs the emoji for anxiety-ridden, middle-aged woman?",1.465346534653465,0.0251679704142938,808,538,164,106,unknown,negative
+880,2023-06-05,89,"After we're done talking about your mother, maybe you can help me change the battery on this thing.",1.4907063197026025,0.0296774075500248,538,334,144,60,sarcasm,neutral
+880,2023-06-05,100,We have roughly 7 minutes left. Tell me about your mother.,1.4840637450199203,0.0317401536890507,502,323,115,64,unknown,neutral
+882,2023-06-19,21,"Because his mother owns the ranch, thatâs why.",1.622037422037422,0.0151979887969714,2405,1294,726,385,wit-surprise,neutral
+883,2023-06-26,1,That reminds meâyour mother called this morning.,1.806157354618016,0.0162141726592721,2631,1214,713,704,sarcasm,neutral
+883,2023-06-26,76,That reminds me. Are we inviting your mother to the wedding?,1.5328,0.030448678974334,625,395,127,103,sarcasm,neutral
+884,2023-07-03,22,Tell my wife it happened at a baseball game..not like this.,1.617874736101337,0.0198305103566488,1421,772,420,229,sarcasm,negative
+885,2023-07-10,64,"Fine, I take it back. Your mom wasnât a snow blower.",1.4715672676837726,0.0277469553178431,721,491,120,110,sarcasm,neutral
+886,2023-07-17,33,My mother warned me about marrying a dermatologist.,1.572704081632653,0.0169761917725165,2352,1514,329,509,incongruity-absurdity,negative
+889,2023-08-07,68,"I'm Mahi, and this is my wife Mahi.",1.5352112676056338,0.0251316758147852,852,519,210,123,irony,neutral
+889,2023-08-07,76,This is my sister you idiot.,1.5207439198855508,0.0278507890694473,699,437,160,102,sarcasm,negative
+892,2023-08-28,23,"Sorry girl, we're not allowed back at the dog park.",1.632019532612487,0.0138614592329635,2867,1511,900,456,sarcasm,negative
+892,2023-08-28,42,"You know, Alice, these last few years you are looking a lot like your mother.",1.570383912248629,0.0227354606275911,1094,645,274,175,sarcasm,neutral
+892,2023-08-28,96,"For the last time, stay off the furniture and spit out my wife.",1.4871794871794872,0.026948857722353,702,451,160,91,unknown,negative
+893,2023-09-04,14,"Iâd love to give you a tour, but unfortunately no girls are allowed.",1.6844792996534743,0.010500437365431,5483,2795,1623,1065,sarcasm,negative
+893,2023-09-04,18,It's perfect for your mother.,1.6720662347012238,0.0146169846163117,2778,1429,831,518,sarcasm,positive
+893,2023-09-04,40,I'm sorry but the owner says there are no girls allowed.,1.623360655737705,0.0153316050523385,2440,1332,695,413,unknown,negative
+893,2023-09-04,53,"The deed has a âno girls allowedâ covenant, but itâs unenforceable.",1.570857558139535,0.0140861360628562,2752,1595,743,414,incongruity-absurdity,neutral
+893,2023-09-04,56,They built it as a mother-in-law unit.,1.5611479028697572,0.0157483063486443,2265,1351,557,357,incongruity-absurdity,neutral
+893,2023-09-04,62,It recently came on the market after the zoning was changed from âNo girls allowed.â,1.5385579937304077,0.0182671321943337,1595,962,407,226,irony,neutral
+893,2023-09-04,76,"Sorry, the seller says no girls allowed.",1.5140905209222886,0.0215542937831903,1171,741,258,172,unknown,negative
+893,2023-09-04,77,Unfortunately thereâs a clause in the deed that states no girls are allowed.,1.5137180700094608,0.0225194802091782,1057,665,241,151,irony,negative
+893,2023-09-04,99,Do you think your Mother could manage the steps?â,1.4929577464788732,0.0249498419189872,781,488,201,92,unknown,neutral
+895,2023-09-18,46,"I gotta go bad, so which one are we,  Menâs or Women?",1.5192660550458716,0.0214096882441843,1090,660,294,136,unknown,neutral

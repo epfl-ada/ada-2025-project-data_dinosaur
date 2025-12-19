@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Now let's see 'em walk off with the bathroom key!,1.975480450629556,0.0116906343643562,4527,1457,1724,1346,sarcasm,neutral
+2,"Arrgh, we'll see if the bathroom key goes missing now!",1.9147251752997057,0.0117695759146469,4421,1558,1682,1181,sarcasm,negative
+8,Or you could just move the damn coffee maker.,1.7962682803832577,0.0121395090580753,3966,1645,1484,837,sarcasm,negative
+4,"I like it. Since the anchor arrived, no one has asked about my hook, my hat, or what happened to the parrot.",1.8504889346371591,0.0124021430294936,3886,1495,1477,914,incongruity-absurdity,positive
+5,I know. I know. I have anchor management issues.,1.8457645178476287,0.0130618142553935,3754,1536,1261,957,self-deprecating,negative
+6,"So I tell Pete, I'd give my right hand for an anchor like that.",1.8402777777777777,0.0129839489242491,3744,1528,1286,930,wit-surprise,neutral
+9,It's no wonder this place has struggled to stay afloat,1.7553800054481068,0.012408344145429,3671,1596,1377,698,exaggeration,negative
+22,Why? Because every mall needs an anchor store.,1.6126802884615383,0.0134188943808343,3328,1891,835,602,exaggeration,neutral
+7,Complain all you want but I haven't lost a bathroom key yet.,1.820704708450265,0.0136435998330753,3207,1296,1190,721,incongruity-absurdity,negative
+1,"It was free, but the shipping cost me an arm and a leg.",1.961109340133886,0.014432871710308,3137,1088,1083,966,unknown,neutral
+3,Why does everyone assume it's mine?,1.854208084824387,0.0141374378759099,3018,1162,1134,722,self-deprecating,negative
+17,"Arrggh, it looked smaller on eBay.",1.65125591554423,0.0136714647455712,2747,1351,1003,393,incongruity-absurdity,neutral
+12,Welcome to Arrbucks.,1.7045370711914425,0.0147958099236741,2711,1323,866,522,incongruity-absurdity,positive
+19,The last one I left outside got stolen.,1.6400742115027829,0.0139005134036607,2695,1361,943,391,irony,negative
+10,This used to be part of a chain.,1.7439668174962293,0.0153713940162102,2652,1257,817,578,incongruity-absurdity,neutral
+18,We're Starboard's. Starbucks is up the street.,1.6409681757059615,0.015578518640001,2231,1148,736,347,incongruity-absurdity,neutral
+15,It cost me an arm and a leg...,1.660463004993191,0.0155701435399089,2203,1089,773,341,incongruity-absurdity,negative
+13,My ex-wife got the rest of the boat.,1.672077922077922,0.0161054986240914,2156,1072,719,365,unknown,neutral
+25,I'm working on my anchor management issues.,1.6080550098231827,0.0161243680424488,2036,1094,646,296,self-deprecating,neutral
+20,"There's mutiny in the air. Also Viennese dark roast, but mainly mutiny.",1.6269640141915864,0.0163920663718717,1973,1028,653,292,sarcasm,negative
+23,Let's just drop it.,1.6125760649087222,0.01642046891614,1972,1054,628,290,sarcasm,neutral
+24,Welcome to Sunken Donuts!,1.6086726599682708,0.0171763029473976,1891,1042,547,302,incongruity-absurdity,positive
+27,I'm sure whoever forgot it will be back.,1.600231749710313,0.0171348574838306,1726,920,576,230,sarcasm,neutral
+29,5.99 at Starbucks and they call me a pirate.,1.5720779220779222,0.0186572286091726,1540,883,433,224,sarcasm,negative
+11,Order for Ishmael is ready.,1.70767004341534,0.0202406466859691,1382,652,482,248,irony,neutral
+34,Why do you assume it's mine?,1.5379310344827586,0.019338002899207,1305,759,390,156,sarcasm,neutral
+36,"You'll thank me when the big one hits, and all the other coffee shops are washed away!",1.5304548959136468,0.0189410086855005,1297,749,408,140,exaggeration,positive
+38,When are they going to put that anchor aweigh?,1.5122918318794607,0.0197707789589688,1261,768,340,153,irony,neutral
+16,Does it look like I can give you a hand?,1.6602254428341383,0.0216823830376603,1242,645,374,223,sarcasm,neutral
+14,"Would you like that for here, or take aweigh?",1.6655260906757914,0.0216539026249619,1169,581,398,190,incongruity-absurdity,neutral

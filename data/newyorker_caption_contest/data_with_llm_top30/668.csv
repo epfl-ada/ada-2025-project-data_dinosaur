@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Sorry Puff, but the magic is gone.",2.08043013920601,0.006608269315512,13577,3540,5412,4625,sarcasm,negative
+Give me a minute while I slip into something a little less flammable.,2.073878835562549,0.0067352424681501,12710,3264,5257,4189,self-deprecating,neutral
+"Well, if you must know, I'm in the middle of a one knight stand""",2.057460372157133,0.0074063346103818,11608,3411,4131,4066,unknown,neutral
+I’m sorry. I’ve been burned too many times.,2.098273456574817,0.0072605284030493,11468,2968,4409,4091,self-deprecating,negative
+I'll be honest with you. It's your breath.,2.03645147123408,0.0072910761805679,11385,3255,4464,3666,sarcasm,neutral
+"...look, I know that cough was an accident, but they were my parents..",2.0264160978636645,0.0076161066862722,11281,3558,3872,3851,sarcasm,neutral
+Well you don't look anything like your picture either!,1.974348616441123,0.0079513664723751,9902,3242,3677,2983,sarcasm,negative
+"Yes, yes, I mythed you too.",2.048226801966733,0.0082958041681093,9559,2932,3237,3390,sarcasm,positive
+"I told you, Puff, the magic's gone.",1.879050368944498,0.0080360665451886,9351,3492,3512,2347,sarcasm,neutral
+"No... I said slay the knight, not stay the night!",1.9658034528552455,0.0083991954165766,9036,3062,3230,2744,wit-surprise,neutral
+"Look, damsels say all sorts of things in distress.",1.9624691911270449,0.0081337412942993,8926,2834,3603,2489,sarcasm,negative
+Honey! Your mother's here!,1.8571428571428572,0.0089192947435965,8624,3672,2516,2436,sarcasm,positive
+"Well, if it isn’t my old flame.",1.8672743163940568,0.0085485459089576,8009,2958,3161,1890,sarcasm,negative
+"If Mother asks,you're a Jewish doctor under a spell.",1.7747913424812565,0.0093462713659223,7069,3175,2318,1576,wit-surprise,neutral
+"I'm sorry, but it's over between us, you've burned too many bridges.",1.7379679144385027,0.0090567276942602,6732,2984,2533,1215,sarcasm,negative
+"Oh sure. Now that Game of Thrones is over and you're out of work,
+you come crawling back.",1.7716020551144325,0.0094581359719285,6423,2761,2374,1288,sarcasm,neutral
+Oh good. You’re here. The pilot light just went out.,1.740261839340553,0.0093900128192933,6187,2727,2351,1109,sarcasm,positive
+Come around to the serpent's entrance.,1.7411014103425118,0.0100716117556015,5956,2787,1931,1238,incongruity-absurdity,neutral
+I hope that's your tail?,1.672187321530554,0.0107336022414719,5253,2750,1482,1021,sarcasm,neutral
+"Ever since I kissed that frog, it just never ends",1.7521177894312223,0.0107956931229054,4958,2199,1789,970,incongruity-absurdity,positive
+"Sorry,I don't date guys who smoke.",1.6504014823965412,0.0102529374156882,4857,2403,1756,698,sarcasm,negative
+"Ahh, just in time.  We're making Creme Brulee.",1.6910721735502712,0.0106812079456003,4794,2285,1707,802,incongruity-absurdity,positive
+"No, I do not want to frolic in the autumn mist.",1.6451187335092348,0.0108360613977595,4548,2315,1535,698,sarcasm,negative
+"It’s not a sneeze when you burn a village, Carl.",1.6870967741935483,0.011123603133499,4340,2079,1549,712,sarcasm,negative
+"Just so you know, Dad has terrible gas.Try not to set him off.",1.6613131790269249,0.0115992028114861,4234,2178,1317,739,sarcasm,negative
+"When I said ""Toast the King!"" I meant something quite different.",1.6836487142163998,0.0116069486372044,4122,2020,1393,709,irony,neutral
+She refuses to leave the castle until her eyebrows grow back.,1.6318432948267203,0.0112302736957392,3982,2020,1415,547,incongruity-absurdity,neutral
+You seem sweet but I've been burned by guys like you before.,1.638363965829666,0.0112399274891256,3863,1896,1469,498,sarcasm,negative
+"No, I quite clearly said I was a drag queen.",1.6413978494623656,0.0124825127881584,3720,2009,1046,665,self-deprecating,neutral
+Looks like we both lied on our dating profile.,1.6369962307915338,0.0120665589848201,3449,1719,1263,467,sarcasm,negative

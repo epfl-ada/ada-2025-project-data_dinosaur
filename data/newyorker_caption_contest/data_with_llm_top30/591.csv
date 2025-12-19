@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3614,"Now, here is where the treatment becomes a bit... controversial.",1.0,0.0001992230311706,5020,5020,0,0,irony,neutral
+3619,The last person I treated stayed clean for 4 years.,1.0,0.0001995808811454,5011,5011,0,0,unknown,neutral
+3608,I’m a marine psychologist.,1.0,0.0002020406111935,4950,4950,0,0,wit-surprise,neutral
+3616,"I prefer to call it hydrotherapy, not ""soaking my patients"".",1.0,0.0002024906358459,4939,4939,0,0,wit-surprise,neutral
+3612,Of course it's cold - you're my 4th patient today!,1.0,0.0002034795004935,4915,4915,0,0,sarcasm,neutral
+23,I sense there's a lot more below the surface.,1.0,0.0002057401512789,4861,4861,0,0,wit-surprise,neutral
+3620,"As it turns out, you actually are a dirty old man.",1.0,0.0002058248441484,4859,4859,0,0,self-deprecating,negative
+3613,"No, you’ll still be conflicted but you’ll smell better.",1.0,0.0002076196419367,4817,4817,0,0,self-deprecating,neutral
+3611,It’s called immersion therapy.,1.0,0.0002077490402814,4814,4814,0,0,unknown,neutral
+3621,I can't make you scrub. You have to want to scrub.,1.0,0.0002112601680741,4734,4734,0,0,wit-surprise,neutral
+3627,Our time is up. We'll do your back next week.,1.0,0.0002127433263817,4701,4701,0,0,unknown,neutral
+3610,"This is how we came to be called, ""shrinks.""",1.0,0.0002203856762691,4538,4538,0,0,self-deprecating,neutral
+3607,"Do you need a duckie, or do you want a duckie?",1.0,0.0002254537270552,4436,4436,0,0,incongruity-absurdity,neutral
+3623,I see you've moved beyond compulsive hand washing.,1.0,0.000235765650583,4242,4242,0,0,sarcasm,neutral
+3635,"No, the soap is your mother. The brush is Uncle Murray.",1.0,0.0002402979712166,4162,4162,0,0,incongruity-absurdity,neutral
+3622,"If I see any more bubbles, this session is over.",1.0,0.0002414584105487,4142,4142,0,0,incongruity-absurdity,negative
+3609,Go deeper.,1.0,0.0002427479080873,4120,4120,0,0,unknown,neutral
+3642,"If you say, 'Up periscope' again, I'll hit it with this.",1.0,0.0002492211857355,4013,4013,0,0,sarcasm,neutral
+3639,Just be careful when you get out. You don't want to Freudian slip.,1.0,0.0002538393217551,3940,3940,0,0,sarcasm,neutral
+3645,Today we will be analyzing your wet dreams.,1.0,0.0002542911654375,3933,3933,0,0,wit-surprise,neutral
+3632,Well you seem to be keeping your head above water.,1.0,0.0002574996802596,3884,3884,0,0,sarcasm,positive
+3630,Just let that thought soak in.,1.0,0.0002591680726696,3859,3859,0,0,exaggeration,neutral
+3631,"You think I'm soaking you now, wait until you get my bill.",1.0,0.0002599766043022,3847,3847,0,0,sarcasm,neutral
+3583,"Why, what did you think ""Total Immersion Therapy"" was like?",1.0,0.0002635393355334,3795,3795,0,0,sarcasm,neutral
+3644,"No, that's not why we're called ""shrinks"".",1.0,0.0002666311182206,3751,3751,0,0,sarcasm,negative
+3634,If you want a loofah you'll need to see a Jungian.,1.0,0.0002680605840991,3731,3731,0,0,wit-surprise,neutral
+3628,You're getting soapy...very soapy...,1.0,0.0002695054599323,3711,3711,0,0,sarcasm,neutral
+3641,It's immersion therapy. What did you expect?,1.0,0.0002793686296286,3580,3580,0,0,self-deprecating,negative
+3643,"Therapy? no. But it should help with your ""no one wants to be near me"" problem.",1.0,0.0002832460019908,3531,3531,0,0,self-deprecating,negative
+3629,You may have noticed I am from the Jacuzzian school of thought.,1.0,0.0002855103526593,3503,3503,0,0,wit-surprise,neutral

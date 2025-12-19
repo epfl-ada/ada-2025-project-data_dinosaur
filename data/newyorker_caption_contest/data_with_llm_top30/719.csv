@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+The only downside is that the monthly rent has to be paid in quarters,1.948809197919518,0.007542785871499,10959,3711,4098,3150,incongruity-absurdity,negative
+Well the ad did say apartment size washer and dryer.,1.9616600387478331,0.0082198127652162,9807,3444,3295,3068,irony,neutral
+"If you want a side-by-side, you'll have to go to the suburbs.",1.9660693457745733,0.0081747285742422,9431,3137,3477,2817,incongruity-absurdity,neutral
+"And, the place practically cleans itself.",1.8995909750626732,0.0089051518554137,7579,2696,2948,1935,unknown,positive
+...course you’ll have to put some money into it.,1.9874471458773784,0.00921396270408,7568,2479,2705,2384,sarcasm,neutral
+Nothing in the neighborhood stacks up against it.,1.859392575928009,0.0096744224871686,7112,2937,2238,1937,incongruity-absurdity,negative
+"Between you and me, the owner can’t unload this fast enough.",1.906125356125356,0.0093755070301862,7020,2526,2627,1867,sarcasm,neutral
+Rent is stabilized at 25 cents for five minutes.,1.898176073531524,0.0097843400736916,6963,2711,2250,2002,incongruity-absurdity,neutral
+The only downside is that rent needs to be paid in quarters.,1.8297872340425532,0.0095510590737129,6768,2763,2394,1611,incongruity-absurdity,negative
+"...and the upper unit will be ready in, let's see... 31 minutes.",1.851351351351351,0.009266113179013,6660,2475,2701,1484,incongruity-absurdity,neutral
+"No, I didn't say it's a co-op. I said coin-op.",1.8675108091414456,0.0098038506962348,6476,2501,2332,1643,wit-surprise,neutral
+You’ll need to be approved by the Ironing Board.,1.836161011310712,0.0103958993231571,6012,2526,1945,1541,irony,neutral
+You pay rent quarterly.,1.835129881604524,0.0105372975847458,5659,2321,1950,1388,incongruity-absurdity,neutral
+You’ll want flood insurance,1.8623175346909353,0.0108658899988995,5549,2252,1809,1488,incongruity-absurdity,neutral
+"Before we go inside I must ask, would either of you consider yourself delicate?",1.8376492194674012,0.0104941950720528,5445,2146,2037,1262,sarcasm,neutral
+The whole complex was built with laundered money,1.7885224520216136,0.0108542312236787,5367,2384,1734,1249,irony,neutral
+"As soon as the buzzer sounds, we should be able to get in.",1.7906238326484871,0.0100596496636897,5354,2128,2219,1007,incongruity-absurdity,neutral
+"Now, before going inside I need you to empty your pockets.",1.81555257613484,0.0108787288713954,5221,2183,1818,1220,sarcasm,neutral
+The seller has been trying to unload this for a while.,1.7712248865845754,0.0109501160751437,4629,1935,1818,876,exaggeration,neutral
+What made you want to live in the garment district?,1.797404311482622,0.0114661059517309,4546,1912,1643,991,irony,neutral
+"And for your convenience, there's an apartment within walking distance.",1.7590813217717365,0.0120116691980972,4267,1951,1393,923,incongruity-absurdity,neutral
+Ignore the ‘Whites Only’ sign.,2.058268459542345,0.0125124511652681,4239,1290,1412,1537,irony,neutral
+.  . .And our seniors especially like the wrinkle-free settings.,1.799150342223271,0.0126235542442682,4237,1941,1206,1090,incongruity-absurdity,positive
+"""When it was first built they required separating whites from colors, but fortunately times have changed.",1.7409124176628443,0.0124192712844306,4099,1964,1233,902,incongruity-absurdity,neutral
+Unfortunately there is no laundry room.,1.7266717518433763,0.0130883940343257,3933,2009,990,934,unknown,negative
+Or maybe you'd prefer a home on the range?,1.785950623568338,0.0128667060348532,3929,1788,1194,947,unknown,neutral
+"And the best part is, you'll hardly hear the traffic.",1.819940070825388,0.012714572363519,3671,1479,1374,818,unknown,positive
+"It's the Trump family headquarters, Launder on top floor and Spin on street level.",1.8116466982446364,0.0140462842927963,3589,1672,921,996,irony,neutral
+"If you stay at casual wash and medium dry, it should be within your budget.",1.7362792006754857,0.0134348442477236,3553,1731,1028,794,incongruity-absurdity,neutral
+We market this home to ‘The wheels on the bus ...’,1.6955046649703138,0.0146849180457022,3537,2051,512,974,incongruity-absurdity,neutral

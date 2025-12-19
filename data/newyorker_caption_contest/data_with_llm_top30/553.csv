@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I'd like to see other people.,1.7865853658536586,0.0462130630405067,328,157,84,87,unknown,neutral
+1,"I know that look, you're not going to let this go.",1.76,0.047539222789776,300,146,80,74,sarcasm,neutral
+2,I'd like to see other people.,1.7392857142857143,0.047997250030947,280,136,81,63,unknown,neutral
+3,What a delightful coincidence. I'm also recently single.,1.718146718146718,0.0489977228687082,259,127,78,54,sarcasm,positive
+4,Maybe his second week will go better.,1.71484375,0.0516551408935177,256,134,61,61,sarcasm,positive
+5,The corrupt media will blow this way out of proportion.,1.7125984251968505,0.0514366273712302,254,132,63,59,exaggeration,negative
+6,I want to start seeing other people...,1.7125984251968505,0.0508279593486486,254,130,67,57,sarcasm,neutral
+7,Hopefully the president's second day in office will go a bit smoother.,1.7114624505928853,0.0513230376079225,253,131,64,58,sarcasm,positive
+8,"Oh, and I'm gay.",1.6942148760330578,0.0516142992202407,242,126,64,52,self-deprecating,negative
+9,I wonder what Donald will do on his second day?,1.6942148760330578,0.0519454354183423,242,127,62,53,irony,neutral
+12,I want to see other people.,1.6666666666666667,0.0544264481328324,222,122,52,48,self-deprecating,neutral
+10,I'm gay.,1.6681818181818182,0.0570437614172734,220,127,39,54,irony,neutral
+11,I'm not leaving. It's rent-controlled.,1.6666666666666667,0.0554262385574642,219,122,48,49,unknown,neutral
+13,You just had to tear off that mattress tag.,1.663594470046083,0.0535564004122635,217,116,58,43,unknown,negative
+14,... and it's only January 21st.,1.6572769953051645,0.0560735072117853,213,120,46,47,exaggeration,neutral
+15,"On the plus side, Manhattan is affordable now.",1.6572769953051645,0.04979834004564,213,105,76,32,exaggeration,positive
+16,I'd like to start seeing other people.,1.6572769953051645,0.0560735072117853,213,120,46,47,self-deprecating,neutral
+17,I'm gay.,1.6507177033492824,0.0566481872824635,209,119,44,46,unknown,neutral
+18,I won't fight the divorce...... you can have everything,1.6386138613861383,0.0540509176286343,202,109,57,36,sarcasm,neutral
+19,The good news is they cancelled my colonoscopy.,1.6294416243654823,0.0547990212522552,197,108,54,35,self-deprecating,positive
+22,We're just two people breaking up. It's not the end of the world.,1.6275510204081634,0.0555198128630716,196,109,51,36,self-deprecating,neutral
+21,He did promise to create more construction jobs.,1.6275510204081634,0.0550465348282096,196,108,53,35,exaggeration,neutral
+20,"Don't worry, he's going to replace it with something terrific.",1.6275510204081634,0.0545691522092482,196,107,55,34,exaggeration,positive
+23,"It's only January, honey. Give him a chance!",1.6256410256410256,0.0594431368220673,195,117,34,44,sarcasm,positive
+24,"Okay, maybe you did smell gas.",1.621761658031088,0.0553165937680518,193,107,52,34,sarcasm,neutral
+25,"Give him a chance, they said. How bad could he be, they said.",1.6197916666666667,0.0584403138156232,192,113,39,40,irony,negative
+26,"Well, maybe the second 100 days will be better.",1.6117021276595744,0.0590665468852694,188,112,37,39,sarcasm,positive
+27,I think we should see other people.,1.6054054054054054,0.0568964762256128,185,106,46,33,sarcasm,neutral
+31,"So, what do you think he'll do in his second term?",1.6032608695652173,0.0597069652542906,184,111,35,38,sarcasm,neutral
+30,Remember when you said you'd only date me if I was the last man on earth?,1.6032608695652173,0.0571658905612796,184,106,45,33,self-deprecating,neutral

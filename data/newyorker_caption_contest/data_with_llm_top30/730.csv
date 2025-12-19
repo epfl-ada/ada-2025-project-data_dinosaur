@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"I'm the only one commenting on your name, Dr. Katz?",2.176470588235294,0.0823793881883131,119,39,20,60,sarcasm,neutral
+For lunch why don't we go to that hole in the wall place you like.,1.71875,0.1207701679544329,32,13,15,4,sarcasm,neutral
+Right on time! Everyone else complains this basement is a maze.,1.7096774193548387,0.1327423601033201,31,14,12,5,unknown,negative
+"I know you grew attached to them, but we need to terminate those four turtle subjects",1.3214285714285714,0.1156254149550275,28,21,5,2,sarcasm,negative
+"If you're free after work, I know this hole-in-the-wall place you'll love.",1.75,0.1510544945291609,28,13,9,6,sarcasm,positive
+This is not going to play well on social media.,1.1538461538461535,0.0910166120476864,26,23,2,1,sarcasm,negative
+"I'm impressed by how quickly you made it here, doctor. This lab is a maze.",1.7692307692307692,0.1692307692307692,26,13,6,7,sarcasm,positive
+How does this sound? 'Product tested BY laboratory mice?',1.6,0.1632993161855452,25,15,5,5,incongruity-absurdity,negative
+It's an honor to be working with you Sir.  Sorry about the shrieking and screaming earlier.,1.68,0.1604161255402128,25,13,7,5,sarcasm,positive
+You were warned about side effects.,1.25,0.1085143415353038,24,19,4,1,sarcasm,neutral
+"As you've already deduced, you did NOT receive the placebo.",1.5416666666666667,0.1590183503523799,24,15,5,4,sarcasm,negative
+"Ethical concerns aside, you are gonna love being on this side of the microscope.",1.1666666666666667,0.0777087340200261,24,20,4,0,sarcasm,positive
+"Says here, you have a lot of lab experience.",1.826086956521739,0.1849278666448947,23,11,5,7,exaggeration,neutral
+I suspect implicit bias remains an issue for you,1.173913043478261,0.0808104675899638,23,19,4,0,sarcasm,negative
+"I don't think I said ""three blind,"" but, if I did, I'm sorry. I meant double-blind.",1.565217391304348,0.1642576660488549,23,14,5,4,sarcasm,negative
+I just kept turning left. Why do you ask?,1.5909090909090908,0.1697858456193799,22,13,5,4,incongruity-absurdity,neutral
+"For the last time, Bob, I don’t know who moved your cheese.",1.7272727272727273,0.1763239121594484,22,11,6,5,sarcasm,neutral
+The cheese salad has definitely become more sophisticated.,1.1428571428571428,0.0782460796435951,21,18,3,0,unknown,positive
+It's just that not many in your classification have asked about our retirement plan.,1.619047619047619,0.1756103706151026,21,12,5,4,wit-surprise,neutral
+"If you give a mouse a lab coat, he is going to ask for some beakers.",1.619047619047619,0.1756103706151026,21,12,5,4,incongruity-absurdity,neutral
+I think we are ready for the human trials.,1.619047619047619,0.1614840472172682,21,11,7,3,irony,neutral
+Inside the labs at Purdue Pharma,1.238095238095238,0.0952380952380952,21,16,5,0,exaggeration,neutral
+I'm also the first in my family!,1.7142857142857142,0.1710312856768378,21,10,7,4,self-deprecating,positive
+"We have successfully completed the vaccine trial on republicans, so we can confidently start testing on mice.",1.55,0.1697521412933698,20,12,5,3,sarcasm,positive
+HR said lab rat isn’t pejorative.,1.55,0.1846048411294271,20,13,3,4,irony,neutral
+"You probably won't believe me, but I always thought the maze was a stupid idea.",1.6,0.1685854460847048,20,11,6,3,wit-surprise,negative
+And where did you do your training?,1.6,0.1685854460847048,20,11,6,3,sarcasm,neutral
+Preliminary results look good for your group,1.15,0.0819178021909125,20,17,3,0,irony,positive
+"Congrats on your promotion. No hard feelings, right?",1.7,0.1468977445995038,20,8,10,2,sarcasm,positive
+"A hundred per cent success rate, Doctor.  All the cats died.",1.5,0.1701392618446801,20,13,4,3,incongruity-absurdity,negative

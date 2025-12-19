@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Am I catching you at a bad time?,1.6057769888655802,0.00983223958214,6197,3559,1522,1116,sarcasm,negative
+If you were actually the height you listed on your profile this wouldn't be an issue,1.6457943925233645,0.0137385441737273,3210,1742,863,605,sarcasm,neutral
+"If I had a ring on my finger, then maybe you could grip better.",1.5314357209884266,0.0131843240232287,3197,1988,719,490,sarcasm,neutral
+Just so you know - it's not like me to pick up guys on the fly.,1.5639747424393486,0.0133617061154489,3009,1750,821,438,self-deprecating,neutral
+Promise not to vote for Trump again?,1.57425068119891,0.0144681739018133,2936,1793,600,543,sarcasm,negative
+"No, not your hands. The car keys!",1.646131805157593,0.0148757420729272,2792,1531,718,543,unknown,neutral
+Pretend I'm the remote!,1.5741347905282332,0.0141923062830869,2745,1592,730,423,unknown,neutral
+Sorry dear. You saw the sign. ‘Catch and Release.’,1.5779816513761469,0.0143318544851088,2725,1580,715,430,irony,neutral
+"It was at this exact moment when Brenda asked herself, “are you really happy with Frank?”",1.5750092148912642,0.014443831615871,2713,1589,688,436,unknown,neutral
+"Bob, I feel like I am doing all the work in this relationship.",1.6424601704334938,0.0145139824462325,2699,1422,820,457,sarcasm,neutral
+I’ll be back in a sec.,1.5445046439628485,0.0133463008960513,2584,1451,859,274,self-deprecating,neutral
+"Oh, now you want me?",1.5421782178217822,0.0142313811270763,2525,1488,705,332,sarcasm,neutral
+"Good God, NO!  They drew my arms too short!",1.609387430389817,0.0156250791407835,2514,1454,588,472,self-deprecating,negative
+You’ll be fine. You’re standing on my second husband.,1.5326446280991737,0.0148470477871519,2420,1475,601,344,incongruity-absurdity,positive
+My therapist says I need to let go.,1.649390243902439,0.0160935079903276,2296,1226,649,421,sarcasm,neutral
+The only time you reach out to me is when it's convenient for you.,1.5944055944055944,0.0152668384348205,2288,1262,692,334,sarcasm,neutral
+Turns out I can let you go.,1.6559428060768544,0.0160463485555734,2238,1162,684,392,sarcasm,positive
+All the guys I attract are so needy.,1.506007393715342,0.0158837740708194,2164,1389,455,320,self-deprecating,negative
+Are you happy you married a swinger now?,1.5467765390208434,0.0158541460561163,2063,1214,570,279,sarcasm,neutral
+"I'm sorry, what was that? Did you say you were wrong?",1.6193293885601578,0.0169721721477733,2028,1125,550,353,sarcasm,negative
+I don't usually pick up men this way.,1.6254346746150026,0.0167592534125974,2013,1087,593,333,sarcasm,neutral
+"Leave the circus,” you said. “You’ll never use those skills,” you said",1.6922305764411028,0.0175484700837489,1995,1014,581,400,sarcasm,negative
+I didn't let go. You let go.,1.5658307210031348,0.0163617622585217,1914,1086,573,255,sarcasm,neutral
+"So, who’s ‘too needy’ now?",1.6276709401709402,0.017194218253754,1872,996,577,299,self-deprecating,neutral
+Quick tell me your pin number in case this doesn't work,1.6352437064809855,0.0177902153511665,1867,1016,516,335,sarcasm,negative
+Ooops...I missed you again.  What were you saying about a prenup?,1.5630434782608695,0.0171624628929325,1840,1076,492,272,sarcasm,neutral
+And you promise to put the toilet seat down.,1.5916575192096598,0.0173103653337097,1822,1021,524,277,sarcasm,neutral
+I promised my therapist I would stop trying to save men!,1.5930038867295946,0.0172681744233604,1801,999,536,266,self-deprecating,negative
+It's getting harder and harder to reach you lately.,1.5825740318906605,0.0175299351927801,1756,993,503,260,sarcasm,negative
+"But first, tell me 5 things you love about me",1.5346307956496852,0.0170686032014953,1747,1040,480,227,sarcasm,positive

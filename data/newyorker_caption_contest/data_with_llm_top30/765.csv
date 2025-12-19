@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I wished for an ice cold BEER.,1.7676738882554162,0.0133197107654577,3508,1606,1116,786,irony,neutral
+That’s nothing… This used to be Florida.,1.7592538618478577,0.0131988086089961,3431,1560,1146,725,exaggeration,negative
+Fabulous. You brought ice”,1.7520588235294117,0.0129930763314882,3400,1514,1220,666,sarcasm,positive
+What a coincidence.  I'm bipolar!,1.782232200128287,0.0143994428353292,3118,1431,939,748,unknown,negative
+Damn.  I literally said I'd deny climate change until it comes and bites me in the ass.,1.8283305227655984,0.0151218717038081,2965,1308,860,797,self-deprecating,negative
+I'm afraid that this IS the South Pole.,1.7347840870452227,0.0139975617682738,2941,1363,1004,574,irony,negative
+The good news is: We're six feet apart.,1.7338848672871423,0.0140746465882963,2901,1337,1005,559,self-deprecating,positive
+I'm sensing that you're not the most endangered species here.,1.748931623931624,0.0144728265402429,2808,1269,976,563,sarcasm,neutral
+"Damn it Siri, I said a cold beer",1.7791120815138282,0.0152602619070733,2748,1267,828,653,sarcasm,negative
+"Funny, I was just telling myself things couldn't possibly be worse.",1.7925531914893618,0.0148483545190458,2632,1108,968,556,self-deprecating,negative
+"So, what brings you to Miami?",1.7558929284858171,0.0154653647891745,2503,1139,840,524,sarcasm,neutral
+It was then that Marcus realized that his message in a bottle requesting beer and ice may have contained a single yet crucial typo.,1.9255702280912368,0.0168489032816612,2499,996,697,806,incongruity-absurdity,neutral
+I know how you feel. This used to be Florida.,1.775427176566314,0.0153986773870565,2458,1064,886,508,incongruity-absurdity,negative
+It'll never work out. We're polar opposites.,1.7249793217535152,0.0156538765502977,2418,1145,795,478,sarcasm,negative
+It will never work. We’re polar opposites.,1.7379857918930213,0.0157210975752872,2393,1113,798,482,sarcasm,negative
+Now who's endangered?,1.722902097902098,0.0157335756085806,2288,1065,797,426,irony,neutral
+"I’m sorry but I have to ask, have you been vaccinated?",1.7429990966576332,0.0165670019494099,2214,1040,707,467,sarcasm,neutral
+"Why no, no plans yet for dinner tonight. You?",1.7190346083788706,0.0158872376585401,2196,1016,786,394,sarcasm,negative
+"He was losing hope until, like a miracle, a delicious man appeared",1.7490757855822552,0.017237225285331,2164,1040,629,495,wit-surprise,positive
+I guess I can stop worrying about starving to death.,1.7189542483660132,0.0163557576859254,2142,1004,738,400,unknown,neutral
+"""First, some ground rules - I eat fish, and you eat fish, just so there’s no misunderstanding.""",1.7420560747663552,0.0159369669962439,2140,946,807,387,sarcasm,neutral
+Pescatarian. You?,1.7158308751229103,0.0166601740275687,2034,950,714,370,sarcasm,neutral
+Al Gore was right.  It is inconvenient.,1.7652859960552267,0.0176271276302528,2028,938,630,460,incongruity-absurdity,negative
+This ends poorly doesn't it?,1.757085020242915,0.0170417715506136,1976,880,702,394,sarcasm,negative
+A cold beer. I said I could really go for a cold beer!,1.735632183908046,0.017342453656436,1914,888,651,375,irony,positive
+"If that melts, we’re both screwed",1.7109333333333334,0.0173713771264826,1875,887,646,342,irony,negative
+"Oh good, you brought ice!",1.751508502468459,0.0179519775040259,1823,818,640,365,sarcasm,positive
+"I thought you were extinct."" ""Same.",1.7084257206208426,0.0177227494887899,1804,868,601,335,wit-surprise,neutral
+"Between the melting and the flooding, I'd say we're both screwed.",1.7052999417588817,0.0181899784867823,1717,825,577,315,unknown,negative
+At least one of us is going to eat.,1.707431246342891,0.0181890352312753,1709,806,597,306,incongruity-absurdity,neutral

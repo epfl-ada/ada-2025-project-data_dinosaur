@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I have nothing left to prove.,1.6546224769499127,0.0127207990035078,4013,2235,929,849,self-deprecating,negative
+Just updating my password.,1.7015068932350113,0.0143517839837893,3119,1606,838,675,self-deprecating,neutral
+"I do this to scare the students, I actually have no idea what it means.",1.775524235132348,0.0147097738955756,2909,1315,932,662,incongruity-absurdity,negative
+I always leave a little room for doubt.,1.6281283045470567,0.0152562735486849,2837,1660,572,605,wit-surprise,neutral
+Behold! I've wasted both time and space.,1.719070133963751,0.0157768272517754,2538,1258,735,545,self-deprecating,negative
+The Dean said to tell you ‘never mind!’,1.7226452905811622,0.0160456501101106,2495,1243,701,551,unknown,neutral
+I've solved for x. Maybe you can figure out why.,1.618535374431113,0.0167804022315548,2417,1459,421,537,wit-surprise,neutral
+And the tip works out to $4.38,1.6538461538461535,0.0159273951846204,2366,1261,663,442,irony,neutral
+"Hey, you don't have to finish that. I restarted the router.",1.647005444646098,0.0163966002752864,2204,1179,624,401,sarcasm,neutral
+I've reset our Netflix password.,1.6792883211678833,0.0165126915725609,2192,1119,657,416,sarcasm,neutral
+Do you mind if I erase this?,1.7282765242438791,0.0172482199121867,2083,1005,639,439,unknown,neutral
+Hold all my calls — unless it's Oslo.,1.6136919315403424,0.0182802695770354,2045,1246,343,456,sarcasm,neutral
+"Yep, we're screwed.",1.6770347330222914,0.0176896065831639,1929,994,564,371,exaggeration,negative
+I've forgotten what I was trying to prove.,1.6418143899895723,0.0169866323787728,1918,997,611,310,wit-surprise,negative
+This is how you connect the printer to wifi,1.70846394984326,0.0180379131014464,1914,956,560,398,sarcasm,neutral
+I figured out how to unsubscribe!,1.6075353218210362,0.0179317448355385,1911,1109,443,359,unknown,neutral
+This explains the Electoral College AND the infield fly rule.,1.6936842105263157,0.0179899874110974,1900,964,554,382,wit-surprise,neutral
+The janitor made some changes last night.,1.6679204728640515,0.0176373280767041,1861,950,579,332,unknown,neutral
+"Remind me, what was the question?",1.6411637931034482,0.01743875702893,1856,976,570,310,sarcasm,neutral
+Tell me if you've seen this one before.,1.6679306608884077,0.0174023647044218,1846,924,611,311,irony,neutral
+"Now that I see it, it's obvious!",1.6181423139598043,0.017065720770018,1841,979,586,276,wit-surprise,neutral
+I just figured out how to kill time.,1.6718146718146718,0.0178926256839133,1813,921,566,326,unknown,neutral
+Looks like you still owe the IRS $271.,1.6804469273743017,0.0181181654662801,1790,903,556,331,irony,negative
+It's that simple!,1.642134831460674,0.0178684207242116,1780,938,541,301,wit-surprise,positive
+The answer is still “42”!,1.6359003397508494,0.0181152975101676,1766,950,509,307,unknown,neutral
+That username is already taken,1.6968838526912182,0.0187179145791752,1765,894,512,359,unknown,neutral
+Can I show you something real quick?,1.8021664766248575,0.018968843979029,1754,761,579,414,sarcasm,neutral
+I think you're  oversimplifying.,1.7382588774341352,0.0187522249904356,1746,824,555,367,wit-surprise,negative
+"By my calculations, a snowball has a very small chance.",1.667048710601719,0.0182135289671471,1745,892,542,311,wit-surprise,neutral
+Why do you make everything into one big problem?,1.650948821161587,0.0179066947673045,1739,894,558,287,sarcasm,negative

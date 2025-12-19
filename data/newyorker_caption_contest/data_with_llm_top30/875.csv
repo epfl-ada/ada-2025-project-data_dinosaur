@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"See, honey, it is possible . . . one bag for six months.",1.8036290322580648,0.0170411809896324,2480,1184,599,697,exaggeration,positive
+"Well, he did say that searching his home for classified documents would be a wild goose chase.",1.636654478976234,0.0164071646069817,2188,1186,611,391,irony,negative
+"At first glance, I thought they were pelican briefs",1.644035832154644,0.0166614199169235,2121,1136,604,381,incongruity-absurdity,neutral
+The rest of them are migrating remotely.,1.6224840451644575,0.0167435525827943,2037,1111,584,342,irony,neutral
+Another layoff at Twitter.,1.6285714285714286,0.0170599355814604,1995,1088,562,346,irony,negative
+They were hired to defend a murder of crows.,1.703647416413374,0.0181827286249249,1974,1023,513,438,unknown,negative
+Only one carries the actual nuclear codes.,1.703430079155673,0.018295157468561,1895,965,527,403,wit-surprise,neutral
+Judge must have issued a gaggle order.,1.6666666666666667,0.0178692178959553,1890,990,540,360,incongruity-absurdity,neutral
+So that’s how it all gets to the cloud…,1.69366391184573,0.0186703693103068,1815,937,497,381,incongruity-absurdity,neutral
+Must be American. Canadian Geese don’t take their work on vacation.,1.7046718576195774,0.0186031772788268,1798,903,523,372,irony,neutral
+What an amazing sight: the yearly litigation.,1.595605700712589,0.0180522200877088,1684,940,485,259,wit-surprise,positive
+"Well, there you go. Work from home is over.",1.602196461256864,0.0179252978265055,1639,887,517,235,exaggeration,neutral
+They must be under a gaggle order.,1.6157635467980296,0.0182330106651594,1624,870,508,246,sarcasm,neutral
+Looks like Trump is moving classified stuff again,1.6023573200992556,0.0191877423419944,1612,926,401,285,irony,negative
+"""Oh sure, they look professional, but I'll bet they're just a bunch of quacks.""",1.7140151515151516,0.0200643047557942,1584,796,445,343,sarcasm,negative
+"Oh, those are Senate Geese. You can tell because no one is leading.",1.6259791122715406,0.0200690478686856,1532,866,373,293,wit-surprise,neutral
+They never settle.,1.6111111111111112,0.0189447828004343,1530,833,459,238,sarcasm,negative
+"Just think - in the spring, they’ll return with a conviction.”",1.6443402545210986,0.0193511320025749,1493,777,470,246,wit-surprise,neutral
+Not legalese. I said legal geese.,1.660857908847185,0.0199388306855084,1492,781,436,275,incongruity-absurdity,neutral
+"If they were vultures, I'd call that carrion luggage.",1.7243935309973046,0.0210835328711259,1484,750,393,341,wit-surprise,negative
+"That’s a V, as in vultures.”",1.5859959211420802,0.0220029893195105,1471,954,172,345,wit-surprise,neutral
+"November, and the lawyers are returning to Mar-a-Lago.",1.6329561527581329,0.020728860906627,1414,784,365,265,sarcasm,neutral
+Ornithologists say it's a brief case of migration.,1.5836403831982313,0.0201586025241285,1357,774,374,209,incongruity-absurdity,neutral
+Uploading files to the cloud isn't as secure as you think.,1.5787518573551262,0.0215168057552591,1346,822,269,255,unknown,negative
+Nobody checks luggage if they can avoid it.,1.628099173553719,0.0204858028177068,1331,711,404,216,unknown,neutral
+"Well, not everyone can afford a team of legal eagles.",1.6867017280240422,0.02155334696609,1331,685,378,268,wit-surprise,neutral
+They’ve been sent on a wild goose case.,1.6365723029839327,0.0209386818225069,1307,698,386,223,incongruity-absurdity,neutral
+Looks like they’re flying business class,1.6556495003843197,0.0207716533646021,1301,666,417,218,irony,neutral
+Who better to represent migrants?”,1.5719814241486068,0.0223649656025605,1292,812,221,259,sarcasm,neutral
+Donald Trump will stop at nothing to hide important documents from the courts.,1.578408195429472,0.0207295295167403,1269,726,352,191,irony,negative

@@ -1,0 +1,33 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1563,"You'd think the wind mill blades are the biggest thing; but, there is one other issue.",1.3430232558139534,0.0439303984707392,172,122,41,9,wit-surprise,negative
+5090,I think this listing will be on par to your liking.,1.216374269005848,0.0375524639525686,171,140,25,6,irony,positive
+5159,The seller forgot to put in a back door.,1.2142857142857142,0.0317519716902779,168,132,36,0,unknown,negative
+2819,"Tiny house, big balls.... downsize  
+without destroying your ego.",1.2916666666666667,0.0441584545630873,168,129,29,10,incongruity-absurdity,neutral
+507,I'm pleased to meet you on behalf of Quixote Realty.,1.4226190476190477,0.0543889401957829,168,118,29,21,wit-surprise,positive
+6833,This property won't last long!,1.1497005988023952,0.0301844156439205,167,144,21,2,unknown,negative
+2723,"No, no, no, no ... This isn't a mini putt, not at all. It's a mini-golf course community!",1.2951807228915662,0.0446217090415825,166,127,29,10,incongruity-absurdity,negative
+5756,"I understand, you have to go over all your options. But if you ask me, I think this place is a real hole in one.",1.193939393939394,0.0342774317581652,165,136,26,3,incongruity-absurdity,negative
+173,"You said, ""Find us a house on a golf course.""",1.4848484848484849,0.0541043178189723,165,104,42,19,incongruity-absurdity,neutral
+5886,"No, it's really our makeshift air conditioning unit.",1.1890243902439024,0.031863328931571,164,134,29,1,incongruity-absurdity,neutral
+977,"If you time it right, I think you'll be in.",1.3780487804878048,0.0483766766469083,164,114,38,12,unknown,positive
+2129,"With your budget, this is the best I could do regarding listings on a golf course.",1.3170731707317074,0.0509934946112358,164,129,18,17,irony,neutral
+3475,"It’s a lovely property, but first there’s an existential crisis I need you to go through.",1.2682926829268293,0.0424605695704676,164,128,28,8,wit-surprise,negative
+1679,"Since you're going 'Dutch', this would be perfect!",1.3374233128834356,0.0486279668084848,163,121,29,13,sarcasm,positive
+2370,Our home security features harken back to a simpler time.,1.3067484662576687,0.0429285521304261,163,120,36,7,unknown,positive
+6188,"No! Trust me. It’ll be awesome!
+I’ve taken care of all the wind.",1.177914110429448,0.033616436280676,163,137,23,3,exaggeration,positive
+5657,Try and keep an open mind. You'll find it wonderfully breezy.,1.1975308641975309,0.0337329464540167,162,132,28,2,wit-surprise,positive
+5656,Wind power is the coming thing - say goodbye to your electric bill!,1.1975308641975309,0.0359343032306542,162,134,24,4,exaggeration,neutral
+6984,Cloth earns an energy credit.,1.1419753086419753,0.0337645037103421,162,144,13,5,wit-surprise,neutral
+5283,Challenging?  Perhaps not.  Ego-enhancing?  Big time.,1.2098765432098766,0.0375951608226211,162,133,24,5,unknown,neutral
+3909,"Original hardwood frame, quartz movement, very quiet September to July and most quit before the chapel anyway.",1.2546583850931676,0.0386892211239687,161,124,33,4,incongruity-absurdity,neutral
+1143,It's listed as a par 3 but the comps run closer to 4.,1.3664596273291925,0.0480112572476407,161,113,37,11,irony,neutral
+2991,"Think of it like having a home on the 18th green. Only, you know, smaller.",1.2857142857142858,0.0444327353204457,161,124,28,9,unknown,neutral
+2587,"You may get bonked occasionally, but wait 'til you see the electric bill.",1.3,0.0413985081613748,160,117,38,5,incongruity-absurdity,neutral
+5933,"Look, before we go in, the owner is round, bald, and has the worst cellulite I’ve ever seen.",1.1875,0.033397148034755,160,132,26,2,irony,negative
+6559,It gets great shadows.,1.1625,0.030570441390213,160,135,24,1,incongruity-absurdity,positive
+5764,"Whatever you do, don't acknowledge the elephant.",1.19375,0.0360128329241136,160,133,23,4,sarcasm,neutral
+3287,The first owner LIVED for mini golf.,1.275,0.0396029825444384,160,120,36,4,incongruity-absurdity,positive
+2945,You will love the ball room on the ground floor!,1.2875,0.0428793649335775,160,121,32,7,incongruity-absurdity,positive
+5607,"On the plus side, it is a Zero Net Energy House.",1.2,0.0352439833841164,160,131,26,3,exaggeration,positive

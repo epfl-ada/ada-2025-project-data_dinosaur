@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Try not to drop this one.,1.750382262996942,0.0108703550358943,5232,2433,1672,1127,incongruity-absurdity,neutral
+Why aren't you guys getting the large anymore?  And where's Frank?,1.7821194762684125,0.0116479603224166,4888,2269,1415,1204,sarcasm,negative
+We usually don’t deliver above 82nd Street.,1.8230291886922547,0.0122705174015555,4351,1878,1365,1108,incongruity-absurdity,neutral
+"When you guys called saying you were high and craving pizza, I was picturing something else.",1.788894324853229,0.0126528738383645,4088,1860,1231,997,sarcasm,neutral
+Funny how we never get the same delivery guy.,1.7997256515775035,0.0132383803887959,3645,1602,1171,872,sarcasm,negative
+This is from the ladies over there on the 40th floor balcony,1.8324160704457897,0.0133839723385506,3634,1538,1167,929,sarcasm,neutral
+…So what’s the second fastest way down?,1.7692982456140351,0.0134171725014547,3420,1538,1133,749,sarcasm,neutral
+"This is not what I expected when they said delivery was in
+Upper Manhattan.",1.7672064777327936,0.0144326521361574,2964,1340,974,650,irony,negative
+Be careful. It's hot.,1.893145869947276,0.0155382674784336,2845,1145,859,841,sarcasm,neutral
+You guys are fearless - pineapple AND anchovies?!,1.783068783068783,0.0150159626487937,2835,1280,890,665,sarcasm,positive
+Would have figured you guys to be more adventurous than plain cheese.,1.758345428156749,0.0147819042067465,2756,1243,936,577,sarcasm,neutral
+"When DoorDash said I was 800 feet away, I didn’t know it meant in this direction",1.767219152854512,0.0147305321591343,2715,1189,969,557,sarcasm,neutral
+"Napkins? Sure, be right back.",1.7377351530800442,0.0147782998844088,2711,1251,920,540,incongruity-absurdity,positive
+"With the delivery charge, it's $983.""",1.7618862042088854,0.0156183384905019,2566,1181,815,570,exaggeration,neutral
+Please tell me I have the right floor.,1.6989775051124745,0.0151771345492229,2445,1167,847,431,irony,neutral
+You guys are fearless! Nobody orders Chicago pizza here in Brooklyn.,1.6809386578839027,0.01654158024176,2429,1318,568,543,sarcasm,positive
+Don't look down is not exactly the tip I was hoping for.,1.739891621508962,0.0157975952680094,2399,1111,801,487,incongruity-absurdity,negative
+I'm surprised you didn't order wings.,1.8776460626587637,0.0165725893395492,2362,928,795,639,sarcasm,neutral
+Separate checks?  Really?,1.8030954428202923,0.0167309444566244,2326,1031,722,573,irony,neutral
+Our ad does say we deliver above 14th Street.,1.6849848550411075,0.0162442068875136,2311,1183,673,455,irony,neutral
+"This time, don’t drop it.",1.688927943760984,0.016477029280288,2276,1167,650,459,unknown,neutral
+Here's yesterday's order.,1.6728506787330315,0.0172250667525677,2210,1204,525,481,unknown,neutral
+You ordered a pizza for… six?,1.7273563218390804,0.016614966809167,2175,1030,708,437,irony,neutral
+"If you drop it, it'll be on the house.",1.7096774193548387,0.0166974182201523,2108,1014,692,402,incongruity-absurdity,neutral
+I prefer the word ‘gratuity’.,1.6709677419354838,0.0178349091957111,2015,1086,506,423,wit-surprise,neutral
+Did you guys get the word that it's safe to eat indoors now?,1.670682730923695,0.0178237646273061,1992,1066,516,410,exaggeration,neutral
+"For the record, this isn't what we mean by free delivery within 2,000 feet.",1.7494725738396624,0.0179216929157466,1896,874,623,399,sarcasm,neutral
+"No five second rule for you guys,am I right?",1.7777777777777777,0.0183046745165533,1872,841,606,425,sarcasm,neutral
+It was so much easier when everyone was still working from home.,1.8961625282167045,0.0189496143376016,1772,665,626,481,sarcasm,positive
+"Nice try, but I still made it in under 30 minutes.",1.7885714285714285,0.0186952625324451,1750,759,602,389,self-deprecating,positive

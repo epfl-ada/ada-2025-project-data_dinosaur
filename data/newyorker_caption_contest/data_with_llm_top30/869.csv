@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Twenty years ago I came to this company in a baggie.,1.716241917078737,0.0152762645835939,2629,1285,805,539,incongruity-absurdity,neutral
+"No, no, go ahead!  Open a can of worms!",1.700274977085243,0.0168176020170352,2182,1098,640,444,exaggeration,negative
+My deep sea diver is working remotely today.”,1.6058569371099376,0.0186930371202874,2083,1330,244,509,irony,neutral
+I prefer 'bankrupt' to 'belly up.',1.6837209302325582,0.0175789248263808,1935,981,585,369,wit-surprise,negative
+When you own the company you can work from home.,1.6074468085106384,0.0176005014173559,1880,1061,496,323,incongruity-absurdity,neutral
+"My qualifications? I previously led a large school, went with the flow, and rose to the top!",1.6054607508532424,0.0194570493744059,1465,809,425,231,self-deprecating,positive
+"Trust me, they’re going to take the bait.",1.6468579234972678,0.0194279650270385,1464,754,473,237,sarcasm,neutral
+"Is it just me, or are we going round in circles here?",1.6159775753328662,0.019294589314739,1427,758,459,210,incongruity-absurdity,neutral
+It sure beats having an elephant in the room.,1.602962962962963,0.0198999246243269,1350,735,416,199,unknown,positive
+"Our business vision: ""Don't give a man a fish and under no circumstances teach him how to fish""",1.5817091454272865,0.0202973154447835,1334,762,368,204,wit-surprise,neutral
+"Let the other law firms have their sharks.  Here at Gillfin & Fishman, we make our living from consistent and sustained bottom
+feeding.",1.5830202854996245,0.0206049553675888,1331,769,348,214,incongruity-absurdity,neutral
+"In this business, it’s sink or swim.",1.6089299461123945,0.0203366422968027,1299,702,403,194,incongruity-absurdity,neutral
+Let me float a different idea.,1.5782575173477256,0.0199991382764388,1297,725,394,178,wit-surprise,neutral
+"Johnson, nobody says 'Holy Mackerel' anymore.",1.6851851851851851,0.0208778739595488,1296,634,436,226,sarcasm,negative
+"Staffing Update: Sean, who suggested a team meeting at Saito's Sushi Bar, is no longer with us.",1.6832684824902724,0.0218551558474753,1285,662,368,255,sarcasm,neutral
+One of you may be next in line for my position but I wouldn't hold your breath.,1.626486915146709,0.0204901258721591,1261,657,418,186,sarcasm,neutral
+I think we all know where I stand on the 'Working from home' issue.,1.5751633986928104,0.0204998515566928,1224,685,374,165,self-deprecating,neutral
+"And my thanks to Joe, who got me off the hook.",1.7324414715719063,0.0222315654764909,1196,556,404,236,sarcasm,positive
+I might be out of my depth.,1.5733445096395642,0.0204005089647844,1193,659,384,150,wit-surprise,negative
+Is someone taking notes? I'm not going to remember any of this,1.568935427574171,0.0212594539098833,1146,650,340,156,sarcasm,negative
+You know what's REALLY dolphin safe? Chicken.,1.5685740236148955,0.0223703276483073,1101,643,290,168,unknown,neutral
+"Think outside the bowl, people.",1.5868152274837513,0.0222776856659175,1077,602,318,157,incongruity-absurdity,neutral
+At least I don’t have a glass ceiling.,1.5772811918063314,0.0217285946729971,1074,595,338,141,self-deprecating,neutral
+"Before I rule on your proposal, someone please feed me.",1.5619757688723206,0.0248818096753797,1073,694,155,224,wit-surprise,neutral
+It's a think tank.,1.5650943396226416,0.0236244968533541,1060,644,233,183,wit-surprise,neutral
+"Call it a phishing scheme ONE MORE TIME, Monica!",1.5778414517669532,0.0225198798871179,1047,592,305,150,sarcasm,negative
+"Anyway, Gayle, where‘s this can of worms you said we‘d be opening?",1.7581573896353166,0.024611713836991,1042,485,324,233,sarcasm,negative
+Which one of you just said the numbers look fishy?,1.5776277724204435,0.0222738218350935,1037,578,319,140,sarcasm,negative
+You keep saying we’re under water like it’s a bad thing.,1.5568982880161129,0.0232620242125425,993,584,265,144,sarcasm,negative
+You know darn well why I don't show up on Fridays.,1.5581874356333676,0.0248037389568427,971,599,202,170,sarcasm,negative

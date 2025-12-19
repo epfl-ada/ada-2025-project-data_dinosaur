@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+We have one slot left.,2.1657303370786516,0.038283091709981,356,75,148,123,unknown,neutral
+"I don’t care if you were the “greatest thing” , you still need a reservation",1.9351851851851851,0.0792325906292181,108,38,35,32,sarcasm,negative
+"Sorry, we only serve toast at breakfast.",1.891304347826087,0.0809884612166829,92,32,36,23,unknown,neutral
+The poptarts are already seated.  You’re toast.,1.901098901098901,0.0789969861636594,91,33,35,23,sarcasm,neutral
+"I'm so sorry, sir. They've already proposed a toast.",1.7701149425287357,0.0795959279209042,87,36,35,16,sarcasm,negative
+"Sorry, the couple said, no toasts.",1.8588235294117648,0.0769752791930923,85,31,35,16,incongruity-absurdity,neutral
+We can't seat you until the entire loaf arrives.,1.9879518072289155,0.0716990311904223,83,39,24,20,incongruity-absurdity,neutral
+"I'm not trying to get a rise out of you, but you're being kinda kneady.",1.3170731707317074,0.0669327318982572,82,57,13,6,sarcasm,negative
+"'I'm afraid she cancelled, said you're toast.'",1.725,0.0754207606646903,80,34,35,11,sarcasm,negative
+I'll be happy to seat you when the rest of your loaf arrives.,1.7692307692307692,0.0834709026114861,78,32,32,14,sarcasm,positive
+"I realize you are the toast of the town sir, but our rules still apply: No shirt, no shoes, no service.",1.705128205128205,0.0858038217321017,78,37,27,14,sarcasm,neutral
+"Oh, you're the one who's so late...she said you were toast!",1.3289473684210529,0.0734802942786437,76,57,11,7,sarcasm,negative
+Your basket is ready.,1.631578947368421,0.0875436838587694,76,41,22,13,incongruity-absurdity,neutral
+"Sorry sir, we’re gluten free.",1.486842105263158,0.0713120669708865,76,51,16,8,sarcasm,neutral
+I said I'd deliver a small toast.,1.32,0.0574534672661354,75,53,18,2,incongruity-absurdity,neutral
+I'll see if Sponge Bob can lend you some pants.,1.48,0.0667386998229217,75,46,19,6,sarcasm,neutral
+I'm sorry.  Your whole loaf must be present before you can be seated.,1.68,0.0786370382439712,75,33,33,9,sarcasm,negative
+I’m becoming stale. How much longer do I have to wait?,1.527027027027027,0.079853097659638,74,45,20,9,self-deprecating,negative
+Will you be dining with your honey?,1.648648648648649,0.0730983332284813,74,44,20,10,unknown,neutral
+"Greatest thing or not, you still need a reservation.",1.8243243243243243,0.0987858691727079,74,34,19,21,incongruity-absurdity,positive
+Not too close to the heaters please.,1.472972972972973,0.0775002190893296,74,48,16,8,sarcasm,neutral
+"My apologies, but we are a gluten free restaurant.",1.4794520547945205,0.0806876577491885,73,47,16,8,sarcasm,neutral
+The rest of your party is already plated.,1.6849315068493151,0.0847521059053451,73,39,21,13,incongruity-absurdity,negative
+"Sorry, we’re no longer serving breakfast.",1.5205479452054795,0.0782941926916997,73,39,22,7,sarcasm,negative
+"I'll arrange for a table away from the pigeons.""",1.6986301369863013,0.0865474494110724,73,38,21,13,unknown,neutral
+"Our Lobster Ravioli is the best thing since ah...mmm, well let's just say that it's really good.",1.5972222222222223,0.0877017509149359,72,39,20,11,incongruity-absurdity,positive
+"The tie helps, but you're still toast to me.",1.3611111111111112,0.0665067199693239,72,53,14,5,sarcasm,neutral
+"Sure, you're the toast of the town, but no shirt, no shoes, no service, no exceptions.",1.5416666666666667,0.0814037157949618,72,41,22,8,sarcasm,neutral
+She left with Mr.Panini.,1.4788732394366195,0.0847748940892173,71,47,13,10,sarcasm,neutral
+"Listen I know you've been working hard, but we can't keep you on. You're ""toast"", Jerry.",1.2142857142857142,0.0534245744234036,70,57,8,1,sarcasm,negative

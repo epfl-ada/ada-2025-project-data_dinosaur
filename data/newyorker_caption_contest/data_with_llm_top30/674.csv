@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Let's let him keep your ball.,2.202695453935899,0.0062698465335089,14914,3194,5511,6206,sarcasm,neutral
+"So, this is fine but you're scared of the vacuum cleaner?",2.0924833635813673,0.0070361420991027,13224,3780,4441,5001,irony,negative
+"Well, if you haven't pooped, I have.",1.987499041337526,0.0073203300071182,13039,4660,3890,4488,self-deprecating,neutral
+Maybe don't sniff this one.,1.8552117263843648,0.0069352987725224,12280,4666,4735,2877,unknown,negative
+So suddenly mister bark at everything has nothing to say.,1.938462847901949,0.0072925708347204,11749,4099,4292,3358,sarcasm,negative
+"You're totally thinking you could outrun me, aren't you?",1.853416476374495,0.0074585815610322,11386,4580,3903,2902,sarcasm,neutral
+Wag your tail so it doesn't feel threatened.,1.8443432777993023,0.0076921047275806,10324,4089,3753,2479,incongruity-absurdity,neutral
+This. This is why we don't chase down every smell.,1.8461463509695024,0.0077213692704203,10263,4071,3708,2483,unknown,neutral
+There. That's what you've been barking at. Happy?,1.779512997020446,0.007783724451358,9733,4183,3513,2036,sarcasm,neutral
+Maybe just let him keep your stick.,1.862794612794613,0.0077738567955753,9504,3486,3842,2174,sarcasm,neutral
+Are you serious?!  Thunder and the mailman but not this.,1.743159065628476,0.0080539898581435,8990,4086,3130,1771,sarcasm,negative
+Now we’ve BOTH urinated. Let’s go home.,1.7812072892938495,0.0084860202566513,8780,3960,2784,2033,irony,neutral
+"Kinda puts going to the vet in perspective, doesn't it?",1.8289980170302111,0.0084573253371709,8573,3487,3062,2022,irony,neutral
+It's your turn to rescue me.,1.7034120734908136,0.0088358045393257,8001,4059,2264,1676,sarcasm,neutral
+That's what happens to dogs who drink from the toilet,1.8119614147909968,0.0093597469471514,7775,3516,2205,2053,incongruity-absurdity,negative
+"No, I think his bite is probably worse than his bark.",1.7578864353312302,0.0086935821116965,7608,3341,2772,1495,sarcasm,negative
+"It doesn't matter that you peed on it first, it's not your rock anymore.",1.9476560253091744,0.0095426338607109,6954,2393,2532,2029,incongruity-absurdity,negative
+I don't think he wants his butt sniffed.,1.6848418756815704,0.0094761987972446,6419,3179,2082,1157,sarcasm,negative
+This walk was your idea.  You talk to him.,1.6707754719925103,0.0092636530443703,6409,3167,2186,1056,sarcasm,neutral
+I don't care if she's in heat. No.,1.7516944949578444,0.0102691847774457,6049,2889,1782,1377,irony,negative
+But you're scared of a vacuum cleaner.,1.654940245749874,0.0093840752040435,5941,2935,2121,884,sarcasm,negative
+Still want to mark your territory?,1.6521444312595357,0.0094167297193661,5899,2944,2070,883,unknown,neutral
+See? That’s all it is. Can we PLEASE go back to bed now?,1.6806063774176685,0.0098847199246492,5739,2818,1936,984,self-deprecating,negative
+"I know it’s your bone, but I’d let him keep it.",1.6908083317408753,0.0098913384876462,5233,2431,1998,801,incongruity-absurdity,neutral
+Just remember ... genetically you're 99% wolf.,1.6674468500097523,0.0101920164430192,5127,2506,1822,799,irony,neutral
+"Before the last election, this would have scared the bejeezus out of us, Quentin.",1.8560097620500304,0.0117479084648044,4917,2076,1475,1366,irony,negative
+Let's both roll over and play dead.,1.6684350132625996,0.0105958601192515,4901,2432,1662,805,sarcasm,neutral
+"Well just don't stand there. Ask yourself, 'what would Lassie do?'",1.7913079130791307,0.0111611503971482,4878,2097,1702,1079,incongruity-absurdity,neutral
+"“Next full moon, we stay in the house and you can just pee on the rug, OK?”",1.7023635222756746,0.0109346238521823,4781,2292,1621,868,sarcasm,neutral
+This seems like a good turn-around point.,1.7378599957956695,0.010650015885915,4757,2068,1864,823,self-deprecating,positive

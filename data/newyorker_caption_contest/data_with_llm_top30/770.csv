@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"I guess ""trail lawyer"" wasn't a typo after all.",1.9010300044782804,0.0122498065039585,4466,1739,1430,1297,sarcasm,neutral
+"I found them Sir. No, they don't want to extend their vehicle's warranty.",1.8864970645792565,0.0131959018423028,4088,1713,1126,1249,sarcasm,negative
+He's an adventure capitalist.,1.8634361233480177,0.013126331859582,3632,1418,1292,922,wit-surprise,neutral
+This was a molehill until your lawyer got involved.,1.822904368358914,0.013794991146619,3388,1445,1098,845,unknown,negative
+I guess I misunderstood when you said your legal problems were behind you.,1.8421208530805688,0.0135269331147902,3376,1351,1207,818,sarcasm,negative
+"Funny,you never really believe ‘em when they say that they’ll be with you every step of the way.",1.813341684935797,0.0136202896295623,3193,1299,1191,703,sarcasm,neutral
+"No, I said be sure to layer up.",1.8256674171759408,0.0144568050640386,3109,1328,995,786,self-deprecating,neutral
+My husband will never find out about us. He’s on a business trip.,1.7960295834955236,0.0160200639055223,2569,1162,769,638,sarcasm,neutral
+"Whatever you do, don't make eye contact.  The ranger said they can be litigious.",1.7853697749196142,0.0156700790805481,2488,1084,854,550,sarcasm,neutral
+"What I actually said was, ""Bring along an extra 'layer' for the higher elevations.",1.8018433179723503,0.0171030916439506,2170,946,708,516,sarcasm,neutral
+"Stop whining, Larry. The destination divorce was your idea.",1.8294144767173812,0.0174072530162482,2169,929,681,559,sarcasm,negative
+I'd feel safer about this route if it weren't so crowded with personal-injury attorneys.,1.7573221757322175,0.016710054618806,2151,970,733,448,sarcasm,neutral
+"Next time, let's just sign the waiver.",1.7814105558150397,0.016528556630126,2141,911,787,443,sarcasm,neutral
+I don't think these folks know what a tax hike is.,1.769736842105263,0.0170329979266473,2128,958,702,468,irony,negative
+What makes you think I want a divorce?,1.770673076923077,0.0170670837689599,2080,923,711,446,sarcasm,negative
+Please clarify the next time you invite me to a summit meeting.,1.7592867756315007,0.0170686457698716,2019,895,715,409,sarcasm,neutral
+"Disregard him dear, there's a tax shelter just ahead.",1.7605,0.0171964453846407,2000,888,703,409,sarcasm,negative
+Apparently we’re an accident waiting to happen.,1.7659574468085106,0.0172124132598853,1974,862,712,400,self-deprecating,negative
+He thought it was a tax hike.,1.7530487804878048,0.0176064819500981,1968,903,647,417,wit-surprise,neutral
+He did say he'd be with us every step of the way.,1.7800511508951409,0.0169955474264519,1955,814,757,384,sarcasm,positive
+Google's tracking used to be more subtle.,1.768162393162393,0.0177811157003851,1872,821,664,387,sarcasm,neutral
+We should’ve never pressed 5 to speak to an actual agent.,1.753528773072747,0.0183518880301709,1842,854,588,400,sarcasm,negative
+"Yes sir, that’s right. They’ll be coming around the mountain when they come.",1.753528773072747,0.0186546917691122,1842,873,549,419,incongruity-absurdity,neutral
+I found those last two remote workers you asked me to check on.,1.7523493642896628,0.0184806949687923,1809,838,581,390,sarcasm,neutral
+Just how big a policy did you buy?,1.7412670219064534,0.0189880997183824,1689,789,548,352,irony,neutral
+"Can't talk, I'm showing a couple that new listing.",1.7479725514660012,0.019336528908454,1603,732,540,329,irony,neutral
+The creepiest thing about him is that there's no cell service up here.,1.7852882703777335,0.0202858475289145,1509,665,503,341,sarcasm,negative
+"I think I'm at the wrong summit meeting.""",1.7546012269938651,0.0204074473543282,1467,672,483,312,unknown,negative
+"I’m telling you. I’m not a workaholic. In fact, I’m hiking with my friends as we speak.",1.7468879668049793,0.0206542173607266,1446,675,462,309,self-deprecating,positive
+"Don’t look at him, Carl. You’ll only encourage more billable hours.",1.7366597366597367,0.019850560685921,1443,650,523,270,sarcasm,negative

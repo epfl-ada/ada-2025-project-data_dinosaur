@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I'll never let go.,2.634196185286104,0.0196148402420088,1468,244,49,1175,sarcasm,neutral
+1,I had the tailor over for lunch.,2.0150753768844223,0.0256849572375201,1194,461,254,479,wit-surprise,neutral
+2,You're the one who said I wasn't eating enough fiber.,1.9194244604316544,0.0344216221345742,695,316,119,260,irony,negative
+3,"So I stick the head up a few times, the lifeguard runs in, bingo!",1.713804713804714,0.0491849809578318,297,161,60,76,sarcasm,neutral
+4,You're both dummies!,1.7118644067796611,0.0490317261026563,295,159,62,74,sarcasm,negative
+5,... one giant leap for a mannequin.,1.697508896797153,0.0480012625114317,281,146,74,61,wit-surprise,neutral
+6,I miss the screaming.,1.697508896797153,0.0480012625114317,281,146,74,61,sarcasm,negative
+7,I call it 'A Farewell to Arms'.,1.676923076923077,0.051824671074213,260,146,52,62,wit-surprise,neutral
+8,I miss all the screaming and thrashing.,1.669291338582677,0.0483489940806439,254,131,76,47,self-deprecating,negative
+9,"The dressmaker, however, was delicious.",1.6113744075829384,0.0511948634824104,211,115,63,33,wit-surprise,positive
+10,"Fake news, fake people....what's going on up there?",1.6019417475728157,0.05491672883872,206,121,46,39,sarcasm,negative
+11,"Nooo. I said I wanted a ""man again"".",1.5736842105263158,0.0583988583058254,190,119,33,38,sarcasm,neutral
+12,"Yeah, but half an hour later, you want another one.",1.5736842105263158,0.0512903456403572,190,105,61,24,exaggeration,neutral
+13,"It's not bad, but all things being equal I'd rather have gotten Steve Bannon.",1.5714285714285714,0.0605534054609278,189,123,24,42,sarcasm,negative
+14,I'm in the placebo group.,1.5675675675675675,0.0577194390895081,185,114,37,34,self-deprecating,neutral
+15,It was this or kale.,1.5628415300546448,0.0556179487596856,183,109,45,29,exaggeration,neutral
+17,You do realize that’s just empty calories.,1.5604395604395604,0.053654940829945,182,105,52,25,sarcasm,negative
+18,I see two dummies.,1.5604395604395604,0.0553262232503734,182,108,46,28,sarcasm,negative
+16,It needs a little dressing.,1.5604395604395604,0.0547747954013073,182,107,48,27,incongruity-absurdity,neutral
+19,It needs some dressing,1.558011049723757,0.0561286571221384,181,109,43,29,incongruity-absurdity,neutral
+20,Just admit it. You need glasses.,1.558011049723757,0.0544634197211254,181,106,49,26,self-deprecating,negative
+21,The hardest part for me was getting into the department store.,1.553072625698324,0.0543869255469513,179,105,49,25,incongruity-absurdity,negative
+22,It was this or kale.,1.550561797752809,0.0563509105486937,178,108,42,28,exaggeration,neutral
+23,Needs dressing.,1.5480225988700564,0.0588370124939592,177,112,33,32,incongruity-absurdity,neutral
+24,They make great lifeguard bait.,1.5459770114942528,0.0573864898641122,174,107,39,28,incongruity-absurdity,positive
+25,"Jeez Charlie, I think they got you in the placebo group!",1.5406976744186047,0.0549207594919242,172,102,47,23,sarcasm,negative
+26,I'll thrash it around just beyond the breakers and when the lifeguard comes out you nab him.,1.5380116959064327,0.0576166124256112,171,106,38,27,wit-surprise,neutral
+27,"I tell you, Steve, it was a frenzy. Everything was at least half off.",1.5380116959064327,0.0570164412937066,171,105,40,26,exaggeration,positive
+31,I try not to eat anything with a face.,1.5294117647058822,0.0566966700730392,170,105,40,25,incongruity-absurdity,neutral
+28,It's not the same without the flailing.,1.532544378698225,0.0569460297740653,169,104,40,25,unknown,negative

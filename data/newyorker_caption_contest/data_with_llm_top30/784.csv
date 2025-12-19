@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+George quickly realized he ordered from the wrong Amazon.,1.8618405488526144,0.0074196422672609,12681,5423,3587,3671,incongruity-absurdity,negative
+I also love to unwind.,1.7010070992240385,0.0067577436303638,12114,5703,4330,2081,incongruity-absurdity,positive
+"I have something to tell you, but first I want to ask if you've noticed how pleasant it is without all the barking this morning?",1.8234330937869552,0.0077992990914978,10993,4817,3300,2876,sarcasm,positive
+"From my angle, it says Digest Readers.",1.8264416315049223,0.0079287501291617,10665,4661,3194,2810,unknown,neutral
+Thanks for the fat guy who came down the chimney. What else you got?,1.797987616099071,0.0078830379063673,10336,4574,3276,2486,irony,negative
+Don't mind me.  Just looking for a reader to digest.,1.7774874177313202,0.0077405524228587,10332,4603,3425,2304,self-deprecating,neutral
+I find Nietzsche hard to digest.,1.7214848817483286,0.0076143737052188,10021,4695,3422,1904,wit-surprise,negative
+Experiencing reptile dysfunction?,1.7994709533014548,0.0083180799943488,9829,4525,2750,2554,exaggeration,neutral
+Looks like you ordered from the wrong Amazon.,1.827852004110997,0.0082638429944121,9730,4214,2977,2539,sarcasm,negative
+Remember me? Ten years ago you flushed me down the toilet.,1.7661919118411478,0.0081008145696575,9619,4423,3022,2174,sarcasm,negative
+Spoiler alert:  she eats the apple,1.7768491433347262,0.0079850309321575,9572,4227,3254,2091,irony,neutral
+I think someone needs a hug.,1.715824704528815,0.0077210016118678,9561,4469,3340,1752,sarcasm,neutral
+I was a book worm once.,1.7282973881001409,0.0078813793410067,9227,4238,3258,1731,unknown,neutral
+Skip Genesis.,1.7170353982300883,0.0081759543553589,9040,4372,2854,1814,wit-surprise,neutral
+I’m tired of mice and men. I want to kill a mockingbird.,1.7345004460303302,0.0082917432285304,8968,4271,2807,1890,wit-surprise,negative
+I might be able to squeeze you in after all.,1.7255437877234938,0.0080905583934102,8781,4059,3073,1649,sarcasm,positive
+I gave you the gift of knowledge and THAT’S what you’re reading?,1.77982385908727,0.0085514087719512,8743,3969,2730,2044,sarcasm,negative
+It takes me weeks to truly digest a book like that.,1.7469544030630004,0.0081922949707717,8619,3859,3082,1678,unknown,negative
+My mother was a bookworm,1.696782466775472,0.0081227666267071,8578,4122,2935,1521,unknown,negative
+Don't believe everything you read in Genesis.,1.7292746113989637,0.0081764773881733,8492,3871,3049,1572,wit-surprise,neutral
+I'll save you some time.  She bites the apple.,1.7536628945801072,0.0083596778060407,8395,3751,2961,1683,incongruity-absurdity,neutral
+Get to the part where I chat with Eve.,1.7295658501091438,0.0083382070492744,8246,3780,2916,1550,sarcasm,neutral
+I confirm that not a creature is stirring; not even a mouse.,1.751760135955329,0.0084745832732622,8238,3713,2857,1668,unknown,neutral
+"Stuffed? No, actually I'm quite famished.",1.7181396484375,0.0083925106031565,8192,3843,2815,1534,self-deprecating,negative
+You're out of mice.,1.7277164140765475,0.0085284805141807,7786,3553,2800,1433,incongruity-absurdity,neutral
+"The milk and cookies were delicious.  Santa, too.",1.7502316346790203,0.0089521530833788,7555,3466,2510,1579,incongruity-absurdity,positive
+Read me the one about the man and the woman in the garden again?,1.7219123505976095,0.0087349672618825,7530,3501,2622,1407,unknown,neutral
+"You know, Bob, you could have picked something to read with a less insensitive title than ""A Farewell to Arms!""",1.6960417223856643,0.0088649989297573,7478,3679,2393,1406,wit-surprise,negative
+The guest room is available again.,1.765211551376763,0.0090863195877351,7445,3367,2459,1619,incongruity-absurdity,neutral
+Psst. Buy Apple.,1.7691156462585034,0.0093450979318749,7350,3403,2241,1706,sarcasm,neutral

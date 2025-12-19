@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+5,"The last guy played beautifully, but he couldn't handle the pressure.",1.8340189222542165,0.0106904573920606,4862,1821,2027,1014,unknown,negative
+2,We need to screen our organ donors more closely.,1.872555075149269,0.0114610692743951,4857,1898,1680,1279,unknown,neutral
+1,It's for when hell freezes over.,1.8977469670710567,0.0116831183573102,4616,1714,1660,1242,unknown,negative
+6,No. I said streaming music.,1.8273397364306456,0.0117050910604576,4477,1826,1598,1053,sarcasm,neutral
+9,The hissing is coming from the congregation.,1.8110471806674335,0.011933403072433,4345,1832,1502,1011,irony,neutral
+0,The hard part was transposing from C major to Fahrenheit.,1.925,0.0121978769777272,4280,1535,1531,1214,wit-surprise,neutral
+15,All the other organists are going solar.,1.7528170702469432,0.0115894452676566,4171,1811,1580,780,unknown,neutral
+11,"With our budget it was either heat or music, until I had a vision.",1.7856404958677683,0.0122414681283469,3872,1627,1448,797,incongruity-absurdity,neutral
+10,Too hot to Handel.,1.801036269430052,0.012616900320315,3860,1646,1336,878,incongruity-absurdity,neutral
+24,The plumber was an organ donor.,1.7068507700477962,0.0127261678176321,3766,1862,1146,758,wit-surprise,neutral
+14,It's right out of the Old Tenement.,1.7617477328936522,0.0129915663368307,3639,1654,1198,787,incongruity-absurdity,neutral
+3,Have you tried banging on it?,1.8379872822781311,0.0128244235276292,3617,1416,1371,830,wit-surprise,neutral
+22,When I get to the part about damnation and hell - turn up the heat.,1.7098560354374308,0.0124937759235933,3612,1694,1272,646,exaggeration,negative
+17,I see the radiator's baroque again.,1.7451035254616676,0.0130441272225416,3574,1658,1169,747,incongruity-absurdity,neutral
+8,You're right. It has a warmer sound.,1.8134328358208955,0.0126678812849553,3350,1271,1433,646,sarcasm,positive
+20,"If it gets cold in here, pull out all the stops.",1.7139349294045427,0.0128544800840131,3258,1476,1238,544,incongruity-absurdity,neutral
+28,Sunday's bulletin will recognize the generous contribution of Plumbers Union Local 75.,1.6925675675675675,0.0129496432803794,3256,1543,1171,542,incongruity-absurdity,positive
+18,We won’t be needing you from May to October.,1.718740057270124,0.0130716193693461,3143,1410,1207,526,sarcasm,neutral
+21,"The tuner is on his way, but the plumber can’t make it until Tuesday.",1.710636922082121,0.0129507581454702,3093,1379,1230,484,incongruity-absurdity,neutral
+25,Every once in a while I just play to let off a little steam.,1.6993995054750972,0.0136884581102253,2831,1304,1074,453,self-deprecating,neutral
+26,"You're right, it does have a warmer tone.",1.6946808510638298,0.0133750699645005,2820,1273,1135,412,sarcasm,positive
+44,"I start out slow, but I build up steam.",1.654343144292893,0.0133755699597563,2786,1342,1065,379,self-deprecating,positive
+31,The landlord works in mysterious ways.,1.682655410590944,0.0147879245600789,2606,1287,859,460,unknown,negative
+33,You said you could play anything.,1.679037520391517,0.0146758338990594,2452,1167,905,380,sarcasm,neutral
+7,When I get to that part where I talk about Hell turn it all the way up',1.81498158002456,0.0159324173983194,2443,1025,845,573,sarcasm,neutral
+4,Is it too hot to Handel?,1.836199836199836,0.0160861843722814,2442,1004,834,604,incongruity-absurdity,neutral
+34,Your performance tonight was radiant.,1.6713229252259656,0.0147652767797725,2434,1177,880,377,sarcasm,positive
+39,Can you not play the organ when I’m taking a shower?,1.6650205761316872,0.0152868035681481,2430,1233,778,419,sarcasm,negative
+35,Not what I meant when I said your job was to warm up the congregation.,1.6687319289549774,0.0145851274454385,2421,1157,909,355,wit-surprise,neutral
+43,Nice set of pipes.,1.6551003344481603,0.0147864575240315,2392,1180,857,355,sarcasm,positive

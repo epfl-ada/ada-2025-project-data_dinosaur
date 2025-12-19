@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You look fabulous! Who does your air?,1.6006568144499178,0.0140526061709915,3045,1766,729,550,sarcasm,positive
+I'd love to hook you up with my leaf blower.,1.6193640246796392,0.016748507732693,2107,1176,557,374,sarcasm,positive
+You aren't the only giant windbag here.,1.6038403233956544,0.0177651818925573,1979,1165,433,381,sarcasm,negative
+You seem to have an inflated sense of yourself.,1.5585916973200211,0.016846374621184,1903,1119,505,279,self-deprecating,negative
+Still selling cars Bob?,1.559768299104792,0.0173579161996725,1899,1145,445,309,sarcasm,neutral
+I absolutely love what you’ve done with your air.,1.6439220183486238,0.0186902401442081,1744,952,461,331,sarcasm,positive
+Who does your air?,1.6424809830310123,0.0191509228263709,1709,950,420,339,sarcasm,neutral
+Maybe don’t tell them we met through our dealer.,1.5217391304347827,0.0164896837107138,1656,958,532,166,irony,neutral
+So are you into cars or mattresses?,1.527150701647346,0.0174398515465176,1639,979,456,204,unknown,neutral
+Remember me? We met at that Honda dealership!,1.5444444444444445,0.0177871260851286,1620,952,454,214,sarcasm,positive
+Are we connecting here or are you just going through the motions?,1.518141311266709,0.0175101507821511,1571,939,450,182,sarcasm,neutral
+I saw you waving from across the room.,1.5943827563683868,0.0185163193934632,1531,838,476,217,sarcasm,neutral
+Didn't you sell me a Buick in 2008?,1.5933993399339934,0.0193355450285342,1515,862,407,246,sarcasm,neutral
+There’s a certain air about you.,1.5168067226890756,0.0183023131749419,1428,853,412,163,incongruity-absurdity,neutral
+Can I get you another sea breeze?,1.5082319255547605,0.0218039580667881,1397,976,132,289,sarcasm,neutral
+"All this talk about inflation, right?",1.536834427425237,0.0188429131553118,1371,798,410,163,irony,neutral
+Auto sales? I'd never have guessed.,1.537159676232524,0.0191086301733405,1359,797,394,168,wit-surprise,negative
+I love how you dance like everyone is watching.,1.5095729013254786,0.0189158826710064,1358,826,372,160,sarcasm,positive
+"If I could dance like that, then I wouldn't need to drink.",1.5100671140939597,0.0189180873135296,1341,811,376,154,sarcasm,positive
+My son wants to meet you - he's a big fan.,1.583206106870229,0.0208915314790247,1310,761,334,215,sarcasm,positive
+Let me guess: Another spineless Republican.,1.525019245573518,0.0205772808476375,1299,812,292,195,sarcasm,negative
+"The problem is, you just don't seem very stable.",1.5031847133757965,0.0191819407326745,1256,757,366,133,sarcasm,negative
+"Would you stop working, Roger? It's a party!",1.551863857374392,0.020238013616853,1234,712,363,159,wit-surprise,neutral
+"You were brilliant at the car wash Grand Opening in Soho last month.""",1.500818330605565,0.0198431309347649,1222,751,330,141,sarcasm,positive
+So you think inflation is a good thing?,1.497532894736842,0.0200509793793597,1216,756,315,145,irony,neutral
+How's the inflation treating you?,1.5067114093959733,0.0201067382873252,1192,726,328,138,irony,neutral
+"So,you consider yourself  gender fluid?",1.4946524064171125,0.0209961165616478,1122,704,281,137,sarcasm,neutral
+But don't you get a little deflated after the holidays?,1.5564588979223126,0.0219002732279003,1107,648,302,157,self-deprecating,neutral
+"Yeah, after work I collapse, too.",1.6124314442413163,0.0222819990135596,1094,591,336,167,self-deprecating,negative
+You  seemed  so different at the gas station.,1.4856870229007633,0.0206034007271742,1048,641,305,102,sarcasm,neutral

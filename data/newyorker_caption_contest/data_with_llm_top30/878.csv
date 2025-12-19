@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Now, where is that tree skirt?",1.6745899690991206,0.0117079530692958,4207,2120,1336,751,unknown,neutral
+"When you said you’d be in stockings when I got home, I had something else in mind.",1.7215127701375246,0.0122809665116514,4072,1975,1256,841,unknown,neutral
+'Twas the night before laundry day.,1.638371474188398,0.01190649387276,3758,1926,1265,567,incongruity-absurdity,neutral
+You’re home early.,1.6790760869565218,0.0127994372898871,3680,1889,1083,708,sarcasm,neutral
+He said to meet him on the roof wearing these.,1.6924165251839276,0.0126774368315318,3534,1714,1193,627,incongruity-absurdity,neutral
+Just stepping into the holidays.”,1.554655870445344,0.0130766447411542,3458,2135,728,595,sarcasm,neutral
+Pro Tip...take the Lego pieces out before you try this.,1.6675986331158743,0.0129244189675301,3219,1578,1133,508,incongruity-absurdity,neutral
+Would you hand me that necklace?,1.6489527977492966,0.0135876279659521,3199,1703,916,580,unknown,neutral
+I left one for you. Use your imagination.,1.738341158059468,0.0137852412886488,3195,1497,1037,661,sarcasm,neutral
+Day 14 of the laundry boycott. Things are getting desperate.,1.5978501422699969,0.0126184052550664,3163,1688,1059,416,exaggeration,negative
+Remember last year? When you got wasted and wore all three?,1.6538090646094503,0.0137835330940582,3111,1644,900,567,sarcasm,neutral
+Take those off!  They’ll give you mistle toe.,1.8199221284879947,0.0145529152461953,3082,1333,971,778,incongruity-absurdity,negative
+"Well, it's either this, or you let ME control the thermostat for a change",1.6956087824351298,0.0135907693237442,3006,1431,1059,516,sarcasm,neutral
+I can put on the Santa suit but it’ll cost extra.,1.5961408259986458,0.01330928789377,2954,1610,927,417,sarcasm,neutral
+They go with the Christmas tree skirt.....,1.6562817473755502,0.0136999338291574,2953,1500,968,485,incongruity-absurdity,neutral
+Wait until you see what I do with the third one.,1.6507666098807496,0.0138130442267761,2935,1513,934,488,exaggeration,neutral
+Do these make my calves look fat?,1.6749055956059045,0.0140442852660722,2913,1464,932,517,incongruity-absurdity,negative
+"To hell with Santa, I’m cold",1.570054945054945,0.0133276538629012,2912,1648,868,396,sarcasm,negative
+"Get the cap and the little reindeer whip, and I'll give you your present right now.",1.6391752577319587,0.0141174557892042,2910,1558,844,508,incongruity-absurdity,positive
+Screw the kids. I’m freezing.,1.6763285024154588,0.0141560045269358,2898,1462,912,524,irony,negative
+No idea. Did you check the dryer?,1.6124219292158224,0.0135660608204092,2882,1539,921,422,sarcasm,neutral
+You should have sprung for my Uggs,1.567849686847599,0.0129899159405491,2874,1586,944,344,sarcasm,neutral
+I asked you to turn up the heat and you said no. Then I asked you to start a fire in the fireplace and you said no again. I'm done asking.,1.599721059972106,0.0135715146323842,2868,1561,894,413,sarcasm,negative
+"Don't look at me that way. We're Jewish, and I'm cold.",1.7788663400979705,0.0148401407644723,2858,1285,920,653,unknown,negative
+"Now, you get to guess where that last sock goes.",1.566725043782837,0.0132709432814909,2855,1604,884,367,incongruity-absurdity,neutral
+Wait'll you see what I do with the wreath!,1.6899141630901289,0.0139929185258046,2796,1333,997,466,unknown,neutral
+Did you check the dryer?,1.5813037249283668,0.0135917336359639,2792,1549,863,380,sarcasm,neutral
+You said you’d like me to wear stockings.,1.571531272465852,0.0132937447279698,2782,1535,904,343,incongruity-absurdity,neutral
+I thought I was all you wanted.,1.6056236481614996,0.0136562049356898,2774,1480,908,386,sarcasm,neutral
+"Well, you always said you wanted to see me in stockings!",1.5948212983223924,0.013525049313979,2742,1468,917,357,sarcasm,neutral

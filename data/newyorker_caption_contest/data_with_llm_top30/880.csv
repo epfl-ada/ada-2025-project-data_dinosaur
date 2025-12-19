@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"I considered a cuckoo clock, but that might seem insensitive.",1.6397423191278493,0.0171351243540929,2018,1092,561,365,incongruity-absurdity,negative
+"In the time remaining, I want you to think about the time remaining.",1.6292756539235411,0.0169864513752215,1988,1075,575,338,unknown,neutral
+"Oh my, I just noticed the time.",1.7031893004115226,0.0174467819231957,1944,949,623,372,self-deprecating,neutral
+"I must warn you, it’s an alarm clock.",1.6443381180223289,0.0175973013693672,1881,1001,548,332,incongruity-absurdity,neutral
+I guess I really should get glasses.,1.588705380927011,0.0187994656019323,1877,1167,315,395,incongruity-absurdity,neutral
+"Used to have a cuckoo clock, but patients got offended.",1.6064690026954178,0.0178900714420387,1855,1059,467,329,incongruity-absurdity,negative
+My patients used to complain that I kept looking at my watch.,1.6633986928104576,0.0173826239037315,1836,922,610,304,wit-surprise,negative
+I think you’re making things out to be bigger than they are.,1.6668511344770338,0.0176570192292805,1807,910,589,308,exaggeration,neutral
+"So I misheard you, and your problem isn't having a small clock?",1.598775737340011,0.0184256176945815,1797,1053,412,332,incongruity-absurdity,negative
+"Yes, I bill by the minute. Why do you ask?",1.618516452872281,0.0175094842039999,1793,965,547,281,sarcasm,neutral
+"Now, I don't want you to feel rushed, ...",1.5850763143018654,0.0169394427675059,1769,968,567,234,wit-surprise,neutral
+"Jerry, is the big clock in the room with us now?",1.654867256637168,0.0191873914906926,1695,922,436,337,sarcasm,neutral
+We felt it was best to replace the cuckoo clock.,1.5814639905548995,0.0181643387694701,1694,976,451,267,incongruity-absurdity,neutral
+"So, I hear you saying you feel that you're constantly pressed for time. Where do you think that feeling comes from?",1.5922155688622754,0.0175175162101435,1670,907,537,226,sarcasm,neutral
+"It doesn't work. Time heals nothing, Dan.",1.5748031496062993,0.0187554863321354,1524,870,432,222,sarcasm,negative
+Ignore the clock.,1.5793285055957866,0.0190431132279947,1519,872,414,233,incongruity-absurdity,neutral
+"Just to be clear: are you having ‘hallucinations, big time’, or ‘big time hallucinations’”",1.6141522029372497,0.0193423389843992,1498,820,436,242,irony,neutral
+"The Freudians say, ""Sometimes a clock is just a clock.""",1.5707282913165266,0.018558721522024,1428,789,463,176,wit-surprise,neutral
+Costco.,1.5846917080085046,0.0202599993303596,1411,823,351,237,irony,neutral
+Not to worry. It’s only fallen once.,1.568740955137482,0.0192464001847602,1382,780,418,184,incongruity-absurdity,neutral
+"Not sure why you're fixated on its size, maybe that's something we should explore?",1.5958549222797926,0.019581620448751,1351,733,431,187,sarcasm,neutral
+I found that this  helped my patients to not look down at their phones so often.,1.5681310498883096,0.0196726481971006,1343,764,395,184,incongruity-absurdity,positive
+"It’s not the size of the clock that matters, Peter.",1.5865079365079364,0.0207583849470167,1260,710,361,189,wit-surprise,neutral
+I'm playing pickleball at 6:15.,1.560936238902341,0.0230527429746896,1239,799,185,255,self-deprecating,neutral
+Just try to relax.,1.5613168724279836,0.0201549561685698,1215,683,382,150,sarcasm,neutral
+"I find it's easier than saying, ""Our time is up.""",1.5586264656616415,0.0202895852246704,1194,673,375,146,sarcasm,neutral
+"I mean, does anybody really know what time it is?",1.558277027027027,0.02076551252094,1184,679,349,156,irony,neutral
+"Glancing at my watch gave some clients anxiety, so I’m trying this.",1.5575296108291032,0.0204815298207313,1182,670,365,147,incongruity-absurdity,negative
+"I used to have a little cuckoo clock, but some clients took offense.",1.5573491928632115,0.0218426190606388,1177,706,286,185,wit-surprise,neutral
+I got it when I started charging by the minute.,1.5569070373588183,0.0213619064226816,1151,670,321,160,self-deprecating,neutral

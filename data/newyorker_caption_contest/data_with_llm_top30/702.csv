@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"You asked if I wanted product in my hair...and I said a smidgeon...a smidgeon, Ralph.",2.1893601911033636,0.006098689344213,15489,3336,5907,6234,sarcasm,neutral
+Could you trim the sides but leave it feathered on top?,2.0763894241886995,0.0065133449386021,12973,3152,5686,4125,incongruity-absurdity,neutral
+It started off as a lark.,2.032197998293118,0.0068298364769257,12889,3716,5052,4113,incongruity-absurdity,negative
+I switched from Pantene to Dove,2.067160022280576,0.0068488259330528,12567,3345,5036,4177,irony,neutral
+That chair's not going to work.  This is a stool pigeon.,1.9637137137137135,0.007364270324996,11988,4149,4130,3702,incongruity-absurdity,negative
+"Well, the good news is I finally got the monkey off my back.",1.9648262813897488,0.0071798936872881,11628,3740,4571,3313,self-deprecating,positive
+It definitely helps with social distancing.,1.959658934629137,0.0073042088513361,10907,3442,4476,2984,irony,positive
+"We met in the park, we had a connection, now I can't get her out of my head..",1.963279580338061,0.0077250737218706,10294,3401,3885,3004,incongruity-absurdity,neutral
+Just be glad I didn’t come here when I had a pony tail.,1.9412703160833584,0.0079575516961375,10029,3519,3590,2916,sarcasm,negative
+I'm here for the early bird special.,1.935119464160752,0.0077051435510104,10003,3363,3948,2687,unknown,positive
+I guess I should have been more specific when I said I wanted a haircut to pick up chicks.,1.826906957250629,0.0079061460535558,9544,3820,3550,2168,sarcasm,neutral
+"Just a trim, and don't worry. The pigeon's not a carrier.",1.927198539675722,0.0082038023980863,9313,3296,3402,2613,incongruity-absurdity,neutral
+Got her on the first day of Christmas.,1.8744114877589453,0.0084636209418417,8496,3208,3152,2131,irony,neutral
+"It was nice for a change, but let's just go back to a duck tail.",1.8828753150126003,0.0080940833480432,8333,2847,3626,1859,incongruity-absurdity,neutral
+I'm letting her shelter in place.,1.899290259422418,0.0084352124926749,8172,2884,3248,2033,sarcasm,neutral
+You were right; I’m a chick magnet!,1.9114192903548224,0.008637687445017,8004,2830,3076,2092,sarcasm,positive
+When you wear a baseball cap everyone knows you're just covering a bald spot.,1.8787018255578096,0.0089175534422152,7395,2695,2902,1790,unknown,neutral
+"You see it too? My psychiatrist said it's all in my head""...",1.8379615952732644,0.009381464722537,6770,2663,2541,1563,sarcasm,neutral
+"Yes, just a shave. Why?",1.8365983971504896,0.0092667495015953,6738,2596,2649,1491,sarcasm,neutral
+"Unfortunately, it’s a protected species",1.788,0.0094892643168771,6500,2737,2403,1359,irony,negative
+The internet is down.,1.6744528232481148,0.0113684137130525,5437,3082,1028,1314,irony,negative
+Just a smidgeon off the sides and a pigeon off the top.,1.806018784742189,0.0106487101959523,5217,2176,1886,1149,incongruity-absurdity,neutral
+You're going to have to work around my emotional support animal.,1.7649238369699465,0.0109100749337094,4858,2121,1763,973,sarcasm,neutral
+You remember that sunflower seed shampoo and conditioner you recommended..........,1.750836820083682,0.0108076313664435,4780,2097,1785,897,sarcasm,neutral
+I loved what you did with my wife’s beehive.,1.7686080503710366,0.0116597186939574,4447,1978,1517,950,sarcasm,positive
+Can you spike my hair? So this doesn't happen again.,1.749266862170088,0.0119254326388347,4092,1840,1437,809,self-deprecating,negative
+I heard about your shop on Twitter.,1.7416937297027228,0.0120286550514138,4003,1824,1396,782,sarcasm,neutral
+"Coronavirus, huh? I'm still dealing with the bird flu!",1.6809784022898775,0.0120471690549669,3843,1878,1309,654,exaggeration,negative
+Try not to disturb the eggs.,1.751706036745407,0.0121805115871291,3810,1685,1385,728,incongruity-absurdity,neutral
+"Hardly inconvenient at all, compared to my life after they hatch.",1.6780995220691597,0.0123314657577802,3557,1736,1235,582,self-deprecating,neutral

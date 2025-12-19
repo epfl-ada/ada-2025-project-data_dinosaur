@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+6675,I can't meet you for dinner tonight. I'm feeling a bit sheepish.,1.2019230769230769,0.0332213946718879,208,173,28,7,incongruity-absurdity,negative
+7278,"Hello Fox? My campaign theme is
+""I'm Sheepish On America""",1.1840796019900497,0.0331546409583007,201,171,23,7,sarcasm,neutral
+4959,"I thought I ordered a little lamb, not a litter of lambs?!",1.2461538461538462,0.0385381209545738,195,157,28,10,exaggeration,neutral
+6580,This is not what I had in mind when they said Sheep Meadow views.,1.205128205128205,0.0324336170273679,195,159,32,4,incongruity-absurdity,negative
+4744,"Obviously, counting sheep is not working!""",1.2512820512820513,0.0351302020961659,195,151,39,5,sarcasm,negative
+2852,"Bo Peep,try 740 Park Ave. 8th floor.",1.3041237113402062,0.0416837227800417,194,147,35,12,sarcasm,neutral
+5503,Please tell BoPeep to stop shopping and get back to the hotel now!!,1.231958762886598,0.0344986510931982,194,154,35,5,sarcasm,neutral
+720,"Hey Mary, about last night...",1.3989637305699485,0.0482531064560237,193,136,37,20,sarcasm,neutral
+1143,My landlord told me to get the flock out of here.,1.3730569948186528,0.0444270934628426,193,135,44,14,unknown,neutral
+15,Check out channel 12. This idiot woman has a house full of cats.,1.578125,0.0578737485682589,192,119,35,38,irony,negative
+5617,Why do they always put the grazing forecast at the very end?,1.2291666666666667,0.0368939784874568,192,156,28,8,irony,negative
+3583,"Hello, Miss Bo Peep? Did I wake you?",1.28125,0.0407220029306959,192,149,32,11,sarcasm,neutral
+1576,"Hello, this is the Sleep Wellness Institute. How can we help you?",1.350785340314136,0.045003102124775,191,139,37,15,sarcasm,neutral
+430,"Mom, plenty of people work from home.",1.4293193717277486,0.04776510090122,191,127,46,18,sarcasm,neutral
+8540,Ha. I t looks like a sheep sty in here,1.1361256544502618,0.0289718808688225,191,169,18,4,irony,negative
+7634,They was to watch ‘Lassie’ again.,1.173684210526316,0.0313390123777878,190,161,25,4,unknown,neutral
+4689,"Yep, all good in the virtual meadow. Cows in the virtual corn?",1.2526315789473683,0.0372673080269827,190,149,34,7,incongruity-absurdity,positive
+3445,You can cancel the Lamber Alert. I found 'em.,1.2857142857142858,0.0432846700788653,189,149,26,14,sarcasm,neutral
+2068,Hi Bo!  Nope; haven't seen them.,1.3297872340425532,0.0469677882567252,188,144,26,18,sarcasm,neutral
+721,"Oh, is the big game on? I'm out in the field with the sheep, they're fine.""",1.398936170212766,0.0486125004215622,188,132,37,19,incongruity-absurdity,positive
+87,"No, I don’t know how many there are—if I try to count them I fall asleep.",1.5106382978723405,0.0541220233052306,188,120,40,28,wit-surprise,neutral
+5851,"I get that cities are more environmentally friendly with all the public transportation and reduced energy consumption, but I don’t know if this is sustainable for me.",1.2234042553191489,0.0356246460726194,188,152,30,6,self-deprecating,negative
+3564,I can't talk now. The sheep are nervous.,1.2819148936170213,0.0420146689969091,188,147,29,12,incongruity-absurdity,negative
+3395,This is Mr. Peep please have Bo to come home as soon possible.,1.2872340425531914,0.0414800979239846,188,145,32,11,sarcasm,neutral
+1962,"I don't know how long I'm gonna last at this job, Ma...I keep falling asleep.",1.3351063829787233,0.0445864098427455,188,139,35,14,sarcasm,negative
+8302,"Yeah, didn't work!  Ended up counting all the legs while listening to ""Aura.""",1.148936170212766,0.031020579401425,188,165,18,5,incongruity-absurdity,negative
+2353,"Hey Bo, I know where your sheep are.",1.319148936170213,0.0436068216375204,188,141,34,13,sarcasm,neutral
+3886,"Long story, couldn't fall asleep last night, started counting........",1.2727272727272727,0.0405141007641777,187,146,31,10,unknown,neutral
+7543,Don't transfer my call to Wolfe. I've called Wolfe four times already. No one answers.,1.1764705882352942,0.0344070377493628,187,161,19,7,sarcasm,negative
+3502,"I'm not doing much, just another sleep over.",1.2834224598930482,0.0408278605579135,187,144,33,10,irony,negative

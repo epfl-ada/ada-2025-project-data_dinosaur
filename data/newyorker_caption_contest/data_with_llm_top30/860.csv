@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+That’s where I met my wife.,1.5683587667393335,0.0135259831578117,3211,1935,727,549,unknown,neutral
+That’s where the locals eat.,1.6655759162303665,0.013870665888454,3056,1580,918,558,incongruity-absurdity,neutral
+"No, Happy Hour is later.  They’re just here for the Early Bird.",1.6495491963935711,0.0146948786856297,2551,1306,833,412,incongruity-absurdity,neutral
+Should we scrap our dinner plans or plan our dinner scraps?”,1.5423728813559323,0.0163489868819261,2537,1706,286,545,incongruity-absurdity,neutral
+The locals always know the best places to eat.,1.6371841155234657,0.0150128772410173,2216,1101,818,297,wit-surprise,positive
+Want to check out the local cuisine?,1.543819188191882,0.0145005204048993,2168,1214,729,225,unknown,neutral
+They fly all this way just to say they ate in the Hamptons.,1.7333641404805915,0.016283788085487,2164,986,769,409,sarcasm,neutral
+And I'm the dirty one?,1.807304180682364,0.019308457967979,2081,1046,390,645,irony,negative
+Next year we'll try the all-inclusive package. Their buffet looks delicious.,1.5664403491755576,0.0153120389707238,2062,1139,678,245,irony,positive
+They wouldn’t last a day in Times Square.,1.5294117647058822,0.0170155298768454,2057,1324,377,356,sarcasm,negative
+The buffet looks promising.,1.5856997971602431,0.0151873650790538,1972,1026,737,209,incongruity-absurdity,positive
+"See, even they pick out the raisins.",1.5876288659793814,0.0158255730614315,1940,1036,668,236,irony,neutral
+We can check out Yelp but it looks like it’s popular with the locals.,1.5946808510638295,0.0157577363233733,1880,974,694,212,sarcasm,neutral
+Locals always know the best places to eat.,1.661134903640257,0.0162108302901922,1868,882,737,249,wit-surprise,positive
+Want anything from the snack bar?,1.6886843530048727,0.0166393059234608,1847,849,724,274,sarcasm,neutral
+"Seriously babe, ‘flying rat’ is a compliment.",1.5596026490066226,0.0157938391394666,1812,984,642,186,sarcasm,positive
+Remember when we were young and poor?,1.59567387687188,0.0159277061549221,1803,924,684,195,irony,neutral
+"Sheer, unmitigated gull.",1.601343784994401,0.0165779594974944,1786,936,626,224,sarcasm,negative
+"Wild air, blue water, endless fries, and still they squawk.",1.619607843137255,0.0162289469231091,1785,888,688,209,incongruity-absurdity,neutral
+I'd like to see one of them tackle a thick-crust.,1.5483870967741935,0.0155609482495049,1767,957,651,159,incongruity-absurdity,neutral
+I could never eat straight out of the can.,1.697886921758995,0.0169193160561612,1751,783,714,254,incongruity-absurdity,negative
+You have to admire their undiscerning palate.”,1.516571428571429,0.0186712001522624,1750,1161,274,315,sarcasm,positive
+"This vacation’s been fun, but I’m ready for a home-rotted meal.",1.5218642117376295,0.0166575631347673,1738,1033,503,202,self-deprecating,positive
+Should we check out the snack bar?,1.603458213256484,0.0159688682584128,1735,864,695,176,wit-surprise,neutral
+That place has great takeout.,1.6388405797101449,0.0162365669869561,1725,816,716,193,unknown,positive
+We should try that place; the locals won’t stop screaming about it.,1.6448055716773071,0.0169121054375414,1723,839,657,227,sarcasm,neutral
+"We better get moving, looks like they’re already serving the early bird special.",1.6426076833527357,0.0172382975918858,1718,855,622,241,incongruity-absurdity,neutral
+"Ordinarily I'd be interested, but we're on vacation.",1.5689958896065763,0.0161889120398173,1703,905,627,171,sarcasm,neutral
+Check out the local trash.,1.5332157554379775,0.0159902504901221,1701,952,591,158,irony,negative
+And Lord knows where their beaks have been!,1.5782634376845837,0.0164894679935081,1693,897,613,183,incongruity-absurdity,neutral

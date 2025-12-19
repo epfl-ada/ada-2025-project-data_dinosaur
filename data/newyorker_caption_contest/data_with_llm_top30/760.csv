@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It's curb to table.,1.850197758734344,0.0103960388892393,6068,2512,1953,1603,incongruity-absurdity,neutral
+Perhaps Monsieur should not have tried to order in French.,1.7924915950691072,0.0109946106756216,5354,2403,1659,1292,sarcasm,neutral
+What color was Madam’s retainer?,1.8040600176522508,0.0119736707482212,4532,2003,1414,1115,unknown,neutral
+You probably meant compote.,1.8733604703753957,0.0122111270861051,4422,1773,1436,1213,wit-surprise,neutral
+Would monsieur care to sniff the lid?,1.754398826979472,0.0126578709761521,4092,1967,1163,962,unknown,neutral
+Bin appetite,1.7760570304818093,0.0122012292061087,4068,1789,1401,878,unknown,neutral
+May I recommend the remains of the day?,1.804154302670623,0.0124956434511055,4044,1750,1336,958,wit-surprise,neutral
+"Yes, we do have a suggestion box.",1.774817793415431,0.0123091104105487,3979,1748,1379,852,unknown,neutral
+"Well, in French you ordered a garbage  can",1.7583857442348008,0.012922951570603,3816,1788,1162,866,sarcasm,negative
+"If you don't already, you should have reservations.",1.7421602787456445,0.013663093432246,3731,1904,885,942,incongruity-absurdity,neutral
+Perhaps monsieur would prefer to order in English.,1.764826776277158,0.013566881844903,3406,1562,1083,761,sarcasm,neutral
+"You said you wanted to take home the leftovers. If you meant just your own, you should have said so.",1.7686611374407584,0.0136864905491181,3376,1548,1061,767,sarcasm,neutral
+This is the chef’s recommended pairing for your order of well-done steak with ketchup.,1.786479045579688,0.0143469774239154,3269,1523,921,825,sarcasm,neutral
+We like to call it 'curb-to-table.',1.7457886676875958,0.0134748621938623,3265,1488,1119,658,incongruity-absurdity,neutral
+Perhaps monsieur shouldn’t have hidden the ring inside the meal...,1.7736890524379023,0.0140848520916928,3261,1507,985,769,irony,neutral
+The chef DOES remember you from high school.,1.819753086419753,0.0140944305286429,3240,1387,1050,803,sarcasm,neutral
+Albert impressed his internet date Midge by ordering entirely in French .,1.7384324834749765,0.0142733002082682,3177,1552,904,721,irony,positive
+To be fair you did say you wanted what you had last night,1.8279464577211884,0.0143016227107021,3063,1268,1054,741,sarcasm,neutral
+"Monseiur, perhaps you you would prefer to order in English.",1.7390284757118928,0.0143167192706214,2985,1404,956,625,sarcasm,neutral
+May I interest you in yesterday’s specials?,1.771131805157593,0.0144485149873706,2792,1206,1019,567,sarcasm,neutral
+"I'm sorry sir, but we do reserve the right to serve refuse to anyone.",1.7423964822279223,0.0153402095218193,2729,1318,796,615,sarcasm,negative
+Your complaint about your meal has been noted. Chef has sent out a special dessert cart.,1.7374260355029585,0.0149500566537187,2704,1265,884,555,sarcasm,neutral
+"Let me remind you of your last review :
+""The service is lousy and the food is rubbish""",1.85092936802974,0.0153898846942394,2690,1087,917,686,sarcasm,negative
+"Perhaps next time, Monsieur, you will order in English.",1.7311909262759924,0.015096761845162,2645,1248,860,537,sarcasm,neutral
+"Since your reservation was for yesterday, I’ll start you off with a sampling of what you missed.",1.8292011019283747,0.0153758821955931,2541,1017,941,583,sarcasm,neutral
+"The good news is, it's all you can eat.",1.7747318235995233,0.0154480806286622,2517,1103,878,536,incongruity-absurdity,positive
+Outdoor seating is full but we can provide outdoor ambience.,1.7723611699872828,0.0157779676936228,2359,1022,852,485,sarcasm,neutral
+Unfortunately a very good customer from the show ‘Sesame Street’ has requested this table and we’ll have to move you to a new one.,1.7461206896551724,0.01651541617037,2320,1103,703,514,sarcasm,neutral
+Which cake did you say you hid the ring in?,1.7673611111111112,0.0162972517987207,2304,1035,770,499,sarcasm,neutral
+Care to make room for dessert?,1.7163846838824577,0.0171111701511539,2246,1147,589,510,incongruity-absurdity,neutral

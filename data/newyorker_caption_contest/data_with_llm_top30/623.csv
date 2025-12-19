@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"You better hope that was rain I just felt.""",2.1204460251850428,0.0073889971877723,10403,2403,4344,3656,sarcasm,negative
+2,"Okay, but if he starts sniffing their tails he has to leave.",1.9804672163329409,0.0078239428224981,10188,3278,3831,3079,irony,negative
+3,"Have you tried saying, ""Down, boy""?",1.9322033898305084,0.0080620541634789,8968,2938,3700,2330,incongruity-absurdity,neutral
+8,I don't think you appreciate the gravity of the situation.,1.88250872757915,0.0086740353510784,8307,3141,3001,2165,wit-surprise,negative
+4,"He's a beagle, but he claims the ""b"" is silent.",1.928347784200385,0.0087479502738624,8304,2957,2985,2362,incongruity-absurdity,neutral
+11,But my dog IS on a leash,1.8356968215158924,0.0083736370338752,8180,3128,3268,1784,irony,neutral
+7,Can I borrow that?  I’ve got to get a cat out of a tree.,1.9083333333333332,0.0086482137507628,8160,2898,3112,2150,incongruity-absurdity,neutral
+9,"Sir, did you leave a kite at the dog park by any chance?",1.8674395161290325,0.0087056415883924,7936,2982,3024,1930,sarcasm,neutral
+5,"Sir, are you suggesting that someone else's kite pooped on the lawn?",1.9239548602205692,0.0089220170012287,7798,2739,2913,2146,sarcasm,negative
+6,Skye terrier or Airedale?,1.9114141949152543,0.00896945361083,7552,2658,2905,1989,incongruity-absurdity,neutral
+16,Do you realize your kite's in the car with the window cracked open?,1.795882192527952,0.009103978960746,7334,3130,2571,1633,sarcasm,neutral
+1,It's a park. He's on a leash. What's it to you?,2.0435990002777005,0.0090975106303631,7202,1996,2896,2310,irony,neutral
+12,He's a bird dog.,1.833605220228385,0.0094796279305141,6743,2697,2471,1575,unknown,neutral
+17,"No, dogs are welcome. But we do enforce the laws of physics.",1.7955951123849752,0.0095462647949035,6629,2818,2348,1463,unknown,neutral
+18,"The sign only said, “No dogs on grass.”",1.7864719446579551,0.0092530488975428,6505,2654,2586,1265,irony,neutral
+20,I can't even get mine to sit!,1.7711738484398216,0.0097189714861194,6057,2584,2275,1198,self-deprecating,negative
+15,Any chance you can do that with a pig?  My wife would have to let me get a motorcycle if you could.,1.817066760119152,0.0107583153042145,5707,2502,1747,1458,sarcasm,neutral
+19,"Sir, all dogs go to heaven, it's time to let go.",1.77863532713559,0.0102508380527529,5701,2478,2007,1216,sarcasm,neutral
+10,Sticking his head out the car window just doesn't do the trick for him anymore.,1.838126843657817,0.0103021563812474,5424,2071,2160,1193,unknown,negative
+21,"Gravity isn't just a theory in this town, sir. It's the law.",1.7650082236842106,0.011172207777922,4864,2182,1643,1039,incongruity-absurdity,neutral
+23,The leash law isn't the problem. I'm worried about how good a catch you are with that little plastic bag.,1.74209614551754,0.0112152574605804,4618,2090,1629,899,sarcasm,negative
+25,The second he starts marking his territory you're outta here.,1.732461087299797,0.0110355829334911,4433,1948,1723,762,irony,negative
+24,"This is a New Yorker cartoon, Sir, not a Far Side.",1.739068100358423,0.0122999266713315,4185,2013,1251,921,sarcasm,neutral
+29,"Sir, I don't make the laws of gravity, I just enforce them.",1.708076068164979,0.0119560298641682,4049,1935,1361,753,sarcasm,neutral
+34,"LIMERICK: There once was a dog name of Spot....Got a hold of a whole lotta pot...It got him so high...He thought he could fly...And now, I can't get him to stop.",1.6564051638530288,0.0122407806980315,4028,2145,1122,761,unknown,neutral
+28,They said he's too high-strung for the dog park.,1.7126792240652235,0.0127256548555632,3557,1682,1215,660,irony,negative
+26,"""We're getting complaints from people with absolutely no imagination.""",1.7242869490060502,0.0129732894260832,3471,1624,1180,667,sarcasm,negative
+13,"Sorry, sir, dog days are in August",1.832244655581948,0.0135439970164906,3368,1370,1193,805,sarcasm,neutral
+22,"He's still learning ""down.""",1.7489502099580083,0.012884945496762,3334,1446,1279,609,unknown,neutral
+39,"Sorry sir, support kites are not permitted in this park",1.6280940594059403,0.0129193505912778,3232,1696,1042,494,sarcasm,negative

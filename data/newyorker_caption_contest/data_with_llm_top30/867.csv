@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It confuses the dogs.,1.5953835709436524,0.0140624600779038,2946,1695,748,503,incongruity-absurdity,negative
+A bow tie? And look ridiculous?,1.5912727272727272,0.0143862178969925,2750,1574,726,450,sarcasm,negative
+Can you believe it? They’re making me branch manager!,1.6485386607473178,0.0149030338165792,2703,1453,747,503,unknown,neutral
+Before we get married I should tell you I have a woodpecker.,1.7222641509433962,0.0163108441094017,2650,1404,578,668,unknown,neutral
+I need to look professional. I don't want to get axed.,1.6361890126776797,0.0149829848278671,2603,1406,738,459,self-deprecating,negative
+Does this tie make me look too deciduous?,1.5694833800560672,0.0152012405843496,2497,1489,594,414,unknown,negative
+They asked if I'd be willing to uproot.”,1.5303545410393395,0.0177220582432637,2059,1376,274,409,incongruity-absurdity,neutral
+I heard I’m being considered for a cabinet post.,1.7237880496054114,0.0191433839237509,1774,889,486,399,wit-surprise,neutral
+I got the job after the other guy got the axe.,1.705084745762712,0.0186412367709522,1770,882,528,360,incongruity-absurdity,neutral
+"The interview went well, but they asked me if I'd be willing to relocate.",1.6361014994232987,0.0182182438067095,1734,929,507,298,unknown,positive
+"You'd better get with the gentrification program, or you're firewood.",1.516743648960739,0.0191416956231482,1732,1170,229,333,sarcasm,negative
+I'm the branch manager.,1.6814159292035398,0.019067832676838,1695,878,479,338,unknown,neutral
+"Margie, I don’t care if your roots are showing, you’re beautiful!”!",1.6253148614609572,0.0193136615008616,1588,879,425,284,sarcasm,positive
+I look shady without it,1.5304182509505704,0.0172564499883991,1578,915,489,174,self-deprecating,negative
+"You're not going like THAT, are you?",1.5241423125794156,0.0179144218907611,1574,950,423,201,sarcasm,negative
+I was chosen for the board.,1.6311423101467772,0.0188809600556367,1567,833,479,255,wit-surprise,neutral
+What’s one more knot?,1.5942219304005252,0.0187535103739837,1523,842,457,224,incongruity-absurdity,neutral
+"Why can't you find anything to wear? Did you look in your trunk?""",1.5854785478547857,0.0186485573883095,1515,843,457,215,unknown,negative
+First I was afraid...then I was petrified!,1.582089552238806,0.0198391465518151,1474,864,362,248,unknown,negative
+Ive got an interview with branch management,1.601360544217687,0.01905892819938,1470,802,452,216,irony,neutral
+Either I'm tagged for removal or the logging crew is taking me out to a fancy steakhouse.,1.6009582477754962,0.019273445856791,1461,804,436,221,sarcasm,neutral
+My arborist doesn't know how to do a bough tie.,1.5297741273100616,0.0187506365609053,1461,880,388,193,incongruity-absurdity,negative
+Just dressing for success - fortune teller says I have a future in fine furniture.,1.5498967653131452,0.0188246957716962,1453,848,411,194,incongruity-absurdity,positive
+It didn't help.  She fell for a redwood.,1.5773268019594122,0.0193582840043493,1429,812,409,208,incongruity-absurdity,negative
+"I’m getting a place at the boardroom table! Oh, wait. Did they say “as”?",1.554670528602462,0.0194791282696718,1381,806,384,191,sarcasm,positive
+Do you have the rings.,1.5021739130434784,0.0197326547113868,1380,885,297,198,sarcasm,neutral
+Fall is coming. It helps me feel less naked.,1.5094202898550724,0.0185789227435928,1380,833,391,156,self-deprecating,positive
+Does this make my trunk look bigger?,1.5523598820058997,0.0195086322255495,1356,789,385,182,sarcasm,neutral
+It's the dress code for branch managers.,1.6811053024645255,0.0206075342228329,1339,662,442,235,incongruity-absurdity,neutral
+I hope I’m not overdressed but I thought I’d go out on a limb,1.5067365269461075,0.0188232168265835,1336,808,379,149,incongruity-absurdity,neutral

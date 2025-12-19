@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+754,If he'd file his taxes online we wouldn't have to haul around this long form.,1.4285714285714286,0.1727058642362825,14,9,4,1,unknown,negative
+482,"When we go through security, I'll do the talking.",1.5,0.1507556722888818,12,6,6,0,sarcasm,neutral
+2,We're only allowed one carry on item.,2.0,0.2696799449852968,11,4,3,4,exaggeration,neutral
+3,Don't ask me. I'm just the middle man.,2.0,0.2696799449852968,11,4,3,4,sarcasm,neutral
+972,Isn't it your turn to be the middleman?,1.2727272727272727,0.1408357580439061,11,8,3,0,sarcasm,neutral
+7,Be alert. There's a revolving door up ahead.,2.0,0.3015113445777636,11,5,1,5,incongruity-absurdity,neutral
+973,I don't care how rich we made him. Winning an oversized novelty check doesn't give him the right to keep my pen.,1.2727272727272727,0.1408357580439061,11,8,3,0,sarcasm,negative
+1,He insisted on a contract no longer than one page.,2.090909090909091,0.2845904698636096,11,4,2,5,wit-surprise,neutral
+1907,It's the way he would have wanted it ...,1.0909090909090908,0.0953462589245592,11,10,1,0,irony,neutral
+1810,I still think printing the document on multiple pages makes more sense.,1.2,0.1333333333333333,10,8,2,0,irony,neutral
+947,I think an electronic shared folder would be more effective.,1.3,0.1527525231651947,10,7,3,0,sarcasm,neutral
+873,I wish mother wouldn't pack our lunches together.,1.4,0.1632993161855451,10,6,4,0,incongruity-absurdity,negative
+1906,'Who's turn to take it home tonight?',1.1,0.1054092553389459,10,9,1,0,irony,neutral
+57,I'll debrief you two later.,1.8,0.2905932629027116,10,5,2,3,sarcasm,neutral
+948,Are we all on the same page?,1.3,0.1527525231651947,10,7,3,0,incongruity-absurdity,neutral
+1776,Didn't the prosecuting attorney say that three of us should handle the case?,1.2,0.1333333333333333,10,8,2,0,wit-surprise,neutral
+9,"Remember, the success of this presentation depends on our finding three seats together.",1.9,0.2333333333333333,10,3,5,2,incongruity-absurdity,positive
+6,Wanna share a cab?,2.0,0.2981423969999719,10,4,2,4,sarcasm,neutral
+5,Must you always take the opposing side of every case?,2.0,0.2108185106778919,10,2,6,2,sarcasm,negative
+101,"If this presentation goes well, I'm moving to front handle.",1.6666666666666667,0.1666666666666666,9,3,6,0,incongruity-absurdity,positive
+750,You're the one that wanted to be a partner.,1.4444444444444444,0.1756820922315766,9,5,4,0,sarcasm,neutral
+749,The size of laptops is getting out of hand.,1.4444444444444444,0.1756820922315766,9,5,4,0,unknown,negative
+60,Thank God we all work in the same building.,1.7777777777777777,0.2777777777777778,9,4,3,2,irony,positive
+59,We really should switch to legal size paper.,1.7777777777777777,0.2777777777777778,9,4,3,2,unknown,neutral
+61,"If anyone asks, you packed your own suitcase.",1.7777777777777777,0.2777777777777778,9,4,3,2,sarcasm,neutral
+904,"""Do you think they will think we are ""TEAM PLAYERS"" now?",1.3333333333333333,0.2357022603955158,9,7,1,1,sarcasm,neutral
+1905,"You're lucky, last month was Group Hug Fridays.",1.1111111111111112,0.1178511301977579,9,8,1,0,sarcasm,positive
+338,Remember when machine guns used to fit inside violin cases?,1.5555555555555556,0.2939723678960656,9,6,1,2,wit-surprise,neutral
+914,"Separate, yes; but equal",1.3333333333333333,0.1666666666666666,9,6,3,0,incongruity-absurdity,neutral
+1693,If P. C. Vey had given us normal sized hands.....it would not take three of us to carry this suitcase.,1.2222222222222223,0.1469861839480328,9,7,2,0,wit-surprise,neutral

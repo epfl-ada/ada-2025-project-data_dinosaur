@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"The recipe said 'One egg, beaten.' I was lucky to get out alive.",2.1436406473291876,0.0048261405621686,25891,6231,9721,9935,incongruity-absurdity,neutral
+"No, you're thinking of my brother Humpty. I fell off the wagon.",2.08386704499392,0.0050879364330359,24670,6971,8674,9023,wit-surprise,negative
+"In hindsight , I should have let the chicken go first.",2.0637252712901355,0.0053869729305104,22393,6620,7729,8042,incongruity-absurdity,neutral
+Getting laid is harder than it looks.,2.060183207556125,0.0058037873572019,21069,6904,6005,8159,sarcasm,negative
+"I had a great fall, the greatest. No one fall has ever been greater""",2.0218912803241595,0.0058096982935034,19003,5901,6790,6312,exaggeration,positive
+"For the record, they no longer like to be called chicks.",1.9650743099787689,0.0058109881426215,18840,6346,6813,5680,sarcasm,negative
+"I mean, who sends horses?",1.9016882386043896,0.0059979053619449,17770,6653,6223,4894,irony,neutral
+And then I find out all the king's horses and all the king's men are out-of-network.,1.8773696682464456,0.0062070511574115,16880,6660,5634,4584,irony,negative
+Everyone I ever loved was in that carton.,1.8710956271023549,0.0061837233314224,16648,6528,5742,4373,self-deprecating,positive
+It’s never over easy.,1.928087418350528,0.0061210635173267,16381,5678,6211,4492,self-deprecating,neutral
+"Geez...I mean, who knew Egg Beaters was an actual thing?",1.871212121212121,0.0063005003925384,15972,6228,5572,4167,sarcasm,negative
+It wasn't a great fall. That's fake news. It was a beautiful leap. Some say it was the best leap ever.,1.8621926229508197,0.0064734585839811,15616,6349,5078,4189,exaggeration,negative
+The last thing I remember is the sign that said beware of poachers,1.876773566569485,0.0063532530882708,15435,5886,5568,3979,unknown,negative
+"Well, my memory of it is a little scrambled.",1.8646037341689516,0.006127106124157,15318,5587,6214,3511,incongruity-absurdity,negative
+"To add insult to injury, had I fallen on the Mexican side I would have received free medical care from qualified professionals.",1.8434713163849328,0.0066001653685699,15026,6286,4811,3928,irony,neutral
+Let’s just say it didn’t go over easy.,1.7706680132736978,0.0063402969614373,13862,5823,5390,2642,incongruity-absurdity,negative
+"Well, you should see the other guy - he's toast",1.9213817748659916,0.0068154879302873,13432,4775,4947,3710,incongruity-absurdity,negative
+First she tells me I need to come out of my shell. Now I’m “not together enough.”,2.0098462039222067,0.0070143904979977,12289,3667,4845,3777,self-deprecating,negative
+"So, I thought, ""Hey, the chicken made it across...""",1.7898249898249898,0.0069357068599246,12285,5203,4466,2616,incongruity-absurdity,neutral
+"There was no rhyme or reason to it. Well, rhyme, maybe.",1.7503732981993851,0.0070558947751072,11385,5033,4172,2177,wit-surprise,negative
+"Yep, ALL the king's horses and the ALL king's men. Not ONE doctor.",1.7817938420348058,0.0073848449243828,11205,4924,3806,2474,irony,neutral
+Leave the bottle.  Jack and Jill will be here in five minutes.,1.7583911494468405,0.0074963502256742,10666,4819,3617,2230,unknown,neutral
+I also have a crack problem.,1.7265043268263232,0.0078093747931674,9938,4755,3153,2028,self-deprecating,negative
+It was my first FUI.,1.6070722828913158,0.0083288996996088,9615,5838,1714,2060,unknown,neutral
+"And then he said “Mr. Gorbachev, tear down this wall”.",1.6790058170280275,0.0080265105039815,9455,4889,2715,1851,wit-surprise,neutral
+"So, yeah, they were putting me together again, until they realized I didn't have insurance.",1.7115852951409023,0.0081618453685455,8623,4089,2938,1596,irony,neutral
+"The wall's owner doesn't carry liability insurance, but my lawyer says we can sue the King's men for malpractice.",1.6320978854834878,0.0080518152491338,8418,4417,2682,1319,irony,neutral
+Chickens don't like being told they didn't come first.,1.6639004149377594,0.0083354218899408,8194,4177,2596,1420,incongruity-absurdity,negative
+"Is that my 3rd or 4th?, I'm a little shell shocked at the moment.",1.6795810196870269,0.0083205223750202,7924,3856,2754,1314,sarcasm,negative
+The ramp was long and steep and slippery and I was wearing leather bottom shoes.,1.663622330846411,0.0090921655087795,7774,4254,1884,1635,unknown,negative

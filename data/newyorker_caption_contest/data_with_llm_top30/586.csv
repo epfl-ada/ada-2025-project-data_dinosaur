@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Of course it looks alien to you. You've never used one.,2.118474195961107,0.0097689581521375,6685,1783,2327,2575,wit-surprise,negative
+1,I have a feeling they are going to treat us like dirt.,2.108638743455497,0.0098064568112443,6112,1500,2448,2164,sarcasm,negative
+3,And they say life can't exist in a vacuum.,2.054799426934097,0.0105641640526158,5584,1595,2088,1901,unknown,neutral
+6,If they were highly evolved don't you think we'd see some attachments?,1.992829457364341,0.0107016859342326,5160,1543,2111,1506,sarcasm,neutral
+7,We can only hope that they're coming for our leader.,1.981950166764764,0.011241382295733,5097,1688,1813,1596,irony,negative
+8,Eureka !,1.9714343190504928,0.0116722168148621,4971,1756,1601,1614,unknown,neutral
+2,"Left on Pennsylvania Avenue, big white house on the right. Can't miss it. Please hurry.",2.06203007518797,0.0118648495827189,4788,1474,1543,1771,sarcasm,positive
+9,"finally, an identifiable flying object",1.9637513171759744,0.011148467841852,4745,1488,1941,1316,irony,positive
+5,As a matter of fact we'd be delighted to take you to our leader.,2.029310739638196,0.0124897902182911,4367,1425,1389,1553,sarcasm,positive
+13,"Well, at least the boarding procedure will be fast.",1.906648135279129,0.0113195447418244,4317,1414,1892,1011,irony,positive
+14,Well this is going to suck.,1.8648388648388647,0.0121080562651875,4158,1586,1548,1024,sarcasm,negative
+10,Something tells me this is gonna suck.,1.940798285561211,0.0126515716777387,3733,1232,1490,1011,sarcasm,negative
+22,"My God, it’s the Hoover Administration!",1.7530687981729949,0.0127983960925323,3503,1544,1280,679,sarcasm,negative
+12,"First, Trump...now, the return of the Hoover Administration?",1.9121175764847032,0.0137903417993419,3334,1216,1195,923,irony,neutral
+4,Wow. Aliens really do perform the jobs most Americans won't do.,2.047691373025516,0.0138009725731217,3292,957,1221,1114,irony,neutral
+19,"If we take you to him, will you KEEP him?",1.7810509554140128,0.0159544755914761,2512,1138,786,588,sarcasm,neutral
+31,Remember the good old days when the police would just conduct a sweep of the area?,1.6824701195219125,0.0145865857995304,2510,1195,917,398,sarcasm,neutral
+38,Retract hose!—no alien can survive the moral vacuum of their leader.,1.6454248366013071,0.0170932528267399,2448,1463,390,595,sarcasm,negative
+15,I've always pictured the vacuum of outer space a bit differently.,1.8482671174978864,0.0161116232577789,2366,933,859,574,wit-surprise,neutral
+24,"If it's anything like our vacuum, we're safe here on the ground.",1.7459483136224263,0.0155308918607517,2283,992,879,412,sarcasm,neutral
+21,"People of earth, lift your feet. This will only take a few minutes!",1.766070565490575,0.0173284037770897,2069,941,671,457,incongruity-absurdity,positive
+28,"They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are cleaning people.",1.6969846762234306,0.0175455804293423,2023,1029,578,416,sarcasm,negative
+11,There IS a vacuum in space.,1.91468253968254,0.0174101947619177,2016,709,770,537,wit-surprise,neutral
+26,"It came from Bed, Bath and waaay Beyond.",1.7110423116615068,0.0171816228294113,1938,915,668,355,unknown,neutral
+37,"'They really are advanced. It's cordless.""",1.651475919212843,0.01616994319079,1931,941,722,268,sarcasm,neutral
+27,"If they're here to suck the life out of us, they're too late.",1.7079787234042554,0.0176357266126326,1880,904,621,355,self-deprecating,negative
+16,It's a great service. I don't have to carry a plastic bag.,1.8328869844670597,0.0185118088219013,1867,779,621,467,sarcasm,positive
+42,I didn't think anyone could live in a vacuum.,1.6281705342687534,0.0167324849477188,1853,953,636,264,wit-surprise,neutral
+20,Oh my God! It's a guided Bissell!,1.7730227518959911,0.0179705712603719,1846,807,651,388,irony,positive
+41,"I swear, if you say ""That really sucks!"" one more time, I'm leaving you.",1.6281842818428185,0.0169801429728568,1845,961,609,275,sarcasm,negative

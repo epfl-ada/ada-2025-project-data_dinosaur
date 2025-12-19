@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Turns out they only check to see if you return the shoes.,1.899304284145002,0.0111715198817404,5462,2164,1684,1614,irony,neutral
+That drummer downstairs doesn't know who he's messing with.,1.788990825688073,0.0107648281571931,5450,2417,1766,1267,sarcasm,negative
+Exactly how many times did you hit “add to cart”?,1.7866164413915355,0.0118544264282945,4513,2015,1446,1052,sarcasm,neutral
+Lots of people have unusual hobbies.  The guy downstairs enjoys thumping on his ceiling with a broom.,1.7780304753240843,0.0121455945702679,4397,2022,1329,1046,incongruity-absurdity,neutral
+The bowling alley said I could work from home today.,1.7606168446026098,0.0120462012328466,4215,1914,1396,905,exaggeration,neutral
+I think it worked.  They turned down their stereo.,1.7615250436082732,0.0121551983049687,4013,1782,1406,825,incongruity-absurdity,positive
+What did the neighbors want?,1.7693877551020407,0.0127350921777388,3920,1802,1220,898,unknown,neutral
+The downstairs neighbors? What is it this time?,1.7339228295819935,0.0128041012051868,3732,1770,1185,777,irony,neutral
+"If this doesn't break our lease, I don't have any better ideas!",1.7240123283833009,0.0128513765470404,3569,1680,1194,695,sarcasm,negative
+"Oh, but you’re allowed to have a closet full of shoes?!",1.7703962703962703,0.0134528744604249,3432,1550,1120,762,unknown,neutral
+"Apparently, this is the spare room.",1.7135400675468222,0.013271081158902,3257,1534,1122,601,incongruity-absurdity,neutral
+My bowling league went remote last week,1.754892823858341,0.0136342328730729,3219,1454,1100,665,exaggeration,neutral
+I thought you were keeping score.,1.676037483266399,0.014568955798714,2988,1588,780,620,sarcasm,neutral
+"Okay, you win…I should have let you do the gift registry.",1.6942827798699076,0.0142829112080394,2921,1453,908,560,sarcasm,positive
+I have no interest in bowling. I just hate the guy downstairs.,1.6740151788941091,0.0141479424716325,2767,1364,941,462,sarcasm,negative
+"As long as the downstairs neighbour still has that yappy dog, that's how long.",1.7566218809980807,0.0154522848618613,2605,1204,831,570,sarcasm,neutral
+"So, the bowling alley manager really let you work from home?",1.6990328820116054,0.0148642919148507,2585,1244,875,466,sarcasm,neutral
+Apparently the floors are so thin you can hear a pin drop.,1.8117271639409651,0.0158541133839475,2507,1070,839,598,incongruity-absurdity,negative
+Define obsession.,1.7686021505376344,0.0160937831594088,2325,1031,801,493,wit-surprise,neutral
+No. I said we need some heavy duty bowls and a rolling pin,1.735064935064935,0.0161539888986816,2310,1083,756,471,incongruity-absurdity,neutral
+A spare room means different things to different people.,1.7189685314685317,0.0155317232086976,2288,1043,845,400,wit-surprise,neutral
+I think we need a longer apartment.,1.7924865831842576,0.0163241577365391,2236,946,808,482,unknown,neutral
+This isn't what I had in mind when I suggested setting up a spare room.,1.6700228832951944,0.0158251426094903,2185,1077,752,356,sarcasm,negative
+I can't focus with that lady downstairs banging on her ceiling.,1.737118320610687,0.0167918815893533,2096,967,713,416,irony,negative
+Wouldn't it be easier to just install an alarm system?,1.6646766169154228,0.0166093656737789,2010,1007,670,333,sarcasm,neutral
+"Take what you want, but I'm keeping my balls.",1.6840731070496084,0.0176348271298731,1915,968,584,363,unknown,neutral
+I asked the alley if I could work from home today.,1.7250409165302782,0.0177115651434973,1833,848,641,344,incongruity-absurdity,neutral
+I think we're finally going to meet our downstairs neighbors.,1.731106243154436,0.0174691963299419,1826,820,677,329,sarcasm,positive
+"When you said you live an alley, I just thought you were homeless.",1.6496430532674355,0.0170767032500289,1821,914,631,276,sarcasm,neutral
+I couldn’t just leave them all in he gutter.,1.6466165413533835,0.0178230762214618,1729,888,564,277,unknown,negative

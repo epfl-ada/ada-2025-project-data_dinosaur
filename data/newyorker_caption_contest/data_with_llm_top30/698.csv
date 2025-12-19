@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Harry, the whole point of leaving England was to blend in.",2.1616571892770104,0.006650472389855,13541,3137,5078,5326,sarcasm,neutral
+Maybe His Highness should make reservations next time.,1.9477743853446892,0.0070250513962183,12446,4164,4768,3514,sarcasm,neutral
+"I don't care what your ancestry results said, you look ridiculous.",1.898463178466732,0.0073788369885122,11257,4239,3986,3032,sarcasm,negative
+"OK, then, you're a ROYAL pain in the ass . . .",1.8992837958818265,0.0076597172577472,11170,4279,3737,3154,sarcasm,negative
+"So, how long were you a frog for?",1.872207842009395,0.0077654818483352,10431,4032,3700,2699,incongruity-absurdity,neutral
+I think the editors should pick a caption. Letting people vote is how we got Trump.,1.8687053829828284,0.0085019207082182,10366,4653,2421,3292,sarcasm,negative
+I liked you better as a frog.,1.7918515989529988,0.0083107694650501,8787,3771,3074,1942,sarcasm,positive
+"Okay, I'll call you Harry, formerly known as Prince.",1.7990610328638497,0.0086637147239675,8520,3752,2728,2040,sarcasm,neutral
+And they still tried to sell you a queen-sized mattress?,1.732847976307996,0.0080691298542212,8104,3867,2678,1559,irony,negative
+"Dave, I think you're taking this ""dress for the job you want, not the job you have"" a little too far.",1.7863557163919046,0.0089429924774832,7461,3193,2669,1599,sarcasm,negative
+"When the dentist said you needed a crown, this wasn't what she meant.",1.68885949441505,0.0092404563011428,6804,3364,2193,1247,incongruity-absurdity,negative
+"They weren't usurpers, dear. They just had a reservation.",1.716315699366547,0.009920223270413,5841,2742,2014,1085,wit-surprise,neutral
+Stop complaining. You know we always get better seats when you wear it.,1.9246495327102804,0.0105615277948104,5136,1679,2165,1292,sarcasm,neutral
+Maybe  next year we don't have to celebrate  your birthday at Burger King.,1.6708934841982053,0.0106644713050334,5126,2615,1583,928,sarcasm,neutral
+"Harry, you know they're going to want those back.",1.771266170129361,0.010722296520024,5102,2213,1843,1046,sarcasm,neutral
+Well what did you expect to find at Meghan and Harry's yard sale?,1.6830525272547077,0.010887095059199,5045,2561,1522,962,irony,neutral
+"I still think you should've chosen the implant, not the crown.",1.6665333866453418,0.0111568997374635,5002,2669,1332,1001,sarcasm,negative
+Well just think for a minute... do you remember having Excalibur with you in the restaurant?,1.6306068601583112,0.0107018985338124,4927,2636,1475,816,sarcasm,neutral
+"Move to Canada, they said.  It will be fun, they said.",1.7326781326781326,0.0121061931779741,4070,1903,1352,815,exaggeration,positive
+I’m pretty sure that Prom King is not a permanent title.,1.6486686390532543,0.011954244302814,4056,2138,1205,713,sarcasm,neutral
+"It's nothing specific....I just feel like you aren't ready to let go, Harry.",1.8263239875389408,0.0124702765421524,3852,1546,1429,877,sarcasm,neutral
+Again the scepter? So where did you last see it?,1.6777036048064085,0.0121386417070054,3745,1831,1290,624,sarcasm,neutral
+So this is your idea of treating me like a queen?,1.5948444942560942,0.0122025358329703,3569,1964,1087,518,sarcasm,neutral
+"They didn't notice when you were naked, either.",1.8028169014084507,0.0137633903750771,3408,1502,1076,830,sarcasm,neutral
+Knighting the waiter does’t substitute for a tip,1.6532996526681405,0.0129068643630787,3167,1667,968,532,sarcasm,neutral
+Now that we've seen how the other half lives I'm ready to go back.,1.6927943760984183,0.0142867570013387,2845,1397,925,523,self-deprecating,neutral
+"It’s just that it makes you look eager, Charles",1.6293952180028128,0.0144889409322755,2844,1571,756,517,sarcasm,positive
+How about StillSixthInLine.com?,1.6778169014084507,0.0143668386437594,2840,1437,881,522,unknown,neutral
+What's your second wish?,1.6234324614833393,0.0135288250129486,2791,1436,970,385,sarcasm,neutral
+"YOU SAID; MOVE TO VANCOUVER, WE'LL FIT RIGHT IN...",1.5725129844186976,0.0148045824392801,2503,1450,673,380,irony,positive

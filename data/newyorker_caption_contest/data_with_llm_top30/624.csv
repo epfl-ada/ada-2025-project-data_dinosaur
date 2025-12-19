@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Of course I am happy to see you! I just need a little time to decompose myself!,2.0524352122617726,0.0075965137273804,9917,2591,4215,3111,self-deprecating,positive
+2,"'Til death do us part"" was the agreement, Susan.",1.93930799773114,0.0083680239492494,8815,3004,3342,2469,unknown,neutral
+3,"Well, so much for resting in peace",1.928037050231564,0.0083607430486513,8421,2803,3421,2197,irony,negative
+10,What part of 'until death do us part' don't you understand?,1.802747909199522,0.0082393153972414,8370,3366,3289,1715,sarcasm,negative
+5,Biggest Funeral Ever! People all over the world were in the streets! You should have seen the crowds! Biggest crowds in the history of the world! Nobody wanted to miss my funeral! Everyone wanted to see me off. Millions! Biggest sendoff ever! So Big.,1.9044174631878068,0.0094687831617214,7742,3092,2298,2352,exaggeration,positive
+6,Yes mother! I was wearing clean underwear.,1.8842616920651605,0.0091127401626081,7612,2897,2699,2016,incongruity-absurdity,positive
+4,"Of all the skeletons in all the world, I get stuck next to the one from my closet.",1.9093571143351524,0.00917916563425,7513,2749,2696,2068,self-deprecating,negative
+8,Please!  I just got OUT of a relationship!,1.825832223701731,0.0089628704325908,7510,3033,2752,1725,self-deprecating,negative
+15,"Look, I just need a minute to decompose, is that too much to ask?",1.7364959417856145,0.0087675318512441,7146,3152,2725,1269,self-deprecating,neutral
+7,"In retrospect, ""Sorry"" would have been better than
+"" So shoot me"".",1.8262737875997543,0.0099813354397583,6516,2779,2090,1647,sarcasm,negative
+11,"GOP Healthcare, how about you?",1.801942365865308,0.0101073575421095,6281,2760,2005,1516,irony,neutral
+14,"Marge, this is the first time I'm not lying: you look like you've lost weight.",1.7390498652291104,0.0100138595368181,5936,2743,1999,1194,sarcasm,neutral
+12,"No, seriously. He's president now, so turn over.",1.7817321178120618,0.0106581259914369,5704,2606,1737,1361,sarcasm,negative
+16,"Sorry, but I'm looking for someone with a little more substance.",1.7092686459087618,0.0101467163209053,5524,2607,1916,1001,self-deprecating,negative
+22,"I get it, Mom, I haven’t visited in a while.",1.6696824224519942,0.0099577968396181,5416,2644,1917,855,self-deprecating,neutral
+1,"Hey, weren’t you a member of the placebo group?",1.945087784833769,0.0110253473549424,5354,1897,1854,1603,sarcasm,neutral
+17,"Do the words ""rest in peace"" mean ANYTHING to you?",1.6948712831770103,0.0104059147782244,5011,2357,1826,828,sarcasm,negative
+9,This is going to feel like an eternity.,1.818472015322409,0.0112221327877641,4699,1894,1764,1041,irony,negative
+19,"Well, I guess that just leaves taxes.",1.685606898076498,0.0112637888960022,4523,2232,1481,810,exaggeration,neutral
+20,Oh great...an extrovert.,1.6779156327543423,0.0118497729107093,4030,1998,1332,700,sarcasm,positive
+21,Forget it. You're dead to me.,1.6759423222868708,0.0120592700642208,3953,1984,1266,703,sarcasm,negative
+28,Of all the graveyards in all the towns in all the world ...,1.606091894682499,0.0117539874938536,3874,2100,1200,574,wit-surprise,neutral
+26,The irony is...I was 'thinking Outside the box',1.6148466917697686,0.0122518482126374,3718,2029,1092,597,irony,neutral
+18,So now you're finally in the mood?,1.6927777777777775,0.013007658413877,3600,1819,1068,713,sarcasm,neutral
+23,Is it too late to request cremation?,1.6274839070808844,0.0121406815554805,3573,1854,1196,523,sarcasm,neutral
+30,This is going to make eternity seem like forever!,1.5835214446952597,0.012201254169334,3544,1980,1060,504,incongruity-absurdity,negative
+24,"I don't know. Just a few days ago, I was the President's translator at a summit in Helsinki . . . .",1.6219204042956412,0.0136478599031203,3166,1758,847,561,wit-surprise,neutral
+13,I misspoke; I meant to say I WOULDN’T like to be dead.,1.7417763157894737,0.014780533721412,3040,1503,819,718,self-deprecating,negative
+25,"For the hundredth time, lady, I'm not interested in jumping your bones!",1.618919825561892,0.0137072753733672,2981,1619,879,483,sarcasm,negative
+34,"I told you I’d see you in hell, and I’m sticking to that.",1.5402091597547782,0.0132168733981746,2773,1602,844,327,sarcasm,negative

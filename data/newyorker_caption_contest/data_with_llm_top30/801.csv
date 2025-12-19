@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+What do you mean I don’t have time for another game?,1.7495412844036695,0.0140623610419938,3270,1569,951,750,sarcasm,negative
+Hold up! You can’t take my pieces by just claiming their time has come.,1.6609277857484457,0.016862234735846,2091,1096,608,387,incongruity-absurdity,negative
+Grim loser is more like it.,1.7054726368159203,0.0173220292814663,2010,989,624,397,self-deprecating,negative
+"Winners keepers, losers reapers.""",1.6697154471544715,0.0176748200216625,1968,1037,544,387,wit-surprise,neutral
+"Whadda ya mean, “it’s my last move?!”",1.6894601542416452,0.0173366093553718,1945,964,621,360,sarcasm,neutral
+"I may live to regret this, but CHECKMATE!",1.662295081967213,0.017621291011488,1830,933,582,315,wit-surprise,negative
+How about one more game just for the hell of it?,1.6625971143174252,0.0180115408168954,1802,933,544,325,irony,neutral
+"A soul? That’s a good one, I’m a lawyer.",1.6803468208092485,0.0190212737401617,1730,906,470,353,sarcasm,positive
+Hah. Now it’s only taxes.,1.7273802483737433,0.0194339203244198,1691,833,486,372,sarcasm,neutral
+Leonard soon learns what it means to win the battle and lose the war.,1.6998706338939198,0.0205707788091943,1546,807,396,343,wit-surprise,neutral
+I've beaten Death! Next up -- taxes!,1.6637931034482758,0.0198843848789533,1508,788,439,281,exaggeration,positive
+Now if you'll kindly move along. Taxes has next match.,1.6264176117411608,0.0193962892477182,1499,807,445,247,sarcasm,neutral
+Would it kill you to let me win,1.6398390342052314,0.019693334900982,1491,796,436,259,sarcasm,neutral
+Well I’ll be damned.,1.7114461960246743,0.0207909297042293,1459,731,418,310,irony,negative
+How's  that for a death defying move!,1.6795048143053646,0.0197329647877566,1454,719,482,253,unknown,negative
+"Are you trying to cheat, Death?",1.656800563777308,0.0203083010712812,1419,742,422,255,sarcasm,negative
+"Checkmate!  Now go ""collect"" my mother-in-law like you promised.",1.620764239365537,0.0206093406147737,1387,771,371,245,sarcasm,negative
+Gotta run! I have a date with Destiny!,1.621113521330441,0.0198284528808143,1383,737,433,213,unknown,positive
+Checkmate! Now give Betty White back!,1.6493791088385683,0.0213755104100833,1369,752,345,272,sarcasm,neutral
+"Now that I've beaten Death, I'm taking on taxes!",1.6250927988121753,0.0207105611070933,1347,736,380,231,wit-surprise,neutral
+Sudden death overtime?,1.631083202511774,0.0212828232174144,1274,689,366,219,irony,negative
+"Vaccinated, boosted and checkmate.",1.640761300555115,0.0215849354337582,1261,678,358,225,self-deprecating,neutral
+Ha! And tomorrow I'm taking on TAXES!,1.610312764158918,0.022299849168959,1183,668,308,207,irony,positive
+aaand check! Hah! I'm gonna win this game if it's the last thing I do!,1.6099830795262269,0.0221552006276187,1182,663,317,202,self-deprecating,positive
+"Apparently,you CAN cheat death!",1.6567291311754684,0.0222322105690098,1174,611,355,208,unknown,negative
+A deal's a deal--give me the get out of hell free card.,1.6079791847354727,0.0220330104785199,1153,637,331,185,sarcasm,positive
+Over my dead body!,1.6618575293056808,0.0231441990227594,1109,580,324,205,unknown,negative
+"Looking pretty grim, eh?",1.605095541401274,0.0221981418925813,1099,600,333,166,sarcasm,negative
+"Now look who's cheating, Death!",1.6233644859813083,0.0228116403642919,1070,575,323,172,irony,negative
+"So, what’s the endgame?",1.602803738317757,0.0235095120479402,1070,613,269,188,irony,neutral

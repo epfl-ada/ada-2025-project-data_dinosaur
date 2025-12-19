@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Pretty soon, it’ll be Gucci, Gucci, goo.",1.6289833080424887,0.0132274027026672,3954,2373,675,906,exaggeration,neutral
+"This way, we'll all be crying about the same thing.”",1.5432707114259316,0.0142214746638794,3247,2146,438,663,sarcasm,negative
+Hush money.,1.672807663964628,0.0155981436524988,2714,1485,632,597,sarcasm,neutral
+"I look forward to bonding, especially over series EE.",1.5022877478393493,0.0180630443497641,1967,1364,218,385,sarcasm,positive
+This set is from the Trump collection. Behind bars and money just out of reach.,1.6415392725355824,0.0189254706355019,1897,1106,365,426,irony,negative
+It's cribtocurrency.,1.6663037561241154,0.0189444268595002,1837,1014,422,401,irony,neutral
+"Of course, we'll place it higher if it's a girl.",1.672907488986784,0.0191893692693594,1816,1001,408,407,irony,neutral
+It came free with a Wall Street Journal subscription.,1.582089552238806,0.0191654803833301,1608,951,378,279,incongruity-absurdity,neutral
+Have you seen my piggy bank?,1.4826855123674911,0.021177376197611,1415,1004,139,272,unknown,neutral
+Green is gender neutral.,1.5740873299928415,0.0195264597527544,1397,796,400,201,incongruity-absurdity,neutral
+It's an Upwardly Mobile mobile.,1.5733911785972523,0.0196540273727186,1383,790,393,200,incongruity-absurdity,neutral
+It's called a financial reveal.,1.4822592324402606,0.0212034844948268,1381,971,154,256,exaggeration,neutral
+Are you sure we're having a capitalist?,1.535421327367636,0.0194754564168758,1341,797,370,174,wit-surprise,neutral
+Rock-a-bye baby in the tree top: when the Dow falls the Nasdaq will pop…,1.529721595184349,0.0200722695953282,1329,815,324,190,wit-surprise,neutral
+Perfect — always on the mind and just out of reach.,1.570556826849733,0.0201487919555803,1311,751,372,188,unknown,positive
+Babies need a lot of stimulus.,1.583206106870229,0.0200657096539784,1310,732,392,186,incongruity-absurdity,neutral
+"Great, now she'll just think it falls from the sky.",1.687116564417178,0.0221063940359273,1304,683,346,275,unknown,neutral
+This will teach him that financial security will always be just out of reach.,1.5696101829753382,0.020816902027399,1257,729,340,188,exaggeration,negative
+"It will work, I promise.  Mine had planets, and I'm completely spaced out.",1.5227091633466134,0.0203713653632621,1255,769,316,170,self-deprecating,positive
+"It’s the latest thing, cribtocurrency.",1.6980830670926517,0.0230184261478518,1252,661,308,283,exaggeration,neutral
+"He'll be primarily dealing in liquid assets for the first year, so I thought I'd start him on mobile banking.",1.510808646917534,0.0200736938592508,1249,769,322,158,incongruity-absurdity,neutral
+They also had one made of happiness.,1.5318805488297014,0.0215220298230422,1239,781,257,201,incongruity-absurdity,positive
+It’s attached to the debt ceiling.,1.7821138211382117,0.0229990375266613,1230,563,372,295,irony,neutral
+It's from Fisher Price Waterhouse.,1.7312186978297162,0.0231640983884145,1198,589,342,267,irony,neutral
+It's supposed to feel close but always out of reach.,1.577927548441449,0.0211467946427756,1187,671,346,170,unknown,negative
+The height adjusts itself automatically with the inflation rate.,1.5947098976109215,0.0217038966319803,1172,657,333,182,wit-surprise,neutral
+I want our baby to grow up knowing wealth is just out of reach,1.600854700854701,0.021943727167743,1170,656,325,189,sarcasm,neutral
+I’d settle for nine toes and an exceptional FICO score.,1.4788975021533162,0.0221999296007461,1161,792,182,187,self-deprecating,neutral
+And I'll read her bedtime stories about Goldy Locks and the bear market.,1.4854368932038835,0.0204622271007255,1133,710,296,127,irony,neutral
+"Yes it could fall and kill her, but that's capitalism in a nutshell, Diane",1.5154457193292146,0.0215745434082596,1133,706,270,157,sarcasm,negative
