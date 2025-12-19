@@ -1,637 +1,637 @@
 [
   {
     "group":"trump",
-    "date":"2016-03-01",
+    "date":1456790400000,
     "ma_pct_man":2.426097834,
     "ma_pct_woman":1.5369984964,
     "combined_pct":3.9630963303
   },
   {
     "group":"trump",
-    "date":"2016-04-01",
+    "date":1459468800000,
     "ma_pct_man":3.2934343669,
     "ma_pct_woman":1.6220372294,
     "combined_pct":4.9154715963
   },
   {
     "group":"trump",
-    "date":"2016-05-01",
+    "date":1462060800000,
     "ma_pct_man":3.4005810507,
     "ma_pct_woman":2.3166952116,
     "combined_pct":5.7172762624
   },
   {
     "group":"trump",
-    "date":"2016-06-01",
+    "date":1464739200000,
     "ma_pct_man":3.7050351129,
     "ma_pct_woman":2.4437462335,
     "combined_pct":6.1487813464
   },
   {
     "group":"trump",
-    "date":"2016-07-01",
+    "date":1467331200000,
     "ma_pct_man":2.9299002029,
     "ma_pct_woman":2.7920011459,
     "combined_pct":5.7219013488
   },
   {
     "group":"trump",
-    "date":"2016-08-01",
+    "date":1470009600000,
     "ma_pct_man":3.2108848709,
     "ma_pct_woman":2.0761695197,
     "combined_pct":5.2870543906
   },
   {
     "group":"trump",
-    "date":"2016-09-01",
+    "date":1472688000000,
     "ma_pct_man":2.5213513964,
     "ma_pct_woman":2.0237003311,
     "combined_pct":4.5450517275
   },
   {
     "group":"trump",
-    "date":"2016-10-01",
+    "date":1475280000000,
     "ma_pct_man":4.371259557,
     "ma_pct_woman":2.3601251356,
     "combined_pct":6.7313846926
   },
   {
     "group":"trump",
-    "date":"2016-11-01",
+    "date":1477958400000,
     "ma_pct_man":4.2156879078,
     "ma_pct_woman":4.6502095741,
     "combined_pct":8.865897482
   },
   {
     "group":"trump",
-    "date":"2016-12-01",
+    "date":1480550400000,
     "ma_pct_man":4.8101700524,
     "ma_pct_woman":6.3453244432,
     "combined_pct":11.1554944956
   },
   {
     "group":"trump",
-    "date":"2017-01-01",
+    "date":1483228800000,
     "ma_pct_man":2.9391263869,
     "ma_pct_woman":5.8734583463,
     "combined_pct":8.8125847331
   },
   {
     "group":"trump",
-    "date":"2017-02-01",
+    "date":1485907200000,
     "ma_pct_man":2.7856771312,
     "ma_pct_woman":4.0681363296,
     "combined_pct":6.8538134608
   },
   {
     "group":"trump",
-    "date":"2017-03-01",
+    "date":1488326400000,
     "ma_pct_man":1.6798440001,
     "ma_pct_woman":2.3077697262,
     "combined_pct":3.9876137264
   },
   {
     "group":"trump",
-    "date":"2017-04-01",
+    "date":1491004800000,
     "ma_pct_man":2.2310550352,
     "ma_pct_woman":1.8638849074,
     "combined_pct":4.0949399426
   },
   {
     "group":"trump",
-    "date":"2017-05-01",
+    "date":1493596800000,
     "ma_pct_man":1.9377224144,
     "ma_pct_woman":1.4697259262,
     "combined_pct":3.4074483407
   },
   {
     "group":"trump",
-    "date":"2017-06-01",
+    "date":1496275200000,
     "ma_pct_man":2.0547475341,
     "ma_pct_woman":1.5706816403,
     "combined_pct":3.6254291744
   },
   {
     "group":"trump",
-    "date":"2017-07-01",
+    "date":1498867200000,
     "ma_pct_man":1.9642536769,
     "ma_pct_woman":2.958767239,
     "combined_pct":4.9230209158
   },
   {
     "group":"trump",
-    "date":"2017-08-01",
+    "date":1501545600000,
     "ma_pct_man":2.2470339133,
     "ma_pct_woman":2.8572949453,
     "combined_pct":5.1043288586
   },
   {
     "group":"trump",
-    "date":"2017-09-01",
+    "date":1504224000000,
     "ma_pct_man":3.0900740133,
     "ma_pct_woman":2.4258456942,
     "combined_pct":5.5159197075
   },
   {
     "group":"trump",
-    "date":"2017-10-01",
+    "date":1506816000000,
     "ma_pct_man":2.7122869871,
     "ma_pct_woman":0.7730857455,
     "combined_pct":3.4853727326
   },
   {
     "group":"trump",
-    "date":"2017-11-01",
+    "date":1509494400000,
     "ma_pct_man":4.6020977927,
     "ma_pct_woman":0.990596971,
     "combined_pct":5.5926947638
   },
   {
     "group":"trump",
-    "date":"2017-12-01",
+    "date":1512086400000,
     "ma_pct_man":4.2863949695,
     "ma_pct_woman":0.8914380776,
     "combined_pct":5.1778330471
   },
   {
     "group":"trump",
-    "date":"2018-01-01",
+    "date":1514764800000,
     "ma_pct_man":3.6986142141,
     "ma_pct_woman":1.0715022022,
     "combined_pct":4.7701164163
   },
   {
     "group":"trump",
-    "date":"2018-02-01",
+    "date":1517443200000,
     "ma_pct_man":1.6223686869,
     "ma_pct_woman":0.7639413092,
     "combined_pct":2.3863099961
   },
   {
     "group":"trump",
-    "date":"2018-03-01",
+    "date":1519862400000,
     "ma_pct_man":1.4821289352,
     "ma_pct_woman":1.1682567577,
     "combined_pct":2.650385693
   },
   {
     "group":"trump",
-    "date":"2018-04-01",
+    "date":1522540800000,
     "ma_pct_man":3.2399155649,
     "ma_pct_woman":1.7719832836,
     "combined_pct":5.0118988485
   },
   {
     "group":"trump",
-    "date":"2018-05-01",
+    "date":1525132800000,
     "ma_pct_man":3.7483117684,
     "ma_pct_woman":2.4965714693,
     "combined_pct":6.2448832377
   },
   {
     "group":"trump",
-    "date":"2018-06-01",
+    "date":1527811200000,
     "ma_pct_man":3.4444013879,
     "ma_pct_woman":2.3467213195,
     "combined_pct":5.7911227073
   },
   {
     "group":"trump",
-    "date":"2018-07-01",
+    "date":1530403200000,
     "ma_pct_man":1.9689769614,
     "ma_pct_woman":1.9294694468,
     "combined_pct":3.8984464082
   },
   {
     "group":"trump",
-    "date":"2018-08-01",
+    "date":1533081600000,
     "ma_pct_man":2.2770574335,
     "ma_pct_woman":1.720041908,
     "combined_pct":3.9970993414
   },
   {
     "group":"trump",
-    "date":"2018-09-01",
+    "date":1535760000000,
     "ma_pct_man":2.7126978709,
     "ma_pct_woman":1.8100797678,
     "combined_pct":4.5227776387
   },
   {
     "group":"trump",
-    "date":"2018-10-01",
+    "date":1538352000000,
     "ma_pct_man":2.9199741897,
     "ma_pct_woman":1.5617918427,
     "combined_pct":4.4817660324
   },
   {
     "group":"trump",
-    "date":"2018-11-01",
+    "date":1541030400000,
     "ma_pct_man":3.2089227688,
     "ma_pct_woman":2.5643951162,
     "combined_pct":5.7733178851
   },
   {
     "group":"trump",
-    "date":"2018-12-01",
+    "date":1543622400000,
     "ma_pct_man":2.592348447,
     "ma_pct_woman":2.0760782867,
     "combined_pct":4.6684267337
   },
   {
     "group":"trump",
-    "date":"2019-01-01",
+    "date":1546300800000,
     "ma_pct_man":2.411945646,
     "ma_pct_woman":2.4603236637,
     "combined_pct":4.8722693097
   },
   {
     "group":"trump",
-    "date":"2019-02-01",
+    "date":1548979200000,
     "ma_pct_man":2.192166406,
     "ma_pct_woman":1.8349159579,
     "combined_pct":4.0270823639
   },
   {
     "group":"trump",
-    "date":"2019-03-01",
+    "date":1551398400000,
     "ma_pct_man":3.2914714046,
     "ma_pct_woman":2.0495980367,
     "combined_pct":5.3410694413
   },
   {
     "group":"trump",
-    "date":"2019-04-01",
+    "date":1554076800000,
     "ma_pct_man":3.3054011708,
     "ma_pct_woman":2.1954757908,
     "combined_pct":5.5008769615
   },
   {
     "group":"trump",
-    "date":"2019-05-01",
+    "date":1556668800000,
     "ma_pct_man":2.5202842566,
     "ma_pct_woman":1.8734294161,
     "combined_pct":4.3937136727
   },
   {
     "group":"trump",
-    "date":"2019-06-01",
+    "date":1559347200000,
     "ma_pct_man":1.5476936288,
     "ma_pct_woman":1.6257790673,
     "combined_pct":3.1734726961
   },
   {
     "group":"trump",
-    "date":"2019-07-01",
+    "date":1561939200000,
     "ma_pct_man":1.3136504726,
     "ma_pct_woman":1.1512611609,
     "combined_pct":2.4649116335
   },
   {
     "group":"trump",
-    "date":"2019-08-01",
+    "date":1564617600000,
     "ma_pct_man":2.4667929341,
     "ma_pct_woman":1.0382526225,
     "combined_pct":3.5050455566
   },
   {
     "group":"trump",
-    "date":"2019-09-01",
+    "date":1567296000000,
     "ma_pct_man":2.9248424891,
     "ma_pct_woman":1.7575702508,
     "combined_pct":4.68241274
   },
   {
     "group":"trump",
-    "date":"2019-10-01",
+    "date":1569888000000,
     "ma_pct_man":3.1877004856,
     "ma_pct_woman":2.4037471434,
     "combined_pct":5.5914476289
   },
   {
     "group":"trump",
-    "date":"2019-11-01",
+    "date":1572566400000,
     "ma_pct_man":2.1497436937,
     "ma_pct_woman":2.1966252435,
     "combined_pct":4.3463689372
   },
   {
     "group":"trump",
-    "date":"2019-12-01",
+    "date":1575158400000,
     "ma_pct_man":1.6827077979,
     "ma_pct_woman":1.3591043055,
     "combined_pct":3.0418121034
   },
   {
     "group":"trump",
-    "date":"2020-01-01",
+    "date":1577836800000,
     "ma_pct_man":1.3663217097,
     "ma_pct_woman":0.8583207402,
     "combined_pct":2.2246424499
   },
   {
     "group":"trump",
-    "date":"2020-02-01",
+    "date":1580515200000,
     "ma_pct_man":1.8937526827,
     "ma_pct_woman":1.8987079332,
     "combined_pct":3.7924606159
   },
   {
     "group":"trump",
-    "date":"2020-03-01",
+    "date":1583020800000,
     "ma_pct_man":2.4975093021,
     "ma_pct_woman":2.3260583605,
     "combined_pct":4.8235676626
   },
   {
     "group":"trump",
-    "date":"2020-04-01",
+    "date":1585699200000,
     "ma_pct_man":3.5433109505,
     "ma_pct_woman":2.9235128786,
     "combined_pct":6.4668238291
   },
   {
     "group":"trump",
-    "date":"2020-05-01",
+    "date":1588291200000,
     "ma_pct_man":2.7786819014,
     "ma_pct_woman":1.8893853025,
     "combined_pct":4.6680672039
   },
   {
     "group":"trump",
-    "date":"2020-06-01",
+    "date":1590969600000,
     "ma_pct_man":2.6957412517,
     "ma_pct_woman":2.0717909727,
     "combined_pct":4.7675322244
   },
   {
     "group":"trump",
-    "date":"2020-07-01",
+    "date":1593561600000,
     "ma_pct_man":1.9226380514,
     "ma_pct_woman":1.8110367914,
     "combined_pct":3.7336748427
   },
   {
     "group":"trump",
-    "date":"2020-08-01",
+    "date":1596240000000,
     "ma_pct_man":1.9826650259,
     "ma_pct_woman":1.5296695175,
     "combined_pct":3.5123345434
   },
   {
     "group":"trump",
-    "date":"2020-09-01",
+    "date":1598918400000,
     "ma_pct_man":1.6647258687,
     "ma_pct_woman":1.3251819103,
     "combined_pct":2.989907779
   },
   {
     "group":"trump",
-    "date":"2020-10-01",
+    "date":1601510400000,
     "ma_pct_man":1.438974931,
     "ma_pct_woman":1.149847783,
     "combined_pct":2.588822714
   },
   {
     "group":"trump",
-    "date":"2020-11-01",
+    "date":1604188800000,
     "ma_pct_man":1.5183079212,
     "ma_pct_woman":0.9875101207,
     "combined_pct":2.5058180419
   },
   {
     "group":"trump",
-    "date":"2020-12-01",
+    "date":1606780800000,
     "ma_pct_man":1.5491608995,
     "ma_pct_woman":0.814045061,
     "combined_pct":2.3632059605
   },
   {
     "group":"trump",
-    "date":"2021-01-01",
+    "date":1609459200000,
     "ma_pct_man":1.4340235705,
     "ma_pct_woman":0.5189122449,
     "combined_pct":1.9529358155
   },
   {
     "group":"trump",
-    "date":"2021-02-01",
+    "date":1612137600000,
     "ma_pct_man":1.3353366771,
     "ma_pct_woman":0.888461395,
     "combined_pct":2.2237980721
   },
   {
     "group":"trump",
-    "date":"2021-03-01",
+    "date":1614556800000,
     "ma_pct_man":1.3204761635,
     "ma_pct_woman":0.8815033831,
     "combined_pct":2.2019795466
   },
   {
     "group":"trump",
-    "date":"2021-04-01",
+    "date":1617235200000,
     "ma_pct_man":1.8132300198,
     "ma_pct_woman":0.9490044979,
     "combined_pct":2.7622345176
   },
   {
     "group":"trump",
-    "date":"2021-05-01",
+    "date":1619827200000,
     "ma_pct_man":2.518508658,
     "ma_pct_woman":1.8846762314,
     "combined_pct":4.4031848894
   },
   {
     "group":"trump",
-    "date":"2021-06-01",
+    "date":1622505600000,
     "ma_pct_man":2.7234070188,
     "ma_pct_woman":2.1174967165,
     "combined_pct":4.8409037353
   },
   {
     "group":"trump",
-    "date":"2021-07-01",
+    "date":1625097600000,
     "ma_pct_man":2.4770639752,
     "ma_pct_woman":3.8051916744,
     "combined_pct":6.2822556495
   },
   {
     "group":"trump",
-    "date":"2021-08-01",
+    "date":1627776000000,
     "ma_pct_man":2.6117903638,
     "ma_pct_woman":3.4746296602,
     "combined_pct":6.086420024
   },
   {
     "group":"trump",
-    "date":"2021-09-01",
+    "date":1630454400000,
     "ma_pct_man":2.1461288717,
     "ma_pct_woman":3.0169637563,
     "combined_pct":5.163092628
   },
   {
     "group":"trump",
-    "date":"2021-10-01",
+    "date":1633046400000,
     "ma_pct_man":2.0031640768,
     "ma_pct_woman":1.1991257605,
     "combined_pct":3.2022898373
   },
   {
     "group":"trump",
-    "date":"2021-11-01",
+    "date":1635724800000,
     "ma_pct_man":1.0823703329,
     "ma_pct_woman":1.11335578,
     "combined_pct":2.1957261129
   },
   {
     "group":"trump",
-    "date":"2021-12-01",
+    "date":1638316800000,
     "ma_pct_man":2.0605095434,
     "ma_pct_woman":3.1444191014,
     "combined_pct":5.2049286448
   },
   {
     "group":"trump",
-    "date":"2022-01-01",
+    "date":1640995200000,
     "ma_pct_man":1.9650946634,
     "ma_pct_woman":3.2862525766,
     "combined_pct":5.25134724
   },
   {
     "group":"trump",
-    "date":"2022-02-01",
+    "date":1643673600000,
     "ma_pct_man":2.2116191189,
     "ma_pct_woman":4.8708619209,
     "combined_pct":7.0824810398
   },
   {
     "group":"trump",
-    "date":"2022-03-01",
+    "date":1646092800000,
     "ma_pct_man":1.7135589322,
     "ma_pct_woman":3.1302148628,
     "combined_pct":4.8437737951
   },
   {
     "group":"trump",
-    "date":"2022-04-01",
+    "date":1648771200000,
     "ma_pct_man":1.8771586553,
     "ma_pct_woman":2.980364713,
     "combined_pct":4.8575233683
   },
   {
     "group":"trump",
-    "date":"2022-05-01",
+    "date":1651363200000,
     "ma_pct_man":1.7875648007,
     "ma_pct_woman":0.7879909778,
     "combined_pct":2.5755557785
   },
   {
     "group":"trump",
-    "date":"2022-06-01",
+    "date":1654041600000,
     "ma_pct_man":1.3333614256,
     "ma_pct_woman":0.9361712057,
     "combined_pct":2.2695326313
   },
   {
     "group":"trump",
-    "date":"2022-07-01",
+    "date":1656633600000,
     "ma_pct_man":1.2507114138,
     "ma_pct_woman":0.8719279907,
     "combined_pct":2.1226394045
   },
   {
     "group":"trump",
-    "date":"2022-08-01",
+    "date":1659312000000,
     "ma_pct_man":1.0881452825,
     "ma_pct_woman":0.8031177178,
     "combined_pct":1.8912630004
   },
   {
     "group":"trump",
-    "date":"2022-09-01",
+    "date":1661990400000,
     "ma_pct_man":1.0105019321,
     "ma_pct_woman":1.0365642373,
     "combined_pct":2.0470661694
   },
   {
     "group":"trump",
-    "date":"2022-10-01",
+    "date":1664582400000,
     "ma_pct_man":2.2712492478,
     "ma_pct_woman":1.2352344288,
     "combined_pct":3.5064836766
   },
   {
     "group":"trump",
-    "date":"2022-11-01",
+    "date":1667260800000,
     "ma_pct_man":1.9920141073,
     "ma_pct_woman":1.5234207042,
     "combined_pct":3.5154348115
   },
   {
     "group":"trump",
-    "date":"2022-12-01",
+    "date":1669852800000,
     "ma_pct_man":2.8927174162,
     "ma_pct_woman":1.3763120767,
     "combined_pct":4.2690294929
   },
   {
     "group":"trump",
-    "date":"2023-01-01",
+    "date":1672531200000,
     "ma_pct_man":1.4310847854,
     "ma_pct_woman":1.402082718,
     "combined_pct":2.8331675034
   },
   {
     "group":"trump",
-    "date":"2023-02-01",
+    "date":1675209600000,
     "ma_pct_man":2.2498838801,
     "ma_pct_woman":1.2064602663,
     "combined_pct":3.4563441464
   },
   {
     "group":"trump",
-    "date":"2023-03-01",
+    "date":1677628800000,
     "ma_pct_man":1.1313156474,
     "ma_pct_woman":1.2875864891,
     "combined_pct":2.4189021366
   },
   {
     "group":"trump",
-    "date":"2023-04-01",
+    "date":1680307200000,
     "ma_pct_man":1.6541965695,
     "ma_pct_woman":2.13045085,
     "combined_pct":3.7846474194
   },
   {
     "group":"trump",
-    "date":"2023-05-01",
+    "date":1682899200000,
     "ma_pct_man":0.8309957462,
     "ma_pct_woman":1.939338444,
     "combined_pct":2.7703341902
   },
   {
     "group":"trump",
-    "date":"2023-06-01",
+    "date":1685577600000,
     "ma_pct_man":1.6486058091,
     "ma_pct_woman":1.460504301,
     "combined_pct":3.1091101101
   },
   {
     "group":"trump",
-    "date":"2023-07-01",
+    "date":1688169600000,
     "ma_pct_man":1.1236206429,
     "ma_pct_woman":0.5834578593,
     "combined_pct":1.7070785022
   },
   {
     "group":"trump",
-    "date":"2023-08-01",
+    "date":1690848000000,
     "ma_pct_man":2.6776221969,
     "ma_pct_woman":1.2359757414,
     "combined_pct":3.9135979383
   },
   {
     "group":"trump",
-    "date":"2023-09-01",
+    "date":1693526400000,
     "ma_pct_man":2.790018201,
     "ma_pct_woman":1.6631239175,
     "combined_pct":4.4531421185

@@ -21,7 +21,7 @@ The final analysis of this project includes:
 - A gender heterogeneity analysis comparing humor between men and women in captions
 - A timeline-based study of humor evolution centered on four major events: wars, climate change, the Trump election, and COVID-19
 - Large Language Model (LLM)–based clustering of humor types
-- An interactive website presenting all analyses and results as a data story
+- An interactive website presenting all analyzes and results as a data story
 
 
 ## Research questions
@@ -61,9 +61,9 @@ We will normalize and align both datasets to weekly resolution and test correlat
 ## Contest captions analysis
 We used *The New Yorker Cartoon Caption Contest* dataset (2016-2023) combined with the data in https://nextml.github.io/caption-contest-data/ to obtain the dates of each contest. Then, we analyzed which were the words the most used in captions to discover some correlations between polar words (like man/woman). This dataset was also used to analyze the appearance of the words `Trump`and `COVID` over time to check whether these words frequency can be correlated with events like US presidency or a worldwide pandemic.
 
-For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulously sorted data. This and as well a moving average filter is used to analyse the development over time without having noise from specific captions.
+For the caption analysis, simple data treatments were combined with statistical methods. Basic statistics is used to calculate means of meticulously sorted data. A moving average filter is also used in parallel to analyze the development over time without having noise from specific captions.
 
-In addition, the polar words (man/women) are analysed by mean impact of the votes `funny` and `not funny`. This allows us to study gender heterogeneity in humor reception and themes over time.
+In addition, the polar words (man/women) are analyzed by mean impact of the votes `funny` and `not funny`. This allows us to study gender heterogeneity in humor reception and themes over time. To achieve this analysis, the captions were tokenized and lemmatize to divide them according to their content of men- and women-focused words.
 
 The timeline analysis focuses in particular on four major categories of events: wars, climate-related crises, the Trump election, and the COVID-19 pandemic.
 
@@ -87,36 +87,6 @@ https://github.com/SipofoY/ada-2025-data-dinosaur-website.git
 
 The website is deployed to GitHub Pages and can be accessed here:
 https://sipofoy.github.io/ada-2025-data-dinosaur-website/
-
-
-# Proposed timeline
-
-how we plan to organize steps of our analysis for the remaining time of the project (which steps from the methods to complete on weekly basis)
-
-Week 6: 
-- Defining clearly the project goal and the research questions. 
-- Division of tasks between team members
-
-Week 7:
-- Loading and preprocessing of all dataframes.
-- Scraping of additional datasets.
-- Beginning the visualization of the data
-
-Week 8:
-- Analysis related to Google trends
-- Analysis related to words frequency
-- Read me for P2
-- Notebbok for P2
-
-Week 9:
-- Finalize the analysis on google trends (work with csv files data)
-- Continue analysis linked to humor style
-- Continue analysis linked to captions
-- Conceptualize the data story 
-
-Week 10:
-- Write text for the data story
-- Visualize the data to make the story easy to understand
 
 
 # Organization within the team 
@@ -179,18 +149,19 @@ pip install -r pip_requirements.txt
 The directory structure of our project looks like this:
 
 ```bash
-├── data                           <- Project data files
-│   ├── GoogleTrends                <- Datasets of Google Trends
-│   ├── humor_types                 <- Datasets of humor types
-│   ├── newyorker_caption_contest   <- Datasets of the caption contest
+├── data                            <- Project data files
+│   ├── GoogleTrends                    <- Datasets of Google Trends
+│   ├── humor_types                     <- Datasets of humor types
+│   ├── newyorker_caption_contest       <- Datasets of the caption contest
 │
 ├── src                             <- Source code
-│   ├── data                                <- Data directory
-│   ├── utils                               <- Utility directory
+│   ├── data                            <- Data directory
+│   ├── utils                           <- Utility directory
 │
 ├── results.ipynb                   <- Notebook with data analysis and results
-├── google_trends.ipynb             <- 
-├── LLMs.ipynb                      <-
+├── google_trends.ipynb             <- Notebook containing functions and plots used for Google Trends dataset
+├── LLMs.ipynb                      <- Notebook with Humor classification by Llama
+├── introduction.ipynb              <- Notebook with analysis plotted in the intro of the website
 │
 ├── .gitignore                      <- List of files ignored by git
 ├── pip_requirements.txt            <- File for installing python dependencies
@@ -202,7 +173,7 @@ The directory structure of our project looks like this:
 
 The website lives in the repository above. Its structure is:
 
-```
+```bash
 ├── .github/workflows <- GitHub Actions deployment
 │ └── deploy.yml
 │
@@ -227,4 +198,4 @@ The website lives in the repository above. Its structure is:
 ├── tsconfig.json <- TypeScript configuration
 ├── package.json <- Project dependencies
 └── README.md
-
+```

@@ -136,3 +136,16 @@ def get_gender_masks_chunked(captions, female_kw, male_kw, chunk_size=5000):
             male_results.append(bool(lemmas & male_kw))
     
     return female_results, male_results
+
+# =========================
+# Data savers
+# =========================
+def save_df_as_json(df, folder_path, filename):
+    """
+    Save a pandas DataFrame as a JSON file in the given folder.
+    Ensures the folder exists and joins paths safely.
+    """
+    os.makedirs(folder_path, exist_ok=True)       # create folder if missing
+    full_path = os.path.join(folder_path, filename)
+    df.to_json(full_path, orient="records", indent=2)
+    return full_path
