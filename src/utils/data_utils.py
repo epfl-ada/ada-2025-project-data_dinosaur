@@ -8,7 +8,9 @@ import spacy
 from typing import List
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
+from scipy.stats import chi2_contingency, fisher_exact
 
 # =========================
 # Default settings
@@ -191,6 +193,44 @@ def caption_mentions(df, term):
     plt.ylabel('Number of Mentions')
     plt.show()
     
+def plot_category_pie(df_man, df_woman, column, title_prefix="LLM"):
+    """
+    df_man: dataframe for men
+    df_woman: dataframe for women
+    column: column name (e.g., 'llm_humor_labels', 'llm_sentiment')
+    title_prefix: string for figure title
+    """
+    counts_man = df_man[column].value_counts()
+    counts_woman = df_woman[column].value_counts()
+
+    all_categories = sorted(set(counts_man.index).union(counts_woman.index))
+    counts_man = counts_man.reindex(all_categories, fill_value=0)
+    counts_woman = counts_woman.reindex(all_categories, fill_value=0)
+    
+    pct_man = (counts_man / counts_man.sum() * 100).round(2)
+    pct_woman = (counts_woman / counts_woman.sum() * 100).round(2)
+
+    df_plot = pd.DataFrame({
+        "category": all_categories,
+        "pct_man": pct_man.values,
+        "pct_woman": pct_woman.values})
+
+    fig, axes = plt.subplots(1, 2, figsize=(12, 6))
+
+    axes[0].pie(counts_man, labels=None, autopct='%1.1f%%', startangle=90, pctdistance=1, colors=plt.cm.tab20.colors)
+    axes[0].set_title(f"{title_prefix} {column} - Men", fontsize=12)
+    axes[0].legend(all_categories, title="Categories", bbox_to_anchor=(1, 0.5))
+    axes[1].pie(counts_woman, labels=None, autopct='%1.1f%%', startangle=90, pctdistance=1, colors=plt.cm.tab20.colors)
+    axes[1].set_title(f"{title_prefix} {column} - Women", fontsize=12)
+    axes[0].legend(all_categories, title="Categories", bbox_to_anchor=(1, 0.5))
+
+
+    plt.suptitle(f"{title_prefix} Distribution: {column}", fontsize=14)
+    plt.tight_layout()
+    plt.show()
+    
+    return df_plot
+    
 # -------------------------------
 # CONVENIENCE PIPELINE
 # -------------------------------
@@ -214,3 +254,44 @@ def analyze_field(records, field, ngram_range=NGRAM_RANGE, top_k=TOP_K):
     vocab, counts = count_terms(texts, ngram_range)
     top_vocab, top_counts = top_terms(vocab, counts, top_k)
     plot_top_terms(top_vocab, top_counts, field, ngram_range, top_k)
+    
+# -------------------------------
+# STATISTICAL TESTS
+# -------------------------------
+def chi2_test_categories(df_man, df_woman, column, min_count_for_chi2=5):
+    """
+    Perform chi-square and Fisher's test for each category in `column` between df_man and df_woman.
+
+    Returns a DataFrame with category, p-value, and significance.
+    """
+    # Get all unique categories across men and women
+    categories = sorted(set(df_man[column].dropna().unique()).union(df_woman[column].dropna().unique()))
+    
+    results = []
+
+    for category in categories:
+        a = (df_man[column] == category).sum() 
+        b = len(df_man) - a                     
+        c = (df_woman[column] == category).sum() 
+        d = len(df_woman) - c                 
+
+        table = [[a, b], [c, d]]
+
+        if min(a,b,c,d) < min_count_for_chi2:
+            # Small counts → Fisher's exact test
+            _, p = fisher_exact(table)
+            test_used = "Fisher"
+        else:
+            _, p, _, _ = chi2_contingency(table)
+            test_used = "Chi-square"
+
+        results.append({
+            "category": category,
+            "count_man": a,
+            "count_woman": c,
+            "p_value": p,
+            "significant_0.05": p < 0.05,
+            "test_used": test_used
+        })
+
+    return pd.DataFrame(results).sort_values("p_value")

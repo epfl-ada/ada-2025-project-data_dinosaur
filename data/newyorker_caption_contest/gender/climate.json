@@ -1,637 +1,637 @@
 [
   {
     "group":"climate",
-    "date":"2016-03-01",
+    "date":1456790400000,
     "ma_pct_man":0.5655408519,
     "ma_pct_woman":0.1160092807,
     "combined_pct":0.6815501327
   },
   {
     "group":"climate",
-    "date":"2016-04-01",
+    "date":1459468800000,
     "ma_pct_man":0.5644101203,
     "ma_pct_woman":0.4954996161,
     "combined_pct":1.0599097364
   },
   {
     "group":"climate",
-    "date":"2016-05-01",
+    "date":1462060800000,
     "ma_pct_man":0.4551205028,
     "ma_pct_woman":0.4181600956,
     "combined_pct":0.8732805984
   },
   {
     "group":"climate",
-    "date":"2016-06-01",
+    "date":1464739200000,
     "ma_pct_man":0.4301013323,
     "ma_pct_woman":0.6588339825,
     "combined_pct":1.0889353148
   },
   {
     "group":"climate",
-    "date":"2016-07-01",
+    "date":1467331200000,
     "ma_pct_man":0.4228986268,
     "ma_pct_woman":0.4770805063,
     "combined_pct":0.8999791331
   },
   {
     "group":"climate",
-    "date":"2016-08-01",
+    "date":1470009600000,
     "ma_pct_man":0.6721198106,
     "ma_pct_woman":0.7652649443,
     "combined_pct":1.4373847549
   },
   {
     "group":"climate",
-    "date":"2016-09-01",
+    "date":1472688000000,
     "ma_pct_man":0.7037497865,
     "ma_pct_woman":0.6825689405,
     "combined_pct":1.386318727
   },
   {
     "group":"climate",
-    "date":"2016-10-01",
+    "date":1475280000000,
     "ma_pct_man":0.6044757552,
     "ma_pct_woman":0.5411290828,
     "combined_pct":1.1456048379
   },
   {
     "group":"climate",
-    "date":"2016-11-01",
+    "date":1477958400000,
     "ma_pct_man":0.9292603114,
     "ma_pct_woman":0.4371067073,
     "combined_pct":1.3663670188
   },
   {
     "group":"climate",
-    "date":"2016-12-01",
+    "date":1480550400000,
     "ma_pct_man":0.8756624408,
     "ma_pct_woman":0.4505084301,
     "combined_pct":1.3261708709
   },
   {
     "group":"climate",
-    "date":"2017-01-01",
+    "date":1483228800000,
     "ma_pct_man":0.9902597132,
     "ma_pct_woman":0.5870231499,
     "combined_pct":1.5772828632
   },
   {
     "group":"climate",
-    "date":"2017-02-01",
+    "date":1485907200000,
     "ma_pct_man":0.6843504879,
     "ma_pct_woman":0.7249222789,
     "combined_pct":1.4092727669
   },
   {
     "group":"climate",
-    "date":"2017-03-01",
+    "date":1488326400000,
     "ma_pct_man":0.550859971,
     "ma_pct_woman":0.7347020934,
     "combined_pct":1.2855620644
   },
   {
     "group":"climate",
-    "date":"2017-04-01",
+    "date":1491004800000,
     "ma_pct_man":0.7762319705,
     "ma_pct_woman":0.5032206119,
     "combined_pct":1.2794525824
   },
   {
     "group":"climate",
-    "date":"2017-05-01",
+    "date":1493596800000,
     "ma_pct_man":0.618877427,
     "ma_pct_woman":0.1811594203,
     "combined_pct":0.8000368473
   },
   {
     "group":"climate",
-    "date":"2017-06-01",
+    "date":1496275200000,
     "ma_pct_man":0.5316173921,
     "ma_pct_woman":0.0,
     "combined_pct":0.5316173921
   },
   {
     "group":"climate",
-    "date":"2017-07-01",
+    "date":1498867200000,
     "ma_pct_man":0.1107419712,
     "ma_pct_woman":0.2192982456,
     "combined_pct":0.3300402168
   },
   {
     "group":"climate",
-    "date":"2017-08-01",
+    "date":1501545600000,
     "ma_pct_man":0.0,
     "ma_pct_woman":0.3856875967,
     "combined_pct":0.3856875967
   },
   {
     "group":"climate",
-    "date":"2017-09-01",
+    "date":1504224000000,
     "ma_pct_man":0.0782472613,
     "ma_pct_woman":0.6109128219,
     "combined_pct":0.6891600833
   },
   {
     "group":"climate",
-    "date":"2017-10-01",
+    "date":1506816000000,
     "ma_pct_man":0.1083314972,
     "ma_pct_woman":0.6964926251,
     "combined_pct":0.8048241223
   },
   {
     "group":"climate",
-    "date":"2017-11-01",
+    "date":1509494400000,
     "ma_pct_man":0.3973488382,
     "ma_pct_woman":0.710040296,
     "combined_pct":1.1073891343
   },
   {
     "group":"climate",
-    "date":"2017-12-01",
+    "date":1512086400000,
     "ma_pct_man":0.3672711337,
     "ma_pct_woman":0.4848150708,
     "combined_pct":0.8520862046
   },
   {
     "group":"climate",
-    "date":"2018-01-01",
+    "date":1514764800000,
     "ma_pct_man":0.4735195496,
     "ma_pct_woman":0.3677304493,
     "combined_pct":0.8412499988
   },
   {
     "group":"climate",
-    "date":"2018-02-01",
+    "date":1517443200000,
     "ma_pct_man":0.8987879228,
     "ma_pct_woman":0.3750593448,
     "combined_pct":1.2738472676
   },
   {
     "group":"climate",
-    "date":"2018-03-01",
+    "date":1519862400000,
     "ma_pct_man":0.8905385256,
     "ma_pct_woman":0.4916094614,
     "combined_pct":1.382147987
   },
   {
     "group":"climate",
-    "date":"2018-04-01",
+    "date":1522540800000,
     "ma_pct_man":0.8331948155,
     "ma_pct_woman":0.4079827008,
     "combined_pct":1.2411775163
   },
   {
     "group":"climate",
-    "date":"2018-05-01",
+    "date":1525132800000,
     "ma_pct_man":0.2324809354,
     "ma_pct_woman":0.3220339058,
     "combined_pct":0.5545148412
   },
   {
     "group":"climate",
-    "date":"2018-06-01",
+    "date":1527811200000,
     "ma_pct_man":0.28178276,
     "ma_pct_woman":0.3886339724,
     "combined_pct":0.6704167324
   },
   {
     "group":"climate",
-    "date":"2018-07-01",
+    "date":1530403200000,
     "ma_pct_man":0.7661741002,
     "ma_pct_woman":0.6589991409,
     "combined_pct":1.4251732411
   },
   {
     "group":"climate",
-    "date":"2018-08-01",
+    "date":1533081600000,
     "ma_pct_man":0.7091953616,
     "ma_pct_woman":0.6215389788,
     "combined_pct":1.3307343404
   },
   {
     "group":"climate",
-    "date":"2018-09-01",
+    "date":1535760000000,
     "ma_pct_man":0.7820479316,
     "ma_pct_woman":0.5183248468,
     "combined_pct":1.3003727784
   },
   {
     "group":"climate",
-    "date":"2018-10-01",
+    "date":1538352000000,
     "ma_pct_man":0.2186676499,
     "ma_pct_woman":0.3196945067,
     "combined_pct":0.5383621567
   },
   {
     "group":"climate",
-    "date":"2018-11-01",
+    "date":1541030400000,
     "ma_pct_man":0.3693714034,
     "ma_pct_woman":0.2558375463,
     "combined_pct":0.6252089497
   },
   {
     "group":"climate",
-    "date":"2018-12-01",
+    "date":1543622400000,
     "ma_pct_man":0.5302942651,
     "ma_pct_woman":0.1759014952,
     "combined_pct":0.7061957603
   },
   {
     "group":"climate",
-    "date":"2019-01-01",
+    "date":1546300800000,
     "ma_pct_man":2.7347792518,
     "ma_pct_woman":2.0966595593,
     "combined_pct":4.8314388112
   },
   {
     "group":"climate",
-    "date":"2019-02-01",
+    "date":1548979200000,
     "ma_pct_man":2.7066938723,
     "ma_pct_woman":2.0966595593,
     "combined_pct":4.8033534316
   },
   {
     "group":"climate",
-    "date":"2019-03-01",
+    "date":1551398400000,
     "ma_pct_man":2.7189454984,
     "ma_pct_woman":2.1779603724,
     "combined_pct":4.8969058707
   },
   {
     "group":"climate",
-    "date":"2019-04-01",
+    "date":1554076800000,
     "ma_pct_man":0.6889805815,
     "ma_pct_woman":0.4979674797,
     "combined_pct":1.1869480612
   },
   {
     "group":"climate",
-    "date":"2019-05-01",
+    "date":1556668800000,
     "ma_pct_man":0.6609406917,
     "ma_pct_woman":0.4979674797,
     "combined_pct":1.1589081714
   },
   {
     "group":"climate",
-    "date":"2019-06-01",
+    "date":1559347200000,
     "ma_pct_man":0.5546293785,
     "ma_pct_woman":0.4166666667,
     "combined_pct":0.9712960452
   },
   {
     "group":"climate",
-    "date":"2019-07-01",
+    "date":1561939200000,
     "ma_pct_man":0.8441464317,
     "ma_pct_woman":0.1377410468,
     "combined_pct":0.9818874785
   },
   {
     "group":"climate",
-    "date":"2019-08-01",
+    "date":1564617600000,
     "ma_pct_man":0.8175854438,
     "ma_pct_woman":0.3219031094,
     "combined_pct":1.1394885533
   },
   {
     "group":"climate",
-    "date":"2019-09-01",
+    "date":1567296000000,
     "ma_pct_man":0.8602392412,
     "ma_pct_woman":0.3219031094,
     "combined_pct":1.1821423507
   },
   {
     "group":"climate",
-    "date":"2019-10-01",
+    "date":1569888000000,
     "ma_pct_man":0.4481231982,
     "ma_pct_woman":0.4913817247,
     "combined_pct":0.9395049229
   },
   {
     "group":"climate",
-    "date":"2019-11-01",
+    "date":1572566400000,
     "ma_pct_man":0.493061606,
     "ma_pct_woman":0.3947087259,
     "combined_pct":0.8877703319
   },
   {
     "group":"climate",
-    "date":"2019-12-01",
+    "date":1575158400000,
     "ma_pct_man":0.2214700796,
     "ma_pct_woman":0.3947087259,
     "combined_pct":0.6161788055
   },
   {
     "group":"climate",
-    "date":"2020-01-01",
+    "date":1577836800000,
     "ma_pct_man":0.3337526121,
     "ma_pct_woman":0.3400143164,
     "combined_pct":0.6737669285
   },
   {
     "group":"climate",
-    "date":"2020-02-01",
+    "date":1580515200000,
     "ma_pct_man":0.4470318953,
     "ma_pct_woman":0.3346270588,
     "combined_pct":0.7816589541
   },
   {
     "group":"climate",
-    "date":"2020-03-01",
+    "date":1583020800000,
     "ma_pct_man":0.4683175488,
     "ma_pct_woman":0.3346270588,
     "combined_pct":0.8029446075
   },
   {
     "group":"climate",
-    "date":"2020-04-01",
+    "date":1585699200000,
     "ma_pct_man":0.465926234,
     "ma_pct_woman":0.2178791314,
     "combined_pct":0.6838053655
   },
   {
     "group":"climate",
-    "date":"2020-05-01",
+    "date":1588291200000,
     "ma_pct_man":0.2549370317,
     "ma_pct_woman":0.4685560273,
     "combined_pct":0.723493059
   },
   {
     "group":"climate",
-    "date":"2020-06-01",
+    "date":1590969600000,
     "ma_pct_man":0.4318281519,
     "ma_pct_woman":0.4685560273,
     "combined_pct":0.9003841792
   },
   {
     "group":"climate",
-    "date":"2020-07-01",
+    "date":1593561600000,
     "ma_pct_man":0.7015153148,
     "ma_pct_woman":0.3327787022,
     "combined_pct":1.0342940169
   },
   {
     "group":"climate",
-    "date":"2020-08-01",
+    "date":1596240000000,
     "ma_pct_man":0.7230992537,
     "ma_pct_woman":0.1082251082,
     "combined_pct":0.831324362
   },
   {
     "group":"climate",
-    "date":"2020-09-01",
+    "date":1598918400000,
     "ma_pct_man":0.6963902441,
     "ma_pct_woman":0.2095422308,
     "combined_pct":0.9059324749
   },
   {
     "group":"climate",
-    "date":"2020-10-01",
+    "date":1601510400000,
     "ma_pct_man":0.600358914,
     "ma_pct_woman":0.2823224346,
     "combined_pct":0.8826813486
   },
   {
     "group":"climate",
-    "date":"2020-11-01",
+    "date":1604188800000,
     "ma_pct_man":0.897255957,
     "ma_pct_woman":0.3891510898,
     "combined_pct":1.2864070469
   },
   {
     "group":"climate",
-    "date":"2020-12-01",
+    "date":1606780800000,
     "ma_pct_man":1.2710444634,
     "ma_pct_woman":0.8441622009,
     "combined_pct":2.1152066643
   },
   {
     "group":"climate",
-    "date":"2021-01-01",
+    "date":1609459200000,
     "ma_pct_man":1.0639460376,
     "ma_pct_woman":0.7713819971,
     "combined_pct":1.8353280347
   },
   {
     "group":"climate",
-    "date":"2021-02-01",
+    "date":1612137600000,
     "ma_pct_man":2.0169095573,
     "ma_pct_woman":0.9258773837,
     "combined_pct":2.942786941
   },
   {
     "group":"climate",
-    "date":"2021-03-01",
+    "date":1614556800000,
     "ma_pct_man":1.6756516549,
     "ma_pct_woman":0.4819718594,
     "combined_pct":2.1576235143
   },
   {
     "group":"climate",
-    "date":"2021-04-01",
+    "date":1617235200000,
     "ma_pct_man":1.7560502173,
     "ma_pct_woman":0.6001751691,
     "combined_pct":2.3562253864
   },
   {
     "group":"climate",
-    "date":"2021-05-01",
+    "date":1619827200000,
     "ma_pct_man":0.6224102411,
     "ma_pct_woman":0.2306260191,
     "combined_pct":0.8530362602
   },
   {
     "group":"climate",
-    "date":"2021-06-01",
+    "date":1622505600000,
     "ma_pct_man":0.6635099123,
     "ma_pct_woman":0.1182033097,
     "combined_pct":0.781713222
   },
   {
     "group":"climate",
-    "date":"2021-07-01",
+    "date":1625097600000,
     "ma_pct_man":0.5949154606,
     "ma_pct_woman":0.1458789205,
     "combined_pct":0.7407943811
   },
   {
     "group":"climate",
-    "date":"2021-08-01",
+    "date":1627776000000,
     "ma_pct_man":1.0291549652,
     "ma_pct_woman":0.6332083552,
     "combined_pct":1.6623633204
   },
   {
     "group":"climate",
-    "date":"2021-09-01",
+    "date":1630454400000,
     "ma_pct_man":0.8514650824,
     "ma_pct_woman":0.7345254778,
     "combined_pct":1.5859905602
   },
   {
     "group":"climate",
-    "date":"2021-10-01",
+    "date":1633046400000,
     "ma_pct_man":0.7112912668,
     "ma_pct_woman":0.7008800029,
     "combined_pct":1.4121712697
   },
   {
     "group":"climate",
-    "date":"2021-11-01",
+    "date":1635724800000,
     "ma_pct_man":0.6790289515,
     "ma_pct_woman":0.4802172348,
     "combined_pct":1.1592461863
   },
   {
     "group":"climate",
-    "date":"2021-12-01",
+    "date":1638316800000,
     "ma_pct_man":0.6116207951,
     "ma_pct_woman":0.3789001122,
     "combined_pct":0.9905209073
   },
   {
     "group":"climate",
-    "date":"2022-01-01",
+    "date":1640995200000,
     "ma_pct_man":1.0120211955,
     "ma_pct_woman":0.5597069597,
     "combined_pct":1.5717281552
   },
   {
     "group":"climate",
-    "date":"2022-02-01",
+    "date":1643673600000,
     "ma_pct_man":0.4004004004,
     "ma_pct_woman":0.293040293,
     "combined_pct":0.6934406934
   },
   {
     "group":"climate",
-    "date":"2022-03-01",
+    "date":1646092800000,
     "ma_pct_man":0.6887510348,
     "ma_pct_woman":0.3575772404,
     "combined_pct":1.0463282752
   },
   {
     "group":"climate",
-    "date":"2022-04-01",
+    "date":1648771200000,
     "ma_pct_man":0.4351935125,
     "ma_pct_woman":0.4974373803,
     "combined_pct":0.9326308928
   },
   {
     "group":"climate",
-    "date":"2022-05-01",
+    "date":1651363200000,
     "ma_pct_man":0.5006813972,
     "ma_pct_woman":0.5777586654,
     "combined_pct":1.0784400627
   },
   {
     "group":"climate",
-    "date":"2022-06-01",
+    "date":1654041600000,
     "ma_pct_man":0.6851440016,
     "ma_pct_woman":0.513221718,
     "combined_pct":1.1983657197
   },
   {
     "group":"climate",
-    "date":"2022-07-01",
+    "date":1656633600000,
     "ma_pct_man":0.7231440071,
     "ma_pct_woman":0.5369422897,
     "combined_pct":1.2600862968
   },
   {
     "group":"climate",
-    "date":"2022-08-01",
+    "date":1659312000000,
     "ma_pct_man":0.747990359,
     "ma_pct_woman":1.0935636797,
     "combined_pct":1.8415540387
   },
   {
     "group":"climate",
-    "date":"2022-09-01",
+    "date":1661990400000,
     "ma_pct_man":0.3841095821,
     "ma_pct_woman":1.0935636797,
     "combined_pct":1.4776732618
   },
   {
     "group":"climate",
-    "date":"2022-10-01",
+    "date":1664582400000,
     "ma_pct_man":0.537676174,
     "ma_pct_woman":0.9878198681,
     "combined_pct":1.5254960422
   },
   {
     "group":"climate",
-    "date":"2022-11-01",
+    "date":1667260800000,
     "ma_pct_man":0.9399527748,
     "ma_pct_woman":0.7512775934,
     "combined_pct":1.6912303682
   },
   {
     "group":"climate",
-    "date":"2022-12-01",
+    "date":1669852800000,
     "ma_pct_man":1.0547339594,
     "ma_pct_woman":0.7512775934,
     "combined_pct":1.8060115528
   },
   {
     "group":"climate",
-    "date":"2023-01-01",
+    "date":1672531200000,
     "ma_pct_man":1.4075687236,
     "ma_pct_woman":0.9653721518,
     "combined_pct":2.3729408754
   },
   {
     "group":"climate",
-    "date":"2023-02-01",
+    "date":1675209600000,
     "ma_pct_man":1.3244582957,
     "ma_pct_woman":0.6665977677,
     "combined_pct":1.9910560633
   },
   {
     "group":"climate",
-    "date":"2023-03-01",
+    "date":1677628800000,
     "ma_pct_man":1.781016758,
     "ma_pct_woman":0.8181129192,
     "combined_pct":2.5991296772
   },
   {
     "group":"climate",
-    "date":"2023-04-01",
+    "date":1680307200000,
     "ma_pct_man":1.0897725183,
     "ma_pct_woman":0.2531411678,
     "combined_pct":1.3429136861
   },
   {
     "group":"climate",
-    "date":"2023-05-01",
+    "date":1682899200000,
     "ma_pct_man":0.7579721865,
     "ma_pct_woman":0.4928120798,
     "combined_pct":1.2507842664
   },
   {
     "group":"climate",
-    "date":"2023-06-01",
+    "date":1685577600000,
     "ma_pct_man":0.51795165,
     "ma_pct_woman":0.3412969283,
     "combined_pct":0.8592485784
   },
   {
     "group":"climate",
-    "date":"2023-07-01",
+    "date":1688169600000,
     "ma_pct_man":0.6701586515,
     "ma_pct_woman":0.3412969283,
     "combined_pct":1.0114555799
   },
   {
     "group":"climate",
-    "date":"2023-08-01",
+    "date":1690848000000,
     "ma_pct_man":0.8255588069,
     "ma_pct_woman":0.3831417625,
     "combined_pct":1.2087005694
   },
   {
     "group":"climate",
-    "date":"2023-09-01",
+    "date":1693526400000,
     "ma_pct_man":0.5779608519,
     "ma_pct_woman":0.5747126437,
     "combined_pct":1.1526734956
