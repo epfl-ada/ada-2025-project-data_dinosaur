@@ -82,10 +82,12 @@ All results are presented and contextualized in an interactive data story websit
 
 ### Website Source Code
 
-The interactive data story website source code is located in the `website/web` directory of this repository.
+The interactive data story website is deployed via GitHub Pages from a separate repository: https://github.com/SipofoY/ada-2025-data-dinosaur-website.
 
-The website is deployed to GitHub Pages and can be accessed here:
+You can access the live website here:
 https://sipofoy.github.io/ada-2025-data-dinosaur-website/
+
+For reference, the source code is also included in this repository under the `website/web` directory.
 
 
 # Organization within the team 
