@@ -105,6 +105,58 @@ def collect_texts(records, field: str) -> List[str]:
 # FREQUENCY COUNTING & PLOTTING
 # -------------------------------
 
+def plot_captions(df_caption):
+    """
+    Plot the number of captions submitted over time.
+    Args:
+        df_caption (pd.DataFrame): DataFrame containing caption data with columns 
+            'date' and 'num_captions'.
+    Returns:
+        plt (matplotlib.pyplot): Matplotlib plot object showing caption submission trends over time.
+    """
+    plt.figure(figsize=(16, 7))
+    plt.plot(df_caption['date'], df_caption.num_captions, alpha=0.7)
+    plt.xticks(rotation=45, fontsize=11, ha="right")
+    plt.ylabel("Frequency")
+    plt.title("Number of Captions Submitted Over Time")
+    plt.show()
+    return plt
+
+
+def plot_votes(df_image): 
+    """
+    Plot total votes per contest over time.
+    Args:
+        df_image (pd.DataFrame): DataFrame containing image data with columns 
+            'contest_id', 'date', 'votes', 'funny', 'somewhat_funny', and 'not_funny'.
+    Returns:
+        plt (matplotlib.pyplot): Matplotlib plot object showing total votes over time.
+    """
+
+    summary_votes = (
+    df_image
+    .groupby('contest_id', as_index=False)
+    .agg(
+        date = ('date', 'first'),
+        total_votes=('votes', 'sum'),
+        total_captions=('contest_id', 'count'),
+        total_funny=('funny', 'sum'),
+        total_somewhat_funny=('somewhat_funny', 'sum'),
+        total_not_funny=('not_funny', 'sum')
+    )
+    )
+
+    plt.figure(figsize=(16, 7))
+    plt.plot(summary_votes['date'], summary_votes['total_votes'], alpha=0.5)
+    plt.xticks(rotation=45, fontsize=11, ha="right")
+    plt.title("Total Votes per Contest Over Time")
+    plt.ylabel("Frequency")
+    plt.tight_layout()
+    plt.show()
+    
+    return plt, summary_votes
+
+
 def count_terms(texts, ngram_range=NGRAM_RANGE, stop_words="english"):
     """
     Tokenize texts and count term frequencies using CountVectorizer.
