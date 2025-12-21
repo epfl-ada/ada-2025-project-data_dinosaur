@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+We’re going to need a bigger bird feeder.,1.555127587867116,0.0157744915056088,2077,1204,593,280,incongruity-absurdity,neutral
+When they start to circle hide the dog,1.5500740009866798,0.0162892242406547,2027,1206,527,294,unknown,neutral
+Our old neighbors were a lot more down to earth.,1.590415019762846,0.0163117765540466,2024,1129,595,300,unknown,neutral
+More evidence of urban flight.,1.5997031172686789,0.0164086019981621,2021,1116,598,307,exaggeration,neutral
+That explains the mess on the windshield.,1.602391629297459,0.0168914048281529,2007,1132,541,334,sarcasm,negative
+It seems like the Gordons are enjoying retirement a lot more than we are.,1.6076076076076076,0.0166066290300063,1998,1096,590,312,irony,positive
+I wouldn't fly Southwest anymore either.,1.5340737001514386,0.0162122754504032,1981,1192,520,269,sarcasm,negative
+"Those are the new neighbors, Robin and Jay.",1.5714285714285714,0.0168024557220033,1953,1136,518,299,sarcasm,neutral
+"Well,I’m glad it’s not pigs this time. That was creepy!",1.5817901234567902,0.017119393386647,1944,1130,497,317,sarcasm,negative
+Look! The first Robinsons of Spring.,1.7062205959226346,0.0181046161768464,1913,963,549,401,incongruity-absurdity,positive
+We're planting the wrong pot.,1.543171114599686,0.0167183402533398,1911,1146,492,273,unknown,negative
+They're rosy-breasted Grossmans.,1.5388297872340426,0.016597818867613,1880,1120,507,253,unknown,negative
+Apparently they originally had reservations on Southwest.,1.5566790846194785,0.0168820815654593,1879,1104,504,271,irony,neutral
+Remember when we used to get that high?,1.6016042780748665,0.0173179159164959,1870,1045,525,300,sarcasm,neutral
+"I love this time of year, Spring is in the air and so are the Hendersons",1.5657392253136937,0.0166625127639928,1833,1037,555,241,incongruity-absurdity,positive
+What is even crazier is that they mate for life.,1.6015325670498084,0.0177401609848085,1827,1034,487,306,irony,neutral
+"Oh my God, it's the Wrong brothers.",1.5376580538757558,0.0175639857143923,1819,1125,410,284,sarcasm,negative
+"Is it me, or do you think they should have pulled the parachute chord by this point?",1.6360089186176143,0.018232710090819,1794,980,487,327,unknown,neutral
+I hope they’ll have babies this year.,1.5005636978579482,0.0161414726296525,1774,1074,512,188,wit-surprise,positive
+The Nelsons are high again.,1.56082238720731,0.0176008374955791,1751,1028,464,259,exaggeration,neutral
+Time to put the netting over the cannabis.,1.5372960372960374,0.0172194846160514,1716,1017,476,223,incongruity-absurdity,neutral
+I guess those weren’t portobellos in the neighbors’ yard…,1.5411973918197983,0.0177773151089518,1687,1014,433,240,irony,neutral
+Who’s that with Greg? I thought they mated for life?,1.613213213213213,0.0187199874269925,1665,932,445,288,irony,neutral
+Trump isn’t even president again yet and they’re already headed for Canada!,1.554678007290401,0.0187958750794624,1646,1008,363,275,irony,negative
+"Oh my, the snowbirds are arriving early this year.",1.490086741016109,0.0171009710129328,1614,1002,433,179,irony,positive
+I think we’re going to need a bigger scarecrow this year.,1.5442643391521198,0.0176375108842163,1604,932,471,201,unknown,negative
+It’s more challenging these days keeping up with the Joneses.,1.486040609137056,0.0173325162667101,1576,986,414,176,exaggeration,neutral
+Do we report this to the HOA or the FAA?,1.565526145900581,0.0184088636245951,1549,889,444,216,irony,neutral
+What did you put in the feeder?,1.4789750328515112,0.0187957146171494,1522,1012,291,219,sarcasm,neutral
+Five months in Florida will do that to you.,1.4920212765957446,0.0177711927315477,1504,933,402,169,exaggeration,neutral

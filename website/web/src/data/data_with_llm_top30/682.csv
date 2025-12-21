@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I don't mind autumn so much; it's the fall I hate.,2.2621002592912705,0.0061063461452311,13884,2266,5719,5899,incongruity-absurdity,negative
+Congratulations. You're now the branch manager.,2.050351662404092,0.0069981446477953,12512,3539,4806,4167,sarcasm,positive
+Deciduous? When were you going to tell me,2.012859915884827,0.0070093418681072,12364,3679,4848,3837,sarcasm,negative
+"I've led a good life, but now it's time to meet my raker.",2.004685800351435,0.0071268044844001,11951,3599,4697,3655,wit-surprise,positive
+Seems to me you have problems letting go.,1.897078480045828,0.0072802713576005,10474,3509,4537,2428,self-deprecating,negative
+I'll wait for you on the car.,2.0046078525487183,0.0074323908293688,10417,2973,4423,3021,unknown,neutral
+You said we’d BOTH go on three!,1.987733823980374,0.0077139889531831,9783,2908,4087,2788,sarcasm,neutral
+It’s not you. It’s November.,1.949062533867996,0.0079645690667425,9227,2947,3803,2477,sarcasm,negative
+"As usual, you're never ready when it's time to leave.",1.908325128541735,0.0079565367996488,9141,3102,3775,2264,self-deprecating,negative
+Aim for the Johnson's yard -- they don't rake.,1.860344047080127,0.0080139477443518,8836,3210,3650,1976,incongruity-absurdity,neutral
+I told you it was a seasonal position,1.8298114640010124,0.0083901379389413,7903,2985,3278,1640,sarcasm,neutral
+We’ll always have summer.,1.7477087576374746,0.0083436527208038,7856,3389,3060,1407,incongruity-absurdity,positive
+Fall! Now I get it!,1.8391686427674712,0.0089893801204369,7169,2748,2827,1594,incongruity-absurdity,positive
+Give me a call when you get to the ground. We'll do mulch.,1.8935226264418812,0.009446081826604,6762,2438,2606,1718,incongruity-absurdity,neutral
+Here's hoping a leaf blower is what I think it is.,1.8870247806680007,0.01012553151135,6497,2572,2087,1838,irony,neutral
+"The answer, my friend....",1.6928466677529737,0.0097449359191206,6137,3020,1982,1135,wit-surprise,neutral
+”Don’t be sad. We’ll be buds again in the Spring.,1.75183228225669,0.009802034119723,5867,2572,2183,1112,sarcasm,positive
+I'm being transferred to a different branch.,1.640933264710928,0.0096301068107631,5829,3000,1923,906,irony,neutral
+Let me know if he gets impeached!,1.707388316151203,0.0102709716011432,5820,2887,1749,1184,sarcasm,negative
+I’m worried I’ll find you lying in a gutter somewhere.,1.8323839116174696,0.009995437792337,5793,2243,2278,1272,sarcasm,negative
+I heard our branch was letting everyone go but didn't want to believe it.,1.8452092701487377,0.0097483547263987,5782,2105,2467,1210,irony,neutral
+"On the bright side, we lasted longer than any member of the current administration!",1.8785354849904563,0.0105543077103144,5763,2242,1979,1542,exaggeration,positive
+Nature calls! Gotta go!,1.756020942408377,0.0099957347530782,5730,2512,2105,1113,self-deprecating,positive
+That's why we're called leaves; it's what we do.,1.8034188034188037,0.0102522739104084,5382,2155,2130,1097,incongruity-absurdity,neutral
+I've been faking photosynthesis for weeks now.,1.7354802680565895,0.0102732166411492,5372,2421,1951,1000,incongruity-absurdity,negative
+"I love the colors, but I hate the fall.",1.726661544371879,0.0102069507489834,5206,2320,1990,896,incongruity-absurdity,negative
+You never think it's going to happen to you.,1.6983240223463687,0.0101646470473168,5191,2411,1935,845,irony,neutral
+"I don't want to move to Florida, you said. I'd miss the changing of the seasons, you said.",1.7814197051978278,0.0105470232737246,5156,2165,1953,1038,irony,negative
+I don't think you're grasping the gravity of the situation.,1.841642827952595,0.010932914483161,4894,1880,1909,1105,sarcasm,negative
+But how will I know it’s you?,1.6751697181649867,0.0105733084212802,4861,2374,1695,792,sarcasm,neutral

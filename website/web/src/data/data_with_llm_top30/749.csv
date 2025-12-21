@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It's Tom's way of telling everyone I'm pregnant.,1.8299741602067183,0.0105769118313084,5805,2462,1868,1475,irony,neutral
+They’re not impressed. They say Mr. Renault two balconies below us is juggling three penguins and a brick of Gorgonzola.,1.831858407079646,0.0108808547839527,5311,2191,1822,1298,sarcasm,negative
+4B wants you to make her husband disappear.,1.926012008522177,0.0111942768793866,5163,1875,1795,1493,unknown,negative
+"[Texting]...he poured me a glass of wine, took me out onto his balcony and said 'this is where the magic happens.' """,1.8653012997243008,0.0111928923898113,5078,2003,1756,1319,wit-surprise,positive
+The Johnsons would like to know if we've seen their rabbit.,1.8080347898115552,0.0113945568188864,4829,2066,1624,1139,unknown,neutral
+"You've got two million followers, Frank, but most of them are rabbits.",1.7886178861788615,0.0116035886576745,4797,2163,1485,1149,wit-surprise,negative
+"You pulled ahead of ""guy banging on a pot"" but ""couple making love with the drapes open"" is still way ahead.",1.853198343304188,0.0120860445305261,4346,1745,1494,1107,irony,neutral
+I get more bars when you move the rabbit ears to the right.,1.79777271576816,0.0122172053757305,3951,1645,1460,846,incongruity-absurdity,neutral
+"The good news is you're trending. 
+The bad news is the hashtag is bunnylivesmatter.",1.8093415007656968,0.0126827792790564,3918,1679,1307,932,sarcasm,neutral
+4A wants to know if you can do a Zoom bar mitzvah at 6.,1.8297872340425532,0.0122926975773098,3901,1538,1489,874,sarcasm,neutral
+Linda quietly deletes “magic moments” from her dating profile.,1.8748677248677248,0.013122502082112,3780,1496,1261,1023,self-deprecating,neutral
+Good work!  You're outpolling the flasher on the twelfth floor.,1.7985074626865671,0.0125698582988276,3752,1566,1376,810,sarcasm,positive
+Can't talk now. We're entertaining the neighbors.,1.834100135317997,0.0124430044719703,3695,1414,1480,801,sarcasm,neutral
+"Honey, check it out! Everyone’s tweeting about some magician with his fly down.",1.8265221017514597,0.0134178012324229,3597,1546,1136,915,sarcasm,neutral
+"No, he's still working from home.",1.8444755244755244,0.0126590078480374,3575,1345,1441,789,sarcasm,neutral
+You’ve gotten 632 likes on Instagram and a cease and desist order from PETA.,1.7981522956326987,0.0126787321527153,3572,1461,1372,739,incongruity-absurdity,negative
+"How was I to know? His profile said, ""I love exploring new heights and sharing magical evenings.""",1.8165031736872477,0.0131707223108059,3466,1418,1266,782,irony,positive
+"15 likes, and a comment from your dad,”get a job!”.",1.7905487804878049,0.0133371182450383,3280,1372,1223,685,self-deprecating,neutral
+I'll be darned... it seems jiggling the rabbit ears does improve everyone's reception.,1.7854050711193568,0.0136183348633759,3234,1391,1146,697,incongruity-absurdity,neutral
+"You’ve got three likes.  The ‘Free the Rabbit’ GoFundMe has $17,000.",1.8001887979861548,0.0137039997722631,3178,1329,1155,694,irony,neutral
+"Ok now it’s 28% let him go, 26% put him back, and, oh my god, 27% add onions and some red wine for a stew.",1.819646241313961,0.0140640850843354,3166,1328,1081,757,exaggeration,negative
+Still no signal... move it to the left.,1.7677789012470508,0.0142021727505084,2967,1312,1032,623,incongruity-absurdity,negative
+"They do know this is a cooking show, right?",1.7786027674654066,0.0145530394016518,2963,1330,959,674,sarcasm,neutral
+"You've gotten two ""Like""s and a dozen ""Jump""s.",1.780372250423012,0.0145519511201736,2955,1320,964,671,sarcasm,neutral
+"Be under no illusions darling, they'll watch anything right now.",1.7952593610443146,0.0140406538587709,2911,1194,1119,598,sarcasm,neutral
+"Another fabulous day with my husband, the Great Quarantini.",1.769114307342922,0.0148618618055841,2642,1146,960,536,self-deprecating,positive
+"The magic trick everyone is asking about is how we got an   apartment with this amazing terrace.""",1.7646607895745496,0.0146658009478928,2609,1111,1001,497,sarcasm,positive
+They say they would be more impressed if you'd pull a vaccination appointment out of that hat.,1.776457055214724,0.0153627570130813,2608,1159,873,576,sarcasm,neutral
+They're all suggesting you make yourself disappear.,1.7578125,0.0158023118929612,2432,1104,813,515,self-deprecating,neutral
+Your mother says she still wishes you had gone to medical school,1.7541776605101145,0.0159780504625902,2274,1008,817,449,sarcasm,neutral

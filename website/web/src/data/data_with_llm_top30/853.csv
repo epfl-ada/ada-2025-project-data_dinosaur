@@ -1,0 +1,33 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Careful, men. It could be sharp!",1.5670285281494571,0.0115829637393122,3961,2280,1114,564,incongruity-absurdity,neutral
+All we need now is to find a port,1.6398227782121448,0.0128284133730858,3837,2151,917,769,irony,neutral
+That would pair well with a great white.,1.5927933673469388,0.0133379089627563,3136,1773,867,496,irony,positive
+I never said this would be a picnic.,1.5339285714285715,0.0133977580818298,2800,1660,785,355,sarcasm,neutral
+It’ll be perfect with a great white.,1.5829989055089384,0.0143491637781672,2741,1583,716,439,sarcasm,positive
+Bland ho!,1.4675471698113207,0.0151711206996037,2650,1889,283,478,unknown,neutral
+"She's aged, but that's her alright.",1.6368276403612092,0.0151738493465259,2547,1377,718,452,irony,neutral
+Leave that one for the fondue crew.,1.4571297569922057,0.015641517646642,2181,1495,375,311,sarcasm,neutral
+Careful—that could just be the tip of the Jarlsberg!,1.5760667903525047,0.016007416783801,2156,1246,578,332,wit-surprise,neutral
+We're gonna need a bigger board.,1.6121962839447357,0.0169575890000746,2099,1198,517,384,incongruity-absurdity,neutral
+"Careful boys, that might only be the tip of the Jarlsberg…",1.579583938074504,0.0162355841690655,2067,1180,576,311,sarcasm,neutral
+We should've taken the cutter.,1.5201207243460764,0.0154605081447061,1988,1178,586,224,sarcasm,neutral
+“Ready the toothpicks!”,1.4502804691483937,0.0163971318552416,1961,1352,335,274,incongruity-absurdity,neutral
+"Boys, we're gonna need a bigger board.",1.5595175668589407,0.0165867793216488,1907,1105,537,265,incongruity-absurdity,neutral
+Sea Muenster.,1.6035846072746442,0.0172793819493048,1897,1062,525,310,unknown,neutral
+Call me artisanal.,1.4556558682952736,0.0148837694066337,1883,1184,540,159,self-deprecating,neutral
+We’re going to need a bigger board.,1.606513614522157,0.0176719858277684,1873,1061,488,324,incongruity-absurdity,neutral
+I think we're going to need a bigger cheese board.,1.507774798927614,0.0161626800753818,1865,1139,505,221,unknown,neutral
+Look out! It’s a sharkuterie!,1.5333333333333334,0.0169838538684464,1830,1109,466,255,incongruity-absurdity,neutral
+"Careful men.  
+We’re in un-charcuteried
+waters.",1.5836533187054307,0.0173599300594137,1823,1038,506,279,sarcasm,neutral
+We’re gonna need a great white.,1.4629324546952225,0.0164858358809924,1821,1202,395,224,incongruity-absurdity,neutral
+It looks like we're not the first to take a run at her.,1.512101210121012,0.0158344165256983,1818,1074,557,187,irony,negative
+Who knew the Swiss had a navy?,1.675660792951542,0.0183674627274754,1816,946,513,357,irony,neutral
+Looks like we've entered Costco waters!,1.5804794520547945,0.0179882317410401,1752,1018,451,283,irony,neutral
+Steer clear. Seven-eighths of Jarlsbergs are below the surface.,1.4764123471170647,0.0162109831345085,1717,1072,472,173,incongruity-absurdity,neutral
+It's the Swiss,1.4687317358270018,0.0162445351871245,1711,1082,456,173,irony,neutral
+That can not be gouda.,1.5750293083235638,0.017481304254469,1706,961,509,236,irony,negative
+"No man is an island, but the cheese stands alone.",1.4824150058616647,0.0168103565795808,1706,1081,427,198,incongruity-absurdity,neutral
+Call me Béchamel,1.5530791788856304,0.0179053136107845,1705,1017,433,255,unknown,neutral
+"Careful boys, she's a sharp one.",1.574468085106383,0.0173936573641852,1692,946,520,226,sarcasm,neutral

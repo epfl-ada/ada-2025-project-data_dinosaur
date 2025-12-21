@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I'm hourly.,1.8604651162790695,0.1270736976671446,43,18,13,12,self-deprecating,neutral
+1,And one day your son will keep you from having a heart attack.,1.7941176470588236,0.1386168738889622,34,15,11,8,self-deprecating,neutral
+2,I wish you had found that yesterday.,1.7419354838709675,0.1464103963601318,31,15,9,7,sarcasm,neutral
+3,"Attention to detail is important, son.",1.7037037037037035,0.1492126994321766,27,13,9,5,incongruity-absurdity,positive
+4,My cardiologist sells them.,1.6923076923076923,0.1443204849176439,26,12,10,4,unknown,neutral
+5,"Why, yes, I do work for the government.",1.6666666666666667,0.1432878256035158,24,11,10,3,self-deprecating,neutral
+6,"Remember, anything worth doing, is worth doing in the hardest possible way.",1.6521739130434785,0.1349673603080148,23,10,11,2,wit-surprise,positive
+7,The forecast calls for another foot of snow and suspension of child labor laws.,1.6363636363636365,0.168330927231373,22,12,6,4,exaggeration,negative
+9,I promised to take your mother shoe shopping as soon as I was finished.,1.619047619047619,0.1614840472172682,21,11,7,3,incongruity-absurdity,neutral
+8,Have you found your brother yet?,1.619047619047619,0.1614840472172682,21,11,7,3,sarcasm,neutral
+10,See how easy it is? It's all in the wrist.,1.6,0.1337712108119877,20,9,10,1,incongruity-absurdity,neutral
+11,Not quite yet. Your grandmother is still visiting.,1.6,0.1521771820505364,20,10,8,2,incongruity-absurdity,neutral
+12,Your mother doesn't want me hurt. Only humiliated.,1.6,0.1521771820505364,20,10,8,2,sarcasm,negative
+13,Make yourself useful and bring me the salt shaker for the sidewalk.,1.6,0.1685854460847048,20,11,6,3,sarcasm,neutral
+14,Because I promised your mother we would talk after I finished the driveway.,1.6,0.1835325870964494,20,12,4,4,sarcasm,neutral
+18,Only the mediocre workman blames his tools!,1.5789473684210529,0.1763136073880857,19,11,5,3,wit-surprise,negative
+19,"Sure, but does it build character?",1.5789473684210529,0.1588664059322353,19,10,7,2,unknown,neutral
+16,It’s time you learned about managing people’s expectations.,1.5789473684210529,0.1763136073880857,19,11,5,3,incongruity-absurdity,neutral
+17,"When you're older, you'll appreciate the comfort of mindless, unnecessary activity.",1.5789473684210529,0.1163727996615929,19,8,11,0,unknown,negative
+15,"No one likes a show-off, son.",1.5789473684210529,0.1392500690033994,19,9,9,1,sarcasm,negative
+21,A shovel? Why didn't I think of that?,1.5555555555555556,0.1661211114658671,18,10,6,2,wit-surprise,negative
+22,"I could have used that five hours ago, Billy.",1.5555555555555556,0.1661211114658671,18,10,6,2,sarcasm,negative
+23,You did a fine job but I'm a details guy.,1.5555555555555556,0.1847489415046087,18,11,4,3,sarcasm,positive
+24,"It's worn down over the years, but it still does the job!",1.5555555555555556,0.1451215902691144,18,9,8,1,incongruity-absurdity,positive
+25,"Shoveling is a journey, son, not a destination.",1.5555555555555556,0.1451215902691144,18,9,8,1,incongruity-absurdity,neutral
+26,Do you see how I'm lifting with my legs?,1.5555555555555556,0.1451215902691144,18,9,8,1,incongruity-absurdity,neutral
+27,Sometimes being paid by the hour is a good thing.,1.5555555555555556,0.1847489415046087,18,11,4,3,incongruity-absurdity,positive
+28,I've been at this for two days and NOW you find the shovel!,1.5555555555555556,0.1661211114658671,18,10,6,2,sarcasm,negative
+29,Want to trade again?,1.5555555555555556,0.1847489415046087,18,11,4,3,sarcasm,neutral
+30,"Thanks, but this is my way of avoiding election coverage.",1.5555555555555556,0.1451215902691144,18,9,8,1,sarcasm,neutral

@@ -1,0 +1,22 @@
+[
+  {
+    "event": "covid",
+    "df_man":518,
+    "df_woman":240
+  },
+  {
+    "event":"war",
+    "df_man":204,
+    "df_woman":76
+  },
+  {
+    "event":"trump",
+    "df_man":1501,
+    "df_woman":654
+  },
+  {
+    "event":"climate",
+    "df_man":462,
+    "df_woman":223
+  }
+]

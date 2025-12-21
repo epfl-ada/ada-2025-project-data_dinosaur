@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Forget everything you've ever thought about elevator music.,2.2025839183528997,0.0055688344033466,16951,3095,7335,6521,wit-surprise,negative
+"You're in 702? Awesome, we're in 704""",2.1281226811773437,0.0061559931951059,16172,4064,5984,6124,sarcasm,positive
+"Neither one of us plays, but we find they keep people at least six feet away.",2.1213198309972503,0.0062374073647524,14911,3545,6025,5341,sarcasm,neutral
+This is orchestra. You want mezzanine.,1.9931743015973544,0.0064784207801689,14211,4309,5704,4198,incongruity-absurdity,neutral
+I’d get in if I were you ...the other car has the percussion section !,1.9812966659274045,0.0064387272726792,13527,3936,5918,3673,sarcasm,neutral
+"Sorry, this elevator is for top brass only.",1.9816116011361935,0.0068366669261831,13378,4317,4995,4066,sarcasm,neutral
+We've been asked to work from home.,2.0683080618525747,0.006709897767594,13322,3601,5225,4496,irony,neutral
+A man purse? You know how ridiculous you look?,1.946808510638298,0.0073603768956692,12314,4488,4019,3807,sarcasm,negative
+Room 310 asked for a wake-up call.,1.9478566056655804,0.0069984053848582,11967,3841,4914,3212,incongruity-absurdity,neutral
+We’re taking our music to the next level.,1.9278858853570484,0.0072419466572412,11357,3865,4476,3016,wit-surprise,positive
+"Sorry, pal. Tubas accompany, three's a crowd.",1.9298087333092744,0.0077079101546756,11084,4083,3705,3296,sarcasm,neutral
+You’d better get in — the next car has 76 trombones.,1.889390519187359,0.00742337057031,11075,4072,4161,2842,wit-surprise,neutral
+Don’t worry. We know how to conduct ourselves.,1.8933122500232535,0.0073217356412786,10751,3750,4406,2595,sarcasm,neutral
+"No, you come in on four.",1.9241471316943015,0.0076935040871357,10494,3715,3877,2902,sarcasm,neutral
+What do you mean you hate elevator music?,1.7594423056913953,0.0074902381060208,9611,4092,3792,1727,sarcasm,negative
+"If you prefer the traditional awkward silence,wait for the next car.",1.8045789043336056,0.0079777965566293,8561,3340,3558,1663,incongruity-absurdity,neutral
+"A lady on 16 said 'Send me to Aruba,' but that's not what Alexa heard.",1.8417813178855904,0.0088333387727042,8286,3447,2707,2132,irony,neutral
+"Finally, someone to push the button for us.",1.8570564028080367,0.0084532876311055,8262,3129,3193,1940,irony,neutral
+Better jump in.  There are 76 trombones in the next car.,1.719298245614035,0.0084111900085318,7809,3623,2797,1389,incongruity-absurdity,neutral
+"Yeah, it has its ups and downs. But a gig is a gig.",1.8002843846949328,0.0085315432534694,7736,3112,3061,1563,unknown,neutral
+The little bell that goes 'ding' at each floor is broken.,1.8096782563570315,0.0088319177621973,7708,3195,2788,1725,incongruity-absurdity,negative
+"Sure, you can wait for the other one. But, I have to warn you, it has bagpipes.",1.756015139226818,0.00864164620031,7398,3182,2849,1367,sarcasm,neutral
+The acoustics in here are incredible!,1.7748362445414847,0.0085961015270554,7328,3004,2975,1349,incongruity-absurdity,positive
+Twenty bucks and we won't play.,1.7782101167315174,0.0089948808302583,7196,3072,2649,1475,sarcasm,negative
+"After a night of drinking and debauchery, John arrives home to face the music.",1.8103651354534749,0.0095942608147055,6792,2889,2302,1601,irony,neutral
+No bread or milk but we managed to get the last two sousaphones in town,1.743443728457965,0.0093770203530122,6673,3036,2315,1322,sarcasm,neutral
+Fitness initiative by the hotel. You'd be surprised how many guests have been opting for the stairs.,1.7991783852109338,0.00936799802663,6329,2528,2547,1254,incongruity-absurdity,neutral
+"Sorry, this elevator is reserved exclusively for the big brass.",1.7143084513767308,0.0094116252045705,6283,2910,2263,1110,sarcasm,neutral
+It was the easiest way to carry the toilet paper out of Costco without raising suspicion,1.7466276613034293,0.0098437958876591,6153,2814,2087,1252,sarcasm,neutral
+We're not together,1.8139650872817956,0.0100460675754657,6015,2498,2146,1371,sarcasm,neutral

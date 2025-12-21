@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You're an improvement over my last date. He was plastered.,1.7948517940717628,0.0099157403726014,6410,2812,2101,1497,unknown,positive
+You were more fun when you were plastered.,1.830511402902557,0.0107165487769968,5788,2497,1775,1516,sarcasm,positive
+I think I like you better stoned.,1.7584559526084464,0.0108189138859635,5233,2387,1723,1123,sarcasm,neutral
+I 'm just thankful it's not shingles,1.779976940814758,0.01130928903849,5204,2430,1489,1285,self-deprecating,positive
+I’m actually looking for something more concrete.,1.7870787722687271,0.0113522833284911,4659,2000,1651,1008,wit-surprise,neutral
+Do you mind if I bounce something off you?,1.7416505063563887,0.0112041120712957,4641,2106,1628,907,sarcasm,neutral
+My ex-wife got most of the house.,1.8623156012516764,0.0121066055615785,4474,1817,1456,1201,unknown,neutral
+"As a graffiti artist, I was drawn to you immediately.",1.7560594214229868,0.0122248552865477,3837,1682,1409,746,wit-surprise,positive
+Mind if I bounce something off of you?,1.7371776296725587,0.012878335966501,3451,1560,1238,653,sarcasm,neutral
+"Believe me, it beats having Shingles.",1.7251725172517252,0.0135342085988224,3333,1601,1047,685,exaggeration,positive
+I see you got  laid last night,1.74841245842153,0.0140190073774583,3307,1595,949,763,sarcasm,neutral
+My brother's a fence in Chicago.,1.7386536704233932,0.0136233757580784,3283,1541,1059,683,unknown,neutral
+My last boyfriend had shingles.,1.8171550671550671,0.0142592804103246,3276,1445,985,846,exaggeration,negative
+So how long have you been a Trump supporter?,1.7131587251498896,0.0145599125327147,3169,1649,780,740,sarcasm,neutral
+Is it okay if I bounce something off you?,1.7380478087649402,0.0140109034333363,3012,1388,1025,599,sarcasm,neutral
+Then it hit me - like a ton of bricks.,1.7086428089128969,0.0140915035138162,2962,1428,969,565,self-deprecating,negative
+"Honestly, its like talking to a man.",1.7075276243093922,0.0144446024445025,2896,1422,899,575,sarcasm,neutral
+"I'm not sure what it is, but we can rule out shingles.",1.6765350877192982,0.0147894587653726,2736,1404,813,519,wit-surprise,negative
+I can’t believe I ran into you!,1.7128129602356406,0.0141670750177015,2716,1242,1012,462,sarcasm,positive
+It’s just a façade,1.823921568627451,0.0153420114676587,2550,1029,941,580,sarcasm,negative
+So you finally got laid.,1.7498033044846577,0.0159287903604473,2542,1217,744,581,sarcasm,neutral
+They say it’s 10x more effective than a cloth mask,1.7665876777251184,0.015547310062053,2532,1139,845,548,exaggeration,positive
+Mexico paid for it.,1.799920286966919,0.0162006738570219,2509,1127,757,625,sarcasm,neutral
+"So Mason, is that a family name?",1.8354378818737271,0.0159127589775015,2455,998,863,594,sarcasm,neutral
+I misunderstood; I thought my friends said you were a dickhead ....,1.7464846980976014,0.0165852440354449,2418,1188,655,575,sarcasm,negative
+You're using too much foundation.,1.771404821280133,0.016026692024918,2406,1081,794,531,sarcasm,negative
+"I'm sorry, I don't know if I can do this. I'm looking for something more concrete right now.",1.7083333333333333,0.0151831806269314,2376,1098,873,405,sarcasm,negative
+"You know, most people aren’t even masking anymore.",1.7413502109704642,0.0158159789775325,2370,1088,807,475,sarcasm,negative
+"Tell me, did Mexico pay for it?",1.6583403895004234,0.0161430953512503,2362,1268,633,461,sarcasm,neutral
+I'm not seeing anyone right now.,1.7997432605905006,0.0160041006349327,2337,980,845,512,self-deprecating,neutral

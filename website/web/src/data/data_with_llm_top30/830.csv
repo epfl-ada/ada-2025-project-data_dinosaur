@@ -1,0 +1,33 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Is he still there?,1.7102998696219036,0.0131722109207366,3835,1992,962,881,sarcasm,neutral
+My biggest fear is sudden death.,1.729518449030644,0.0137502038824081,3198,1516,1031,651,self-deprecating,negative
+Well of course I’m being defensive!,1.7833690221270522,0.0148703884772704,2802,1237,935,630,unknown,negative
+"And then, it hit me.",1.6928466076696165,0.0147756645550176,2712,1347,851,514,unknown,neutral
+The loudest boos are coming from my mother.  Let’s start there.,1.6777163904235728,0.0168976949997295,2172,1136,600,436,self-deprecating,negative
+It seems that everyone around me is so goal-oriented.,1.7188252286952337,0.0169977400425865,2077,997,667,413,self-deprecating,neutral
+I think people are always trying to put something past me....,1.7441972920696325,0.0169471685930693,2068,946,705,417,sarcasm,negative
+But what about my own goals?,1.744071146245059,0.0171864811981559,2024,930,682,412,self-deprecating,neutral
+"Yes, I KNOW I'm blocking. That's the whole point.",1.7456271864067967,0.0175279047734574,2001,934,642,425,sarcasm,neutral
+"I work with 10 other people, but I feel like I’m the only one who is hands on…",1.6897980321077162,0.0176970470506416,1931,976,578,377,self-deprecating,neutral
+I'm fine living a life without goals.,1.6602697095435686,0.0168789828086762,1928,968,647,313,self-deprecating,neutral
+I'm accused of always being defensive.,1.683905013192612,0.0174879598366833,1895,943,608,344,unknown,negative
+"I make one little mistake at work,
+and everyone starts screaming at me.",1.6991525423728813,0.0176918640494195,1888,927,602,359,irony,negative
+"I just know that when they look at me they're asking, ""Is he really a keeper?""",1.6691529035695258,0.0174931872014393,1877,952,594,331,self-deprecating,neutral
+"It's just that every time I've let my guard down in the past, someone's taken advantage!",1.6467991169977925,0.0172101224678847,1812,919,614,279,unknown,negative
+It just feels like I spend so much time focused on other people’s goals instead of my own.,1.7093922651933702,0.0183051174289897,1810,888,560,362,self-deprecating,negative
+"But, my objective is to have no goals.",1.7185761957730812,0.0184311773863953,1798,873,558,367,self-deprecating,negative
+I feel like my whole life has been spent keeping people from realizing their goals.,1.6537162162162162,0.0180409967593143,1776,927,537,312,self-deprecating,negative
+I feel like I'm always in the way.,1.652991452991453,0.0177300796420969,1755,894,576,285,self-deprecating,negative
+"So, my goal should be to try and prevent others from achieving theirs?",1.6432714617169373,0.0178985839831581,1724,893,553,278,wit-surprise,negative
+"The session is over, doc.  Didn't you hear the buzzer?",1.6296522269676632,0.0204268380539234,1639,976,294,369,sarcasm,neutral
+I can't keep letting things get past me,1.665033680342927,0.018272019296197,1633,810,560,263,self-deprecating,negative
+This isn’t what I expected by post game analysis.,1.7215033887861984,0.019704533559068,1623,800,475,348,irony,negative
+It's like they enjoy taking shots at me.,1.738833746898263,0.0190360059354896,1612,736,561,315,sarcasm,negative
+"I don't know...sometimes I just feel like 
+I get in the way of other people's goals.",1.6677037958929684,0.0186591278421145,1607,805,531,271,self-deprecating,negative
+Am I just too goal-oriented?,1.6373973468098546,0.0182912593107092,1583,810,537,236,self-deprecating,negative
+I still can't pronounce Qatar.,1.6261046906866077,0.0198771829360969,1471,805,411,255,irony,negative
+"I don’t know Doc, it just feels like everything’s coming right at me.",1.6325259515570931,0.0189572719453231,1445,738,500,207,sarcasm,negative
+Actually I was hoping you could teach me a few defense mechanisms.,1.6251768033946252,0.0195206644032771,1414,745,454,215,wit-surprise,neutral
+"Wow, nothing gets by you, does it?",1.6152683295540438,0.0202495737480155,1323,711,410,202,sarcasm,negative

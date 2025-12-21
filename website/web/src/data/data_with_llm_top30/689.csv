@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"If chivalry is dead, then why am I still holding the door?",1.9110608020698576,0.0073027722229507,12368,4685,4101,3582,unknown,negative
+I only glanced down at my phone for a second.,1.867857468331359,0.0075050549830706,10973,4229,3972,2772,irony,neutral
+"In my defense, I spotted the parking place first.",1.853582268003311,0.0073820617496096,10873,4151,4170,2552,unknown,neutral
+A Citation? Is it for bravery?,1.893359780863323,0.007917524340697,10587,4145,3429,3013,sarcasm,neutral
+He’s lucky I didn’t rear end him.,1.9585834333733496,0.0079539588681726,9996,3391,3634,2971,incongruity-absurdity,negative
+I have slayed the wagon.,1.8792792792792792,0.0080448709628348,9990,3930,3346,2714,irony,positive
+Your perps are in a three door sedan.,1.819450143619204,0.0080120627554916,9748,4096,3319,2333,sarcasm,neutral
+"Veni, Vidi, Vici, Volvo",1.8107895917451773,0.0085014270075057,8916,3903,2808,2205,incongruity-absurdity,neutral
+A ticket?  Surely you joust.,1.8485793070375256,0.0086506711775856,8341,3350,2912,2079,sarcasm,neutral
+"Verily, twas I, tilting in my lane, when yon jackass opened his door.",1.810255794403747,0.0086230409551583,8327,3535,2844,1948,irony,neutral
+I left a note on the windshield.,1.7752604166666666,0.0085716886159372,7680,3236,2939,1505,unknown,neutral
+"Master of misdirection, Sir Lancelot was confident the Officer wouldn't notice the tablecloth he had stolen from an Italian Restaurant",1.7690749493585416,0.0095478925563338,7405,3554,2008,1843,unknown,neutral
+Do I look like someone who has a license and registration?,1.778506483827694,0.0096084383418799,6709,2985,2225,1499,sarcasm,neutral
+I saw the Trump 2020 sticker and just went medieval on him.,1.8026435733819508,0.0101341762725905,6582,3012,1861,1709,irony,neutral
+It isn't my fault they put the car before the horse.,1.7027786450202935,0.0095436339998061,6406,3116,2083,1207,incongruity-absurdity,negative
+A ticket for this? Surely you joust.,1.6723118709058955,0.0095025869119842,6259,3130,2050,1079,sarcasm,neutral
+"It got away, but it's wounded.",1.7813192432248168,0.0099048971038098,5867,2470,2210,1187,irony,negative
+It's the door prize,1.657471264367816,0.010487753929664,5220,2716,1583,921,incongruity-absurdity,neutral
+Did I win??,1.6676482135846094,0.0114011490467054,5094,2819,1151,1124,sarcasm,neutral
+"When you have a lance, everything looks like a dragon.",1.6574531095755185,0.0103708458713638,5065,2549,1704,812,wit-surprise,neutral
+I have vanquished Vlad the Impala.,1.639549436795995,0.010858331824657,4794,2545,1438,811,wit-surprise,neutral
+"The rest of it got away""",1.6542272823107738,0.0105659901832692,4743,2374,1641,728,unknown,neutral
+"Yes, but just a couple of meads, probably over an hour ago",1.7162451778825547,0.0106660641911629,4666,2088,1814,764,sarcasm,neutral
+Lancer. Dodge Lancer.,1.6323784722222223,0.0108870815919944,4608,2419,1465,724,incongruity-absurdity,neutral
+"Prithee, where might I find this ""Knight Court"" of which you speak?",1.6719404374127502,0.0114598525241884,4298,2149,1410,739,wit-surprise,neutral
+Every time he sees a mustang.,1.5800410466906103,0.0113750524560855,3898,2165,1213,520,irony,neutral
+I’m sorry sir.  I lance a lot.,1.6893229166666666,0.0121894273621762,3840,1887,1263,690,sarcasm,negative
+You'll have to resolve this in Knight court.,1.5947575360419397,0.0116017535244134,3815,2073,1218,524,incongruity-absurdity,neutral
+He flipped me off and said “F * * * you and the horse you rode in on.” I don't remember what happened after that.,1.6431350750416898,0.012767866898831,3598,1926,1030,642,sarcasm,negative
+"I win, and I'm the one getting a ticket?",1.5969057665260198,0.0119471253406686,3555,1907,1174,474,irony,neutral

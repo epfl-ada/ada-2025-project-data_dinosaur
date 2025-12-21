@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,To go?,2.1027027027027025,0.0414079904736987,370,100,132,138,unknown,neutral
+1,My wife got the house.,1.7663934426229508,0.0518959218722179,244,115,71,58,incongruity-absurdity,neutral
+2,"It’ll have to be rare, buddy. I get off at 42nd Street.",1.6878980891719746,0.0584613419094486,157,74,58,25,sarcasm,neutral
+3,"If you want cheese, you’ll have to stay on until 59th Street.",1.6733333333333331,0.0601985281295436,150,73,53,24,incongruity-absurdity,neutral
+29,OK ... but tell your friends it's BYOB.,1.4782608695652173,0.0645914533704417,115,73,29,13,sarcasm,neutral
+12,"So I figured I could complain about the pigeon problem, or I could do something constructive about it.",1.5510204081632653,0.0727021207024764,98,57,28,13,wit-surprise,negative
+8,‘I’m saving for a food truck.’,1.5670103092783505,0.0760200062049104,97,57,25,15,incongruity-absurdity,neutral
+9,What?  You've never heard of Meals on Wheels?,1.5625,0.0722636801836455,96,54,30,12,unknown,negative
+11,Ya gotta problem with Meals-on-Wheels?,1.5578947368421052,0.0728799492603047,95,54,29,12,wit-surprise,neutral
+35,I bought a bridge. Now I own a train too !!,1.4631578947368422,0.0774893357771982,95,66,14,15,exaggeration,positive
+10,Penn Station is medium. Times Square is well done.,1.5591397849462365,0.084384255458493,93,60,14,19,unknown,positive
+6,I find that the lack of air circulation really seals in the flavor.,1.6222222222222222,0.0767273457605573,90,47,30,13,incongruity-absurdity,negative
+13,"33rd St. for medium rare, 51st for medium. I'm not responsible for anything above 59th.",1.550561797752809,0.0799182996296443,89,54,21,14,sarcasm,neutral
+15,Would you like that for here or to go?,1.5227272727272727,0.0704094472576862,88,50,30,8,incongruity-absurdity,neutral
+5,Business has been great since you Trumpsters ran out of places to eat.,1.6395348837209305,0.0873892352630242,86,49,19,18,sarcasm,positive
+33,Is this to go ?,1.4698795180722892,0.0671342561206224,83,49,29,5,unknown,neutral
+26,Is that for here or to go?,1.4875,0.0733332733985179,80,48,25,7,sarcasm,neutral
+22,I'd appreciate a good Yelp review.,1.4936708860759491,0.0761654396933005,79,48,23,8,sarcasm,positive
+14,To stay or to go?,1.5324675324675323,0.065581200898455,77,39,35,3,unknown,neutral
+16,The forecast says rain.,1.52,0.0767821300531282,75,43,25,7,unknown,neutral
+21,"Yeah, I do want to spend my whole life flipping burgers.",1.5,0.0844215020223067,74,47,17,10,exaggeration,neutral
+19,"42nd Street,rare.  34th Street,medium.  Wall Street,well done.",1.5135135135135136,0.0821842757512888,74,45,20,9,wit-surprise,positive
+46,Are you kidding? Drive a food truck in Manhattan?,1.4305555555555556,0.0786883596076951,72,48,17,7,sarcasm,neutral
+18,"34th Street for medium rare, 59th street for well done.",1.5138888888888888,0.0839019463560293,72,44,19,9,incongruity-absurdity,positive
+17,Is my drinking bothering you?,1.5138888888888888,0.0906269580341182,72,47,13,12,self-deprecating,negative
+155,Those Yelp reviews don't really capture the aesthetic I'm trying for.,1.3428571428571427,0.0785102340277155,70,53,10,7,sarcasm,negative
+55,"We're on the local, so well-done is your only option.",1.420289855072464,0.0755931280944936,69,45,19,5,sarcasm,positive
+72,"Well, Sir, ours is a tunnel-to-table establishment, so I generally recommend very well done.",1.4057971014492754,0.0808069926929448,69,48,14,7,sarcasm,positive
+23,Finally you're starting to notice things again.,1.4927536231884058,0.0841769449358732,69,43,18,8,self-deprecating,positive
+27,"Sure, you're going to work on a Sunday, but I'm the crazy one.",1.4852941176470589,0.0824680933294447,68,42,19,7,sarcasm,neutral

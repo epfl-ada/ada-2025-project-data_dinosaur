@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"It's not ""my friend"", it's a desk lamp.",1.6767990074441688,0.0120618897695355,4836,2735,929,1172,wit-surprise,negative
+And what drew you here today?,1.744403956272775,0.0129085911056746,3842,1846,1132,864,irony,neutral
+I've been asked to fill you in.,1.707343412526998,0.0127358889628912,3704,1813,1162,729,sarcasm,neutral
+"Of course, you're Mr. Jones! I recognized you from your son's drawings.",1.7184251968503936,0.0143330425914053,3175,1608,853,714,wit-surprise,positive
+Yours is the worst case of identity theft we've seen.,1.7271004421983576,0.0146145809519143,3166,1620,790,756,sarcasm,negative
+And your pronouns are?,1.6473302570863546,0.0142272467141828,3034,1655,794,585,sarcasm,neutral
+Where do you barely see yourself in ten years?,1.6456406869220608,0.01442332166407,3028,1680,741,607,self-deprecating,neutral
+"Well, you look good on paper.",1.731859018659295,0.0144820220327321,2894,1370,930,594,sarcasm,positive
+We're sending you back to the drawing board.,1.7160804020100502,0.0144692478000158,2786,1320,937,529,wit-surprise,negative
+I’m sorry for the confusion — The listing should have said “A SIX figure job”.,1.6845588235294118,0.015326916354962,2720,1433,712,575,exaggeration,neutral
+Tell me about a time you were bent out of shape.,1.582045621780721,0.0153375447625825,2718,1674,506,538,self-deprecating,negative
+Grab a sharpie - we're making you permanent.,1.672543135783946,0.0147660819740858,2666,1354,831,481,sarcasm,neutral
+"Welcome on board! If you go down to the art department, they will fill you in.",1.7448979591836735,0.015515551168541,2646,1266,789,591,sarcasm,positive
+We'll fill you in when the position becomes available.,1.7047213622291022,0.0150296668910787,2584,1248,851,485,sarcasm,neutral
+"''So tell me, what drew you here?''",1.7520564042303173,0.0157688018251442,2553,1205,776,572,sarcasm,neutral
+"No, I can’t just ‘pencil you in’.",1.7270569620253164,0.0156051333946178,2528,1217,784,527,sarcasm,neutral
+We do have a position available on our restroom door.,1.6948207171314742,0.0158005140607159,2510,1286,704,520,incongruity-absurdity,neutral
+It says here you served as a rudimentary example.,1.617117117117117,0.0155981415863292,2220,1187,696,337,wit-surprise,neutral
+Allow me to fill you in.,1.778471888515137,0.0171888346177071,2081,921,700,460,sarcasm,neutral
+You seemed better on paper,1.669350780070458,0.017069299398579,1987,1012,620,355,sarcasm,positive
+Transparency is very important to this company.,1.6629270780214176,0.0169801382230005,1961,996,630,335,unknown,positive
+"Unfortunately, you failed the facial recognition test.",1.6417525773195876,0.0171935734047239,1940,1028,579,333,sarcasm,negative
+The bathroom sign position is filled.”,1.5658234383066598,0.0183146336972383,1937,1232,314,391,incongruity-absurdity,neutral
+Good News! The doctor says they got it all.,1.564857881136951,0.0180230576755059,1935,1212,353,370,incongruity-absurdity,positive
+"Your lack of a mind, body, and soul is exactly what this corporation is looking for",1.79800629590766,0.0191908632626383,1906,900,491,515,sarcasm,negative
+'Coworkers have been complaining about your constant lack of detail.',1.769815418023887,0.0180301042282731,1842,812,642,388,sarcasm,negative
+We now recognize that Hangman was an insensitive choice for the team building exercise.,1.774175824175824,0.018960746126009,1820,847,537,436,irony,negative
+Dr. Emoji will see you now.,1.620976692563818,0.0178505953790675,1802,988,509,305,wit-surprise,neutral
+My greatest strength . . . transparency.,1.6983333333333333,0.0183232239211621,1800,897,549,354,self-deprecating,positive
+"Sorry sir, but the job announcement was for “six figures,” not “stick figures.”",1.7082630691399665,0.0186618996962284,1779,886,526,367,incongruity-absurdity,negative

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Don’t worry. Honey doesn’t go bad.,1.8063747393506109,0.0067387984439046,13428,5652,4710,3051,sarcasm,positive
+The waffle shirts were a bad idea.,1.93682325858982,0.0072609257600529,11729,4028,4415,3277,incongruity-absurdity,negative
+"My survival instinct is telling me to play dead, but my OCD says wipe the spout.",1.9342451341399265,0.0073990679673753,11406,3980,4200,3215,incongruity-absurdity,negative
+Anyone find a little yellow cap?,1.8515246508976917,0.0074915890412268,10527,4019,4046,2450,irony,neutral
+There must be a Costco nearby.,1.7968464570714355,0.0078952134952781,10401,4648,3209,2533,irony,neutral
+"Honey, behind you.",1.9729834414641232,0.0077200555851307,10327,3329,3950,3041,sarcasm,neutral
+"Uh-oh, Drizzly Bear.",1.7810687022900764,0.0077585498355464,9825,4218,3526,2067,irony,neutral
+"Careful, these guys can be viscous.",1.7867340215242695,0.008152026748651,9106,3946,3156,1996,irony,negative
+Forget what they said. Run! He's slower than molasses.,1.8116468516072215,0.0078609981172522,9084,3574,3642,1858,sarcasm,negative
+Now do you believe me about the chocolate moose?,1.9214285714285717,0.0087293512030169,8400,3044,2972,2384,sarcasm,neutral
+Now I know we ate the wrong mushrooms.,1.769084453461831,0.0086833609504893,7886,3465,2777,1643,exaggeration,negative
+Stay calm. I think it just wants to be squeezed.,2.037782394183329,0.008201842376102,7702,1855,3701,2146,incongruity-absurdity,neutral
+"Oh no, we're toast!",1.6789487585842575,0.008520092280648,7572,3698,2606,1261,exaggeration,negative
+Oh no. I have it’s little one in my back pack.,1.7175038477682945,0.0089823289183744,7147,3359,2445,1338,self-deprecating,neutral
+"Well, this is a sticky situation.",1.635019568053341,0.0086393395616101,6899,3510,2395,983,unknown,negative
+"What do you think, use the bear spray or get the biscuits?",1.6227064220183487,0.0090277303771246,6104,3109,2191,804,incongruity-absurdity,neutral
+"Shhhh, we’ll be ok, I don’t see any smaller bottles with her.",1.6422911852096402,0.0090342843074751,6058,2971,2284,803,sarcasm,neutral
+They told me high fructose corn syrup was the real killer.,1.663345864661654,0.0100323616583934,5320,2626,1861,833,exaggeration,negative
+"Which one of you keeps calling my name?""",1.6582086725998864,0.0101348310996989,5281,2643,1800,838,sarcasm,neutral
+The privatization of national parks is even creepier than I thought it could be.,1.6169316222945795,0.0102973754462933,5221,2828,1565,828,irony,negative
+Endangered AND made of plastic - I don't know how to process this.,1.6443298969072164,0.0107197190910797,4850,2523,1530,797,irony,negative
+DON’T ...MOVE-—it’s a drizzly.,1.6065311715003423,0.0107973848726578,4379,2318,1466,595,unknown,negative
+You think I’m scary? Wait until you see Mrs. Butterworth!,1.588755217284557,0.0116167584547737,4073,2301,1146,626,unknown,neutral
+They’re so cute when you bring them home. You never think about what they’ll be like fully grown.,1.586934673366834,0.0113356186967023,3980,2179,1266,535,irony,positive
+Remember... Only YOU Can Prevent Diabetes.,1.5390088945362137,0.0117238969339986,3935,2392,955,578,incongruity-absurdity,neutral
+Does a bear drip in the woods?,1.5350922131147542,0.0113334615747052,3904,2308,1103,493,incongruity-absurdity,neutral
+I think the situation is about to get sticky.,1.7710715235309755,0.0119454752472619,3761,1538,1546,677,unknown,negative
+He's probably just looking for his cap.,1.534443168771527,0.011283133129573,3484,1961,1184,339,sarcasm,neutral
+Not to worry - they don’t move all that fast when it’s cold out.,1.5184534270650265,0.0111065574075546,3414,1947,1158,301,irony,neutral
+"Just tell him he is sweet, and walk away slowly.",1.513947847180109,0.0114190935493942,3298,1900,1101,297,sarcasm,positive

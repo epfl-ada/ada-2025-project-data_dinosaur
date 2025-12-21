@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+And yet he's still afraid of the vacuum.,1.7543478260869565,0.0089904756486472,7360,3315,2538,1507,wit-surprise,negative
+Now I’m starting to believe the mailman’s side of the story.,1.8034598750600672,0.0103169832110497,6243,2808,1854,1581,sarcasm,neutral
+The cat warned us.,1.622304050499737,0.0098989192070768,5703,3077,1703,923,incongruity-absurdity,neutral
+Mixed breed? Mixed with what?,1.6581301526048062,0.009958563553005,5701,2919,1812,970,incongruity-absurdity,neutral
+The vet referred us to a priest.,1.7076054349744132,0.0106508684402537,5667,2892,1540,1235,unknown,neutral
+"It’s not you, it’s your dog.",1.6217994310099573,0.0100318748701826,5624,3057,1637,930,sarcasm,neutral
+It’s your turn to walk him.,1.6711493634570558,0.0107577750016772,5577,3018,1375,1184,sarcasm,neutral
+I can see why he's scared of his own shadow.,1.6282005048683736,0.0102949621532166,5546,3044,1520,982,unknown,negative
+Now I think I know why the mail delivery stopped.,1.609703113685735,0.0098640582157027,5524,2983,1714,827,incongruity-absurdity,negative
+He also does a chicken.,1.5888324873096449,0.0108905036234721,4728,2697,1278,753,incongruity-absurdity,neutral
+The shelter did tell us he was afraid of his own shadow.,1.5685117967332125,0.0113291094433444,4408,2608,1094,706,irony,negative
+I can't even make a rabbit.,1.5634956759217111,0.0111197748859903,4394,2571,1170,653,unknown,negative
+"Wait... did the previous owner say dalmatian or damnation?""",1.537467018469657,0.0122591932820678,3790,2361,821,608,irony,neutral
+He likes to project a tough-guy image,1.5376857749469215,0.0119077778182092,3768,2280,950,538,wit-surprise,neutral
+"I said exorcise him, not exercise him.",1.6649813730707823,0.0126943920357954,3758,1978,1061,719,unknown,negative
+"Is it just me, or does he seem different since we had him fixed?",1.652023429179979,0.012698313697263,3756,2018,1027,711,self-deprecating,neutral
+I'm starting to worry about the pile of bones in the backyard.,1.6624062239510975,0.0127795501730156,3599,1870,1074,655,irony,negative
+I miss the old days when he would just growl.,1.5293759512937597,0.0126650206453912,3285,2002,827,456,sarcasm,negative
+I’m not entirely sure he is a good boy.,1.648740012292563,0.0130457037675132,3254,1673,1051,530,irony,negative
+"On second thought, let's give him the treat.",1.726453217283183,0.0136273574689441,3217,1521,1055,641,incongruity-absurdity,neutral
+"He can fetch, shake and play undead.",1.5552040493514712,0.0126111240896885,3161,1810,947,404,unknown,neutral
+"He's afraid of his shadow, but can you blame him?",1.6475515463917525,0.0136035873237522,3104,1631,936,537,incongruity-absurdity,negative
+I don’t know if the breeder was completely honest with us.,1.6250405449237757,0.0132276857628818,3083,1626,987,470,irony,negative
+I assumed you had given him all those bones he was burying in the backyard.,1.5269343780607247,0.0134057736732679,3063,1910,692,461,unknown,neutral
+I’m more concerned about why the two of us aren’t casting shadows.,1.716358839050132,0.0147303301555026,3032,1549,794,689,wit-surprise,negative
+I’m also scared of his shadow.,1.526120660599933,0.0132874860335799,2967,1813,747,407,unknown,negative
+Rex now responds only to T-Rex,1.5240235050120985,0.0134591032304308,2893,1774,722,397,irony,neutral
+What have you unleashed?,1.542189679218968,0.0145046234220251,2868,1822,537,509,irony,neutral
+The shelter said he'll need to be exorcized daily.,1.7318892045454546,0.0153450163165065,2816,1412,747,657,exaggeration,neutral
+I would feed him whatever he wants.,1.5365502340655384,0.0136508977527605,2777,1660,744,373,sarcasm,positive

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Of course I understand the gravity of the situation.,1.8728323699421965,0.0622219077698304,173,70,55,48,sarcasm,neutral
+1,It's easy once you realize there's nothing to it.,1.843373493975904,0.0627726505198024,166,69,54,43,wit-surprise,neutral
+2,There's really nothing to it.,1.8205128205128205,0.0626722140122398,156,64,56,36,incongruity-absurdity,negative
+4,"Can't stop now, i'm virtually there.",1.7870967741935484,0.0607087705343304,155,64,60,31,incongruity-absurdity,positive
+6,I'm suspended by disbelief.,1.7763157894736843,0.0641303518113288,152,68,50,34,sarcasm,negative
+3,I'm virtually there.,1.808219178082192,0.0647038736133442,146,61,52,33,incongruity-absurdity,neutral
+5,"See, there's nothing to it.",1.7777777777777777,0.067882591838504,144,67,42,35,unknown,neutral
+8,There's nothing to it.,1.7664233576642336,0.0681463249956677,137,63,43,31,wit-surprise,neutral
+10,"No, the hard part is knowing when you've reached the top.",1.7388059701492538,0.0660958184675803,134,61,47,26,wit-surprise,neutral
+7,"If he's going to pretend he can build that wall, I'm going to pretend I can climb it.",1.7669172932330828,0.0698982253701852,133,62,40,31,sarcasm,negative
+13,The ink is much thinner up here.,1.732824427480916,0.0601665602418388,131,53,60,18,unknown,neutral
+14,"See, nothing to it!",1.7251908396946565,0.0694356371451648,131,64,39,28,incongruity-absurdity,neutral
+16,"Why? Because it is not there, that's why.",1.7222222222222223,0.0727150462706627,126,64,33,29,sarcasm,negative
+9,Because it's not there.,1.746031746031746,0.077202276417221,126,67,24,35,incongruity-absurdity,neutral
+18,Are you the only person in the world without a cell phone camera!,1.7142857142857142,0.0693343798979097,126,61,40,25,sarcasm,neutral
+15,Anyone can climb a mountain that's There.,1.7235772357723578,0.0723741196547888,123,61,35,27,incongruity-absurdity,positive
+12,Can you lend me a few bucks? I have no visible means of support.,1.7377049180327868,0.0715660638065154,122,58,38,26,sarcasm,negative
+11,I'm headed for an air B&B.,1.7377049180327868,0.074351533134226,122,61,32,29,incongruity-absurdity,neutral
+29,Nothing to it.,1.677685950413223,0.0676391291722996,121,59,42,20,incongruity-absurdity,neutral
+19,The hard part is knowing when I've reached the top.,1.7107438016528926,0.0678659517039174,121,56,44,21,self-deprecating,neutral
+17,It's mime over matter.,1.71900826446281,0.0744337119776359,121,62,31,28,unknown,neutral
+20,"Quick, call a cartoonist.",1.7083333333333333,0.0704088036151536,120,58,39,23,incongruity-absurdity,neutral
+21,I just suspend disbelief.,1.7058823529411764,0.0635476612654651,119,51,52,16,sarcasm,negative
+33,My GPS says there is a mountain here!,1.6638655462184877,0.0678030431454794,119,59,41,19,unknown,neutral
+24,It's reality I don't have a grip on.,1.7033898305084745,0.068414000397354,118,55,43,20,self-deprecating,negative
+25,"Believe it or not, Jack, this is easier than winning the caption contest.",1.7033898305084745,0.0754620918864475,118,62,29,27,sarcasm,neutral
+23,The hard part is knowing when I get to the top!,1.7043478260869565,0.0709249267837456,115,55,39,21,self-deprecating,positive
+28,Because it isn't there.,1.6842105263157894,0.0771280301463898,114,62,26,26,unknown,neutral
+27,The gravity of the situation hasn't hit me yet.,1.6875,0.0739917753438368,112,57,33,22,self-deprecating,negative
+39,I'm climbing it because it's NOT there.,1.6545454545454543,0.0724138366785844,110,57,34,19,unknown,negative

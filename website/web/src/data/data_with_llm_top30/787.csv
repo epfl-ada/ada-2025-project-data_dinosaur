@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Are you trying to tell me that B.C. is a place in Canada?,1.7326444091149973,0.0128390896843743,3774,1813,1157,804,irony,neutral
+Packing for the Republican National Convention gets easier and easier every four years.,1.7307252998286693,0.0137591106478463,3502,1759,927,816,sarcasm,positive
+Of course I’m living in the past. Have you seen the present?!,1.7736686390532543,0.0135594590347171,3380,1519,1107,754,self-deprecating,neutral
+This is all they are allowing me to bring to the Texas Science Convention.,1.7074222359100708,0.0144280609876615,3247,1711,775,761,exaggeration,neutral
+Just had a thought. What if I put the wheel on the outside?,1.745111980092428,0.0150524155589191,2813,1346,838,629,incongruity-absurdity,neutral
+Amazon said people who bought the club also bought this!,1.7131280388978931,0.0156272639359264,2468,1199,778,491,irony,neutral
+"Okay, we've got everything we need to start all over again.",1.6730021598272138,0.0155148366002581,2315,1147,778,390,self-deprecating,neutral
+"You said no technology this weekend,right?",1.6931423611111112,0.0153978834969812,2304,1091,829,384,sarcasm,neutral
+Have you seen my tablet?,1.6939051918735892,0.0163967991615653,2215,1102,689,424,unknown,neutral
+DC? I thought you said we were going to BC!,1.6568300809138503,0.016557456990848,2101,1089,644,368,incongruity-absurdity,neutral
+I thought you said CAVEMAN Islands...,1.6563393708293612,0.0164272085400404,2098,1078,663,357,sarcasm,neutral
+It seemed easier to pack them than to reinvent them.,1.6717776712985146,0.0163526972765714,2087,1037,698,352,incongruity-absurdity,neutral
+I've been packed for ages.,1.6901960784313723,0.0167871854586397,2040,1000,672,368,self-deprecating,neutral
+It's Texas. You never know.,1.676783004552352,0.0172798086299736,1977,1006,604,367,exaggeration,neutral
+"You said just what we need to survive, right?”",1.6670218433670752,0.0171434513396894,1877,934,634,309,sarcasm,neutral
+"Honey, don't forget to pack for the MAGA convention on Tuesday. Remember--I'm leading the science and innovation panel.",1.662809917355372,0.0191677463812348,1815,1014,399,402,sarcasm,positive
+"Look, you either commit to paleo or you don't...",1.6542644533485975,0.0180626437251191,1747,904,543,300,irony,neutral
+Don't forget we're moving to a red state.,1.6433234421364986,0.0191504382269147,1685,928,430,327,sarcasm,neutral
+It really has been ages since I used this suitcase.,1.641891891891892,0.0179792868443024,1628,824,563,241,incongruity-absurdity,negative
+CAYman?! I thought you said Caveman Islands,1.6422864167178857,0.0182157218768437,1627,834,541,252,unknown,neutral
+I’m just packing the basics.,1.641136504014824,0.0192876051861255,1619,882,436,301,unknown,neutral
+"You know, Pebbles, I just want your parents to like me.",1.6420062695924764,0.0190079512534185,1595,847,472,276,sarcasm,positive
+"I should warn you, my parents are somewhat old fashioned.",1.6460852959898151,0.0181356164622823,1571,782,563,226,unknown,neutral
+It’s important to meet these Republicans at their level.,1.6559485530546625,0.0202502937281257,1555,855,380,320,sarcasm,neutral
+I guess this means that somewhere the neanderthal we saw at the baggage claim is unpacking MY swim trunks.,1.713168187744459,0.0202445604831023,1534,765,444,325,irony,negative
+You prep for your apocalypse. I'll prep for mine.,1.6357481381178065,0.0192283867980249,1477,770,475,232,sarcasm,neutral
+I think I've got us prepared for the Texas portion of our trip.,1.6357481381178065,0.0202734870651814,1477,815,385,277,sarcasm,positive
+"Really, you're packing that shirt?!",1.6839590443686008,0.0201251358286953,1465,739,450,276,sarcasm,negative
+You've obviously never been to Burning Man before.,1.636617749825297,0.0194111365743049,1431,740,471,220,sarcasm,negative
+You're the one who said your folks are Neanderthals.,1.6447275300778486,0.0195640905580627,1413,722,471,220,sarcasm,negative

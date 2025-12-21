@@ -1,0 +1,1107 @@
+{
+  "event": "war",
+  "window_start": "2022-02-01",
+  "window_end": "2023-09-30",
+  "raw_and_zscore_timeseries": [
+    {
+      "date": "2016-03-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.5
+    },
+    {
+      "date": "2016-04-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 40.0
+    },
+    {
+      "date": "2016-05-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 39.0
+    },
+    {
+      "date": "2016-06-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 39.166666666666664
+    },
+    {
+      "date": "2016-07-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 41.833333333333336
+    },
+    {
+      "date": "2016-08-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 35.166666666666664
+    },
+    {
+      "date": "2016-09-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.166666666666664
+    },
+    {
+      "date": "2016-10-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.166666666666664
+    },
+    {
+      "date": "2016-11-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.833333333333336
+    },
+    {
+      "date": "2016-12-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 38.0
+    },
+    {
+      "date": "2017-01-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.0
+    },
+    {
+      "date": "2017-02-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.833333333333336
+    },
+    {
+      "date": "2017-03-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.166666666666664
+    },
+    {
+      "date": "2017-04-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.833333333333336
+    },
+    {
+      "date": "2017-05-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.5
+    },
+    {
+      "date": "2017-06-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.166666666666664
+    },
+    {
+      "date": "2017-07-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.166666666666664
+    },
+    {
+      "date": "2017-08-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.0
+    },
+    {
+      "date": "2017-09-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.0
+    },
+    {
+      "date": "2017-10-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 38.5
+    },
+    {
+      "date": "2017-11-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 39.333333333333336
+    },
+    {
+      "date": "2017-12-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.5
+    },
+    {
+      "date": "2018-01-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.666666666666664
+    },
+    {
+      "date": "2018-02-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 41.333333333333336
+    },
+    {
+      "date": "2018-03-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 40.833333333333336
+    },
+    {
+      "date": "2018-04-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 39.166666666666664
+    },
+    {
+      "date": "2018-05-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 41.5
+    },
+    {
+      "date": "2018-06-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.166666666666664
+    },
+    {
+      "date": "2018-07-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 38.333333333333336
+    },
+    {
+      "date": "2018-08-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.666666666666664
+    },
+    {
+      "date": "2018-09-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.5
+    },
+    {
+      "date": "2018-10-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 35.5
+    },
+    {
+      "date": "2018-11-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 38.666666666666664
+    },
+    {
+      "date": "2018-12-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 39.833333333333336
+    },
+    {
+      "date": "2019-01-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.333333333333336
+    },
+    {
+      "date": "2019-02-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 44.166666666666664
+    },
+    {
+      "date": "2019-03-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 40.0
+    },
+    {
+      "date": "2019-04-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.333333333333336
+    },
+    {
+      "date": "2019-05-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 38.5
+    },
+    {
+      "date": "2019-06-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.5
+    },
+    {
+      "date": "2019-07-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.5
+    },
+    {
+      "date": "2019-08-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 32.5
+    },
+    {
+      "date": "2019-09-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 32.666666666666664
+    },
+    {
+      "date": "2019-10-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.5
+    },
+    {
+      "date": "2019-11-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.5
+    },
+    {
+      "date": "2019-12-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.0
+    },
+    {
+      "date": "2020-01-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 38.166666666666664
+    },
+    {
+      "date": "2020-02-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.333333333333336
+    },
+    {
+      "date": "2020-03-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.5
+    },
+    {
+      "date": "2020-04-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.833333333333336
+    },
+    {
+      "date": "2020-05-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.833333333333336
+    },
+    {
+      "date": "2020-06-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 39.333333333333336
+    },
+    {
+      "date": "2020-07-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.833333333333336
+    },
+    {
+      "date": "2020-08-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.666666666666664
+    },
+    {
+      "date": "2020-09-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 35.0
+    },
+    {
+      "date": "2020-10-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.333333333333336
+    },
+    {
+      "date": "2020-11-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.333333333333336
+    },
+    {
+      "date": "2020-12-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.5
+    },
+    {
+      "date": "2021-01-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.666666666666664
+    },
+    {
+      "date": "2021-02-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 33.833333333333336
+    },
+    {
+      "date": "2021-03-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 35.666666666666664
+    },
+    {
+      "date": "2021-04-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.833333333333336
+    },
+    {
+      "date": "2021-05-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.666666666666664
+    },
+    {
+      "date": "2021-06-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 33.666666666666664
+    },
+    {
+      "date": "2021-07-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 32.166666666666664
+    },
+    {
+      "date": "2021-08-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.666666666666664
+    },
+    {
+      "date": "2021-09-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 32.5
+    },
+    {
+      "date": "2021-10-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 30.833333333333332
+    },
+    {
+      "date": "2021-11-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.166666666666664
+    },
+    {
+      "date": "2021-12-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 33.166666666666664
+    },
+    {
+      "date": "2022-01-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.0
+    },
+    {
+      "date": "2022-02-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 43.0
+    },
+    {
+      "date": "2022-03-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 42.5
+    },
+    {
+      "date": "2022-04-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 39.666666666666664
+    },
+    {
+      "date": "2022-05-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 41.333333333333336
+    },
+    {
+      "date": "2022-06-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.5
+    },
+    {
+      "date": "2022-07-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.333333333333336
+    },
+    {
+      "date": "2022-08-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.0
+    },
+    {
+      "date": "2022-09-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 35.333333333333336
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 35.833333333333336
+    },
+    {
+      "date": "2022-11-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 38.666666666666664
+    },
+    {
+      "date": "2022-12-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.0
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.666666666666664
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 39.666666666666664
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.666666666666664
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.666666666666664
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 37.5
+    },
+    {
+      "date": "2023-06-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 35.666666666666664
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 34.833333333333336
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 36.0
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "event": "war",
+      "type": "raw",
+      "War terms": 35.833333333333336
+    },
+    {
+      "date": "2016-03-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.1934698190624127
+    },
+    {
+      "date": "2016-04-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.1976002487969954
+    },
+    {
+      "date": "2016-05-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.7959480769031623
+    },
+    {
+      "date": "2016-06-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.8628901055521335
+    },
+    {
+      "date": "2016-07-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.9339625639356903
+    },
+    {
+      "date": "2016-08-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.7437185820231987
+    },
+    {
+      "date": "2016-09-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.3420664101293657
+    },
+    {
+      "date": "2016-10-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.3420664101293657
+    },
+    {
+      "date": "2016-11-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.327353876360358
+    },
+    {
+      "date": "2016-12-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.39429590500932926
+    },
+    {
+      "date": "2017-01-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.007356266884503838
+    },
+    {
+      "date": "2017-02-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.327353876360358
+    },
+    {
+      "date": "2017-03-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.05958576176446739
+    },
+    {
+      "date": "2017-04-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.327353876360358
+    },
+    {
+      "date": "2017-05-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.1934698190624127
+    },
+    {
+      "date": "2017-06-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.145370753917032
+    },
+    {
+      "date": "2017-07-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.05958576176446739
+    },
+    {
+      "date": "2017-08-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.2123127825660032
+    },
+    {
+      "date": "2017-09-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.2123127825660032
+    },
+    {
+      "date": "2017-10-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.5951219909562457
+    },
+    {
+      "date": "2017-11-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.9298321342011077
+    },
+    {
+      "date": "2017-12-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.1934698190624127
+    },
+    {
+      "date": "2018-01-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.2604118477113839
+    },
+    {
+      "date": "2018-02-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.7331364779887737
+    },
+    {
+      "date": "2018-03-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.5323103920418573
+    },
+    {
+      "date": "2018-04-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.8628901055521335
+    },
+    {
+      "date": "2018-05-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.800078506637745
+    },
+    {
+      "date": "2018-06-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.3420664101293657
+    },
+    {
+      "date": "2018-07-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.5281799623072746
+    },
+    {
+      "date": "2018-08-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.14124032418244914
+    },
+    {
+      "date": "2018-09-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.20818235283142036
+    },
+    {
+      "date": "2018-10-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.6098345247252535
+    },
+    {
+      "date": "2018-11-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.662064019605217
+    },
+    {
+      "date": "2018-12-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.1306582201480242
+    },
+    {
+      "date": "2019-01-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.12652779041344148
+    },
+    {
+      "date": "2019-02-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 2.871150965021299
+    },
+    {
+      "date": "2019-03-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.1976002487969954
+    },
+    {
+      "date": "2019-04-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.12652779041344148
+    },
+    {
+      "date": "2019-05-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.5951219909562457
+    },
+    {
+      "date": "2019-06-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.0114866966190865
+    },
+    {
+      "date": "2019-07-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.0114866966190865
+    },
+    {
+      "date": "2019-08-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.8147910404067527
+    },
+    {
+      "date": "2019-09-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.7478490117577814
+    },
+    {
+      "date": "2019-10-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.0114866966190865
+    },
+    {
+      "date": "2019-11-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.20818235283142036
+    },
+    {
+      "date": "2019-12-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.4090084387783369
+    },
+    {
+      "date": "2020-01-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.46123793365830046
+    },
+    {
+      "date": "2020-02-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.12652779041344148
+    },
+    {
+      "date": "2020-03-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.1934698190624127
+    },
+    {
+      "date": "2020-04-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.327353876360358
+    },
+    {
+      "date": "2020-05-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.327353876360358
+    },
+    {
+      "date": "2020-06-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.9298321342011077
+    },
+    {
+      "date": "2020-07-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.07429829553347507
+    },
+    {
+      "date": "2020-08-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.9445446679701153
+    },
+    {
+      "date": "2020-09-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.81066061067217
+    },
+    {
+      "date": "2020-10-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.0784287252680578
+    },
+    {
+      "date": "2020-11-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.2751243814803916
+    },
+    {
+      "date": "2020-12-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.20818235283142036
+    },
+    {
+      "date": "2021-01-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.2604118477113839
+    },
+    {
+      "date": "2021-02-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.2792548112149742
+    },
+    {
+      "date": "2021-03-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.5428924960762822
+    },
+    {
+      "date": "2021-04-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.327353876360358
+    },
+    {
+      "date": "2021-05-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.9445446679701153
+    },
+    {
+      "date": "2021-06-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.3461968398639483
+    },
+    {
+      "date": "2021-07-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.948675097704698
+    },
+    {
+      "date": "2021-08-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.9445446679701153
+    },
+    {
+      "date": "2021-09-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.8147910404067527
+    },
+    {
+      "date": "2021-10-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -2.484211326896475
+    },
+    {
+      "date": "2021-11-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.145370753917032
+    },
+    {
+      "date": "2021-12-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -1.547022925810865
+    },
+    {
+      "date": "2022-01-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.4090084387783369
+    },
+    {
+      "date": "2022-02-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 2.4025567644784944
+    },
+    {
+      "date": "2022-03-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 2.201730678531578
+    },
+    {
+      "date": "2022-04-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.06371619149905
+    },
+    {
+      "date": "2022-05-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.7331364779887737
+    },
+    {
+      "date": "2022-06-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.1934698190624127
+    },
+    {
+      "date": "2022-07-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.12652779041344148
+    },
+    {
+      "date": "2022-08-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.4090084387783369
+    },
+    {
+      "date": "2022-09-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.6767765533742247
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.4759504674273081
+    },
+    {
+      "date": "2022-11-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.662064019605217
+    },
+    {
+      "date": "2022-12-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.007356266884503838
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.2604118477113839
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 1.06371619149905
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.2604118477113839
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.2604118477113839
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": 0.1934698190624127
+    },
+    {
+      "date": "2023-06-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.5428924960762822
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.8776026393211412
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.4090084387783369
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "event": "war",
+      "type": "zscore",
+      "War terms": -0.4759504674273081
+    }
+  ],
+  "summary": [
+    {
+      "group": "War terms",
+      "pre": 36.875,
+      "during": 37.83333333333333,
+      "post": null
+    }
+  ]
+}

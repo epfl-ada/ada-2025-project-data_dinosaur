@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,It's not the end of the world if he misses.,2.030834278642879,0.0073619075143865,9697,2403,4592,2702,sarcasm,neutral
+1,"Most of them have candy, this ones filled with nuts.",2.0270381836945304,0.0081700660991802,9690,3006,3416,3268,incongruity-absurdity,neutral
+3,The best part? Not a single religion predicted this one.,1.977484204480184,0.0087534496154644,8705,3003,2895,2807,exaggeration,positive
+6,These young guys have it easy. It was much harder back when it was flat,1.964973324054744,0.0086109089818234,8622,2912,3100,2610,wit-surprise,neutral
+7,"Lower it a bit, Mar-a-Lago's just coming back around.",1.960076729408944,0.0090581330269025,8341,3027,2620,2694,sarcasm,neutral
+2,Are you sure the boss is cool with this? It took him six days to make.,2.0231940082145448,0.0085591978042863,8278,2416,3254,2608,sarcasm,negative
+10,"It was a biblical typo.  It's really called the ""Rupture.""",1.941993363647536,0.0090553893447444,8137,2964,2681,2492,wit-surprise,negative
+5,But what is the string attached to?,1.9715015974440893,0.0091597406248851,7825,2683,2682,2460,wit-surprise,neutral
+11,Blind Fate gets two more chances.  Then it's Dumb Luck's turn.,1.915748541801685,0.0090043324664029,7715,2765,2835,2115,unknown,neutral
+4,Somehow I always imagined Judgement Day would come with a little more gravitas.,1.9728395061728397,0.0089451188713265,7695,2476,2952,2267,exaggeration,neutral
+9,And to think they're worried about global warming,1.9440634664515264,0.009005329106449,7437,2462,2929,2046,irony,negative
+15,If he hits it he's in for a big surprise.  I understand it's two-thirds water.,1.8866741009199888,0.009035211329477,7174,2553,2881,1740,wit-surprise,neutral
+12,"The last time he connected, it killed off the dinosaurs.",1.9020750426378623,0.0091471420613042,7036,2449,2827,1760,wit-surprise,negative
+14,"After this, let's pin the tail on Uranus.",1.8880782139209105,0.0099460607672452,6853,2749,2122,1982,irony,neutral
+8,It's been 4 billion years. Just hit it already!,1.94758446479318,0.0100289707159257,6334,2192,2282,1860,exaggeration,positive
+16,This is taking an eternity.,1.8656716417910448,0.0098267464238032,6231,2349,2370,1512,exaggeration,negative
+17,"It's the Big Bang, minus the theory.""",1.8477765108323831,0.0108867464405368,5262,2102,1859,1301,wit-surprise,neutral
+23,He should be pretty good at this.  He used to play for the Angels.,1.7431757016532103,0.0104506072025684,5202,2317,1904,981,sarcasm,positive
+22,"Jesus, Haley's comet gets closer than that.",1.750664757619145,0.0108496044870895,4889,2168,1772,949,sarcasm,negative
+21,"At this rate, mankind will beat us to it.",1.754899938106045,0.0110399953882315,4847,2171,1693,983,exaggeration,negative
+31,"Hark, the herald angels swing.",1.6720955483170468,0.0112406876691006,4605,2342,1431,832,unknown,neutral
+32,"Usually it just causes a minor flood or earthquake, but one time we did wipe out the dinosaurs.",1.6674725274725275,0.0107634275860465,4550,2207,1649,694,exaggeration,negative
+20,I don't want to wait in line. Let's do the Saturn ring toss.,1.7560534057479067,0.0113002619266775,4419,1917,1663,839,incongruity-absurdity,neutral
+29,I always get a laugh when I hear their Teutonic plate movements explanation.,1.687724335965542,0.0118348205520244,4179,2079,1326,774,wit-surprise,positive
+13,"Every time Trump tweets, an angel gets its swings.",1.9007074896316172,0.0131813974799997,4099,1683,1140,1276,sarcasm,negative
+28,"God doesn’t play dice.  But man, he loves the piñata.",1.695436507936508,0.0120091363359076,4032,1973,1314,745,wit-surprise,positive
+19,America First.,1.7785821268097852,0.0131931292339167,4006,1938,1017,1051,unknown,positive
+25,Hark! The Hearld Angel Swings!,1.7198433420365535,0.0124862856713473,3830,1830,1243,757,unknown,positive
+24,Do you think Trump will blame this on Obama too?,1.7248797056326068,0.0134057804883518,3533,1741,1023,769,irony,neutral
+26,"If we all miss, then the Meek get it, as is.",1.7142420537897312,0.013089739303129,3272,1518,1171,583,irony,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,"No, this is Purgatory. Hell has FOX 24/7.",1.9548258706467665,0.0118260675962688,5025,1884,1484,1657,sarcasm,negative
+2,I wonder if he moved that pitchfork a little left would we get better reception?,1.9031456953642385,0.0112085589052766,4832,1723,1854,1255,sarcasm,neutral
+10,"No, only the Catholics have real flames. We’re all Episcopalians.",1.84122678906739,0.0113372787799072,4793,1917,1720,1156,sarcasm,neutral
+5,It's either this or the PBS pledge drive.,1.8729026845637584,0.0116086391680108,4768,1873,1628,1267,sarcasm,neutral
+8,I hear the 1% get real fire...,1.851321585903084,0.0118968928510735,4540,1846,1523,1171,sarcasm,neutral
+3,"No, purgatory. In hell, it's Fox News 24/7.",1.8909774436090223,0.0123481931824373,4522,1832,1351,1339,sarcasm,negative
+19,So this is ironic... last week I was standing next to a fire and watching naked people on TV.,1.808154020385051,0.0119577235391424,4415,1898,1466,1051,irony,negative
+15,I guess it didn't really matter if I had on clean underwear after all.,1.827814569536424,0.0120336630866448,4379,1830,1473,1076,self-deprecating,neutral
+16,"No, you ask him to change the channel.",1.820278602420644,0.0116535537168062,4379,1766,1634,979,unknown,neutral
+4,It gets worse. The commercials are for air conditioning.,1.8807234432234432,0.0117439908290892,4368,1607,1675,1086,irony,negative
+17,They've been making due with this ever since the place froze over in 2016.,1.81637114403692,0.012861662579695,4117,1849,1175,1093,irony,neutral
+0,But before we head down... a short fire-safety video...,1.9780327068586767,0.0126043073687839,4097,1379,1429,1289,incongruity-absurdity,neutral
+23,We only get two stations. Fire and Brimstone.,1.776494224008036,0.012250612236968,3982,1734,1404,844,incongruity-absurdity,neutral
+25,We're all Congressional staff. White House is two circles down.,1.7720261437908498,0.0128073471081096,3825,1735,1227,863,irony,neutral
+26,The last thing I remember was accepting a White House appointment.,1.7679587964217944,0.0130567620502798,3689,1687,1171,831,wit-surprise,neutral
+14,"This is it? Well, I'll be damned!",1.8287023775422515,0.0133382339012865,3491,1434,1221,836,exaggeration,negative
+34,"...and then, when he said, 'You have a choice: It's either the flames of hell, or Fox News', well, that was a no-brainer.",1.7257832710549008,0.0135219570097894,3479,1714,1005,760,sarcasm,neutral
+30,Well the ride in the hand basket was fun,1.74103468547913,0.0134235411553966,3402,1597,1089,716,exaggeration,positive
+9,This is boring as hell.,1.84208964084298,0.0135847274595699,3369,1355,1191,823,exaggeration,negative
+18,"One channel, one show, no remote, welcome to hell!",1.8090128755364807,0.013663875201474,3262,1364,1157,741,sarcasm,negative
+38,The irony is that I'm here for stealing cable.,1.693776956253851,0.0132154446309302,3246,1569,1102,575,irony,negative
+39,"And after this, we have to watch 14 seasons of The Apprentice.",1.687220447284345,0.0139459616334168,3130,1595,919,616,irony,neutral
+29,The cable guy said he'd be here between now and eternity.,1.7451827242524918,0.0142825043105708,3010,1405,967,638,exaggeration,neutral
+40,"So, you're a lawyer too?",1.686855241264559,0.0139088445166876,3005,1491,964,550,sarcasm,neutral
+42,666 channels and nothing to watch.,1.6819407008086251,0.0139258490270685,2968,1476,960,532,unknown,negative
+21,It gets worse. In February they start showing reruns of The Apprentice.,1.78534213268496,0.0145882090942527,2879,1257,983,639,sarcasm,negative
+24,"Did you give to the Trump campaign, too?",1.7759659695143566,0.0150689199701082,2821,1290,873,658,sarcasm,neutral
+48,It's either this or the PBS pledge drive.,1.6699926090169992,0.0145814127069532,2706,1372,855,479,sarcasm,neutral
+36,Wish I hadn't pulled the tag off our mattress.,1.7124856815578464,0.015192159970651,2619,1276,820,523,incongruity-absurdity,negative
+33,I can never tell the news from the weather.,1.7264626113909338,0.0148116623592845,2581,1180,927,474,incongruity-absurdity,negative

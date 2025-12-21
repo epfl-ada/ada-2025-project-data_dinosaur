@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I wish we had done the sex and drugs first.,1.8839285714285712,0.0119148038153071,4704,1875,1500,1329,sarcasm,negative
+They'll never know what we used our tiny arms for.,1.8732849071832125,0.0133490284709432,3717,1496,1196,1025,incongruity-absurdity,negative
+Is this the day the music died?,1.8643243243243244,0.0130809803586284,3700,1456,1290,954,unknown,negative
+Can’t believe we’re opening for Genesis.,1.8855978260869568,0.0136182226200729,3680,1490,1121,1069,irony,negative
+"Let's skip ""Time Is On My Side"" and close with ""Great Balls of Fire.""",1.8509386382740265,0.0133652259562355,3569,1443,1215,911,unknown,neutral
+Any last requests?,1.818386280573517,0.0131422844542011,3557,1474,1255,828,sarcasm,neutral
+It looks like we're the closing act.,1.85305889079474,0.0129343680104303,3498,1318,1376,804,irony,neutral
+"Oh great, now its a farewell tour",1.8271068635968724,0.0133544424677517,3453,1413,1224,816,sarcasm,positive
+We should probably pick up the tempo.,1.827716443927949,0.0129584095214311,3442,1342,1351,749,unknown,neutral
+"Stairway to Heaven, guys, the short version.",1.8522727272727273,0.0138585246346414,3344,1357,1124,863,incongruity-absurdity,neutral
+I see that we have time for one last request...,1.8149400553335384,0.0133826083654825,3253,1304,1247,702,irony,neutral
+"On the plus side, ""Mass Extinction"" is a really cool band name.",1.8192344805403664,0.0141562351268398,3109,1300,1071,738,exaggeration,positive
+"You know boys, I think this one is going to be a massive hit!",1.821675900277008,0.014657016578654,2888,1199,1005,684,exaggeration,positive
+Yesterday all our troubles seemed so far away.,1.84305408271474,0.0148164839246219,2829,1135,1003,691,unknown,negative
+An ironic end to our meteoric rise.,1.8577004968062456,0.0150160278105607,2818,1124,971,723,irony,neutral
+"And now, for our last number...",1.8198757763975155,0.0149968906947296,2737,1133,964,640,unknown,neutral
+I slept with your girlfriend.,1.784009094353922,0.0161993853349333,2639,1260,689,690,sarcasm,neutral
+Any final requests?,1.819140625,0.015338508286324,2560,1044,935,581,self-deprecating,neutral
+We did say it was the farewell tour.,1.830654645237162,0.0147998787566023,2551,965,1053,533,irony,neutral
+"Dang it, I broke another guitar string. This day can’t get any worse.",1.807478122513922,0.0155152916105375,2514,1049,900,565,self-deprecating,negative
+"We're still getting paid, right?",1.7808943089430895,0.0152830208998688,2460,1035,929,496,sarcasm,neutral
+"We'd like to end with ""Great Balls of Fire""",1.8302598491198656,0.0160409092526806,2386,969,853,564,unknown,positive
+"Ok, this time play like there's no tomorrow.",1.8335451080050824,0.0161960004538314,2361,960,834,567,unknown,neutral
+"Look, if you forget a note or two it's not the end of the world",1.83616298811545,0.0158436366693108,2356,921,900,535,self-deprecating,neutral
+C’mon guys. Let’s play like there is no tomorrow!,1.788355291117722,0.0158173122446425,2353,994,863,496,unknown,positive
+Okay guys. 'Eve of Destruction' in C.,1.803343598768148,0.0164360686177194,2273,965,790,518,irony,neutral
+So no encore then?,1.775609756097561,0.0157225813944902,2255,938,885,432,irony,neutral
+This could set music back 65 million years.,1.7955056179775282,0.0164923628057048,2225,947,786,492,exaggeration,neutral
+"Staying Alive"" or ""Stairway to Heaven""? Your call guys",1.8042304230423043,0.0165139302960161,2222,933,791,498,unknown,neutral
+Face it. It’ll be millions of years before we’re discovered.,1.8506616257088848,0.0175015078729757,2116,867,698,551,incongruity-absurdity,negative

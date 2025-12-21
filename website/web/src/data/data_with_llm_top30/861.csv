@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+This is what happens when both the writers and the actors go on strike.,1.635273368606702,0.0151286220655528,2835,1625,619,591,sarcasm,negative
+They don't keep score. They settle them.,1.5193050193050193,0.0158026956100584,2590,1759,317,514,wit-surprise,neutral
+"I'm gonna go get a cafe au lait and a croisssant, want anything?",1.582794830371567,0.0153718244851351,2476,1456,597,423,sarcasm,neutral
+I'll bet on anything.,1.516744383213226,0.0161847914962975,2359,1574,351,434,wit-surprise,neutral
+I'm tempted to shoot them both.,1.639857015192136,0.0166250064332668,2238,1240,564,434,sarcasm,negative
+Things get more interesting at noon.,1.5077239958805355,0.0175075679406774,1942,1291,316,335,incongruity-absurdity,positive
+"I'm not sure what it is, but we got pretty good seats.",1.5716535433070866,0.0165915283763416,1905,1082,557,266,incongruity-absurdity,positive
+I think it’s safe to say this town is big enough for both of them.,1.5904198062432724,0.0174722642059615,1858,1063,493,302,incongruity-absurdity,positive
+"I'm all for gun control, but this could have been over hours ago.",1.5909339158929547,0.0174867649614009,1831,1040,500,291,irony,neutral
+See what happens when you send your kids East to go to college.,1.6252796420581654,0.0179102904363839,1788,973,512,303,irony,neutral
+"In my day, we used a stick and a tumbleweed.",1.5461801596351197,0.0176583071423212,1754,1058,434,262,incongruity-absurdity,neutral
+"You can play without wickets, but it takes balls.",1.5705950991831972,0.0181944804018995,1714,1012,426,276,unknown,neutral
+They say boredom never killed anyone. Wanna bet?,1.5247648902821316,0.0177472014690294,1595,962,430,203,self-deprecating,neutral
+Oh for chrissakes! What’s next? Pickleball?,1.554300062774639,0.0186864959317179,1593,956,391,246,sarcasm,negative
+I miss the days when they’d just shoot each other.,1.5552763819095476,0.0183097292798755,1592,936,428,228,sarcasm,negative
+If Hank had a slimmer horse Butch wouldn't make that shot.,1.5689873417721518,0.0186255456669063,1580,920,421,239,wit-surprise,neutral
+I remember when my mallet took care of business.,1.4901712111604313,0.0200196741926114,1577,1105,171,301,incongruity-absurdity,neutral
+It’ll go down in the books as the shootout at the Croquet Corral.,1.5447619047619048,0.0184578633452852,1575,944,404,227,incongruity-absurdity,neutral
+"As the town undertaker, I miss the old way of settling disputes.",1.5384122919334189,0.0182060689799225,1562,931,421,210,wit-surprise,negative
+I love a good shoot-out at the Croquet Corral.,1.54521625163827,0.0183590873814995,1526,897,426,203,incongruity-absurdity,positive
+Frankly both of these boys are built for polo.,1.5575279421433268,0.0186393110989161,1521,887,420,214,wit-surprise,neutral
+All I know is that it ends at noon,1.5277044854881263,0.0182366163363867,1516,909,414,193,sarcasm,neutral
+"One day, it'll be known as the 'Shootout at the Croquet Coral'.",1.5527538155275382,0.0191300174695186,1507,903,375,229,incongruity-absurdity,neutral
+"Davy Croquet, king of the wild frontier",1.5483870967741935,0.0193565984804415,1457,875,365,217,wit-surprise,neutral
+I think we're making headway on gun control.,1.630344827586207,0.0196088062947151,1450,771,444,235,irony,positive
+"I play this with the missus, but it's harder to get through her wicket.",1.4857934857934858,0.0205000005269858,1443,999,187,257,unknown,neutral
+Neither good nor bad nor ugly. Dang pathetic though.,1.5278551532033426,0.0194041994343971,1436,887,340,209,self-deprecating,negative
+They just keep playing until one of them croques.,1.595880681818182,0.0208239153126813,1408,829,319,260,incongruity-absurdity,neutral
+My hearing is going. Thought Wyatt said  OK Corral not Croquet with Al.,1.614814814814815,0.021421668995112,1350,778,314,258,irony,neutral
+Wait till they hear about pickleball,1.5112107623318385,0.019212653862149,1338,817,358,163,irony,neutral

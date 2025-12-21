@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Your overhead is going to kill you.,1.824175824175824,0.0480665331833512,273,114,93,66,unknown,negative
+1,The consensus of your wise men is: move the chair.,1.7675438596491229,0.0506316513591674,228,99,83,46,wit-surprise,neutral
+2,"According to the doctor, your longevity would improve dramatically if you'd get off the throne and walk more.",1.7636363636363637,0.048151615336865,220,88,96,36,wit-surprise,positive
+4,What's long and sharp and will make your nephew king?,1.71875,0.0544718463634914,192,89,68,35,wit-surprise,neutral
+3,And the king lived happily severed after.,1.7225130890052356,0.0556266918226535,191,90,64,37,unknown,neutral
+6,"Yes, your majesty. So far we have 'Live by the sword'. Is there any more to it?",1.6963350785340314,0.0556500289744274,191,94,61,36,sarcasm,neutral
+5,"In castle news, the queen and the royal rope maker have disappeared.",1.7157894736842103,0.0539842875484611,190,87,70,33,unknown,neutral
+11,While I have your undivided attention...,1.6777777777777778,0.059302565388634,180,95,48,37,self-deprecating,neutral
+8,The queen has agreed to split everything fifty-fifty.,1.6839080459770115,0.058669652988631,174,88,53,33,wit-surprise,neutral
+57,May I suggest that we dispense with today's reading of the royal horoscope?,1.563953488372093,0.0554080935865344,172,99,49,24,sarcasm,neutral
+12,The Queen wishes to express her best wishes to you and your mistress.,1.6764705882352942,0.0610859728506787,170,90,45,35,wit-surprise,positive
+7,I'll be brief...,1.688235294117647,0.0579485923227097,170,83,57,30,self-deprecating,neutral
+10,I'll read fast.,1.680473372781065,0.0571542560002663,169,82,59,28,unknown,neutral
+16,I'll be quick,1.6506024096385543,0.0591206524225137,166,87,50,29,incongruity-absurdity,positive
+9,The latest polls show you hanging on by a thread.,1.6809815950920246,0.0568729431046111,163,77,61,25,sarcasm,neutral
+14,"After careful consideration, we've determined it would probably be easier to just move the throne.",1.656441717791411,0.0566560184190324,163,80,59,24,sarcasm,neutral
+15,"Let us hope your majesty, that the cord is mightier than the sword.",1.6521739130434785,0.0605749302204512,161,85,47,29,wit-surprise,positive
+27,"You will succeed yourself your Majesty, but this time as Queen.",1.610062893081761,0.0584489906367191,159,86,49,24,wit-surprise,positive
+20,The Queen says she wants half of everything.,1.639240506329114,0.0597087413421304,158,83,49,26,irony,neutral
+17,I'll just skip to the end.,1.6474358974358974,0.0635355401474395,156,86,39,31,unknown,neutral
+19,"Nay, thy whole-life policy dost not cover halves.",1.6451612903225807,0.0664762970655213,155,90,30,35,wit-surprise,neutral
+13,"Traditionally, you'd fall on the sword.",1.6601307189542485,0.0594981005359831,153,76,53,24,wit-surprise,neutral
+24,A gift from the 99%.,1.6225165562913908,0.0614337323869695,151,82,44,25,sarcasm,positive
+18,"It will be 15 pounds to take it down and 50,000 to smelt it. Or we can move your chair.",1.6462585034013606,0.060132740043707,147,74,51,22,sarcasm,neutral
+26,It's a notice from your insurance company. They're raising your premiums.,1.6137931034482758,0.0650568620254971,145,83,35,27,irony,neutral
+30,"Sire, this policy covers you for death and dismemberment, but excludes accidents that occur in the workplace.",1.6013986013986017,0.0620886821084389,143,79,42,22,sarcasm,negative
+22,"Frankly, I would just move your chair.",1.6293706293706294,0.056732598872928,143,69,58,16,sarcasm,neutral
+29,"A king divided cannot stand, Your Majesty.",1.6028368794326242,0.0635646864551791,141,79,39,23,wit-surprise,negative
+21,"Sorry, Sire. You have been turned down for insurance because of what has been determined a preexisting condition.",1.6312056737588652,0.0639871975525671,141,76,41,24,sarcasm,negative
+25,"Your Majesty, a rocking chair will increase your chances by 50%",1.6142857142857143,0.0613196050675786,140,74,46,20,wit-surprise,neutral

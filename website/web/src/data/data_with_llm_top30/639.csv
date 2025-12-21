@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3889,"Rapunzal, you got any Brillcream?",1.1666666666666667,0.0264896856456599,288,249,30,9,wit-surprise,neutral
+1933,"Call me but love, and I will shear this mullet.",1.25,0.0317950342421354,284,227,43,14,wit-surprise,positive
+118,"That new Viagra shampoo, is wonderful",1.4172661870503598,0.0400628551783138,278,190,60,28,unknown,positive
+13,You spent all those years growing this out when you could have built a ladder in days?,1.514388489208633,0.044052920077243,278,175,63,40,irony,negative
+1891,"See, I told you my man bun was a good idea.",1.2527075812274369,0.0320048272798101,277,220,44,13,self-deprecating,positive
+4263,I can help you with the dandruff problem.,1.141304347826087,0.0239369864564521,276,242,29,5,wit-surprise,neutral
+1955,Something doesn' t feel right here!,1.25,0.032818822325218,276,222,39,15,irony,negative
+1543,Too bad gravity matters.,1.269090909090909,0.0321920400353255,275,213,50,12,incongruity-absurdity,negative
+1152,"Honestly, I'm not mansplaining.",1.290909090909091,0.0339262779977799,275,210,50,15,sarcasm,neutral
+1530,just a tease,1.27007299270073,0.0335135761900311,274,215,44,15,sarcasm,neutral
+557,"I hope this works, or I just wasted a ton of money on hair gel.",1.336996336996337,0.0368796708092451,273,201,52,20,unknown,negative
+3409,Queen Grimhilde gave me a bite of her little blue pill.,1.1904761904761905,0.0279707745288252,273,229,36,8,incongruity-absurdity,neutral
+173,"Yes, I am just glad to see you.",1.400735294117647,0.0412326113840802,272,193,49,30,sarcasm,positive
+2314,Woman! Damn! I already told you I checked for lice. Now get a good grip and jump!,1.2352941176470589,0.031022735906631,272,219,42,11,sarcasm,negative
+3548,That's all I can spare.,1.1838235294117647,0.027268179397998,272,229,36,7,exaggeration,neutral
+3302,Are you sure you used extra strengthening conditioner?! My life is on the line.,1.1948529411764706,0.0286898250783147,272,228,35,9,sarcasm,negative
+1216,"Manbunzel, Manbunzel, please wash your hair!",1.286764705882353,0.0348709116209889,272,211,44,17,self-deprecating,neutral
+1774,"Mom, I swear I'll come back.  Just let me go to the barber.",1.2583025830258303,0.0338659415626565,271,217,38,16,incongruity-absurdity,positive
+3007,What kind of conditioner do you use?,1.2066420664206643,0.0301306989147207,271,226,34,11,unknown,neutral
+1616,"Forsooth, my lady, even in your gentleness with my hair,
+I ask you humbly how the hell you got up there",1.2656826568265682,0.0340574984129482,271,215,40,16,sarcasm,neutral
+1929,Now ratchet me up on your spindel.,1.2509225092250922,0.0311365654756147,271,213,48,10,wit-surprise,negative
+1336,Slide down.  It’s gelled.,1.2804428044280445,0.0336163359253773,271,209,48,14,unknown,neutral
+3284,"It's kind of a hair gel.  By the way, I was thinking about you .. a lot!",1.1955719557195572,0.0278211272277922,271,225,39,7,sarcasm,positive
+2201,Is this what you call reverse psychology?,1.239852398523985,0.0321030853978053,271,219,39,13,sarcasm,neutral
+259,"Considering the situation, size actually does matter.",1.3800738007380071,0.0397911038610465,271,194,51,26,incongruity-absurdity,neutral
+2758,Any ideas on how to deal with theses split ends?,1.2177121771217712,0.030964404334507,271,224,35,12,incongruity-absurdity,neutral
+2739,Actually I’m just having a bad hair day.,1.2185185185185186,0.0306223948631417,270,222,37,11,self-deprecating,negative
+1661,Well I thought it was worth a shot!,1.262962962962963,0.0311179617825382,270,208,53,9,sarcasm,positive
+4169,I think there's something wrong with my brush because my hair has been stuck like this for days.,1.148148148148148,0.0251866429751981,270,236,28,6,self-deprecating,negative
+4022,You need stronger product.,1.1592592592592592,0.0257482949263246,270,233,31,6,sarcasm,neutral

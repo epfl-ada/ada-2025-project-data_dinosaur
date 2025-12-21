@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+This was easier to carry when it was flat.,2.2073300184367843,0.0054652184469003,17899,3316,7556,7026,unknown,neutral
+Next week I'll move Heaven for you.,2.115901659198256,0.0059583315125963,16514,4007,6589,5915,sarcasm,positive
+It’s mostly water weight”,2.095165238678091,0.0066888640084556,13072,3267,5297,4507,self-deprecating,neutral
+"Because not everyone gets to work from home, Joyce",2.0030517045949954,0.00738277165975,11469,3567,4300,3601,sarcasm,neutral
+I’ll myth you too.,1.8359494125033635,0.0077322480002426,11149,4785,3409,2953,sarcasm,neutral
+This was easier when the world was flat.,2.0470577228926934,0.0074585136831342,10689,2943,4301,3444,wit-surprise,neutral
+"The world doesn't revolve around you, Helen.",1.8977911646586345,0.0078123542828311,9960,3591,3796,2571,sarcasm,neutral
+"Wow, look how close earth is to Uranus.",1.8552615075881096,0.0094631743592552,7973,3532,2074,2366,incongruity-absurdity,positive
+"Yes, I'm going out in these shoes.",1.8793606494989217,0.0090030696352747,7883,3056,2724,2102,incongruity-absurdity,neutral
+"I don’t ordinarily like to return things, but that one has some major issues.”",1.959826275787188,0.0092676803960105,7368,2485,2694,2187,sarcasm,negative
+You have anything else for recycling?”,1.8312719499160175,0.0095298731148217,6549,2598,2459,1491,incongruity-absurdity,neutral
+"Oh really? YOU'RE tired of doing the same thing every day?""",1.7988351959704076,0.0096410365521337,6353,2643,2345,1364,sarcasm,negative
+"I’m taking it to the repair shop, it keeps overheating.",1.7159858475394016,0.0094338862197229,6218,2854,2276,1088,unknown,negative
+"Honey, I’m taking it back. This one has a virus.",1.7194697597348798,0.0098346119168942,6035,2845,2038,1152,sarcasm,negative
+It was a lot easier to carry when it was flat.,1.9050381173351012,0.0102499783402267,6034,2226,2155,1653,incongruity-absurdity,positive
+"When his wife asked him if he really was essential personnel, Atlas shrugged.",1.8018534119629317,0.0102705590700104,5935,2567,1978,1389,wit-surprise,neutral
+"Because I prefer it to the maps on my phone, that’s why.",1.8829103214890015,0.0103638540450976,5910,2262,2078,1570,sarcasm,positive
+Oh shoot! Put my mask on for me.,1.7757534479822918,0.0101139496032635,5873,2570,2048,1253,self-deprecating,neutral
+"I’m returning it and getting another, this one has a pandemic.",1.7689299680056878,0.0105099413994563,5626,2547,1830,1246,exaggeration,neutral
+Why can't you just have a chip on your shoulder like a normal human being?,1.8018952261755763,0.0103393840429614,5593,2343,2017,1232,sarcasm,negative
+Apparently I'm deemed essential,1.9686025408348455,0.0105765504609484,5510,1790,2105,1615,irony,neutral
+I AM bending my knees!,1.7214928732183046,0.0102586227884399,5332,2445,1926,960,self-deprecating,positive
+"Apparently, giving you the world wasn't enough",1.8274362522237595,0.0110587348586302,5059,2084,1766,1208,sarcasm,negative
+"‘Well, actually, yes...it would be the end of the world if I took the day off.’",1.9054816606207177,0.0113634391180035,4962,1846,1739,1377,sarcasm,neutral
+I never knew what a pain in the ass the Andes can be.,1.7686787674124105,0.0113464504078296,4738,2126,1583,1027,incongruity-absurdity,negative
+“You can have it back when you’ve learned how to take care of it.”,1.6734832992501705,0.011187832740276,4401,2164,1508,728,sarcasm,neutral
+"Well... it no longer 'Sparks Joy', Susan.",1.7762790697674418,0.0122693490722899,4300,1979,1302,1018,sarcasm,negative
+I know it looks weird but the warming really helps my sciatica.,1.7105540897097626,0.0121487762106346,3790,1767,1353,669,unknown,positive
+Be sure to wash your hands when you're done touching that.,1.7826330532212886,0.012939602976693,3570,1539,1268,763,sarcasm,neutral
+"If I can carry the world, you can take out the trash.",1.6533673795084582,0.0131140896400847,3133,1574,1068,489,sarcasm,neutral

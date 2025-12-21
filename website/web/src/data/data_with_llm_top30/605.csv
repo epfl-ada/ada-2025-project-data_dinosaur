@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Son, your Mom and I want you back in the picture.",1.856748296814583,0.0106844637413928,5431,2128,1953,1350,unknown,positive
+1,"Whatever you do, don’t take the stairs near the Escher painting!",1.855645010297697,0.0112031857856548,5341,2231,1650,1460,incongruity-absurdity,neutral
+9,"We're life, imitating art.",1.746470812666921,0.0105607077390873,5242,2365,1841,1036,incongruity-absurdity,neutral
+8,"Due to NEA budget cuts, the painting you would have seen here will be described by my wife, Ethel, her sister, Irene, and myself.",1.754063874545802,0.0109898917294457,5229,2452,1611,1166,wit-surprise,neutral
+6,"It says ""Man Looking Stupid"". What does yours say?",1.7781781781781782,0.0111984193743405,4995,2241,1621,1133,sarcasm,negative
+2,The Demoiselles d’Avignon are out to lunch. We’re the McMurrays of Hackensack.,1.8524688879967883,0.0114062952759635,4982,2036,1645,1301,wit-surprise,neutral
+11,"Well, you're no masterpiece yourself.",1.722053769961593,0.0110152462408834,4947,2363,1596,988,sarcasm,negative
+15,We're in the lower floor of IKEA....where are you?,1.7056198011767092,0.0111316099440143,4929,2444,1492,993,irony,neutral
+12,We don't get it either.,1.7143150544259602,0.0107470877518254,4869,2263,1734,872,sarcasm,negative
+14,"Whatever you do, don't take the behind-the-scenes tour!",1.7107698779974758,0.0113118523249068,4754,2332,1465,957,incongruity-absurdity,neutral
+13,"You’re better off over there, in this reality Trump is president.",1.7132067328441951,0.0117296534843452,4634,2332,1299,1003,irony,negative
+17,Three against one says you're the painting.,1.6806573395514102,0.0114607846681795,4503,2280,1381,842,wit-surprise,neutral
+23,Oh yeah? Well you're no masterpiece either.,1.6492837958818265,0.0111502923729645,4468,2299,1437,732,sarcasm,negative
+10,"Hey look, it's Art.",1.740192623913554,0.0121728269621223,4257,2039,1285,933,wit-surprise,positive
+5,"Well you're no masterpiece yourself, pal.",1.7861038653070904,0.0120768774001789,4217,1844,1431,942,sarcasm,negative
+22,"Yeah, well, from our side it say's ""Coat Check.""",1.6507256721389485,0.0118434584148664,4203,2229,1213,761,sarcasm,neutral
+26,"Hey look, it's Art.",1.6463980463980463,0.0121084537249027,4095,2209,1125,761,wit-surprise,positive
+3,Imitating life. What are YOU doing?,1.8107351818875603,0.012487843752267,3931,1647,1381,903,wit-surprise,neutral
+18,We're just enjoying our 15 minutes of frame.,1.6700733752620545,0.0125135346862643,3816,1977,1121,718,sarcasm,positive
+29,"Oh, yeah? Well, we don't get you either.",1.628367234744365,0.0124155066458939,3638,1947,1096,595,sarcasm,negative
+16,It really captures the desperation and hopelessness of middle age.,1.6935079409306213,0.0125890664504253,3589,1739,1211,639,self-deprecating,negative
+20,Really? Ours is also titled 'The Museum Visitor!',1.661959898333804,0.012575559767821,3541,1792,1154,595,incongruity-absurdity,neutral
+24,"Finally, something that speaks to me.",1.647226173541963,0.0124044439506425,3515,1789,1177,549,self-deprecating,positive
+27,"Well, what did you expect for five dollars? This is Mona...and Lisa is right behind me.",1.6439263097294186,0.0129088846320963,3474,1844,1023,607,sarcasm,neutral
+21,Notice how his eyes seem to follow you.,1.6537070524412296,0.0130039420389997,3318,1704,1059,555,irony,neutral
+28,And here we have an excellent example of 'Expressionlessism'.,1.632919254658385,0.0132949716215385,3220,1724,954,542,unknown,positive
+30,It’s disturbing how his eyes seem to follow you around the room.,1.6240794108229266,0.0130665680421248,3123,1640,1017,466,sarcasm,negative
+37,Lack of perspective is the least of our problems.,1.5915171288743883,0.0130387406501318,3065,1680,957,428,wit-surprise,negative
+32,Art? That's not Art. I know Art.,1.6142716211772443,0.0137999661771512,3041,1693,828,520,sarcasm,negative
+38,It's an Andy Wall Hole.,1.5909584086799278,0.0147396227995042,2765,1627,642,496,irony,neutral

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,Sorry I'm late. I hit every traffic light coming home.,2.1728936332443767,0.0109848538523669,5246,1285,1769,2192,unknown,negative
+0,Let's stay in tonight. It's a zoo out there.,2.173155142359094,0.0215477475066473,1721,564,295,862,sarcasm,neutral
+2,"If he's elected, we're going to have a tough time proving we weren't born in Africa.",1.8588672237697308,0.0254153319885088,1077,461,307,309,sarcasm,negative
+4,"Yes, it's hot. But a ceiling fan will only make things worse.",1.8557874762808348,0.0248266921656485,1054,429,348,277,incongruity-absurdity,negative
+5,"I wasn't impressed with the ark on the outside, but this is nice.",1.8552380952380951,0.0249562000529404,1050,430,342,278,wit-surprise,positive
+3,What happened to us? We used to be so wild.,1.8587896253602303,0.0235069586107103,1041,383,422,236,sarcasm,negative
+6,I'm going out. I left you some dinner on top of the fridge.,1.8172169811320755,0.0260301725019637,848,335,333,180,sarcasm,neutral
+7,The Lions called. They want us over for dinner.,1.8060075093867332,0.0282523571251997,799,347,260,192,unknown,neutral
+8,We need to talk about the elephant in the other room.,1.7339285714285717,0.0335974195380093,560,271,167,122,incongruity-absurdity,neutral
+9,"Young man, the lawn isn't going to eat itself.",1.732368896925859,0.0321943513436073,553,252,197,104,incongruity-absurdity,negative
+10,What's happened to us Marge.. we used to be so wild?,1.7131630648330058,0.0324407529891415,509,230,195,84,sarcasm,negative
+12,It's much better without the ceiling fan.,1.7056451612903225,0.0344287384567312,496,240,162,94,incongruity-absurdity,positive
+11,"No, I mean literally, I shattered the glass ceiling.",1.7058823529411764,0.0332619088243511,493,228,182,83,irony,negative
+13,"You know it won't actually be an elephant and a donkey debating, right?",1.696842105263158,0.0361570133793288,475,241,137,97,irony,neutral
+14,You look fine. Hyenas laugh at everybody. That's just what they do.,1.6948051948051948,0.0354706901106347,462,226,151,85,sarcasm,positive
+15,Glad we got rid of the ceiling fan.,1.6872246696035242,0.0353902816064987,454,222,152,80,incongruity-absurdity,positive
+16,Did you hide the cookies on the bottom shelf again?,1.684326710816777,0.0360335570871584,453,227,142,84,unknown,neutral
+18,How was I supposed to know -- I though Deep Throat was going to be a movie about giraffes.,1.6830357142857142,0.0365136796102576,448,227,136,85,wit-surprise,neutral
+17,The zoo escape is all over the news. We're gonna need disguises.,1.6830357142857142,0.0363766626055427,448,226,138,84,sarcasm,neutral
+19,"My vote is no, on the ceiling fan.",1.6795454545454545,0.0373744816651911,440,228,125,87,irony,neutral
+20,I hate how they go on about his tiny hands but totally ignore his short neck.,1.674364896073903,0.0376449846269144,433,226,122,85,irony,negative
+21,Sorry I am late; I got stuck in the tunnel.,1.669811320754717,0.0365634827316572,424,213,138,73,unknown,negative
+22,"No, I mean I shattered an actual glass ceiling.",1.667464114832536,0.0370118286521705,418,212,133,73,irony,negative
+23,"The Viagra isnâ€™t working, all I have is a stiff neck.â€",1.661800486618005,0.0382072801860133,411,216,118,77,incongruity-absurdity,negative
+24,I would have been home earlier --I got stuck in the tunnel.,1.6487179487179486,0.0372824791392723,390,198,131,61,unknown,negative
+25,"If he wins, we're moving to Kenya.",1.6458333333333333,0.0410501605392927,384,216,88,80,exaggeration,neutral
+26,"Sooner or later, we have to talk about the elephant in the other room.",1.6449086161879896,0.0404771389710482,383,212,95,76,wit-surprise,neutral
+27,"You know if he's elected, we're getting deported, right?",1.635135135135135,0.0401184106921145,370,202,101,67,sarcasm,negative
+28,We're portrait animals in a landscape world.,1.6321525885558583,0.0389079612744882,367,194,114,59,wit-surprise,neutral
+29,"If he wins, we're moving back to Africa.",1.6256983240223464,0.0393446199514726,358,191,110,57,exaggeration,negative

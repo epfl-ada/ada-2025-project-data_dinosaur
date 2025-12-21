@@ -1,0 +1,34 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I will give you no quarter.,1.739622641509434,0.0138900516432271,3180,1497,1014,669,sarcasm,negative
+"Sign the treaty, I’m out of quarters.",1.8087431693989071,0.0140767940802128,3111,1313,1080,718,unknown,neutral
+Let's go. Mommy doesn't have enough quarters to invade Russia.,1.740789910388317,0.0141558645943645,3013,1401,992,620,sarcasm,negative
+"The British may be coming, but I'm leaving.",1.691171418756441,0.0139706471454827,2911,1415,980,516,wit-surprise,neutral
+"Let’s go before you fall off 
+and break a Bonaparte",1.6967919972404275,0.0146311858889808,2899,1472,834,593,sarcasm,neutral
+Get off before you develop a complex.,1.6744755244755245,0.0141360320555683,2860,1434,923,503,self-deprecating,negative
+You can't invade Russia today. Soccer practice at 2:30.,1.6875876577840112,0.0138984074974044,2852,1370,1003,479,unknown,neutral
+Does somebody need to be put in exile?,1.7411847672778562,0.0143690572011512,2836,1292,986,558,unknown,negative
+Now you know why its called a quarter horse!,1.6818502824858756,0.0143907320007978,2832,1424,885,523,incongruity-absurdity,neutral
+"I don't 
+have enough change for
+you to  conquer the world.""",1.6716101694915255,0.0139606936611346,2832,1399,964,469,sarcasm,neutral
+The Russian invasion will have to wait; I'm out of quarters.,1.6779359430604983,0.0136353021044533,2810,1332,1051,427,unknown,negative
+Now now don’t get short with me,1.652080344332855,0.0143610627608851,2788,1455,848,485,sarcasm,neutral
+No more binge-watching the History channel.,1.635510645976182,0.0138288167438232,2771,1423,935,413,unknown,neutral
+"You've conquered Austria and Prussia, that's all we have time for.",1.6810751907010535,0.0138532762891681,2753,1306,1019,428,wit-surprise,positive
+"OK, one more ... but I'm not paying for a land war in Asia.",1.6428831452493629,0.0143099471570385,2747,1438,852,457,exaggeration,negative
+We have to go. You can invade Russia tomorrow.,1.675932699341624,0.0139442531789814,2734,1313,994,427,wit-surprise,negative
+"If  Waterloo means anything to you, you better get into the car right now.",1.625792023853895,0.0141673381421387,2683,1412,863,408,incongruity-absurdity,neutral
+First you need to learn how to cross the street by yourself.,1.6667931688804554,0.0143611443397327,2635,1301,911,423,unknown,neutral
+"When I was a kid, conquering all of Europe and crowning yourself Emperor only cost 10¢.",1.6945606694560669,0.0145652969587147,2629,1257,918,454,wit-surprise,neutral
+"You have a choice. Stay here and face the  harsh Russian winter with your entire army stranded and in disarray, or come home for lunch.",1.808575803981623,0.0153946329606447,2612,1106,900,606,wit-surprise,negative
+You'll be happy to know that we're having Beef Wellington for dinner.,1.7300850734725444,0.0151662099516523,2586,1212,860,514,irony,positive
+"Don’t call me Josephine, I’m your mother>",1.6270793036750484,0.0146034469240326,2585,1374,801,410,unknown,negative
+"Get over it, Donald. You lost the school election.",1.730140186915888,0.0159545247205216,2568,1279,703,586,sarcasm,negative
+Just stay out of Belgium until I finish shopping.,1.7077464788732395,0.0148425057310246,2556,1202,899,455,sarcasm,neutral
+Why can't you pretend to be an American fascist like other boys your age?,1.6745937376139517,0.0152502312308789,2523,1284,776,463,sarcasm,negative
+"No Jeremy, I said I'll meet you in the ""eggs aisle""",1.6517894736842105,0.0154222260835984,2375,1228,746,401,incongruity-absurdity,neutral
+"You know he lost, right?",1.7749155405405406,0.0160564100702211,2368,1049,803,516,sarcasm,negative
+Your revolution is out of funding.,1.6632696390658177,0.015418940859595,2355,1189,770,396,exaggeration,negative
+C'mon. We have to pick up Josephine from daycare,1.7311546840958605,0.0159128133122719,2295,1058,796,441,sarcasm,neutral
+If you don't get in the car you're going to have bigger problems than Waterloo.,1.6859430604982206,0.0157829518825429,2248,1093,768,387,sarcasm,negative

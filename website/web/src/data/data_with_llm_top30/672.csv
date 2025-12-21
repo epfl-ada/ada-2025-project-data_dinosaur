@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I'm sure it works. I was involved in the original research.,2.012695223308065,0.0075865767931846,10949,3381,4048,3520,wit-surprise,positive
+These should help with the hallucinations.,2.012456355572332,0.0078551168168901,10597,3399,3667,3531,unknown,positive
+"No, I said I was a rodent scholar.",1.910062893081761,0.0084857253290344,9540,3744,2910,2886,wit-surprise,neutral
+I started in the lab and then went to medical school.,1.9089179814255344,0.0084378265344147,8937,3287,3177,2473,wit-surprise,neutral
+Don't worry. I wouldn't prescribe anything I haven't tested on myself.,1.930836424554266,0.0085827616752422,8357,2881,3173,2303,self-deprecating,neutral
+"Of course there are no side effects, I take it myself.",1.772079772079772,0.0085740915448047,8073,3525,2863,1685,sarcasm,neutral
+Why do you keep asking about side effects?,1.836065573770492,0.0087167193420783,8052,3231,2910,1911,sarcasm,negative
+We take Blue Cross or Blue Cheese.,1.8513939699760311,0.0092216528833875,7927,3348,2409,2170,unknown,neutral
+Full disclosure: I participated in the clinical trials.,1.7717281999712684,0.0090889368630252,6961,2977,2596,1388,self-deprecating,neutral
+Stop the medication right away if your cats take sudden interest in you.,1.7831715210355987,0.0096000555809145,6798,3026,2220,1552,sarcasm,negative
+Most of us go into research,1.7848160955674317,0.0096036280228796,6362,2698,2335,1329,wit-surprise,neutral
+I suggest more exercise.  Do you have a wheel at home?,1.79841449603624,0.0098376372684704,6181,2597,2233,1351,wit-surprise,neutral
+There are no side effects to worry about.  I take this myself.,1.6951497110838731,0.0097787135525638,5711,2695,2062,954,self-deprecating,positive
+I take this myself.  There is one side effect I should mention.,2.094353921940129,0.0106936823428067,5278,1367,2046,1865,self-deprecating,neutral
+Usually you have to run a maze to get stuff this good.,1.7087765957446808,0.010724722197501,5264,2583,1631,1050,irony,neutral
+"Go back to your cube, hit the lever two times and call me in the morning.",1.716992665036675,0.0109807178532207,4908,2343,1611,954,sarcasm,neutral
+I’m sending you to the lab. It’s going to be a dog.,1.695446735395189,0.0124882400651955,4656,2615,844,1197,sarcasm,neutral
+You came to the right place. I DO give a rat's ass about your problem.,1.8414686825053996,0.0120221252060027,4630,1974,1416,1240,sarcasm,neutral
+It's totally safe. I've been on it for years.,1.6642494561276286,0.0114280202455193,4137,2045,1436,656,irony,positive
+My father dragged slices of pizza down the subway stairs to put me through medical school.,1.8325814536340852,0.0128011508768336,3990,1694,1270,1026,wit-surprise,negative
+"Rest assured, I was first in my maze.",1.796319959110657,0.0124393491670791,3913,1664,1382,867,unknown,neutral
+"Bring this up to the receptionist. You'll go down the hall and take a right, then another right, then a left, then a right again...",1.865897435897436,0.0128499874915086,3900,1552,1319,1029,sarcasm,neutral
+This is for the hallucinations.,1.6508762322015331,0.012024506345974,3652,1824,1279,549,incongruity-absurdity,neutral
+My nurses will help you navigate the insurance maze.,1.67003367003367,0.0124994140002922,3564,1774,1192,598,unknown,neutral
+Of course it's safe.  I take it myself.,1.654975762760194,0.0122547159223184,3507,1737,1243,527,sarcasm,neutral
+We're conducting tests on humans to determine if it's safe for rats.,1.7123485285631852,0.0131609683899193,3466,1682,1099,685,incongruity-absurdity,neutral
+Call me if you notice anything unusual.,1.6443768996960486,0.0126731660827955,3290,1662,1136,492,sarcasm,neutral
+Be sure to take the pills with cheese.,1.647459727385378,0.0133798409938472,3228,1702,962,564,incongruity-absurdity,neutral
+"Don't worry, it was tested on people.",1.7228057014253564,0.0145791382771914,2666,1227,951,488,sarcasm,neutral
+Here’s a referral to a cartoonist who can fix your eyeball.,1.702276707530648,0.0168674650619386,2284,1183,598,503,wit-surprise,neutral

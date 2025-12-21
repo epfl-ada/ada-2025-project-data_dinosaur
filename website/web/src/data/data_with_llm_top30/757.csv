@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I thought partly cloudy with a chance of rage was a typo,1.8288288288288288,0.0115816532542842,4773,2006,1578,1189,irony,negative
+What the hell did you upload to the cloud?!,1.768041237113402,0.0115782508790934,4656,2118,1500,1038,sarcasm,negative
+Well it looks like my mother found out that you’re not Jewish.,1.822623828647925,0.0121646600697726,4482,1954,1369,1159,irony,negative
+"They banned him from Twitter, but he’s still in the Cloud.",1.8117567870765088,0.0120610375348767,4457,1943,1410,1104,sarcasm,neutral
+That reminds me. Your mother called.,1.802893309222423,0.0120094173496293,4424,1933,1430,1061,sarcasm,neutral
+It's just a temperature tantrum.  It'll blow over.,1.7630512514898689,0.0118737267829954,4195,1855,1479,861,sarcasm,negative
+I guess they weren’t kidding when they said the weather might turn nasty,1.7596731554914684,0.0116954073239367,4161,1804,1553,804,irony,negative
+He hates when someone steals his thunder.,1.7653287367643438,0.0120934819398475,4061,1794,1426,841,wit-surprise,negative
+"Don’t worry, it’s just a front.",1.7634722590921157,0.0125045379077792,3767,1660,1338,769,sarcasm,neutral
+Clouds used to look like animals… now they look like any Republican in office.,1.7442788717402873,0.0130521274660631,3758,1806,1107,845,irony,negative
+The forecast did say the weather would turn ugly.,1.7670660351072722,0.0124351727904441,3589,1511,1403,675,irony,negative
+What do I think? I think we should stop asking the universe for a sign.,1.7816059225512528,0.0131168032580319,3512,1528,1223,761,self-deprecating,neutral
+A bunny. Seriously. You see a bunny.,1.8003651856360317,0.0140571729691427,3286,1460,1022,804,incongruity-absurdity,positive
+The forecast did call for threatening skies.,1.7594816687737045,0.0132386193825153,3164,1349,1227,588,unknown,neutral
+"He was banned from Facebook and Twitter, so he's trying the Cloud.",1.7725376965030477,0.0143704055902851,3117,1438,950,729,sarcasm,negative
+I finally get a date with you and it turns out to be Judgment Day.,1.744970798182998,0.0140914771339037,3082,1436,996,650,irony,negative
+Don't ask me.  I really don't know clouds at all.,1.7452054794520548,0.0146383924015245,2920,1380,904,636,sarcasm,negative
+"Shakespeare in the Park, you said. An immersive production of The Tempest, you said.",1.7370266479663394,0.0142571539612622,2852,1300,1002,550,irony,neutral
+I'm getting the distinct impression that the climate wants US to change.,1.7304534094966084,0.0143876395739914,2801,1291,974,536,irony,neutral
+"Really Jennifer, everything reminds you of your ex.",1.7358490566037736,0.0146325340243599,2756,1273,938,545,sarcasm,negative
+It’s my fault.  I promised if he went away he could come again another day.,1.7278860569715142,0.0150441815450192,2668,1267,860,541,self-deprecating,negative
+I wonder what precipitated that.,1.7281405116456665,0.0149206154013214,2619,1216,899,504,wit-surprise,neutral
+Is it just me or is climate change starting to feel more personal?,1.7501945525291829,0.0149398027048319,2570,1138,936,496,irony,neutral
+He’s been mad ever since I stole his thunder,1.7224761113419194,0.0154736204665048,2407,1120,835,452,wit-surprise,negative
+He looks cirrius!,1.7533333333333334,0.0160543343559955,2400,1111,770,519,irony,positive
+"The weather’s not bad, it’s just misunderstood.",1.7180062864840593,0.0163111489705811,2227,1062,731,434,incongruity-absurdity,neutral
+Nimbus?! You can't be cirrus.,1.7166666666666666,0.0168915912180027,2160,1058,656,446,sarcasm,negative
+I see your father learned how to access the cloud.,1.7427502338634238,0.0169232140549192,2138,1000,688,450,sarcasm,neutral
+it's an affront coming in.,1.715186802523047,0.0172668236430681,2061,1010,628,423,sarcasm,negative
+Don't be fooled by the angry face. It's just a front.,1.7135161606268363,0.016765037442065,2042,962,703,377,sarcasm,negative

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Four wishes if you listen to a timeshare presentation.,1.640625,0.0162120050922607,2368,1315,589,464,exaggeration,neutral
+"All our genies are busy right now, but please continue to rub that lamp, your wishes are very important to us.",1.5972382048331415,0.0187211161076018,1738,1020,398,320,sarcasm,positive
+"Wish granted, kid, pending corporate approval.",1.587747287811104,0.0205637511484529,1567,975,263,329,sarcasm,neutral
+"Yes, I'm the genie, but the last guy wished to swap outfits.",1.5842318059299192,0.0211071626011071,1484,927,247,310,wit-surprise,neutral
+"Yeah, well, you don't look like Aladdin either",1.576219512195122,0.0211907680538349,1312,782,304,226,sarcasm,negative
+"Of course, certain terms and conditions apply.",1.5743348982785603,0.0197787368106286,1278,707,408,163,sarcasm,neutral
+Chose quickly. I bill by the hour.,1.5733652312599682,0.020875738266155,1254,724,341,189,sarcasm,neutral
+Yeah well you're not exactly Aladdin either,1.570345408593092,0.0214359565677075,1187,688,321,178,sarcasm,negative
+Your wish may be granted within three to five business days.,1.6012396694214877,0.0234349380628878,968,527,300,141,sarcasm,neutral
+The IRS has ruled wishes granted are taxable as ordinary income.,1.552492046659597,0.0233699323804391,943,548,269,126,wit-surprise,neutral
+"No wishes, but I’ve been trying to reach you about your car warranty.",1.548954895489549,0.0247861879193796,909,551,217,141,sarcasm,neutral
+"There are 3 rules: I cannot make someone love you, bring someone back from the dead, or pass meaningful legislation.",1.547806524184477,0.026352351233849,889,566,159,164,sarcasm,negative
+''You're not what I expected either.'',1.5360824742268042,0.0262052250316327,776,470,196,110,sarcasm,negative
+"You can take your 3 wishes all at onc, but I recommend you spread them over 20 years for tax reasons.",1.5328859060402684,0.0255361889508192,745,436,221,88,wit-surprise,neutral
+I told you not to rub me the wrong way.,1.5307797537619698,0.0266872921342182,731,442,190,99,sarcasm,neutral
+"You get 1.8 wishes, after taxes.",1.5294117647058822,0.0257625521620188,714,416,218,80,incongruity-absurdity,neutral
+I must advise you that your wish may have serious tax implications.,1.528169014084507,0.0259481831690457,710,416,213,81,sarcasm,negative
+"Still fired, Bob!",1.525399129172714,0.0285285951393335,689,434,148,107,sarcasm,negative
+Hi! I’m a senator -  I’ll promise you anything!,1.5233082706766918,0.0279880949370244,665,407,168,90,sarcasm,positive
+I will grant you three wishes but you need to watch a short timeshare presentation first.,1.5207373271889402,0.0292677198218165,651,412,139,100,exaggeration,neutral
+"Dear god, someone call my chiropractor.",1.5188087774294672,0.0278525027545708,638,385,175,78,sarcasm,negative
+"Don’t blame me, you’re the one who wanted to know how you’ll look in 50 years.",1.518867924528302,0.0288771008442,636,395,152,89,self-deprecating,neutral
+"I'm the genie's attorney. Before granting your wishes, we'll need to go over a few terms and conditions.",1.5162337662337662,0.0280389594984596,616,370,174,72,wit-surprise,neutral
+"It’s actually two wishes, after my fee.",1.5147540983606558,0.0280537401626723,610,366,174,70,sarcasm,neutral
+"I grant you one wish, in triplicate.",1.5147540983606558,0.0299113162047623,610,386,134,90,wit-surprise,neutral
+You were thinking the three wishes were tax free?,1.507067137809187,0.0297729891183782,566,350,145,71,irony,neutral
+I'm the Genie's lawyer. We're reviewing the three wish conditions.,1.50711743772242,0.0289627553407068,562,339,161,62,wit-surprise,neutral
+"I'll need your three wishes on my desk by Thursday, Jenkins.",1.5071428571428571,0.0297988951488768,560,345,146,69,wit-surprise,neutral
+"Next time, enunciate.  I heard ""audit"", not ""Audi"".",1.5045871559633028,0.0320338699067473,545,354,107,84,sarcasm,neutral
+"Three rules: I can’t raise the dead, I can’t make someone fall in love, and I can’t lower my hourly rate.",1.502803738317757,0.0299196652925026,535,327,147,61,sarcasm,negative

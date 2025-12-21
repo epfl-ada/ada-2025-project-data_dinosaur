@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Hey! My eyes are down here.,1.7919075144508672,0.0631084898685436,173,81,47,45,self-deprecating,neutral
+1587,"I don't mean to sing my praises, but ...",1.2307692307692308,0.0427960492510912,169,141,17,11,self-deprecating,neutral
+3,Good Samaritan? I was a GREAT Samaritan.,1.7615894039735098,0.0614099310097688,151,65,57,29,self-deprecating,positive
+4,My eyes are down here.,1.7364864864864864,0.0693795464391387,148,77,33,38,self-deprecating,neutral
+2,"Excuse me, Miss, my eyes are down here.",1.761904761904762,0.0664145825764405,147,69,44,34,sarcasm,neutral
+5,"Next time, wash it in cold water.",1.7152777777777777,0.0665961124650595,144,72,41,31,unknown,neutral
+1,"It autocorrected to ""hula"".",1.7622377622377623,0.0715367482394157,143,73,31,39,unknown,neutral
+7,It was autocorrected to 'hula.',1.6950354609929077,0.0739281822503138,141,82,20,39,irony,neutral
+6,"I was cleaning the kitchen, without being asked, and that's all I remember.",1.7058823529411764,0.0701054660355636,136,71,34,31,incongruity-absurdity,neutral
+8,It's only dangerous if it lasts longer than 4 hours.,1.6870229007633588,0.0677496422870509,131,66,40,25,unknown,negative
+9,"If it last longer than 4 hours, I'm supposed to contact my theologian right away.",1.6846153846153846,0.0664587832640773,130,64,43,23,self-deprecating,neutral
+23,Remember all those times you said I was wrong?,1.6171875,0.0711279810187879,128,75,27,26,self-deprecating,negative
+11,If it lasts more than 4 hours I'm supposed to call a doctor.,1.6614173228346456,0.068205407101808,127,66,38,23,self-deprecating,negative
+10,You didn't see the bonus questions at the end?,1.6666666666666667,0.073621017383231,123,68,28,27,wit-surprise,neutral
+13,"Pleased to meet you, obviously.",1.6528925619834711,0.0691454567383533,121,63,37,21,sarcasm,positive
+17,I let my mother-in-law move in with us.,1.641025641025641,0.0722889403856736,117,64,31,22,unknown,neutral
+12,Excuse me. My eyes are down here!,1.6581196581196582,0.0759674736522699,117,66,25,26,sarcasm,neutral
+15,"What I actually said before I died was "" I hope St Peter gives me a big hello!""",1.646551724137931,0.0673489317837924,116,58,41,17,exaggeration,positive
+20,I once won The New Yorker caption contest.,1.631578947368421,0.0739918611220311,114,64,28,22,unknown,positive
+14,Actually it's kind of embarrassing. I almost wish I hadn't cured cancer.,1.649122807017544,0.0777961222106372,114,66,22,26,self-deprecating,negative
+16,It's not funny. I've been dunked on twice today.,1.6454545454545455,0.0759552605643618,110,61,27,22,self-deprecating,negative
+18,I taught my mother how to use a computer.,1.6355140186915889,0.0755775077876129,107,59,28,20,incongruity-absurdity,neutral
+21,"Thanks, I've been working out.",1.6261682242990654,0.0683887212211412,107,54,39,14,self-deprecating,positive
+25,It's God's little joke with us atheists.,1.6037735849056605,0.0742488534197353,106,60,28,18,irony,neutral
+22,"Actually, I do think I'm too good for you.",1.6226415094339623,0.0727496540423711,106,57,32,17,self-deprecating,positive
+19,"If I hold my head just right, I can pick up basic cable.",1.6320754716981132,0.0700730868587015,106,54,37,15,incongruity-absurdity,positive
+24,"Still, I'd gladly give it up to have genitals again.",1.6057692307692308,0.0801630494315742,104,63,19,22,self-deprecating,positive
+26,It's a little cumbersome but I get great Wi-Fi.,1.6019417475728157,0.0708113027075269,103,55,34,14,incongruity-absurdity,positive
+28,My face is down here.,1.588235294117647,0.0804676454723549,102,63,18,21,self-deprecating,neutral
+29,It seems to happen when I'm spiritually aroused.,1.588235294117647,0.0715267959754266,102,56,32,14,self-deprecating,neutral

@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Maybe we should try thinking inside the box.,2.1549501337873997,0.0057549700595485,16444,3403,7091,5950,incongruity-absurdity,neutral
+"Look, it's right here - ""cheese sold separately""",2.044577553593947,0.0062201382577058,15860,4528,6097,5235,incongruity-absurdity,neutral
+Let's just go with the open floor plan.,1.9932017543859648,0.0065492158470657,13680,4069,5642,3969,incongruity-absurdity,neutral
+They’re not testing our intelligence. They’re testing our marriage.,1.9788395394048153,0.0069677106709171,13374,4498,4671,4205,incongruity-absurdity,neutral
+This is the last time I sign up for a research experiment sponsored by Ikea.,2.0363720073664826,0.0071306762541984,13032,4091,4377,4564,sarcasm,negative
+I think we can build a better one.,1.951219512195122,0.0070330806703314,12751,4357,4667,3727,wit-surprise,positive
+"If we move the cheese tray to the front, we'll save a lot of  running around later.",1.91253037139882,0.0071853120494131,11524,3979,4576,2969,incongruity-absurdity,neutral
+You're right; it's a trap.,2.022389429253074,0.0074811925973663,10898,3204,4246,3448,sarcasm,negative
+Well this is just great honey.  The directions are written in gerbil.,1.8389660124461464,0.0078435112273965,10445,4332,3463,2650,sarcasm,positive
+Now that we ate the cheese I kinda don't see the point.,1.906963079032416,0.0078848712056894,10211,3775,3617,2819,incongruity-absurdity,negative
+I dunno. This feels like a trap.,1.7816640169581346,0.0076567176446503,9435,3867,3763,1805,sarcasm,negative
+Let's just go to live in the box it came in.,1.814103288507176,0.0083056852910677,8849,3676,3142,2031,incongruity-absurdity,neutral
+"Well wouldn’t you know it?
+“Cheese not included.”",1.7384726224783862,0.0080450883087809,8328,3623,3263,1442,sarcasm,neutral
+We're in the control group.  The experimental group doesn't get the instructions,1.8234844625573103,0.0085108922526494,7852,3048,3142,1662,irony,negative
+I'm lost already.,1.7293405114401077,0.0087837330795258,7430,3407,2627,1396,irony,negative
+To heck with this. Let’s go poop in their sock drawer again.,1.7954121863799284,0.0096832131316264,6975,3140,2122,1713,sarcasm,negative
+Remind me again how this will prevent us from getting Alzheimer’s.,1.8895474916871475,0.0097392924730741,6917,2693,2295,1929,self-deprecating,negative
+Who writes these instructions...cats?,1.8892419428052656,0.010036225036622,6609,2606,2129,1874,unknown,negative
+Those Swedish mice think they are so clever,1.769302760879738,0.0095294361869442,6411,2776,2338,1297,irony,negative
+"""Let's get Mexico to build it.",1.7424885118416402,0.0106697206284392,5658,2738,1639,1281,sarcasm,neutral
+"Its mostly hallways and dead ends, but its affordable.",1.7691744462749406,0.009951351698837,5463,2306,2133,1024,incongruity-absurdity,neutral
+These are the best laid plans I’ve ever seen!,1.7356608478802993,0.0108994165292155,5213,2485,1621,1107,wit-surprise,positive
+"The last time you made one of these without reading the instructions, it took us a week to get out!",1.6923076923076923,0.0102330487185198,5148,2425,1883,840,unknown,negative
+"Once we finish this, then we’ll teach him to give us food when we press the lever.",1.7225664601239257,0.0106734689574191,5003,2312,1767,924,incongruity-absurdity,neutral
+Why are we always doing this on Christmas Eve?,1.7200752036766245,0.0110291664771785,4787,2251,1625,911,irony,negative
+Forget the instructions. Let's build a maze we can get out of.,1.6996630160067396,0.0108180586283295,4748,2246,1682,820,wit-surprise,neutral
+What we need are some carpenter ants.,1.7104638619201726,0.0113428537494235,4635,2250,1479,906,wit-surprise,neutral
+This confirms we're females - we're reading the instructions,1.7357190486774838,0.01159093601275,4499,2111,1466,922,irony,neutral
+"Based on prior experiments, if we put a piece of cheese in the far corner, the humans will put the maze together for us.",1.6802231001626773,0.0115137090725135,4303,2137,1406,760,wit-surprise,neutral
+Told you. Cheese not included.,1.7333834963631802,0.0116030770287065,3987,1743,1564,680,sarcasm,neutral

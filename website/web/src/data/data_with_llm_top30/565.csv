@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2,""" I can only make out : ' ... is required IMMEDIATELY ' .",1.8348765432098768,0.0331716479860602,648,293,169,186,exaggeration,neutral
+1,"No, I recommended exorcism, not exercise.",1.836092715231788,0.035336236774147,604,285,133,186,wit-surprise,negative
+3,"From the ashes, your bill will magically appear.",1.8326086956521737,0.0414128884018023,460,226,85,149,incongruity-absurdity,neutral
+0,"Wow, you are literally a hot mess.",1.8411910669975189,0.0449845025889919,403,201,65,137,sarcasm,negative
+4,The good news is this disease will be named after you.,1.6754966887417218,0.0452586478077868,302,158,84,60,exaggeration,positive
+6,Let's handle the burning questions first.,1.6723549488054608,0.0449083714858073,293,150,89,54,incongruity-absurdity,neutral
+5,"As you can see, we take patient confidentiality very seriously.",1.6738351254480286,0.0458874423273412,279,142,86,51,incongruity-absurdity,positive
+7,I'm going to refer you an exorcist in your network.,1.657992565055762,0.0480628628316085,269,145,71,53,sarcasm,neutral
+8,Your wife said it's best if you don't know who the father is.,1.6561264822134387,0.0518015676253245,253,144,52,57,irony,neutral
+11,"So the labs all come back normal, but I’d still like to get you to an exorcist.",1.6443514644351465,0.0521621863327278,239,135,54,50,sarcasm,neutral
+13,Any family history of spontaneous combustion?,1.641350210970464,0.0511812073176031,237,131,60,46,sarcasm,neutral
+12,We finally got a reply from your insurance.,1.641350210970464,0.0511812073176031,237,131,60,46,sarcasm,positive
+10,The tests do confirm you are a flaming asshole.,1.646808510638298,0.0528657053659238,235,133,52,50,sarcasm,negative
+16,I recommend plenty of liquids.,1.6157635467980296,0.05410288165073,203,114,53,36,incongruity-absurdity,neutral
+17,"We still don't know what you have, but we're pretty sure it's biblical.",1.615,0.0533677391116529,200,110,57,33,sarcasm,neutral
+14,"Damn it Jim, I’m a doctor, not an exorcist!",1.616161616161616,0.0487836678614889,198,99,76,23,sarcasm,negative
+15,I think there's a good chance this'll be named for you.,1.616161616161616,0.0574698284590034,198,117,40,41,irony,positive
+9,"Actually, this time, it is as bad as it looks.",1.654450261780105,0.0568275170378187,191,103,51,37,exaggeration,negative
+18,"Honestly, I wouldn't even bother putting your pants back on.",1.5988700564971752,0.0584752586002385,177,103,42,32,sarcasm,negative
+19,We found a match,1.5932203389830508,0.0590738811464512,177,105,39,33,irony,positive
+20,"In this case, the best treatment is diet and exorcism.",1.591954022988506,0.0528343341687782,174,92,61,21,wit-surprise,positive
+21,Nothing that bed rest and an exorcism won't fix.,1.591954022988506,0.0540772447815963,174,94,57,23,sarcasm,negative
+22,"Well, it's definitely not a cold.",1.588235294117647,0.0550848064924278,170,93,54,23,self-deprecating,neutral
+23,Looks like it's just general inflammation.,1.5857988165680474,0.0566156922993172,169,95,49,25,self-deprecating,negative
+25,Your test results are a bit alarming.,1.5828220858895703,0.0595470996094368,163,95,41,27,irony,negative
+26,I'm sure this is just a temporary flare-up.,1.58125,0.0584602449177991,160,91,45,24,self-deprecating,neutral
+28,I can't help you. I'm referring you to an exorcist.,1.578616352201258,0.0530749011459925,159,83,60,16,wit-surprise,negative
+30,Have you tried exorcising?,1.578616352201258,0.0607673562577554,159,94,38,27,wit-surprise,neutral
+29,"Sorry, Jim. Unfortunately, what happened in Vegas didn't stay in Vegas.",1.578616352201258,0.0601087355602907,159,93,40,26,sarcasm,negative
+27,It's pretty clear that you haven't been taking your anti inflammatory drugs.,1.578616352201258,0.0567009930350159,159,88,50,21,sarcasm,negative

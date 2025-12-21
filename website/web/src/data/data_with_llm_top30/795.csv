@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"If you can't eat with the one you love, eat the one you're with.",1.752203475195165,0.0128229040913589,3971,1910,1135,926,unknown,positive
+"Shall I serve your husband first, madame?",1.746058091286307,0.0131375269589177,3615,1706,1123,786,sarcasm,neutral
+I believe you are familiar with the special.,1.7283531409168085,0.012804925677806,3534,1634,1226,674,sarcasm,neutral
+"Revenge is served cold, madame. Post-coital decapitation is served with potatoes.",1.69472710453284,0.0139082339950055,3243,1663,907,673,wit-surprise,negative
+You mate it. We plate it.,1.790805307004011,0.0144287778542586,3241,1503,913,825,irony,neutral
+I believe you're familiar with tonight’s entrée.,1.7863381160324392,0.0134855055358204,3206,1350,1191,665,incongruity-absurdity,neutral
+Can I get you anyone else?,1.6988795518207285,0.0141779076561291,2856,1379,958,519,sarcasm,neutral
+Lovingly prepared by our head chef.,1.6938775510204085,0.0143285366779536,2842,1397,918,527,incongruity-absurdity,positive
+Well someone got lucky last night.”,1.768562115175661,0.0152108017761924,2761,1275,850,636,sarcasm,positive
+I assume your husband will not be joining you.,1.7347097779509155,0.0156356944106727,2567,1236,776,555,sarcasm,neutral
+Perfect! It's exactly what I was praying for.,1.7565922920892494,0.0159540027755061,2465,1146,773,546,sarcasm,positive
+From our head chef.,1.681129758493655,0.0152014349946006,2443,1203,816,424,irony,neutral
+My compliments to the head chef.,1.6817231283981595,0.0157346632201891,2391,1209,734,448,sarcasm,positive
+"Yes madame, I am the head waiter.",1.7185654008438818,0.0157868722487993,2370,1127,783,460,sarcasm,neutral
+"Can I get you anyone else, madam?",1.6774468085106382,0.0154490096304822,2350,1160,788,402,sarcasm,neutral
+He would've wanted a nice service like this.,1.6882556131260795,0.0157436248980094,2316,1138,762,416,irony,positive
+"Of course, I miss him, but a woman has to eat.",1.7172751558325914,0.0162255438982986,2246,1071,739,436,self-deprecating,neutral
+The perfect choice for the femme fatale.,1.6584711667411711,0.0171610197612642,2237,1249,503,485,incongruity-absurdity,positive
+I pray your latest husband will be to your taste.,1.675475197032916,0.0160423231813526,2157,1062,733,362,sarcasm,positive
+Will there be anyone else?,1.6724870221802737,0.0161784211287113,2119,1048,717,354,sarcasm,neutral
+Shall I pack the rest of your date in a to-go box?,1.7017461066540822,0.0165379974368182,2119,1024,703,392,sarcasm,neutral
+Your husband is ready for dinner.,1.761904761904762,0.0171239668229737,2058,924,700,434,unknown,neutral
+"I must admit, this is quite the courtship display.",1.6517509727626458,0.0182203939180047,2056,1184,404,468,irony,positive
+"The better half of your better half, Madame.",1.6748768472906403,0.0168354327364189,2030,1021,648,361,sarcasm,positive
+"From the makers of “A Bug’s Life” comes the sequel “Eat Prey, Love”",1.726231956197113,0.0177530914686591,2009,986,587,436,unknown,neutral
+"Clearly, madam ... you have good taste in men.",1.7487411883182276,0.0172982244169327,1986,902,681,403,sarcasm,positive
+I take it the Honeymoon is over?,1.767109295199183,0.017472473611985,1958,866,682,410,sarcasm,neutral
+It’s our honeymoon special.,1.7195247933884297,0.0174039465919712,1936,915,649,372,sarcasm,positive
+"And for Madame, Croak Monsieur.",1.6485507246376812,0.0181159420289855,1932,1071,469,392,incongruity-absurdity,neutral
+"Blind date went well, I see.",1.704152249134948,0.0184708485348205,1734,845,557,332,sarcasm,positive

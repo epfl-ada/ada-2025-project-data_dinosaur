@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Lunch is on me.,2.518293650793651,0.00408517959673,25200,2183,7784,15232,self-deprecating,neutral
+Dinner's on ME.,2.2584904690952063,0.0053368205619324,19463,3538,7356,8565,self-deprecating,neutral
+He’s telling his friends it’s not deep. So be patient.,2.1644958746302736,0.0056246967932086,19271,4575,6960,7735,sarcasm,neutral
+A back massage and then dinner. What's not to like?,2.040395233943621,0.0059955252216674,17205,5019,6483,5701,sarcasm,positive
+"I didn't know what you were serving, so I brought white.",2.097511937672782,0.0063800337672113,15916,4490,5398,6028,incongruity-absurdity,neutral
+I brought dinner.,2.01237938039614,0.0060613641993649,15752,4484,6597,4670,incongruity-absurdity,neutral
+It’s like a good wine. You let it breathe before consuming it.,2.021742057081314,0.0064653997189834,14856,4462,5612,4782,wit-surprise,positive
+Dinner’s on me tonight.,2.1746886805652723,0.0063162832237645,14294,3045,5707,5542,unknown,neutral
+"I’m letting him sunburn a bit more, I prefer extra crispy.",1.9802217984036168,0.0065429580691632,14157,4455,5536,4166,sarcasm,neutral
+"Fresh? Sir, I assure you these were walking on land this morning.",2.065412445730825,0.0067474417716427,13820,3925,5066,4829,sarcasm,neutral
+Eat a guy and you'll be full. Use him as bait and we'll all be full.,1.9482954115957367,0.006941371262328,13229,4583,4750,3896,sarcasm,neutral
+It's carryout.,1.9885259695555728,0.0067829024699129,13073,4007,5209,3857,incongruity-absurdity,neutral
+Once I gave him a name I didn’t have the heart to eat him.,1.9516243775195636,0.0069316778390498,12651,4178,4912,3561,incongruity-absurdity,negative
+Off Coney Island. There's thousands of them.,1.9805385454240416,0.0071189600665864,11921,3719,4715,3487,incongruity-absurdity,neutral
+Lucky for him this is the last thing on his bucket list.,1.923888085721575,0.0072934979919576,11759,4194,4277,3285,exaggeration,positive
+I was told we had to bring our own lunch.,1.82840931324594,0.0073381466528091,10222,3867,4251,2103,incongruity-absurdity,neutral
+"He has a name, Dad. It's Greg. And I love him.",1.894987121062017,0.0081268707998316,10094,3975,3214,2905,sarcasm,positive
+"If you liked our food delivery service, please give me 5 stars.",1.8495557552161328,0.0078077824365319,10017,3975,3593,2448,sarcasm,positive
+You want the other half?,1.895537423189282,0.0077972531717462,9927,3568,3828,2531,sarcasm,neutral
+"I used to feel sorry for them, but this one is wearing a MAGA hat.",1.9345803842264917,0.0085062911877882,9890,3883,2771,3236,sarcasm,negative
+He' s my emotional support animal.,1.8518176216882316,0.0080844286764895,9738,3957,3278,2501,self-deprecating,positive
+"I swear, it is like the universe does not want me to stay vegan.",1.9322836266337349,0.0080509305306201,9717,3411,3553,2753,self-deprecating,negative
+And I suppose you've never played with your food.,1.8616720728262008,0.0077773760880609,9557,3520,3838,2197,sarcasm,neutral
+Professional courtesy....he’s a lawyer.,1.8036984352773824,0.0083823160350566,9139,4016,2903,2218,sarcasm,neutral
+"Last time I ate one this stupid, I was sick for a week.",1.7801284891448823,0.0082431182872877,9028,3997,3026,2004,irony,negative
+I'm letting him take one last selfie.,1.800770189149394,0.0081778359586904,8829,3671,3250,1908,self-deprecating,neutral
+He’s paying an arm and a leg for the ride.,1.8536953242835597,0.0088488143623043,7956,3145,2830,1981,incongruity-absurdity,neutral
+"Soon, he won't have a leg to stand on.",1.7193387158785085,0.0087211391776567,7803,3730,2538,1535,incongruity-absurdity,negative
+"When I get hungry, or he realizes I'm not a dolphin, whichever comes first!",1.8941635287789136,0.0090155491298468,7436,2682,2859,1895,sarcasm,neutral
+I got us a politician. There is no backbone !,1.9447415329768272,0.010155625225204,6732,2533,2038,2161,sarcasm,negative

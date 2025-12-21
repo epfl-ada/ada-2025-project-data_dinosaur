@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Yes, I see the train but I think we can beat it.",2.081543502002184,0.0155148130697725,2747,805,913,1029,wit-surprise,positive
+4,"You can knock off the heavy breathing back there, Gwendolyn. I know you're not pedaling.",1.99092970521542,0.0162152821435274,2205,649,927,629,sarcasm,neutral
+1,"Well technically, you ran the red light.",2.0571578395385424,0.0173232653203021,1907,494,810,603,sarcasm,neutral
+5,This would be a lot easier if you dropped the restraining order.,1.9494736842105265,0.0184720931111903,1900,666,664,570,sarcasm,neutral
+12,Got any ideas for the upcoming traffic circle?,1.8792912513842743,0.0177382033923482,1806,635,754,417,sarcasm,neutral
+2,I'll order. You pick up.,2.048738532110092,0.0180908280283755,1744,457,745,542,sarcasm,neutral
+3,We finished in first and third place.,2.0201380897583427,0.0179278057855921,1738,468,767,503,unknown,neutral
+9,Your profile said you enjoy long bike rides.,1.9099526066350712,0.0191134114036976,1688,603,634,451,unknown,positive
+10,I'm beginning to think you're running those yellow lights intentially.,1.889296636085627,0.0191033306988066,1635,588,640,407,sarcasm,neutral
+15,"When you say ""turn here,"" is that your ""here"" or my ""here""?",1.87085635359116,0.0193295066577083,1448,497,641,310,incongruity-absurdity,neutral
+21,"If I remove beans from my diet, can we ride our old bike?",1.7699248120300752,0.0216120388796367,1330,601,434,295,unknown,neutral
+8,"Yes, dear, I'll call you as soon as I get there.",1.921518987341772,0.0222036441717295,1185,396,486,303,sarcasm,neutral
+30,I thought you said you enjoyed long bike rides.,1.7055793991416308,0.0215885664650486,1165,538,432,195,sarcasm,neutral
+7,"""I told you it was a long bike ride."" - Arman Roberts, age 6",1.9375,0.0238287655237488,1120,393,404,323,unknown,neutral
+22,"I'm going into a tunnel, I might lose you.",1.761996161228407,0.0234987705810673,1042,453,384,205,incongruity-absurdity,negative
+17,Pothole in 10 seconds.,1.8490384615384616,0.0222573670667556,1040,358,481,201,incongruity-absurdity,negative
+13,We are not doing a wheelie. Don't call me again.,1.87374749498998,0.0256000991710208,998,397,330,271,sarcasm,negative
+25,A trial separation was your idea.,1.7426160337552743,0.0241870277412885,948,416,360,172,sarcasm,neutral
+6,"I'll place the order, you pick up",1.9379679144385027,0.0248298527918254,935,300,393,242,sarcasm,neutral
+24,Where were you when I called a few minutes ago?,1.7467532467532467,0.0250867989826892,924,415,328,181,sarcasm,neutral
+28,Thanks for calling. I wasn’t sure you made it through that last intersection.,1.7293478260869566,0.024598964627908,920,414,341,165,sarcasm,neutral
+34,"Remember, no more yellow lights.",1.6757940854326396,0.0242594395758378,913,441,327,145,sarcasm,neutral
+11,"You can do whatever you want, but I'm taking the next right.",1.8832951945080088,0.0263083521210485,874,321,334,219,sarcasm,neutral
+33,"When I arrive, I'll tell them you're coming.",1.682367149758454,0.0241529463951215,828,373,345,110,sarcasm,neutral
+27,I'm way ahead of you on that.,1.7363966142684402,0.0257384891609359,827,364,317,146,self-deprecating,neutral
+37,Pull up your shorts.,1.6625463535228675,0.027791504519057,809,435,212,162,incongruity-absurdity,neutral
+32,I think I can make the light.,1.689171974522293,0.0268643208669395,785,382,265,138,incongruity-absurdity,positive
+26,"I said, ""I THINK EXERCISE IS BRINGING US CLOSER TOGETHER.""",1.737579617834395,0.0265535556724775,785,347,297,141,unknown,positive
+16,What do you mean--a metaphor for our relationship?,1.861892583120205,0.0280076790364072,782,301,288,193,sarcasm,neutral
+31,"No, we're not there yet!",1.6908602150537635,0.027197346767267,744,355,264,125,sarcasm,neutral

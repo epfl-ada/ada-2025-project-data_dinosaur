@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Barring any unforeseen complications...,2.0111283895422294,0.0054585337857802,20578,6419,7604,6555,unknown,neutral
+Tell me about a time you identified a problem that others didn't see coming.,2.2088646332755277,0.0055785138846273,19606,4384,6758,8464,wit-surprise,neutral
+So...we had a bad 1st quarter. It’s not the end of the world.,2.2582449597948955,0.0055437550644858,17162,2882,6966,7314,irony,negative
+It was at that precise moment that George realized he could tell his boss exactly where to shove that performance review.,2.1494956562299574,0.0063251216376707,17151,4809,4980,7362,unknown,neutral
+Just one last question:  Where do you see yourself in 5 years?,2.066055841020244,0.0061886757552497,16153,4528,6046,5579,sarcasm,neutral
+"Well, I see no reason why you can’t start work on Monday.",2.081892826274849,0.0064383024945331,13884,3473,5801,4610,sarcasm,neutral
+"Yes, your policy covers acts of God. Why?",2.1435976054898527,0.0065137344798607,13698,3138,5455,5105,irony,neutral
+I guess we’re done here.,2.063346732172101,0.0068889253859267,13434,3909,4780,4745,sarcasm,negative
+We rule the earth. What could go wrong?,1.985515643105446,0.0071626800351878,12082,3840,4581,3661,exaggeration,positive
+It's actually a painting but it gives me an edge during negotiation.,2.0131545873481356,0.0074460345289715,11935,3911,3978,4046,incongruity-absurdity,positive
+Well from where I'm sitting I don't see the problem.,1.9816081741448248,0.0073690409586624,11255,3568,4340,3347,sarcasm,neutral
+"Interesting, you are the first to opt for the mass extinction coverage.",2.0110197814108934,0.0075465727064335,11071,3442,4071,3558,irony,neutral
+So give me an example of a time when you had to deliver bad news to your boss,1.9758946089881344,0.0075975573629236,10703,3456,4060,3187,sarcasm,negative
+Cutting the asteroid response team has really saved us.,1.9817817626859977,0.0079370147326437,10484,3559,3557,3368,sarcasm,neutral
+I don’t know about you but I can’t wait for this day to end.,2.009036144578314,0.007684326394199,10292,3081,4037,3174,sarcasm,positive
+"Don’t worry about it, Bob. This asteroid nonsense is just a liberal conspiracy to interfere with my reelection.",1.9719768504416693,0.0083101926861714,9849,3491,3143,3215,sarcasm,negative
+It feels like the worst is behind us,1.9441013628620103,0.0081855155179459,9392,3245,3433,2714,exaggeration,negative
+"...you’ll find something else, it’s not the end of the world.",1.8581810173970492,0.0081188703243098,9082,3471,3437,2174,self-deprecating,neutral
+"I tell you, your insurance is airtight.  You have more of a chance of getting hit by a meteor.",1.9740627477630537,0.0083781635277806,8829,2853,3352,2624,sarcasm,neutral
+"For someone who's just been fired, you seem rather smug.",1.9699478339759584,0.0084967619890952,8818,2957,3179,2682,sarcasm,negative
+"Lump sum, not an annuity? Are you sure?",1.8955588091752071,0.0084427397082623,8196,3017,3081,2098,sarcasm,neutral
+"Well, I see our time is up...",1.949404761904762,0.0088802091599613,8064,2796,2890,2378,sarcasm,negative
+"We're letting you go, but it's not the end of the world.",1.817197286012526,0.0086947902675759,7664,3072,2936,1656,sarcasm,neutral
+"And at that moment, Bob realized his final breath on Earth would be wasted on a meeting that should have been an email.",1.9050683829444892,0.0094274176832958,7458,2878,2423,2157,unknown,negative
+"Yes, we know it's coming, but I have it on good authority that it's no worse than the seasonal flu.",1.8613931190073325,0.0094655403762485,7092,2839,2415,1838,exaggeration,negative
+Don't worry. By July everything will be back to normal.,1.897831939917812,0.0093823812726159,7057,2589,2600,1868,exaggeration,positive
+"Yes, extinction is covered, but not dental.",1.9863857838922327,0.0094673390293608,6978,2230,2613,2135,unknown,neutral
+"Really, we're too big to fail.",1.858348134991119,0.0095192628981289,6756,2614,2485,1657,irony,positive
+Get real. Doomed to repeat the past ?,1.7630662020905925,0.010429646475341,6027,2888,1693,1446,sarcasm,negative
+"Listen Finster, after 70,000,000 years Corporate knows how to manage risk.",1.8391259463179628,0.0102590246790508,5812,2320,2107,1385,sarcasm,neutral

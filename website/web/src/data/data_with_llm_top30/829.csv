@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You used to look at me like that.,1.796739984289081,0.0112391922272272,5092,2278,1580,1234,sarcasm,neutral
+Don't judge me.  I was young and needed the money.,1.7990442054958184,0.0123945927668623,4185,1850,1326,1009,irony,neutral
+I used to be able to do that.,1.7524492234169653,0.0115960272464743,4185,1829,1567,789,self-deprecating,neutral
+You used to look at me that way.,1.7669342699448067,0.0126913659658004,3986,1852,1211,923,sarcasm,neutral
+I haven't bent that way since high school.,1.732488325550367,0.013728646620631,2998,1355,1090,553,incongruity-absurdity,neutral
+"I don't know who he is, but his signs are everywhere.",1.7577302072714918,0.0144355485727392,2943,1345,966,632,incongruity-absurdity,neutral
+Nice of them to put a memorial for Stanley.,1.7422328439740526,0.0143920753486047,2929,1363,958,608,irony,positive
+"Nice curves, but they’re not natural.",1.6952149791955615,0.0138420606316702,2884,1370,1023,491,sarcasm,neutral
+I dated her before she got famous.,1.7420733879586747,0.0145752771599142,2807,1300,937,570,sarcasm,neutral
+I'd kill for those curves,1.730928222472755,0.0144958119365332,2661,1198,981,482,unknown,positive
+I'm so tired of billboards promoting this unattainable body image.,1.7428133384438482,0.0154701104439808,2609,1236,808,565,irony,negative
+It looks photoshopped.,1.7206726825266612,0.0156262899987367,2438,1161,797,480,irony,negative
+I was young and needed the money.,1.8563512361466328,0.0168101875425494,2346,970,743,633,self-deprecating,neutral
+It's a trick.  Remember what happened to the deer?,1.8145580589254768,0.0167654666823096,2308,1002,732,574,incongruity-absurdity,negative
+I hope when my time comes I get that kind of tribute.,1.7159041394335512,0.0161123759789293,2295,1102,743,450,irony,positive
+You still getting royalties?,1.757992895204263,0.0163015524355039,2252,1012,773,467,sarcasm,neutral
+I think they got the head wrong.,1.6987209853150165,0.016388923048287,2111,1012,723,376,irony,negative
+"I don't know what they're advertising, but that is sexy as hell.",1.7381066794810187,0.0172786023972273,2081,990,646,445,irony,positive
+"Eyes here,Marvin.",1.7568093385214008,0.0172443688076434,2056,939,678,439,sarcasm,neutral
+This could be the sign we've been waiting for.,1.7345348270823189,0.0168797354658817,2053,945,708,400,irony,positive
+Do you think it’s a sign?,1.703779366700715,0.0173555059769118,1958,953,632,373,irony,neutral
+I like when art imitates life.,1.7215384615384617,0.0171036660439994,1950,903,687,360,incongruity-absurdity,positive
+Mom would have liked it.  A nice simple headstone.,1.678589942975635,0.0174673020128398,1929,977,595,357,incongruity-absurdity,positive
+She’s definitely had work done.,1.8187012987012987,0.0178321771346957,1925,795,684,446,sarcasm,neutral
+New Year’s Eve 1999. Your grandpa with the lampshade on his head.,1.7014925373134329,0.0182600329902022,1876,950,536,390,irony,neutral
+You adopted a highway?,1.801752464403067,0.0189146801556992,1826,813,562,451,sarcasm,neutral
+"I think that means Snake Crossing, so we’re good to go.",1.6988826815642455,0.0178006829994921,1790,858,613,319,irony,positive
+Seems pretty straightforward.”,1.6598523566155594,0.0178836404729567,1761,897,566,298,wit-surprise,positive
+Poor guy - he could never resist warm asphalt.,1.6576470588235297,0.018200286262905,1700,869,544,287,incongruity-absurdity,negative
+"Here they go again, only showing the Male  Snake Symbol.",1.6751207729468598,0.0192274475288749,1656,863,468,325,irony,negative

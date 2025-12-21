@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3,So Vito tells me you're leaving the organization.,1.7944832944832945,0.0154078134037144,2574,1105,893,576,sarcasm,neutral
+4,How was your flight in on United?,1.7630757220921156,0.0159212141585978,2562,1207,755,600,sarcasm,neutral
+0,Our timeshare presentation will begin in about 5 minutes.,1.8491287717807052,0.0164711708441411,2353,955,798,600,incongruity-absurdity,neutral
+6,So when are you two taking the plunge?,1.736332849540397,0.0169389337125249,2067,957,698,412,sarcasm,neutral
+12,I know this isn't the kind of farewell party you were expecting.,1.6916802610114192,0.0170116473979486,1839,860,686,293,exaggeration,negative
+2,"Grammatically, indeed it IS sleep with the fish, not 'fishes'.",1.7952488687782806,0.0195652054514357,1768,816,498,454,wit-surprise,neutral
+9,"when you said you were tied up, I assumed you wouldn't be coming.",1.7113752122241086,0.0182277957864793,1767,847,583,337,sarcasm,negative
+10,Your first time in New Jersey?,1.69921875,0.0195054457661835,1536,749,500,287,irony,neutral
+14,"I didn't want to come, either.",1.667107875579087,0.0203574207109471,1511,808,398,305,sarcasm,negative
+7,"Well, we did tell you it was your going away party!",1.732824427480916,0.0202885324556495,1441,671,484,286,sarcasm,neutral
+1,If you get a choice the East River is nice.,1.7964601769911503,0.0209161007128377,1356,568,496,292,irony,positive
+5,Bob tells me you're reconsidering our offer.,1.7382602001539649,0.0207362212392518,1299,577,485,237,sarcasm,neutral
+16,I've arranged for you to be dropped off on your way home.,1.6559055118110235,0.0204597527693044,1270,631,445,194,sarcasm,neutral
+11,"On behalf of the airline, I offer our sincerest apologies for the inconvenience, and invite you to enjoy our hospitality suite while you await your re-accommodation.",1.6954436450839327,0.0221752921863597,1251,633,366,252,sarcasm,neutral
+18,"Yes, we're drunk and will probably regret this in the morning.",1.6546938775510205,0.0229092471921744,1225,678,292,255,sarcasm,negative
+21,"I was on that diet once, too.",1.645408163265306,0.0233150560730302,1176,658,277,241,incongruity-absurdity,neutral
+20,The condo board was unanimous,1.6462063086104006,0.021847272849756,1173,609,370,194,unknown,neutral
+15,"Ah, you're reporters from the N. Y. Times. Welcome to the White House. Feel free to wander around and ask the administration staff anything you'd like.",1.6585998271391529,0.0240272672237271,1157,651,250,256,sarcasm,positive
+22,"Unfortunately, ' Let me go' does not qualify as a final request.",1.6421612046058458,0.0238010720687166,1129,635,263,231,sarcasm,negative
+25,"But enough about me, what have you two been up to?",1.6337033299697274,0.0233308281595352,991,515,324,152,sarcasm,neutral
+19,"So, how do you two know the Corleones?",1.6498455200823894,0.0240536972778062,971,502,307,162,sarcasm,neutral
+13,It's so nice to see couples that still do things together.,1.6752843846949328,0.0231366388547209,967,458,365,144,sarcasm,positive
+27,You'll want the white wine. It goes better with fish.,1.631057268722467,0.0252580719528354,908,492,259,157,incongruity-absurdity,positive
+23,"Here, this should help loosen you up a bit.",1.64079822616408,0.0230987405000891,902,437,352,113,unknown,positive
+28,"At first glance, the condo board rules may seem harsh.",1.6278026905829597,0.0245351177628249,892,467,290,135,irony,neutral
+24,Typical. His bucket is 78% larger than yours.,1.6355455568053994,0.0256137177429374,889,480,253,156,irony,negative
+31,Try not to think about it.,1.6214689265536724,0.0278819161014538,885,535,150,200,sarcasm,neutral
+29,"So I said to President Trump, lets invite a few TV reporters.",1.624,0.0258062790912623,875,481,242,152,sarcasm,neutral
+32,You must be the hostages.,1.6194895591647331,0.0241593526749056,862,443,304,115,sarcasm,neutral
+30,You must be the Snitches!,1.6232057416267942,0.0255111290830435,836,444,263,129,unknown,negative

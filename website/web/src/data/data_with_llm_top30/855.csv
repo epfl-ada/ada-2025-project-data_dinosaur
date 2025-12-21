@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Let’s Uber to bed.,1.52549231184246,0.012984859191919,3707,2455,556,696,sarcasm,neutral
+It's a broken line.  Feel free to make a pass.,1.5476371951219512,0.0150552354235808,2624,1642,527,455,incongruity-absurdity,neutral
+This is easier than telling your mom we're separated.,1.5063001145475372,0.0147050387016975,2619,1707,498,414,sarcasm,neutral
+"Marriage is a journey, Frank, not a destination.",1.5677622692480864,0.016068386426499,2221,1324,533,364,wit-surprise,neutral
+You think we took Adopt-a-Highway too far?,1.6002155172413792,0.0173414229347196,1856,1037,524,295,irony,negative
+I'm thinking about having the living room re-paved.,1.582792207792208,0.0172811868810127,1848,1056,507,285,wit-surprise,neutral
+The rest areas were a stroke of genius…,1.6226525821596245,0.0185296512519003,1704,941,465,298,incongruity-absurdity,positive
+I can't get a dog but you adopt a highway.,1.7253731343283585,0.0198396866854789,1675,845,445,385,incongruity-absurdity,negative
+Did you have to tell them “My way or the highway”?,1.5901038485033598,0.0185742172575184,1637,935,438,264,sarcasm,neutral
+the carpet cleaners are just going to do the high traffic areas,1.565406075635462,0.0181054445817697,1613,929,456,228,exaggeration,neutral
+"When the listing said ""close to the highway,"" I never imagined",1.5939243645381278,0.0186976543244706,1613,915,438,260,irony,neutral
+Signal your intentions.,1.4758757435558494,0.0185285590658787,1513,997,312,204,irony,neutral
+Didn't I tell you adopting a highway would be easier than a kid?,1.5815036593479708,0.018822051534568,1503,846,440,217,sarcasm,neutral
+"I wonder if we haven't interpreted this ""Marriage is a two way street"" too literally",1.6323099415204678,0.0205801963645416,1368,740,391,237,irony,neutral
+"Wanna try the fast lane tonight, big boy?",1.5690814040328604,0.0202734070618286,1339,781,354,204,sarcasm,neutral
+This is not what I expected when they asked me to adopt a highway,1.4677177177177176,0.0197224662427212,1332,888,265,179,unknown,negative
+I still think we need a bike lane.,1.5489296636085628,0.0200298991851129,1308,771,356,181,sarcasm,neutral
+"I believe your exact words were ""it's my way or the highway!""",1.4657853810264383,0.0200149800294672,1286,858,257,171,irony,neutral
+I’m glad we bundled home and auto!,1.654733492442323,0.0223147203414154,1257,685,321,251,irony,positive
+They told us that this carpet will stand up well to heavy traffic.”,1.5928045789043337,0.02093840717782,1223,678,365,180,wit-surprise,positive
+It was your idea to adopt a highway.,1.4619205298013245,0.0206250829869746,1208,810,238,160,sarcasm,neutral
+I just feel like we're heading in different directions.,1.6033195020746889,0.021172837592136,1205,659,365,181,sarcasm,neutral
+I don’t want to push you into something you’re not ready for—like traffic.,1.4733727810650887,0.0202414938928964,1183,762,282,139,sarcasm,negative
+Feel like jaywalking?,1.620903454384411,0.0225528315727003,1129,619,319,191,irony,neutral
+It's so cozy and quiet after rush hour.,1.5349867139061115,0.0205320469443406,1129,653,348,128,irony,positive
+"You know, the Joneses have a bike lane.",1.451241134751773,0.0208627231214178,1128,756,235,137,unknown,neutral
+You’re the one who wanted to adopt the highway.,1.453804347826087,0.0218928210799999,1104,758,191,155,sarcasm,negative
+"""I see they've redrawn the congressional district line.""",1.4697674418604652,0.0224860701924678,1075,728,189,158,irony,neutral
+"According to Google Maps, I can get to the bathroom in 30 seconds.",1.7176581680830971,0.024281294037899,1059,522,314,223,self-deprecating,neutral
+You merge first.”,1.4474445515911285,0.023481889363374,1037,741,128,168,sarcasm,neutral

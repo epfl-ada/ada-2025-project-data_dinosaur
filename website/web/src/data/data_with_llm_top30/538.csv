@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I'm not a big cat person.,1.9682264586943965,0.0195388719120538,1731,600,586,545,incongruity-absurdity,neutral
+1,Think it over. I'm still the only one here who can use a can opener.,1.9537091988130564,0.0192399594316282,1685,566,631,488,self-deprecating,neutral
+2,"In my defense, the neutering was a requirement of the condo board.",1.7857811038353602,0.0237123201554306,1069,460,378,231,self-deprecating,neutral
+3,"First of all, I'd like to apologize for the whole laser light thing.",1.7757757757757755,0.0249326581580739,999,447,329,223,sarcasm,negative
+4,"I may be a little prick, but at least I'm not a giant pussy.",1.7593406593406593,0.0276476003828799,910,452,225,233,self-deprecating,negative
+5,Don't forget I'm still the only one who knows how to operate the can opener.,1.741161616161616,0.0276784518923143,792,369,259,164,sarcasm,neutral
+7,"If you are going to rip-up the sofa, you are going to learn how to fix it!",1.6978851963746224,0.0296842347638841,662,323,216,123,wit-surprise,negative
+6,"Kids, stay in the thimble.",1.733231707317073,0.030370223365644,656,309,213,134,incongruity-absurdity,neutral
+8,Kill me and the can opener dies with me.,1.6587591240875912,0.0324265589574081,548,283,169,96,sarcasm,negative
+9,"If you eat me, you won't have anyone around to ignore anymore.",1.650190114068441,0.0319352833834641,526,265,180,81,self-deprecating,neutral
+10,"Take it easy, pal. She neutered me, too.",1.631687242798354,0.0347766936740164,486,265,135,86,self-deprecating,negative
+11,"So this is what the label meant by ""and other side effects.""",1.62839248434238,0.0332973892144272,479,249,159,71,irony,neutral
+12,So! Schrodinger's Cat finally meets String Theory!,1.6195652173913044,0.0359200849235681,460,257,121,82,wit-surprise,positive
+13,He realized then that shrinking himself wasn't his real mistake -- it was getting a cat.,1.6122448979591837,0.0365129937048717,441,248,116,77,incongruity-absurdity,neutral
+14,"Honey, run the can opener, quick!",1.6055045871559632,0.0366061824857011,436,247,114,75,unknown,neutral
+15,"Seriously, you'll just cough me up.",1.585,0.0360233494314542,400,221,124,55,self-deprecating,negative
+16,One of us is having a bad dream.,1.5672043010752688,0.0383823455434695,372,217,99,56,unknown,negative
+17,"""Honey...was the cat food made by Monsanto?",1.5636856368563683,0.0388309893154985,369,218,94,57,irony,neutral
+18,"It was then that Bill realized he had made a terrible mistake wishing for ""a ton of pussy.""",1.5441176470588236,0.0410619736302949,340,210,75,55,unknown,negative
+19,"So that would be a no on the cat sweater, then.",1.5347432024169183,0.0392587238328085,331,197,91,43,self-deprecating,neutral
+20,I thought I'd sew a pussycat.,1.5292307692307692,0.04303009257454,325,210,58,57,incongruity-absurdity,negative
+21,"Easy now, kitty. How about we work together until we figure out whose dream this is.",1.5251572327044025,0.0397523659866337,318,191,87,40,sarcasm,neutral
+22,Absolutely the last time I cat-sit for Gulliver.,1.5207667731629393,0.0407438585965667,313,192,79,42,irony,negative
+23,One of us is in the wrong cartoon.,1.5207667731629393,0.0427071707417911,313,200,63,50,irony,negative
+24,You knew I was a terrible wizard when you married me.,1.5115511551155116,0.0425548447754218,303,193,65,45,sarcasm,negative
+25,I know this is how you perceive me but in reality I'm twenty times your size and control your food.,1.5115511551155116,0.0401771875732627,303,184,83,36,irony,neutral
+28,Remember how everyone was saying you should be neutered but I said no?,1.5066666666666666,0.0390789537067818,300,179,90,31,self-deprecating,neutral
+29,Don't make me call the dog.,1.5066666666666666,0.0402038654728559,300,183,82,35,sarcasm,negative
+26,What happened to you just ignoring me all the time?,1.5067114093959733,0.0392697932360868,298,178,89,31,sarcasm,negative
+27,Looks like my wish for a shrink may have been misinterpreted.,1.5067114093959733,0.0386900760497811,298,176,93,29,self-deprecating,negative

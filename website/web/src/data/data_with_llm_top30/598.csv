@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+6,Enlightenment? I'm just trying to achieve alignment.,1.8191560616208973,0.0139572818968611,2986,1187,1152,647,self-deprecating,neutral
+2,It's for my back. You have two more questions.,1.875340599455041,0.014478442232125,2936,1109,1084,743,sarcasm,neutral
+0,I'm the fitness guru. The wisdom guru is one mountain over.,1.8819897084048027,0.0142851860673068,2915,1059,1141,715,wit-surprise,neutral
+8,"You only get one question and you ask, ""What's that?""!",1.7921348314606742,0.0148204497735248,2848,1248,944,656,wit-surprise,neutral
+4,"Before I settled here, I bounced around a lot.",1.8446740292126824,0.0145098730841201,2807,1081,1081,645,incongruity-absurdity,neutral
+1,When I retired from Google they let me keep my chair.,1.87615988579586,0.0147953224019392,2802,1054,1041,707,wit-surprise,neutral
+7,"The keys to a long life are balance and color, but mostly staying away from the edge.",1.7991329479768785,0.0144909990463222,2768,1138,1048,582,incongruity-absurdity,positive
+11,"Forgot your question, didn’t you?",1.7304643261608157,0.015025057075363,2649,1245,873,531,sarcasm,negative
+12,"Honestly, I stopped caring about the meaning of life after I got one of these.",1.7201283079390537,0.0149984055496249,2494,1146,900,448,self-deprecating,negative
+13,Finally it dawned on me that I could sit on it INSTEAD of rolling it up the hill.,1.7112345151644597,0.0156448887615078,2341,1106,805,430,unknown,neutral
+17,Do you seek alignment?,1.6878216123499143,0.0156932089970504,2332,1147,766,419,wit-surprise,neutral
+5,It turns out that inner peace is 95% core strength.,1.834127327847553,0.0159247806600023,2309,899,894,516,incongruity-absurdity,positive
+3,"No, but I can show you the path to a tighter butt.",1.8454746136865343,0.0160921105042777,2265,866,883,516,sarcasm,neutral
+9,I think there's a misunderstanding. I'm the Bally Lama.,1.75046468401487,0.0169951221151506,2152,1004,681,467,wit-surprise,neutral
+21,Enlightenment takes balls.,1.679172679172679,0.0170983052006785,2079,1072,602,405,irony,neutral
+19,You just roll with it.,1.6840328027013989,0.0163914051142816,2073,1008,712,353,sarcasm,neutral
+18,"Absalom, Abs Salon, who wouldn't make that mistake?",1.6871945259042034,0.016891457869838,2046,1017,652,377,wit-surprise,neutral
+23,"I'm living in a cave without light, heat or plumbing and you're asking ME for advice?",1.6712839637719763,0.0181672234327734,1877,991,512,374,sarcasm,negative
+20,"When the Geni asked me what I wanted, I told him ""Enough green to have a ball and sit on top of the world.""",1.6813370473537603,0.0190426245331023,1795,961,445,389,wit-surprise,neutral
+14,I'm strengthening my core beliefs.,1.7021650087770626,0.0178821361255216,1709,797,624,288,self-deprecating,positive
+37,The meaning of life guru is in the other mountain. I'm the Pilates guy.,1.5970961887477313,0.0179480582409418,1653,907,505,241,wit-surprise,neutral
+25,"So Ray, the last thing I remember is my wife driving me to the airport saying, “You want a man cave? I’ll give you a man cave!”",1.6262870987280436,0.018717768054136,1651,901,466,284,sarcasm,neutral
+15,It’s not how far you fall. It’s how you bounce back.,1.6960600375234522,0.0179825949417609,1599,730,625,244,self-deprecating,neutral
+16,I am no longer between the rock and the hard place.,1.689829437776374,0.0189226258510436,1583,770,534,279,unknown,neutral
+38,"At the moment, I'm inclined to think that the meaning of life is balance.",1.5911492734478203,0.0180694768229133,1514,810,513,191,unknown,neutral
+27,Sisyphus. What’s yours?,1.6216577540106951,0.0192161496788085,1496,803,456,237,sarcasm,neutral
+24,"So you're telling me that you traveled all this way to see, in person, the first colored object ever included in a New Yorker cartoon ?",1.6416264645072365,0.0200245311845671,1451,775,421,255,irony,neutral
+34,Meaning of life? No idea. But let me tell you about the importance of good posture.,1.601878612716763,0.0190912792992114,1384,734,467,183,incongruity-absurdity,positive
+32,The standing desk made me look like an asshole.,1.6083530338849488,0.0213629656838603,1269,713,340,216,self-deprecating,negative
+26,Cyber Monday impulse buy.,1.6251980982567351,0.0202057726797996,1262,650,435,177,irony,neutral

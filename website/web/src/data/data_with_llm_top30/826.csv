@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I'm detecting a beat.,1.7303091852854886,0.0113230823775195,4431,2017,1592,822,unknown,neutral
+"For patient comfort, we try to keep the room in the mid-seventies.",1.7507058159232072,0.0135679052757962,3542,1706,1013,823,incongruity-absurdity,neutral
+"If this doesn't correct his rhythm, we'll try the paddles.",1.683004455760662,0.0138323276763426,3142,1600,938,604,wit-surprise,negative
+He’s going to need more drugs.,1.62004662004662,0.013930626108377,3003,1662,820,521,sarcasm,negative
+Looks to be a herniated disco.,1.6346309813463098,0.0150552679199694,2466,1304,759,403,unknown,negative
+The patient has requested ‘Stayin’ Alive’.,1.636790439607341,0.0156380244858118,2343,1251,692,400,incongruity-absurdity,neutral
+"Alexa, play Smooth Operator",1.702774108322325,0.0164344898114835,2271,1134,678,459,sarcasm,neutral
+"Apparently, he’s our one-millionth patient.",1.6415770609318996,0.0159401825940103,2232,1176,680,376,incongruity-absurdity,neutral
+His heart rate’s stuck in the 70s,1.6168618266978922,0.0154432001134944,2135,1109,735,291,incongruity-absurdity,negative
+"Why, he'll be up and dancing in no time.",1.5882631329862755,0.0171449125645846,2113,1270,443,400,sarcasm,positive
+"I said we’re operating on a person “in their 70s”, not “in the 70s”",1.704488149268785,0.0171858548651859,1983,960,649,374,irony,neutral
+I love it when they wake up and ask what year this is.,1.7685699848408287,0.0175087643124018,1979,882,673,424,sarcasm,positive
+Time of death: track five.,1.5998953974895398,0.0172474342642592,1912,1079,519,314,exaggeration,neutral
+His heart rate is in the 70s.,1.5766773162939298,0.017344704356012,1878,1096,481,301,irony,neutral
+"You think he'd lay down and die?
+Oh no, not him, he will survive",1.64573268921095,0.0177277472604325,1863,992,539,332,sarcasm,negative
+You said he needed a hip surgery.,1.67548596112311,0.0177657407181821,1852,939,575,338,irony,neutral
+We'll be correcting the patient's two left feet.,1.5946681175190425,0.0172528836862756,1838,1026,531,281,incongruity-absurdity,neutral
+"I said bigger probe, not strobe.",1.6242490442381212,0.017425848620546,1831,982,555,294,irony,neutral
+Looks like we have a case of disco fever.,1.606214689265537,0.0166549093035212,1770,920,627,223,irony,negative
+"The patient also requested ""I Will Survive.""",1.6878245816503177,0.0186509323515734,1733,877,520,336,irony,neutral
+"Well, at least Disco isn't dead.",1.6203814064362336,0.0182104588747491,1678,906,503,269,unknown,neutral
+"Unfortunately, disco is not all that's dead.",1.5903030303030303,0.0181776768473321,1650,926,474,250,exaggeration,negative
+"It’s highly unorthodox, but the patient IS stayin’ alive.",1.626086956521739,0.0184614525196856,1610,855,502,253,wit-surprise,neutral
+Not what I pictured when they said he's in the seventies.,1.6314142678347936,0.0184201760882678,1598,836,515,247,irony,neutral
+We've never had a case of Saturday night fever before,1.63530175210902,0.0185322295605954,1541,791,521,229,incongruity-absurdity,neutral
+It's an extremely serious case of disco fever.,1.5795677799607073,0.0180844045337854,1527,837,495,195,exaggeration,negative
+It keeps his heart rate in the 70s.,1.562126245847176,0.0196099980469927,1505,909,346,250,unknown,neutral
+"We find it calms the patient to hear ""Staying Alive"" as they' re put under.",1.6081170991350633,0.0189208156263848,1503,814,464,225,wit-surprise,positive
+Inform the patient’s family that he’s stayin’ alive.,1.6993987975951903,0.0194444488632559,1497,716,515,266,sarcasm,neutral
+It’s the only cure for Saturday Night Fever.,1.577158395649218,0.0184364141971628,1471,810,473,188,incongruity-absurdity,positive

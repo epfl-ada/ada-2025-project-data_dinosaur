@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2,Can you hear me now?,1.8663875142748385,0.0110438750268449,5254,2081,1794,1379,sarcasm,neutral
+4,And you thought the cat couldn't open the superglue.,1.7901881400333413,0.0122799347087789,4199,1862,1356,981,unknown,negative
+8,"No, YOU need a mint.",1.7238599143361049,0.0119136937022767,3969,1817,1431,721,sarcasm,neutral
+5,"No offense, but I prefer your other end.",1.732567249934709,0.0124560630305688,3829,1786,1281,762,sarcasm,neutral
+6,You're right! The acoustics are amazing!,1.7297226582940868,0.0120763560406294,3822,1721,1413,688,sarcasm,positive
+0,"And lastly Father, I bit the mailman",1.89092815941269,0.013469925110626,3814,1550,1130,1134,irony,neutral
+7,"Squirrel outside, freshly waxed floor, plate glass window. You?",1.727174207531834,0.0127620796764152,3691,1750,1198,743,irony,neutral
+9,This is great. They'll never find us now.,1.7024445068839562,0.0128836196528879,3559,1738,1142,679,unknown,positive
+1,Tell me about it. It's been a week since I licked mine.,1.8771680409439864,0.0136467857408102,3517,1394,1161,962,self-deprecating,neutral
+10,It's been two dog years since my last confession.,1.6349984676677904,0.0129763574045363,3263,1709,1036,518,incongruity-absurdity,neutral
+3,Just let go of the stick and this will all be over.,1.8194267515923568,0.0140099565993261,3140,1302,1103,735,self-deprecating,neutral
+13,What are you in for?,1.6125600549073438,0.0132558720554211,2914,1529,985,400,sarcasm,neutral
+14,It's great that that this kennel allows conical visits!,1.6072701354240913,0.0141468320229466,2806,1555,798,453,incongruity-absurdity,positive
+20,What happens in the cone stays in the cone.,1.58195211786372,0.0139236360669334,2715,1519,812,384,incongruity-absurdity,neutral
+17,"Okay, guess if my tail is up or down?",1.598531684698609,0.0140193175163524,2588,1386,855,347,unknown,neutral
+24,I hate that fucking cat.,1.5649402390438247,0.0155813270183751,2510,1548,506,456,sarcasm,negative
+30,"Hey, you really CAN hear the ocean!",1.5475227502527806,0.0156030496819496,1978,1126,621,231,irony,positive
+29,Wait. They told you you're a good boy too?,1.550643536653609,0.0169057373547999,1787,1038,514,235,irony,positive
+21,Let me show you something I learned from a French poodle.,1.5741466144376048,0.017261171202608,1787,1018,512,257,incongruity-absurdity,neutral
+35,We're on a secure line,1.533409480296973,0.0166726865293002,1751,1025,518,208,sarcasm,neutral
+41,"Can't see the cartoon because of your obnoxious pop-up announcing ""GOOD NEWS!"" PLEASE GET RID OF POP UPS!!!",1.5182575272261372,0.0213088851670777,1561,1110,93,358,sarcasm,negative
+25,I'll let go of the stick when you let go of the stick.,1.5616966580976863,0.0175245531062257,1556,862,514,180,irony,neutral
+22,"What happens inside the cone, stays inside the cone.",1.57238158772515,0.0183352573881785,1499,835,470,194,incongruity-absurdity,neutral
+40,You sure the cat can't hear us?,1.5184687709872398,0.0176438987040027,1489,876,454,159,sarcasm,neutral
+31,"Oh, THAT'S what they mean by ""dog breath.""",1.5420875420875422,0.0183817575542018,1485,868,429,188,sarcasm,neutral
+36,"It's a deal, then: I'll lick yours and you lick mine.",1.525101763907734,0.0186793441134497,1474,895,384,195,incongruity-absurdity,neutral
+33,I bit the hand that feeds me. You?,1.5343406593406594,0.0183364008898954,1456,853,428,175,unknown,neutral
+39,I was grabbing too many pussies. What's your crime?,1.5185694635488307,0.0207199309515072,1454,972,210,272,sarcasm,negative
+15,They said cones. I was expecting Haagen Dazs.,1.6064782908339077,0.0198415633732592,1451,812,398,241,incongruity-absurdity,neutral
+42,"That stupid ""GOOD NEWS! We've merged our Cartoon Caption Contest Registration with our overall ..."" is STILL defacing the contest after all these months...",1.5125,0.0218773611077805,1440,1018,106,316,sarcasm,negative

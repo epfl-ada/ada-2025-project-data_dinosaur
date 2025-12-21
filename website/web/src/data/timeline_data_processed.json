@@ -1,0 +1,3548 @@
+[
+  {
+    "date": "2016-03-13",
+    "irony": 9.444444444444445,
+    "sarcasm": 36.94444444444444,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 17.5,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 12.5
+  },
+  {
+    "date": "2016-03-20",
+    "irony": 9.047619047619047,
+    "sarcasm": 41.19047619047619,
+    "exaggeration": 2.6190476190476195,
+    "incongruity-absurdity": 15.476190476190476,
+    "wit-surprise": 9.761904761904763,
+    "unknown": 11.19047619047619
+  },
+  {
+    "date": "2016-03-27",
+    "irony": 12.083333333333332,
+    "sarcasm": 38.95833333333333,
+    "exaggeration": 2.291666666666667,
+    "incongruity-absurdity": 15.625,
+    "wit-surprise": 10.625,
+    "unknown": 10.208333333333334
+  },
+  {
+    "date": "2016-04-03",
+    "irony": 13.703703703703702,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 2.4074074074074074,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 10.185185185185185,
+    "unknown": 11.296296296296298
+  },
+  {
+    "date": "2016-04-10",
+    "irony": 12.333333333333332,
+    "sarcasm": 38.83333333333333,
+    "exaggeration": 2.166666666666667,
+    "incongruity-absurdity": 14.833333333333332,
+    "wit-surprise": 9.5,
+    "unknown": 10.833333333333332
+  },
+  {
+    "date": "2016-04-17",
+    "irony": 11.515151515151514,
+    "sarcasm": 37.42424242424242,
+    "exaggeration": 3.4848484848484844,
+    "incongruity-absurdity": 16.515151515151516,
+    "wit-surprise": 9.545454545454545,
+    "unknown": 10.757575757575758
+  },
+  {
+    "date": "2016-04-24",
+    "irony": 10.555555555555555,
+    "sarcasm": 40.138888888888886,
+    "exaggeration": 3.194444444444444,
+    "incongruity-absurdity": 15.972222222222221,
+    "wit-surprise": 9.86111111111111,
+    "unknown": 10.13888888888889
+  },
+  {
+    "date": "2016-05-01",
+    "irony": 11.111111111111112,
+    "sarcasm": 42.36111111111111,
+    "exaggeration": 2.9166666666666665,
+    "incongruity-absurdity": 15.416666666666664,
+    "wit-surprise": 9.027777777777779,
+    "unknown": 10.416666666666666
+  },
+  {
+    "date": "2016-05-08",
+    "irony": 12.222222222222221,
+    "sarcasm": 42.638888888888886,
+    "exaggeration": 2.638888888888889,
+    "incongruity-absurdity": 13.194444444444443,
+    "wit-surprise": 10.416666666666666,
+    "unknown": 10.972222222222221
+  },
+  {
+    "date": "2016-05-15",
+    "irony": 12.314814814814815,
+    "sarcasm": 41.388888888888886,
+    "exaggeration": 2.5925925925925926,
+    "incongruity-absurdity": 11.944444444444443,
+    "wit-surprise": 11.296296296296296,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2016-05-22",
+    "irony": 12.222222222222221,
+    "sarcasm": 38.888888888888886,
+    "exaggeration": 2.4999999999999996,
+    "incongruity-absurdity": 12.222222222222221,
+    "wit-surprise": 11.944444444444443,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2016-05-29",
+    "irony": 12.222222222222221,
+    "sarcasm": 36.666666666666664,
+    "exaggeration": 2.222222222222222,
+    "incongruity-absurdity": 11.944444444444445,
+    "wit-surprise": 11.944444444444445,
+    "unknown": 11.111111111111109
+  },
+  {
+    "date": "2016-06-05",
+    "irony": 12.222222222222221,
+    "sarcasm": 38.61111111111111,
+    "exaggeration": 2.4999999999999996,
+    "incongruity-absurdity": 12.222222222222221,
+    "wit-surprise": 11.388888888888891,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2016-06-12",
+    "irony": 12.222222222222221,
+    "sarcasm": 35.55555555555555,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 13.888888888888886,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2016-06-19",
+    "irony": 9.722222222222223,
+    "sarcasm": 35.97222222222222,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 14.722222222222221,
+    "wit-surprise": 10.0,
+    "unknown": 12.777777777777777
+  },
+  {
+    "date": "2016-06-26",
+    "irony": 7.5,
+    "sarcasm": 36.25,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 10.277777777777777,
+    "unknown": 12.777777777777777
+  },
+  {
+    "date": "2016-07-03",
+    "irony": 8.055555555555555,
+    "sarcasm": 34.30555555555556,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 13.055555555555557,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2016-07-10",
+    "irony": 9.166666666666666,
+    "sarcasm": 34.583333333333336,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 13.333333333333334,
+    "unknown": 14.166666666666666
+  },
+  {
+    "date": "2016-07-17",
+    "irony": 10.694444444444445,
+    "sarcasm": 31.25,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 15.138888888888888,
+    "wit-surprise": 12.777777777777779,
+    "unknown": 15.0
+  },
+  {
+    "date": "2016-07-24",
+    "irony": 10.416666666666666,
+    "sarcasm": 30.138888888888886,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 15.138888888888888,
+    "wit-surprise": 12.500000000000002,
+    "unknown": 15.0
+  },
+  {
+    "date": "2016-07-31",
+    "irony": 9.305555555555555,
+    "sarcasm": 31.25,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 15.972222222222221,
+    "wit-surprise": 10.833333333333334,
+    "unknown": 15.277777777777777
+  },
+  {
+    "date": "2016-08-07",
+    "irony": 9.490740740740742,
+    "sarcasm": 32.638888888888886,
+    "exaggeration": 4.62962962962963,
+    "incongruity-absurdity": 17.083333333333332,
+    "wit-surprise": 9.814814814814815,
+    "unknown": 14.72222222222222
+  },
+  {
+    "date": "2016-08-14",
+    "irony": 9.86111111111111,
+    "sarcasm": 34.30555555555555,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 17.916666666666668,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 14.444444444444443
+  },
+  {
+    "date": "2016-08-21",
+    "irony": 10.694444444444445,
+    "sarcasm": 37.36111111111111,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 17.63888888888889,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 13.888888888888888
+  },
+  {
+    "date": "2016-08-28",
+    "irony": 11.25,
+    "sarcasm": 34.30555555555555,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 19.583333333333332,
+    "wit-surprise": 10.0,
+    "unknown": 13.888888888888891
+  },
+  {
+    "date": "2016-09-04",
+    "irony": 12.083333333333334,
+    "sarcasm": 33.74999999999999,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 18.75,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 13.611111111111109
+  },
+  {
+    "date": "2016-09-11",
+    "irony": 12.916666666666666,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 17.916666666666668,
+    "wit-surprise": 11.666666666666666,
+    "unknown": 12.5
+  },
+  {
+    "date": "2016-09-18",
+    "irony": 13.472222222222221,
+    "sarcasm": 35.97222222222222,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 12.361111111111109,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2016-09-25",
+    "irony": 12.916666666666666,
+    "sarcasm": 39.58333333333333,
+    "exaggeration": 3.8888888888888893,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 9.583333333333332,
+    "unknown": 10.0
+  },
+  {
+    "date": "2016-10-02",
+    "irony": 12.08333333333333,
+    "sarcasm": 39.583333333333336,
+    "exaggeration": 3.6111111111111107,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 10.138888888888888,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2016-10-09",
+    "irony": 11.944444444444445,
+    "sarcasm": 40.97222222222222,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 15.694444444444443,
+    "wit-surprise": 11.25,
+    "unknown": 10.0
+  },
+  {
+    "date": "2016-10-16",
+    "irony": 10.277777777777777,
+    "sarcasm": 46.25,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 14.305555555555555,
+    "wit-surprise": 11.527777777777777,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2016-10-23",
+    "irony": 11.666666666666666,
+    "sarcasm": 43.47222222222222,
+    "exaggeration": 2.2222222222222223,
+    "incongruity-absurdity": 14.027777777777777,
+    "wit-surprise": 13.472222222222221,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2016-10-30",
+    "irony": 11.944444444444443,
+    "sarcasm": 44.30555555555555,
+    "exaggeration": 2.2222222222222223,
+    "incongruity-absurdity": 13.75,
+    "wit-surprise": 13.194444444444443,
+    "unknown": 8.61111111111111
+  },
+  {
+    "date": "2016-11-06",
+    "irony": 11.944444444444445,
+    "sarcasm": 45.69444444444445,
+    "exaggeration": 1.6666666666666667,
+    "incongruity-absurdity": 12.916666666666666,
+    "wit-surprise": 13.194444444444445,
+    "unknown": 8.611111111111112
+  },
+  {
+    "date": "2016-11-13",
+    "irony": 11.388888888888888,
+    "sarcasm": 47.638888888888886,
+    "exaggeration": 1.6666666666666667,
+    "incongruity-absurdity": 12.361111111111109,
+    "wit-surprise": 13.472222222222221,
+    "unknown": 8.333333333333334
+  },
+  {
+    "date": "2016-11-20",
+    "irony": 9.999999999999998,
+    "sarcasm": 49.30555555555555,
+    "exaggeration": 1.388888888888889,
+    "incongruity-absurdity": 11.25,
+    "wit-surprise": 13.194444444444443,
+    "unknown": 8.88888888888889
+  },
+  {
+    "date": "2016-11-27",
+    "irony": 8.75,
+    "sarcasm": 51.11111111111111,
+    "exaggeration": 1.666666666666667,
+    "incongruity-absurdity": 11.388888888888888,
+    "wit-surprise": 13.888888888888888,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2016-12-04",
+    "irony": 7.638888888888889,
+    "sarcasm": 52.77777777777777,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 10.833333333333334,
+    "wit-surprise": 12.777777777777777,
+    "unknown": 10.0
+  },
+  {
+    "date": "2016-12-11",
+    "irony": 8.75,
+    "sarcasm": 51.25,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 10.694444444444443,
+    "wit-surprise": 11.527777777777779,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2016-12-18",
+    "irony": 9.583333333333334,
+    "sarcasm": 49.583333333333336,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 10.694444444444445,
+    "wit-surprise": 11.805555555555555,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2016-12-25",
+    "irony": 9.86111111111111,
+    "sarcasm": 50.416666666666664,
+    "exaggeration": 5.277777777777778,
+    "incongruity-absurdity": 9.027777777777777,
+    "wit-surprise": 10.13888888888889,
+    "unknown": 10.277777777777779
+  },
+  {
+    "date": "2017-01-01",
+    "irony": 9.027777777777777,
+    "sarcasm": 52.361111111111114,
+    "exaggeration": 5.277777777777778,
+    "incongruity-absurdity": 9.305555555555555,
+    "wit-surprise": 9.027777777777779,
+    "unknown": 10.0
+  },
+  {
+    "date": "2017-01-08",
+    "irony": 9.305555555555555,
+    "sarcasm": 47.083333333333336,
+    "exaggeration": 6.388888888888888,
+    "incongruity-absurdity": 10.972222222222221,
+    "wit-surprise": 10.138888888888888,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2017-01-15",
+    "irony": 9.583333333333334,
+    "sarcasm": 49.02777777777777,
+    "exaggeration": 6.666666666666667,
+    "incongruity-absurdity": 11.527777777777777,
+    "wit-surprise": 7.916666666666667,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2017-01-22",
+    "irony": 9.768518518518519,
+    "sarcasm": 47.5462962962963,
+    "exaggeration": 6.898148148148148,
+    "incongruity-absurdity": 11.527777777777779,
+    "wit-surprise": 7.962962962962963,
+    "unknown": 10.13888888888889
+  },
+  {
+    "date": "2017-01-29",
+    "irony": 10.138888888888888,
+    "sarcasm": 45.69444444444445,
+    "exaggeration": 7.083333333333333,
+    "incongruity-absurdity": 12.083333333333334,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 10.138888888888888
+  },
+  {
+    "date": "2017-02-05",
+    "irony": 10.694444444444445,
+    "sarcasm": 42.361111111111114,
+    "exaggeration": 7.222222222222221,
+    "incongruity-absurdity": 13.194444444444443,
+    "wit-surprise": 7.916666666666667,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2017-02-12",
+    "irony": 11.527777777777779,
+    "sarcasm": 41.80555555555556,
+    "exaggeration": 8.333333333333334,
+    "incongruity-absurdity": 13.75,
+    "wit-surprise": 7.916666666666667,
+    "unknown": 10.0
+  },
+  {
+    "date": "2017-02-19",
+    "irony": 13.333333333333334,
+    "sarcasm": 38.888888888888886,
+    "exaggeration": 8.055555555555555,
+    "incongruity-absurdity": 15.277777777777777,
+    "wit-surprise": 8.61111111111111,
+    "unknown": 9.722222222222223
+  },
+  {
+    "date": "2017-02-26",
+    "irony": 14.722222222222223,
+    "sarcasm": 38.05555555555555,
+    "exaggeration": 7.5,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 6.944444444444444,
+    "unknown": 9.722222222222223
+  },
+  {
+    "date": "2017-03-05",
+    "irony": 13.333333333333334,
+    "sarcasm": 38.333333333333336,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 17.5,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 10.277777777777779
+  },
+  {
+    "date": "2017-03-12",
+    "irony": 13.194444444444445,
+    "sarcasm": 36.666666666666664,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 8.472222222222221,
+    "unknown": 10.972222222222223
+  },
+  {
+    "date": "2017-03-19",
+    "irony": 13.472222222222223,
+    "sarcasm": 36.11111111111111,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 19.166666666666668,
+    "wit-surprise": 9.027777777777777,
+    "unknown": 11.527777777777779
+  },
+  {
+    "date": "2017-03-26",
+    "irony": 14.583333333333334,
+    "sarcasm": 33.333333333333336,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 19.444444444444446,
+    "wit-surprise": 9.583333333333334,
+    "unknown": 12.638888888888888
+  },
+  {
+    "date": "2017-04-02",
+    "irony": 15.972222222222223,
+    "sarcasm": 32.916666666666664,
+    "exaggeration": 3.472222222222222,
+    "incongruity-absurdity": 19.02777777777778,
+    "wit-surprise": 9.027777777777779,
+    "unknown": 13.194444444444445
+  },
+  {
+    "date": "2017-04-09",
+    "irony": 14.861111111111112,
+    "sarcasm": 31.805555555555557,
+    "exaggeration": 3.4722222222222228,
+    "incongruity-absurdity": 18.194444444444446,
+    "wit-surprise": 9.027777777777777,
+    "unknown": 14.305555555555557
+  },
+  {
+    "date": "2017-04-16",
+    "irony": 14.39814814814815,
+    "sarcasm": 33.56481481481482,
+    "exaggeration": 3.5185185185185186,
+    "incongruity-absurdity": 17.63888888888889,
+    "wit-surprise": 8.981481481481481,
+    "unknown": 14.166666666666666
+  },
+  {
+    "date": "2017-04-23",
+    "irony": 14.027777777777777,
+    "sarcasm": 35.416666666666664,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 16.805555555555554,
+    "wit-surprise": 9.722222222222221,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2017-04-30",
+    "irony": 13.75,
+    "sarcasm": 37.36111111111111,
+    "exaggeration": 3.75,
+    "incongruity-absurdity": 15.694444444444445,
+    "wit-surprise": 11.25,
+    "unknown": 12.638888888888891
+  },
+  {
+    "date": "2017-05-07",
+    "irony": 13.472222222222221,
+    "sarcasm": 37.5,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 11.25,
+    "unknown": 12.916666666666666
+  },
+  {
+    "date": "2017-05-14",
+    "irony": 12.361111111111109,
+    "sarcasm": 40.06944444444444,
+    "exaggeration": 3.680555555555556,
+    "incongruity-absurdity": 15.069444444444445,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 12.777777777777779
+  },
+  {
+    "date": "2017-05-21",
+    "irony": 11.805555555555555,
+    "sarcasm": 40.625,
+    "exaggeration": 4.513888888888889,
+    "incongruity-absurdity": 14.791666666666666,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 12.5
+  },
+  {
+    "date": "2017-05-28",
+    "irony": 12.638888888888891,
+    "sarcasm": 39.513888888888886,
+    "exaggeration": 5.625,
+    "incongruity-absurdity": 14.791666666666666,
+    "wit-surprise": 8.61111111111111,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2017-06-04",
+    "irony": 13.611111111111112,
+    "sarcasm": 38.958333333333336,
+    "exaggeration": 5.347222222222222,
+    "incongruity-absurdity": 15.069444444444445,
+    "wit-surprise": 8.75,
+    "unknown": 10.972222222222221
+  },
+  {
+    "date": "2017-06-11",
+    "irony": 13.333333333333334,
+    "sarcasm": 40.34722222222222,
+    "exaggeration": 5.347222222222222,
+    "incongruity-absurdity": 14.791666666666666,
+    "wit-surprise": 10.138888888888888,
+    "unknown": 9.583333333333334
+  },
+  {
+    "date": "2017-06-18",
+    "irony": 12.361111111111109,
+    "sarcasm": 40.76388888888889,
+    "exaggeration": 5.625,
+    "incongruity-absurdity": 15.069444444444443,
+    "wit-surprise": 10.138888888888888,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2017-06-25",
+    "irony": 11.25,
+    "sarcasm": 41.458333333333336,
+    "exaggeration": 4.930555555555556,
+    "incongruity-absurdity": 16.041666666666668,
+    "wit-surprise": 9.583333333333332,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2017-07-02",
+    "irony": 13.472222222222221,
+    "sarcasm": 43.125,
+    "exaggeration": 4.930555555555555,
+    "incongruity-absurdity": 16.041666666666668,
+    "wit-surprise": 9.583333333333332,
+    "unknown": 8.88888888888889
+  },
+  {
+    "date": "2017-07-09",
+    "irony": 13.194444444444443,
+    "sarcasm": 42.013888888888886,
+    "exaggeration": 5.486111111111112,
+    "incongruity-absurdity": 15.208333333333334,
+    "wit-surprise": 9.86111111111111,
+    "unknown": 10.0
+  },
+  {
+    "date": "2017-07-16",
+    "irony": 13.472222222222223,
+    "sarcasm": 40.34722222222222,
+    "exaggeration": 5.625,
+    "incongruity-absurdity": 14.930555555555557,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2017-07-23",
+    "irony": 14.305555555555555,
+    "sarcasm": 38.125,
+    "exaggeration": 5.347222222222222,
+    "incongruity-absurdity": 15.208333333333334,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2017-07-30",
+    "irony": 14.861111111111109,
+    "sarcasm": 38.263888888888886,
+    "exaggeration": 4.930555555555555,
+    "incongruity-absurdity": 13.125,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 13.333333333333334
+  },
+  {
+    "date": "2017-08-06",
+    "irony": 15.138888888888888,
+    "sarcasm": 37.083333333333336,
+    "exaggeration": 5.138888888888888,
+    "incongruity-absurdity": 13.611111111111112,
+    "wit-surprise": 9.027777777777777,
+    "unknown": 14.027777777777777
+  },
+  {
+    "date": "2017-08-13",
+    "irony": 14.861111111111109,
+    "sarcasm": 36.80555555555555,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 13.888888888888891,
+    "wit-surprise": 9.305555555555555,
+    "unknown": 14.58333333333333
+  },
+  {
+    "date": "2017-08-20",
+    "irony": 13.749999999999998,
+    "sarcasm": 39.86111111111111,
+    "exaggeration": 3.6111111111111107,
+    "incongruity-absurdity": 13.333333333333334,
+    "wit-surprise": 9.305555555555555,
+    "unknown": 15.694444444444443
+  },
+  {
+    "date": "2017-08-27",
+    "irony": 13.33333333333333,
+    "sarcasm": 41.25,
+    "exaggeration": 3.75,
+    "incongruity-absurdity": 12.916666666666666,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 15.833333333333334
+  },
+  {
+    "date": "2017-09-03",
+    "irony": 13.402777777777777,
+    "sarcasm": 40.833333333333336,
+    "exaggeration": 3.402777777777778,
+    "incongruity-absurdity": 13.819444444444445,
+    "wit-surprise": 7.847222222222222,
+    "unknown": 16.458333333333332
+  },
+  {
+    "date": "2017-09-10",
+    "irony": 13.263888888888888,
+    "sarcasm": 40.69444444444444,
+    "exaggeration": 3.4027777777777772,
+    "incongruity-absurdity": 14.097222222222223,
+    "wit-surprise": 7.847222222222221,
+    "unknown": 16.597222222222218
+  },
+  {
+    "date": "2017-09-17",
+    "irony": 14.374999999999998,
+    "sarcasm": 41.80555555555555,
+    "exaggeration": 3.4027777777777772,
+    "incongruity-absurdity": 12.152777777777777,
+    "wit-surprise": 8.680555555555555,
+    "unknown": 15.486111111111109
+  },
+  {
+    "date": "2017-09-24",
+    "irony": 13.159722222222221,
+    "sarcasm": 38.420138888888886,
+    "exaggeration": 3.3854166666666665,
+    "incongruity-absurdity": 13.159722222222221,
+    "wit-surprise": 11.267361111111112,
+    "unknown": 15.46875
+  },
+  {
+    "date": "2017-10-01",
+    "irony": 13.715277777777779,
+    "sarcasm": 37.30902777777778,
+    "exaggeration": 2.829861111111111,
+    "incongruity-absurdity": 14.826388888888888,
+    "wit-surprise": 11.822916666666666,
+    "unknown": 14.635416666666666
+  },
+  {
+    "date": "2017-10-08",
+    "irony": 13.159722222222223,
+    "sarcasm": 38.14236111111111,
+    "exaggeration": 3.246527777777778,
+    "incongruity-absurdity": 14.826388888888888,
+    "wit-surprise": 11.961805555555557,
+    "unknown": 14.079861111111109
+  },
+  {
+    "date": "2017-10-15",
+    "irony": 12.604166666666666,
+    "sarcasm": 38.14236111111111,
+    "exaggeration": 4.635416666666667,
+    "incongruity-absurdity": 15.9375,
+    "wit-surprise": 11.961805555555557,
+    "unknown": 12.690972222222221
+  },
+  {
+    "date": "2017-10-22",
+    "irony": 11.493055555555557,
+    "sarcasm": 37.58680555555556,
+    "exaggeration": 4.913194444444445,
+    "incongruity-absurdity": 16.493055555555554,
+    "wit-surprise": 12.239583333333334,
+    "unknown": 12.96875
+  },
+  {
+    "date": "2017-10-29",
+    "irony": 12.881944444444443,
+    "sarcasm": 37.58680555555555,
+    "exaggeration": 4.913194444444445,
+    "incongruity-absurdity": 15.104166666666666,
+    "wit-surprise": 13.350694444444443,
+    "unknown": 11.857638888888888
+  },
+  {
+    "date": "2017-11-05",
+    "irony": 13.4375,
+    "sarcasm": 38.97569444444444,
+    "exaggeration": 4.774305555555555,
+    "incongruity-absurdity": 13.993055555555557,
+    "wit-surprise": 13.350694444444443,
+    "unknown": 10.746527777777779
+  },
+  {
+    "date": "2017-11-12",
+    "irony": 13.993055555555557,
+    "sarcasm": 37.58680555555556,
+    "exaggeration": 5.329861111111112,
+    "incongruity-absurdity": 15.659722222222221,
+    "wit-surprise": 13.072916666666666,
+    "unknown": 9.913194444444445
+  },
+  {
+    "date": "2017-11-19",
+    "irony": 14.409722222222223,
+    "sarcasm": 37.864583333333336,
+    "exaggeration": 5.746527777777778,
+    "incongruity-absurdity": 15.243055555555555,
+    "wit-surprise": 12.65625,
+    "unknown": 9.774305555555555
+  },
+  {
+    "date": "2017-11-26",
+    "irony": 14.0625,
+    "sarcasm": 39.947916666666664,
+    "exaggeration": 5.815972222222221,
+    "incongruity-absurdity": 13.784722222222221,
+    "wit-surprise": 11.753472222222223,
+    "unknown": 9.704861111111112
+  },
+  {
+    "date": "2017-12-03",
+    "irony": 15.173611111111112,
+    "sarcasm": 39.67013888888889,
+    "exaggeration": 6.371527777777778,
+    "incongruity-absurdity": 13.784722222222221,
+    "wit-surprise": 10.642361111111112,
+    "unknown": 9.149305555555555
+  },
+  {
+    "date": "2017-12-10",
+    "irony": 14.340277777777779,
+    "sarcasm": 37.447916666666664,
+    "exaggeration": 6.371527777777778,
+    "incongruity-absurdity": 14.618055555555557,
+    "wit-surprise": 11.753472222222221,
+    "unknown": 9.149305555555555
+  },
+  {
+    "date": "2017-12-17",
+    "irony": 13.611111111111112,
+    "sarcasm": 38.05555555555556,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 15.555555555555557,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2017-12-24",
+    "irony": 15.0,
+    "sarcasm": 37.5,
+    "exaggeration": 6.111111111111112,
+    "incongruity-absurdity": 15.555555555555557,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2017-12-31",
+    "irony": 15.833333333333334,
+    "sarcasm": 37.77777777777778,
+    "exaggeration": 5.277777777777778,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2018-01-07",
+    "irony": 14.722222222222221,
+    "sarcasm": 37.77777777777778,
+    "exaggeration": 4.444444444444445,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2018-01-14",
+    "irony": 14.722222222222221,
+    "sarcasm": 37.5,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2018-01-21",
+    "irony": 13.055555555555557,
+    "sarcasm": 38.611111111111114,
+    "exaggeration": 3.6111111111111107,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 8.888888888888888,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2018-01-28",
+    "irony": 13.055555555555557,
+    "sarcasm": 36.666666666666664,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 11.111111111111109
+  },
+  {
+    "date": "2018-02-04",
+    "irony": 14.444444444444443,
+    "sarcasm": 36.94444444444444,
+    "exaggeration": 3.6111111111111107,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 11.666666666666666,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2018-02-11",
+    "irony": 14.722222222222221,
+    "sarcasm": 35.27777777777778,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 12.5,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2018-02-18",
+    "irony": 14.444444444444445,
+    "sarcasm": 32.22222222222222,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 13.611111111111109,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2018-02-25",
+    "irony": 14.444444444444443,
+    "sarcasm": 32.22222222222222,
+    "exaggeration": 3.0555555555555554,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 13.611111111111109,
+    "unknown": 12.5
+  },
+  {
+    "date": "2018-03-04",
+    "irony": 14.444444444444443,
+    "sarcasm": 35.0,
+    "exaggeration": 3.0555555555555554,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 11.944444444444445,
+    "unknown": 12.5
+  },
+  {
+    "date": "2018-03-11",
+    "irony": 14.722222222222221,
+    "sarcasm": 35.55555555555555,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 12.777777777777777,
+    "unknown": 11.111111111111109
+  },
+  {
+    "date": "2018-03-18",
+    "irony": 14.722222222222221,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 14.166666666666666,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2018-03-25",
+    "irony": 13.055555555555557,
+    "sarcasm": 35.27777777777778,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 14.999999999999998,
+    "unknown": 11.111111111111109
+  },
+  {
+    "date": "2018-04-01",
+    "irony": 13.333333333333334,
+    "sarcasm": 35.55555555555555,
+    "exaggeration": 4.444444444444445,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 15.555555555555555,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2018-04-08",
+    "irony": 14.444444444444443,
+    "sarcasm": 34.44444444444444,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 14.722222222222223,
+    "wit-surprise": 14.722222222222221,
+    "unknown": 12.5
+  },
+  {
+    "date": "2018-04-15",
+    "irony": 14.444444444444443,
+    "sarcasm": 36.11111111111111,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 13.055555555555555,
+    "unknown": 12.777777777777777
+  },
+  {
+    "date": "2018-04-22",
+    "irony": 14.999999999999998,
+    "sarcasm": 36.38888888888889,
+    "exaggeration": 6.111111111111112,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 11.388888888888891,
+    "unknown": 12.777777777777777
+  },
+  {
+    "date": "2018-04-29",
+    "irony": 14.444444444444445,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 6.111111111111112,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 13.33333333333333
+  },
+  {
+    "date": "2018-05-06",
+    "irony": 12.5,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 10.277777777777779,
+    "unknown": 14.166666666666666
+  },
+  {
+    "date": "2018-05-13",
+    "irony": 13.33333333333333,
+    "sarcasm": 33.05555555555555,
+    "exaggeration": 7.222222222222222,
+    "incongruity-absurdity": 16.666666666666664,
+    "wit-surprise": 11.388888888888888,
+    "unknown": 13.888888888888888
+  },
+  {
+    "date": "2018-05-20",
+    "irony": 12.777777777777779,
+    "sarcasm": 34.44444444444445,
+    "exaggeration": 7.222222222222221,
+    "incongruity-absurdity": 16.666666666666664,
+    "wit-surprise": 11.388888888888888,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2018-05-27",
+    "irony": 11.944444444444443,
+    "sarcasm": 32.77777777777778,
+    "exaggeration": 7.777777777777778,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 11.666666666666666,
+    "unknown": 13.888888888888888
+  },
+  {
+    "date": "2018-06-03",
+    "irony": 12.5,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 6.944444444444444,
+    "incongruity-absurdity": 18.055555555555554,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 14.722222222222223
+  },
+  {
+    "date": "2018-06-10",
+    "irony": 10.833333333333334,
+    "sarcasm": 36.666666666666664,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 17.777777777777775,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 14.444444444444443
+  },
+  {
+    "date": "2018-06-17",
+    "irony": 12.222222222222221,
+    "sarcasm": 35.0,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 8.888888888888888,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2018-06-24",
+    "irony": 13.055555555555555,
+    "sarcasm": 36.666666666666664,
+    "exaggeration": 6.666666666666667,
+    "incongruity-absurdity": 17.22222222222222,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 12.777777777777779
+  },
+  {
+    "date": "2018-07-01",
+    "irony": 11.944444444444445,
+    "sarcasm": 40.55555555555555,
+    "exaggeration": 6.111111111111111,
+    "incongruity-absurdity": 15.555555555555557,
+    "wit-surprise": 6.944444444444444,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2018-07-08",
+    "irony": 12.777777777777779,
+    "sarcasm": 38.05555555555555,
+    "exaggeration": 6.666666666666667,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 7.222222222222222,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2018-07-15",
+    "irony": 11.944444444444445,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 13.333333333333334
+  },
+  {
+    "date": "2018-07-22",
+    "irony": 12.222222222222221,
+    "sarcasm": 38.05555555555556,
+    "exaggeration": 6.944444444444444,
+    "incongruity-absurdity": 15.277777777777779,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 13.333333333333334
+  },
+  {
+    "date": "2018-07-29",
+    "irony": 12.222222222222221,
+    "sarcasm": 39.166666666666664,
+    "exaggeration": 6.666666666666667,
+    "incongruity-absurdity": 15.277777777777777,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2018-08-05",
+    "irony": 12.222222222222221,
+    "sarcasm": 40.55555555555556,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 11.111111111111109
+  },
+  {
+    "date": "2018-08-12",
+    "irony": 12.222222222222221,
+    "sarcasm": 40.0,
+    "exaggeration": 5.277777777777778,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2018-08-19",
+    "irony": 13.611111111111112,
+    "sarcasm": 38.88888888888889,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2018-08-26",
+    "irony": 12.499999999999998,
+    "sarcasm": 38.611111111111114,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 16.666666666666664,
+    "wit-surprise": 7.5,
+    "unknown": 9.722222222222223
+  },
+  {
+    "date": "2018-09-02",
+    "irony": 12.5,
+    "sarcasm": 40.0,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 7.222222222222222,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2018-09-09",
+    "irony": 12.499999999999998,
+    "sarcasm": 39.72222222222222,
+    "exaggeration": 5.277777777777778,
+    "incongruity-absurdity": 17.22222222222222,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2018-09-16",
+    "irony": 12.222222222222221,
+    "sarcasm": 38.05555555555555,
+    "exaggeration": 5.277777777777778,
+    "incongruity-absurdity": 19.166666666666668,
+    "wit-surprise": 7.222222222222222,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2018-09-23",
+    "irony": 12.5,
+    "sarcasm": 35.83333333333333,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 19.166666666666664,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2018-09-30",
+    "irony": 11.944444444444445,
+    "sarcasm": 35.27777777777778,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 21.11111111111111,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 12.5
+  },
+  {
+    "date": "2018-10-07",
+    "irony": 12.222222222222223,
+    "sarcasm": 36.666666666666664,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 20.833333333333332,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2018-10-14",
+    "irony": 11.111111111111112,
+    "sarcasm": 38.61111111111111,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 20.833333333333332,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2018-10-21",
+    "irony": 12.777777777777777,
+    "sarcasm": 36.11111111111111,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 19.72222222222222,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2018-10-28",
+    "irony": 13.611111111111109,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 19.444444444444443,
+    "wit-surprise": 11.388888888888888,
+    "unknown": 12.777777777777777
+  },
+  {
+    "date": "2018-11-04",
+    "irony": 13.611111111111112,
+    "sarcasm": 30.555555555555557,
+    "exaggeration": 4.444444444444445,
+    "incongruity-absurdity": 20.833333333333332,
+    "wit-surprise": 12.777777777777777,
+    "unknown": 13.888888888888888
+  },
+  {
+    "date": "2018-11-11",
+    "irony": 13.055555555555557,
+    "sarcasm": 33.61111111111111,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 18.888888888888886,
+    "wit-surprise": 13.055555555555555,
+    "unknown": 12.777777777777779
+  },
+  {
+    "date": "2018-11-18",
+    "irony": 13.333333333333334,
+    "sarcasm": 34.99999999999999,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 13.611111111111109,
+    "unknown": 12.5
+  },
+  {
+    "date": "2018-11-25",
+    "irony": 12.777777777777779,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 14.166666666666666,
+    "unknown": 13.333333333333334
+  },
+  {
+    "date": "2018-12-02",
+    "irony": 12.777777777777777,
+    "sarcasm": 33.333333333333336,
+    "exaggeration": 4.444444444444445,
+    "incongruity-absurdity": 19.444444444444443,
+    "wit-surprise": 13.611111111111109,
+    "unknown": 14.166666666666666
+  },
+  {
+    "date": "2018-12-09",
+    "irony": 11.944444444444445,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 3.8888888888888893,
+    "incongruity-absurdity": 17.499999999999996,
+    "wit-surprise": 14.166666666666666,
+    "unknown": 13.888888888888891
+  },
+  {
+    "date": "2018-12-16",
+    "irony": 12.5,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 14.166666666666666,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2018-12-23",
+    "irony": 12.777777777777779,
+    "sarcasm": 36.11111111111111,
+    "exaggeration": 3.8888888888888893,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 13.888888888888888,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2018-12-30",
+    "irony": 14.166666666666666,
+    "sarcasm": 35.55555555555556,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 13.888888888888888,
+    "unknown": 12.777777777777779
+  },
+  {
+    "date": "2019-01-06",
+    "irony": 15.555555555555555,
+    "sarcasm": 33.05555555555556,
+    "exaggeration": 4.444444444444445,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 15.555555555555555,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2019-01-13",
+    "irony": 15.0,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 13.888888888888888,
+    "wit-surprise": 14.722222222222221,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2019-01-20",
+    "irony": 14.166666666666666,
+    "sarcasm": 36.666666666666664,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 13.611111111111112,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2019-01-27",
+    "irony": 13.055555555555555,
+    "sarcasm": 40.27777777777778,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 11.944444444444445,
+    "wit-surprise": 14.444444444444445,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2019-02-03",
+    "irony": 13.888888888888888,
+    "sarcasm": 39.166666666666664,
+    "exaggeration": 4.444444444444445,
+    "incongruity-absurdity": 11.666666666666666,
+    "wit-surprise": 13.611111111111112,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2019-02-10",
+    "irony": 13.611111111111109,
+    "sarcasm": 39.72222222222222,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 12.222222222222221,
+    "wit-surprise": 12.222222222222223,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2019-02-17",
+    "irony": 14.166666666666666,
+    "sarcasm": 38.888888888888886,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 12.5,
+    "wit-surprise": 13.333333333333334,
+    "unknown": 10.0
+  },
+  {
+    "date": "2019-02-24",
+    "irony": 14.444444444444445,
+    "sarcasm": 40.55555555555555,
+    "exaggeration": 4.444444444444445,
+    "incongruity-absurdity": 10.555555555555555,
+    "wit-surprise": 13.611111111111112,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2019-03-03",
+    "irony": 16.944444444444443,
+    "sarcasm": 39.72222222222222,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 11.111111111111109,
+    "wit-surprise": 13.888888888888891,
+    "unknown": 8.88888888888889
+  },
+  {
+    "date": "2019-03-10",
+    "irony": 16.11111111111111,
+    "sarcasm": 41.666666666666664,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 12.222222222222221,
+    "wit-surprise": 12.777777777777779,
+    "unknown": 8.611111111111112
+  },
+  {
+    "date": "2019-03-17",
+    "irony": 15.277777777777777,
+    "sarcasm": 41.666666666666664,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 11.388888888888888,
+    "wit-surprise": 14.444444444444445,
+    "unknown": 8.333333333333334
+  },
+  {
+    "date": "2019-03-24",
+    "irony": 13.055555555555555,
+    "sarcasm": 41.94444444444444,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 12.5,
+    "wit-surprise": 14.444444444444445,
+    "unknown": 8.055555555555555
+  },
+  {
+    "date": "2019-03-31",
+    "irony": 11.388888888888888,
+    "sarcasm": 45.0,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 12.777777777777779,
+    "wit-surprise": 13.333333333333334,
+    "unknown": 7.777777777777778
+  },
+  {
+    "date": "2019-04-07",
+    "irony": 11.666666666666666,
+    "sarcasm": 44.72222222222222,
+    "exaggeration": 3.0555555555555554,
+    "incongruity-absurdity": 14.444444444444445,
+    "wit-surprise": 12.5,
+    "unknown": 7.777777777777778
+  },
+  {
+    "date": "2019-04-14",
+    "irony": 10.833333333333334,
+    "sarcasm": 47.22222222222222,
+    "exaggeration": 2.5,
+    "incongruity-absurdity": 14.722222222222221,
+    "wit-surprise": 10.833333333333334,
+    "unknown": 7.5
+  },
+  {
+    "date": "2019-04-21",
+    "irony": 11.666666666666666,
+    "sarcasm": 46.666666666666664,
+    "exaggeration": 3.0555555555555554,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 7.5
+  },
+  {
+    "date": "2019-04-28",
+    "irony": 11.666666666666666,
+    "sarcasm": 44.166666666666664,
+    "exaggeration": 2.5,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 9.722222222222221,
+    "unknown": 8.055555555555555
+  },
+  {
+    "date": "2019-05-05",
+    "irony": 12.5,
+    "sarcasm": 42.22222222222222,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 8.333333333333334
+  },
+  {
+    "date": "2019-05-12",
+    "irony": 11.944444444444443,
+    "sarcasm": 41.94444444444444,
+    "exaggeration": 3.0555555555555554,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 8.888888888888888
+  },
+  {
+    "date": "2019-05-19",
+    "irony": 10.833333333333334,
+    "sarcasm": 41.38888888888889,
+    "exaggeration": 2.5,
+    "incongruity-absurdity": 17.22222222222222,
+    "wit-surprise": 10.833333333333334,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2019-05-26",
+    "irony": 9.722222222222221,
+    "sarcasm": 42.5,
+    "exaggeration": 2.222222222222222,
+    "incongruity-absurdity": 18.055555555555557,
+    "wit-surprise": 9.722222222222221,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2019-06-02",
+    "irony": 9.722222222222223,
+    "sarcasm": 42.77777777777777,
+    "exaggeration": 2.222222222222222,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 10.0,
+    "unknown": 9.722222222222221
+  },
+  {
+    "date": "2019-06-09",
+    "irony": 10.833333333333334,
+    "sarcasm": 40.83333333333333,
+    "exaggeration": 1.6666666666666667,
+    "incongruity-absurdity": 19.166666666666668,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 10.0
+  },
+  {
+    "date": "2019-06-16",
+    "irony": 12.777777777777779,
+    "sarcasm": 38.888888888888886,
+    "exaggeration": 1.3888888888888886,
+    "incongruity-absurdity": 19.444444444444443,
+    "wit-surprise": 8.61111111111111,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2019-06-23",
+    "irony": 13.055555555555555,
+    "sarcasm": 36.666666666666664,
+    "exaggeration": 1.9444444444444444,
+    "incongruity-absurdity": 20.0,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2019-06-30",
+    "irony": 12.777777777777779,
+    "sarcasm": 37.5,
+    "exaggeration": 2.2222222222222223,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2019-07-07",
+    "irony": 15.277777777777777,
+    "sarcasm": 36.11111111111111,
+    "exaggeration": 2.2222222222222223,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2019-07-14",
+    "irony": 14.722222222222221,
+    "sarcasm": 37.77777777777778,
+    "exaggeration": 1.6666666666666667,
+    "incongruity-absurdity": 17.22222222222222,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2019-07-21",
+    "irony": 14.444444444444443,
+    "sarcasm": 39.166666666666664,
+    "exaggeration": 1.9444444444444444,
+    "incongruity-absurdity": 17.77777777777778,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 9.722222222222223
+  },
+  {
+    "date": "2019-07-28",
+    "irony": 14.722222222222221,
+    "sarcasm": 38.61111111111111,
+    "exaggeration": 1.388888888888889,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2019-08-04",
+    "irony": 16.11111111111111,
+    "sarcasm": 38.333333333333336,
+    "exaggeration": 1.9444444444444446,
+    "incongruity-absurdity": 19.444444444444446,
+    "wit-surprise": 8.333333333333332,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2019-08-11",
+    "irony": 17.777777777777775,
+    "sarcasm": 36.94444444444444,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 19.444444444444446,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 8.88888888888889
+  },
+  {
+    "date": "2019-08-18",
+    "irony": 19.166666666666668,
+    "sarcasm": 35.833333333333336,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 20.0,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 8.055555555555555
+  },
+  {
+    "date": "2019-08-25",
+    "irony": 20.27777777777778,
+    "sarcasm": 33.333333333333336,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 21.666666666666668,
+    "wit-surprise": 8.888888888888888,
+    "unknown": 7.5
+  },
+  {
+    "date": "2019-09-01",
+    "irony": 20.555555555555554,
+    "sarcasm": 33.88888888888889,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 18.88888888888889,
+    "wit-surprise": 9.722222222222221,
+    "unknown": 7.222222222222221
+  },
+  {
+    "date": "2019-09-08",
+    "irony": 20.277777777777775,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 18.055555555555557,
+    "wit-surprise": 10.277777777777777,
+    "unknown": 8.055555555555555
+  },
+  {
+    "date": "2019-09-15",
+    "irony": 20.277777777777775,
+    "sarcasm": 36.388888888888886,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 10.0,
+    "unknown": 8.055555555555555
+  },
+  {
+    "date": "2019-09-22",
+    "irony": 21.944444444444443,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 17.22222222222222,
+    "wit-surprise": 8.61111111111111,
+    "unknown": 8.61111111111111
+  },
+  {
+    "date": "2019-09-29",
+    "irony": 20.555555555555554,
+    "sarcasm": 34.44444444444445,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 16.944444444444446,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2019-10-06",
+    "irony": 22.5,
+    "sarcasm": 31.944444444444443,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 17.22222222222222,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2019-10-13",
+    "irony": 22.5,
+    "sarcasm": 31.666666666666668,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 10.0,
+    "unknown": 11.111111111111109
+  },
+  {
+    "date": "2019-10-20",
+    "irony": 20.833333333333332,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2019-10-27",
+    "irony": 20.555555555555554,
+    "sarcasm": 35.27777777777778,
+    "exaggeration": 3.6111111111111107,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 7.777777777777779,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2019-11-03",
+    "irony": 18.61111111111111,
+    "sarcasm": 38.33333333333333,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 15.277777777777777,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2019-11-10",
+    "irony": 16.388888888888886,
+    "sarcasm": 41.666666666666664,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 13.888888888888891,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2019-11-17",
+    "irony": 16.666666666666664,
+    "sarcasm": 43.05555555555555,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 12.222222222222223,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2019-11-24",
+    "irony": 16.11111111111111,
+    "sarcasm": 45.833333333333336,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 13.055555555555555,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2019-12-01",
+    "irony": 15.277777777777777,
+    "sarcasm": 46.11111111111111,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 6.388888888888889,
+    "unknown": 10.0
+  },
+  {
+    "date": "2019-12-08",
+    "irony": 16.11111111111111,
+    "sarcasm": 45.0,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 15.83333333333333,
+    "wit-surprise": 5.833333333333333,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2019-12-15",
+    "irony": 14.444444444444443,
+    "sarcasm": 47.77777777777778,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 5.555555555555556,
+    "unknown": 7.777777777777778
+  },
+  {
+    "date": "2019-12-22",
+    "irony": 14.166666666666666,
+    "sarcasm": 48.333333333333336,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 6.111111111111112,
+    "unknown": 7.5
+  },
+  {
+    "date": "2019-12-29",
+    "irony": 14.722222222222223,
+    "sarcasm": 46.94444444444445,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 5.555555555555556,
+    "unknown": 7.777777777777779
+  },
+  {
+    "date": "2020-01-05",
+    "irony": 15.277777777777777,
+    "sarcasm": 46.111111111111114,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 19.444444444444443,
+    "wit-surprise": 6.111111111111112,
+    "unknown": 6.111111111111111
+  },
+  {
+    "date": "2020-01-12",
+    "irony": 15.555555555555555,
+    "sarcasm": 45.27777777777777,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 18.88888888888889,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 5.833333333333333
+  },
+  {
+    "date": "2020-01-19",
+    "irony": 15.0,
+    "sarcasm": 45.55555555555555,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 7.222222222222222,
+    "unknown": 6.388888888888888
+  },
+  {
+    "date": "2020-01-26",
+    "irony": 16.38888888888889,
+    "sarcasm": 44.166666666666664,
+    "exaggeration": 3.611111111111111,
+    "incongruity-absurdity": 18.88888888888889,
+    "wit-surprise": 6.944444444444444,
+    "unknown": 5.833333333333333
+  },
+  {
+    "date": "2020-02-02",
+    "irony": 17.222222222222225,
+    "sarcasm": 40.55555555555556,
+    "exaggeration": 3.6111111111111107,
+    "incongruity-absurdity": 19.999999999999996,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 6.666666666666667
+  },
+  {
+    "date": "2020-02-09",
+    "irony": 16.944444444444446,
+    "sarcasm": 39.44444444444444,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 21.388888888888886,
+    "wit-surprise": 7.222222222222222,
+    "unknown": 8.055555555555555
+  },
+  {
+    "date": "2020-02-16",
+    "irony": 16.666666666666668,
+    "sarcasm": 38.888888888888886,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 20.277777777777775,
+    "wit-surprise": 7.222222222222221,
+    "unknown": 8.88888888888889
+  },
+  {
+    "date": "2020-02-23",
+    "irony": 16.11111111111111,
+    "sarcasm": 38.61111111111111,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 19.166666666666668,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 9.722222222222223
+  },
+  {
+    "date": "2020-03-01",
+    "irony": 15.833333333333334,
+    "sarcasm": 39.44444444444445,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2020-03-08",
+    "irony": 16.38888888888889,
+    "sarcasm": 36.38888888888889,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 18.88888888888889,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2020-03-15",
+    "irony": 16.38888888888889,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 19.166666666666668,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2020-03-22",
+    "irony": 15.555555555555555,
+    "sarcasm": 35.27777777777778,
+    "exaggeration": 6.666666666666668,
+    "incongruity-absurdity": 19.72222222222222,
+    "wit-surprise": 7.5,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2020-03-29",
+    "irony": 14.166666666666666,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 20.555555555555554,
+    "wit-surprise": 6.388888888888889,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2020-04-05",
+    "irony": 15.555555555555555,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 23.055555555555557,
+    "wit-surprise": 6.111111111111112,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2020-04-12",
+    "irony": 14.999999999999998,
+    "sarcasm": 33.61111111111111,
+    "exaggeration": 6.9444444444444455,
+    "incongruity-absurdity": 23.333333333333332,
+    "wit-surprise": 6.388888888888888,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2020-04-19",
+    "irony": 14.166666666666666,
+    "sarcasm": 32.5,
+    "exaggeration": 6.111111111111111,
+    "incongruity-absurdity": 22.777777777777775,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2020-04-26",
+    "irony": 13.888888888888891,
+    "sarcasm": 33.05555555555556,
+    "exaggeration": 6.9444444444444455,
+    "incongruity-absurdity": 22.777777777777775,
+    "wit-surprise": 5.833333333333333,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2020-05-03",
+    "irony": 14.722222222222221,
+    "sarcasm": 31.944444444444443,
+    "exaggeration": 6.944444444444444,
+    "incongruity-absurdity": 23.61111111111111,
+    "wit-surprise": 6.388888888888889,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2020-05-10",
+    "irony": 15.0,
+    "sarcasm": 30.277777777777775,
+    "exaggeration": 6.666666666666667,
+    "incongruity-absurdity": 24.722222222222225,
+    "wit-surprise": 7.222222222222221,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2020-05-17",
+    "irony": 15.277777777777777,
+    "sarcasm": 31.11111111111111,
+    "exaggeration": 7.777777777777778,
+    "incongruity-absurdity": 24.166666666666668,
+    "wit-surprise": 5.833333333333333,
+    "unknown": 10.277777777777779
+  },
+  {
+    "date": "2020-05-24",
+    "irony": 15.0,
+    "sarcasm": 31.666666666666668,
+    "exaggeration": 8.055555555555555,
+    "incongruity-absurdity": 23.055555555555557,
+    "wit-surprise": 6.388888888888889,
+    "unknown": 10.0
+  },
+  {
+    "date": "2020-05-31",
+    "irony": 14.722222222222223,
+    "sarcasm": 31.38888888888889,
+    "exaggeration": 8.611111111111112,
+    "incongruity-absurdity": 25.0,
+    "wit-surprise": 5.555555555555556,
+    "unknown": 10.0
+  },
+  {
+    "date": "2020-06-07",
+    "irony": 14.722222222222221,
+    "sarcasm": 33.333333333333336,
+    "exaggeration": 8.611111111111112,
+    "incongruity-absurdity": 23.61111111111111,
+    "wit-surprise": 5.555555555555556,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2020-06-14",
+    "irony": 13.611111111111109,
+    "sarcasm": 33.333333333333336,
+    "exaggeration": 8.333333333333334,
+    "incongruity-absurdity": 21.944444444444443,
+    "wit-surprise": 7.5,
+    "unknown": 9.722222222222221
+  },
+  {
+    "date": "2020-06-21",
+    "irony": 13.888888888888888,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 8.611111111111112,
+    "incongruity-absurdity": 20.0,
+    "wit-surprise": 7.777777777777779,
+    "unknown": 10.0
+  },
+  {
+    "date": "2020-06-28",
+    "irony": 12.777777777777779,
+    "sarcasm": 38.05555555555556,
+    "exaggeration": 8.611111111111112,
+    "incongruity-absurdity": 16.944444444444446,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 8.88888888888889
+  },
+  {
+    "date": "2020-07-05",
+    "irony": 13.055555555555557,
+    "sarcasm": 38.05555555555556,
+    "exaggeration": 8.333333333333334,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 9.722222222222221,
+    "unknown": 8.61111111111111
+  },
+  {
+    "date": "2020-07-12",
+    "irony": 13.888888888888891,
+    "sarcasm": 39.44444444444445,
+    "exaggeration": 8.611111111111112,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 10.0,
+    "unknown": 7.777777777777778
+  },
+  {
+    "date": "2020-07-19",
+    "irony": 13.055555555555555,
+    "sarcasm": 41.388888888888886,
+    "exaggeration": 7.777777777777778,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 7.777777777777779
+  },
+  {
+    "date": "2020-07-26",
+    "irony": 11.666666666666666,
+    "sarcasm": 43.88888888888889,
+    "exaggeration": 7.5,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 7.5
+  },
+  {
+    "date": "2020-08-02",
+    "irony": 11.944444444444443,
+    "sarcasm": 45.0,
+    "exaggeration": 7.222222222222222,
+    "incongruity-absurdity": 15.277777777777779,
+    "wit-surprise": 7.777777777777779,
+    "unknown": 6.666666666666667
+  },
+  {
+    "date": "2020-08-09",
+    "irony": 13.611111111111109,
+    "sarcasm": 44.72222222222223,
+    "exaggeration": 6.666666666666668,
+    "incongruity-absurdity": 14.444444444444445,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 6.666666666666667
+  },
+  {
+    "date": "2020-08-16",
+    "irony": 16.38888888888889,
+    "sarcasm": 42.5,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 14.722222222222221,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 7.777777777777778
+  },
+  {
+    "date": "2020-08-23",
+    "irony": 16.11111111111111,
+    "sarcasm": 46.11111111111111,
+    "exaggeration": 3.888888888888889,
+    "incongruity-absurdity": 12.5,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 7.5
+  },
+  {
+    "date": "2020-08-30",
+    "irony": 16.38888888888889,
+    "sarcasm": 43.05555555555555,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 13.888888888888888,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 8.611111111111112
+  },
+  {
+    "date": "2020-09-06",
+    "irony": 17.22222222222222,
+    "sarcasm": 44.44444444444445,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 13.888888888888888,
+    "wit-surprise": 7.5,
+    "unknown": 7.222222222222222
+  },
+  {
+    "date": "2020-09-13",
+    "irony": 16.666666666666668,
+    "sarcasm": 41.94444444444444,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 8.61111111111111
+  },
+  {
+    "date": "2020-09-20",
+    "irony": 16.666666666666668,
+    "sarcasm": 40.27777777777778,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 8.61111111111111,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2020-09-27",
+    "irony": 16.38888888888889,
+    "sarcasm": 39.44444444444444,
+    "exaggeration": 2.777777777777778,
+    "incongruity-absurdity": 15.277777777777779,
+    "wit-surprise": 6.944444444444444,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2020-10-04",
+    "irony": 15.833333333333334,
+    "sarcasm": 37.5,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 10.0
+  },
+  {
+    "date": "2020-10-11",
+    "irony": 16.38888888888889,
+    "sarcasm": 35.833333333333336,
+    "exaggeration": 5.555555555555557,
+    "incongruity-absurdity": 15.555555555555557,
+    "wit-surprise": 7.777777777777779,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2020-10-18",
+    "irony": 16.38888888888889,
+    "sarcasm": 34.44444444444444,
+    "exaggeration": 5.833333333333335,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2020-10-25",
+    "irony": 16.666666666666668,
+    "sarcasm": 32.77777777777778,
+    "exaggeration": 5.277777777777779,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 9.722222222222221,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2020-11-01",
+    "irony": 15.277777777777779,
+    "sarcasm": 33.333333333333336,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2020-11-08",
+    "irony": 13.333333333333334,
+    "sarcasm": 32.5,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 13.055555555555552
+  },
+  {
+    "date": "2020-11-15",
+    "irony": 13.611111111111109,
+    "sarcasm": 31.944444444444443,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 12.499999999999998
+  },
+  {
+    "date": "2020-11-22",
+    "irony": 12.5,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2020-11-29",
+    "irony": 11.944444444444445,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 5.277777777777779,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2020-12-06",
+    "irony": 12.222222222222221,
+    "sarcasm": 35.27777777777778,
+    "exaggeration": 5.277777777777778,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 8.888888888888888,
+    "unknown": 12.5
+  },
+  {
+    "date": "2020-12-13",
+    "irony": 12.5,
+    "sarcasm": 35.55555555555556,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 12.777777777777779
+  },
+  {
+    "date": "2020-12-20",
+    "irony": 11.944444444444443,
+    "sarcasm": 36.11111111111111,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 8.888888888888888,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2020-12-27",
+    "irony": 13.611111111111112,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2021-01-03",
+    "irony": 13.611111111111109,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 14.999999999999998,
+    "wit-surprise": 8.888888888888888,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2021-01-10",
+    "irony": 13.333333333333334,
+    "sarcasm": 35.55555555555556,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 15.277777777777777,
+    "wit-surprise": 8.888888888888888,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2021-01-17",
+    "irony": 11.944444444444445,
+    "sarcasm": 38.333333333333336,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2021-01-24",
+    "irony": 11.944444444444445,
+    "sarcasm": 38.333333333333336,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 14.722222222222223,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2021-01-31",
+    "irony": 11.388888888888891,
+    "sarcasm": 41.666666666666664,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 13.888888888888891,
+    "wit-surprise": 7.777777777777779,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2021-02-07",
+    "irony": 10.555555555555555,
+    "sarcasm": 39.72222222222222,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 12.5
+  },
+  {
+    "date": "2021-02-14",
+    "irony": 11.111111111111112,
+    "sarcasm": 40.0,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 15.277777777777777,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2021-02-21",
+    "irony": 11.388888888888888,
+    "sarcasm": 39.166666666666664,
+    "exaggeration": 3.0555555555555567,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 7.5,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2021-02-28",
+    "irony": 11.388888888888888,
+    "sarcasm": 41.94444444444445,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2021-03-07",
+    "irony": 10.555555555555555,
+    "sarcasm": 41.666666666666664,
+    "exaggeration": 2.500000000000001,
+    "incongruity-absurdity": 13.611111111111109,
+    "wit-surprise": 6.944444444444444,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2021-03-14",
+    "irony": 11.666666666666666,
+    "sarcasm": 43.611111111111114,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 6.944444444444444,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2021-03-21",
+    "irony": 10.555555555555555,
+    "sarcasm": 42.5,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 15.277777777777777,
+    "wit-surprise": 7.777777777777779,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2021-03-28",
+    "irony": 10.277777777777777,
+    "sarcasm": 44.72222222222222,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 7.777777777777779,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2021-04-04",
+    "irony": 11.388888888888888,
+    "sarcasm": 46.94444444444445,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 13.611111111111112,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2021-04-11",
+    "irony": 11.111111111111112,
+    "sarcasm": 45.833333333333336,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 13.611111111111112,
+    "wit-surprise": 6.388888888888889,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2021-04-18",
+    "irony": 11.111111111111109,
+    "sarcasm": 44.72222222222222,
+    "exaggeration": 1.6666666666666672,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 6.9444444444444455,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2021-04-25",
+    "irony": 10.277777777777777,
+    "sarcasm": 44.72222222222223,
+    "exaggeration": 1.6666666666666676,
+    "incongruity-absurdity": 14.999999999999998,
+    "wit-surprise": 7.222222222222221,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2021-05-02",
+    "irony": 11.666666666666666,
+    "sarcasm": 44.166666666666664,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 13.055555555555555,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2021-05-09",
+    "irony": 11.944444444444443,
+    "sarcasm": 41.94444444444444,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2021-05-16",
+    "irony": 11.944444444444445,
+    "sarcasm": 41.38888888888889,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 6.388888888888889,
+    "unknown": 14.166666666666664
+  },
+  {
+    "date": "2021-05-23",
+    "irony": 13.611111111111112,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 14.444444444444445
+  },
+  {
+    "date": "2021-05-30",
+    "irony": 15.0,
+    "sarcasm": 35.83333333333333,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 17.222222222222225,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 13.888888888888888
+  },
+  {
+    "date": "2021-06-06",
+    "irony": 14.166666666666666,
+    "sarcasm": 33.05555555555556,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 17.777777777777775,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 14.722222222222221
+  },
+  {
+    "date": "2021-06-13",
+    "irony": 13.055555555555555,
+    "sarcasm": 37.77777777777778,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 13.333333333333334
+  },
+  {
+    "date": "2021-06-20",
+    "irony": 13.611111111111112,
+    "sarcasm": 36.94444444444444,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 17.777777777777775,
+    "wit-surprise": 8.61111111111111,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2021-06-27",
+    "irony": 11.944444444444445,
+    "sarcasm": 36.111111111111114,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 13.333333333333334
+  },
+  {
+    "date": "2021-07-04",
+    "irony": 12.222222222222221,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2021-07-11",
+    "irony": 12.777777777777777,
+    "sarcasm": 35.0,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 18.055555555555554,
+    "wit-surprise": 11.944444444444445,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2021-07-18",
+    "irony": 13.888888888888888,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 17.22222222222222,
+    "wit-surprise": 12.5,
+    "unknown": 13.333333333333334
+  },
+  {
+    "date": "2021-07-25",
+    "irony": 13.055555555555555,
+    "sarcasm": 36.94444444444444,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 17.5,
+    "wit-surprise": 12.5,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2021-08-01",
+    "irony": 13.055555555555557,
+    "sarcasm": 40.27777777777778,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 12.222222222222223,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2021-08-08",
+    "irony": 12.5,
+    "sarcasm": 43.05555555555555,
+    "exaggeration": 1.6666666666666676,
+    "incongruity-absurdity": 15.277777777777779,
+    "wit-surprise": 12.5,
+    "unknown": 8.333333333333334
+  },
+  {
+    "date": "2021-08-15",
+    "irony": 12.777777777777779,
+    "sarcasm": 44.72222222222222,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 15.277777777777779,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2021-08-22",
+    "irony": 12.777777777777779,
+    "sarcasm": 43.05555555555555,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 13.888888888888888,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2021-08-29",
+    "irony": 14.166666666666666,
+    "sarcasm": 43.611111111111114,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 13.055555555555557,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2021-09-05",
+    "irony": 15.833333333333334,
+    "sarcasm": 37.77777777777778,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 12.222222222222223
+  },
+  {
+    "date": "2021-09-12",
+    "irony": 16.11111111111111,
+    "sarcasm": 38.333333333333336,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 12.222222222222223
+  },
+  {
+    "date": "2021-09-19",
+    "irony": 17.22222222222222,
+    "sarcasm": 40.0,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 14.444444444444445,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 12.222222222222223
+  },
+  {
+    "date": "2021-09-26",
+    "irony": 17.5,
+    "sarcasm": 41.11111111111111,
+    "exaggeration": 3.611111111111112,
+    "incongruity-absurdity": 14.444444444444445,
+    "wit-surprise": 7.500000000000001,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2021-10-03",
+    "irony": 16.944444444444446,
+    "sarcasm": 42.77777777777778,
+    "exaggeration": 3.611111111111112,
+    "incongruity-absurdity": 14.444444444444445,
+    "wit-surprise": 6.111111111111112,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2021-10-10",
+    "irony": 16.944444444444446,
+    "sarcasm": 41.666666666666664,
+    "exaggeration": 3.8888888888888893,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 6.111111111111112,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2021-10-17",
+    "irony": 16.666666666666668,
+    "sarcasm": 42.77777777777778,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 15.277777777777779,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2021-10-24",
+    "irony": 16.944444444444443,
+    "sarcasm": 40.833333333333336,
+    "exaggeration": 3.611111111111112,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 8.61111111111111,
+    "unknown": 10.833333333333334
+  },
+  {
+    "date": "2021-10-31",
+    "irony": 17.777777777777775,
+    "sarcasm": 38.333333333333336,
+    "exaggeration": 3.611111111111112,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2021-11-07",
+    "irony": 16.666666666666664,
+    "sarcasm": 39.44444444444444,
+    "exaggeration": 3.611111111111112,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2021-11-14",
+    "irony": 16.666666666666668,
+    "sarcasm": 41.11111111111111,
+    "exaggeration": 3.611111111111112,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2021-11-21",
+    "irony": 15.833333333333334,
+    "sarcasm": 41.38888888888889,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 17.5,
+    "wit-surprise": 8.611111111111112,
+    "unknown": 9.722222222222221
+  },
+  {
+    "date": "2021-11-28",
+    "irony": 14.166666666666666,
+    "sarcasm": 45.27777777777777,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 15.277777777777777,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 8.88888888888889
+  },
+  {
+    "date": "2021-12-05",
+    "irony": 13.611111111111112,
+    "sarcasm": 42.77777777777777,
+    "exaggeration": 3.0555555555555567,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2021-12-12",
+    "irony": 14.444444444444443,
+    "sarcasm": 40.0,
+    "exaggeration": 3.3333333333333344,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 10.277777777777777,
+    "unknown": 8.88888888888889
+  },
+  {
+    "date": "2021-12-19",
+    "irony": 14.444444444444443,
+    "sarcasm": 38.88888888888889,
+    "exaggeration": 4.166666666666667,
+    "incongruity-absurdity": 18.055555555555554,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 8.888888888888888
+  },
+  {
+    "date": "2021-12-26",
+    "irony": 13.888888888888888,
+    "sarcasm": 36.94444444444444,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 10.277777777777779,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2022-01-02",
+    "irony": 13.888888888888888,
+    "sarcasm": 36.388888888888886,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 17.77777777777778,
+    "wit-surprise": 9.722222222222221,
+    "unknown": 9.722222222222221
+  },
+  {
+    "date": "2022-01-09",
+    "irony": 15.555555555555555,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 6.111111111111112,
+    "incongruity-absurdity": 18.61111111111111,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 10.277777777777779
+  },
+  {
+    "date": "2022-01-16",
+    "irony": 14.722222222222221,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 17.77777777777778,
+    "wit-surprise": 7.222222222222222,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2022-01-23",
+    "irony": 13.333333333333334,
+    "sarcasm": 33.88888888888889,
+    "exaggeration": 6.111111111111111,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 7.5,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2022-01-30",
+    "irony": 12.777777777777779,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 5.5555555555555545,
+    "incongruity-absurdity": 18.055555555555554,
+    "wit-surprise": 7.222222222222222,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2022-02-06",
+    "irony": 13.888888888888888,
+    "sarcasm": 33.05555555555556,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 17.777777777777775,
+    "wit-surprise": 7.5,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2022-02-13",
+    "irony": 13.055555555555555,
+    "sarcasm": 35.0,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 16.388888888888886,
+    "wit-surprise": 7.5,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2022-02-20",
+    "irony": 13.888888888888888,
+    "sarcasm": 31.944444444444443,
+    "exaggeration": 6.666666666666667,
+    "incongruity-absurdity": 17.777777777777775,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 12.777777777777779
+  },
+  {
+    "date": "2022-02-27",
+    "irony": 14.444444444444443,
+    "sarcasm": 33.333333333333336,
+    "exaggeration": 6.666666666666667,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 12.5
+  },
+  {
+    "date": "2022-03-06",
+    "irony": 13.055555555555555,
+    "sarcasm": 33.61111111111111,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 6.111111111111112,
+    "unknown": 13.333333333333334
+  },
+  {
+    "date": "2022-03-13",
+    "irony": 12.777777777777779,
+    "sarcasm": 32.5,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 6.388888888888889,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2022-03-20",
+    "irony": 14.722222222222221,
+    "sarcasm": 31.388888888888886,
+    "exaggeration": 4.722222222222223,
+    "incongruity-absurdity": 14.999999999999998,
+    "wit-surprise": 6.666666666666667,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2022-03-27",
+    "irony": 13.888888888888888,
+    "sarcasm": 31.944444444444443,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 14.166666666666664,
+    "wit-surprise": 7.222222222222222,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2022-04-03",
+    "irony": 11.666666666666666,
+    "sarcasm": 32.22222222222222,
+    "exaggeration": 6.9444444444444455,
+    "incongruity-absurdity": 13.333333333333334,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2022-04-10",
+    "irony": 12.222222222222221,
+    "sarcasm": 33.333333333333336,
+    "exaggeration": 7.5,
+    "incongruity-absurdity": 14.166666666666664,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 12.777777777777777
+  },
+  {
+    "date": "2022-04-17",
+    "irony": 12.777777777777777,
+    "sarcasm": 34.72222222222222,
+    "exaggeration": 7.222222222222224,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 6.944444444444444,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2022-04-24",
+    "irony": 13.888888888888888,
+    "sarcasm": 31.666666666666668,
+    "exaggeration": 8.055555555555557,
+    "incongruity-absurdity": 15.277777777777779,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2022-05-01",
+    "irony": 12.222222222222221,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 8.333333333333334,
+    "incongruity-absurdity": 13.055555555555557,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 11.388888888888891
+  },
+  {
+    "date": "2022-05-08",
+    "irony": 14.722222222222221,
+    "sarcasm": 31.388888888888886,
+    "exaggeration": 7.5,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2022-05-15",
+    "irony": 16.666666666666668,
+    "sarcasm": 31.666666666666668,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 13.333333333333334,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2022-05-22",
+    "irony": 15.833333333333334,
+    "sarcasm": 29.722222222222225,
+    "exaggeration": 6.111111111111112,
+    "incongruity-absurdity": 12.5,
+    "wit-surprise": 10.833333333333334,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2022-05-29",
+    "irony": 15.555555555555557,
+    "sarcasm": 32.77777777777778,
+    "exaggeration": 6.111111111111112,
+    "incongruity-absurdity": 11.388888888888888,
+    "wit-surprise": 11.111111111111112,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2022-06-05",
+    "irony": 15.0,
+    "sarcasm": 33.05555555555555,
+    "exaggeration": 6.9444444444444455,
+    "incongruity-absurdity": 12.222222222222221,
+    "wit-surprise": 10.833333333333334,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2022-06-12",
+    "irony": 13.333333333333334,
+    "sarcasm": 34.44444444444444,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 12.5,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 12.777777777777779
+  },
+  {
+    "date": "2022-06-19",
+    "irony": 13.611111111111112,
+    "sarcasm": 32.5,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 14.444444444444443
+  },
+  {
+    "date": "2022-06-26",
+    "irony": 14.722222222222221,
+    "sarcasm": 35.0,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 14.722222222222221,
+    "wit-surprise": 8.888888888888888,
+    "unknown": 14.444444444444443
+  },
+  {
+    "date": "2022-07-03",
+    "irony": 15.833333333333334,
+    "sarcasm": 33.61111111111111,
+    "exaggeration": 2.7777777777777786,
+    "incongruity-absurdity": 15.555555555555557,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2022-07-10",
+    "irony": 16.11111111111111,
+    "sarcasm": 30.0,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 13.888888888888891,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2022-07-17",
+    "irony": 15.555555555555555,
+    "sarcasm": 30.833333333333332,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 15.277777777777777,
+    "wit-surprise": 13.888888888888891,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2022-07-24",
+    "irony": 15.277777777777779,
+    "sarcasm": 31.388888888888886,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 15.833333333333334,
+    "wit-surprise": 12.777777777777777,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2022-07-31",
+    "irony": 15.277777777777779,
+    "sarcasm": 33.05555555555555,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 15.555555555555557,
+    "wit-surprise": 11.388888888888888,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2022-08-07",
+    "irony": 14.444444444444445,
+    "sarcasm": 32.5,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 15.0,
+    "wit-surprise": 13.611111111111112,
+    "unknown": 13.33333333333333
+  },
+  {
+    "date": "2022-08-14",
+    "irony": 14.722222222222221,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 2.500000000000001,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 13.055555555555557,
+    "unknown": 13.888888888888888
+  },
+  {
+    "date": "2022-08-21",
+    "irony": 14.722222222222221,
+    "sarcasm": 33.88888888888889,
+    "exaggeration": 2.500000000000001,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 12.222222222222223,
+    "unknown": 14.444444444444443
+  },
+  {
+    "date": "2022-08-28",
+    "irony": 14.722222222222221,
+    "sarcasm": 36.388888888888886,
+    "exaggeration": 1.9444444444444449,
+    "incongruity-absurdity": 16.38888888888889,
+    "wit-surprise": 12.222222222222223,
+    "unknown": 12.5
+  },
+  {
+    "date": "2022-09-04",
+    "irony": 14.444444444444443,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 2.222222222222223,
+    "incongruity-absurdity": 15.555555555555555,
+    "wit-surprise": 13.611111111111109,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2022-09-11",
+    "irony": 15.555555555555555,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 14.444444444444443,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2022-09-18",
+    "irony": 15.277777777777779,
+    "sarcasm": 37.22222222222222,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 14.444444444444445,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2022-09-25",
+    "irony": 15.277777777777779,
+    "sarcasm": 36.94444444444444,
+    "exaggeration": 3.0555555555555567,
+    "incongruity-absurdity": 13.333333333333334,
+    "wit-surprise": 13.611111111111112,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2022-10-02",
+    "irony": 15.0,
+    "sarcasm": 37.5,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 10.0,
+    "unknown": 13.611111111111112
+  },
+  {
+    "date": "2022-10-09",
+    "irony": 13.888888888888891,
+    "sarcasm": 40.55555555555555,
+    "exaggeration": 3.611111111111112,
+    "incongruity-absurdity": 13.611111111111112,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 12.777777777777779
+  },
+  {
+    "date": "2022-10-16",
+    "irony": 13.611111111111109,
+    "sarcasm": 41.666666666666664,
+    "exaggeration": 3.3333333333333344,
+    "incongruity-absurdity": 13.888888888888888,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2022-10-23",
+    "irony": 11.666666666666666,
+    "sarcasm": 38.05555555555556,
+    "exaggeration": 3.8888888888888897,
+    "incongruity-absurdity": 16.944444444444443,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 13.888888888888891
+  },
+  {
+    "date": "2022-10-30",
+    "irony": 11.388888888888891,
+    "sarcasm": 38.33333333333333,
+    "exaggeration": 3.8888888888888893,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 7.222222222222221,
+    "unknown": 14.444444444444443
+  },
+  {
+    "date": "2022-11-06",
+    "irony": 11.111111111111109,
+    "sarcasm": 36.11111111111111,
+    "exaggeration": 3.611111111111112,
+    "incongruity-absurdity": 19.444444444444443,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 15.277777777777777
+  },
+  {
+    "date": "2022-11-13",
+    "irony": 13.333333333333334,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 3.8888888888888893,
+    "incongruity-absurdity": 20.0,
+    "wit-surprise": 8.61111111111111,
+    "unknown": 15.0
+  },
+  {
+    "date": "2022-11-20",
+    "irony": 15.277777777777779,
+    "sarcasm": 32.22222222222222,
+    "exaggeration": 5.0,
+    "incongruity-absurdity": 20.277777777777775,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 14.444444444444445
+  },
+  {
+    "date": "2022-11-27",
+    "irony": 15.555555555555555,
+    "sarcasm": 31.11111111111111,
+    "exaggeration": 5.833333333333335,
+    "incongruity-absurdity": 21.11111111111111,
+    "wit-surprise": 6.388888888888889,
+    "unknown": 14.444444444444443
+  },
+  {
+    "date": "2022-12-04",
+    "irony": 14.999999999999998,
+    "sarcasm": 32.22222222222222,
+    "exaggeration": 6.38888888888889,
+    "incongruity-absurdity": 21.11111111111111,
+    "wit-surprise": 6.111111111111112,
+    "unknown": 13.055555555555557
+  },
+  {
+    "date": "2022-12-11",
+    "irony": 14.722222222222221,
+    "sarcasm": 28.888888888888886,
+    "exaggeration": 6.666666666666668,
+    "incongruity-absurdity": 21.11111111111111,
+    "wit-surprise": 7.777777777777778,
+    "unknown": 14.722222222222221
+  },
+  {
+    "date": "2022-12-18",
+    "irony": 13.888888888888891,
+    "sarcasm": 29.444444444444443,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 22.5,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 13.888888888888888
+  },
+  {
+    "date": "2022-12-25",
+    "irony": 14.444444444444445,
+    "sarcasm": 29.722222222222218,
+    "exaggeration": 5.277777777777779,
+    "incongruity-absurdity": 22.222222222222225,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 12.5
+  },
+  {
+    "date": "2023-01-01",
+    "irony": 17.22222222222222,
+    "sarcasm": 27.5,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 22.777777777777782,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 12.5
+  },
+  {
+    "date": "2023-01-08",
+    "irony": 17.499999999999996,
+    "sarcasm": 27.222222222222225,
+    "exaggeration": 5.277777777777778,
+    "incongruity-absurdity": 22.222222222222218,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2023-01-15",
+    "irony": 17.22222222222222,
+    "sarcasm": 31.388888888888886,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 20.0,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2023-01-22",
+    "irony": 16.944444444444446,
+    "sarcasm": 31.944444444444443,
+    "exaggeration": 5.000000000000001,
+    "incongruity-absurdity": 18.88888888888889,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2023-01-29",
+    "irony": 17.222222222222218,
+    "sarcasm": 32.22222222222222,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 16.666666666666664,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2023-02-05",
+    "irony": 14.999999999999998,
+    "sarcasm": 31.38888888888889,
+    "exaggeration": 4.4444444444444455,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 11.944444444444445
+  },
+  {
+    "date": "2023-02-12",
+    "irony": 13.611111111111109,
+    "sarcasm": 31.11111111111111,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 12.5
+  },
+  {
+    "date": "2023-02-19",
+    "irony": 13.055555555555555,
+    "sarcasm": 31.666666666666668,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 10.833333333333334,
+    "unknown": 12.5
+  },
+  {
+    "date": "2023-02-26",
+    "irony": 13.333333333333334,
+    "sarcasm": 30.555555555555554,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 11.111111111111112,
+    "unknown": 13.055555555555555
+  },
+  {
+    "date": "2023-03-05",
+    "irony": 13.333333333333334,
+    "sarcasm": 31.944444444444443,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 20.555555555555554,
+    "wit-surprise": 9.166666666666666,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2023-03-12",
+    "irony": 12.777777777777777,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 19.444444444444446,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2023-03-19",
+    "irony": 11.666666666666666,
+    "sarcasm": 35.27777777777778,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 18.333333333333332,
+    "wit-surprise": 8.333333333333334,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2023-03-26",
+    "irony": 10.833333333333334,
+    "sarcasm": 33.888888888888886,
+    "exaggeration": 4.444444444444445,
+    "incongruity-absurdity": 19.444444444444443,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 11.666666666666666
+  },
+  {
+    "date": "2023-04-02",
+    "irony": 12.222222222222221,
+    "sarcasm": 31.388888888888886,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 20.0,
+    "wit-surprise": 9.444444444444445,
+    "unknown": 12.222222222222221
+  },
+  {
+    "date": "2023-04-09",
+    "irony": 13.611111111111109,
+    "sarcasm": 27.222222222222225,
+    "exaggeration": 5.277777777777779,
+    "incongruity-absurdity": 19.72222222222222,
+    "wit-surprise": 12.222222222222223,
+    "unknown": 11.944444444444443
+  },
+  {
+    "date": "2023-04-16",
+    "irony": 12.777777777777779,
+    "sarcasm": 29.166666666666668,
+    "exaggeration": 5.833333333333333,
+    "incongruity-absurdity": 18.88888888888889,
+    "wit-surprise": 11.666666666666666,
+    "unknown": 11.388888888888888
+  },
+  {
+    "date": "2023-04-23",
+    "irony": 11.944444444444443,
+    "sarcasm": 31.388888888888886,
+    "exaggeration": 6.388888888888889,
+    "incongruity-absurdity": 20.833333333333332,
+    "wit-surprise": 11.388888888888891,
+    "unknown": 11.111111111111112
+  },
+  {
+    "date": "2023-04-30",
+    "irony": 13.611111111111112,
+    "sarcasm": 31.11111111111111,
+    "exaggeration": 6.666666666666667,
+    "incongruity-absurdity": 19.72222222222222,
+    "wit-surprise": 11.944444444444443,
+    "unknown": 10.555555555555555
+  },
+  {
+    "date": "2023-05-07",
+    "irony": 13.888888888888888,
+    "sarcasm": 31.11111111111111,
+    "exaggeration": 6.9444444444444455,
+    "incongruity-absurdity": 20.833333333333332,
+    "wit-surprise": 12.777777777777777,
+    "unknown": 9.722222222222221
+  },
+  {
+    "date": "2023-05-14",
+    "irony": 14.444444444444445,
+    "sarcasm": 31.944444444444443,
+    "exaggeration": 6.666666666666668,
+    "incongruity-absurdity": 20.833333333333332,
+    "wit-surprise": 12.222222222222221,
+    "unknown": 10.0
+  },
+  {
+    "date": "2023-05-21",
+    "irony": 12.777777777777777,
+    "sarcasm": 34.166666666666664,
+    "exaggeration": 5.555555555555556,
+    "incongruity-absurdity": 20.0,
+    "wit-surprise": 13.888888888888888,
+    "unknown": 10.277777777777777
+  },
+  {
+    "date": "2023-05-28",
+    "irony": 14.72222222222222,
+    "sarcasm": 32.77777777777778,
+    "exaggeration": 5.277777777777779,
+    "incongruity-absurdity": 18.88888888888889,
+    "wit-surprise": 13.888888888888888,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2023-06-04",
+    "irony": 14.166666666666664,
+    "sarcasm": 32.77777777777778,
+    "exaggeration": 4.4444444444444455,
+    "incongruity-absurdity": 18.888888888888886,
+    "wit-surprise": 15.0,
+    "unknown": 9.444444444444443
+  },
+  {
+    "date": "2023-06-11",
+    "irony": 14.166666666666666,
+    "sarcasm": 32.22222222222222,
+    "exaggeration": 4.722222222222222,
+    "incongruity-absurdity": 18.055555555555554,
+    "wit-surprise": 13.611111111111109,
+    "unknown": 9.444444444444443
+  },
+  {
+    "date": "2023-06-18",
+    "irony": 12.777777777777777,
+    "sarcasm": 35.833333333333336,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 17.222222222222218,
+    "wit-surprise": 13.333333333333334,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2023-06-25",
+    "irony": 11.111111111111112,
+    "sarcasm": 39.44444444444444,
+    "exaggeration": 3.3333333333333344,
+    "incongruity-absurdity": 15.83333333333333,
+    "wit-surprise": 13.333333333333336,
+    "unknown": 8.61111111111111
+  },
+  {
+    "date": "2023-07-02",
+    "irony": 9.444444444444445,
+    "sarcasm": 42.5,
+    "exaggeration": 2.5000000000000004,
+    "incongruity-absurdity": 16.11111111111111,
+    "wit-surprise": 10.277777777777779,
+    "unknown": 9.722222222222221
+  },
+  {
+    "date": "2023-07-09",
+    "irony": 9.999999999999998,
+    "sarcasm": 42.22222222222222,
+    "exaggeration": 1.9444444444444453,
+    "incongruity-absurdity": 16.666666666666668,
+    "wit-surprise": 10.833333333333334,
+    "unknown": 9.722222222222221
+  },
+  {
+    "date": "2023-07-16",
+    "irony": 11.111111111111109,
+    "sarcasm": 43.333333333333336,
+    "exaggeration": 1.6666666666666676,
+    "incongruity-absurdity": 14.444444444444443,
+    "wit-surprise": 11.388888888888888,
+    "unknown": 8.61111111111111
+  },
+  {
+    "date": "2023-07-23",
+    "irony": 9.722222222222221,
+    "sarcasm": 46.11111111111111,
+    "exaggeration": 1.6666666666666672,
+    "incongruity-absurdity": 14.166666666666666,
+    "wit-surprise": 11.388888888888891,
+    "unknown": 7.777777777777778
+  },
+  {
+    "date": "2023-07-30",
+    "irony": 8.888888888888888,
+    "sarcasm": 47.49999999999999,
+    "exaggeration": 2.2222222222222228,
+    "incongruity-absurdity": 13.888888888888888,
+    "wit-surprise": 10.555555555555555,
+    "unknown": 8.333333333333334
+  },
+  {
+    "date": "2023-08-06",
+    "irony": 9.444444444444445,
+    "sarcasm": 45.0,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 14.722222222222221,
+    "wit-surprise": 9.722222222222223,
+    "unknown": 9.444444444444445
+  },
+  {
+    "date": "2023-08-13",
+    "irony": 10.833333333333334,
+    "sarcasm": 43.333333333333336,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 17.22222222222222,
+    "wit-surprise": 8.055555555555555,
+    "unknown": 8.888888888888888
+  },
+  {
+    "date": "2023-08-20",
+    "irony": 10.555555555555555,
+    "sarcasm": 44.166666666666664,
+    "exaggeration": 3.055555555555556,
+    "incongruity-absurdity": 17.222222222222225,
+    "wit-surprise": 8.88888888888889,
+    "unknown": 9.166666666666666
+  },
+  {
+    "date": "2023-08-27",
+    "irony": 11.212121212121211,
+    "sarcasm": 43.33333333333333,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 17.272727272727273,
+    "wit-surprise": 8.484848484848486,
+    "unknown": 9.393939393939394
+  },
+  {
+    "date": "2023-09-03",
+    "irony": 11.999999999999998,
+    "sarcasm": 44.666666666666664,
+    "exaggeration": 3.3333333333333335,
+    "incongruity-absurdity": 18.333333333333336,
+    "wit-surprise": 9.0,
+    "unknown": 9.333333333333334
+  },
+  {
+    "date": "2023-09-10",
+    "irony": 12.222222222222221,
+    "sarcasm": 42.22222222222222,
+    "exaggeration": 3.703703703703704,
+    "incongruity-absurdity": 18.88888888888889,
+    "wit-surprise": 9.62962962962963,
+    "unknown": 10.0
+  },
+  {
+    "date": "2023-09-17",
+    "irony": 13.333333333333332,
+    "sarcasm": 40.0,
+    "exaggeration": 3.333333333333334,
+    "incongruity-absurdity": 20.833333333333336,
+    "wit-surprise": 7.916666666666668,
+    "unknown": 11.25
+  },
+  {
+    "date": "2023-09-24",
+    "irony": 15.238095238095237,
+    "sarcasm": 39.52380952380952,
+    "exaggeration": 3.80952380952381,
+    "incongruity-absurdity": 20.952380952380956,
+    "wit-surprise": 8.571428571428573,
+    "unknown": 10.0
+  }
+]

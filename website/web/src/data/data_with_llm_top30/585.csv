@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3,"you have three wishes, as long as they're light, medium and dark..",1.909873417721519,0.0121056445547015,3950,1337,1632,981,incongruity-absurdity,positive
+1,"OK, your crumb tray is cleaned and the coffee is brewing. You have one left.",1.9493807215939687,0.0123710785381737,3714,1154,1594,966,sarcasm,neutral
+9,"Rub all you like, kid. All you're gonna get is toast.",1.8042117245304496,0.012719834006731,3514,1410,1382,722,sarcasm,negative
+0,"I went ahead and fixed the bagel setting, too. So with parts and labor, that actually comes out to two wishes.",1.971835345094398,0.0131346718323981,3231,947,1428,856,sarcasm,neutral
+2,It was the only way I could get into the country.,1.918000653381248,0.0145993452234757,3061,1134,1044,883,unknown,neutral
+4,Toasted sesame is way different than open sesame and you know it.,1.865709156193896,0.0150568614524744,2785,1091,977,717,wit-surprise,negative
+6,"Listen, if you want to talk to my supervisor, rub the coffee maker.",1.8193430656934304,0.0144432728608715,2740,1075,1085,580,sarcasm,neutral
+10,World peace? When you so obviously need a blender?,1.7982944011865036,0.0147888808542488,2697,1122,997,578,sarcasm,negative
+16,"Make a different wish, your bagel is really stuck.",1.75,0.0147388447121152,2652,1178,959,515,unknown,negative
+5,"Thanks, kid, I've been in there since your parents' wedding.",1.8480565371024733,0.0155410244509193,2547,1006,922,619,sarcasm,positive
+15,"The lamp was great, but the toaster has internet.",1.753257328990228,0.0152186625925445,2456,1076,910,470,wit-surprise,positive
+12,Could you please rub the coffee pot? I need to talk to my wife.,1.778014486578611,0.016100672403993,2347,1032,804,511,unknown,neutral
+18,It wasn't plugged in. You have two more wishes.,1.7160148975791434,0.0162030772082809,2148,997,764,387,incongruity-absurdity,neutral
+17,"I know it's not customary, but the last guy rubbed me the wrong way.",1.7221163012392755,0.01625873465088,2098,954,773,371,sarcasm,negative
+8,"Thanks, Master! For awhile there, I thought I was toast!",1.807486631016043,0.0170799844175264,2057,853,747,457,wit-surprise,positive
+20,Two wishes remaining. Maybe aim a little higher than 'fix the toaster?',1.684387241186346,0.0172163578128105,1787,844,663,280,unknown,neutral
+13,"Oh, a Hamilton seat!! I thought you said a Hamilton-Beach.",1.7721984078383344,0.0196520977424965,1633,743,519,371,wit-surprise,neutral
+7,"Toast, Master?",1.8117897727272727,0.020800488053866,1408,586,501,321,sarcasm,neutral
+14,"Sorry, kid, if I could make America great, I wouldn't be living in a toaster.",1.7541218637992833,0.0210377009564524,1395,644,450,301,sarcasm,negative
+19,Your first wish is a Pop Tart?,1.6910569105691058,0.0199611402983172,1353,638,495,220,incongruity-absurdity,neutral
+24,You get 3 slices...,1.6593851132686084,0.0214388964469481,1236,633,391,212,incongruity-absurdity,neutral
+25,I can fix the toaster but I still say you'd be better off wishing for a new one.,1.6555555555555554,0.0208079809135489,1170,567,439,164,incongruity-absurdity,negative
+22,Next time disable your pop-up blocker.,1.6730103806228374,0.0220369201818856,1156,575,384,197,sarcasm,neutral
+27,I would have been here sooner but I had to find a way around the Travel Ban.,1.6531332744924978,0.0224546871587821,1133,588,350,195,sarcasm,neutral
+29,Rub me the wrong way and you're toast,1.6463768115942028,0.0231305167017236,1035,534,333,168,sarcasm,negative
+28,"With this travel ban, it was the only way I could get into the country.",1.6492985971943888,0.0239188552092451,998,521,306,171,exaggeration,neutral
+21,"This place is way better, has two skylights and an elevator.",1.673960612691466,0.0247903449741015,914,454,304,156,irony,positive
+30,Take three more. I couldn't get all the crumbs out either.,1.6345291479820627,0.0242365292047182,892,456,306,130,incongruity-absurdity,negative
+26,"Yeah, but it's a dry heat.",1.653579676674365,0.0244026172595155,866,425,316,125,irony,neutral
+32,"What can I say, kid? It's roomier and has central heating and an elevator.",1.6296296296296295,0.0261689214506104,837,452,243,142,unknown,positive

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"On your way to the Republican National Convention, I see.",2.027609108159393,0.0080581793144624,10540,3476,3307,3757,sarcasm,neutral
+...there's yer problem!  ya gotta short circus!,2.1765005604809944,0.0078135112560346,9813,2239,3611,3963,incongruity-absurdity,negative
+"Well, there’s your problem, we’ll need to change attire.",1.9523655217109528,0.0081910569463411,9258,3116,3474,2668,sarcasm,negative
+You say it's been sounding funny?,1.8906828119744368,0.0080077586042815,8919,3101,3699,2119,sarcasm,neutral
+Is it wise for the entire presidential administration to ride in one car?,2.1061936541388597,0.008907001501348,8541,2497,2647,3397,wit-surprise,neutral
+"We had to replace one of the clowns with a politician, but you shouldn't see much of a difference in the ride.",1.9951289057859096,0.0086862877871902,8417,2700,3063,2654,unknown,negative
+I'd say your problem is this dipstick.,1.970090708506987,0.0088132009140568,8158,2719,2969,2470,sarcasm,negative
+No wonder it pulls to the right.,1.99702712746191,0.0090523153393049,8073,2693,2720,2660,incongruity-absurdity,neutral
+That's what you get for driving a shtick.,1.859503039915411,0.0092010727365746,7566,3036,2561,1969,sarcasm,negative
+"TOWN car, Bill. I suggested you buy a TOWN car.",1.8450086401701449,0.0090035842513462,7523,2982,2735,1806,wit-surprise,neutral
+I found something serious under the hood.,1.87012987012987,0.0089038382167597,7469,2774,2900,1795,unknown,neutral
+Looks like one of them has bad timing.,1.820246690734055,0.0092710787998642,6648,2607,2631,1410,irony,negative
+Who's the clown in the suit?,1.9356583364416264,0.0106767432702398,5362,1833,2049,1480,sarcasm,negative
+"The parts are cheap, but getting rid of the lawyer is going to cost you.",1.927465054778995,0.0109277201707804,5294,1887,1908,1499,wit-surprise,negative
+"No, I said we fix ‘town’ cars.",1.9068637803590285,0.0111323356002678,4735,1630,1916,1189,wit-surprise,neutral
+Looks like it might be a faulty circus breaker,1.7754182754182757,0.0110471398134314,4662,1977,1763,922,irony,negative
+I think we’ve found the source of the funny noises,1.9735353992309432,0.0114724442139879,4421,1346,1846,1229,incongruity-absurdity,neutral
+"I only had a straight man in stock, but that should get you back on the road.",1.8177434908389585,0.0115435980543587,4148,1604,1703,841,wit-surprise,neutral
+"Beats me--we swap out clowns and politicians all the time, never had a problem.""",1.8213380638621388,0.0126448646403603,3946,1660,1331,955,sarcasm,neutral
+"You’re good to go, the knocking sound was the Jehovah’s Witness.",1.7234760051880675,0.0130371310173555,3855,1945,1032,878,sarcasm,positive
+One of your nuts is defective.,1.7081967213114757,0.0124517089923332,3660,1728,1272,660,incongruity-absurdity,negative
+"The engine keeps making a 'Knock, Knock, who's there?' sound.",1.764640577296697,0.0130388604116684,3603,1627,1197,779,incongruity-absurdity,neutral
+Ha!  I knew it. They didn’t use genuine clown parts.,1.754646840148699,0.0125628275724953,3497,1509,1342,646,incongruity-absurdity,negative
+I think I know why it’s pulling to the right.,1.70547323858482,0.0131936759205737,3307,1582,1117,608,incongruity-absurdity,neutral
+I can order a new clown for five-hundred or slap a wig and a nose on this one for half.,1.8481089258698944,0.0133074391372928,3305,1256,1295,754,unknown,neutral
+I can tell you where the funny noise is NOT coming from.,1.6980668916845658,0.0129218332670377,3259,1527,1189,543,wit-surprise,negative
+Nothing a little powder and a red rubber nose won't fix.,1.70062893081761,0.0130248604518948,3180,1476,1180,524,self-deprecating,negative
+What clown fixed this the last time?,1.6912144702842378,0.0134320315762819,3096,1490,1072,534,sarcasm,negative
+I just need to loosen this one up a little bit.,1.7269492073762536,0.0131018597342588,3091,1357,1221,513,unknown,neutral
+"Elect a clown, expect a circus.",1.7373207415180132,0.0148904661444273,2859,1380,850,629,wit-surprise,negative

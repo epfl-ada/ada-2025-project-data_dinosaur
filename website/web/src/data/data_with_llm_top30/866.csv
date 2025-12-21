@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It’s mostly water weight.,1.6708456243854477,0.0091179403585989,8136,4531,1752,1853,self-deprecating,neutral
+Everything I drink goes to my equator.”,1.636842105263158,0.0093482334289857,7410,4233,1635,1542,unknown,neutral
+One more round and I'll call it a day.,1.6048006048006047,0.0107701120416528,5291,3082,1218,991,sarcasm,neutral
+I turn around and the day is gone.,1.6116141732283464,0.0109270965984938,5080,2910,1233,937,unknown,neutral
+Did I mention that I'm bipolar?,1.6056307758435415,0.0113802269918805,4653,2681,1126,846,self-deprecating,neutral
+"Look, pal — I know when something is seventy percent water.",1.6721620348563353,0.0125074485458073,4246,2334,970,942,sarcasm,neutral
+I just found out that I’m bipolar,1.5620473201352003,0.011901606883623,4142,2519,918,705,irony,negative
+It's five o'clock somewhere.,1.6377933704330994,0.0125663639178475,4133,2368,894,871,irony,neutral
+I just discovered I'm bipolar.,1.5674562306900104,0.012244986963063,3884,2334,896,654,unknown,negative
+I think I’m bipolar.,1.619751626256653,0.0134580062122633,3382,1923,822,637,self-deprecating,negative
+My problems started when I gave Saturn a ring.,1.563265306122449,0.0131195498060334,3185,1872,832,481,incongruity-absurdity,negative
+I have to watch what I drink—I’m bipolar.,1.5864925135393435,0.0137092102022865,3139,1843,751,545,self-deprecating,neutral
+Everything’s on me.,1.5114276250414045,0.0138761075633913,3019,1975,544,500,self-deprecating,neutral
+Turns out I'm bipolar.,1.508289241622575,0.0138382154209649,2835,1809,611,415,self-deprecating,negative
+It just feels like I’ve been going in circles for years.,1.6765894891583977,0.0148831060710853,2721,1402,797,522,self-deprecating,negative
+In about a minute you'll have the world at your feet.,1.5521449704142012,0.0146499560751191,2704,1661,593,450,incongruity-absurdity,positive
+Could I get some more ice?,1.6399239543726236,0.0147191895083863,2630,1393,791,446,unknown,neutral
+I remember the day that Mars said “You’ll regret being habitable”,1.6516504854368932,0.015694148657072,2575,1421,630,524,irony,neutral
+Before Copernicus I was at the center of it all,1.647573587907717,0.0153147043130315,2514,1340,720,454,wit-surprise,neutral
+"If you’ve got the tequila, I’ve got the sunrise.",1.5522995522995524,0.0151527385624786,2457,1489,579,389,sarcasm,neutral
+She used to think I was the center of the universe.,1.6991666666666667,0.0157860940869832,2400,1187,748,465,self-deprecating,neutral
+She left me for someone cooler.,1.5714881200500208,0.014878461307563,2399,1371,685,343,irony,neutral
+"Lenny, you ever wake up one day and realize you're just not as cool as you were 100 years ago?",1.4995826377295491,0.0152868553313623,2396,1570,455,371,self-deprecating,negative
+How does it feel to be the world’s favorite bartender?,1.4963721724285104,0.0149943818227303,2343,1504,515,324,sarcasm,positive
+"Is it getting warmer in here, or is it just me?",1.4961038961038962,0.0151081147394069,2310,1484,506,320,self-deprecating,neutral
+I just found out I'm bipolar.,1.681636282792352,0.0169004579042393,2249,1194,577,478,unknown,negative
+"Excuse me, but there's plastic in my water.",1.5901044030867,0.0159936001760576,2203,1257,592,354,sarcasm,negative
+Thirty years ago I was way cooler.,1.7875056999544003,0.0172655381166765,2193,999,661,533,self-deprecating,positive
+I used to be a lot cooler.,1.495664080328617,0.0142306528266867,2191,1317,662,212,self-deprecating,positive
+I’ll take a frozen ANYTHING!,1.5671094823637195,0.015678665173493,2183,1265,599,319,unknown,neutral

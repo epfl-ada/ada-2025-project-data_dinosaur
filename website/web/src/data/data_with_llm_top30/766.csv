@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Well played, Fran. The tuba will be gone by morning.",1.8661215327881997,0.0103757983478452,6237,2567,1938,1732,sarcasm,positive
+"Yes, I'm sure the noise is coming from your apartment!",1.775489396411093,0.0111622368357762,4904,2172,1661,1071,sarcasm,neutral
+I sent my wife up an hour ago about the noise. Have you seen her?,1.799905168326221,0.0122038180611371,4218,1831,1400,987,sarcasm,neutral
+"Yes, I'm pretty sure the noise is coming from your apartment.""",1.813935874779096,0.0123331337499242,3961,1630,1438,893,sarcasm,neutral
+I hope my knocking on your door for the last 20 minutes didn't disturb you.,1.8154626108998733,0.012624198927223,3945,1671,1331,943,sarcasm,neutral
+"To begin with, I am not anti-vacs.",1.7765486725663715,0.0133378326888315,3616,1657,1110,849,irony,neutral
+This is the only time I would consider myself anti-vacs,1.7487366647950588,0.0133366909494588,3562,1688,1081,793,sarcasm,negative
+Just when I thought nothing could suck more than 2020…,1.796600566572238,0.0136349098501749,3530,1590,1068,872,exaggeration,negative
+You could say I’m anti-vacs.,1.7656927972230256,0.0134154115335082,3457,1575,1117,765,self-deprecating,neutral
+"Ok you win, I'll turn down Fox News.",1.8070124601564763,0.0138792031604632,3451,1544,1029,878,sarcasm,neutral
+I'm one floor below.  I believe you have my chandelier.,1.779682143970084,0.0137674269589173,3209,1407,1102,700,wit-surprise,neutral
+You win. I'll give up the saxophone.,1.7971518987341772,0.0137924429740836,3160,1335,1131,694,sarcasm,positive
+I hear you have dirt on everyone in the building.,1.7863057324840763,0.0140641509072063,3140,1382,1047,711,sarcasm,negative
+It's not only nature that abhors a vacuum,1.7746478873239435,0.0142651803429744,3124,1424,980,720,wit-surprise,negative
+You're why the city never sleeps.,1.7735001604106513,0.0139647545760623,3117,1380,1063,674,sarcasm,neutral
+Nature’s not the only thing that abhors a vacuum.,1.7844465956760245,0.0145554314024227,3099,1423,921,755,wit-surprise,negative
+I’ll tell you what sucks.,1.7761637504126777,0.0144316598545175,3029,1370,967,692,irony,negative
+"Would you check anyway? It’s the ceiling pendant fixture, my 300-page manuscript, and an orange tabby.",1.7705354173594945,0.0145427050625839,3007,1380,937,690,sarcasm,neutral
+Have you tried unplugging it and leaving it unplugged?,1.7892976588628762,0.014531720333747,2990,1325,970,695,incongruity-absurdity,neutral
+I'm not complaining about the noise ; my kids are stuck to the ceiling.,1.7952172448635904,0.0147743422283485,2969,1328,921,720,sarcasm,negative
+"Sorry to bother you, but my cat is stuck to the ceiling.",1.7572781480182391,0.0144731609990242,2851,1281,981,589,unknown,negative
+"Sorry. I misunderstood the ""huge vacuum in your life"" remark.",1.8358846564613744,0.0151120633637149,2809,1169,932,708,sarcasm,negative
+You win. I'll cancel the trombone lessons.,1.785845251191786,0.0150104359657199,2727,1193,927,608,incongruity-absurdity,neutral
+What a coincidence! I couldn't sleep either!,1.829747074367686,0.0151227733344044,2649,1066,968,615,sarcasm,negative
+Don’t make me get out the bagpipes.,1.8008556981719177,0.0156776335550753,2571,1119,845,607,sarcasm,negative
+"I'd be okay with it, but my Roomba won't come out from under the bed.",1.801094177413052,0.0157594985568611,2559,1118,832,609,sarcasm,neutral
+It’s 2am. Im here to tell you it’s clean enough.,1.7386130488305294,0.015435991611172,2437,1109,856,472,sarcasm,neutral
+That's a relief. Rumors say you have a giant vibrator,1.7385943279901357,0.0160368195927638,2433,1162,745,526,sarcasm,positive
+"Below you? No, I’m on the next block over.",1.7605633802816902,0.0154675900408428,2414,1055,882,477,incongruity-absurdity,neutral
+"No, we haven't met.  I'm from three streets over.",1.794314381270903,0.0159489343301944,2392,1024,836,532,sarcasm,neutral

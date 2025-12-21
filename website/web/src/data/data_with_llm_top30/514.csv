@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"No, you grow up",1.9408602150537635,0.0581486791419333,186,64,69,53,unknown,neutral
+1,"Sheriff, I feel like we're just going through the motions here.",1.9186046511627908,0.0537143624377282,172,50,86,36,sarcasm,negative
+3,Sometimes I feel like we're just going through the motions.,1.9,0.0588860044599121,150,47,71,32,self-deprecating,negative
+2,We're losing them! They're gaining on us! We're losing them! They're gaining on us!,1.9071428571428573,0.0686804332301212,140,53,47,40,unknown,neutral
+4,I think they're toying with us.,1.8814814814814813,0.065707740142487,135,48,55,32,sarcasm,negative
+8,Head for the carousel! It's our only chance!,1.856060606060606,0.0714450298628893,132,55,41,36,unknown,positive
+10,I ain't going back to timeout!,1.8527131782945736,0.0688189182347469,129,50,48,31,sarcasm,negative
+5,Tell me again why we are holding on to our hats?,1.8682170542635657,0.0690640685318041,129,49,48,32,sarcasm,neutral
+22,"I'm never going back to timeout, ya hear!?",1.814516129032258,0.074535835714426,124,56,35,33,self-deprecating,negative
+9,"For goodness sake, it was only a piggy bank!",1.8548387096774197,0.0674490690771009,124,45,52,27,incongruity-absurdity,negative
+11,They're still a day's ride behind us.,1.85,0.072616177561873,120,48,42,30,irony,neutral
+19,I'm Billy the Kid. What's your excuse?,1.8220338983050848,0.0728463104984611,118,49,41,28,sarcasm,neutral
+14,"Quick, Clem, download the Giddy App.",1.829059829059829,0.0751171580174429,117,50,37,30,sarcasm,neutral
+7,"Sheriff, all this back and forth is getting us nowhere.",1.8660714285714288,0.0776665973255945,112,46,35,31,wit-surprise,negative
+6,Nope. They're still there.,1.8660714285714288,0.0734070820604893,112,42,43,27,sarcasm,neutral
+12,"Next time, you grab the cash and I'll get the horses!",1.834862385321101,0.0743230423386674,109,43,41,25,sarcasm,neutral
+16,They're toying with us.,1.8240740740740744,0.0706356243949383,108,40,47,21,sarcasm,negative
+23,They call me 'The Kid.' What's your excuse?,1.8130841121495327,0.0752716131790216,107,44,39,24,sarcasm,neutral
+17,We keep going back and forth on this.,1.8235294117647056,0.0780908936652579,102,42,36,24,irony,neutral
+20,They're gaining on us! No they're not. They're gaining on us! No they're not...,1.8217821782178216,0.0775823288085533,101,41,37,23,sarcasm,neutral
+13,It was just a piggy bank!,1.83,0.0766139476185437,100,39,39,22,incongruity-absurdity,negative
+25,"Come on, sheriff, it was only a piggy bank.",1.81,0.0747993950172693,100,39,41,20,unknown,neutral
+18,"If you guys think you can catch us, you're off your rockers.",1.8229166666666667,0.0783531026751998,96,38,37,21,sarcasm,negative
+24,They’re gaining on us! We’re losing ‘em! They’re gaining on us! We’re losing ‘em! They’re gaining on us! We’re losing ‘em! They’re gaining’ on us! We’re losing ‘em!,1.8105263157894735,0.0850462450342428,95,43,27,25,exaggeration,neutral
+37,I've been in low budget westerns before but this is ridiculous.,1.7634408602150538,0.0785532004276125,93,40,35,18,unknown,negative
+32,"Wait, time out guys. Splinter.",1.7826086956521738,0.0754443548742971,92,36,40,16,irony,neutral
+33,"Knock yourself out, Marshall--there ain't a playpen in this county can hold me.",1.7826086956521738,0.0829837839496111,92,41,30,21,sarcasm,negative
+15,"If you think you'll catch us, you're off your rocker!",1.824175824175824,0.0790564111253858,91,35,37,19,sarcasm,negative
+29,We'll lose them at nap time.,1.788888888888889,0.0797850489976453,90,37,35,18,unknown,negative
+21,"Actually, they're not gaining on us.",1.820224719101124,0.0854026660050996,89,38,29,22,sarcasm,negative

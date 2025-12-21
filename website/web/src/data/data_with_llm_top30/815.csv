@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Elbows on the table.  Another reason I don't like broccoli.,1.884940285464608,0.0139461477327726,3433,1366,1096,971,incongruity-absurdity,negative
+"Well, you did tell the waiter to serve the vegetables first.""",1.8585174625801852,0.015201483041501,2806,1136,931,739,incongruity-absurdity,neutral
+This is the only place around here that serves vegetables.,1.8318863456985004,0.0158690641324532,2534,1057,846,631,unknown,neutral
+The menu does say they serve vegetables.,1.8114193807800565,0.0158159151624799,2487,1052,852,583,incongruity-absurdity,neutral
+This place is known for serving local produce.,1.9077750206782464,0.0163191997169825,2418,900,841,677,unknown,positive
+Why do they always serve the salad first?,1.8093450146015853,0.0164909285904045,2397,1053,748,596,unknown,neutral
+After months of just fertilizer can you blame them?,1.8382997370727432,0.0166172125793954,2282,933,785,564,irony,negative
+See?  Even they don't want kale at their table.,1.7936507936507935,0.0168015964275356,2268,1008,720,540,irony,negative
+"On the other hand, wouldn't it be weirder if they had ordered salad?",1.8278026905829596,0.0166976270918714,2230,918,778,534,irony,neutral
+Turns out you aren’t what you eat.,1.7891402714932128,0.0165535734046374,2210,951,774,485,self-deprecating,negative
+I have to admit... it's refreshing to see they don't eat their vegetables either,1.7880886426592797,0.0164420387587347,2166,912,801,453,irony,positive
+How can they be here without dressing?!,1.8404307391091532,0.0179621086517799,2043,862,645,536,unknown,negative
+Eat slow. I want to see what they get for dessert.,1.7982239763196843,0.0171400592097932,2027,849,738,440,incongruity-absurdity,neutral
+You know it’s a good vegetarian restaurant when the vegetables eat there.,1.8142931664058424,0.0187398993604318,1917,856,561,500,unknown,positive
+I didn’t know they served vegetables here.,1.7892781316348196,0.0182328489716744,1884,830,621,433,incongruity-absurdity,neutral
+It could get really messy if we have to Heimlich the tomato.,1.8285101822079315,0.0188695705660202,1866,807,572,487,incongruity-absurdity,negative
+"Well, if I was going to spoil in a few days, I'd have steak too",1.8508064516129032,0.0190439954906817,1736,695,605,436,incongruity-absurdity,neutral
+When did they start serving vegetables?,1.7989601386481802,0.0192702901376692,1731,765,549,417,incongruity-absurdity,neutral
+You see… even broccoli doesn’t like broccoli!,1.7850902737332557,0.0191783132938033,1717,766,554,397,incongruity-absurdity,negative
+So this is farm to table.,1.763302752293578,0.0188908826975136,1635,716,590,329,irony,neutral
+"We tried for three months to get a reservation and they just walk in, farm to table.",1.8197596795727635,0.0207263051748555,1498,641,486,371,irony,negative
+"Vegetables served separately"" seems to mean something different here",1.787321063394683,0.020178170557479,1467,627,525,315,irony,neutral
+See?  They don't want kale at their table either.,1.7621993127147766,0.0206453563279869,1455,665,471,319,sarcasm,negative
+Apparently you are not what you eat,1.7485875706214689,0.0203100428729014,1416,636,500,280,incongruity-absurdity,negative
+They're being fattened up for the salad bar.,1.747307968413496,0.0208265029715548,1393,641,463,289,incongruity-absurdity,neutral
+It must be a special occasion.  Usually they just get water.,1.7567164179104475,0.0213085248693137,1340,610,446,284,unknown,neutral
+Appears to be a food group .,1.9031531531531531,0.0221841738125681,1332,507,447,378,irony,neutral
+I was wondering what the opposite of grass-fed beef was.,1.7412314886983633,0.0220552390561506,1283,609,397,277,wit-surprise,neutral
+The farm to table movement is really taking off.,1.7431480031323414,0.0219035176005857,1277,597,411,269,unknown,positive
+"If you think that’s bad, I saw them smoking outside earlier.",1.747648902821317,0.0223784434286612,1276,609,380,287,irony,negative

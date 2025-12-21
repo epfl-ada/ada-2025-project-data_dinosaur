@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+This is the only house I could find under a grand.,2.1621264367816093,0.0062316760133299,17400,4800,5029,7571,incongruity-absurdity,neutral
+You were right. We should have requested a fiddler on the roof.,1.939219227563212,0.0068869014295486,14396,5431,4430,4535,unknown,neutral
+They said it was a fixer-upper and they would throw in the piano.,1.8631060882245716,0.0075388659219119,10972,4319,3857,2796,incongruity-absurdity,neutral
+"The piano's in tune, but the house is a little flat.",1.9148341408870668,0.0078446873678324,10732,4102,3467,3163,incongruity-absurdity,neutral
+We should probably leave before the bench arrives.,1.815194878553945,0.0076447480929103,10622,4512,3582,2528,sarcasm,neutral
+"Amazon drone delivery,” you said. 
+“It’s so convenient,” you said.",1.8818481848184816,0.0080043388185321,10605,4328,3212,3065,sarcasm,positive
+"In 2019, I would have been both confused and alarmed by this.",1.857669756005296,0.0080288298515526,10574,4478,3129,2967,irony,negative
+This is not what I meant when I said we’d buy the house if they’d drop a grand.,1.8614687403440109,0.0081232856927689,9709,3913,3243,2553,sarcasm,negative
+"You're right, it doesn't fit.",1.8310969116080935,0.0081173205628674,9390,3874,3245,2271,sarcasm,negative
+I thought the damage would B minor,1.8420212159233489,0.0085402246784152,8767,3622,2915,2230,unknown,neutral
+I guess cloud storage isn’t all it’s cracked up to be.,1.8226509023024269,0.0090279002444442,8035,3502,2469,2064,incongruity-absurdity,negative
+How specific were you when you asked your ex for his keys back?,1.7740597345132745,0.0091024146150043,7232,3193,2490,1549,sarcasm,neutral
+I HATE when this happens.,1.754765120816449,0.0104326385779465,6663,3453,1399,1811,sarcasm,negative
+You know they’re going to find a way to blame this on Obama.”,1.8068341394913403,0.010251261693586,6409,2904,1842,1663,sarcasm,negative
+"And that’s when she said, “It’s my way or the Steinway!”",1.757286117204638,0.0096776437923373,6382,2907,2132,1343,unknown,neutral
+You can still get something under a grand in this neighborhood.,1.7310563939634631,0.0094492631357804,6295,2863,2270,1162,incongruity-absurdity,neutral
+Those damn magic beans.,1.6023343744862732,0.0103118751868209,6083,3670,1167,1246,exaggeration,negative
+"On the bright side, we'll probably get to be in a Farmers Insurance commercial.",1.781777471581123,0.0102969356357861,5806,2576,1930,1300,irony,positive
+"I mean, why WOULDN’t this happen to us?",1.6899402040098488,0.010862816373957,5686,3082,1293,1311,exaggeration,negative
+Now I see why they named the storm 'Liberace.',1.7299925205684368,0.0109074525736419,5348,2655,1497,1196,sarcasm,neutral
+Looks like someone had a score to settle.,1.695071482317532,0.0101932463439023,5316,2558,1834,924,irony,neutral
+"You're right, it does make the living room look smaller.",1.7813926940639269,0.010525286242807,5256,2255,1905,1096,incongruity-absurdity,neutral
+Inexplicable for sure. Where’s the bench??,1.739625711960944,0.0118321968379722,4916,2498,1200,1218,irony,negative
+That one sure brought the house down.,1.635440414507772,0.0104560914571493,4825,2490,1611,724,sarcasm,negative
+Insurance will say this was orchestrated.,1.8351063829787233,0.0113860937665047,4700,1885,1706,1109,exaggeration,neutral
+"He wasn’t kidding when he said, “It’s my way or the Steinway.”",1.5906747366061422,0.010929290090844,4461,2485,1321,655,wit-surprise,neutral
+"Well, that really brought the house down.",1.7831898504757588,0.0116934929121603,4414,1914,1543,957,sarcasm,negative
+Shot down as a UFO ?? Idiots !! Obviously it’s a piano.,1.6909793228811634,0.012790048316243,4401,2474,813,1114,irony,negative
+Now that's what I call a dramatic final movement.,1.647542910886433,0.0117851928941847,4253,2287,1185,781,wit-surprise,positive
+"2020 just doesn’t give up, does it?",1.7110588235294115,0.0119416952716264,4250,2079,1320,851,exaggeration,negative

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4,I was hoping taxes would go first.,1.9265949269792468,0.0113563567580232,5204,1951,1684,1569,irony,neutral
+1,He touched so many lives.,1.969649805447471,0.0113307855279422,5140,1776,1744,1620,irony,positive
+15,"Well, he has no one to blame but himself.",1.8661417322834648,0.011567073121679,4826,1924,1624,1278,sarcasm,negative
+9,I guess we can stop eating kale.,1.885016694490818,0.0117127603646937,4792,1882,1579,1331,exaggeration,neutral
+5,"Well, I guess that just leaves taxes.",1.9200771373473324,0.0119028128022726,4667,1744,1552,1371,exaggeration,neutral
+22,He died doing what he loved.,1.811661166116612,0.0117694528654799,4545,1939,1523,1083,unknown,neutral
+21,Suddenly everyone has only good things to say about him.,1.813071297989031,0.011899931683823,4376,1841,1512,1023,sarcasm,neutral
+6,He lived everyday like it was your last.,1.91441647597254,0.0122988989759552,4370,1647,1450,1273,unknown,positive
+16,I can’t believe Keith Richards outlived him.,1.860904007455732,0.01260448354452,4292,1803,1283,1206,sarcasm,negative
+7,I wonder if he saw himself coming.,1.9125759700794764,0.0123601705154125,4278,1601,1450,1227,wit-surprise,neutral
+0,My only regret is that he never got around to visiting your mother.,1.9791271347248576,0.0129021466394451,4216,1524,1256,1436,sarcasm,negative
+20,I always hoped that Taxes would be the first to go.,1.81702025072324,0.0124914956384599,4148,1791,1325,1032,wit-surprise,neutral
+25,To think how many lives he touched.,1.7883353584447144,0.012264976571559,4115,1801,1384,930,incongruity-absurdity,positive
+24,Amazon puts everyone out of business.,1.8038585209003213,0.0126654777537974,4043,1785,1266,992,irony,negative
+10,I guess his work finally caught up with him.,1.884507042253521,0.0124180334467051,3905,1427,1502,976,incongruity-absurdity,neutral
+19,Does this mean your mother will be living with us forever?,1.82053312219583,0.0130490826891878,3789,1623,1223,943,incongruity-absurdity,neutral
+18,So where does this leave us on the “till death do us part” thing?,1.8314332247557004,0.0130036816383565,3684,1510,1285,889,incongruity-absurdity,negative
+30,I was really hoping Taxes would go first...,1.766016713091922,0.0133533263324224,3590,1667,1096,827,irony,negative
+33,"And that's when he said, 'Let me handle the N.R.A.'",1.755050505050505,0.013705090796883,3564,1736,965,863,wit-surprise,neutral
+12,I warned him not to run with that thing.,1.878850710900474,0.0138684418445591,3376,1325,1135,916,incongruity-absurdity,negative
+28,At least he died doing what he loved.,1.7771851851851852,0.0132938995977852,3375,1466,1195,714,irony,positive
+23,"Then I said, ""would it kill you to smile now and then?""",1.80468981893737,0.0138783379147084,3369,1486,1055,828,sarcasm,neutral
+26,He had so much death left in him.,1.7849494348602022,0.0137086569195456,3362,1501,1083,778,unknown,negative
+27,"Well, I guess we can start drinking and smoking again.",1.7829620710415413,0.0134659415515537,3322,1439,1165,718,sarcasm,neutral
+13,"Well, at least he died doing what he loved",1.8739495798319328,0.01428509897528,3094,1196,1092,806,irony,positive
+39,Now there's just taxes,1.7259552042160735,0.0141234858635355,3036,1449,970,617,sarcasm,negative
+8,All they’d say is that it was job-related.,1.8852242744063328,0.014080677047543,3032,1105,1170,757,sarcasm,neutral
+38,Who knew he was allergic to nuts?,1.7315039944425148,0.0149643791536973,2879,1418,816,645,unknown,negative
+17,"Well, that leaves taxes.",1.8537178596247397,0.0148804166054042,2878,1158,983,737,wit-surprise,neutral
+42,Well at least this is the last one of these we'll have to go to.,1.7188160676532769,0.0142616597115242,2838,1330,976,532,irony,negative

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+4,"No, I have no idea why your computer doesn't have a mouse anymore.",1.8184615384615384,0.0144207517388675,2925,1203,1050,672,sarcasm,negative
+3,"I only needed one, but Costco makes you buy a whole case.",1.8401552575864504,0.0147239750620045,2834,1133,1021,680,incongruity-absurdity,neutral
+6,"Mrs. Jenkins, you may have misunderstood me when I said. ""Reserve Hooters for the office party.""",1.800641940085592,0.0153070762938082,2804,1256,851,697,sarcasm,neutral
+0,They're willing to work nights.,1.878799249530957,0.014573493243445,2665,935,1118,612,sarcasm,neutral
+11,"I think the more appropriate question is ""why"".",1.760094080752646,0.0151708997178528,2551,1128,907,516,sarcasm,neutral
+9,"Go ahead, ask what our first baseman's name is.",1.7707193941943626,0.0164055197865212,2377,1095,732,550,sarcasm,neutral
+17,"It's called irritable owl syndrome, but I have it under control.",1.6856846473029046,0.0176205359555386,1928,975,584,369,irony,neutral
+20,"Gladys, get me a BLT and nine mice.",1.6445652173913043,0.0183995170810177,1840,1016,462,362,unknown,neutral
+18,"You know how it is, you get one for Christmas and suddenly you're the ""Owl"" guy.",1.6615031554790591,0.0181323840442687,1743,894,545,304,irony,neutral
+5,"Not whom, Miss Ferguson, who.",1.801377726750861,0.0185293256065621,1742,728,632,382,unknown,neutral
+15,Knock. Knock.,1.7025462962962965,0.0188209614634293,1728,862,518,348,unknown,neutral
+21,They're going to keep asking until you introduce yourself to them.,1.6427672955974844,0.0187168885224782,1590,828,502,260,sarcasm,neutral
+2,They are demanding equal prey,1.8513251454427928,0.0199700819210201,1547,609,559,379,irony,neutral
+24,"Yes, It's a veritable who's who around here.",1.62465564738292,0.0190731010469621,1452,758,481,213,sarcasm,neutral
+22,They all know the difference between who and whom.,1.6334745762711864,0.0209186576602957,1416,793,349,274,wit-surprise,neutral
+8,Best damn owl salesman I've ever met.,1.7717157214644652,0.0213927150547267,1393,639,433,321,wit-surprise,positive
+1,"Yes, I found my laptop. But, now I can't find my mouse.",1.855555555555556,0.0216400980504618,1350,538,469,343,incongruity-absurdity,neutral
+19,They've been turning heads all day.,1.6581196581196582,0.021585097141926,1170,587,396,187,incongruity-absurdity,neutral
+26,"I appreciate the effort, but I'm pretty sure I said towels.",1.6192937123169682,0.0213472925022937,1161,612,379,170,sarcasm,positive
+29,Next time don't use the speech recognition app to order towels!,1.60625,0.0221944235663859,1120,616,329,175,sarcasm,neutral
+10,Knock. Knock.,1.7622061482820977,0.0244812347386037,1106,529,311,266,unknown,neutral
+13,"I said, ""Get me a table at Hooters, not a table of Hooters.""",1.7325256290773532,0.0242466376564411,1073,520,320,233,wit-surprise,neutral
+31,"Pick any... In my opinion, they're all wise choices.",1.5924528301886791,0.0219722503964274,1060,575,342,143,wit-surprise,positive
+23,Corporate says we have a mole.,1.6278158667972575,0.0231593228936196,1021,540,321,160,irony,neutral
+7,HR says you're not allowed to refer to them as hooters.,1.787192118226601,0.0252855265834817,1015,460,311,244,sarcasm,negative
+27,The early birds went home. This is the night shift.,1.6145418326693226,0.0223678217371469,1004,520,351,133,incongruity-absurdity,neutral
+14,I'm sorry but they're all the same. No one's the wiser.,1.7098703888334994,0.0244454657083333,1003,488,318,197,sarcasm,negative
+30,"Someone at Hogwart's must have hit ""reply all""",1.5925176946410515,0.0244636557624902,989,576,240,173,irony,neutral
+28,One coffee and nine dead mice.,1.6131774707757705,0.0236130071273079,941,499,307,135,unknown,negative
+12,"Please tell me you see them, too.",1.739413680781759,0.0251385079548795,921,419,323,179,irony,neutral

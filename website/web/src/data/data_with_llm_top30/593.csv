@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+5,"Actually, I would like to shoot the messenger.",1.9829192546583847,0.0142475665282438,3220,1080,1115,1025,sarcasm,negative
+0,It's not so much what she said as how she said it.,2.0650717703349284,0.014039956134054,3135,873,1185,1077,sarcasm,neutral
+4,‘Sharply worded’ would describe it.,2.004812319538017,0.013982573225609,3117,942,1218,957,sarcasm,neutral
+7,"Well, it doesn't feel like a metaphor.",1.9727868852459016,0.0144982643428885,3050,1020,1093,937,incongruity-absurdity,negative
+2,I'm pretty sure it's a final notice,2.034027089527585,0.0142250912731384,3027,877,1170,980,irony,neutral
+3,"...oh, and there's a note from your mother.",2.012561983471074,0.0148730641626633,3025,993,1001,1031,sarcasm,neutral
+9,"What I had actually said was ""Take a stab at it and get back to me""",1.9553333333333331,0.0146843134514021,3000,1040,1054,906,sarcasm,neutral
+13,"To her credit, she did leave a note.",1.907961034598589,0.0140976534585746,2977,1030,1191,756,sarcasm,neutral
+20,She knows.,1.864448336252189,0.0152804811479112,2855,1171,900,784,sarcasm,neutral
+11,At least she didn’t use bullet points.,1.9351332398316967,0.0150797813725897,2852,1023,991,838,sarcasm,negative
+19,"I'm sorry, but Emma and I won't be able to make it to your murder mystery party. Clever invitation, by the way.",1.877810007251632,0.0150392518658492,2758,1049,997,712,sarcasm,negative
+14,I'd like to switch to paperless statements.,1.898561416451494,0.0156921485041373,2711,1056,874,781,irony,neutral
+15,Turns out they CAN pin it on me,1.887593984962406,0.0154457082012342,2660,1010,939,711,sarcasm,neutral
+17,I think we can rule out reconciliation.,1.883502736512901,0.015210537445536,2558,923,1010,625,irony,neutral
+8,"Yes, I am painfully aware of your terms and conditions.",1.9591078066914496,0.0158450686279876,2421,787,946,688,sarcasm,neutral
+22,"No, I can't sit back and relax.",1.8169661512745507,0.016002581212304,2393,992,847,554,sarcasm,negative
+1,"No, my wife served the papers personally.",2.0381205673758864,0.0171410467348692,2256,706,758,792,incongruity-absurdity,neutral
+12,"And I said, ""Divorce papers? Why not just stick a knife in my back?""",1.915270018621974,0.017364596453682,2148,794,742,612,self-deprecating,negative
+18,I've just received some painful news.,1.8808290155440412,0.0169011490920091,2123,785,806,532,sarcasm,negative
+29,"I can’t read it, but I got the message.",1.7552480916030535,0.0165685901662784,2096,922,765,409,sarcasm,neutral
+6,"Hi honey, we just received the new Republican tax plan.",1.977951984321411,0.0187258270413815,2041,753,580,708,irony,neutral
+27,"No, I haven't read it but I get the point.",1.764763779527559,0.0166460851275314,2032,867,776,389,sarcasm,neutral
+16,"The stress is bearable, it's the paperwork that's killing me.",1.8858722976370037,0.0176735686265377,1989,744,728,517,self-deprecating,negative
+21,My wife served the papers herself.,1.8552564753682077,0.0178289408687944,1969,779,696,494,unknown,neutral
+23,I got your text but I’m having trouble with the attachment.,1.809086268504339,0.0178532927226919,1959,834,665,460,sarcasm,negative
+31,"Yes, well I'm afraid I'm not in any position to read the fine print just now.",1.7505154639175258,0.0169226502205064,1940,841,742,357,sarcasm,negative
+26,All I can say is that I did not see this coming.,1.77584388185654,0.0173995296448448,1896,804,713,379,exaggeration,negative
+37,"So she said, ‘How can I convince you that I am filing for divorce?’. And I said, ‘Take a stab at it.’",1.7284434490481524,0.0186199829731202,1786,861,549,376,wit-surprise,neutral
+36,You were right. She didn't like the pre-nup.,1.731833910034602,0.0182266691250014,1734,794,611,329,sarcasm,negative
+35,I was under the impression that the writing would be on the wall.,1.7352062163777644,0.0189046197805526,1673,780,556,337,incongruity-absurdity,neutral

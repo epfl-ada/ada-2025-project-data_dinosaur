@@ -1,0 +1,33 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Funny how he never rescues you when you're winning.,1.8494323839872535,0.0111474556884783,5021,2001,1775,1245,sarcasm,neutral
+"He may be here to protect, but I'm here to serve!",1.8479786976519004,0.0127017469506747,4131,1738,1283,1110,unknown,positive
+"Serve, quick, before this moron rescues me again!",1.7845675815639566,0.0129088099793417,3862,1748,1198,916,sarcasm,negative
+I liked him better when he was a frog.,1.8492935635792775,0.0128227059303121,3822,1532,1334,956,incongruity-absurdity,positive
+"If you win, you get a husband.  If I win, I get lunch.",1.798300904357358,0.0129127299239095,3649,1552,1281,816,sarcasm,positive
+Just introduce me as an old college flame,1.8467650397275823,0.0134480211345692,3524,1434,1196,894,sarcasm,neutral
+Ignore him. He only plays on a round table.,1.820784425994847,0.0133927109426989,3493,1463,1193,837,wit-surprise,negative
+"Oh, so when it's game point, suddenly you need ""rescuing?""",1.778224648089629,0.0130302660178795,3481,1500,1253,728,sarcasm,neutral
+"Last chance! Do you want to keep playing, or live happily ever after?",1.7944363103953147,0.0133687218796216,3415,1465,1187,763,incongruity-absurdity,positive
+"Serve already, 
+
+Serve dammit! I'm not falling for the ""look a Prince"" trick again.",1.7890601390148082,0.0139257861130083,3309,1484,1039,786,sarcasm,negative
+She's not in distress. She's up 8-2.,1.7892186553603877,0.0135636934888944,3302,1424,1150,728,sarcasm,neutral
+I’m tired of playing games. You tell him about us or I will.,1.8096833130328869,0.0139764712892741,3284,1425,1059,800,sarcasm,negative
+Last game. My lunch has arrived.,1.7687825820300522,0.0134027544583379,3261,1419,1177,665,irony,positive
+"Gotta call it a day, Princess. My Uber eats is here.",1.7825133187088686,0.0142086873409805,3191,1450,985,756,sarcasm,neutral
+Look who brought a sword to a ping-pong fight.,1.8049792531120332,0.0139729726010978,3133,1323,1098,712,wit-surprise,neutral
+"Oh, so now that its 4 zip, you're suddenly a damsel in distress.",1.7659225213394616,0.0140775246129669,3046,1359,1041,646,sarcasm,negative
+"Sudden death, then?",1.7735531628532974,0.0142245354444624,2972,1306,1033,633,irony,negative
+"Okay, best two out of three and winner gets the knight.",1.766053453661923,0.0145075489422331,2881,1289,977,615,incongruity-absurdity,neutral
+Your boyfriend knows I’m gay right?,1.780453752181501,0.0149947155720407,2865,1306,882,677,irony,neutral
+She's ahead by six points. I'd hardly call that distress.,1.7655099894847528,0.0145058184608875,2853,1269,984,600,incongruity-absurdity,neutral
+"No, seriously, look behind you.",1.824901327592393,0.0151347142140906,2787,1176,923,688,sarcasm,neutral
+Can't we ever have a girls night without him interrupting?,1.855083179297597,0.015340084699454,2705,1085,927,693,sarcasm,negative
+I'm guessing you haven't told him about us.,1.7639821029082774,0.0150912846249268,2682,1210,895,577,sarcasm,neutral
+"Quick, before he starts knightsplaining the rules.",1.7453721193804306,0.0154339007156245,2647,1257,807,583,sarcasm,neutral
+"You're not in distress. You're just losing.""",1.7917335473515248,0.0152777633588938,2492,1038,935,519,sarcasm,negative
+So you expect me to believe he just HAPPENS to show up whenever I'm winning?,1.7869249394673123,0.0153353676930324,2478,1042,922,514,sarcasm,neutral
+"Match point.  You win, you get to marry the prince.  I win, I get to eat him.",1.770976895014187,0.0156373176373897,2467,1091,850,526,irony,positive
+"Fine, we can play doubles, but I’m not getting stuck with the horse again!",1.8309563758389265,0.0165649663440796,2384,1015,757,612,sarcasm,neutral
+When you told me we could play until night comes this isn’t what I thought you meant.,1.743046357615894,0.01596153216819,2265,1019,809,437,sarcasm,neutral
+You're too late. I'm already getting slayed.,1.7586206896551724,0.0166210344787428,2175,979,742,454,self-deprecating,negative

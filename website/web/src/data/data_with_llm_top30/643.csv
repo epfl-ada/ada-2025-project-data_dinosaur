@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2244,"Playing Stravinsky is always a battle, but this time I win!",1.244186046511628,0.0319336984009476,258,205,43,10,wit-surprise,positive
+390,"This next tune was written by Mike Tyson, who, I'm told, plays by ear.",1.3503937007874016,0.0373849860589267,254,181,57,16,wit-surprise,neutral
+2807,I will now perform John Cage’s 4’ 33”.,1.225296442687747,0.0296787552711116,253,202,45,6,irony,neutral
+3181,"Play it again, but this time make it punchier!",1.2134387351778655,0.0292304385507522,253,205,42,6,unknown,positive
+2072,"And now, ""Eine Kleine Kampfmusik"".",1.25,0.0330881707116331,252,200,41,11,irony,neutral
+5133,I should have just majored in Engineering.,1.1394422310756973,0.0246471584754501,251,220,27,4,sarcasm,negative
+5420,I like to feel the beat through the piano.,1.12,0.0205936005968399,250,220,30,0,wit-surprise,positive
+2658,And now an obscure piece by Rocky Mannicoff...,1.2298387096774193,0.032297832023955,248,201,37,10,wit-surprise,neutral
+4843,"And now, the ""Concerto Grosso Mosso"" by Spinks.",1.1538461538461535,0.0250583881391551,247,212,32,3,wit-surprise,neutral
+3733,And now a prelude in C minor by Rocky Balboa,1.195121951219512,0.0295517494545839,246,205,34,7,irony,neutral
+4435,LET’s Let’s let’s GET Get get READY Ready ready TO To to BACH Bach bach.,1.170731707317073,0.0284635793451956,246,211,28,7,sarcasm,positive
+717,This number will be a knockout!,1.3183673469387756,0.0377449282359971,245,183,46,16,exaggeration,neutral
+3946,Chopsticks was easy.,1.1877551020408164,0.0281476966874319,245,204,36,5,incongruity-absurdity,positive
+3344,You said to ‘make it punchier.’,1.2081632653061225,0.0307113373317691,245,202,35,8,wit-surprise,neutral
+3466,I’m a Bachser by trade.,1.2040816326530612,0.0299983043926269,245,202,36,7,wit-surprise,neutral
+3580,Any fans of Bach's?,1.2008196721311477,0.0299428935622992,244,202,35,7,irony,neutral
+2201,Box Fugue in D minor,1.2459016393442623,0.0336771134957945,244,195,38,11,incongruity-absurdity,neutral
+926,My next piece is by Johann Sebastian Boxer.,1.3032786885245902,0.0370880137306333,244,185,44,15,wit-surprise,neutral
+2097,And now for a slow rendition of Flight of the Bumblebee,1.25,0.0347866736373834,244,196,35,13,incongruity-absurdity,neutral
+312,This first piece will be a knockout.,1.360655737704918,0.0407094656441293,244,177,46,21,incongruity-absurdity,neutral
+1200,I only play Fortissimo.,1.2880658436213992,0.0368457081997609,243,188,40,15,wit-surprise,neutral
+2164,"When I said I wanted to hit the ivories...""",1.2469135802469136,0.0332938203685551,243,193,40,10,unknown,neutral
+3915,"And now, Rocky's Piano Concerto No. 2.",1.1893004115226338,0.0277524160529338,243,201,38,4,incongruity-absurdity,neutral
+3519,For my encore I will now play “Left hook in G-minor.”,1.2024793388429753,0.0290087817748216,242,198,39,5,wit-surprise,neutral
+4671,No need to go to this extreme.  I promise: no more chopsticks!,1.1611570247933884,0.0283016265549128,242,210,25,7,incongruity-absurdity,negative
+349,Turns out the ivories prefer to be roughed up a little.,1.3553719008264462,0.0395956242347464,242,174,50,18,incongruity-absurdity,neutral
+3736,Vladimir Ali is shocked by his 10 stanza penalty for hitting below the keyboard.,1.1950207468879668,0.0293527530148052,241,200,35,6,irony,neutral
+369,"My first selection is ""Blunt Force Trauma, in E-Minor.""",1.3526970954356847,0.0413760432101516,241,178,41,22,wit-surprise,neutral
+3967,Shall I play The Boxer?,1.1867219917012448,0.0301556331809208,241,204,29,8,sarcasm,neutral
+5098,"And now, Ladies and Gentlemen, may I present to you, ""The Eye of the Tiger.""",1.1410788381742738,0.0239594370731655,241,209,30,2,irony,neutral

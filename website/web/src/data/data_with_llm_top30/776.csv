@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You'll need a key to use the bathroom.,1.8391332895600787,0.0119064271907452,4569,1906,1492,1171,incongruity-absurdity,neutral
+"He hasn't proposed yet, but he did give me a written estimate.",1.9108747044917256,0.0123928702281835,4230,1579,1449,1202,incongruity-absurdity,neutral
+My other son is a mortician.  Wanna see the basement?,1.878948765595965,0.0136797445825771,3767,1583,1057,1127,unknown,neutral
+It was worse when he was an airline mechanic.,1.825268817204301,0.0146998669236874,2976,1262,972,742,unknown,negative
+"Mother said, ‘if you find a good mechanic don’t let him go.’",1.8178867652362063,0.0146379270490821,2773,1122,1034,617,incongruity-absurdity,neutral
+"He started off with sourdough bread, like everybody else.",1.831464737793852,0.0154253702017533,2765,1179,872,714,wit-surprise,neutral
+We met in AAA.,1.8763381321520856,0.0155312153946444,2709,1073,898,738,incongruity-absurdity,neutral
+It’s the pinups in the bathroom that I could do without.,1.834583645911478,0.0155140755293635,2666,1112,883,671,unknown,negative
+We just bundled our home and auto.,1.835820895522388,0.0155981083159702,2613,1080,882,651,irony,neutral
+It was worse when he was a mortician.,1.8132716049382716,0.0163241142864701,2592,1182,712,698,unknown,negative
+I said I wanted it out of the yard.,1.8141101862861673,0.0154446701266166,2523,1037,918,568,incongruity-absurdity,neutral
+"I won the battle to convert our garage to a yoga studio, but I think he won the war.",1.8141663350577,0.0159512921243355,2513,1080,820,613,unknown,neutral
+The listing read luxury flat with its own lift. What did I know?,1.8615190935795216,0.0159954132001679,2383,914,885,584,incongruity-absurdity,neutral
+"I hear ya Ethel, but over the years I've learned to choose my battles.",1.7696779964221825,0.0162299305679283,2236,975,801,460,sarcasm,neutral
+"Yes, but our garage is spotless.",1.8161559888579384,0.0167375839809194,2154,884,782,488,unknown,positive
+I really wish he’d just get the vaccine.,1.8047024952015356,0.0179938494530936,2084,946,599,539,sarcasm,negative
+It was tough to find a one room apartment with a garage but we got lucky.,1.8782483156881615,0.0176083627892095,2078,811,709,558,incongruity-absurdity,positive
+Can we fix you something?,1.764390243902439,0.018014904188431,2050,980,573,497,sarcasm,neutral
+I love this part - he's just about to start swearing.,1.780559646539028,0.017185719435977,2037,885,714,438,sarcasm,positive
+I love that the hoist is also a dinner table.,1.7795431976166831,0.0171333876725478,2014,866,726,422,irony,positive
+They said if he doesn't want to wear a mask he has to work from home.,1.7636544190665342,0.0174428669837685,2014,911,668,435,irony,neutral
+He agreed to start doing more around the house.,1.772772772772773,0.016580004183102,1998,827,798,373,irony,neutral
+"As soon as he’s finished, I can leave him.",1.7617602427921093,0.0178934974080359,1977,917,614,446,self-deprecating,neutral
+What I actually said was let’s get an “ottoman”.,1.7657894736842106,0.0183941093785246,1900,885,575,440,incongruity-absurdity,neutral
+"I'm looking forward to the end of work-from-home.""",1.7556053811659194,0.0181810920577364,1784,797,626,361,exaggeration,positive
+"Once we decided to keep the old carpet I thought,what the hell?",1.762073027090695,0.0180025983662915,1698,717,668,313,incongruity-absurdity,negative
+"I asked if he could service me at home, and here we are.",1.7571428571428571,0.0188184618577422,1680,753,582,345,wit-surprise,neutral
+Do you know how hard it is to find a mechanic who makes house calls?,1.7506218905472637,0.0186106013416589,1608,698,613,297,wit-surprise,negative
+I just asked to bundle home and auto.,1.7475976937860347,0.019757160592999,1561,722,511,328,sarcasm,neutral
+It's not so bad. He used to be a butcher.,1.748062015503876,0.0197250317404724,1548,710,518,320,unknown,neutral

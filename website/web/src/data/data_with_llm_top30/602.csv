@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+6,I'm not going to sugarcoat this.,1.9838859047971849,0.0105073401754227,5399,1653,2180,1566,self-deprecating,negative
+8,He's only known to us as John Dough.,1.9717090069284064,0.0110716058581501,5196,1730,1883,1583,wit-surprise,neutral
+7,"I'm afraid, sir, since you were on the floor for more than five seconds, there's nothing we can do for you.",1.9746664088184105,0.0113396660631181,5171,1786,1730,1655,sarcasm,negative
+15,Time to meet your baker.,1.9397828232971368,0.011323252245982,5065,1806,1758,1501,unknown,neutral
+1,We ran a few tests and all the toothpicks came back clean,2.009433962264151,0.0113318465847306,4982,1570,1795,1617,incongruity-absurdity,positive
+26,We'd like to keep you here for further tasting.,1.9055462885738117,0.0112300325410309,4796,1698,1853,1245,incongruity-absurdity,positive
+20,Go home. Rest. Put some icing on it.,1.9272108843537412,0.011633849933311,4410,1488,1755,1167,self-deprecating,neutral
+3,Have you tried icing it?,1.9981776765375852,0.0119987785104893,4390,1391,1616,1383,sarcasm,neutral
+27,"Look, there's just no way to sugar-coat this...",1.8968599033816425,0.0120083932471249,4140,1471,1625,1044,sarcasm,negative
+25,The fact that you survived the holidays is a good sign,1.9139121854958063,0.0117304809655963,4054,1320,1763,971,self-deprecating,positive
+11,We have good news and bad news: You'll be home for Christmas.,1.962025316455696,0.0128129485088032,3871,1306,1406,1159,incongruity-absurdity,positive
+4,I'm afraid the confection has spread.,1.987411487018096,0.0127081785629843,3813,1198,1465,1150,incongruity-absurdity,negative
+14,"I’m afraid that IS the way it crumbles, sir.",1.945567232551873,0.0127809382925522,3711,1231,1451,1029,wit-surprise,negative
+23,"Yes, thanks to a generous raisin donor, you can see again.",1.9158094206821876,0.012952911857721,3694,1313,1379,1002,wit-surprise,positive
+12,Eyes still look glazed.,1.9616022099447517,0.0125446985822379,3620,1103,1553,964,irony,neutral
+36,It's a miracle that you survived. Your house was totally devoured.,1.8412434082708853,0.0129878679517854,3603,1426,1323,854,exaggeration,negative
+35,"Sir, you are one tough cookie.",1.858338141950375,0.013120518008217,3466,1314,1329,823,sarcasm,neutral
+38,"Your cholesterol and sugar levels are a little high, but you color's good and you smell delicious.",1.834643377001456,0.0133048439235274,3435,1375,1253,807,sarcasm,positive
+10,The results of your biopsy were delicious.,1.9646508910312592,0.0137690418338774,3423,1173,1198,1052,unknown,positive
+24,Good news. The Pillsbury Dough Boy is a match.,1.9147127784290736,0.0134269121480833,3412,1207,1289,916,sarcasm,positive
+28,"You are a lucky man, considering that you had a temperature of 350 degrees for eight to ten minutes.",1.8947987070232148,0.0133792620347494,3403,1234,1293,876,wit-surprise,positive
+30,"Unfortunately, all of our wheelchairs are in use. We do have a dessert cart.",1.874770361298224,0.0138441885008819,3266,1252,1171,843,incongruity-absurdity,negative
+31,I'm afraid he's going to die of consumption.,1.8736583869978531,0.0143198607063771,3261,1322,1029,910,wit-surprise,negative
+40,The good news is we have a cure. The bad news is it'll cost you an arm and a leg.,1.825593395252838,0.0141965531840769,2907,1149,1116,642,exaggeration,negative
+5,It's not a ginger fracture. It's worse. It's a ginger snap.,1.9859845830413452,0.0147414422174297,2854,905,1084,865,incongruity-absurdity,negative
+39,"Your sugar is too high, your fats are elevated, and , quite frankly, you’re a day too old.",1.8265232974910397,0.0147461485448323,2790,1130,1014,646,sarcasm,negative
+53,I'm not going to sugarcoat this.,1.7824358511022769,0.0144994295138202,2767,1171,1027,569,self-deprecating,negative
+42,"The patient won't tell us his name, so for the moment he's just John Dough.",1.8219895287958117,0.0151810503385241,2674,1104,942,628,incongruity-absurdity,neutral
+41,"Actually, you're right. Everyone does want a piece of you.",1.8230653643876784,0.0147238576036399,2662,1045,1043,574,self-deprecating,positive
+61,You are one tough cookie.,1.7579857196542654,0.0147699993184971,2661,1172,961,528,sarcasm,negative

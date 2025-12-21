@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+This used to be an upright establishment.,1.7584564078132443,0.0173167501716124,2099,975,656,468,incongruity-absurdity,negative
+"Come out with your hands up, wrists straight, fingers gently curved!",1.8011976047904192,0.0206453085827744,1670,793,416,461,incongruity-absurdity,positive
+"When Snake told me that he sold his horse for a grand, I figured...",1.712133227597145,0.0224460039718699,1261,634,356,271,wit-surprise,neutral
+Looks like treble at the OK Chorale.,1.7132292522596548,0.022495972399907,1217,599,368,250,incongruity-absurdity,neutral
+Sheriff ain’t gonna like the sound of this.,1.7085811384876806,0.0222792297314972,1177,565,390,222,sarcasm,negative
+Looks like someone’s in town to settle a score.,1.7035040431266846,0.0228490857344606,1113,537,369,207,sarcasm,neutral
+"""Looks like someone's back to settle a score.""",1.7073170731707317,0.0230786524509757,1066,504,370,192,sarcasm,neutral
+He's got until sundown to get out of tune.,1.751658767772512,0.0255330607251244,1055,526,265,264,incongruity-absurdity,neutral
+I have a feeling this is going to end on a bad note.,1.6998031496062993,0.0229559838194085,1016,470,381,165,irony,negative
+Must be one of the boys from the OK Chorale.,1.6895119418483904,0.0251969843338706,963,490,282,191,sarcasm,neutral
+Looks like somebody's fixin' to settle a score.,1.6985294117647058,0.0247476180153655,952,464,311,177,irony,neutral
+Guess he was serious when he challenged me to a duet.,1.6928799149840594,0.0252565531336217,941,471,288,182,sarcasm,neutral
+"Oh no, the lone arranger’s in town.",1.682297772567409,0.0271295806372554,853,446,232,175,wit-surprise,negative
+Looks like those boys from Baroque Bach Mountain are back in town.,1.6836363636363636,0.0281954336990674,825,442,202,181,sarcasm,neutral
+His mother thinks he's practicing.,1.6741573033707866,0.0281547316474198,801,427,208,166,unknown,neutral
+Someone is about to get played.,1.6666666666666667,0.0285061325749259,768,410,204,154,sarcasm,negative
+I think he might be lookin' for the OK Chorale.,1.6613372093023255,0.0297415170866072,688,365,191,132,wit-surprise,neutral
+Dang. The one day I forget my sheet music.,1.7777777777777777,0.0337526673544424,684,359,118,207,unknown,negative
+Looks like someone is here to settle a score.,1.657393850658858,0.029516823680732,683,360,197,126,irony,neutral
+Must’ve come into money. Just last week he was riding an upright.,1.6524300441826214,0.0291050137458194,679,354,207,118,sarcasm,neutral
+"Horse rustling is one thing, but this is grand theft.",1.7788018433179724,0.0330478427263973,651,319,157,175,wit-surprise,negative
+Looks like we got a score to settle.,1.656832298136646,0.0294506933516233,644,328,209,107,sarcasm,neutral
+Looks like someone is about to be challenged to a duet.,1.6540880503144657,0.0302640033235081,636,333,190,113,sarcasm,neutral
+"I warned him, in this town it is either my way or the Steinway",1.6477987421383649,0.0304762913389496,636,339,182,115,wit-surprise,neutral
+It must belong to “The Lone Arranger!”,1.6509598603839442,0.0321222769179635,573,304,165,104,wit-surprise,neutral
+Looks like Billy won a grand in the poker game last night.,1.6436567164179106,0.0331400794434409,536,287,153,96,irony,positive
+This must be the famous O.K. Chorale.,1.6485981308411215,0.0332546473320172,535,285,153,97,wit-surprise,neutral
+"When Tex said he left a grand at the saloon, I pictured a card game.",1.6484962406015038,0.0334069954632338,532,284,151,97,wit-surprise,neutral
+Must have entered the saloon with a score to settle.,1.6431372549019607,0.0327867068120734,510,263,166,81,irony,neutral
+That explains the drunkard trying to play the horse inside.,1.6336032388663968,0.0362869514583518,494,284,107,103,irony,negative

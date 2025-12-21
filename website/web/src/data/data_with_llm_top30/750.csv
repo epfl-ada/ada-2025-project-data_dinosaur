@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It’s good to be back in the field. It just wasn’t the same working from home.,1.9140406488905464,0.0108629674944978,5363,1947,1930,1486,incongruity-absurdity,positive
+"I have to admit, I’ve been sleeping a lot better since I got this job.",1.8572037510656436,0.0111050195189095,4692,1740,1882,1070,unknown,positive
+Do you remember what the missing one looked like?,1.8468776732249783,0.0115661198005693,4676,1875,1642,1159,irony,neutral
+"Every night when I try to sleep, I can't stop thinking about work.",1.841890440386681,0.01143664507199,4655,1843,1705,1107,unknown,negative
+"Remember Dave, Rule #1: Never Count Them. Dave? Dave?",1.8821200791730812,0.0119317566769261,4547,1771,1541,1235,sarcasm,neutral
+"Believe it or not, they think that we look alike too.",1.8369421122403888,0.0113400131358963,4526,1746,1772,1008,unknown,neutral
+"Ewe, ewe. ewe. That's all we ever talk about.",1.865432944939456,0.0121117287927322,4377,1739,1488,1150,incongruity-absurdity,neutral
+This is nothing.  Herding cats -- that's a real job.,1.865344708323726,0.0121045857140686,4337,1709,1503,1125,incongruity-absurdity,negative
+Remember to check for faces—I once barked at a cotton bale for hours.,1.900784494693124,0.0120865070250255,4334,1608,1548,1178,incongruity-absurdity,neutral
+Try howling like a wolf. It's hysterical.,1.842304060434372,0.0123285142024908,4236,1750,1404,1082,unknown,positive
+This job is much ado about mutton.,1.8242826654019448,0.0122473629601058,4217,1769,1420,1028,unknown,negative
+One is missing?  What does it look like?,1.8495364868077016,0.0121677304720719,4207,1674,1492,1041,unknown,neutral
+Problem is I fall asleep every time I take inventory.,1.842688330871492,0.0122773840864777,4062,1613,1475,974,self-deprecating,negative
+Every time they say 'baa'  please stop saying 'humbug'.,1.9040340766725132,0.0126550435785007,3991,1485,1404,1102,irony,negative
+"Let me get this right ... when you say ""ewe"" you mean them?",1.8380846941599776,0.0130023669300668,3613,1443,1312,858,irony,neutral
+"I don't know about you, but I've been sleeping great since I started this job.",1.81536312849162,0.0127746786321598,3580,1437,1367,776,sarcasm,positive
+We should have washed them on Cold.,1.8103448275862069,0.0129164124731992,3538,1443,1323,772,incongruity-absurdity,neutral
+Hear me out... what about a fence?,1.8163558106169295,0.0128679121629788,3485,1384,1357,744,unknown,neutral
+"Herding is okay, but what I’d really like to do is direct.",1.8629704108014935,0.0133952820972571,3481,1358,1242,881,wit-surprise,neutral
+What keeps me up at night is wondering which one is the wolf.,1.826086956521739,0.0138053724417642,3335,1400,1115,820,irony,neutral
+I was born a herder but I identify as a retriever.,1.809831029185868,0.0136146803256517,3255,1350,1174,731,incongruity-absurdity,neutral
+"I've been coming here for years.  Just keep your 
+mouth shut and you get a haircut for free!",1.8107408605629247,0.0142749401937751,3091,1321,1034,736,sarcasm,positive
+Is it wrong to wonder what they taste like?,1.7924263674614305,0.0147170465182157,2852,1238,968,646,irony,neutral
+It's just 'dog' now. I had to stop letting work define me.,1.8354293927416456,0.0148729180297269,2783,1123,995,665,self-deprecating,negative
+"You’re very calm, given we had 500 this morning.",1.823956442831216,0.0152806693985112,2755,1171,898,686,sarcasm,positive
+This is way easier than cats,1.80749063670412,0.015026397648562,2670,1111,962,597,irony,positive
+You're going to be tempted to count them... Don't.,1.7955843167110772,0.0150437420024275,2627,1104,956,567,unknown,neutral
+I’ll admit it - it feels a little weird being back at the office.,1.7896039603960396,0.015409802667399,2424,1006,922,496,self-deprecating,negative
+"You DO know that if these sheep move, EVERYONE on the Zoom call will know we’re not wearing pants.",1.7830465799412505,0.0164543500830918,2383,1083,734,566,sarcasm,negative
+I know you don't believe me but I'm pretty sure we're adopted.,1.7860545690775227,0.0161519924911584,2309,995,813,501,self-deprecating,neutral

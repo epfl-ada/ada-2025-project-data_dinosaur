@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I could never pull that off.,1.8462809917355372,0.0161392436603815,2420,983,831,606,sarcasm,negative
+Your going as a satellite dish?  I'm going as a pilgrim.,1.8905075187969924,0.0172797152156483,2128,817,736,575,incongruity-absurdity,neutral
+This way I can still drink out of the toilet.,1.8235294117647056,0.0171325612444196,2125,886,730,509,incongruity-absurdity,neutral
+Mine's a placebo.,1.8179245283018868,0.0173335792601315,2120,905,697,518,sarcasm,neutral
+"It might be on backwards, but now they put the thermometer in my mouth.",1.879334916864608,0.0180274562181275,2105,877,616,612,self-deprecating,neutral
+No one wears their cone like that anymore Dad,1.875748502994012,0.0174341792276226,2004,752,750,502,sarcasm,neutral
+Seriously?  You didn’t know it was reversible?,1.814263724987173,0.0172882994843227,1949,787,740,422,sarcasm,neutral
+I think I got the placebo.,1.8274085522926329,0.0177110680858662,1941,790,698,453,unknown,neutral
+I'm getting much better mileage too.,1.8269129287598944,0.0178472671951002,1895,764,695,436,exaggeration,positive
+"Technically, I'm in compliance.",1.830948595654478,0.0175734243674656,1887,739,731,417,self-deprecating,neutral
+"No, it’s not medical. I chased the cat up a lamp",1.8138297872340423,0.0183759101978142,1880,807,619,454,incongruity-absurdity,negative
+"Think I look stupid, my master has one that covers his mouth and nose""",1.8056897477187333,0.0186275437555543,1863,823,583,457,sarcasm,negative
+I like to think outside the cone.,1.7794513179128564,0.0179232098511986,1859,813,648,398,wit-surprise,neutral
+I can’t get at my stitches but I can still drink from the toilet.,1.7656926406926408,0.0177182472742785,1848,806,672,370,self-deprecating,negative
+Any place you'd like me to lick for you?,1.8836324089178904,0.0192389750506561,1839,753,554,532,sarcasm,neutral
+I saw my human do it with his baseball cap,1.8077553249590388,0.0181707395266739,1831,766,653,412,irony,neutral
+"You went to the vet.
+I went to the seminary.",1.825136612021858,0.0183093316433598,1830,755,644,431,wit-surprise,neutral
+"Is it true you can hear the ocean?""",1.819178082191781,0.017998310682725,1825,734,687,404,sarcasm,neutral
+"This way, I can still drink from the toilet.",1.8164835164835165,0.0183989782941754,1820,758,638,424,self-deprecating,neutral
+It's easy. Just wait for your next ride with the window down.,1.7527472527472527,0.0176792074281226,1820,798,674,348,sarcasm,positive
+Run through the doggie door as fast as you can. Trust me.,1.818181818181818,0.0186241343513028,1815,769,610,436,incongruity-absurdity,neutral
+Elizabethan is out. Puritan is in.,1.8203856749311296,0.0184393057675651,1815,752,637,426,irony,neutral
+I slipped the vet a five.,1.806881243063263,0.0182658045162502,1802,753,646,403,unknown,neutral
+It was easy. I just stuck my head out of the car window.,1.7514124293785311,0.0180012007061385,1770,788,638,344,unknown,neutral
+"It’s tough, but I can still lick mine.",1.764840182648402,0.0186332218283041,1752,792,583,377,self-deprecating,neutral
+Do you think this makes me look fast?,1.7612197928653626,0.0185775961977096,1738,780,594,364,unknown,neutral
+It’s simple. Just run real fast through the doggy door.,1.7643312101910829,0.0186346389249628,1727,769,596,362,incongruity-absurdity,neutral
+Every revolution begins with a small act of defiance.,1.7698224852071005,0.0183911623612494,1690,722,635,333,unknown,neutral
+Designed by RBG. Yours?,1.758026159334126,0.019016839501037,1682,764,561,357,sarcasm,neutral
+At least I can still get my head into the toilet.,1.7472594397076735,0.0188173717174583,1642,743,576,323,self-deprecating,negative

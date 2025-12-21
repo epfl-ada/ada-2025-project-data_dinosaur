@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I'm a very good boy.,1.7332881662149957,0.0119600079796665,4428,2155,1302,971,unknown,positive
+The bathroom is still outside.,1.84130859375,0.0123562075038615,4096,1660,1428,1008,irony,neutral
+Look at what I'm able to afford just by leaving California!,1.83623782675551,0.0127677076047726,3902,1617,1309,976,exaggeration,positive
+I’m pretty sure I wasn’t their first choice.,1.9466085535276492,0.0132619188139892,3671,1288,1291,1092,self-deprecating,negative
+They’ll eventually figure out I’m full grown.,1.882497273718648,0.0130091824252843,3668,1393,1323,952,self-deprecating,neutral
+It intimidates the mailman.,1.7340865252135576,0.0123631554318872,3629,1625,1349,655,unknown,negative
+Remember that Great Dane I met at the dog park? Things have been moving pretty fast.,1.805749372034608,0.0133366847575764,3583,1557,1165,861,unknown,positive
+I wanted something with a big-dog feel without the fat-cat vibe.,1.745791245791246,0.0128649246394036,3564,1622,1228,714,wit-surprise,neutral
+"I wasn't going to spring for an indoor tree, but then I thought, ""Who's a good boy?""",1.833097194672712,0.013522663394018,3529,1488,1147,894,unknown,neutral
+You know what they say: choose your house for the dog you want to be.,1.768348623853211,0.0130294920566103,3488,1530,1236,722,self-deprecating,neutral
+It’s Great Dane space at Chihuahua prices!,1.7285173317797844,0.0128483341371487,3433,1565,1235,633,incongruity-absurdity,neutral
+"They thought a ""Beware of the Dog"" sign lacked impact.",1.7286844418400231,0.0127287536473655,3413,1532,1275,606,incongruity-absurdity,negative
+"Sure, the high ceilings are nice, but you’ve got to see the indoor hydrant.",1.7201086956521738,0.0129799272969905,3312,1519,1201,591,incongruity-absurdity,neutral
+Just wait ‘til you see the drinking toilet.,1.7289776164549304,0.0132116438351207,3306,1523,1156,627,irony,neutral
+Dad's a giraffe. I'm adopted.,1.7376639600249844,0.0138975856730768,3202,1520,1002,680,incongruity-absurdity,neutral
+"One of these days I'm going to meet a Great Dane at a bar and she's gonna say ""Let's go to your place.""",1.7553772070626004,0.0140161020147005,3115,1427,1023,665,unknown,neutral
+I’ve always loved Great Danish architecture.,1.745111037454425,0.0139036366429869,3017,1362,1062,593,wit-surprise,positive
+Wait until you see my water bowl.  It has a deep end.,1.8604111405835544,0.0142952175131659,3016,1169,1099,748,incongruity-absurdity,neutral
+"Now, everybody fears the ‘Beware of Dog’ sign.",1.7205588822355289,0.0138999909794567,3006,1410,1026,570,unknown,negative
+And the acoustics make me sound like a German shepherd.,1.8867421718854096,0.0142426053580677,3002,1103,1136,763,self-deprecating,negative
+My roommate is a giraffeadoodle,1.7141873278236914,0.0148088134613245,2904,1464,811,629,irony,negative
+I got a great deal after the Great Dane moved out.,1.7182999648753077,0.0136607867153928,2847,1270,1109,468,incongruity-absurdity,positive
+I’m just so over the tiny house movement,1.7224606580829758,0.0143204634343382,2796,1297,978,521,exaggeration,negative
+The acoustics make me sound ferocious.,1.8116929698708752,0.0146345679460235,2788,1144,1025,619,self-deprecating,negative
+"Yes, it is--but at least the Trump logo is gone.",1.8440763413755852,0.0154640106426419,2777,1172,866,739,irony,negative
+Don’t you ever feel like they wanted a bigger dog?,1.7543859649122806,0.0144131110541476,2679,1157,1024,498,incongruity-absurdity,neutral
+It’s got an indoor tree.,1.7092278719397362,0.0152351146829514,2655,1316,795,544,irony,neutral
+I’m finding it very difficult to live up to their expectations.,1.7454476479514416,0.0147843017789011,2636,1180,947,509,self-deprecating,negative
+It feels like you’re compensating for something.,1.7095292766934558,0.0145984066334518,2613,1217,938,458,sarcasm,neutral
+It's for when my owner's in the doghouse too.,1.7110844337735094,0.0151532156403921,2499,1182,857,460,unknown,neutral

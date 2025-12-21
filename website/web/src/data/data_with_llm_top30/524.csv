@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Take the picture, dammit, take the picture!",1.7472222222222222,0.0425507163869599,360,174,103,83,unknown,negative
+4,Are you licensed to carry small arms?,1.6597222222222223,0.0443602055676098,288,147,92,49,sarcasm,neutral
+6,Harry has his usual dream before his mother-in-law's visit.,1.6347517730496457,0.0454068084849007,282,152,81,49,unknown,neutral
+7,Did your momma tell you there would be knights like this?,1.6217391304347826,0.0493149009145165,230,124,69,37,irony,neutral
+3,This seems to be a case of reptile dysfunction.,1.6607929515418502,0.0520300638489462,227,121,62,44,wit-surprise,negative
+5,Don't give me that endangered species crap!,1.6502242152466369,0.0517767944141975,223,119,63,41,sarcasm,negative
+1,If I don't kill you the smoking will.,1.699530516431925,0.050414605113966,213,99,79,35,sarcasm,negative
+10,just as I suspected all puff no magic,1.6,0.0515656360907375,205,113,61,31,sarcasm,neutral
+8,"Smoke-blowing, tiny hands - I know a Trumpasaurus when I see one!",1.6157894736842104,0.057554505199452,190,110,43,37,irony,negative
+2,"Remember, it’s ‘Touché!’ not ‘Flambé!’",1.6648936170212767,0.0553971526157239,188,96,59,33,wit-surprise,neutral
+11,Hold your fire!,1.5842696629213484,0.0549798861717308,178,100,52,26,unknown,neutral
+9,"Trust me, this is wrong on so many levels.",1.6104651162790695,0.0635815004071637,172,106,27,39,irony,negative
+12,Maybe the song was about pot after all.,1.579268292682927,0.0580138859279736,164,94,45,25,sarcasm,neutral
+13,"Blowhard. Tiny hands. Republican, right?",1.554054054054054,0.0623465454129542,148,90,34,24,sarcasm,neutral
+30,For all this effort you better taste like chicken.,1.4931506849315068,0.0525644444133328,146,85,50,11,unknown,negative
+18,"Not to be a nag, but if I don't kill you, all that smoking certainly will.",1.5289855072463767,0.0583565147019328,138,80,43,15,sarcasm,negative
+14,Smoking is bad for your lunge.,1.5434782608695652,0.0600782004032506,138,80,41,17,unknown,negative
+17,"On second thought, let's go with rock paper scissors.",1.5303030303030305,0.0573525263273291,132,74,46,12,sarcasm,neutral
+15,"It must be June, the Knights keep getting shorter.",1.534351145038168,0.0679346426298839,131,84,24,23,incongruity-absurdity,neutral
+32,Rules are rules...You can't bring fire to a knifefight,1.4883720930232558,0.0593858660699401,129,79,37,13,wit-surprise,neutral
+28,I'll teach you to frolick in the autumn mist!,1.4960629921259845,0.0697039786376946,127,87,17,23,wit-surprise,positive
+19,I'm sorry I said you had small hands.,1.5238095238095235,0.0634603095198388,126,76,34,16,sarcasm,negative
+24,This princess better be worth it.,1.504,0.0597024881958381,125,74,39,12,sarcasm,positive
+81,Agreed - you won't breathe fire and I won't make any jokes about your ludicrously small baby hands,1.424,0.0593121866387588,125,84,29,12,sarcasm,negative
+23,"It's parry and thrust, not parry, thrust and singe. There is NO singe. Now, once again....",1.5081967213114753,0.0629469808701725,122,74,34,14,wit-surprise,negative
+16,It's a fair fight as long as you keep your mouth shut.,1.5333333333333334,0.0636575807088154,120,70,36,14,wit-surprise,neutral
+33,"You know the rules: fire beats shield, shield beats sword, sword beats fire.",1.4871794871794872,0.0660620065871552,117,75,27,15,wit-surprise,neutral
+36,You always get this way when you try to quit smoking.,1.4827586206896552,0.0618102219809376,116,71,34,11,sarcasm,negative
+22,"Hey, LOTS of dragons have projectile dysfunction.",1.5086206896551724,0.0653622011533122,116,71,31,14,irony,negative
+21,I knew Saint George. You're no Saint George.,1.5087719298245614,0.069649480636543,114,73,24,17,wit-surprise,neutral

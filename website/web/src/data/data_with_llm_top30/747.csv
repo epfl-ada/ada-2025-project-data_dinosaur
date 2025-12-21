@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I just hope they don’t put in a pool.,1.9767353886892376,0.0107375169965853,5287,1674,2062,1551,incongruity-absurdity,negative
+Just be glad he's not wearing his kilt today.,2.004051707505306,0.0112395047613933,5183,1686,1790,1707,sarcasm,neutral
+I think it's called an air B&B.,1.982765531062124,0.0112065886371631,4990,1607,1862,1521,incongruity-absurdity,neutral
+I don’t think he understands the gravity of his situation.,1.930049777312025,0.0128211249316887,3817,1340,1404,1073,wit-surprise,negative
+I'm always afraid he will drop in unexpectedly,1.9290586630286497,0.0127107341518109,3665,1224,1477,964,sarcasm,negative
+"If he says ‘Hey neighbour, what’s up?’ one more time, I’m going to scream.",1.906386462882096,0.013007741878816,3664,1323,1361,980,sarcasm,negative
+They never tell you the whole story behind those reverse mortgages.,1.944288913773796,0.0133281850117412,3572,1238,1295,1039,exaggeration,negative
+You said your grandson made those brownies...?,1.9088059276147051,0.0137486393967488,3509,1338,1153,1018,sarcasm,neutral
+"It’s a nice house, but the neighbors are right on top of us.",1.9307045520440709,0.0130859546772569,3449,1146,1396,907,incongruity-absurdity,positive
+I always have to remember to look angry so he thinks I’m smiling!,1.9105431309904153,0.013508241620669,3443,1249,1253,941,sarcasm,neutral
+He just bought the old Escher place.,1.9047331926439557,0.0143592428656438,3317,1307,1019,991,irony,neutral
+"We better get inside, he's about to mow the lawn.",1.9059254734270008,0.0135760667149939,3274,1156,1270,848,unknown,neutral
+One day I'm going to trick him into waving with both hands to see what happens.,1.8973946606625924,0.0140897691135907,3109,1135,1158,816,sarcasm,neutral
+"He's annoying, but I’ve collected a lot of loose change.",1.8976930792377131,0.0135199300469261,2991,986,1325,680,self-deprecating,negative
+"Turns out, what the realtor actually said was prime location, great schools, and Lou overhead.",1.896094839609484,0.0151490954848039,2868,1108,950,810,unknown,positive
+Looks like his reverse mortgage went through.,1.9002520705797623,0.0147947444592526,2777,996,1062,719,irony,neutral
+He told me he flips houses. I didn't take him seriously.,1.9043348281016443,0.0150134618496798,2676,947,1038,691,wit-surprise,negative
+"We don’t discuss politics, religion or gravity.",1.8899503247993883,0.0154127580206794,2617,996,931,690,incongruity-absurdity,neutral
+It’s fine until he turns his sprinklers on.,1.888718929254302,0.0150321740726776,2615,934,1038,643,irony,neutral
+We should have gone to that zoning meeting.,1.8908951210142144,0.0151424791798564,2603,936,1016,651,unknown,neutral
+Are you guys getting any weird side effects from the second shot?,1.8871733966745845,0.015921601561248,2526,967,877,682,sarcasm,neutral
+I don’t think he really understands the gravity of the situation.,1.9054545454545455,0.0157756556217349,2475,890,929,656,wit-surprise,negative
+"Before 2020 we would have asked questions, now we just wave back.",1.8979343863912512,0.0154698911367063,2469,868,985,616,sarcasm,neutral
+"I thought so too, but when I stood up all the change fell out of MY pocket.",1.8990825688073392,0.0166191545699838,2398,927,786,685,unknown,negative
+It’s great to live in a neighborhood that accepts all orientations.,1.882122662026968,0.016133016393463,2299,839,892,568,sarcasm,positive
+"It's him, not us, right?",1.8964003511852503,0.0160341652551522,2278,800,916,562,sarcasm,neutral
+They just flipped that house.,1.903269144648455,0.0164036357864795,2233,789,871,573,incongruity-absurdity,negative
+"Carl, go into your zoom settings and select rotate camera!",1.8807709547288212,0.0166201981854764,2231,836,825,570,sarcasm,neutral
+It's only a problem when he turns the  sprinklers on.,1.8876251137397635,0.0158897233056118,2198,747,951,500,unknown,negative
+"He acts nice, but I know he looks down on us.",1.8855970829535096,0.0164645020450187,2194,792,861,541,sarcasm,negative

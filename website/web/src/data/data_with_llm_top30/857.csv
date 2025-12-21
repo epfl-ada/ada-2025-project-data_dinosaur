@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I hate going home. I have a million relatives.,1.7354892205638477,0.0137102994575047,3618,1835,905,878,exaggeration,negative
+That's nice.  My husband is a carpenter too.,1.7525710828796128,0.0139017346179264,3306,1566,992,748,sarcasm,positive
+Family reunion picnic.  And you?,1.7357187696170746,0.0141142109861598,3186,1543,942,701,irony,neutral
+It's better than a screaming baby...it's better than a screaming baby...it's better than a ....,1.7032569360675514,0.0156434136261971,2487,1235,755,497,sarcasm,positive
+Sarah quickly learnt the difference between extra-leg room  and extra leg-room,1.7454545454545454,0.0187297620691674,1925,957,501,467,incongruity-absurdity,neutral
+"From way up here, the people on the ground look like... um, never mind.",1.742965367965368,0.0184422783973268,1848,879,565,404,incongruity-absurdity,neutral
+"Oh, so you can travel and destroy the environment but when I do it, I’m an “invasive species.”",1.7010250569476082,0.0186510937514558,1756,877,527,352,irony,negative
+I don't think those pills were dramamine,1.6893371757925073,0.0187489404983895,1735,882,510,343,sarcasm,neutral
+Don’t have to use the bathroom. Don’t have to use bathroom.,1.6494910941475829,0.0195290458411909,1572,843,437,292,self-deprecating,neutral
+What a relief! I heard Donald Trump was on this flight.,1.6460526315789474,0.0202370689772576,1520,837,384,299,sarcasm,positive
+"It was summer and I was a kid with a magnifying glass, okay?",1.6465116279069767,0.019468717783531,1505,789,459,257,incongruity-absurdity,neutral
+"An empty flight, and she has to sit next to me.",1.6693386773547094,0.0198376748525266,1497,770,452,275,sarcasm,neutral
+I never dreamed that I would be flying with the Queen.,1.656166219839142,0.019805584941183,1492,781,443,268,wit-surprise,neutral
+"Suddenly, choosing the row with the most leg room seemed like a bad idea.",1.6550100874243443,0.0192169986265954,1487,753,494,240,unknown,negative
+"If you want to be left alone, carry a book, they said. 
+It works.",1.6584867075664622,0.0197149463084943,1467,754,460,253,self-deprecating,neutral
+I could have sworn that the plane was full when we took off.,1.646090534979424,0.0200899485389883,1458,778,418,262,incongruity-absurdity,neutral
+"Yes, I need the extra legs room.",1.6444444444444444,0.0196971946785366,1440,749,454,237,irony,neutral
+"My husband wanted me to take the middle seat, so I just bit off his head.  Traveling alone?",1.6315422191207258,0.0203936766513349,1433,788,385,260,self-deprecating,neutral
+"She's a good therapist, but I don't see why I have to face my fear of flying and fear of insects at the same time.",1.665021156558533,0.0206146831599437,1418,744,405,269,exaggeration,negative
+Another aircraft they put into service before getting all the bugs out,1.691304347826087,0.0212643770251478,1380,709,388,283,exaggeration,negative
+I hope they don't get our meals mixed up!,1.7136563876651982,0.021138931334344,1362,665,422,275,incongruity-absurdity,negative
+"So, you ever read Kafka?",1.6809954751131222,0.0209626474539061,1326,665,419,242,sarcasm,neutral
+"Ladies, ant, gentlemen, this is your captain speaking.",1.7513389441469014,0.0223175942214367,1307,628,376,303,unknown,neutral
+If ever there was a need for a SWAT team …,1.624901497241923,0.0211451519388466,1269,687,371,211,wit-surprise,neutral
+Whose head do you have to bite off in this place to get a cocktail?,1.6411323896752703,0.0222631559454002,1201,650,332,219,sarcasm,negative
+Will they all hatch before we land?,1.61,0.0244977346856022,1200,757,154,289,incongruity-absurdity,neutral
+I can lift 5000 times my bodyweight. Don't worry about the exit door.,1.6337308347529813,0.0216336520956282,1174,616,372,186,exaggeration,positive
+"Kafka, F. Kafka, please see a flight attendant!",1.6116681859617137,0.0227919872935726,1097,608,307,182,sarcasm,neutral
+I hope we don't get some weirdo in the middle seat!,1.6071103008204193,0.0235651693231612,1097,634,260,203,sarcasm,negative
+Flying makes me antsy. Do you feel antsy? I feel antsy.,1.6039408866995073,0.0235496244988159,1015,566,285,164,self-deprecating,negative

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Is the salmon fresh?,2.3383484711918463,0.0059934074026309,14423,2164,5232,7027,irony,neutral
+"So, I take it the salmon is wild-caught?",2.1066893089190786,0.0063179913340463,13544,3048,6016,4480,irony,neutral
+"Okay,  since you’ve gone to the trouble , I’ll have the fresh-caught salmon!",1.947775934265624,0.0067003194984854,12657,3961,5403,3293,sarcasm,neutral
+Thanks for checking on the salmon. How's the lamb?,2.0345250756770024,0.0071130484048036,12223,3588,4630,4005,sarcasm,positive
+Well don't put it on the menu if you can't catch one.,1.9472755782046256,0.0079756523900526,10204,3597,3549,3058,irony,negative
+Is it too late to cancel the salmon?,1.9064677700348431,0.0082129012187895,9184,3314,3415,2455,sarcasm,negative
+I said I wanted a wheat beer not a wet bear!,1.8060512024825448,0.009078345432246,7734,3360,2514,1860,incongruity-absurdity,neutral
+"I asked to see who cooked it, not who caught it.",1.770938999314599,0.0089657419487486,7295,3180,2612,1503,incongruity-absurdity,neutral
+River to table?,1.7933953101151658,0.0089965126257293,7207,3002,2693,1512,irony,neutral
+‘“Today’s catch it is then.”,1.7323699421965315,0.0088006671348635,6920,3041,2698,1181,wit-surprise,neutral
+I assume the salmon is the catch of the day?,1.8025487036765784,0.0089965974231329,6827,2693,2789,1345,sarcasm,neutral
+"Okay, I'll just have the farm-raised then.",1.8561287269285376,0.0095533676248982,6339,2355,2541,1443,sarcasm,neutral
+I’ll have the wild-caught salmon. Or what’s left of it.,1.7541602333161777,0.0099076884552643,5829,2560,2142,1127,irony,neutral
+So you can personally confirm the salmon was wild-caught?,1.7226315789473683,0.0097380607050395,5700,2550,2181,969,sarcasm,neutral
+"I was pretty sure I  said  ""a cold beer"".",1.9483819733968633,0.0116259449999507,5037,1851,1595,1591,irony,neutral
+"Well, if you can't get the salmon, how about the trout?",1.7835341365461848,0.010440208041162,4980,2007,2044,929,incongruity-absurdity,neutral
+"The fresh salmon was great.  I'd like the  honey ""en comb"" for dessert.",1.7347677458274684,0.0110684350455563,4973,2349,1594,1030,incongruity-absurdity,positive
+I'd like to change my order if it's not too much trouble...I'll have the steak instead of the wild caught salmon...,1.6791717917179172,0.0107922861683573,4878,2419,1605,854,sarcasm,neutral
+"Don't look at me, I voted for Al Gore.",1.6810195496164315,0.0122549188981948,4041,2076,1178,787,sarcasm,neutral
+Would it be too much trouble to send the salmon back?,1.6020994751312172,0.0113165534364547,4001,2145,1306,550,sarcasm,neutral
+"I see the special is salmon, is it fresh?",1.6938512992024697,0.0117845028461761,3887,1826,1425,636,sarcasm,neutral
+"You've convinced me, it is wild-caught.",1.6933333333333334,0.0117670574946185,3825,1779,1440,606,sarcasm,neutral
+"*I see here the salmon is wild-caught, but is it locally sourced?",1.6044219499200851,0.0116846900560129,3754,1998,1243,513,irony,neutral
+And how fresh is the salmon?,1.5848896434634974,0.011530636555824,3534,1888,1234,412,irony,neutral
+I find it hard to believe there’s no salmon. Did you try upriver?,1.5916824196597354,0.0126665414401617,3174,1723,1025,426,sarcasm,negative
+"So, no luck with the fresh-caught salmon?",1.5789823744595943,0.0127221270066188,3007,1631,1011,365,incongruity-absurdity,negative
+You’re positive the salmon is fresh?,1.5726495726495726,0.012929682016614,2925,1607,961,357,sarcasm,neutral
+I asked for a beer. BEER.,1.6143052703627652,0.0134076411416605,2922,1548,953,421,irony,neutral
+You say the salmon is quite fresh?,1.5700382342718109,0.0127027746020449,2877,1552,1010,315,sarcasm,neutral
+"So, am I to assume the salmon is fresh?",1.5688857244571022,0.0132458907148505,2809,1588,856,364,irony,neutral

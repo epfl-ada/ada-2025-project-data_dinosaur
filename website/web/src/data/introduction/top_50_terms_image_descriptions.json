@@ -1,0 +1,34 @@
+[
+  {
+    "term": "man",
+    "count": 596
+  },
+  {
+    "term": "woman",
+    "count": 244
+  },
+  {
+    "term": "people",
+    "count": 180
+  },
+  {
+    "term": "sitting",
+    "count": 170
+  },
+  {
+    "term": "talking",
+    "count": 158
+  },
+  {
+    "term": "looking",
+    "count": 140
+  },
+  {
+    "term": "standing",
+    "count": 128
+  },
+  {
+    "term": "looks",
+    "count": 106
+  }
+]

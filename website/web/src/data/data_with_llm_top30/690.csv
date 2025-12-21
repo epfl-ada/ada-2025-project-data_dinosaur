@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+3 ..2.. 1..,2.6712962962962963,0.0341643695171906,432,61,20,351,unknown,neutral
+My mother in law sucks all the oxygen out of the room.,1.9591836734693877,0.1269714724825176,49,20,11,18,exaggeration,negative
+"Watch your one small step, please.",1.6,0.1632993161855452,25,15,5,5,sarcasm,neutral
+Would you like me to call the shuttle for you?,1.565217391304348,0.1517498325727467,23,13,7,3,sarcasm,neutral
+... in case it DOESN’T stop at the penthouse ??,1.7391304347826086,0.168900083946415,23,11,7,5,sarcasm,neutral
+Just one small step and you'll be in the lobby.,1.608695652173913,0.1632080855499018,23,13,6,4,incongruity-absurdity,neutral
+"Taking off this afternoon, sir?",1.5454545454545454,0.1706528428088919,22,14,4,4,sarcasm,neutral
+"Sorry Sir, this is as high as it goes.",1.1904761904761905,0.1116765657100816,21,18,2,1,sarcasm,negative
+I might only be able to take you part way,1.5238095238095235,0.1635768003554064,21,13,5,3,sarcasm,neutral
+"I missed the first shuttle""",1.4210526315789471,0.1588664059322354,19,13,4,2,unknown,negative
+"The top floor is 8, not infinity, sir.",1.2105263157894737,0.1228070175438596,19,16,2,1,wit-surprise,neutral
+I think it just left.,1.4736842105263157,0.1771842971642469,19,13,3,3,sarcasm,neutral
+"Sir, would you like me to call a shuttle?",1.5263157894736843,0.1771842971642469,19,12,4,3,sarcasm,neutral
+"They say dress for the job you want, not the one you have",1.4736842105263157,0.1771842971642469,19,13,3,3,incongruity-absurdity,neutral
+"Psychiatry - 5th floor, huh? Me too !",1.631578947368421,0.1905750963368458,19,11,4,4,unknown,neutral
+How long do you have to wear that before you win the bet?,1.5555555555555556,0.1661211114658671,18,10,6,2,sarcasm,neutral
+We only go up to Floor 50.,1.1666666666666667,0.0903876907577734,18,15,3,0,unknown,neutral
+"So you want me to press 10, 9, 8, 7, 6, 5, 4, 3, 2 and 1 in that order?",1.4444444444444444,0.1847489415046087,18,13,2,3,wit-surprise,neutral
+I'm taking a walk on the wild side.,1.0555555555555556,0.0571661950475029,18,17,1,0,self-deprecating,neutral
+My doctor prescribed this for all future travel to New Jersey.,1.0555555555555556,0.0571661950475029,18,17,1,0,sarcasm,neutral
+NASA cut your budget again?,1.5,0.1666666666666666,18,11,5,2,sarcasm,negative
+"Going up, Sir?",1.5,0.2021130208636108,18,13,1,4,incongruity-absurdity,neutral
+"I'd be happy to count down from ten, sir, but I draw the line at making rocket noises.",1.5,0.2021130208636108,18,13,1,4,sarcasm,neutral
+"I don't think we are quite there yet, sir",1.4444444444444444,0.1847489415046087,18,13,2,3,sarcasm,negative
+New suit?,1.6111111111111112,0.1832689528471889,18,10,5,3,irony,neutral
+"Welcome home, sir. Long trip?",1.1111111111111112,0.1111111111111111,18,17,0,1,sarcasm,positive
+"Are you sure you won’t just get the flu shot this year, sir?",1.4444444444444444,0.1847489415046087,18,13,2,3,sarcasm,neutral
+"Any habitable planet,please.",1.0588235294117647,0.0606339062590832,17,16,1,0,exaggeration,neutral
+I already got my flu shot.,1.0588235294117647,0.0606339062590832,17,16,1,0,irony,neutral
+Just buzz me when you want to splash down.,1.1176470588235294,0.1176470588235294,17,16,0,1,unknown,neutral

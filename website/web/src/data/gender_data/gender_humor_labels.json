@@ -1,0 +1,32 @@
+[
+  {
+    "category":"incongruity-absurdity",
+    "pct_man":3.08,
+    "pct_woman":5.35
+  },
+  {
+    "category":"irony",
+    "pct_man":12.48,
+    "pct_woman":12.06
+  },
+  {
+    "category":"sarcasm",
+    "pct_man":40.33,
+    "pct_woman":45.65
+  },
+  {
+    "category":"self-deprecating",
+    "pct_man":0.7,
+    "pct_woman":1.74
+  },
+  {
+    "category":"unknown",
+    "pct_man":34.89,
+    "pct_woman":29.1
+  },
+  {
+    "category":"wit-surprise",
+    "pct_man":8.52,
+    "pct_woman":6.09
+  }
+]

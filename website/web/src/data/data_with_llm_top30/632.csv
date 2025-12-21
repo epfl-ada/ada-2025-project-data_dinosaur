@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,What makes you think the Russians were involved?,2.1647331786542923,0.0071473162167198,11637,2658,4404,4575,sarcasm,neutral
+2,They were all in it together.,2.1391430383186885,0.0073487251236228,11039,2629,4245,4165,unknown,neutral
+4,"We’re pretty sure it was an inside inside inside inside inside job, detective.",2.0609476309226933,0.0078495429924092,10025,2809,3796,3420,wit-surprise,neutral
+9,I think the small one is hiding something but I can't get her to open up,1.96821417828136,0.0076505369345932,9973,3074,4142,2757,incongruity-absurdity,negative
+6,I only arrested the one on the left. But when we interrogated her she really opened up.,2.00252576278036,0.0077124905703722,9898,2901,4071,2926,incongruity-absurdity,neutral
+3,We gotta get the short one to open up.,2.0753100338218715,0.0086731543310066,8870,2650,2902,3318,sarcasm,neutral
+18,"I suspect it's an inside, inside, inside, inside, inside job.",1.85070127146415,0.0088607196035535,7629,2939,2890,1800,wit-surprise,neutral
+11,"Call it a hunch, but I think the little one is at the center of it all.",1.9293744213728343,0.0089221357669703,7561,2561,2973,2027,self-deprecating,neutral
+7,"Well, that would explain just the one set of footprints.",1.998115395766889,0.0095851183169976,6898,2192,2527,2179,wit-surprise,neutral
+14,You were right about starting with the cavity search.,1.9022690197241583,0.0098005515364608,6743,2545,2312,1886,sarcasm,neutral
+10,We're gonna have a hard time proving armed robbery.,1.963963963963964,0.0102708157141475,6438,2306,2058,2074,wit-surprise,negative
+12,We've already got Number 1 on 5 counts of harboring Russian fugitives.,1.9031339031339032,0.0100020510495591,6318,2332,2266,1720,irony,negative
+17,It’s hard to imagine a more organized crime family.,1.8520988622989407,0.01105645758081,5098,2021,1810,1267,wit-surprise,negative
+5,I can’t shake the feeling that they all fit together somehow.,2.027171757239191,0.0109171620783387,5042,1448,2009,1585,wit-surprise,neutral
+25,"On the upside, we were able to get all of them in one patrol car.",1.744988864142539,0.011368598048209,4490,2021,1593,876,sarcasm,positive
+20,Seriously? Loosen my tie and remove my head?,1.7881241565452093,0.0123093532387891,4446,2068,1252,1126,sarcasm,neutral
+23,That's the brilliance of it. They all come in on a single visa.,1.7609254498714653,0.0119279150949754,4279,1936,1430,913,sarcasm,positive
+27,We think they had a woman on the inside.,1.7176667463542912,0.011515088321717,4183,1917,1530,736,incongruity-absurdity,neutral
+28,"I'm sure the smallest one did it, but the others are all
+covering for her.",1.7166051660516606,0.0115701558675612,4065,1845,1527,693,sarcasm,neutral
+24,"Number 6 will talk, she’s too afraid of going back inside.",1.751730959446093,0.0119344623845488,4044,1791,1466,787,sarcasm,negative
+21,There were more Russians at that meeting than we thought...,1.778301886792453,0.0121967813294508,4028,1752,1417,859,irony,neutral
+0,"I got her to open up, but now she's beside herself.",2.21955003878976,0.0121160170588544,3867,766,1486,1615,wit-surprise,negative
+22,"If you ask me, I think they were all in on it together.",1.761372922909289,0.0122355559399414,3671,1551,1445,675,sarcasm,neutral
+36,She is full of herself.,1.6549896967912865,0.0131986154389995,3397,1793,983,621,self-deprecating,negative
+19,The big one's covering for them.,1.8144329896907216,0.0130857297167673,3395,1360,1305,730,sarcasm,neutral
+38,We suspect they were all covering up for the little one.,1.6437462951985773,0.0125476386085467,3374,1711,1154,509,sarcasm,negative
+30,Don’t worry. It’s an open-and-shut case.,1.7149489322191271,0.0139691201042319,3231,1610,932,689,wit-surprise,neutral
+37,"The little one has a solid alibi, but the rest are pretty hollow.",1.6494169096209912,0.0139405039255862,2744,1381,944,419,wit-surprise,neutral
+13,"As we suspected, they were all in on it.",1.9025902955125864,0.0141558919830532,2741,899,1210,632,irony,neutral
+26,"I said, 'Arrest the Russian hackers', not 'Unnest the Russian stackers'.",1.7319004524886878,0.0157517596949352,2652,1323,717,612,irony,negative

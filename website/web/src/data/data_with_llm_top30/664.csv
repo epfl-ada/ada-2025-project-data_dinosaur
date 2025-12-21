@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I just made a guy disappear for twenty years. Can you do that?,2.191730118443316,0.0076376373577748,9456,1875,3893,3688,sarcasm,neutral
+When was the last time you saw either half of her.,2.136499254102437,0.0086189113205196,8044,1929,3088,3027,sarcasm,neutral
+I'm thinking of a number between 20 to life.,2.0971392244119516,0.0086984498510814,7865,1995,3111,2759,exaggeration,neutral
+Put the jury back in the box and hand me the wand.,2.12674791533034,0.0088130510368393,7795,1928,2951,2916,wit-surprise,neutral
+"No, you may not have a volunteer from the audience",2.027252807450014,0.0089930284884329,7302,2059,2985,2258,sarcasm,neutral
+Exhibit A had better reappear immediately.,2.127830323875036,0.0088741101311097,6978,1528,3030,2420,sarcasm,neutral
+That rabbit was evidence!,1.9712660879976056,0.0094188983525567,6682,2079,2716,1887,incongruity-absurdity,neutral
+I don't care what he said. He's the prosecuting attorney. Make him reappear.,1.9818068729591043,0.0096200469834241,6431,1973,2602,1856,sarcasm,negative
+"Listen!  If  I thought I could make obstruction of justice just ""disappear"" I'd be president of the United States!",1.9682882284575791,0.0109197674461853,6023,2261,1692,2070,sarcasm,negative
+"And stop referring to the prosecuting attorney as, ""My lovely assistant.""",1.9705671213208904,0.0104366606746183,5572,1775,2186,1611,sarcasm,neutral
+"If the jury doesn’t reappear after recess, consider yourself in contempt.",1.8670354826402136,0.0102888251160824,5242,1849,2241,1152,wit-surprise,negative
+Habeas corpus is one thing. Hocus pocus quite another.,1.8000407249032784,0.0108671791991906,4911,2013,1867,1031,wit-surprise,neutral
+They found one of your hares at the scene of the crime.,1.90055135797427,0.0115068538075788,4897,1855,1674,1368,unknown,neutral
+"Take off your hat. She wants to question the rabbit.""",1.8829141370338247,0.0115293097047191,4612,1715,1722,1175,unknown,neutral
+One last time. Where is the jury?,1.7969190713820786,0.0113457448846492,4609,1930,1685,994,irony,neutral
+I'm thinking of a number between 25 and life.,1.8001332445036642,0.0112508349903265,4503,1823,1757,923,exaggeration,neutral
+"No, I don't want to see another trick, AND I WANT MY GAVEL BACK.",1.839945590569032,0.0117354206645763,4411,1749,1619,1043,sarcasm,negative
+For the last time - saying “a magician never reveals his secrets” is not the same as pleading the fifth,1.903956094214498,0.0115118331364197,4373,1497,1799,1077,wit-surprise,neutral
+Enough! We get that you’ve seen her! Did you saw her?,1.9531368102796671,0.0127875144348824,3969,1385,1385,1199,sarcasm,neutral
+There's no such thing as a writ of hocus pocus!,1.8966309341500769,0.0127865404940812,3918,1478,1367,1073,wit-surprise,neutral
+I'll remind you that making evidence disappear is why you're here in the first place.,1.8744769874476988,0.0121545964818011,3824,1350,1604,870,wit-surprise,negative
+The saw is Exhibit A.  Your assistant is Exhibit B and C.,1.8359437217945311,0.0130570552935099,3767,1569,1247,951,sarcasm,neutral
+I'll decide if that's a trick question!,1.7817790916420315,0.0124245624204488,3721,1563,1407,751,wit-surprise,neutral
+Trust me.  I've seen every trick in the book.,1.909141428174493,0.0127567655139565,3599,1232,1462,905,self-deprecating,neutral
+Just tell the jury what you sawed.,1.7452858425621072,0.0134285224340716,3341,1540,1112,689,wit-surprise,neutral
+"Remember, anything you pull out of your hat may be used against you.",1.7485067588808552,0.0129438814268023,3181,1348,1285,548,sarcasm,negative
+"Nice try, I'm still here.",1.7728418399495904,0.0135211684297805,3174,1363,1169,642,self-deprecating,positive
+"She's the prosecuting attorney, NOT your ""lovely assistant!""",1.724731881702957,0.0135346984794765,3077,1407,1110,560,sarcasm,negative
+We know you're guilty. Now we want to know how you did it.,1.737812911725955,0.0139117530929977,3036,1394,1044,598,unknown,negative
+Stop calling it a workplace accident: You cut a woman in half!,1.7485069674850695,0.0140057273517748,3014,1365,1042,607,irony,negative

@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You're a sight for a sore eye.,1.736340533672173,0.0111887096900873,4722,2182,1603,937,incongruity-absurdity,negative
+I could use some arrr and arrr.,1.6872553284036538,0.0114812747684758,4598,2337,1362,899,sarcasm,neutral
+"If you're waiting for your ship to come in, I wouldn't.",1.687088274044796,0.0113840459502904,4554,2279,1421,854,wit-surprise,neutral
+"To be fair, you don't look like your profile picture either.",1.7410456062291435,0.0115880313723337,4495,2089,1481,925,sarcasm,negative
+They said it was a reorganization.  Then out came this plank.,1.7345794392523364,0.0117824589802636,4280,1990,1435,854,incongruity-absurdity,neutral
+Did you get my bottle?,1.7097619047619048,0.0116247237441968,4200,1978,1463,759,sarcasm,neutral
+Could I borrow your Aye Phone?,1.677819083023544,0.011992957016647,4035,2030,1275,730,sarcasm,neutral
+Last time I drink on a Disney cruise.,1.6788436268068332,0.0121010744239281,3805,1867,1293,645,sarcasm,neutral
+Private beach? I thought they said pirate beach.,1.6893333333333334,0.0121607833103659,3750,1803,1309,638,incongruity-absurdity,neutral
+"Don’t take this wrong, but I’m looking for some booty.",1.7153558052434457,0.0126946262106247,3738,1809,1184,745,sarcasm,neutral
+I assure you— where I come from yo ho ho is a gender neutral greeting.,1.7006181134103735,0.0125796683507016,3721,1822,1193,706,sarcasm,neutral
+By any chance are you sitting on a large X?,1.7032432432432432,0.0125457335594995,3700,1789,1220,691,incongruity-absurdity,neutral
+Oh… you said you wanted PRIVACY…,1.7208680142687276,0.0134379061133042,3364,1622,1059,683,sarcasm,neutral
+You don't remember swiping right on Shiver Me Tinder?,1.660495670349358,0.0132852825893312,3349,1751,984,614,sarcasm,neutral
+I was voted off the island.,1.6875938720336436,0.0130718768929509,3329,1629,1111,589,exaggeration,negative
+"M'Lady, we've been trying to reach you about your car's extended warranty.",1.6690909090909092,0.0137044329714512,3300,1749,894,657,sarcasm,neutral
+My crew found out I was unvaccinated!,1.6911042944785275,0.0137063867138486,3260,1657,953,650,sarcasm,neutral
+You ordered a Captain Morgan with a splash of water?,1.7207013226699477,0.0135447557210071,3251,1549,1059,642,sarcasm,neutral
+When my crew said ‘large chest on the beach’ I thought…well never mind.,1.6695869837296622,0.0135870921336889,3196,1652,951,592,incongruity-absurdity,neutral
+"Excuse me, ma'am, but our booty is buried directly under yours.",1.7213386348575217,0.0141016352467719,3018,1443,973,602,sarcasm,neutral
+"As a guy I hate to ask directions, but....",1.6604712910720212,0.0133758312544561,3013,1497,1042,474,irony,negative
+"Before you say anything, a galleon is harder to
+park than it looks.",1.6630360789652825,0.0135675943984555,2938,1456,1016,466,unknown,neutral
+"Wow, I must've really gotten wrecked last night.",1.668774148226203,0.0139051400550362,2847,1411,968,468,self-deprecating,negative
+"The whole ""Going down with your ship"" thing is entirely overrated.",1.6658433309809455,0.013689280637203,2834,1384,1013,437,sarcasm,negative
+"Shiver me timbers! My ex marks the spot. Hello, Linda.",1.661790938280414,0.0144827485820961,2803,1458,835,510,sarcasm,neutral
+You were right. The pirate life's not for me.,1.65211115120895,0.0138794534783471,2771,1389,957,425,sarcasm,negative
+Plank challenge. Tougher than I thought.,1.6689814814814814,0.0146276675107319,2592,1287,875,430,unknown,neutral
+"You were right, honey. A pirate's life is not for me.",1.6716010907674328,0.0145170528790205,2567,1254,902,411,sarcasm,negative
+"Sure, I'm washed up, but I'm also authentic.",1.671630094043887,0.0146374173443777,2552,1254,882,416,self-deprecating,neutral
+"I sink, therefore I swam.",1.690784155214228,0.0156289129138004,2474,1248,743,483,wit-surprise,neutral

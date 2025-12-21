@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"When we agreed to take separate vacations, I hoped you'd go somewhere else.",1.7222805176635188,0.0156821214797934,2859,1512,629,718,sarcasm,neutral
+"If you close your eyes, the dishwasher sounds exactly like the ocean.",1.6599772813328284,0.0149036217683662,2641,1376,787,478,incongruity-absurdity,neutral
+My mother warned me about marrying a dermatologist.,1.572704081632653,0.0169761917725165,2352,1514,329,509,wit-surprise,negative
+"It's not the sound of gentle waves kissing the shore, Walter.
+It's the dishwasher.",1.7896995708154506,0.0168074444779821,2330,1063,694,573,sarcasm,neutral
+Maybe next week you can pretend to be gainfully employed.,1.6917705735660848,0.0175354867715742,2005,1022,579,404,sarcasm,neutral
+You seem distant.,1.619289340101523,0.0164877170700584,1970,1045,630,295,sarcasm,negative
+You still have to take out the garbage.,1.5742827868852458,0.0168652039318256,1952,1134,515,303,unknown,neutral
+Better give me all your passwords before high tide.”,1.5594871794871794,0.0183418880213153,1950,1258,293,399,sarcasm,neutral
+"When you get back, take out the garbage.",1.6946826758147513,0.0180762587678845,1749,848,587,314,incongruity-absurdity,neutral
+"By prepare for vacation, I was thinking maybe you might get the luggage out of the attic.",1.6339491916859123,0.0179493593759284,1732,916,534,282,sarcasm,neutral
+"You're a lifeguard, Larry. You can't keep working from home.",1.8158357771261,0.020256879792968,1705,782,455,468,sarcasm,neutral
+You seem to be in a better mood now that my parents have left.,1.6189078097475045,0.0183093343889679,1703,934,484,285,sarcasm,positive
+"For the last time,  I'm sorry that I didn't book the flights on time!",1.6446886446886446,0.0189333550305593,1638,875,470,293,sarcasm,negative
+I'm so glad you found a way to work within our budget.,1.6283405842137977,0.0181227436285973,1609,835,537,237,sarcasm,positive
+"For the next contest you enter, I suggest you read the fine print.""",1.635041113219481,0.0189857509620411,1581,844,470,267,sarcasm,neutral
+You’re sure this is easier than taking the Prozac?,1.5933993399339934,0.0187168548817667,1515,835,461,219,sarcasm,neutral
+"Don’t get too comfortable, Jimmy Buffett. It’s your turn to shovel the driveway.",1.68473231989425,0.0204062816391255,1513,790,410,313,incongruity-absurdity,neutral
+When you get back from vacation we need to talk.,1.758226997985225,0.0202546145192124,1489,678,493,318,sarcasm,neutral
+I wish you wouldn't bring your gull friend into our home.,1.5891891891891892,0.0194987137247106,1480,845,398,237,sarcasm,negative
+I really don't think I need to do your back.,1.6327845382963493,0.0199040580810389,1397,737,436,224,sarcasm,negative
+It's low tide now so you can roll the garbage bin back up the driveway.,1.7041547277936964,0.0207045379832289,1396,685,439,272,irony,neutral
+"OK, you can turn on the AC.",1.6040316774658028,0.019030468709824,1389,733,473,183,irony,neutral
+While you're on vacation don't forget to tip the help.,1.565025716385011,0.0199203044358623,1361,792,369,200,sarcasm,positive
+I know the difference between 'working remotely' and 'fired a month ago'.,1.5431098010316875,0.0205718404804086,1357,841,295,221,self-deprecating,neutral
+"I appreciate your foresight, but it says here that sea levels aren’t expected to reach us for quite a few years.",1.596958174904943,0.0201330113041729,1315,722,401,192,sarcasm,neutral
+I still can’t believe you went on a staycation without me.,1.67,0.021483859678448,1300,675,379,246,irony,negative
+"Honey, I don’t think this is what they meant, when they said dress for the job you want",1.64296875,0.0210561618519112,1280,673,391,216,sarcasm,negative
+"Yes George, I know you suffer from jet lag but we returned from Hawaii three weeks ago.",1.551779935275081,0.0201485203191106,1236,711,368,157,sarcasm,neutral
+"When you get back from the Caribbean, the garbage needs to be taken out.",1.5329000812347684,0.0211048781141952,1231,759,288,184,incongruity-absurdity,negative
+"Cute. Retirement looks good on you, dear.",1.5442594215600352,0.0203565950360401,1141,648,365,128,sarcasm,positive

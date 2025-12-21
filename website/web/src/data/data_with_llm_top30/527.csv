@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Well, your profile pic doesn't look much like you either.",1.7657142857142858,0.0599381963340531,175,80,56,39,sarcasm,negative
+2,"Well, I never believed in you either.",1.7207792207792207,0.0680133609598613,154,82,33,39,sarcasm,negative
+1,"You voted ‘Leave,’ didn’t you?",1.76,0.0680044741257409,150,74,38,38,irony,neutral
+4,"Greetings, and let go of my penis.",1.6691176470588236,0.074575886588349,136,81,19,36,sarcasm,neutral
+6,Your cows speak highly of you.,1.661764705882353,0.0701853973690017,136,76,30,30,incongruity-absurdity,positive
+5,Probe you? I hardly know you.,1.664179104477612,0.070224186788732,134,74,31,29,sarcasm,negative
+3,We have observed you in the barn. So many questions.,1.7067669172932332,0.0737792385493543,133,73,26,34,irony,neutral
+9,"Welcome aboard! First stop, Uranus.",1.6488549618320612,0.0726348860615967,131,76,25,30,exaggeration,positive
+7,"You look surprised, John. Have I really changed that much since high school?",1.6615384615384616,0.0703969883973311,130,71,32,27,self-deprecating,neutral
+12,Keep me from your leader.,1.6377952755905512,0.0686153984773775,127,69,35,23,sarcasm,negative
+10,"Think of us as ""Proctologists Without Borders"".",1.6428571428571428,0.0734322153379094,126,73,25,28,wit-surprise,neutral
+11,We said we would return when Cleveland won a championship.,1.64,0.0646579087296389,125,63,44,18,irony,neutral
+14,I had a great time tonight. Can I call you?,1.6341463414634143,0.0714170768433174,123,69,30,24,sarcasm,positive
+17,You've been served.,1.6198347107438016,0.0725909691913637,121,70,27,24,sarcasm,neutral
+20,"We've seen your leaders, and we have absolutely no interest in being taken to them.",1.596638655462185,0.0678471599066996,119,66,35,18,sarcasm,negative
+15,I'm sure we can settle this without involving the insurance companies.,1.630252100840336,0.0714725435837072,119,66,31,22,sarcasm,neutral
+13,"If you enjoyed your anal probe as much as we did, please ""Like"" us on Facebook.",1.6355932203389831,0.0776905295015221,118,71,19,28,sarcasm,positive
+16,"Wow, small universe! My name is also John.",1.6206896551724137,0.0741318291830166,116,67,26,23,self-deprecating,positive
+19,"We've met your leaders and, well, you should come with us.",1.608695652173913,0.0716969341728137,115,65,30,20,sarcasm,neutral
+8,Thank God we found you. What the hell is quinoa?,1.6521739130434785,0.0741527051824054,115,63,29,23,sarcasm,negative
+21,"Yes, it is nice to meet you Earthling, but please let go of my reproductive organ.",1.592920353982301,0.0718162955080848,113,65,29,19,sarcasm,positive
+22,"Thank you for a great weekend, but I'm just not good at long distance relationships.",1.592920353982301,0.0718162955080848,113,65,29,19,sarcasm,negative
+18,"Just remember, what happens on Vega stays on Vega.",1.6106194690265487,0.0779331907777928,113,69,19,25,unknown,neutral
+23,Are you the one who grows the weed?,1.5909090909090908,0.0722513619733099,110,63,29,18,sarcasm,neutral
+24,Hate to probe and run...,1.5779816513761469,0.0693320125306093,109,61,33,15,irony,negative
+27,"Sorry about all the circles, my wife was driving.",1.5700934579439252,0.076412404088776,107,66,21,20,incongruity-absurdity,neutral
+28,We learned everything about you from Facebook; the probing was just for me.,1.5700934579439252,0.0786862566471217,107,68,17,22,sarcasm,neutral
+30,What happens on Vega stays on Vega.,1.5660377358490567,0.073445394968939,106,63,26,17,unknown,neutral
+29,We don’t probe any more. You fill out a short questionnaire when you leave.,1.5673076923076923,0.0805651516869491,104,67,15,22,incongruity-absurdity,neutral
+26,"We came in peace, but now we just want to leave.",1.5728155339805825,0.0711627903296583,103,58,31,14,sarcasm,negative

@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"It's true, your honor. I slept with the witness.",2.3111082753780385,0.0061585334114636,15673,2991,4820,7863,wit-surprise,neutral
+The witness admits having slept with the defendant.,2.0436805764034824,0.006699958080611,13324,3716,5314,4294,incongruity-absurdity,neutral
+The defense can't rest without this witness.,2.0559562081848988,0.0075795609354562,11509,3508,3852,4149,wit-surprise,neutral
+"I must recuse myself, your Honor. I sleep with the defendant.",1.9203096539162112,0.0075338604469801,10980,3911,4040,3029,wit-surprise,negative
+He’s been in and out of thrift stores since age 10.,1.9020057878455243,0.0081763877997047,10021,3908,3192,2921,incongruity-absurdity,neutral
+Where were you between the hours of beddy-bye and nighty-night?,1.9525667967577305,0.0082150081169657,9993,3635,3204,3154,sarcasm,neutral
+Wasn’t your left eye sewn back on AFTER you identified my client?!,1.9467669172932331,0.0081477277019725,9975,3592,3326,3057,sarcasm,neutral
+"Isn't it true, Mr. Bear, that you were in bed with my client on the night in question?",2.0759995824198767,0.0079183977812589,9579,2540,3771,3268,wit-surprise,neutral
+Is the person who put you in the washer and dryer in this courtroom?,1.922728356785118,0.0087802696976308,8386,3067,2903,2416,sarcasm,neutral
+This is the most credible witness we could find at the White House.,1.9236741519350216,0.0094656368353337,8372,3486,2040,2846,sarcasm,positive
+"I’ll rephrase the question. “fuzzy wuzzy wasn’t fuzzy, was he?”.",1.930833117051648,0.0093106910432977,7706,2871,2502,2333,wit-surprise,neutral
+We demand blanket immunity,1.9235404392072843,0.0092752386186752,7468,2726,2595,2147,exaggeration,neutral
+Three years of being dragged down the stairs by my ear. I snapped.,1.847664775207333,0.0098231059993265,6873,2887,2148,1838,self-deprecating,negative
+He's undeniably an accessory to kid napping.,1.8235502748714312,0.0108016513355257,5639,2445,1746,1448,irony,negative
+"He still maintains, Your Honor, that the hugging was not consensual.",1.7976479372783274,0.0107336480515334,5357,2322,1804,1231,irony,negative
+"No need to break for lunch, Your Honor, 
+my client is stuffed.",1.775875190258752,0.0108740865852134,5256,2354,1726,1176,unknown,negative
+What he does in the woods is not on trial!,1.78352088498951,0.0112206547842707,5243,2433,1517,1293,irony,negative
+"My client has an airtight alibi.  At the time of the crime, he hadn't even been manufactured.",1.7316718587746625,0.0116728493191022,4815,2401,1306,1108,wit-surprise,neutral
+"Teddy? Pooh? Boo-Boo? Exactly how many aliases do you have, sir?",1.783275713050994,0.0113315769333016,4628,1985,1661,982,sarcasm,neutral
+"Sir , please just answer the question , Fuzzy Wuzzy wasn’t fuzzy was he ?",1.716062854648625,0.0115797846164586,4582,2245,1394,943,sarcasm,neutral
+You expect us to believe you were at home in bed the night of the murder?,1.7033712784588442,0.0113237133325023,4568,2216,1491,861,sarcasm,negative
+"“Your honor, please instruct the witness that he can’t answer every question with ‘I love you this much.’ ”",1.825324527442496,0.0118766110759162,4391,1815,1530,1046,wit-surprise,positive
+"Do you deny you were found in bed, with the accused, on the day of the incident?",1.7201475334255418,0.0111673081610518,4338,1955,1644,739,sarcasm,neutral
+Let the record show the witness' lips are sealed.,1.8130709768095572,0.0117927070181907,4269,1763,1550,956,incongruity-absurdity,neutral
+I asked for the defendant to bear witness... not for a bear witness,1.7196613358419568,0.0120115204142501,4252,2067,1310,875,wit-surprise,neutral
+"Oh, c'mon, Your Honor, how could this possibly not please the court?",1.770076481835564,0.0119966017661451,4184,1851,1444,889,sarcasm,negative
+He says he’s a little fuzzy on the details.,1.696480231436837,0.0115502802372662,4148,1968,1471,709,sarcasm,neutral
+Let the record show that the witness answered “So Big”.,1.709029290728637,0.0119889191738478,4131,2002,1329,800,incongruity-absurdity,neutral
+It was as close to an adult as we could find in the White House.,1.7597737890336858,0.0128870387793214,4067,1984,1078,1005,sarcasm,neutral
+"On the night of the murder, isn’t it true that you slept with the defendant?",1.6962121212121213,0.0118204923306156,3960,1887,1392,681,sarcasm,neutral

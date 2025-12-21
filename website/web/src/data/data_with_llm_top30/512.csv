@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"We're pretentious, not ostentatious.",2.25,0.1680053762580617,32,11,2,19,unknown,neutral
+1,Broga meets on the 2nd floor.,2.0,0.2415229457698239,16,7,2,7,incongruity-absurdity,neutral
+3,"I told you to bring your own, that's from our lobby.",1.8571428571428568,0.1771924779845835,14,4,8,2,sarcasm,neutral
+11,Yoga for idiots is tomorrow.,1.7857142857142858,0.2142857142857142,14,6,5,3,incongruity-absurdity,negative
+389,No carpets allowed. Try fringe yoga down the street.,1.3846153846153846,0.140441681411581,13,8,5,0,unknown,neutral
+4,"Let her out, Fred.",1.8461538461538465,0.2492592576310715,13,6,3,4,sarcasm,neutral
+5,First visit?,1.8461538461538465,0.2220577958421637,13,5,5,3,incongruity-absurdity,neutral
+13,First class?,1.7692307692307692,0.2307692307692307,13,6,4,3,irony,neutral
+1677,I get it: you're angry with the donor-class Yoga establishment.,1.1666666666666667,0.1123666437438737,12,10,2,0,sarcasm,negative
+41,One does not win at yoga.,1.6666666666666667,0.2562353715952691,12,7,2,3,wit-surprise,negative
+22,"You're sure it's the one you came in with, and not my missing office rug?",1.75,0.25,12,6,3,3,sarcasm,neutral
+21,Your failure to follow instructions is restricting my infinite bliss.,1.75,0.25,12,6,3,3,sarcasm,negative
+18,"No, I'm pretty sure all of the hotties have their own mats.",1.75,0.2175970699446223,12,5,5,2,sarcasm,neutral
+17,First time here?,1.75,0.1794351406413183,12,4,7,1,unknown,neutral
+16,"If she's actually dead, I don't think yoga can help.",1.75,0.25,12,6,3,3,sarcasm,negative
+23,The rug can stay but those tube socks have got to go.,1.75,0.2786602145113563,12,7,1,4,incongruity-absurdity,negative
+14,Magic carpet yoga is on the roof,1.75,0.2175970699446223,12,5,5,2,incongruity-absurdity,positive
+6,"I'm sorry, but we cancelled the order because Governor Christie has dropped the class.",1.8333333333333333,0.2409996018270737,12,5,4,3,sarcasm,negative
+8,"I'm sorry, we don't allow performance enhancing rugs.",1.8333333333333333,0.1666666666666666,12,3,8,1,sarcasm,negative
+7,"Sorry, that won't fly!",1.8333333333333333,0.207193853502687,12,4,6,2,sarcasm,negative
+28,I'm afraid that won't fly,1.7272727272727273,0.2370619056437326,11,5,4,2,sarcasm,negative
+1592,I think your mantra is defective.,1.181818181818182,0.1219673442272612,11,9,2,0,sarcasm,negative
+1593,How did you get through the Idiot Detector?,1.181818181818182,0.1219673442272612,11,9,2,0,sarcasm,negative
+1789,"We've seen a lot of newcomers inspired by the primaries ... people finding they can hold all kinds of awkward positions. But for us, size actually does matter and it's just too big.",1.0909090909090908,0.0953462589245592,11,10,1,0,self-deprecating,neutral
+404,It was given to me by a Yoga Genie,1.3636363636363635,0.2032789070454354,11,8,2,1,unknown,neutral
+30,You must be the new guy.,1.7272727272727273,0.194978278086611,11,4,6,1,sarcasm,neutral
+29,Let's say smaller is better sometimes.,1.7272727272727273,0.2370619056437326,11,5,4,2,incongruity-absurdity,positive
+31,This is a traditional Yoga studio. Polyvinyl Chloride mats only.,1.7272727272727273,0.2370619056437326,11,5,4,2,incongruity-absurdity,neutral
+27,Everyone is equally welcome here. But you need to leave.,1.7272727272727273,0.2727272727272727,11,6,2,3,sarcasm,neutral
+26,These better be natural fibers.,1.7272727272727273,0.2727272727272727,11,6,2,3,irony,negative

@@ -1,0 +1,26 @@
+[
+  {
+    "term": "room",
+    "count": 70
+  },
+  {
+    "term": "office",
+    "count": 62
+  },
+  {
+    "term": "living",
+    "count": 44
+  },
+  {
+    "term": "restaurant",
+    "count": 36
+  },
+  {
+    "term": "cave",
+    "count": 22
+  },
+  {
+    "term": "kitchen",
+    "count": 18
+  }
+]

@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Now imagine having to do that in heels,1.861233922829582,0.0080893039710202,9952,4029,3276,2647,sarcasm,neutral
+Your wife is lucky.  I can't even get my husband to pick up his towel.,1.8146764913697384,0.0080043717918708,9907,4231,3276,2395,sarcasm,positive
+I am also unattainable.,1.74037429967815,0.008899018366456,8389,4158,2251,1980,self-deprecating,negative
+You think that’s punishment?  Try an eternity of listening to pick-up lines.,1.770663998999625,0.008790730518966,7997,3598,2635,1764,exaggeration,negative
+Good for you! Men your age usually struggle getting it up.,1.818771065595022,0.0092915499120506,7714,3391,2322,1994,sarcasm,positive
+"They closed my gym, too.",1.7662416514875532,0.0095780284825842,6588,2942,2243,1402,exaggeration,negative
+I changed my mind.  It would look better on the other side.,1.9701195219123504,0.0097249273824095,6526,2114,2493,1919,incongruity-absurdity,neutral
+Actually I’m relieved. I thought your dating profile name was a reference to syphilis.,1.7288971041281578,0.0100566763494542,6492,3256,1741,1494,sarcasm,negative
+Welcome to the Hard Rock Cafe!,1.6916181789589555,0.0099543995221808,6359,3285,1748,1325,incongruity-absurdity,positive
+"Dr. Fauci. So nice to see you again.""",1.6789546555901695,0.010629549322964,5778,3110,1411,1256,sarcasm,positive
+Think of it as God's way of helping you understand women...,1.6977308158669668,0.0104481636230425,5773,2955,1608,1210,sarcasm,positive
+Walter just valet the darn thing so we can start dinner.,1.703175508651835,0.0107804746456768,5259,2617,1581,1057,irony,negative
+Do you struggle endlessly through here often?,1.6663370253164558,0.0109063787741243,5056,2643,1453,958,irony,negative
+Have you ever tried publishing New Yorker captions? Basically the same thing,1.662444712505026,0.0115367619556622,4974,2769,1115,1090,sarcasm,neutral
+"I’ve got time for a good time, if you’ve got the inclination.",1.7026715799170888,0.0123849835876412,4342,2281,1067,992,wit-surprise,positive
+"I said I prefer bolder men, not boulder men.",1.8485069191551349,0.0124979936065956,4119,1684,1375,1060,unknown,neutral
+My last boyfriend got too close to the sun.,1.7731051344743276,0.0124095387909143,4090,1857,1304,929,incongruity-absurdity,neutral
+You just have to learn to let it go.,1.6943765281173595,0.0124722078448885,3681,1787,1230,663,self-deprecating,neutral
+"Again, backwards and in heels and then I'll be impressed.",1.64774897680764,0.0126245793078468,3665,1943,1070,652,sarcasm,positive
+That's one hell of a dung ball.  You must be from Washington D.C.,1.6298952013237729,0.0139429505579297,3626,2197,574,855,sarcasm,negative
+"Did you know that there is a 
+freight elevator around back?",1.7417749516173624,0.0127519522670749,3617,1651,1249,717,incongruity-absurdity,neutral
+It keeps the restroom key from getting lost.,1.7992511520737329,0.0135513075115181,3472,1525,1119,828,unknown,neutral
+Oh come on...what's could the worst that could happen if you stop for a drink?,1.8429152148664345,0.0134529184488461,3444,1386,1213,845,sarcasm,negative
+"So, a rolling stone gathers momentum, huh?",1.6350407450523865,0.0139424483294042,3436,2002,684,749,wit-surprise,neutral
+"The blind date site stated you are ""Strong, upwardly mobile and persistent"" which sounded good at the time.",1.8540903540903544,0.0137493984950533,3276,1288,1178,810,self-deprecating,positive
+"Why yes, I do date men trapped in pointless, self-destructive cycles.",1.678969137766465,0.0134598302428595,3143,1561,1030,552,self-deprecating,negative
+But can you KEEP it up?,1.6327575175943698,0.0137667457694185,3126,1718,841,567,sarcasm,neutral
+"Oh,Sisyphus!  I’ve mythed you!",1.7600934267600934,0.0146249264580517,2997,1406,904,687,wit-surprise,positive
+Something told me that you'd be back.,1.7780068728522336,0.0138447898811114,2910,1206,1144,560,sarcasm,neutral
+I think I liked it more at the bottom.,1.6538729937194696,0.0136264753480059,2866,1430,998,438,incongruity-absurdity,positive

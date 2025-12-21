@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Next time, when they ask you if you want any toppings, you’d better be more specific than 'Yeah, a couple.'",2.1715427793842492,0.0070171834641871,11758,2568,4605,4585,sarcasm,neutral
+OMG...Remember us...we were on your wedding cake!,1.9342277486910997,0.00820890772974,9168,3153,3465,2550,incongruity-absurdity,positive
+"Hello , we’re the Toppings!",1.871310375670841,0.0082853983998865,8944,3395,3305,2244,unknown,positive
+I don't know either. We asked for a small table on the piazza.,1.9193269563213091,0.0084737281130381,8677,3081,3215,2381,incongruity-absurdity,neutral
+You said you were in the mood for a little Italian.,2.0102004080163205,0.0082644040522189,8333,2329,3590,2414,sarcasm,neutral
+You ordered Basil and Olive? Here we are.,1.8839363966445477,0.0088159858009968,7987,2996,2922,2069,sarcasm,neutral
+"Well, you're not what we ordered either.",1.88621997471555,0.0087972175698716,7910,2922,2966,2022,sarcasm,negative
+Do you mind?  This is a personal pizza.,1.8688149053146,0.0096114562896876,6548,2466,2475,1607,incongruity-absurdity,neutral
+Didn't you order the two-person pizza?,1.7816200852676456,0.0094998758362233,6333,2652,2412,1269,sarcasm,neutral
+"Finally, some service.",1.861147695202258,0.0108051741415075,5315,2069,1915,1331,sarcasm,positive
+Do you mind? We’re trying to think inside the box.,1.6901701323251417,0.0102494161290717,5290,2543,1843,904,incongruity-absurdity,neutral
+Did you order two nine-inch Italians?,1.6698881940496495,0.0103265476357076,5277,2643,1733,901,sarcasm,neutral
+Would you mind leaving the lid open? We’d prefer to dine outside tonight.,1.765940110002037,0.0103161046226407,4909,1991,2076,842,sarcasm,neutral
+We’d invite you to join us but there isn’t mushroom in here.,1.7324007220216606,0.011613407658816,4432,2076,1466,890,incongruity-absurdity,neutral
+The last thing we remember is the moon hit our eye.,1.6886212198872372,0.0122512551944692,3902,1939,1239,724,unknown,neutral
+"Honey, I don't think the kids will eat pizza with dates on it.",1.614693446088795,0.0120316313045029,3784,2046,1150,588,incongruity-absurdity,negative
+"Hi, we're the Toppings",1.623433242506812,0.0122286374035426,3670,1958,1136,576,sarcasm,neutral
+"Hopefully, you two are vegetarians.""",1.6848821081830792,0.0123574443139322,3605,1739,1263,603,sarcasm,neutral
+"Oh, little tip... the mushrooms might be hallucinogenic.",1.6948529411764706,0.0129051502705741,3536,1745,1125,666,sarcasm,neutral
+You ordered two small vegans?,1.580339177924691,0.0122282050400628,3479,1941,1057,481,sarcasm,neutral
+Little Italy - what about you?,1.692692987625221,0.0126351808566408,3394,1601,1235,558,irony,neutral
+"No idea. We were in our favorite pizza place, I told a joke, she said, 'Good Lord deliver us,' and the next thing we know....",1.6742603550295858,0.0129737339621683,3380,1691,1099,590,sarcasm,positive
+"It may be your night in, but it’s our night out.",1.6749533871970168,0.0125326204217801,3218,1506,1252,460,sarcasm,neutral
+Finally. Could we please have our menus?,1.5757387247278385,0.0125416408809132,3215,1784,1011,420,sarcasm,positive
+What did you expect from Little Caesars?,1.6163482618227372,0.0128044457274955,3193,1683,1052,458,sarcasm,neutral
+You said you wanted us for dinner.,1.5655284552845528,0.014101067444293,3075,1898,615,562,sarcasm,neutral
+Remember us from your wedding cake?,1.6274305555555555,0.0135183171711294,2880,1494,965,421,incongruity-absurdity,neutral
+We represent the shrinking middle class.,1.6166351606805294,0.0143259339825929,2645,1419,821,405,self-deprecating,negative
+Remember when you said there’s nothing worse than pineapple on pizza...?,1.719298245614035,0.0148103358417542,2622,1225,908,489,sarcasm,negative
+"Yes, we're ready to order.",1.6052842273819057,0.0140472096331474,2498,1303,878,317,sarcasm,positive

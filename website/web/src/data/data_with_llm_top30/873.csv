@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You might want to put on your surprised eyebrows for what I’m about to say.,1.7816391543585288,0.0137737050477035,3453,1590,1027,836,wit-surprise,neutral
+So how are the tots doing?,1.6820768136557611,0.0145776558035061,2812,1429,848,535,sarcasm,neutral
+It’s all in your head.,1.6875891583452212,0.0145343764958743,2804,1405,870,529,self-deprecating,negative
+The problem appears to be all in your head.,1.703900037864445,0.0150367477039455,2641,1295,833,513,wit-surprise,negative
+You're in good hands. He's in 4th grade and has performed hundreds of these surgeries since kindergarden,1.7505694760820043,0.0154296668606823,2634,1236,819,579,wit-surprise,positive
+"At your age, just be thankful you still have all your original parts.",1.7590038314176246,0.0151038001928078,2610,1167,905,538,sarcasm,positive
+"So is it Mr. Potāto, or Mr. Potäto?",1.7479643272586274,0.0155718140048445,2579,1213,803,563,wit-surprise,neutral
+Have you tried pulling it out and putting it back in?,1.7388436166084595,0.0155890477865507,2577,1231,788,558,unknown,neutral
+"Correct, Mr. Tater, tying your tubers means no more tots.",1.7210485133020343,0.0161631993934791,2556,1309,651,596,irony,neutral
+''We can rule out your neck.'',1.707576953433307,0.0153801288137223,2534,1238,799,497,wit-surprise,neutral
+"A bit less time on the couch, perhaps.",1.7391304347826086,0.0155819904145389,2507,1175,811,521,self-deprecating,neutral
+"No more butter, sour cream, bacon, cheese or salt.",1.7030620467365027,0.0157016044892787,2482,1237,745,500,unknown,neutral
+Well in my experience these things don't just fall off.,1.7157232704402516,0.0156986426515433,2385,1136,791,458,sarcasm,neutral
+"I keep telling you, french fries will be the death of you.",1.6885315277190012,0.0162880994748787,2363,1223,653,487,sarcasm,negative
+This procedure will stop you from having tots.,1.647583294228062,0.0171198119849025,2131,1173,536,422,incongruity-absurdity,neutral
+"We'll have to do more tests, but it appears you're in a vegetative state.",1.7117505995203837,0.0170406773641811,2085,1018,650,417,sarcasm,negative
+"Your bloodwork is back. I’ve never seen this before - it just says, “Needs salt.”",1.73119918699187,0.0177440304600804,1968,945,607,416,self-deprecating,negative
+"My god, Larry, has no one ever told you that you are what you eat?",1.6419125127161749,0.0173126558014337,1966,1057,556,353,sarcasm,negative
+"Luckily, you're a great candidate for a transplant.",1.6469951272333514,0.0172439037910593,1847,948,603,296,sarcasm,positive
+"Initial test results from the colonoscopy indicate we have located your glasses, your angry eyes, and your wife's purse.",1.6652030735455543,0.0185344707734501,1822,977,478,367,sarcasm,neutral
+"Yes sir, we can schedule you for the nose job. But it’ll cost you an arm and a leg.",1.7366325369738338,0.0187426818740357,1758,835,551,372,incongruity-absurdity,neutral
+"What is your level of pain? Six-potato, seven-potato, eight-potato, more?",1.770857142857143,0.0196107986518656,1750,835,481,434,self-deprecating,neutral
+Congratulations. We've found millions of compatible donors.,1.7939464493597206,0.0187501434773461,1718,732,608,378,sarcasm,positive
+"Your cholesterol is fine, but your starch level is off the charts.",1.6506729081334113,0.0179686145483207,1709,874,558,277,unknown,neutral
+Do you spend much time on your couch?,1.6994117647058824,0.0187128612838282,1700,838,535,327,incongruity-absurdity,neutral
+"In your case, smoking pot and getting baked has very different consequences.",1.6538922155688622,0.0186931228568244,1670,876,496,298,sarcasm,neutral
+Good news: I believe we can just turn that frown upside down,1.6752546434991014,0.0181194103012126,1669,816,579,274,sarcasm,positive
+Don’t worry. This surgery is child’s play.,1.6693349753694582,0.0177607510020981,1624,773,615,236,incongruity-absurdity,negative
+"It doesn't look good, I'm afraid. You have a tuber.",1.735895846249225,0.019527418047586,1613,765,509,339,incongruity-absurdity,negative
+When was the last time you had your eyes replaced?,1.7030075187969924,0.0186479109399374,1596,750,570,276,wit-surprise,neutral

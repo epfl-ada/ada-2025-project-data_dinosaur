@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Mojitos...she ordered two MOJITOS!,1.865415297982168,0.007755004502573,10655,4227,3635,2793,irony,positive
+"Six months ago, this would have made the news.",1.8444169502010517,0.0079120247189596,9699,3816,3576,2307,exaggeration,neutral
+"Once they choose their queen, honey, it’s really hard to change their minds.",2.203487573802005,0.008719729296683,7283,1426,2949,2908,sarcasm,neutral
+Am I still the worst thing that’s ever happened to you Bethany?,1.82402155416903,0.0094629349795226,7052,2962,2374,1716,sarcasm,negative
+Relax! The president says they're harmless.,1.8813483146067416,0.0098816003028521,6675,2620,2228,1826,sarcasm,positive
+I asked you to go get two MOJITOS!!!,1.93421254408833,0.0098806112473405,6521,2306,2339,1875,sarcasm,neutral
+"Let's go to Texas,"" you said. ""Everything's bigger in Texas,"" you said. ""It'll be great,"" you said.",1.7659311834593427,0.0095720369925601,6481,2860,2278,1343,exaggeration,positive
+"In 2019, I would have been both confused and alarmed by this",1.8850422395229416,0.0100660374404767,6037,2236,2261,1540,irony,negative
+"That's funny, they don't seem to be bothering me.",1.8457062246517368,0.0104717524373252,5671,2268,2010,1393,wit-surprise,positive
+I saw them coming ... but I didn't want you to panic.,1.8266862709060832,0.0108983001022161,5441,2311,1762,1368,sarcasm,neutral
+Clearly 2020 isn't over yet.,1.9336192429610293,0.0108645611282627,5363,1890,1941,1532,exaggeration,negative
+"Don't worry, honey.  I called the SWAT team and they're on their way.",1.8345864661654137,0.0110773896093189,5054,2059,1774,1220,sarcasm,positive
+"To be fair, Martha, you did just kill one of their kids.",1.6745272997663054,0.0109899151277245,4707,2353,1533,821,sarcasm,negative
+Wait - what’s your Netflix password?,1.7914462081128748,0.0118789078884714,4536,2025,1432,1078,sarcasm,neutral
+"Don't worry.  In a couple months, like a miracle, they'll disappear.",1.630791505791506,0.01192412236724,4144,2268,1138,738,self-deprecating,neutral
+"It's odd, you know.  They never seem to bother me.",1.6213299874529483,0.0115980453223982,3985,2107,1278,598,wit-surprise,negative
+You were right -- they ARE attracted to you.,1.778751933986591,0.0119809412394529,3878,1605,1527,746,sarcasm,positive
+I guess you're their type.,1.6181630546955623,0.0122201182776065,3876,2146,1065,665,sarcasm,neutral
+"Before you go, what's the wi-fi password?",1.6400722953782598,0.0120355116534747,3873,2035,1196,641,sarcasm,neutral
+"Ouch.  Honey, you’re on my foot.",1.680925477535647,0.0127959229211548,3717,1915,1074,727,incongruity-absurdity,negative
+"THAT'S what else could go wrong this year, Claire.",1.6383783783783783,0.0122152067030474,3700,1934,1171,595,sarcasm,negative
+You said to book the cheapest flight available,1.718878812860676,0.0126348419807274,3639,1712,1238,689,irony,neutral
+See?  I told you it was dangerous to proudly self-identify as a W.A.S.P.,1.7045790251107829,0.0132022738974882,3385,1649,1089,647,sarcasm,negative
+"Don't worry, I hear they are going to disappear. One day it's like a miracle - they will disappear.",1.7033096926713949,0.0132574830097198,3384,1659,1070,653,exaggeration,positive
+Stop exaggerating...we have seen exactly two mosquitos all day.,1.6457575757575758,0.0127756268356833,3300,1701,1081,518,exaggeration,negative
+"Actually, Jessica, I DO think you’re getting carried away...",1.6116113008382489,0.0133235030688987,3221,1788,893,538,sarcasm,negative
+I told you not to step on the little one.,1.7011242973141787,0.0132776949175206,3202,1525,1108,568,incongruity-absurdity,neutral
+"Well, I guess we scratch lemon-eucalyptus off the list",1.65728,0.0129054351570998,3125,1532,1132,461,exaggeration,negative
+I’ll send the SWAT team.,1.6045408336157234,0.0139557498335859,2951,1662,791,496,sarcasm,neutral
+At least you won’t be here on election night,1.6512890094979646,0.0140685860903787,2948,1553,870,525,sarcasm,negative

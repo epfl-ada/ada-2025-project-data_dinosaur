@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+887,Time to knock off for lunch.,1.3378684807256236,0.0273039191526042,441,315,103,23,irony,neutral
+854,Sitting is the new smoking.,1.3409090909090908,0.0284972229979361,440,319,92,29,exaggeration,neutral
+1272,Was it the pumpkin spice burrito,1.303030303030303,0.0295753868701373,429,334,60,35,irony,neutral
+103,Not funny Lenny.,1.4742990654205608,0.0344358619696505,428,280,93,55,sarcasm,negative
+2460,The deconstruction of brave souls begins.,1.205188679245283,0.0235120311306042,424,352,57,15,wit-surprise,negative
+2474,Who's Dave? I'm here with your Salmonella.,1.2033096926713949,0.0239644836004787,423,354,52,17,sarcasm,negative
+438,"If it were up to me I'd say 'hell yeah, you can be in the photo', but the guys think you're a bit of a downer.",1.3900709219858156,0.0309180322611597,423,293,95,35,self-deprecating,neutral
+1405,I prefer to think the glass is half full.,1.2907801418439715,0.0262747709317576,423,318,87,18,unknown,neutral
+2873,"I totally get your costume, Jones: death by poison.  Hilarious!",1.1350710900473933,0.0176428610689165,422,368,51,3,sarcasm,positive
+1425,"You're the odd man out, you go get the coffee",1.2897862232779098,0.0269732070936461,421,320,80,21,sarcasm,neutral
+603,Can this wait until after my Reuben?,1.3657957244655583,0.0292873792777396,421,294,100,27,sarcasm,neutral
+496,Any chance I can finish my lunch?,1.3824228028503562,0.031137061838887,421,296,89,36,sarcasm,neutral
+893,"Okay. I'll give you a treat, but that means there'll be no trick. Okay?",1.33729216152019,0.0291360840905639,421,307,86,28,incongruity-absurdity,neutral
+2601,"So, what's for lunch?",1.188095238095238,0.0228819783058211,420,355,51,14,sarcasm,neutral
+253,"You know nobody likes you, right?",1.4261904761904762,0.0334336402553896,420,288,85,47,sarcasm,negative
+816,"Grim ""rebar""",1.3452380952380951,0.0296722709804138,420,305,85,30,irony,neutral
+170,We’re used to this. You’re the one who should be worried.,1.45,0.0317992838585276,420,268,115,37,sarcasm,negative
+1195,So it wasn’t enough that you took Lenny last month?,1.3102625298329356,0.0274183588435278,419,310,88,21,irony,neutral
+581,Hey! What happened to Larry?,1.369928400954654,0.0323827282727068,419,307,69,43,sarcasm,neutral
+2516,I'm not sure about the cut of this new guys jib.,1.198090692124105,0.0222310328121074,419,346,63,10,incongruity-absurdity,neutral
+1372,"Halloween was yesterday, bub.",1.2942583732057416,0.0296083596921519,418,328,57,33,sarcasm,neutral
+1039,"Hey, you seen Marty?",1.3237410071942446,0.0287409269656418,417,308,83,26,sarcasm,neutral
+2852,did you bring a lunch to share?,1.1414868105515588,0.0186985903121493,417,363,49,5,sarcasm,neutral
+1777,"Bob, it's fine. You can have some of my sandwich. Don't look so mortified.",1.26378896882494,0.0268417699874757,417,329,66,22,sarcasm,positive
+2384,I hear you didn't want to make a long term commitment to pay Union dues ...,1.2158273381294964,0.0245527625750454,417,344,56,17,sarcasm,negative
+1004,"You must be new at this, nothing much happens during lunch.",1.3261390887290168,0.0287760176313814,417,307,84,26,sarcasm,neutral
+230,"Sorry, no work during lunch—union rules.",1.4326923076923077,0.0326568526055441,416,277,98,41,unknown,neutral
+1052,There’s  no exceptions. This girder is for card carrying union members only.,1.3221153846153846,0.0275292138261793,416,302,94,20,incongruity-absurdity,neutral
+437,Could I have lunch first?,1.3903614457831326,0.0317102156858587,415,290,88,37,unknown,neutral
+1761,"Greg, I told you no Halloween costumes at work",1.2650602409638554,0.0269561912443125,415,327,66,22,sarcasm,neutral

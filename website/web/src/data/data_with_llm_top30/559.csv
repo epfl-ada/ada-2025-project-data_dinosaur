@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+5,Flawless execution.,1.6727154893065457,0.0201465534443113,1543,818,412,313,incongruity-absurdity,negative
+3,I can't believe my eye!,1.6961942257217848,0.0202772313683416,1524,779,429,316,incongruity-absurdity,positive
+4,He's taking it better than I expected.,1.6745406824146982,0.0193446342069287,1524,763,494,267,sarcasm,positive
+9,"Now, that's what I call execution.",1.665311653116531,0.0200896428941465,1476,769,432,275,wit-surprise,negative
+10,I think Long John just earned the silver.,1.6386969397828233,0.0237399562458551,1013,538,303,172,irony,neutral
+13,That's going overboard.,1.6337148803329864,0.0250101357765124,961,529,255,177,exaggeration,negative
+14,His execution was perfect!,1.6261467889908257,0.0263694196441757,872,488,222,162,unknown,positive
+0,See? A real pirate would have cannonballed.,1.7674418604651163,0.0268226125432622,860,389,282,189,incongruity-absurdity,negative
+15,Sort of takes the fun out of it.,1.6206896551724137,0.0267561539162847,783,424,232,127,sarcasm,negative
+18,Great execution.,1.6132450331125827,0.0278351396625408,755,423,201,131,sarcasm,positive
+16,Talk about going overboard.,1.6179624664879355,0.0276246299688968,746,409,213,124,exaggeration,negative
+19,Come back...they read the wrong envelope.,1.611961057023644,0.029482841525746,719,418,162,139,incongruity-absurdity,negative
+12,"Maybe it's just the pirate in me, but I prefer a cannonball.",1.6348228043143298,0.0301563786138997,649,353,180,116,incongruity-absurdity,neutral
+22,"Well, that's a perfect execution!",1.5961844197138315,0.030992825463958,629,368,147,114,exaggeration,positive
+7,I'll be even more annoyed if he can swim.,1.6704361873990308,0.031048286003853,619,320,183,116,sarcasm,negative
+23,Perfect execution.,1.5948136142625609,0.0312306014878731,617,361,145,111,incongruity-absurdity,positive
+24,That's the last time we raid a Cirque du Soleil cruise.,1.5934426229508196,0.0303049975854757,610,345,168,97,irony,neutral
+11,This be the last time we kidnap someone from Cirque du Soleil.,1.6375838926174495,0.030951217974402,596,317,178,101,irony,neutral
+1,Let's just shoot the next one.,1.7504244482173177,0.0314387305389517,589,263,210,116,sarcasm,neutral
+26,Now that's what I call a perfect execution.,1.5885416666666667,0.0321099962143264,576,338,137,101,wit-surprise,positive
+25,Who in the heck is Geronimo?,1.5891608391608392,0.0332206504487527,572,346,115,111,sarcasm,negative
+28,Nice execution!,1.5797665369649805,0.0337993664929755,514,304,122,88,sarcasm,positive
+29,We may regret this. He looked delicious.,1.5753424657534247,0.0304002510211411,511,275,178,58,irony,positive
+32,Nobody walks anymore.,1.5723014256619146,0.0333869755175215,491,284,133,74,incongruity-absurdity,neutral
+31,These guys from Penzance are always such drama queens.,1.572314049586777,0.0329929540683525,484,275,141,68,sarcasm,negative
+35,"Yeah, the sharks score them all the same.. ""ate""",1.5681341719077568,0.0333832166923171,477,274,135,68,incongruity-absurdity,neutral
+33,Brilliant execution!,1.5717299578059072,0.03352997599816,474,271,135,68,sarcasm,positive
+36,"He may be a thief, a liar and a murderer, but he's a graceful sonofabitch.",1.566079295154185,0.0341264966920847,454,261,129,64,wit-surprise,negative
+30,"If he adds a twist and nails the entry, I say we fish him out again.",1.5752808988764044,0.0341726567909378,445,250,134,61,sarcasm,negative
+34,Reminds me why we threw him off the ship in the first place,1.5688487584650113,0.0350574268939928,443,257,120,66,exaggeration,negative

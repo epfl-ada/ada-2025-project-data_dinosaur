@@ -1,0 +1,122 @@
+{
+  "event": "climate",
+  "label": "Climate / Environment",
+  "window_start": "2019-09",
+  "window_end": "2019-12",
+  "groups": [
+    {
+      "id": 0,
+      "words": [
+        "climate",
+        "warming",
+        "global",
+        "temperature",
+        "heatwave",
+        "environment",
+        "planet",
+        "earth"
+      ]
+    },
+    {
+      "id": 1,
+      "words": [
+        "pollution",
+        "polluted",
+        "emission",
+        "emissions",
+        "carbon",
+        "co2",
+        "smog",
+        "drought",
+        "storm",
+        "storms",
+        "flood",
+        "floods",
+        "wildfire",
+        "wildfires"
+      ]
+    }
+  ],
+  "timeseries": [
+    {
+      "month": "2017-04",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2017-09",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2018-01",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2018-06",
+      "group_0": 7,
+      "group_1": 0
+    },
+    {
+      "month": "2018-07",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2019-02",
+      "group_0": 3,
+      "group_1": 0
+    },
+    {
+      "month": "2019-08",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2019-09",
+      "group_0": 2,
+      "group_1": 0
+    },
+    {
+      "month": "2019-10",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2020-02",
+      "group_0": 4,
+      "group_1": 0
+    },
+    {
+      "month": "2020-03",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2020-06",
+      "group_0": 6,
+      "group_1": 0
+    },
+    {
+      "month": "2021-01",
+      "group_0": 0,
+      "group_1": 1
+    },
+    {
+      "month": "2021-10",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2022-04",
+      "group_0": 1,
+      "group_1": 0
+    },
+    {
+      "month": "2023-08",
+      "group_0": 0,
+      "group_1": 1
+    }
+  ]
+}

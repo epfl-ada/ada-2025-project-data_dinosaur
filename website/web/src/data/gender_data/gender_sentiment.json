@@ -1,0 +1,17 @@
+[
+  {
+    "category":"negative",
+    "pct_man":30.14,
+    "pct_woman":28.48
+  },
+  {
+    "category":"neutral",
+    "pct_man":54.04,
+    "pct_woman":58.58
+  },
+  {
+    "category":"positive",
+    "pct_man":15.82,
+    "pct_woman":12.94
+  }
+]

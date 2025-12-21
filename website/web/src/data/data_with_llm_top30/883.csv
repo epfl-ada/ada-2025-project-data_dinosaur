@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+We never pounce anymore.,1.6985714285714286,0.0133389581469313,3500,1776,1003,721,unknown,neutral
+"Maul a man and you eat for a day, teach a man to pamper you…",1.774891774891775,0.0146850842289233,3465,1772,701,992,sarcasm,neutral
+"You knew I was domesticated when you married me, Margaret.”",1.7649586776859505,0.0147489286226956,3025,1434,868,723,wit-surprise,neutral
+"Sure, he's big. But can he manipulate humans like we do?",1.7063273727647867,0.014790152274279,2908,1477,808,623,irony,neutral
+I bet they wouldn't tell him to stay off the furniture.,1.7572986282096377,0.0152640993662301,2843,1370,793,680,irony,negative
+That reminds me—your mother called this morning.,1.806157354618016,0.0162141726592721,2631,1214,713,704,sarcasm,neutral
+I'll bet no one ever called him pussy.,1.686447166921899,0.0157333772186885,2612,1382,667,563,irony,negative
+"King of the jungle, blah, blah, blah. He coughs up his hair balls one at a time just like the rest of us.",1.7021604938271604,0.0155603060008512,2592,1314,736,542,incongruity-absurdity,negative
+This wasn't what I had in mind when I said I wanted to watch the big game.,1.6913885455294602,0.0158857308794055,2427,1233,710,484,incongruity-absurdity,negative
+Looks like someone's going to the v-e-t.,1.623468426013195,0.0178631098777796,2122,1268,385,469,irony,neutral
+Can you imagine having to hunt for your own food?,1.673720472440945,0.0169570144089942,2032,1033,629,370,incongruity-absurdity,negative
+"We'd look great, too, if David Attenborough narrated our day.",1.7195793690535803,0.0177861569331303,1997,989,579,429,sarcasm,positive
+That looks like your dad when I asked for your paw in marriage.,1.6445012787723785,0.0173046874009652,1955,1043,564,348,sarcasm,neutral
+Do you ever get the feeling you're wasting one of your lives?,1.819957761351637,0.0185641316262951,1894,819,597,478,self-deprecating,negative
+When they said ‘Big Cats’ I thought it would be a weight loss show,1.6320043103448276,0.0174274596282149,1856,990,559,307,irony,neutral
+I bet he never knocked a Roomba off course,1.6170212765957446,0.0175511394101429,1786,964,542,280,irony,neutral
+Maybe we should do that Ancestry thing?,1.6410835214446953,0.0174146816348426,1772,908,592,272,sarcasm,neutral
+Think her nails are real?,1.6240687679083097,0.0175878854945857,1745,922,557,266,sarcasm,neutral
+Oh my gosh that’s horrible. He didn’t even play with it first.,1.7380265435660704,0.01876624692642,1733,815,557,361,irony,negative
+I can't believe this screaming orange wanna-be dictator has so many followers.,1.6948356807511735,0.0196571979166409,1704,900,424,380,irony,negative
+Hit paws.  I need to use the litter box.,1.6451421800947867,0.0186872573389101,1688,903,481,304,self-deprecating,negative
+What cunning?  Forget the elusive deer and eat the guy with the camera.,1.6852637962401456,0.01955937829673,1649,861,446,342,irony,neutral
+In the directors cut there was a hairball in this scene.,1.623020706455542,0.0185945419519676,1642,892,477,273,incongruity-absurdity,neutral
+I’ve got to start working out.,1.611903285802852,0.0181128967748224,1613,861,517,235,self-deprecating,positive
+No way that's his real fur.,1.6863117870722433,0.0189510136967581,1578,772,529,277,irony,negative
+I'm going to the gym starting tomorrow.,1.608667941363926,0.0179391510783625,1569,823,537,209,self-deprecating,neutral
+Take it from me: you have to earn those stripes.,1.6029506093649777,0.0207045505278912,1559,953,272,334,sarcasm,neutral
+"Frankly, I'm glad we evolved.",1.6263736263736264,0.0185169163393251,1547,807,511,229,self-deprecating,positive
+Imagine having to hunt for your own food.,1.6902597402597404,0.0193483656954222,1540,756,505,279,incongruity-absurdity,negative
+I've gotta stop taking these aggressive roles.  I'm getting typecasted.,1.6018766756032172,0.0214078731336625,1492,925,236,331,self-deprecating,negative

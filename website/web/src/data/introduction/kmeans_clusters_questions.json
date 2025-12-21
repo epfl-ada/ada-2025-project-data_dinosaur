@@ -1,0 +1,307 @@
+{
+  "field": "questions",
+  "numDocuments": 585,
+  "k": 20,
+  "clusters": [
+    {
+      "clusterId": 0,
+      "topTerms": [
+        "built",
+        "washing",
+        "machines",
+        "tracks",
+        "house",
+        "stacked",
+        "pair",
+        "look",
+        "apartment",
+        "like"
+      ]
+    },
+    {
+      "clusterId": 1,
+      "topTerms": [
+        "cowboy",
+        "saying",
+        "far",
+        "falling",
+        "fall",
+        "faces",
+        "face",
+        "fable",
+        "explorer",
+        "explain"
+      ]
+    },
+    {
+      "clusterId": 2,
+      "topTerms": [
+        "using",
+        "office",
+        "sword",
+        "holding",
+        "man",
+        "desk",
+        "computers",
+        "person",
+        "embedded",
+        "ivs"
+      ]
+    },
+    {
+      "clusterId": 3,
+      "topTerms": [
+        "big",
+        "snail",
+        "city",
+        "hornets",
+        "menu",
+        "sword",
+        "waiter",
+        "head",
+        "attacking",
+        "gigantic"
+      ]
+    },
+    {
+      "clusterId": 4,
+      "topTerms": [
+        "wearing",
+        "like",
+        "dressed",
+        "person",
+        "dog",
+        "armor",
+        "horse",
+        "suit",
+        "propeller",
+        "woman"
+      ]
+    },
+    {
+      "clusterId": 5,
+      "topTerms": [
+        "going",
+        "king",
+        "color",
+        "doctor",
+        "building",
+        "bear",
+        "men",
+        "whale",
+        "caveman",
+        "cooking"
+      ]
+    },
+    {
+      "clusterId": 6,
+      "topTerms": [
+        "trying",
+        "room",
+        "living",
+        "baseball",
+        "hit",
+        "playing",
+        "hatch",
+        "row",
+        "man",
+        "slanted"
+      ]
+    },
+    {
+      "clusterId": 7,
+      "topTerms": [
+        "man",
+        "gingerbread",
+        "head",
+        "isn",
+        "mountain",
+        "dead",
+        "happy",
+        "cat",
+        "small",
+        "sandbox"
+      ]
+    },
+    {
+      "clusterId": 8,
+      "topTerms": [
+        "does",
+        "head",
+        "say",
+        "want",
+        "blender",
+        "long",
+        "man",
+        "hair",
+        "need",
+        "face"
+      ]
+    },
+    {
+      "clusterId": 9,
+      "topTerms": [
+        "saying",
+        "man",
+        "woman",
+        "caveman",
+        "waiter",
+        "employee",
+        "turtle",
+        "hiker",
+        "genie",
+        "horse"
+      ]
+    },
+    {
+      "clusterId": 10,
+      "topTerms": [
+        "angry",
+        "sheep",
+        "lizard",
+        "plaque",
+        "wolves",
+        "fish",
+        "experiment",
+        "fall",
+        "faces",
+        "face"
+      ]
+    },
+    {
+      "clusterId": 11,
+      "topTerms": [
+        "did",
+        "man",
+        "come",
+        "build",
+        "choose",
+        "intelligent",
+        "guy",
+        "whale",
+        "chef",
+        "door"
+      ]
+    },
+    {
+      "clusterId": 12,
+      "topTerms": [
+        "doing",
+        "dolphins",
+        "man",
+        "farmer",
+        "bathtub",
+        "purpose",
+        "adults",
+        "vendor",
+        "snowman",
+        "alligator"
+      ]
+    },
+    {
+      "clusterId": 13,
+      "topTerms": [
+        "talking",
+        "bartender",
+        "turtle",
+        "mouse",
+        "family",
+        "falling",
+        "fall",
+        "faces",
+        "face",
+        "fable"
+      ]
+    },
+    {
+      "clusterId": 14,
+      "topTerms": [
+        "huge",
+        "man",
+        "carrying",
+        "snake",
+        "mosquitoes",
+        "frill",
+        "umbrella",
+        "dogs",
+        "sword",
+        "halo"
+      ]
+    },
+    {
+      "clusterId": 15,
+      "topTerms": [
+        "people",
+        "just",
+        "watching",
+        "inside",
+        "burning",
+        "tiny",
+        "dealing",
+        "cannonballing",
+        "corner",
+        "bubbles"
+      ]
+    },
+    {
+      "clusterId": 16,
+      "topTerms": [
+        "house",
+        "giraffes",
+        "piano",
+        "golf",
+        "monkeys",
+        "ruler",
+        "tangled",
+        "dropped",
+        "did",
+        "space"
+      ]
+    },
+    {
+      "clusterId": 17,
+      "topTerms": [
+        "shop",
+        "china",
+        "bull",
+        "coffee",
+        "anchor",
+        "inspecting",
+        "weird",
+        "giant",
+        "acting",
+        "glass"
+      ]
+    },
+    {
+      "clusterId": 18,
+      "topTerms": [
+        "happened",
+        "fish",
+        "alive",
+        "plaque",
+        "mounted",
+        "groomsman",
+        "leg",
+        "death",
+        "city",
+        "tattered"
+      ]
+    },
+    {
+      "clusterId": 19,
+      "topTerms": [
+        "grilling",
+        "train",
+        "subway",
+        "man",
+        "embedded",
+        "employee",
+        "egotistical",
+        "fall",
+        "faces",
+        "face"
+      ]
+    }
+  ]
+}

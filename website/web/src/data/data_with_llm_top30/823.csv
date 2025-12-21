@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I'm going to need to turn somebody into a pilot.,1.7254743641501815,0.0161079690862436,2477,1229,699,549,wit-surprise,neutral
+And for my next trick I will turn a twenty dollar bill into a bag of seven almonds.,1.7259989621172809,0.0185225617971508,1927,973,509,445,exaggeration,neutral
+"I call this next trick '""Overbooked Flight"", and I will need three volunteers from the audience.",1.720825274016763,0.0203760056821196,1551,776,432,343,unknown,neutral
+You heard me right ladies and gentlemen; we're arriving early and your luggage is on this plane!,1.6795727636849132,0.0197440996375645,1498,754,470,274,exaggeration,positive
+"Pick an airport, any airport.",1.6458157227387995,0.02170244646118,1183,613,376,194,exaggeration,neutral
+Watch me pull out some hidden fees from thin air.,1.7095681625740895,0.0226886809925911,1181,580,364,237,sarcasm,neutral
+Can I get a volunteer...maybe someone who's landed a plane?,1.6301115241635689,0.023864991337681,1076,602,270,204,sarcasm,neutral
+"We've overbooked, so I am going to make six of you disappear.",1.6231203007518795,0.022875793772169,1064,572,321,171,exaggeration,negative
+Chicken or rabbit?,1.6003996003996004,0.0231866819088436,1001,549,303,149,incongruity-absurdity,neutral
+"Ladies and gentlemen, the captain has now turned on the ‘applause’ sign.",1.5932203389830508,0.0240244676906809,944,527,274,143,sarcasm,neutral
+And now I'll need a volunteer for my vanishing act. This flight is overbooked.,1.6616541353383458,0.0247510747498189,931,476,294,161,sarcasm,negative
+A few more hours in that seat and you'll be begging me to saw you in half.,1.6583242655059849,0.0248439390750483,919,471,291,157,sarcasm,negative
+I’ll grant any wish that does not involve seat size or legroom.,1.6417582417582417,0.0243190407092593,910,466,304,140,wit-surprise,neutral
+"A second bag of peanuts? You realize I'm not an actual magician, right?",1.5849056603773586,0.0245003018039233,901,508,259,134,sarcasm,neutral
+"Nothing up my sleeve, it was confiscated at security.",1.6133333333333333,0.0246954005946495,900,488,272,140,incongruity-absurdity,neutral
+"… and when you wake up you will have remembered a perfect flight, a great flight crew, with excellent food and a great landing.",1.5845464725643896,0.0246719252780971,893,505,254,134,exaggeration,positive
+"My career doesn’t seem to be taking off, either.",1.5809414466130884,0.0258419496831528,871,512,212,147,self-deprecating,negative
+I’m here to fit the carry on bags into the overhead bins.,1.6585648148148149,0.0252736148281027,864,436,287,141,sarcasm,neutral
+"Everyone click your heels and say, ""There's no place like Newark.""",1.5842044134727062,0.02554394816757,861,495,229,137,exaggeration,positive
+Be grateful you're not in business class.   They have a mime.,1.7857142857142858,0.026814726626394,854,373,291,190,sarcasm,positive
+"Remember the fun, excitement, and glamour of plane travel? Watch it disappear!",1.5767386091127098,0.024924675981679,834,467,253,114,exaggeration,positive
+"And when I snap my fingers, a lucky one among you will actually make his connecting flight!",1.5905797101449275,0.0245946441410223,828,446,275,107,exaggeration,positive
+And Poof! Your connecting flight is gone!,1.6246943765281174,0.0260576686263652,818,438,249,131,irony,negative
+"For my next trick, we'll be landing on time.",1.575794621026895,0.0269613356429864,818,490,185,143,wit-surprise,positive
+I'm in charge of recovering lost luggage.,1.5708762886597938,0.0289519229282492,776,490,129,157,wit-surprise,neutral
+"""One last magic trick before I head back to the cockpit!""",1.568181818181818,0.0265383434244659,748,428,215,105,unknown,positive
+Thank you for levitating with us today.,1.5673854447439353,0.0267737430430075,742,427,209,106,sarcasm,positive
+"Watch carefully, as some of our safety options may have changed.",1.5766621438263229,0.0266732047027075,737,415,219,103,unknown,neutral
+For my next trick I'll have you arrive on time with your luggage.,1.6143250688705235,0.027080865336557,726,387,232,107,sarcasm,positive
+Watch me pull a full-sized suitcase from this overhead bin!,1.5648535564853556,0.0265630966486423,717,405,219,93,exaggeration,neutral

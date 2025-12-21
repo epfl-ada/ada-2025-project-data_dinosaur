@@ -1,0 +1,370 @@
+{
+  "clusters": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "color": "#2A9D8F",
+      "percentage": 77,
+      "keywords": [
+        "pets",
+        "animals",
+        "animal",
+        "cats",
+        "dogs",
+        "cat"
+      ],
+      "topWords": [
+        {
+          "word": "people",
+          "count": 169,
+          "score": 0.13765447
+        },
+        {
+          "word": "one",
+          "count": 119,
+          "score": 0.1546903
+        },
+        {
+          "word": "sitting",
+          "count": 97,
+          "score": 0.10047338
+        },
+        {
+          "word": "talking",
+          "count": 90,
+          "score": 0.1851358
+        },
+        {
+          "word": "looking",
+          "count": 75,
+          "score": 0.11338721
+        }
+      ],
+      "description": "Humor centered around animals in human-like situations or acting unexpectedly.",
+      "examples": [],
+      "trend": "Variable trend",
+      "icon": "🐾"
+    },
+    {
+      "id": "dark_humor",
+      "name": "Dark Humor",
+      "color": "#264653",
+      "percentage": 21,
+      "keywords": [
+        "graveyard",
+        "funeral",
+        "cemetery",
+        "coffin",
+        "corpses",
+        "coffins"
+      ],
+      "topWords": [
+        {
+          "word": "man",
+          "count": 494,
+          "score": 0.12008304
+        },
+        {
+          "word": "two",
+          "count": 182,
+          "score": 0.15201086
+        },
+        {
+          "word": "living",
+          "count": 59,
+          "score": 0.1922409
+        },
+        {
+          "word": "doctor",
+          "count": 43,
+          "score": 0.29561666
+        },
+        {
+          "word": "person",
+          "count": 39,
+          "score": 0.1017238
+        }
+      ],
+      "description": "Morbid, cynical, or taboo subjects treated with amusement.",
+      "examples": [],
+      "trend": "Variable trend",
+      "icon": "💀"
+    },
+    {
+      "id": "absurd_surreal",
+      "name": "Absurd & Surreal",
+      "color": "#E9C46A",
+      "percentage": 2,
+      "keywords": [
+        "ufo",
+        "centaur",
+        "centaurs",
+        "ufos",
+        "mythical",
+        "aliens"
+      ],
+      "topWords": [
+        {
+          "word": "room",
+          "count": 102,
+          "score": 0.20457274
+        },
+        {
+          "word": "unusual",
+          "count": 87,
+          "score": 0.364525
+        },
+        {
+          "word": "standing",
+          "count": 77,
+          "score": 0.090421565
+        },
+        {
+          "word": "huge",
+          "count": 66,
+          "score": 0.11033253
+        },
+        {
+          "word": "another",
+          "count": 51,
+          "score": 0.16028483
+        }
+      ],
+      "description": "Bizarre, illogical, or dreamlike situations challenging reality.",
+      "examples": [
+        "A man in a winter coat and cap is looking at a small bearded man holding a snow shovel much taller than him. The ground is covered in snow, except for a path leading to a house.",
+        "A man and woman are standing facing one another (mirrored) inside of a yoga studio. The man looks upset at what the woman is telling him. The man is carrying a living room rug and the woman is carrying a yoga mat.",
+        "Three business men are walking down a hall. They're carrying a briefcase between them.",
+        "Some cowboys are riding through the desert. They are all on rocking horses.",
+        "A couple is having drinks at a table when a cement block is heading down to one of them. Only one of them notices and looks up while the other one remains oblivious."
+      ],
+      "trend": "Variable trend",
+      "icon": "🌀"
+    },
+    {
+      "id": "sarcasm_irony",
+      "name": "Sarcasm & Irony",
+      "color": "#F4A261",
+      "percentage": 0,
+      "keywords": [
+        "exaggerated",
+        "sharply",
+        "absurdly",
+        "serious",
+        "mannered",
+        "realistic"
+      ],
+      "topWords": [
+        {
+          "word": "angry",
+          "count": 21,
+          "score": 0.19610086
+        },
+        {
+          "word": "seems",
+          "count": 14,
+          "score": 0.15528241
+        },
+        {
+          "word": "snowmen",
+          "count": 11,
+          "score": 0.16272873
+        },
+        {
+          "word": "seated",
+          "count": 10,
+          "score": 0.11788669
+        },
+        {
+          "word": "happened",
+          "count": 10,
+          "score": 0.1677024
+        }
+      ],
+      "description": "Mocking, cynical, or opposite-meaning humor.",
+      "examples": [
+        "A man is relaxing on a city street. Others are going about their business and stepping on him as they pass.",
+        "People are laying on the subway tracks as an on coming train approaches. They have casts and bandages on.",
+        "A lawyer is with his client in a courtroom. They're having a conversation.",
+        "Two pheasants are together watching a hunter. The hunter is carrying a rifle with a bird on it through the forest.",
+        "A whale is beached on a small island. He has crushed a man and a tree beneath him."
+      ],
+      "trend": "Variable trend",
+      "icon": "😏"
+    },
+    {
+      "id": "topical_political",
+      "name": "Topical & Political",
+      "color": "#E76F51",
+      "percentage": 0,
+      "keywords": [
+        "shot",
+        "fear",
+        "vaccum",
+        "dip",
+        "speeches",
+        "flooded"
+      ],
+      "topWords": [
+        {
+          "word": "like",
+          "count": 82,
+          "score": 0.12009645
+        },
+        {
+          "word": "looks",
+          "count": 65,
+          "score": 0.15092435
+        },
+        {
+          "word": "look",
+          "count": 39,
+          "score": 0.13645686
+        },
+        {
+          "word": "get",
+          "count": 29,
+          "score": 0.16283062
+        },
+        {
+          "word": "subway",
+          "count": 26,
+          "score": 0.11835462
+        }
+      ],
+      "description": "Commentary on current events, politics, and societal issues.",
+      "examples": [],
+      "trend": "Variable trend",
+      "icon": "🗳️"
+    },
+    {
+      "id": "relationship_family",
+      "name": "Relationships",
+      "color": "#D62828",
+      "percentage": 0,
+      "keywords": [
+        "couple",
+        "marrying",
+        "affairs",
+        "husband",
+        "wife",
+        "family"
+      ],
+      "topWords": [
+        {
+          "word": "woman",
+          "count": 147,
+          "score": 0.11316325
+        },
+        {
+          "word": "men",
+          "count": 64,
+          "score": 0.17321655
+        },
+        {
+          "word": "restaurant",
+          "count": 55,
+          "score": 0.12066515
+        },
+        {
+          "word": "outside",
+          "count": 44,
+          "score": 0.11030583
+        },
+        {
+          "word": "couple",
+          "count": 43,
+          "score": 0.41361403
+        }
+      ],
+      "description": "Dynamics between partners, parents, and children.",
+      "examples": [],
+      "trend": "Variable trend",
+      "icon": "❤️"
+    },
+    {
+      "id": "workplace_office",
+      "name": "Workplace",
+      "color": "#457B9D",
+      "percentage": 0,
+      "keywords": [
+        "office",
+        "employee",
+        "offices",
+        "desk",
+        "cashier",
+        "workplace"
+      ],
+      "topWords": [
+        {
+          "word": "office",
+          "count": 90,
+          "score": 0.36726084
+        },
+        {
+          "word": "table",
+          "count": 56,
+          "score": 0.1445867
+        },
+        {
+          "word": "waiter",
+          "count": 30,
+          "score": 0.21980664
+        },
+        {
+          "word": "meeting",
+          "count": 21,
+          "score": 0.23728907
+        },
+        {
+          "word": "desk",
+          "count": 16,
+          "score": 0.31520522
+        }
+      ],
+      "description": "Corporate culture, office dynamics, and professional life.",
+      "examples": [],
+      "trend": "Variable trend",
+      "icon": "💼"
+    }
+  ],
+  "evolutionData": [
+    {
+      "year": "2016",
+      "Dark Humor": 60,
+      "Animals": 40
+    },
+    {
+      "year": "2017",
+      "Animals": 88,
+      "Dark Humor": 13
+    },
+    {
+      "year": "2018",
+      "Animals": 70,
+      "Dark Humor": 30
+    },
+    {
+      "year": "2019",
+      "Animals": 100
+    },
+    {
+      "year": "2020",
+      "Animals": 89,
+      "Absurd & Surreal": 11
+    },
+    {
+      "year": "2021",
+      "Dark Humor": 20,
+      "Animals": 80
+    },
+    {
+      "year": "2022",
+      "Animals": 100
+    },
+    {
+      "year": "2023",
+      "Dark Humor": 100
+    }
+  ]
+}

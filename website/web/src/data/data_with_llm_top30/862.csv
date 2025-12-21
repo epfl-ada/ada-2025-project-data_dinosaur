@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I'm glad we got the progressive lenses.,1.6721560130010835,0.0121026672652426,4615,2564,1000,1051,unknown,positive
+He’s still orange.,1.6697651663405089,0.0127268467998783,4088,2251,936,901,irony,negative
+Funny.  He still looks orange.,1.6448362720403022,0.0134601405930682,3573,2016,810,747,irony,neutral
+We’re so polarized.,1.6113085621970922,0.0143700157722051,3095,1824,650,621,irony,negative
+They're progressive lenses.,1.647887323943662,0.0140543172109495,3053,1647,834,572,irony,neutral
+This explains the mixed reviews.,1.6263079222720478,0.014233941019329,2676,1412,852,412,irony,neutral
+"If you watch “Gone With the Wind” with red glasses, the South wins.",1.7082807902480033,0.0173427838711161,2379,1299,475,605,incongruity-absurdity,neutral
+Do these glasses make me look liberal?,1.6220338983050848,0.0162431172140135,2360,1349,554,457,sarcasm,neutral
+I can see why the reviews were mixed.,1.6193957115009747,0.0163694668264917,2052,1103,627,322,incongruity-absurdity,neutral
+Now You Know What It Feels Like To Be a Democrat In Texas!,1.573073073073073,0.0169684182818988,1998,1183,485,330,sarcasm,neutral
+"When they said the glasses were polarized, I had no idea.",1.5956805625313912,0.017544169045545,1991,1175,446,370,incongruity-absurdity,neutral
+Why don't they laugh when we laugh?,1.6172140430351076,0.0180118659188961,1766,973,496,297,sarcasm,negative
+I hate the undecideds even more.”,1.5497448979591837,0.0207519978277882,1568,1041,192,335,sarcasm,negative
+This is depressing. Let's try the rose-colored glasses.,1.6183107672469377,0.0192628441208447,1551,855,433,263,unknown,negative
+Let's just disagree to disagree.”,1.5473061760840998,0.0203756273712493,1522,981,249,292,sarcasm,neutral
+Is this your first Presidential debate?,1.570860927152318,0.018806687241377,1510,866,426,218,sarcasm,neutral
+Who knew? You can gerrymander a theatre.,1.5907859078590787,0.0193936220341567,1476,835,410,231,irony,neutral
+"This way, you only see the content that you agree with.",1.6046353101567823,0.0201209905500856,1467,840,367,260,unknown,neutral
+I don't think I'll ever understand how this Iowa caucus works.,1.5526675786593709,0.0192248090087858,1462,868,380,214,irony,negative
+This is the weirdest jury selection process I've ever gone through!,1.5503080082135523,0.0191660437881083,1461,868,382,211,irony,negative
+The guy behind you must be an Independent.,1.6032531824611032,0.019120182773764,1414,757,461,196,sarcasm,neutral
+Casting Brad Pitt in the lead was probably a mistake.,1.5397727272727273,0.0225096799287939,1408,975,106,327,sarcasm,negative
+"I'm telling you, this country has never been so polarized.",1.579885877318117,0.0197163472008933,1402,800,391,211,irony,negative
+"We may be gasping at different parts, but we all seem to agree it’s a horror show.",1.5507900677200903,0.020125066636033,1329,790,346,193,irony,negative
+That's it.  We're leaving Texas.,1.5501519756838906,0.0208968587829846,1316,807,294,215,exaggeration,negative
+I see why the reviews were mixed.,1.5880092236740968,0.019831563892966,1301,711,415,175,sarcasm,neutral
+"Why did you pick ""The Story of the Republican Party"" in 3 D? There's no depth, there's no perception, and there is definitely NO action.",1.5584817970565452,0.0213389215370826,1291,790,281,220,sarcasm,negative
+It’s like you can reach out and touch the indictments.,1.5373608903020668,0.0216434317505693,1258,796,248,214,irony,neutral
+Here's something we should be able to agree on: the movie is over.”,1.5331098072087177,0.0236136110727687,1193,805,140,248,sarcasm,neutral
+"Maybe, sweetie, it's time we moved out of  Texas.",1.5328778821520068,0.0224006171122282,1171,745,228,198,sarcasm,neutral

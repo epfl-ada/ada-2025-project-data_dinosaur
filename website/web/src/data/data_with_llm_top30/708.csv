@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Does this make me look middle aged?,1.9761019050839816,0.0062277269482544,17742,6361,5455,5915,self-deprecating,neutral
+I don't care if you rust. You're doing the dishes.,1.938958923939924,0.0061086967569592,16579,5730,6164,4680,sarcasm,neutral
+"Damn it, Alexa, I said ""Get me a knife.""",1.9607555474050984,0.006578769151366,16359,6157,4704,5492,sarcasm,negative
+I’m off to Walmart. Do you need anything?,1.9766013633851256,0.0064433997488688,16283,5753,5177,5342,sarcasm,neutral
+That’s not what I meant when I asked you to start wearing protection.”,1.9233502204092376,0.0064970653744196,15199,5552,5280,4356,sarcasm,negative
+I said I wanted a NIGHT at home,1.925235726483035,0.0068580219795404,13469,4833,4815,3813,irony,neutral
+"Sure, every time it's your turn to cook, there just happens to be a crusade.",1.944390243902439,0.0069228203666141,13325,4695,4695,3929,sarcasm,neutral
+We don't have a round table!,1.8468509288627095,0.0069093354227104,13242,5381,4516,3334,incongruity-absurdity,neutral
+"The next time you bring home a dragon, cook it yourself.",1.8983830178557743,0.0070490592288427,13049,5004,4393,3647,incongruity-absurdity,neutral
+"It's been a hard day, knight, and I've been working like a dog.",1.866012819522743,0.0072395905578199,12949,5418,3868,3660,unknown,negative
+You can keep it on until you learn how to stop touching your face.,1.867430695369367,0.0068022612352412,12914,4854,4929,3129,sarcasm,neutral
+Have you seen the can opener?,1.8161582192329249,0.0071305586694254,12489,5344,4105,3031,unknown,neutral
+It was on eBay. They were out of masks.,1.9228566616136096,0.0073211093642987,11874,4276,4240,3358,incongruity-absurdity,neutral
+They were out of face masks.,1.7535230475497772,0.0073273926603491,10999,4967,3784,2237,unknown,neutral
+"Couldn't stop with just a chastity belt, could you?",1.8546483269924885,0.0080721069984501,10251,4293,3164,2794,sarcasm,negative
+"That was the deal. You cook, I shop for toilet paper.",1.8446399120395824,0.0082133038141144,9095,3651,3225,2215,sarcasm,neutral
+"Perchance, thine extinguisher, Sir Burnsalot.",1.6861548702019082,0.0086145766254644,9014,4897,2052,2056,wit-surprise,neutral
+About time someone got off their high horse and started to help out more in the kitchen.,1.740214326001128,0.0079478399642139,8865,3967,3241,1650,sarcasm,neutral
+"I'm here to help, but I can only move diagonally.",1.8137388926862612,0.0086107477338078,8778,3847,2727,2199,wit-surprise,neutral
+"Don’t just stand there, slay something.",1.7902172622581027,0.0084576098243488,8423,3631,2936,1851,unknown,neutral
+"We just need eggs, Gary. It's not like you're going out for toilet paper.""",1.7582983822648293,0.0084378249332538,8345,3759,2857,1727,sarcasm,neutral
+"So you can pull a sword from a stone, but you can't take a roast out of the oven?",1.7534064873990112,0.0082986482692671,8293,3669,3006,1611,irony,negative
+Can you believe that this was easier to get than an N95 mask?,1.850416561474375,0.0087958076685493,7922,3121,2871,1930,irony,negative
+"Kevin, I said N95, not 1095!”",1.8039736775499873,0.008907179276802,7902,3415,2621,1861,sarcasm,neutral
+I think you are taking this iron chef thing too literally,1.7698081734778983,0.0089853230772977,7194,3118,2622,1454,irony,negative
+Have you seen my charger?”,1.7256698357821951,0.0103705850800088,5785,2851,1681,1244,unknown,neutral
+"Yeah, I get it. Date Knight. Very funny.",1.7881710646041855,0.0102073243131579,5495,2288,2089,1118,sarcasm,positive
+"Well, it looked a little silly with just the helmet.",1.732960030893995,0.0103048553007598,5179,2300,1962,917,incongruity-absurdity,negative
+Is this another idea you picked up from the presidential COVID briefings ?,1.7177450600542423,0.0111662626706407,5162,2598,1425,1139,sarcasm,neutral
+"A better question is, why aren't YOU wearing a mask?",1.9812860840135376,0.0104567362295161,5023,1437,2247,1339,sarcasm,negative

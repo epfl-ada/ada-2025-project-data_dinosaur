@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Supplicants, sir. You want to surround yourself with supplicants.",2.150187953492438,0.0074894286904713,11439,2972,3790,4677,wit-surprise,neutral
+"Sorry Sire, I thought you said Game of Thorns.",1.915488532830663,0.0078642654579091,9549,3302,3770,2477,sarcasm,neutral
+"If they were seeking peace, they would have sent olive branches.",1.869953596287703,0.0081378578351647,8620,3131,3494,1995,sarcasm,neutral
+"Oh, you said assemble the caucus...",1.9570847206807251,0.0084558570051133,8109,2532,3393,2184,sarcasm,neutral
+"Actually, I prefer to keep the armor on.",1.8667335926716024,0.0083691237581701,7969,2848,3344,1777,self-deprecating,neutral
+"I'm sorry, Sire, but after the War of the Roses, this is all they had left.",1.8175854673899332,0.0086823015250769,7927,3233,2911,1783,wit-surprise,negative
+"It appears that the peasants’ offerings from the bounty of the harvest come with a tinge of sarcasm this year, sire.",1.8608937137086592,0.0086661798160186,7922,2984,3056,1882,sarcasm,neutral
+"Sir, I think you've made your point about being surrounded by 'tiny pricks'",1.8896293211162016,0.0095601213542648,7203,2812,2374,2017,sarcasm,neutral
+"My liege, Albuquerque is yours.",1.8592022393282015,0.0095674497687058,7145,2910,2331,1904,exaggeration,neutral
+I know another leader surrounded by pricks.,1.718303886925795,0.0095164938723908,7075,3551,1969,1555,sarcasm,negative
+"Well, after you beheaded the groundskeeper, we had to go with something low maintenance",1.8516624040920715,0.0097321940589898,6256,2386,2412,1458,unknown,negative
+"With all due respect, Your Majesty, your subjects find you hard to approach.",1.7145653237644756,0.0090974245346563,6131,2710,2473,948,sarcasm,negative
+"Sire, I worry your advisors may secretly be foreign plants",1.7627774041694688,0.0102636830086348,5948,2736,1887,1325,wit-surprise,negative
+I'm here about the gardener position.,1.8146008403361344,0.0103131996101811,5712,2370,2034,1308,unknown,neutral
+"Your Lord King Midas, this should solve your impulse to touch everything.",1.7099250594041309,0.0100964627559367,5471,2549,1960,962,sarcasm,positive
+We had to cut back your security detail after you diverted those funds to build your moat,1.67350189130002,0.0106749160720536,5023,2540,1589,894,sarcasm,negative
+"Forgive me, Sire. I thought you said ""succulents,"" not ""supplicants.""",1.6589705570853632,0.0105813792280567,4721,2327,1677,717,wit-surprise,neutral
+Our spies suspect a foreign plant.,1.647190383002516,0.0125906872549229,3577,1885,1076,616,wit-surprise,neutral
+The florist quit.,1.586622476649593,0.0130130672461782,3319,1902,887,530,incongruity-absurdity,negative
+The decree that your throne be surrounded by supplicants may have contained a small typo.,1.7365525672371638,0.0127684854602537,3272,1417,1300,555,wit-surprise,neutral
+"You’re right your highness, no one can call you spineless now.",1.673994974874372,0.0131165441735644,3184,1560,1102,522,sarcasm,neutral
+"On the plus side, palace security is now carbon neutral.",1.7300246392115453,0.0142218413500223,2841,1303,1002,536,irony,positive
+Did Merlin say when he intended to turn them back?,1.681992337164751,0.0147229140518227,2610,1285,870,455,irony,neutral
+"Your Majesty, its Game of  THRONES...",1.5745033112582782,0.0145934102131136,2416,1354,736,326,irony,neutral
+"Game of thorns, I'd say.",1.5529953917050692,0.0145458933331755,2387,1382,693,312,unknown,neutral
+Surrounded by cacti and the biggest prick is still on the throne.,1.5525641025641026,0.0153077551898041,2340,1399,589,352,irony,negative
+"The balloon kingdom offers a truce, sire.",1.606564748201439,0.0158417806680824,2224,1230,639,355,wit-surprise,neutral
+"No, sire, I'm the gardener.",1.5632911392405062,0.0151338377368642,2212,1254,670,288,incongruity-absurdity,neutral
+The Queen thought they would be perfect for you.,1.6869070208728654,0.0165146281138406,2108,1039,690,379,incongruity-absurdity,positive
+I blame autocorrect.,1.6324091778202676,0.0163286958560019,2092,1109,643,340,sarcasm,negative

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"I can still vote by mail,you know.",1.986198243412798,0.007864506606202,10361,3392,3720,3249,sarcasm,neutral
+"Mom, can't I just wear a mask?",1.8497154970434009,0.0082010772676688,8963,3476,3358,2129,sarcasm,neutral
+There. Now in 14 days we'll check your temperature again.,1.7914204983303366,0.0086728333143987,7786,3261,2888,1637,self-deprecating,neutral
+How is that door coming along?,1.828429396748623,0.0086577457340949,7443,2824,3072,1547,sarcasm,neutral
+This is why nobody likes to play with you.,1.7930978083087994,0.0101246820155288,6114,2679,2021,1414,sarcasm,negative
+But I Tested Negative Twice,1.80228456240551,0.0098822714513113,5953,2435,2260,1258,self-deprecating,neutral
+My hair is never gonna grow that long before dinner time.,1.8987341772151896,0.0107593658756078,5214,1864,2014,1336,incongruity-absurdity,negative
+"Sweetie, mommy needs to pee.",1.8662458078516473,0.0110720637719789,5069,1959,1829,1281,irony,negative
+This isn't what I meant when I said you need to treat me like a princess.,1.7202722824930865,0.0109705403973704,4701,2171,1674,856,self-deprecating,negative
+"This is all very well, but where are YOU going to self-quarantine?",1.8776881720430108,0.0115314332933992,4464,1631,1748,1085,unknown,neutral
+"You remembered to carve a door, right?",1.8416214942257836,0.0117892031409645,4243,1640,1635,968,unknown,neutral
+Well if you plan to complete the whole castle you're going to have to think outside the box.,1.8699878493317132,0.0125619173947921,4115,1638,1374,1103,wit-surprise,neutral
+I’m starting to regret that haircut.,1.736572265625,0.0119687391772812,4096,1883,1409,804,self-deprecating,negative
+"As with all things, Jennifer approached social distancing with a certain severity.",1.6916482978202303,0.0118408589340334,4083,1992,1358,733,self-deprecating,neutral
+It's 2020. Who builds to last?,1.7807663029687897,0.0125421865314114,3941,1748,1309,884,incongruity-absurdity,neutral
+"Apologize , or I'll cement in the window too.",1.7406169665809768,0.0129557255427646,3890,1905,1089,896,sarcasm,negative
+"Not much to see inside...  Just a few bobby pins and ""Rapunzel was here"" scratched into the wall",1.6690758905524006,0.0119643426436435,3874,1927,1302,645,incongruity-absurdity,neutral
+I don't care what you do! I like my hair short.,1.7829274679235405,0.012741208938778,3819,1688,1272,859,self-deprecating,neutral
+I thought six feet of social distance meant horizontal.,1.6741633199464525,0.0122605653032764,3735,1855,1242,638,unknown,neutral
+"No worries. By the time we get a vaccine, your hair will be long enough.",1.6611570247933884,0.0127074885700339,3630,1887,1086,657,sarcasm,positive
+"Next time, I get to be the evil stepmother.",1.6491911324146196,0.0132385737132114,3338,1767,975,596,sarcasm,negative
+"Mom, remind me when you are going back to your real job?",1.645151606124287,0.0130966673767587,3331,1752,1009,570,sarcasm,neutral
+"Queen takes castle, check!",1.6255293405928617,0.012978353044285,3306,1771,1002,533,unknown,positive
+You wanted to be the princess.,1.6778087279480036,0.0132623093102615,3231,1606,1060,565,irony,neutral
+It’s only until there’s a vaccine.,1.616981716764797,0.0126905865122662,3227,1693,1077,457,exaggeration,neutral
+"If a prince comes by without a mask, you can have him.",1.7062480571961456,0.0139640994418299,3217,1620,922,675,unknown,neutral
+'I suppose this is a good time to let you know that I'll be waiting for a princess... not a prince.',1.762771392081737,0.0143762798187376,3132,1473,929,730,sarcasm,neutral
+"If Trump wins again, go ahead and close up this window.",1.724348665165648,0.014439811618168,3109,1554,858,697,sarcasm,negative
+"Okay, okay, I get what it was like for you to spend all that time in quarantine.",1.7110682110682112,0.0139252927330376,3108,1515,976,617,self-deprecating,neutral
+"Finally, an apartment in New York I can actually afford",1.7214448421737716,0.013944149373177,3073,1465,999,609,irony,positive

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Honey, I haven't seen this many fat white men in one place since the inauguration.",1.924628450106157,0.0090858054203649,8478,3310,2497,2671,sarcasm,negative
+Invite them in if you want to get rid of them.,1.9618872549019608,0.0088556289595248,8160,2776,2921,2463,sarcasm,neutral
+"Don't worry, they're armless.",1.9288640595903168,0.0087281719071767,8055,2778,3072,2205,incongruity-absurdity,neutral
+…because no one is paying any attention to our northern border.,2.02721264740184,0.0089852381202629,7717,2314,2884,2519,irony,negative
+I listed our freezer on Airbnb.,1.9542440318302388,0.0089841976415571,7540,2492,2908,2140,irony,neutral
+And they say we don't need a border wall with Canada.,1.7888244910090652,0.0094476076543183,6729,2884,2384,1461,irony,negative
+"I told you - make a scarf for one of them, they'd all want one.",1.7333965844402277,0.0095652076461569,6324,2900,2212,1212,incongruity-absurdity,neutral
+"I believe the correct term is ""snowpeople"".",1.893505643710126,0.0097525864823808,6113,2137,2490,1486,irony,neutral
+This article says that global warming will create an unprecedented refugee crises.,1.8021600392734416,0.0100534090669796,6111,2621,2084,1406,exaggeration,negative
+Don't mind them. They've just never seen a black guy in a New Yorker cartoon before.,1.8905223106191629,0.0108647950121031,5782,2327,1764,1691,sarcasm,neutral
+"I warned you, Myra, knit a hat and scarf for one and they'd ALL want them.",1.7955887460923932,0.0098534110734164,5758,2323,2291,1144,wit-surprise,neutral
+That does it. I'm calling ICE.,1.8277460770328104,0.0106695998877872,5608,2356,1862,1390,sarcasm,negative
+To be fair honey they did say they'd be back again someday.,1.8565611697205255,0.010765783154346,5403,2142,1897,1364,irony,neutral
+They want to watch Frozen.,1.7466147282507885,0.0104692891912339,5391,2456,1848,1087,unknown,neutral
+I told you the suburbs lacked diversity.,1.735808289137694,0.0105727626438895,5091,2301,1835,955,irony,negative
+How many times did you ask Alexa 'do you want to build a snowman?',1.7510364390137465,0.0112905798199552,4583,2051,1622,910,irony,neutral
+See? Now they ALL want scarves.,2.1499286054259876,0.0115024340776569,4202,900,1772,1530,incongruity-absurdity,neutral
+I'd knit faster if I were you.,1.6643973777105396,0.011796597470658,3966,1983,1331,652,wit-surprise,positive
+It's the winter of their discontent.,1.7907801418439715,0.0125777387534756,3948,1732,1310,906,unknown,negative
+HA!  Get this.  Amazon says it's selling snowmen...I just ordered one-thousand of them...let's see how they handle that!,1.6987458407985667,0.0125521375265088,3907,1978,1132,797,exaggeration,positive
+"Alexa, turn on the sprinklers.",1.707428264950389,0.0125993389927607,3729,1811,1199,719,unknown,neutral
+The last time we let them in the basement flooded.,1.7886740331491713,0.0122356594998641,3620,1444,1497,679,irony,negative
+"Well, this situation certainly snowballed rather quickly.",1.6958333333333333,0.0124737305393113,3600,1725,1248,627,exaggeration,negative
+No wonder the kids were so tired.,1.672696910659616,0.0122701496877062,3593,1752,1265,576,unknown,negative
+"Of course, global warming forces species to move to new locations for survival.  Why do you ask?",1.632122905027933,0.0122938255427393,3580,1874,1151,555,irony,neutral
+So then I took the carrot off his face and played fetch with the dog. Why?,1.650632911392405,0.0128987235076908,3555,1889,1019,647,incongruity-absurdity,neutral
+I’m telling you a collection of snowmen is called an abomination.,1.6952714535901927,0.0131784267582359,3426,1700,1070,656,unknown,negative
+"Turn up the heat, just in case...",1.612099644128114,0.0121449290605215,3372,1746,1188,438,sarcasm,neutral
+Honey I found it. A group of snowmen is called a squall.,1.8698095535435528,0.0134694629754139,3203,1166,1288,749,incongruity-absurdity,neutral
+Not exactly the twenty-four carats I was hoping for.,1.836409133562715,0.0139607620563539,3197,1300,1120,777,irony,negative

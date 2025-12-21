@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+You don’t have to say ‘excuse me’ every single time.,1.741097612065354,0.0095375249879563,7161,3499,2017,1645,unknown,negative
+I’m starting to wonder why we were given free movie tickets.,1.6450458858298336,0.00966459607917,6429,3476,1759,1194,sarcasm,negative
+I don’t like the look of that guy with the salt shaker.,1.6499659168370824,0.0099450592339848,5868,3089,1744,1035,sarcasm,negative
+I’m wanted for a salt and buttery.,1.6730428622033298,0.0106757069231796,5646,3041,1410,1195,incongruity-absurdity,neutral
+Corn on the curb,1.652037617554859,0.0105107778405105,5423,2896,1518,1009,incongruity-absurdity,neutral
+My ear keeps popping.,1.7197368421052632,0.0110018968384501,5320,2667,1477,1176,self-deprecating,negative
+It usually doesn't happen this fast on a first date.,1.6777777777777778,0.0107991854666308,5310,2775,1471,1064,sarcasm,neutral
+You couldn't hold it until we got home?,1.6838355048859934,0.0112480664217927,4912,2548,1369,995,irony,negative
+Move to Arizona he says. What could go wrong he says.,1.7351627313337588,0.0116393691762774,4701,2284,1378,1039,exaggeration,neutral
+I think I just popped my pants,1.662357922888344,0.0119021907334923,4487,2439,1124,924,self-deprecating,negative
+Don't you hate that feeling when your ears keep popping?,1.7073933437569802,0.0119145742107874,4477,2269,1249,959,incongruity-absurdity,negative
+Hotter than a microwave out here today,1.636900704385367,0.0114793821424835,4401,2365,1269,767,irony,negative
+"Of course, the one day I don’t put on butter",1.6722061657032756,0.0118566022078905,4152,2115,1283,754,irony,neutral
+"If you say ""at least it's a dry heat"" one more time....I swear to God....",1.7106796116504854,0.0123899685551076,4120,2071,1170,879,exaggeration,negative
+"Son, please stop calling me ""Pop!""  Just go with ""Dad.""",1.6287379624936644,0.0119556400568498,3946,2117,1177,652,incongruity-absurdity,negative
+[Caption unavailable due to writers' strike.],1.6619354838709677,0.0130413115218472,3875,2153,879,843,sarcasm,negative
+I need to re-apply my butter.,1.6010349288486416,0.0124336735180217,3865,2233,941,691,incongruity-absurdity,neutral
+Can you not retain a single kernel of self-control?,1.640958832725378,0.01241890345433,3838,2072,1072,694,sarcasm,negative
+I think moving to Texas was a big mistake,1.6382696390658174,0.0122326363364428,3768,1990,1151,627,irony,negative
+"Moira, you really need to see someone about these hot flashes.",1.614164615805305,0.0124205402870277,3657,2009,1050,598,sarcasm,negative
+Global warming? Might be a kernel of truth in that.,1.6398467432950192,0.012429087849622,3654,1926,1118,610,exaggeration,neutral
+This Land O' Lakes sun block sucks.,1.622117254792998,0.012837598555967,3599,2004,951,644,sarcasm,negative
+"I don’t know, Steve, please tell me: how hot is it?",1.6423109600679695,0.0127719725578873,3531,1874,1046,611,sarcasm,neutral
+I’m going to be naked by the time this bus arrives!,1.6331242873432157,0.0125212996435891,3508,1844,1107,557,unknown,negative
+I had to put my wife in a bowl yesterday,1.670020120724346,0.013209030622318,3479,1819,989,671,incongruity-absurdity,neutral
+It’s starting to feel like a microwave out here.,1.632582322357019,0.0127723138939069,3462,1847,1040,575,irony,negative
+I’m beginning to think there’s a kernel of truth to this whole global warming thing.,1.6608032834945765,0.0130620970943755,3411,1767,1034,610,exaggeration,neutral
+I hate this shucking weather.,1.619061757719715,0.0134264149741273,3368,1908,835,625,irony,negative
+I hear it's even worse for the eggs.,1.6474908200734395,0.0132553238119294,3268,1717,986,565,irony,negative
+Climate change? I'm beginning to think there's a kernel of truth to it.,1.6512488436632748,0.0130574137804394,3243,1659,1056,528,exaggeration,neutral

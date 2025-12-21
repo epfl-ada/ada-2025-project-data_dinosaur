@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1081,At least he knows where he’s going...”,1.353474320241692,0.0325379101329937,331,234,77,20,sarcasm,neutral
+5812,He's an agent and he wants to make us rich and famous.,1.1415384615384616,0.0225381876565463,325,286,32,7,wit-surprise,neutral
+2938,"He may be fictional, but he's a real man.",1.2670807453416149,0.0303216147366816,322,252,54,16,wit-surprise,neutral
+3700,I'm his new social media strategist. Can you follow us on Instagram?,1.2391304347826086,0.0286069296202804,322,258,51,13,sarcasm,neutral
+4982,I didn't know your brother was coming along?,1.190031152647975,0.0248453353793754,321,267,47,7,sarcasm,neutral
+2322,It’s tacky to ask celebrities for an autograph.,1.2902208201892744,0.0318002748817659,317,243,56,18,sarcasm,negative
+443,"I'm sorry, but I think he will keep me warmer tonight than you can.",1.4113924050632911,0.0386271060096878,316,222,58,36,sarcasm,neutral
+5175,I think he's pretty hot!,1.180952380952381,0.0243582507291411,315,264,45,6,irony,positive
+5294,"Well, he was no help. I’m not sure why everyone thought we’d find Zach’s watch up here.",1.1746031746031746,0.0257133246031243,315,270,35,10,sarcasm,negative
+5560,I only have eyes for you,1.1592356687898089,0.0238783965241043,314,271,36,7,unknown,positive
+3390,He's really upset you won't share your beef jerky.,1.251592356687898,0.0301134725147169,314,250,49,15,sarcasm,negative
+2594,I’m not carrying his crap another step.,1.2802547770700636,0.0321105889236166,314,245,50,19,sarcasm,negative
+1464,He was asking for directions.,1.3312101910828025,0.0330808434033143,314,229,66,19,incongruity-absurdity,neutral
+2030,"His daughter lost a mitten yesterday, he's just out checking everywhere.",1.302547770700637,0.0328809038929844,314,239,55,20,incongruity-absurdity,neutral
+1169,"He said,""Don't overthink it.""",1.3482428115015974,0.0331075234584397,313,222,73,18,sarcasm,neutral
+342,I think we are officially too high now.,1.4249201277955272,0.0373847075346402,313,210,73,30,irony,negative
+1168,You say hirsute and I say hairsuit. What's the big deal?,1.3482428115015974,0.0346194796566298,313,227,63,23,incongruity-absurdity,neutral
+4022,It's 80% mental power and 20% giant steps,1.2275641025641026,0.0281413235474165,312,252,49,11,wit-surprise,neutral
+5765,I tried but I can’t keep up with him.,1.1442307692307692,0.0228154762798393,312,273,33,6,sarcasm,negative
+5252,"Nice enough guy, but I think he ""OD""ed on the supplemental testosterone.",1.1768488745980707,0.0256182371819493,311,265,37,9,sarcasm,neutral
+1958,It will be a more pleasant climb if you stay down wind from him,1.3054662379421222,0.0334666346569362,311,237,53,21,wit-surprise,positive
+2518,"That was cold, Larry.",1.2829581993569132,0.0330171552810715,311,244,46,21,sarcasm,negative
+966,"That was really insensitive, John.",1.3612903225806452,0.0362012164226113,310,225,58,27,sarcasm,negative
+5866,"There's nothing funny here, so please step back.",1.135483870967742,0.0229174176633346,310,275,28,7,sarcasm,negative
+1746,"'You know I've always wanted a REAL mountain man, Stan.'",1.3161290322580643,0.0327943725676009,310,230,62,18,sarcasm,positive
+1491,He said “Millennials are abominable.”,1.3300970873786409,0.033109315921916,309,225,66,18,irony,negative
+2726,"I'm in love, Jake. Goodbye!",1.2750809061488673,0.0336269988126541,309,247,39,23,sarcasm,positive
+4432,"Yes Peter, he must’ve used Mapquest.",1.2135922330097086,0.0274864494419869,309,253,46,10,sarcasm,neutral
+2871,"I'm looking to open a waxing studio in the area""",1.2694805194805194,0.0302689547321226,308,238,57,13,exaggeration,neutral
+3512,"Clear up something for me.  Is it ""Abdominal"" or ""Abominable""?",1.2467532467532467,0.0300257854917129,308,246,48,14,sarcasm,neutral

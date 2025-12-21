@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,Call him Ishmeow.,1.7448770491803278,0.0258823766372587,976,475,275,226,incongruity-absurdity,neutral
+3,Am I the only one who misses the parrot?,1.7054507337526206,0.0248677796036874,954,463,309,182,irony,negative
+14,Since when do we have a pension plan?,1.5879873551106427,0.0253009842694003,949,564,212,173,sarcasm,neutral
+5,"That's Ahab's brother, Rehab. He's in pet therapy.",1.6737739872068231,0.0263916488170917,938,509,226,203,incongruity-absurdity,neutral
+7,He calls it Ishmeow,1.6596736596736597,0.0265065699354308,858,454,242,162,unknown,neutral
+12,"It's agreed then, we'll tell people the captain was obsessed with a great white whale.",1.601246105919003,0.0302239074961586,642,367,164,111,wit-surprise,neutral
+19,"Strangely, it's the hat that bothers me the most.",1.5483333333333331,0.030237344070573,600,361,149,90,unknown,negative
+20,"Ruins strikin' terror into prisoners' hearts, don't he?",1.546979865771812,0.0318477890001707,596,376,114,106,irony,negative
+0,"Well, that explains our relentless hunt for tuna.",1.7868284228769498,0.0325801264568077,577,251,198,128,unknown,neutral
+21,We'll see how affectionate he is when he finds out who ate his parrot.,1.531496062992126,0.0331184775407,508,316,114,78,irony,neutral
+24,"Since Ahab had him neutered, we call him Moby Dickless",1.5274949083503055,0.0350981960334169,491,319,85,87,unknown,neutral
+25,I'll tell you exactly what happened to that parrot.,1.523404255319149,0.0338947934237396,470,292,110,68,unknown,negative
+8,I killed 20 mice this morning but does he rub my belly?,1.6425438596491229,0.0355852937937559,456,242,135,79,self-deprecating,negative
+2,The Canary Islands? Who told him we should go there?,1.7358490566037736,0.038250867954302,424,202,132,90,exaggeration,neutral
+27,Not likely this'll be in the book.,1.5130023640661938,0.0357136788673978,423,267,95,61,irony,negative
+28,He thinks he can grab a pussy anytime he wants.,1.5038363171355498,0.0386458642456767,391,259,67,65,irony,negative
+29,I didn't think that type was into heavy petting.,1.5012987012987014,0.0404795181167959,385,265,47,73,incongruity-absurdity,neutral
+23,So it will be fiction. Tell Herman to make it a whale.,1.5292553191489362,0.0368703105193988,376,226,101,49,wit-surprise,neutral
+31,"Do you want to tell him we can't find the parrot, or should I?",1.4958904109589042,0.038919223698946,365,239,71,55,sarcasm,neutral
+33,There goes my novel.,1.4944751381215469,0.0371635697333157,362,228,89,45,unknown,negative
+34,"Funny, I always pegged him as a whale person.",1.4914772727272727,0.0375247513733985,352,222,87,43,irony,neutral
+32,An' he keeps the litter box on the poop deck.,1.4956268221574345,0.0382630835434034,343,216,84,43,incongruity-absurdity,neutral
+35,Of course the guy with the scratching post for a leg gets all of the attention.,1.486646884272997,0.0387687962338861,337,216,78,43,irony,neutral
+39,The captain says we should head to the Canary Islands.,1.4832826747720365,0.039709222629553,329,214,71,44,exaggeration,neutral
+40,I'm suggesting a mewtiny.,1.4831804281345566,0.039181879967398,327,210,76,41,sarcasm,neutral
+41,"Not only was I demoted to second mate, but I have to clean the first mate's litter box.",1.48159509202454,0.0392700708778308,326,210,75,41,self-deprecating,neutral
+42,"The whale obsession is bad enough, but if he turns into a crazy cat person I'm jumping ship.",1.4813664596273293,0.0393917933536964,322,207,75,40,sarcasm,negative
+4,Well what do you think happened to the parrot?,1.683385579937304,0.0417738642225025,319,155,110,54,incongruity-absurdity,neutral
+43,Would it kill him to put on an eyepatch and buy a parrot?,1.4778481012658229,0.0384087939170099,316,199,83,34,sarcasm,neutral
+9,But I thought Persians weren't allowed in under the travel ban...,1.617363344051447,0.0454855716225317,311,182,66,63,irony,neutral

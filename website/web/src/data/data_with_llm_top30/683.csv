@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"We are going to go with Noah, but thanks.",1.987614758357873,0.0073255176041211,11546,3652,4387,3507,sarcasm,neutral
+"Four-story brownstones? It'll never catch on, not in a million years.",1.9323435277382648,0.0074558864200522,11248,3925,4160,3163,incongruity-absurdity,negative
+I guarantee he brings up the whole discovering fire thing within the first five minutes.,1.9728587528174304,0.0076629629298547,10648,3479,3980,3189,exaggeration,neutral
+"What'd you expect?  She hunts-gathers, too , and they have no kids.",1.9480861469011568,0.0076270546034212,10633,3587,4016,3030,irony,negative
+Of course it’s pretentious- didn’t you see the rock he gave her?,1.9424894429921575,0.0080180976550076,9946,3488,3548,2910,sarcasm,negative
+They must have made a fortune from the wheel.,2.059051504334523,0.0076235362324263,9805,2539,4157,3109,wit-surprise,neutral
+If you stopped drawing on the walls and got a real job maybe we could live here too.,1.9049145299145296,0.0080816031123839,9360,3354,3547,2459,sarcasm,neutral
+They’re from prehistoric money,1.894648642609764,0.0084466725160375,8951,3379,3136,2436,incongruity-absurdity,neutral
+I bet she can’t wait to brag about her new granite countertops.,1.8355248243028792,0.0083857972368367,8822,3581,3111,2130,sarcasm,positive
+Evidently his father invented the wheel.,1.7291846021399582,0.0082421032620165,8131,3655,3028,1448,wit-surprise,neutral
+It scrape sky.,1.6353248043721278,0.0089057798495236,8051,4576,1836,1639,irony,neutral
+After dinner they want to go out clubbing.,1.8419987349778624,0.0090908452664484,7905,3315,2529,2061,unknown,neutral
+"This makes our place look like a cave.""",1.9314598168870805,0.0086363738812904,7864,2594,3215,2055,unknown,negative
+I  remember when they were just cliff dwellers.,1.7556765369804808,0.0085550688823216,7531,3223,2928,1380,wit-surprise,negative
+We'll come back when stairs have been invented.,1.7868561278863233,0.0093352139234239,6756,2862,2472,1422,incongruity-absurdity,neutral
+You won’t believe the view!  We can see nothing for miles.,1.7146506386175808,0.0092673310126002,6655,3127,2302,1226,incongruity-absurdity,neutral
+Any trouble finding the place?,1.713213902924514,0.009391917823304,6531,3088,2229,1214,sarcasm,neutral
+Of course you know that wheel was really her idea.,1.8827275551413485,0.0096641577848733,6438,2357,2479,1602,sarcasm,neutral
+"(whispering) Oh, god! A four-story walk up. Just wave and look busy.",1.7671031096563012,0.0096189923278525,6110,2604,2325,1181,sarcasm,neutral
+A 4th floor walk-up in the pre-historic district. I’d be smug too.,1.6536998616874137,0.0096290936364686,5784,2903,1983,898,irony,neutral
+"Sure, the view's great, but I hear the co-op board is a bunch of Neanderthals.",1.6511462591078727,0.009895928344393,5627,2874,1842,911,sarcasm,negative
+It's only a matter of time before some Neanderthal decides to name one after himself.,1.779059125022881,0.0111269481393966,5463,2584,1502,1377,irony,negative
+So begins the condolithic period.,1.7442244224422443,0.0105595299911498,5454,2537,1777,1140,irony,neutral
+It IS flat! Come on up and see for yourself!,1.704532941824188,0.0102785466112347,5449,2613,1834,1002,incongruity-absurdity,neutral
+Congratulations... you got the Trump sign removed!,1.777649990415948,0.0114828974223487,5217,2503,1371,1343,irony,positive
+We won’t need a fire escape until someone discovers fire.,1.6741681092517793,0.010494008036741,5199,2613,1667,918,wit-surprise,neutral
+They can afford it; they are a two-hunter family.,1.6251528740317978,0.0100606191673991,4906,2482,1781,643,unknown,neutral
+Ever since the Babels moved into that new apartment it’s like they’re speaking an entirely different language.,1.8471879901411608,0.0115308919734095,4463,1717,1711,1035,sarcasm,neutral
+Come on up. But don't take the elevator. You'll be waiting a million years.,1.623849090500786,0.0114232546743878,4453,2446,1236,771,incongruity-absurdity,neutral
+"They may feel like the Flintstones now, but they're one earthquake away from being the Rubbles.",1.6173007246376812,0.0111209060946411,4416,2376,1355,685,unknown,neutral

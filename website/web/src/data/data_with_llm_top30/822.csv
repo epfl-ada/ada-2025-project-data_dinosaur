@@ -1,0 +1,32 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+…but the third planet was juuuuust right!,1.7442698944115376,0.0126576330779273,3883,1831,1214,838,unknown,positive
+"OK, time to go to sleep. We've got a long trip ahead of us tomorrow.",1.6652665589660742,0.0135386332083786,3095,1569,993,533,self-deprecating,neutral
+And when she woke up nobody believed her. The end.,1.7130301872372946,0.015073436516023,2617,1261,846,510,unknown,negative
+…But the third planet in the solar system was just right.,1.5633475397132894,0.0144212931202151,2581,1502,704,375,wit-surprise,positive
+This Dr. Seuss guy is really out there.,1.6650266502665028,0.015438753909814,2439,1254,748,437,wit-surprise,neutral
+"Yes dear, I am a legal alien.",1.6702390766694146,0.0156787558293378,2426,1255,716,455,sarcasm,neutral
+"Ok, one more.  Then will you take me to your leader?",1.6612432206925325,0.0157071248761763,2397,1252,705,440,sarcasm,neutral
+Would you like me to read it or just implant it in your head?,1.6623430962343095,0.0154476693105548,2390,1221,755,414,sarcasm,neutral
+Don't blame me that your parents got a sitter online.,1.5581494057724958,0.01611587701407,2356,1471,455,430,sarcasm,negative
+Your journal is about to get much more interesting.,1.6099000908265213,0.0154567303990396,2202,1176,709,317,self-deprecating,positive
+There may be a couple of minutes of this story you won't remember.,1.6260829913360693,0.0157561915572418,2193,1160,693,340,exaggeration,negative
+"Now go to sleep, or I'll have to summon the mothership.",1.580512351326624,0.0160494434463778,2186,1266,571,349,sarcasm,neutral
+"No, no, no, darling. You weren’t adopted … you were abducted.",1.7410795974382434,0.0170188848374868,2186,1048,656,482,sarcasm,negative
+I don’t know why you keep asking if you’re adopted.,1.6623616236162362,0.0164987290352233,2168,1129,642,397,sarcasm,negative
+The first planet was much too cold.  The second planet was much too hot.  But the third planet was juuust right.,1.554464703132305,0.0159155240473501,2139,1268,556,315,wit-surprise,neutral
+I guess your parents shouldn’t have advertised for an au pair in the Roswell newspaper.,1.6307013241785189,0.0167143729313589,2039,1096,600,343,sarcasm,negative
+"Actually, you're the result of a close encounter of the first kind.",1.7242229896398618,0.0178524075519282,2027,1011,564,452,sarcasm,neutral
+Would you prefer something a little more down to Earth?,1.6355889724310777,0.016734888888161,1995,1053,616,326,unknown,neutral
+"Yes, that's right.  Elon Musk is one of us.",1.6400208986415885,0.017150399390885,1914,1007,589,318,irony,positive
+It's called 'Goodnight Earth.',1.7112117780294451,0.0184472768809694,1766,859,558,349,irony,neutral
+Don’t mind me. The closet and under the bed were already taken.,1.6476470588235297,0.0179627556940806,1700,871,557,272,incongruity-absurdity,neutral
+"Goodnight window, goodnight room,
+Goodnight earthling who is doomed.",1.6580035440047254,0.018860579611558,1693,898,476,319,sarcasm,negative
+"Yeah, well, we can't all be E.T., kid. You're no Drew Barrymore yourself.",1.6041019266625234,0.0188243209960284,1609,903,440,266,incongruity-absurdity,negative
+This is a book about alien life styles. Listen carefully because by next month it will be banned in Florida.,1.637780548628429,0.019308056259907,1604,875,435,294,exaggeration,negative
+"""I'll read one more, but then we really have to go up""",1.645545796737767,0.0184325853347289,1594,814,531,249,unknown,neutral
+This one will be a little more down to earth.,1.5992167101827677,0.0183516162252825,1532,825,496,211,self-deprecating,neutral
+"Well for us ""An Introduction to the Atomic and Molecular Physics of Astronomical Spectroscopy"" is a children's book.",1.6660117878192535,0.0191626406471791,1527,768,501,258,wit-surprise,neutral
+"Adopted? No, you were abducted.",1.5498034076015728,0.0192651780664005,1526,930,353,243,sarcasm,negative
+Tell me the truth… did I go too far with the eyes on the last procedure?,1.5685210312075983,0.0195940118008356,1474,872,366,236,self-deprecating,neutral
+This recipe calls for two medium humans.  Is anyone else home?,1.565601631543168,0.0188877526417941,1471,844,422,205,sarcasm,neutral

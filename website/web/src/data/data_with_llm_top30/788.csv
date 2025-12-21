@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I assume it’s a destination wedding?,1.8176136363636364,0.0097510715898485,7040,3115,2093,1831,sarcasm,neutral
+Or you could get vaccinated.,1.810443706610323,0.0101269834233052,6626,2998,1885,1742,sarcasm,neutral
+Or you could just get vaccinated.,1.813777441332324,0.0101332319133723,6605,2969,1897,1739,sarcasm,neutral
+Is it a destination wedding?,1.7516569200779728,0.0110205156575114,5130,2393,1618,1119,sarcasm,neutral
+Let’s see you take one small step.,1.7772943037974684,0.0108400286244913,5056,2190,1802,1064,incongruity-absurdity,neutral
+Ideal for parties with no atmosphere,1.76917663617171,0.0121561829266905,4263,1948,1351,964,incongruity-absurdity,neutral
+And what--if you don't mind my asking--will the bride be wearing?,1.711184521000472,0.0120110573219105,4238,2084,1294,860,sarcasm,neutral
+Destination wedding?,1.7524177949709865,0.0124254771656781,4136,1959,1242,935,sarcasm,neutral
+"I let the waist out, but it still might be tight around Uranus.",1.7775566061209256,0.0131752263360204,4019,1948,1017,1054,wit-surprise,neutral
+Perhaps something a bit more down to earth?,1.7798429319371727,0.0123687493011596,3820,1629,1402,788,incongruity-absurdity,neutral
+We’ll do your final fitting at our satellite location.,1.744871120462914,0.0125400521465785,3802,1745,1282,775,incongruity-absurdity,neutral
+And what will the bride be wearing?,1.704479348458406,0.0131127125450051,3438,1674,1106,658,incongruity-absurdity,neutral
+"Thin? You look weightless.""",1.695945945945946,0.0134138914134669,3404,1717,1005,682,sarcasm,neutral
+It might be easier to just get vaccinated.,1.764861683343143,0.0137209076680372,3398,1579,1037,781,sarcasm,neutral
+"Now remember, a size ten looks more like a size eight in zero gravity.",1.702373887240356,0.0129175357487709,3370,1603,1169,598,unknown,neutral
+It’s perfect.  That suit says you’re going places.,1.7381883839903702,0.0131683506276052,3323,1506,1181,636,sarcasm,positive
+"So, astronaut or billionaire?",1.7203977101536607,0.0136721459449418,3319,1623,1001,695,irony,neutral
+"It's a statement piece that says, ""I'm rich and selfish enough to leave you all behind.""",1.7021017362168749,0.0137821713003497,3283,1658,945,680,irony,negative
+"Dress for the job you want, am I right?",1.69336002669336,0.013683435168328,2997,1441,1034,522,irony,neutral
+OK...and understand I'm hurting my business here...but why not just get vaccinated?,1.689030526668903,0.0143634999827388,2981,1524,860,597,sarcasm,negative
+You look like a man on a mission.,1.751467034863652,0.0141215298030194,2897,1296,1028,572,sarcasm,positive
+"It suits you well, but no pressure.",1.7327707454289734,0.0141237906445213,2844,1288,1028,528,sarcasm,positive
+"I always tell people,""dress for the job you want, not the job you have.""",1.726215644820296,0.0144719694210622,2838,1338,939,561,self-deprecating,neutral
+"I'll give you a few seconds to think about it. 10, 9, 8....",1.743145743145743,0.014837895474368,2772,1293,898,581,sarcasm,neutral
+"Do you really think this is what she meant by ""I need space?""",1.7307971014492751,0.0151898433573274,2760,1350,803,607,sarcasm,neutral
+The only head you won't be turning is your own.,1.682185455944594,0.0148124174675874,2599,1285,855,459,sarcasm,neutral
+You didn’t mention what kind of launch party.,1.6942404329339005,0.0144668475686559,2587,1219,941,427,sarcasm,neutral
+"Personally, I would just get the vaccination",1.795294117647059,0.0159670635842264,2550,1143,786,621,sarcasm,neutral
+"We could go shorter on the inseam, but then you’ll only be able to take one very small step for man.",1.7778675282714056,0.0160052696307685,2476,1121,784,571,wit-surprise,neutral
+All the billionaires are wearing it.,1.7027138157894737,0.0156285493533878,2432,1191,773,468,irony,neutral

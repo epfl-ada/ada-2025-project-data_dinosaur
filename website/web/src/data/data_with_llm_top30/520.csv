@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,"Now that you've opened up, let's talk about what's eating you.",2.048046699595869,0.0165867786459248,2227,631,858,738,sarcasm,neutral
+2,It's normal to feel empty after a split.,1.9439490445859875,0.0284327205684576,785,272,285,228,self-deprecating,neutral
+0,"I have to ask, do you feel that you could be a danger to others?",2.060483870967742,0.0276387545733182,744,190,319,235,self-deprecating,negative
+4,Would you feel more comfortable on the floor ?,1.9266802443991853,0.035742525279856,491,173,181,137,sarcasm,neutral
+6,You say you've been feeling empty since the split?,1.821875,0.0456628809548884,320,140,97,83,self-deprecating,negative
+5,I am required to report those bruises.,1.8650519031141868,0.0464701001336177,289,112,104,73,sarcasm,negative
+10,How was life after the split?,1.796078431372549,0.0467231090381749,255,102,103,50,sarcasm,neutral
+3,You're right; some of us bruise easier than others.,1.9361702127659572,0.0486296209006551,235,73,104,58,sarcasm,neutral
+7,Maybe you'd be more comfortable on the floor.,1.8214285714285716,0.0523428413372884,224,92,80,52,sarcasm,neutral
+8,I'm going to be brutally honest. You're an accident waiting to happen.,1.8125,0.0529640725895002,224,95,76,53,sarcasm,negative
+9,And you blame yourself for the split?,1.8,0.0556481862325018,220,101,62,57,self-deprecating,negative
+11,What I think isn't important. Do you think you're an accident waiting to happen?,1.7868020304568528,0.0536277647410712,197,81,77,39,self-deprecating,negative
+13,I can tell that something's been eating at you.,1.780612244897959,0.053541829803801,196,81,77,38,sarcasm,negative
+15,You may have a split personality.,1.7604166666666667,0.0579093212914593,192,90,58,44,incongruity-absurdity,negative
+12,Perhaps you're hanging around with the wrong bunch.,1.7826086956521738,0.055389168269374,184,76,72,36,sarcasm,negative
+18,I'd like to see you again next sundae.,1.7430167597765365,0.0593360759776555,179,85,55,39,incongruity-absurdity,positive
+20,You can't go on like this. You're an accident waiting to happen.,1.7393939393939395,0.0613334034453849,165,78,52,35,sarcasm,negative
+25,"So, was it a painful split?",1.725609756097561,0.0595045504493596,164,76,57,31,sarcasm,neutral
+23,This is fruitless.,1.729559748427673,0.0616142576162093,159,75,52,32,incongruity-absurdity,negative
+30,Remind me what happened after the split,1.7096774193548387,0.0633962290256272,155,77,46,32,sarcasm,neutral
+14,Do you need a moment to compost yourself?,1.7777777777777777,0.0637265927418227,153,68,51,34,unknown,neutral
+33,Tell me about your nana,1.7039473684210529,0.063886292187851,152,76,45,31,unknown,neutral
+22,Success is not measured by the number of people you bring down.,1.7364864864864864,0.0601535438727974,148,64,59,25,sarcasm,positive
+29,You think you're crazy? I'm talking to a banana.,1.710344827586207,0.0677478713944431,145,75,37,33,sarcasm,negative
+21,I think this results from an edible complex.,1.7379310344827583,0.0626832101353378,145,65,53,27,wit-surprise,neutral
+17,So you feel the best part of you is gone.,1.7569444444444444,0.0609483201172468,144,60,59,25,self-deprecating,negative
+31,And how would you say you're handling the split?,1.7062937062937062,0.0618441500078768,143,66,53,24,self-deprecating,neutral
+26,So what's been eating you lately?,1.7234042553191489,0.06608641833862,141,68,44,29,incongruity-absurdity,neutral
+24,So you caused a Freudian slip?,1.7285714285714286,0.0631828429939917,140,63,52,25,sarcasm,negative
+16,I'm so tired of people blaming me for their slip-ups.,1.7571428571428571,0.0632060762519911,140,60,54,26,sarcasm,negative

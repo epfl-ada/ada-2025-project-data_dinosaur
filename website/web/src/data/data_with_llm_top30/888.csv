@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Gesundheit!,1.627457197209892,0.0139572987075878,3154,1775,779,600,incongruity-absurdity,positive
+I don't think you are in the placebo group.,1.5731404958677686,0.0155200199663541,2420,1442,569,409,sarcasm,neutral
+"Helluva sneeze, Merv.",1.6103500761035008,0.0172152705030384,1971,1109,521,341,sarcasm,positive
+"Now that you're spineless,you can run as a Republican for the US Senate.",1.5282529808190772,0.0181021682293711,1929,1279,281,369,sarcasm,negative
+That was a hell of a sneeze.,1.5293185419968305,0.0163857569109075,1893,1136,512,245,incongruity-absurdity,negative
+It’s called cactile dysfunction. It can happen to any of us,1.5964818763326225,0.018062017306831,1876,1105,423,348,unknown,negative
+"Now that you're spineless, you should consider running for public office.",1.5273224043715847,0.0178974893407018,1830,1173,349,308,sarcasm,negative
+"Look on the bright side, now you can play with balloons.",1.5635964912280702,0.0169792353172651,1824,1051,518,255,incongruity-absurdity,positive
+This prickly heat is a killer.,1.5247252747252746,0.018636982911797,1820,1213,259,348,unknown,negative
+"With all due respect, you look like a pickle.",1.6129976580796253,0.0181758870879903,1708,940,489,279,sarcasm,negative
+It's called succulent pattern baldness.,1.55188679245283,0.0179033512593769,1696,1011,434,251,self-deprecating,neutral
+Get dressed! Tourists are parking.,1.5376607470912431,0.0174974318039113,1633,960,468,205,unknown,neutral
+I wouldn’t worry too much. The trees do it all the time.,1.52460024600246,0.0172859603239202,1626,965,469,192,incongruity-absurdity,neutral
+It doesn't make you any less of a cactus.,1.5172626387176325,0.0176493791136523,1622,990,425,207,unknown,negative
+Did I get rid of your hiccups?,1.6178142766898294,0.0189550048814643,1583,868,452,263,sarcasm,neutral
+"On the plus side, it makes you look slimmer.",1.551111111111111,0.0174356461579553,1575,889,504,182,self-deprecating,positive
+"If it helps, you do look more succulent.",1.5137614678899085,0.0183688091278695,1526,944,380,202,sarcasm,positive
+"Jesus, Frank. It’s not Brazil.",1.5463576158940395,0.0193170807499441,1510,923,349,238,sarcasm,negative
+"Dude, that was Nair, not Coppertone!",1.576588628762542,0.0193580586509049,1495,869,390,236,sarcasm,negative
+That's why you don't plug your nose before a sneeze.,1.573579739904175,0.0191878967291771,1461,837,410,214,wit-surprise,neutral
+"On the bright side, you're much more huggable.",1.5119945167923234,0.01767478692633,1459,862,447,150,self-deprecating,positive
+"If it's any consolation, you still look succulent.",1.518284106891702,0.019381219155991,1422,887,333,202,sarcasm,positive
+I am so so sorry I called you spineless.,1.5074204946996466,0.018726825981149,1415,871,370,174,sarcasm,negative
+You got to stop watching the news.,1.5082201572551823,0.0189947644654674,1399,866,355,178,sarcasm,negative
+Bless you.,1.505399568034557,0.0195811373989884,1389,883,310,196,unknown,positive
+You’re just not as sharp as you used to be.,1.5914056809905317,0.0202148530568723,1373,780,374,219,self-deprecating,negative
+I think it makes you look even more succulent.,1.506367041198502,0.0196221785139604,1335,835,324,176,sarcasm,positive
+It's not called streaking unless you can run.,1.5298621745788668,0.0202275835759405,1306,800,320,186,unknown,neutral
+Miracle-Gro. My brother swears by it.,1.5101246105919004,0.0198158233154451,1284,792,329,163,incongruity-absurdity,positive
+"That was a hell of a sneeze, Frank.”",1.5007824726134584,0.0199800271337096,1278,804,308,166,incongruity-absurdity,negative

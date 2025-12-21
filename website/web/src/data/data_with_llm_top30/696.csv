@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"Frankly, I'm so over this whole farm-to-table fad!",1.987785542310177,0.006100475635346,17029,5550,6157,5322,exaggeration,negative
+When.,2.0170644391408112,0.0062423655559674,16760,5362,5752,5629,irony,neutral
+I'd assumed The Hungry Pig would be more of a barbecue place.,1.920631564107986,0.006687088837092,14187,5129,5062,3994,incongruity-absurdity,neutral
+"Thanks a bunch, Mr. I-can-order-in-French.",1.924707821396464,0.0071069140259672,13348,5056,4245,4045,sarcasm,positive
+I was going to break up with you after dinner but I think I'll do it now.,1.925403070276942,0.0071266283181466,12963,4802,4329,3830,sarcasm,neutral
+"If there's a ring in here, Hank, I swear to God...",1.9912595598564071,0.0072277057845927,12814,4392,4159,4261,sarcasm,neutral
+"Don't ask for a spoon, he'll know we're tourists.",1.864687704841277,0.0076133043054677,10679,4154,3827,2697,incongruity-absurdity,neutral
+We're going to need more chips.,1.8097405112316032,0.0075477705023546,10328,4224,3846,2253,unknown,neutral
+Maybe you shouldn’t have said you are as hungry as a horse.,1.7861425716189208,0.008134333603475,9006,3894,3161,1950,sarcasm,negative
+You were right - the 'horse d'oeuvre' was not a typo.,1.7722861656510946,0.008327422175018,8862,3977,2933,1952,sarcasm,positive
+I have a feeling I'm not going to like the suggested wine pairing.,1.7457294552169895,0.0081731965415762,8664,3893,3083,1688,sarcasm,negative
+I said truffle not trough full.,1.7718429003021148,0.0086747358169034,8275,3748,2671,1855,unknown,neutral
+So this is the dish they named after Trump?,1.7840965654554504,0.009217881648417,8036,3804,2161,2067,irony,negative
+It's almost as if your mom's in the kitchen.,1.7168557985053972,0.0093659102647734,7226,3625,2031,1570,sarcasm,neutral
+Is this your ONLY Vegan option?,1.7171520133760625,0.0089428025881336,7177,3383,2448,1345,sarcasm,neutral
+And a bucket of water when you get a second.,1.7289009886803266,0.0091149688122732,6979,3240,2398,1341,irony,neutral
+Best farm-to-table in town.,2.0707497360084477,0.0095745788478806,6629,1806,2552,2271,irony,positive
+"Your chance at winning is diminished. Someone is unfairly blocking the first 10-30 voting 'spots' and moving your entries (when they start to compete for votes) to the rear of the algorithm queue. It you object to this interference, click 'funny'.",1.69078125,0.011177998495222,6400,3868,641,1884,sarcasm,negative
+When! WHEN!,1.7147840531561462,0.0096814765150548,6020,2811,2119,1090,irony,positive
+Well you said you wanted the ranch dressing,1.9066666666666667,0.0102621177901073,5925,2158,2165,1602,sarcasm,neutral
+This farm to table thing has gone too far.,1.7267390144102472,0.0103809505006514,5621,2685,1789,1147,exaggeration,negative
+"Well, just offhand I'd say yes, they know who you are, and yes, they've read your last review.",1.833125556544969,0.0107968292881721,5615,2384,1784,1447,sarcasm,neutral
+"If this is the soup, maybe we should cancel the pigs in a blanket order.",1.7751247327156094,0.010731176925028,5612,2591,1694,1327,incongruity-absurdity,negative
+"On second  thought, I will have another drink.",1.6721429860985737,0.0099920318048351,5539,2752,1857,930,self-deprecating,neutral
+Maybe farm to table wasn't such a good idea.,1.6553840431467362,0.0099371030618073,5377,2683,1868,826,incongruity-absurdity,negative
+What are the odds - I had the same thing for lunch.,1.6868367156954012,0.0104377356836184,5371,2677,1698,995,sarcasm,neutral
+"Yes I did hear the food isn't that good, but it is all you can eat",1.7866028708133972,0.0106037166396452,5225,2236,1878,1111,incongruity-absurdity,negative
+Lucky for you folks. Tonight is all you can eat.,1.6614438714795716,0.0104415537864685,5042,2545,1666,831,unknown,positive
+It's too bad they banned straws.,1.7624698310539018,0.0113936274533903,4972,2335,1483,1154,sarcasm,negative
+"Wow, they really meant farm to table.",1.583404619332763,0.0104833751281053,4676,2592,1436,637,irony,positive

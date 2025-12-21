@@ -1,0 +1,33 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2275,"If you fall , it'll be recorded """,1.244019138755981,0.0347698092825808,209,165,37,7,incongruity-absurdity,neutral
+106,"You ordered a handshake on Amazon, correct?! Here it is!",1.4423076923076923,0.0475397338916388,208,139,46,23,sarcasm,neutral
+1463,"Yeah, it does give quite the wedgie.",1.2815533980582523,0.0375895498501328,206,157,40,9,unknown,neutral
+1476,"The charge lasts up to 8 hours, so you're not obligated to keep your pants on all day.",1.2807881773399017,0.041019025487263,203,160,29,14,incongruity-absurdity,neutral
+1012,Uber at your service. I’ll be taking you over the traffic.,1.308457711442786,0.038914251277664,201,148,44,9,sarcasm,neutral
+3831,Conventional suspenders were too restricting.,1.185,0.0333079886896936,200,170,23,7,unknown,negative
+1363,They provide my pants with support and me with companionship.,1.28643216080402,0.039882500521909,199,153,35,11,incongruity-absurdity,positive
+686,"I’d love to chat, but I’ve gotta take off.",1.3316582914572863,0.0409615385615996,199,144,44,11,sarcasm,neutral
+580,Hi I'm George your ride for tonight.,1.3434343434343434,0.0449028487051122,198,147,34,17,sarcasm,neutral
+4962,I just had to get a pair like yours.,1.1313131313131313,0.0297771804312665,198,178,14,6,sarcasm,neutral
+4900,They’re made by Jack LaLanne”,1.1363636363636365,0.0300907810601361,198,177,15,6,irony,neutral
+2076,"... and when batteries go, the drones and pants drop.",1.2525252525252526,0.0383522512970931,198,158,30,10,exaggeration,negative
+2075,Suspenders are so 1980s Wall Street.,1.2525252525252526,0.0369911726450623,198,156,34,8,unknown,negative
+1022,It’s uplifting!,1.3080808080808082,0.0418166262252712,198,150,35,13,irony,positive
+4041,They are great! Works like suspenders!,1.176767676767677,0.029874857051746,198,166,29,3,incongruity-absurdity,positive
+195,"I'm not sure what it does, but I got it with 2-day free shipping from Amazon!",1.4111675126903551,0.0497833885259895,197,140,33,24,incongruity-absurdity,positive
+1697,It’s the new Amazon rideshare,1.269035532994924,0.0383343223786209,197,153,35,9,irony,neutral
+4685,I'll set you up with my stylist.,1.1479591836734695,0.0283458049659873,196,170,23,3,sarcasm,neutral
+3861,"You know that song ""Up, up and a way in my beautiful balloon?""  So old fashioned.",1.183673469387755,0.031276586849118,196,164,28,4,wit-surprise,neutral
+3457,I finally found a solution to my pants that kept falling.,1.1989795918367347,0.0320418828794545,196,161,31,4,incongruity-absurdity,neutral
+2006,"This way, if anyone tries to shoot me, I'll have proof!",1.2551020408163265,0.0373244707417022,196,154,34,8,unknown,neutral
+3704,You can buy any knockoff you want in Chinatown.,1.1897435897435895,0.0316851945099967,195,162,29,4,incongruity-absurdity,neutral
+108,Amazon needs a clarification on your order.,1.441025641025641,0.0509159546721293,195,134,36,25,irony,neutral
+2217,I use the one on the left to keep an eye on the other one.,1.2461538461538462,0.0371409555410055,195,155,32,8,unknown,neutral
+1024,Lyft has found a better way to compete with Uber.,1.3076923076923077,0.0440898985311123,195,151,28,16,sarcasm,positive
+3019,Next comes the Superman suit.,1.2153846153846153,0.0329025211224894,195,157,34,4,unknown,neutral
+393,"It's the NEW Lyft""",1.3692307692307693,0.0440529877682329,195,137,44,14,sarcasm,neutral
+5397,"- This new belts can make you fly.
+- But I am ok with the old one I wear, you sold it to me two day ago.
+- Well, it fits you (thinking to himself... I had them for years,thank god people like this guy exist)",1.0721649484536082,0.0213016486468591,194,182,10,2,sarcasm,positive
+2074,"Driving a car is so 2017, bro.",1.2525773195876289,0.039569187721758,194,156,27,11,exaggeration,negative
+2840,"A rise in my voice makes them go higher, and conversely.",1.2216494845360826,0.0370760663059522,194,160,25,9,self-deprecating,neutral

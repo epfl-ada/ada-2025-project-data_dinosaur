@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"Well, I'll be damned...",1.8040665434380776,0.0356472996253186,541,249,149,143,irony,negative
+1,I'll be damned.,1.801498127340824,0.0360043275802712,534,248,144,142,irony,negative
+2,I'll be damned.,1.7663755458515285,0.0382359093768466,458,219,127,112,irony,negative
+3,"Well, I'll be damned...",1.7421686746987952,0.0416059133261738,415,216,90,109,irony,negative
+4,You're naked AND you bake?,1.724935732647815,0.0413100188763454,389,197,102,90,wit-surprise,neutral
+5,We have an oven ???,1.6677316293929711,0.0460894013204185,313,173,71,69,incongruity-absurdity,neutral
+7,"'When you said you had one in the oven that's not what I thought you meant.""",1.6567656765676568,0.0436443902674406,303,157,93,53,unknown,negative
+8,How about them apples?,1.6508474576271186,0.0483841625884718,295,171,56,68,incongruity-absurdity,neutral
+9,Wait -- what going away party?,1.6460481099656357,0.0472671766199322,291,164,66,61,sarcasm,neutral
+10,I see you've found a loophole.,1.6344086021505375,0.045519398551698,279,150,81,48,sarcasm,neutral
+11,Mom's apple pie? What's a Mom?,1.62453531598513,0.0478521163775919,269,152,66,51,incongruity-absurdity,neutral
+12,God knows I shouldn't.,1.623134328358209,0.047718441756441,268,151,67,50,self-deprecating,negative
+13,You mean I can have my pie and Eden too?,1.623134328358209,0.0483006206748339,268,153,63,52,incongruity-absurdity,neutral
+14,I think you've just invented the loophole.,1.6217228464419475,0.0469859791015811,267,148,72,47,wit-surprise,neutral
+15,What family recipe?,1.6174242424242424,0.0486539414796054,264,152,61,51,unknown,neutral
+16,"Then again, it'd also be a sin to waste it.",1.6108949416342413,0.0456473471075878,257,138,81,38,unknown,negative
+17,What do you mean 'to die for'?,1.6108949416342413,0.0485517228543336,257,147,63,47,sarcasm,neutral
+6,"Phew... when you said you had something in the oven, I thought you meant something else.",1.6614173228346456,0.0497233155257324,254,137,66,51,sarcasm,positive
+18,Mom's apple pie? Who's mom?,1.6,0.0484291392253095,250,143,64,43,sarcasm,neutral
+20,"Wait, we have an oven?",1.5983935742971886,0.0479261854150822,249,141,67,41,irony,neutral
+19,God knows I really shouldn't.,1.5983935742971886,0.0469015607790694,249,138,73,38,self-deprecating,negative
+21,What's the worst that could happen?,1.5975609756097562,0.0490761736933486,246,142,61,43,sarcasm,negative
+22,Apple? Well I'll be damned!,1.5847457627118644,0.0497569072100116,236,138,58,40,irony,negative
+23,"Sure, I'll try it. What's the worst that could happen?",1.5829787234042554,0.0477026148107808,235,132,69,34,sarcasm,neutral
+24,How much sin would some ice cream add?,1.5829787234042554,0.0503004095782447,235,139,55,41,incongruity-absurdity,neutral
+28,"An apple pie, well I'll be damned.",1.5663716814159292,0.0531235595728161,226,142,40,44,incongruity-absurdity,negative
+25,I guess after this we'll start dressing for dinner.,1.5707964601769913,0.0527264991221569,226,140,43,43,incongruity-absurdity,neutral
+27,Could be a recipe for disaster...,1.5663716814159292,0.0504657608119761,226,135,54,37,incongruity-absurdity,negative
+29,Ok I'll try it. What's the worst that can happen?,1.5610859728506787,0.0513946465588569,221,134,50,37,self-deprecating,neutral
+31,This pie for another rib.,1.559090909090909,0.051185979803778,220,133,51,36,unknown,neutral

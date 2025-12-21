@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+A little more on the Woofer,1.950787276088481,0.0063288450825289,15687,5352,5749,4561,irony,neutral
+"We should be able to finish the album today, as long as no one rings the doorbell.",1.9660462580795888,0.0073533208655863,12841,4685,3893,4237,incongruity-absurdity,positive
+I hate it when they hit those high notes that only they can hear.,1.9471475833131608,0.007254554542123,12393,4393,4255,3724,sarcasm,negative
+"They're all pretty good, except the fish...he just keeps playing scales.",1.8260612709933328,0.0072038833987951,11849,4867,4175,2789,wit-surprise,positive
+"PETA, Paw and Mary.",1.8041008856372736,0.0079562843046199,10388,4643,3128,2601,irony,neutral
+That is the only band we could get to play at Trump rally.,1.7988488336867616,0.0084146940422691,9903,4671,2535,2674,sarcasm,neutral
+Do me a favor. Never ask me to help with one of your pet projects again.,1.8270684371807968,0.008057724429349,9790,4108,3257,2411,sarcasm,negative
+Hootie IS the blowfish.,1.8612845201565973,0.0084989168919602,9451,3972,2802,2653,unknown,neutral
+That's perfect.  Get out the treats.,1.8277380297193175,0.008366919035002,9085,3818,3023,2244,incongruity-absurdity,positive
+"It's like Three Dog Night, Stray Cats, and Phish, all at once.",1.7727109084363375,0.0086237742116022,8333,3757,2710,1852,irony,neutral
+Watch what happens when I yell “squirrel “,1.839174267882861,0.0089179648100065,8332,3538,2596,2197,sarcasm,neutral
+"When you said the Animals were getting back together, this wasn’t what I expected.",1.7440815831006435,0.0082831387065528,8237,3656,3025,1544,irony,negative
+Less woofer?,2.0737412286101193,0.0088991048073434,8123,2346,2841,2936,irony,neutral
+You should have heard them BEFORE they were neutered.,1.7871440654073865,0.0097675720787951,7094,3323,1963,1808,incongruity-absurdity,negative
+They had to replace the flounder because he was flat.,1.7269827461215022,0.0093499378723775,6897,3280,2210,1395,incongruity-absurdity,negative
+You should see what they did to the hotel room.,1.8532298227625603,0.0100842206854035,6827,2952,1931,1944,incongruity-absurdity,neutral
+"Trust me, if 3 chipmunks can pull this off, so can they.",1.716082260689451,0.0091139703209066,6759,3133,2406,1210,exaggeration,positive
+This one is a heartwrenching Blues number about when their owner left the house for ten minutes,1.713114754098361,0.0095813658158061,6588,3223,2028,1325,irony,neutral
+We’ve got the woofer but we’re missing the tweeter,1.6890535741855797,0.0092278472112479,6477,3117,2245,1089,incongruity-absurdity,neutral
+"I don't know what this knob does, but when I twist it to the right, the dogs go crazy.",1.7085732067838806,0.0093183748360332,6427,3009,2274,1131,incongruity-absurdity,negative
+I thought they had a chick on vocals.,1.7755642023346303,0.0101239388928269,6425,3003,1864,1558,sarcasm,neutral
+They’re really great until the audience breaks out the laser pointers.,1.69671875,0.0097037838690943,6400,3197,1939,1248,sarcasm,positive
+Wait til you see the octopus on drums.,1.7235543018335684,0.0096516037218096,6381,3020,2100,1258,irony,neutral
+The fish is getting totally drowned out.,1.6786632390745502,0.0097416113294753,5835,2858,1984,983,incongruity-absurdity,negative
+Hard to believe the keyboard player used to chase cars for a living,1.69573747101837,0.0099099493338718,5607,2667,1983,950,wit-surprise,negative
+Wanna risk headphones ??,1.7507939473192602,0.0116607967639349,5353,2784,1122,1447,sarcasm,neutral
+"Woofer level's good, love the scatting, but something still sounds a little fishy.",1.626865671641791,0.009979476115306,5226,2701,1757,752,sarcasm,neutral
+"When I play it backwards I keep getting "" Fluffy is dead.",1.673469387755102,0.0107933698808094,5194,2691,1486,998,unknown,neutral
+"I'm sure I told him to ask ASCAP to refer some musicians, not ASPCA.",1.6766188445133772,0.0106280628421464,5158,2603,1612,936,irony,neutral
+We need a wolfhound who plays bass.,1.72248708780294,0.0120572794962908,5034,2736,960,1338,wit-surprise,neutral

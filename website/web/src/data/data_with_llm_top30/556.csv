@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,I think I like the French maid outfit better.,1.896852602056716,0.0138575266390838,3209,1171,1198,840,unknown,positive
+1,Making fission chips?,1.8907980145093548,0.0169623282218038,2619,1145,615,859,irony,neutral
+2,So...how did your first husband die?,1.765262252794497,0.0224467793746874,1163,509,418,236,sarcasm,neutral
+3,"So, not tonight?",1.744888023369036,0.0242013847443552,1027,473,343,211,sarcasm,neutral
+4,"Making fission chips again, I see.",1.7405189620758483,0.0263524228614246,1002,512,238,252,irony,neutral
+5,Your first husband died how?,1.7312961011591148,0.026049454026412,949,467,270,212,irony,negative
+6,Next time I'll bring the protection.,1.7091775923718713,0.0294802792876627,839,463,157,219,sarcasm,neutral
+9,Like you've never farted.,1.708133971291866,0.0287946723076292,836,447,186,203,sarcasm,negative
+7,Remember when you used to meet me at the door in Saran Wrap?,1.7089820359281438,0.0271224273255729,835,413,252,170,sarcasm,neutral
+10,"No, in fact it makes you look weightless.",1.6979695431472082,0.0277662036733529,788,394,238,156,sarcasm,negative
+12,Looks like a recipe for disaster.,1.6856368563685638,0.0287338624899515,738,377,216,145,exaggeration,negative
+14,Whipping up something special for my mother?,1.6805555555555556,0.0298261516705959,720,382,186,152,incongruity-absurdity,neutral
+15,"Houston, we have an omelette.",1.6801112656467316,0.0282648142321301,719,358,233,128,unknown,neutral
+16,"I misunderstood the ""well-suited as homemaker"", profile.",1.6747503566333808,0.0305457152480857,701,380,169,152,irony,neutral
+11,"Honey, I've told you a thousand times: the mother ship is not coming back to get you.",1.6865021770682147,0.0333201116043264,689,405,95,189,sarcasm,negative
+13,Will you come out if I turn off the news?,1.6822840409956077,0.0306663506632363,683,362,176,145,sarcasm,neutral
+17,"In fairness, I only suck some of the air out of the room.",1.662613981762918,0.0296129337297269,658,338,204,116,self-deprecating,neutral
+18,"Honey, I'm having an affair.",1.656786271450858,0.0323186233896531,641,362,137,142,irony,neutral
+19,Fear of frying?,1.6493506493506491,0.0306658819496956,616,324,184,108,incongruity-absurdity,neutral
+20,"Okay, I get it. You need some space.",1.6482084690553749,0.0304076830004375,614,320,190,104,sarcasm,neutral
+8,"For heaven's sake, it's just gluten.",1.7081967213114757,0.0323202956961383,610,309,170,131,sarcasm,negative
+21,Are you sure it calls for mustard gas?,1.6446280991735538,0.0319317248782143,605,332,156,117,irony,neutral
+22,What happened to the French maid outfit?,1.6440397350993377,0.0297554520361197,604,307,205,92,incongruity-absurdity,neutral
+23,"Houston, we have an omelette.",1.6389830508474577,0.0313758164403818,590,316,171,103,unknown,neutral
+24,I’m just whipping up a little something for your mother.,1.6363636363636365,0.0344594041454291,583,346,103,134,sarcasm,neutral
+25,"Dinner will be ready in 10, 9, 8, 7, 6............",1.6322241681260945,0.0311971222982468,571,302,177,92,incongruity-absurdity,neutral
+26,I still think you should have just gotten a flu shot.,1.629233511586453,0.0301131349901798,561,285,199,77,sarcasm,negative
+27,One of your Mothers recipes?,1.627027027027027,0.0328498415661038,555,308,146,101,sarcasm,neutral
+28,I specialized in eggs at the NASA Culinary Institute.,1.6203703703703705,0.0341366773337244,540,311,123,106,wit-surprise,neutral
+29,Are you sure the recipe said mustard gas?,1.6169811320754717,0.033954832680775,530,302,129,99,incongruity-absurdity,neutral

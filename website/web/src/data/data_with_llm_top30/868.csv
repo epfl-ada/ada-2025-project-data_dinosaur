@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+I saw her with an Italian gelato.”,1.6061606160616062,0.0136428577479641,3636,2228,612,796,unknown,neutral
+"Everyone feels sorry for the kid who dropped the ice cream, but no one ever asks, “Is the ice cream OK?”",1.7133243606998654,0.0171801457794901,2229,1144,580,505,incongruity-absurdity,negative
+I wake up right before I hit the sidewalk.,1.5798442064264848,0.016914219761352,2054,1216,485,353,incongruity-absurdity,neutral
+"And to top it off, I only see my kids on sundaes.",1.5746770025839794,0.0181953233641721,1935,1206,346,383,self-deprecating,negative
+Not voices exactly. It's more of a jingle.,1.645979492714517,0.0176722191065359,1853,980,549,324,unknown,neutral
+"I scream, you scream, we all scream. It’s like no one has actual conversations anymore.",1.7264864864864864,0.0186172346050134,1850,915,526,409,incongruity-absurdity,negative
+"I'm sure, doc.  I know when I'm licked.",1.5707290533188247,0.0189173803031426,1838,1168,291,379,sarcasm,neutral
+And then I found out she was lactose intolerant.,1.6687289088863893,0.0181069544918394,1778,910,547,321,incongruity-absurdity,negative
+"My wife no longer finds ""Mister Softee"" an ironic nickname.",1.636259323006311,0.0185729595634701,1743,956,465,322,irony,neutral
+"She left me for the ""the cup"", said, ""he lasted longer!""",1.599290780141844,0.0182822415577821,1692,953,464,275,sarcasm,neutral
+She’s sleeping with gelato.,1.5915324985092427,0.0184350179248849,1677,960,442,275,unknown,neutral
+"I'm ok most of the week, but I dread every Sundae.",1.6018927444794953,0.01874094245075,1585,882,452,251,incongruity-absurdity,negative
+"My wife says I’m too vanilla. Like, what does that even mean?",1.6367112810707456,0.0186632388705796,1569,817,505,247,self-deprecating,negative
+I  self identify as a dairy queen.,1.6883033419023137,0.019999949586462,1556,802,437,317,unknown,neutral
+I feel as if I can never warm up to anyone.,1.5815602836879432,0.0180060122757334,1551,850,500,201,self-deprecating,negative
+My mom...she's a Dairy Queen,1.5940983606557375,0.0188264956108298,1525,847,450,228,sarcasm,neutral
+"Then she left me for a gelato, but you know how smooth those Italians are.",1.656042496679947,0.0197471141552558,1506,790,444,272,sarcasm,neutral
+"Now that you mention it, maybe that chocolate shell wasn’t really protecting me from the world after all",1.5943775100401607,0.0185095670290872,1494,808,484,202,self-deprecating,negative
+It’s just that there’s so much swirling in my head right now.,1.576607387140903,0.0184224012997187,1462,803,475,184,self-deprecating,neutral
+My childhood consisted of one licking after another.,1.624914442162902,0.0192989019682868,1461,774,461,226,incongruity-absurdity,neutral
+I seem to be suffering from brain freeze.,1.6216586703221385,0.0190645711773115,1459,767,477,215,wit-surprise,negative
+I think I was either dropped as a child or by a child,1.568181818181818,0.0195136202252892,1452,850,379,223,self-deprecating,negative
+"She said I was too cold, but at least the kids still love me.",1.6293222683264177,0.0196563966724926,1446,771,440,235,self-deprecating,positive
+Of course global warming has me concerned!,1.642407277816655,0.0196293386445745,1429,740,460,229,irony,negative
+And that's when I realized I have an edible complex.,1.654519971969166,0.020518100158702,1427,760,400,267,self-deprecating,neutral
+I feel women want only one thing from me,1.570113314447592,0.0194029066792198,1412,809,401,202,sarcasm,negative
+... and then everyone's screaming for ice cream and that's when I wake up.,1.6344238975817924,0.0200243075704841,1406,747,426,233,sarcasm,neutral
+I mean what are we all screaming for really?,1.64352856109906,0.0206276371106577,1383,741,394,248,sarcasm,negative
+"It’s always ‘who wants ice cream,’ and never ‘what does ice cream want?’",1.550256786500367,0.0208795087641489,1363,849,278,236,wit-surprise,neutral
+My biggest challenge is keeping my cool…,1.5691056910569106,0.0191921925017512,1353,754,428,171,self-deprecating,neutral

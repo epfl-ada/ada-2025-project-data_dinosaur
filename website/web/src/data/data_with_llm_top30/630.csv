@@ -1,0 +1,32 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,Gore was right. This is inconvenient.,2.255114735969036,0.0062182939395108,14468,2672,5433,6363,sarcasm,negative
+1,I clearly recall choosing hell over high water.,2.103173483779972,0.0064882619901578,14180,3576,5565,5039,exaggeration,negative
+2,Looks like we might be facing a row vs wade  decision,2.0265555642083948,0.0073972133023328,12841,4345,3810,4686,irony,neutral
+4,"Still want to vote Republican, Ed?",1.9023523438822136,0.007464502652284,11818,4524,3924,3370,sarcasm,neutral
+7,Please put your trunks on before the tide goes out!,1.88218094255246,0.007143215512836,11628,4215,4568,2845,incongruity-absurdity,neutral
+5,"Ok, but the moon landing was still a hoax.",1.8930712270803949,0.0074580861555637,11344,4250,4057,3037,sarcasm,negative
+10,It’s Florida. We stand our ground.,1.833980044345898,0.0075584323380462,10824,4394,3833,2597,irony,neutral
+3,Is your mom still in the lounge chair?,1.966448530175548,0.0083790358973982,9627,3420,3110,3097,sarcasm,neutral
+14,I’m just saying it might have been helpful to know that the travel agent is your ex-wife.,1.8113942712721145,0.0081133479717762,9496,4032,3223,2241,sarcasm,neutral
+11,I'd be worried if we believed in climate change,1.8317333620968608,0.0081478654975324,9271,3764,3303,2204,sarcasm,negative
+6,"On the bright side, at least we have a roof under our feet.",1.891084808339668,0.0083256272143565,9209,3495,3222,2492,incongruity-absurdity,positive
+17,I guess it wasn't fake news.,1.769940119760479,0.0085001751947649,8350,3700,2871,1779,exaggeration,neutral
+20,Not to say I told you so...but I suggested we see the glaciers 10 years ago.,1.738776517020227,0.00836434497591,8108,3635,2956,1517,exaggeration,neutral
+9,"ON the water, Frank. I said a nice place ON the water.",1.8459897075436171,0.008405560235055,7967,2950,3294,1723,unknown,neutral
+21,It's funny how an inch higher every year sneaks up on you.,1.7309823677581864,0.0083560532445613,7940,3556,2964,1420,self-deprecating,neutral
+26,"Well, at least no one can see your Speedo.",1.6983536909187469,0.0086748960959012,7532,3613,2578,1341,incongruity-absurdity,neutral
+12,"And to think this was the best table at Mar-a-Lago Club just
+5 years ago!",1.8229499098099071,0.0094462093201283,7207,3068,2347,1792,exaggeration,positive
+22,Just think how bad it would be if global warming were real.,1.724572587655752,0.0092907769589278,6902,3268,2267,1367,exaggeration,negative
+31,"Well, I suppose this is an inconvenient truth.",1.6825373784293802,0.0090410516677826,6889,3380,2316,1193,incongruity-absurdity,negative
+18,"For all of this talk of global warming, the water is still pretty cold.",1.7629402756508423,0.0093095598938832,6530,2805,2468,1257,irony,negative
+28,Do you feel like we’re drifting apart?,1.6957923585361925,0.0097657303322684,6203,3065,1960,1178,sarcasm,neutral
+41,"Okay, so maybe this doesn't prove global warming. Except that - WE'RE IN KANSAS!",1.6332359623498864,0.0095426798431205,6162,3273,1876,1013,irony,neutral
+16,"Truth is, this is inconvenient.",1.7746177872760152,0.0098616258844967,6083,2639,2176,1268,incongruity-absurdity,negative
+30,How could this happen? Didn’t we vote against science?,1.6836427939876215,0.0103257510005855,5655,2882,1680,1093,irony,negative
+32,Fake tide. I'm certain of it.,1.6803652968036529,0.0103695853166051,5475,2766,1693,1016,exaggeration,negative
+38,"I will stop humming the theme to ""Jaws"" after you admit Al Gore was right!",1.6483354791245173,0.0102110398439916,5437,2833,1683,921,sarcasm,neutral
+36,The brochure was right.....I have forgotten about my everyday cares!,1.6576542979675557,0.0102096042679834,5363,2731,1737,895,unknown,positive
+40,You're right. It's nicer up here on the roof.,1.644214487300094,0.010119346613357,5315,2728,1750,837,unknown,positive
+48,I thought you said they’d drain the swamp.,1.6093514328808447,0.010249083326582,5304,2918,1540,846,irony,neutral
+8,"Frankly, I didn’t believe the seafront would reach Iowa this quickly.",1.8720453213518264,0.0109671698016209,5119,1945,1884,1290,exaggeration,neutral

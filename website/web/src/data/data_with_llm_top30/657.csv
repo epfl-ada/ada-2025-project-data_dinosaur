@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+2176,So when did you first find yourself attracted to little dowgies?,1.3094339622641509,0.0367774228584455,265,202,44,19,sarcasm,neutral
+467,How can I help you if it's the same three chords every week?,1.414448669201521,0.0399229177502864,263,177,63,23,sarcasm,negative
+1280,Why is it so important to you that the little dogies get along?,1.349809885931559,0.0388156393022668,263,193,48,22,sarcasm,negative
+1082,"Yes, at two-hundred dollars an hour, it's perfectly fine to sing the cowboy blues.",1.3625954198473282,0.0371849974753177,262,184,61,17,wit-surprise,positive
+1216,"That's all the time we have, next week we'll work in C major.",1.353846153846154,0.0372515338246917,260,185,58,17,incongruity-absurdity,neutral
+3190,Could you yodel some more about your mother?,1.273076923076923,0.0352368072870746,260,205,39,16,sarcasm,neutral
+7027,"And this one, folks, is one of my favorites of James Taylor... ahem... ♪ ♫""There is a young cowboy, he lives on the range. His horse and his cattle are his only companions..."" ♫ ♪",1.103846153846154,0.0197234194202896,260,234,25,1,wit-surprise,positive
+653,Just because Cookie spends so much time in the chuckwagon doesn't mean he's avoiding you.,1.3953488372093024,0.0395420690027148,258,177,60,21,sarcasm,neutral
+5973,Maybe switch to polka music.,1.182170542635659,0.0281220244027626,258,218,33,7,unknown,neutral
+770,You've got to change your tune.,1.3852140077821011,0.0403022032798961,257,181,53,23,wit-surprise,neutral
+3936,"Specifically, HOW does it make you feel like a rolling stone?",1.2490272373540856,0.0326328884889793,257,204,42,11,self-deprecating,negative
+1478,And how long have you been seeing these ghost riders in the sky?,1.33984375,0.0361763098512639,256,183,59,14,sarcasm,neutral
+2958,Tell me about your ma and pa.,1.28125,0.0345112051993801,256,197,46,13,unknown,neutral
+2096,"While it's true that your wife left you for your best friend and they took your truck, there are still positive aspects to your situation.""",1.3125,0.0343443490799504,256,187,58,11,sarcasm,neutral
+3434,Your songs do suggest a fixation on your mama.,1.265625,0.0341065722707343,256,201,42,13,sarcasm,negative
+3295,"Well Doc, I'm having trouble believing that the deer and the antelope are playing.",1.26953125,0.0333032210226588,256,198,47,11,wit-surprise,negative
+692,"I know it can be difficult, but,  even though they’re seldom, you will hear a discouraging word now and again.",1.392156862745098,0.0406038095362657,255,178,54,23,wit-surprise,negative
+2586,So you say your whole life feels like a country-Western song—or just the divorce?,1.2941176470588236,0.0344661253191116,255,192,51,12,sarcasm,neutral
+1455,"Just three chords and the truth, please.",1.3411764705882352,0.0383618645912144,255,187,49,19,wit-surprise,neutral
+4488,"Slow down, easy - ok, think I got it, 'Mama, just killed a man...",1.231372549019608,0.031273968941626,255,205,41,9,sarcasm,neutral
+1363,"So you never actually felt at home on the range?"" - Tory Hoen, Brooklyn, N",1.3450980392156864,0.0384249442434399,255,186,50,19,sarcasm,neutral
+4083,"If your mother was,in fact,a finger picker,that would be something to think about next session.",1.2440944881889764,0.0332079659713897,254,204,38,12,wit-surprise,negative
+2541,Sometimes a dogie is just a dogie.,1.295275590551181,0.0345825531849709,254,191,51,12,incongruity-absurdity,neutral
+219,Can you tell me when the trails first stopped being happy?,1.4566929133858268,0.0415652672255646,254,162,68,24,sarcasm,neutral
+3937,"So, what do you think makes you lonesome?",1.2490118577075098,0.0324927547374437,253,200,43,10,self-deprecating,neutral
+6724,"Twang, ting, ting, ting, ting, ting, twang, twang, twang.""",1.1422924901185771,0.0246938308225138,253,221,28,4,unknown,neutral
+4061,Interesting.  And how does it feel to be strummed by this cowboy-like guy you've described?,1.245059288537549,0.0323704142451972,253,201,42,10,sarcasm,neutral
+421,"In clinical terms, we call that a hurtin’ song.",1.4206349206349207,0.0412088677802884,252,169,60,23,sarcasm,negative
+5150,"It's just a thought, but have you ever considered playing with your right hand, instead?",1.2103174603174602,0.0297157571356668,252,206,39,7,sarcasm,neutral
+2942,Do you have an air guitar version?,1.281746031746032,0.0335027075498862,252,191,51,10,wit-surprise,neutral

@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+It’s an honor to work with a giant in the field.,1.6760287393860225,0.0136118829183164,3062,1525,1004,533,sarcasm,positive
+I’m here to conduct your exit interview.,1.744280442804428,0.0151893841536101,2710,1282,839,589,sarcasm,neutral
+That concludes our study. You can see yourself out.,1.679579413392363,0.0178643321153216,1807,903,580,324,sarcasm,neutral
+We have to let you go.  You’ve outgrown your position here.,1.6598984771573604,0.0177147220877128,1773,897,582,294,incongruity-absurdity,negative
+"You find the cheese, I'll find the wine and we'll meet back here.",1.6323103647944412,0.0178289989568595,1727,908,546,273,incongruity-absurdity,neutral
+I'd ask directions but I'm a man.,1.631831831831832,0.0187623920791529,1665,907,464,294,wit-surprise,neutral
+"For you, it’s cheese. Me, it’s tenure.",1.627710843373494,0.0182966099534393,1660,885,508,267,self-deprecating,neutral
+"The restroom?  Third door on your right, then left, left again, then right, right and left. You can’t miss it.",1.7161916312916918,0.0190979532601467,1649,796,525,328,sarcasm,positive
+Just climb over the walls. It’ll drive the researchers crazy.,1.6403669724770642,0.0188823369994974,1635,876,471,288,incongruity-absurdity,neutral
+"Look, I'm gonna be straight with you; there's no way out.""",1.5971502590673574,0.0190152808919275,1544,867,432,245,sarcasm,neutral
+"I was hoping you'd get us both out, actually.",1.646864686468647,0.0189775374247707,1515,775,500,240,sarcasm,neutral
+I've been asked to duplicate my results using a larger sample.,1.6058394160583942,0.0192369653907761,1507,834,433,240,irony,neutral
+You're welcome to run through the cubicles. Everyone works from home.,1.636058981233244,0.0196319503833667,1492,799,437,256,sarcasm,neutral
+"At this point, I’m no longer sure which one of us they’re testing.",1.7245386192754617,0.0203295420961568,1463,699,468,296,sarcasm,negative
+Steroids in the cheese?  Why do you ask?,1.636875439831105,0.0203134749720805,1421,768,401,252,sarcasm,neutral
+"The results are preliminary, but there do seem to be some side effects.",1.590941768511862,0.0194074309182634,1391,765,430,196,wit-surprise,negative
+"This is embarrassing, but can you help me find the way out?",1.5903179190751444,0.0196718427931714,1384,770,411,203,self-deprecating,negative
+"I'm new here, but you seem to know your way around.",1.6150474799123449,0.0190848525664524,1369,706,484,179,sarcasm,positive
+The goal is to find the cheese and avoid Brenda in accounting.,1.6093272171253823,0.0206269442393773,1308,719,381,208,incongruity-absurdity,neutral
+"Sure, if you can find your way out, you can work remotely.",1.6602830974188176,0.022217410086551,1201,629,351,221,sarcasm,neutral
+You've made it to the end. Would you mind taking an exit poll?,1.6220677671589925,0.0218613930643873,1151,616,354,181,unknown,neutral
+Do you mind if I follow you out?,1.6388616290480864,0.0231742676751606,1019,529,329,161,sarcasm,neutral
+"Look, I give you cheese, you get me out",1.5645833333333334,0.0229285130691671,960,542,294,124,unknown,neutral
+I'm thinking you're not on the placebo mixture.,1.5928270042194093,0.0240399684853493,948,531,272,145,sarcasm,neutral
+We're transferring you to the New York subway.,1.5993555316863588,0.0249633808547649,931,531,242,158,sarcasm,neutral
+We would start you off with cheese. No insurance. No retirement. No chance for advancement. Just cheese.,1.5612903225806452,0.0237420396539261,930,537,264,129,incongruity-absurdity,neutral
+This would have been a lot simpler if you hadn't eaten the BREADCRUMBS!,1.5674217907227617,0.0237339000092755,927,529,270,128,incongruity-absurdity,negative
+"In this case, thinking outside the box would be beneficial.",1.5766738660907127,0.0239191952879944,926,524,270,132,wit-surprise,positive
+I assume you know your way out,1.590465872156013,0.0235306829599185,923,502,297,124,sarcasm,neutral
+"Sure, I created it. That doesn't mean I remember every detail.",1.5607375271149675,0.022894590845375,922,514,299,109,self-deprecating,neutral

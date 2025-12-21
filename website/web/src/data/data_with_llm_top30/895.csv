@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+Do you think death rays would be considered electronics or sporting goods?,1.6322869955156951,0.0120043381013845,4014,2170,1150,694,sarcasm,negative
+"What do they mean ""Space for Rent""?",1.6169700214132765,0.0127962687002443,3736,2132,903,701,irony,neutral
+"If they know where we are, then they’re more advanced than we thought.",1.5725098395398125,0.0130393818016062,3303,1935,845,523,irony,positive
+"To Bed, Bath, and Beyond!",1.6205042016806723,0.0139531369223474,2975,1640,824,511,unknown,neutral
+"Dairy Queen, that must be their leader",1.585814038956266,0.0143318883278847,2721,1557,734,430,irony,neutral
+What happened to Radio Shack? Now we'll never get home.,1.5811933534743203,0.0149402495077399,2648,1569,619,460,sarcasm,negative
+Let's start with a store that sell pants.,1.562265722615577,0.0148628632979145,2401,1392,668,341,incongruity-absurdity,neutral
+We found earth. We’ll find Target.,1.5719745222929935,0.015174705947764,2355,1358,647,350,incongruity-absurdity,positive
+I assume their leader is this “Burger King.”,1.5801199657240788,0.015166456279591,2334,1322,670,342,sarcasm,neutral
+"So, this is where earthlings go before they shop online.",1.5524017467248907,0.0164949640628832,2290,1455,405,430,irony,neutral
+The currency exchange store has to be the one called Starbucks.,1.5789473684210529,0.0158403272331413,2280,1334,572,374,wit-surprise,neutral
+Admit it—you forgot what level we landed on.,1.5500459136822773,0.0153488973401175,2178,1269,620,289,incongruity-absurdity,negative
+If I could read a map we wouldn't be here.,1.553438661710037,0.0162468218069277,2152,1306,501,345,sarcasm,negative
+Their ability to track us has advanced significantly.,1.5579815623483746,0.0156835524912732,2061,1179,614,268,irony,neutral
+"We can still get home. I saw a sign ""space available""",1.5459057071960298,0.0162339383300181,2015,1200,530,285,incongruity-absurdity,neutral
+We’re good; they’re all looking at their phones.,1.599002493765586,0.0168706046219153,2005,1135,539,331,sarcasm,neutral
+I thought this was a strip mall!,1.5676634566649772,0.0171788850957015,1973,1185,456,332,unknown,neutral
+Cancel the invasion -- they know we are here.,1.569567483064096,0.0163212628281689,1919,1081,583,255,sarcasm,negative
+I've never heard of planet fitness.,1.626694473409802,0.0178743630407754,1918,1079,476,363,sarcasm,neutral
+"You guided us for thousands of light-years without getting lost, but you can’t remember which entrance we used?",1.5648854961832062,0.0172021339264875,1834,1070,492,272,wit-surprise,negative
+"Oh sure, now you look at a map.",1.6321709786276717,0.0182944028455269,1778,976,480,322,sarcasm,neutral
+"These earthlings are smarter than we thought, they know exactly where we are!",1.5492468134414832,0.0177997211779082,1726,1036,432,258,irony,positive
+"These humans are very clever, they already know where we are",1.5340282035561006,0.0178794139054438,1631,982,427,222,irony,positive
+"Wait, was it ""conquer the mall"" or ""conquer them all""?",1.62426614481409,0.0200866200138967,1533,870,369,294,wit-surprise,neutral
+"Should we abduct one now, or wait until they go on sale?""",1.5291039895356442,0.0183531026863939,1529,923,403,203,sarcasm,neutral
+We knew they were litigious- but a food court?,1.5755775577557756,0.0191379449048816,1515,878,402,235,incongruity-absurdity,neutral
+Now all we need is a map of the galaxies.,1.5268096514745308,0.0207944751251983,1492,1001,196,295,wit-surprise,neutral
+Always the map! Why won't you ask someone?,1.5501022494887526,0.0189594904642215,1467,865,397,205,sarcasm,negative
+You said this was uncharted territory.,1.5262793914246195,0.0180996049131562,1446,847,437,162,irony,neutral
+They deny our existence but know where we are?,1.602076124567474,0.0197536051150422,1445,809,402,234,irony,neutral

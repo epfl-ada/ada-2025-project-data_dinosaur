@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+We have a stalker.,2.094058500914077,0.0074332026275891,10940,2838,4234,3868,sarcasm,neutral
+I thought you said the cloud was secure.,2.143002544529262,0.0074631550179606,9825,2086,4248,3491,sarcasm,neutral
+So much for the security of cloud-based meetings.,1.821144956738177,0.0080959632663262,8437,3222,3502,1713,irony,negative
+"Now that he's hacked the cloud, do you think he'll spill the beans?",2.062126642771804,0.008584136612022,8370,2337,3176,2857,sarcasm,neutral
+No one here seems to know Jack.,1.8741505488761108,0.0089616053884389,7652,2893,2829,1930,wit-surprise,neutral
+And that’s when jack realized bean stalks lead to bean counters.,1.6935419705609336,0.0088235551642435,7541,3723,2406,1412,incongruity-absurdity,neutral
+Giant? Next floor.,1.7655124653739611,0.0088193266359308,7220,3072,2769,1379,incongruity-absurdity,neutral
+Great...just what we need: Another bean counter!,1.8746303962152573,0.0094598837875418,6764,2524,2564,1676,sarcasm,positive
+"Team, this is Jack.  He is running cloud security, with a focus on cyber-stalking.",1.756723338485317,0.009459321376546,6470,2851,2342,1277,irony,neutral
+"As you can see, stalks are up.",1.7151057897326554,0.0097014788094281,6097,2865,2104,1128,irony,neutral
+And by 3rd quarter we should see giant returns.,1.8082293800037237,0.0103547225876479,5371,2160,2081,1130,exaggeration,positive
+"Ah, good timing, Jack. We were just discussing the importance of seed money.",1.6765923880891342,0.0104052741551297,5071,2477,1757,837,sarcasm,positive
+"He's got his fairy tale, and I've got mine.",1.659483838636933,0.0125052725939478,3991,2156,1038,797,irony,neutral
+"Young man, I like your style. A bean counter with high aspirations willing to go out on a limb for the company.",1.6614516542703257,0.011813666152727,3899,1944,1331,624,wit-surprise,positive
+I said LL Bean stock!,1.683702737940026,0.0123850124313544,3835,1926,1196,713,exaggeration,neutral
+"...And the bad news is, it appears our cloud based solution has been breached once again.""",1.6561470911086718,0.0123176365115452,3644,1849,1199,596,irony,negative
+We migrated everything to the Cloud and we're still getting jacked.,1.6599660249150625,0.0124934186887569,3532,1778,1177,577,irony,negative
+"Well, that explains the cow in the breakroom.",1.6643757159221078,0.0129254592188236,3492,1801,1062,629,unknown,neutral
+Jack's rise to the corporate board room was nothing short of magical,1.6552840741831027,0.0125027892556665,3397,1689,1190,518,wit-surprise,positive
+"Next we'll hear from Jack, with a presentation on the power of just a little seed capital.",1.6784114661092864,0.012847296507925,3349,1637,1152,560,sarcasm,neutral
+"No, we have it booked until two.",1.6823279781752043,0.0131208402412701,3299,1629,1090,580,sarcasm,neutral
+"Higher, Jack.  Do it for the stalkholders.",1.6493911957539806,0.0141561422754853,3203,1786,754,663,sarcasm,neutral
+I guess everything is moving to the cloud now,1.6464546056991385,0.0134197308857066,3018,1542,1001,475,irony,neutral
+"Actually, we changed the corporate motto from fee-fi-fo-fum to fees-fees-fees-fees.",1.6482537419814682,0.015046047681184,2806,1558,677,571,unknown,neutral
+"I'm sorry son. You'll have to use the corporate ladder. Unfortunately, it's a myth too",1.642279411764706,0.014102889673774,2720,1396,901,423,sarcasm,negative
+It looks like the cloud is not as secure as we were led to believe.,1.6376582278481011,0.0139999818903556,2528,1250,944,334,irony,negative
+"Please hold on tight, the meeting host will let you in soon.",1.78963282937365,0.0155814026299822,2315,947,909,459,sarcasm,neutral
+"Actually, we all DID die wishing we'd spent more time at the office.",1.6327066025360737,0.0158262189340642,2287,1229,669,389,sarcasm,negative
+And you can see behind you just how good our GMO products have become,1.6320965578900313,0.0156699780982286,2237,1177,706,354,irony,positive
+"Apparently, the cloud isn't as secure as we thought.",1.6326718966312874,0.0157179788650292,2167,1124,715,328,unknown,negative

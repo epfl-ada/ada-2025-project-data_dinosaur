@@ -1,0 +1,31 @@
+caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+"There was a little mix-up here. Dr. Mason is an osteopath. I’m Dr. Manson, a psychopath.",1.8032432432432433,0.013715935692994,3700,1723,982,995,self-deprecating,neutral
+It’s usually non-invasive.,1.7705728409421344,0.0129211916139312,3439,1472,1284,683,incongruity-absurdity,neutral
+"It could be inpatient, it could be outpatient.",1.7232727272727273,0.0148647597615262,2750,1321,869,560,incongruity-absurdity,neutral
+Just let me know if you feel a sharp pain.,1.7262426900584795,0.01440134182539,2736,1253,979,504,sarcasm,negative
+It's only surgery if I miss.,1.76937134502924,0.0146657804387766,2736,1194,981,562,sarcasm,negative
+It’s going to work a lot faster than the prune juice.,1.8250936329588017,0.0159517066987563,2670,1181,775,714,sarcasm,positive
+Statistically you should be fine.,1.7408239700374533,0.0145114167872943,2670,1186,990,494,self-deprecating,neutral
+Your results may vary.,1.7397572078907435,0.0147710426666019,2636,1188,945,503,incongruity-absurdity,neutral
+Your hiccups are gone.,1.7243222604047346,0.0150690630850421,2619,1239,863,517,self-deprecating,neutral
+Most patients seem to prefer facing the wall,1.7178198685736374,0.0147018825486601,2587,1191,935,461,unknown,neutral
+It's our latest cardiac stress test.,1.6963288108539505,0.0149012389994917,2506,1193,881,432,irony,neutral
+"Of course if you’d like to give the blood, urine and stool samples the usual way, that’s totally up to you.",1.7737284741690027,0.0159981623323496,2497,1144,774,579,sarcasm,neutral
+"As you can see, the chances for your survival are very, very good.",1.73573452043707,0.0147309385030097,2471,1075,974,422,unknown,positive
+"It's more ""hit or miss"" than other diagnostic tools.",1.7233169129720851,0.0152722809708041,2436,1122,866,448,wit-surprise,negative
+Your HMO said this is the only procedure covered under your plan.,1.7593360995850622,0.0160331136981646,2410,1106,778,526,irony,neutral
+"Okay, the hiccups are gone.  Now let's talk about your anxiety.",1.7643630308076603,0.0155394344884651,2402,1046,876,480,self-deprecating,neutral
+This is the option covered by your insurance,1.8428750522356871,0.0165873669638998,2393,1005,759,629,incongruity-absurdity,neutral
+It cures all kinds of ailments.  The last patient had constipation. No longer a problem.,1.765814830330959,0.0162616310712426,2387,1098,750,539,wit-surprise,positive
+I can do your vasectomy between shows this afternoon.,1.7213045319779754,0.0161128733932168,2361,1144,731,486,sarcasm,neutral
+I’m just going to do a quick check of your reflexes.,1.7114322141946452,0.0153091410694255,2353,1086,860,407,unknown,neutral
+In our double blind study we both close our eyes and hope for the best.,1.686660698299015,0.0162338373278799,2234,1117,700,417,sarcasm,positive
+You should buy a lottery ticket on your way home.,1.6913752913752913,0.0165108380979052,2145,1060,687,398,sarcasm,neutral
+We've found it's a much more effective stress test than a treadmill.,1.753616425571629,0.016645900032273,2143,965,741,437,incongruity-absurdity,positive
+"Trust me.  One way or another, this will stop your hiccups.",1.731399157697707,0.0164141516206476,2137,979,753,405,sarcasm,positive
+"Okay, now let’s recheck that blood pressure.",1.7688299384178114,0.0165036076150554,2111,907,785,419,sarcasm,neutral
+Still have the hiccups?,1.695843520782396,0.0164623689345559,2045,972,723,350,self-deprecating,neutral
+You shouldn’t feel a thing.,1.653551354113439,0.0183084567115558,1957,1098,439,420,sarcasm,negative
+We’ve had trouble finding your vein.,1.6579754601226997,0.0177455271700825,1956,1051,523,382,unknown,negative
+"It says we should do no harm, but it doesn’t say we have to be boring about it.",1.724804177545692,0.0176665726557313,1915,908,626,381,incongruity-absurdity,negative
+"Are we ready for your stress test, Mr. Henderson?",1.7236497115888831,0.0174229821549297,1907,888,658,361,irony,neutral

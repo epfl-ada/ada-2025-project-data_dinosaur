@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,You might want to rethink your ringtone,1.967373572593801,0.0181709122799322,1839,589,721,529,sarcasm,neutral
+19,I didn't know they still made Cracker Jacks.,1.653757225433526,0.020844160074916,1730,1053,223,454,wit-surprise,neutral
+0,You shouldn't have opened that can of worms.,1.968568102444703,0.019225463195658,1718,573,626,519,incongruity-absurdity,negative
+2,"Normally, one in the hand is sufficient.",1.919291338582677,0.0198773955184926,1524,525,597,402,wit-surprise,neutral
+11,Maybe because they took down that Confederate statue.,1.754163890739507,0.0199520463940687,1501,678,514,309,irony,negative
+5,You have got to stop tweeting.,1.8572428271518544,0.0208473860833048,1429,560,513,356,sarcasm,negative
+3,"It could be worse, squirrels would be after your nuts.",1.9001426533523536,0.0221308945870395,1402,558,426,418,incongruity-absurdity,negative
+9,My favorite? Rear Window. You?,1.7607900512070227,0.0212948833314978,1367,626,442,299,wit-surprise,positive
+8,Is that a new suet you're wearing?,1.7731225296442688,0.0223943035590677,1265,577,398,290,sarcasm,neutral
+21,The seeded bagel may not have been your best choice.,1.6348122866894197,0.0210080823475326,1172,595,410,167,incongruity-absurdity,negative
+13,I ‘ve often wondered what happens if you exceed 140 characters,1.7141615986099044,0.0228144581809634,1151,556,368,227,irony,neutral
+14,Why do birds suddenly appear every time you are near?,1.7126546146527115,0.0244410431508067,1051,524,305,222,incongruity-absurdity,neutral
+4,THE St. Francis?,1.863817097415507,0.0253233042303964,1006,402,339,265,irony,neutral
+23,Impressive bird call.,1.608649789029536,0.0233579246992,948,503,313,132,unknown,positive
+18,I see your application for seed money was approved.,1.6596218020022246,0.024682877880285,899,451,303,145,sarcasm,neutral
+6,I think you're supposed to scatter it on the ground.,1.8469505178365937,0.0260189366672818,869,332,338,199,incongruity-absurdity,neutral
+27,Is that a new suet?,1.5926829268292684,0.0263404762271271,820,468,218,134,incongruity-absurdity,neutral
+10,"Dad, that's not what it means to have Twitter followers.",1.7553324968632371,0.0270817103427411,797,354,284,159,sarcasm,negative
+25,That was one hell of a bird call.,1.6053639846743295,0.0261608913084686,783,425,242,116,unknown,positive
+16,You need to establish a pecking order.,1.6908150064683054,0.0266272044015176,773,368,276,129,incongruity-absurdity,neutral
+28,Maybe you need to close your twitter account?,1.589378238341969,0.026144009632351,772,427,235,110,sarcasm,negative
+7,It's called a cluster flock.,1.8415147265077136,0.0309756454008795,713,309,208,196,incongruity-absurdity,negative
+15,":What was it like, working for Hitchcock?""",1.692745376955903,0.029090500017099,703,350,219,134,sarcasm,neutral
+29,"Psst. It's me, Spicer. Are they gone yet?",1.5784883720930232,0.0286424278209764,688,400,178,110,sarcasm,neutral
+17,Awesome! Now do the mating call of the black-throated green warbler.,1.6749271137026238,0.0283811909784064,686,337,235,114,sarcasm,positive
+30,Do they bother you ?,1.573643410852713,0.0320151488794726,645,409,102,134,sarcasm,neutral
+35,So...you’re from Capistrano?,1.5612582781456954,0.0287351678518176,604,341,187,76,wit-surprise,neutral
+36,You're a chick magnet.,1.5602716468590832,0.0298751756646748,589,341,166,82,sarcasm,positive
+12,I didn't say you couldn't replicate their mating call. I said you shouldn't.,1.7435897435897436,0.0318945941719217,585,268,199,118,wit-surprise,neutral
+31,Do you mind. I came here to get away from incessant tweeting.,1.5692307692307692,0.0295066443596885,585,329,179,77,sarcasm,neutral

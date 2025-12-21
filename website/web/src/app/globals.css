@@ -1,0 +1,174 @@
+/* ----------------------------------------
+   🎨 Global Fonts
+----------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Reenie+Beanie&family=Bangers&family=Permanent+Marker&family=Comic+Neue:wght@400;700&display=swap');
+
+/* ----------------------------------------
+   🎨 Root Variables (colors, spacing)
+----------------------------------------- */
+:root {
+  --color-cream: #FDFDF8;
+  --color-dark: #1A1A1A;
+  --color-red: #E63946;
+  --color-blue: #457B9D;
+  --color-orange: #F4A261;
+  --color-teal: #2A9D8F;
+  --color-coral: #E76F51;
+  --color-brown: #8D5B4C;
+
+  --spacing-base: 8px;
+}
+
+/* ----------------------------------------
+   🌍 Base Styles (override Tailwind defaults)
+----------------------------------------- */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: var(--color-cream);
+  color: var(--color-dark);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', Georgia, serif;
+  line-height: 1.2;
+}
+
+h1 { font-size: 48px; }
+h2 { font-size: 36px; }
+h3 { font-size: 28px; }
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* ----------------------------------------
+   ⚡ Interaction / Selected State Helpers
+----------------------------------------- */
+.selected-state {
+  transform: translateZ(0) scale(1.02);
+  transition: transform 180ms ease, box-shadow 180ms ease, opacity 200ms ease;
+  z-index: 10;
+}
+
+.interactive-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 3px solid #1A1A1A;
+  background: white;
+  box-shadow: 4px 4px 0 #1A1A1A;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.interactive-cta:hover {
+  transform: translateY(-3px) scale(1.01);
+}
+
+.halftone {
+  background-image: radial-gradient(rgba(0,0,0,0.02) 1px, transparent 1px);
+  background-size: 6px 6px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ----------------------------------------
+   💬 Comic Book Theme Classes
+----------------------------------------- */
+.comic-text {
+  font-family: 'Comic Neue', 'Comic Sans MS', cursive;
+  letter-spacing: 0.5px;
+}
+
+.comic-title {
+  font-family: 'Bangers', cursive;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.handwritten {
+  font-family: 'Permanent Marker', cursive;
+}
+
+/* Comic panel borders */
+.comic-panel {
+  border: 4px solid #1A1A1A;
+  box-shadow: 8px 8px 0px #1A1A1A;
+  position: relative;
+}
+
+.comic-panel::before {
+  content: '';
+  position: absolute;
+  inset: -8px;
+  border: 2px solid #1A1A1A;
+  pointer-events: none;
+}
+
+/* Speech bubble */
+.speech-bubble {
+  background: white;
+  border: 3px solid #1A1A1A;
+  border-radius: 40% 60% 60% 40% / 60% 40% 60% 40%;
+  padding: 20px;
+  box-shadow: 4px 4px 0px #1A1A1A;
+}
+
+/* Thought bubble */
+.thought-bubble {
+  background: white;
+  border: 3px solid #1A1A1A;
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 4px 4px 0px #1A1A1A;
+}
+
+/* Starburst */
+.starburst {
+  background: #F4A261;
+  clip-path: polygon(
+    50% 0%, 61% 35%, 98% 35%, 68% 57%, 
+    79% 91%, 50% 70%, 21% 91%, 32% 57%, 
+    2% 35%, 39% 35%
+  );
+}
+
+/* Halftone effect */
+.halftone {
+  background-image: radial-gradient(circle, #1A1A1A 1px, transparent 1px);
+  background-size: 8px 8px;
+}
+
+/* ----------------------------------------
+   🖱️ Custom Scrollbar
+----------------------------------------- */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-red);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d32f3d;
+}

@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+1,You must be kidding. I've got tickets for 'Hamilton' tonight.,1.8446153846153843,0.0316023860933672,650,269,213,168,sarcasm,positive
+0,Let me guess...the Gym Reaper?,1.9225908372827805,0.0335091058839584,633,251,180,202,sarcasm,neutral
+2,We're divorced---but I'd be delighted to give you his current address.,1.8088962108731463,0.0330515309224665,607,270,183,154,sarcasm,positive
+3,"No, I get it. I just think it's a little insulting that he sends an intern.",1.782122905027933,0.0338348062743668,537,236,182,119,sarcasm,negative
+4,It's for you honey,1.7637130801687764,0.0378699707747865,474,230,126,118,sarcasm,positive
+6,"Harold, it’s for you.",1.7526427061310783,0.037386681943064,473,229,132,112,sarcasm,neutral
+8,He's in the kitchen washing the toaster.,1.7478260869565216,0.0393387988076776,460,236,104,120,incongruity-absurdity,neutral
+5,"So this is your idea of ""dressed to kill""?",1.753303964757709,0.0367903756000891,454,209,148,97,sarcasm,negative
+9,"Well, if it isn't the Gym Reaper.",1.735763097949886,0.0381156974961475,439,213,129,97,wit-surprise,negative
+11,Good luck getting him off the couch.,1.722488038277512,0.0381590021128218,418,201,132,85,sarcasm,neutral
+12,When he finishes the dishes.,1.715346534653465,0.0390494043228493,404,198,123,83,incongruity-absurdity,neutral
+13,"Honey, it's for you!",1.7139303482587065,0.041084749766517,402,210,97,95,sarcasm,positive
+15,"I was planning to move to Canada, but this works too.",1.6925064599483204,0.0422303533515696,387,211,84,92,sarcasm,positive
+14,The last man in my life and still a disappointment.,1.6992084432717678,0.0415820653475688,379,198,97,84,self-deprecating,negative
+16,"Any wheat you need reaped, or your husband, lover, neighbors, etc?",1.691891891891892,0.0361960849256786,370,164,156,50,sarcasm,neutral
+17,"No, I'm not ready. This is just the way I look without my makeup.",1.680672268907563,0.0435999846906604,357,196,79,82,self-deprecating,negative
+10,"Yeah well, you don't look like your Tinder profile picture, either.",1.7294117647058824,0.0437986617259324,340,169,94,77,sarcasm,negative
+18,You call that dressed to kill?,1.6705882352941177,0.0417708275385434,340,175,102,63,unknown,negative
+19,"He's out right now but as long as you're here could you trim the hedge?""",1.668639053254438,0.0400699498516888,338,166,118,54,sarcasm,neutral
+20,Hold on. Let me get my husband.,1.668639053254438,0.044630531117185,338,188,74,76,sarcasm,neutral
+21,Come back on Nov. 9th and I’ll let you know.,1.6646706586826348,0.0437044821769262,334,181,84,69,sarcasm,neutral
+22,"He moved out, but I'll get you his new address.",1.6626506024096386,0.0431084855974038,332,177,90,65,sarcasm,neutral
+7,"We divorced 10 years ago, but I'll be happy to give you his address.",1.7522935779816513,0.0457306328494991,327,162,84,81,sarcasm,neutral
+23,Thank God you're here. One more debate and I would've done it myself.,1.653125,0.0443183388089012,320,175,81,64,sarcasm,positive
+24,"No, I won't ""Like, go with you and stuff.""",1.652037617554859,0.0442217428829651,319,174,82,63,sarcasm,neutral
+25,Sure. Just let me get his Netflix password before you talk to him.,1.6518987341772151,0.0420143852389053,316,162,102,52,sarcasm,neutral
+26,Come back on November the 9th and we'll talk.,1.6487341772151898,0.04369068281944,316,170,87,59,sarcasm,neutral
+27,Get a life.,1.632996632996633,0.0448702430757335,297,163,80,54,sarcasm,negative
+29,So much for death with dignity.,1.627986348122867,0.0424883083457321,293,152,98,43,exaggeration,negative
+28,"I see fashion's dead, too.",1.63013698630137,0.0447359351580561,292,159,82,51,exaggeration,negative

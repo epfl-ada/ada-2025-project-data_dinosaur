@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+0,"If you see something, say something.",1.9327902240325865,0.0416213086814027,491,226,72,193,unknown,neutral
+1,Our chef trained at the Paris Metro.,1.7910958904109588,0.0468185765959817,292,130,93,69,unknown,neutral
+2,"Sorry for the wait, but it's been like Grand Central Station in here.",1.7666666666666666,0.0489881085470436,270,126,81,63,sarcasm,neutral
+3,Before this I was a bus-boy.,1.7640449438202248,0.0500815745615768,267,128,74,65,unknown,neutral
+4,"I can arrange a violinist for 25¢. For $1, I can make him go away.",1.751937984496124,0.0500541183017168,258,123,76,59,wit-surprise,neutral
+5,"Let me guess, you don't like this table either?",1.75,0.0507299656195892,256,124,72,60,sarcasm,negative
+6,"The restroom is located just behind you, sir.",1.7470355731225296,0.0534009130765349,253,131,55,67,sarcasm,neutral
+7,Is this far enough away from the kitchen for you?,1.745019920318725,0.0498094016470447,251,118,79,54,sarcasm,neutral
+8,Is this far enough away from the kitchen?,1.7344398340248963,0.0514324795694415,241,117,71,53,incongruity-absurdity,neutral
+9,"""Your drinks will arrive at 7:03, appetizers at 7:22, entrees at 7:52, dessert and coffee at 8:41.",1.7173913043478262,0.0490328785403188,230,105,85,40,exaggeration,neutral
+10,I trust this is far enough away from the kitchen?,1.7085201793721974,0.0539427966203012,223,114,60,49,sarcasm,neutral
+11,Celebrating a not-so-special occasion?,1.7058823529411764,0.0543996729090498,221,114,58,49,unknown,neutral
+12,"My name is Terence, and I'm one of many people who will be asking you for money tonight.",1.6859903381642511,0.0570093619591062,207,112,48,47,sarcasm,neutral
+13,"Is this far enough away from the kitchen for you, sir?",1.6859903381642511,0.0527356255118908,207,102,68,37,sarcasm,neutral
+14,Is this table far enough from the kitchen for you?,1.671641791044776,0.0556124557008453,201,106,55,40,sarcasm,neutral
+15,"Sorry, sir, we only accept Metrocard.",1.6649746192893402,0.0547846250819681,197,102,59,36,sarcasm,neutral
+16,"Good evening, my name is Charles and I will be your waiter for the next twelve minutes.",1.6615384615384616,0.0528494283729049,195,97,67,31,sarcasm,positive
+17,"For a Long Island Iced Tea, you'll have to go to the next stop. How about a Manhattan?",1.65625,0.057515576651822,192,105,48,39,wit-surprise,neutral
+18,"Oh, that's not the price. That's when it arrives.",1.6526315789473685,0.0530531708432454,190,95,66,29,sarcasm,neutral
+19,Another waiter will be along every ten minutes or so.,1.6507936507936507,0.0578597753283436,189,104,47,38,incongruity-absurdity,neutral
+20,Apologies for the delay. We have limited service on the weekends.,1.6507936507936507,0.0533026077042935,189,95,65,29,sarcasm,neutral
+21,"If you'd like vegetarian, you'll have to transfer to the green line.",1.6507936507936507,0.0527719688636682,189,94,67,28,incongruity-absurdity,neutral
+22,"Next time, maybe you shouldn't complain about being seated near the kitchen.",1.6451612903225807,0.05820642029032,186,103,46,37,sarcasm,neutral
+23,Would you like that charbroiled or third-railed?,1.6327683615819208,0.0564104367550728,177,94,54,29,incongruity-absurdity,neutral
+24,"We accept American Express, Visa, and MetroCard.",1.630681818181818,0.054354033704309,176,90,61,25,unknown,neutral
+25,Look at these prices! I told you we should have gone to the bus station.,1.630681818181818,0.0578270816273789,176,96,49,31,exaggeration,negative
+26,"I'm sorry, this is not my station",1.630681818181818,0.0572628702092768,176,95,51,30,sarcasm,negative
+27,Would you like to see our wino list?,1.630681818181818,0.0578270816273789,176,96,49,31,sarcasm,neutral
+28,"You forgot to tip the maître d', didn't you?",1.6285714285714286,0.0586820614011116,175,97,46,32,sarcasm,negative
+29,"We accept Visa, Discover, and MetroCard.",1.6242774566473988,0.0587137625332478,173,96,46,31,unknown,neutral

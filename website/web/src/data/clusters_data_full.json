@@ -1,0 +1,1011 @@
+{
+  "section1": {
+    "distributions": {
+      "image_descriptions": [
+        {
+          "name": "Incongruity & Absurdity",
+          "value": 119,
+          "percentage": 44,
+          "color": "#2A9D8F",
+          "description": "Things that don't match or are illogical.",
+          "icon": "🌀"
+        },
+        {
+          "name": "Wit & Surprise",
+          "value": 68,
+          "percentage": 25,
+          "color": "#457B9D",
+          "description": "Clever humor or unexpected twists.",
+          "icon": "✨"
+        },
+        {
+          "name": "Irony",
+          "value": 52,
+          "percentage": 19,
+          "color": "#E9C46A",
+          "description": "The expression of one's meaning by using language that normally signifies the opposite.",
+          "icon": "😏"
+        },
+        {
+          "name": "Sarcasm",
+          "value": 27,
+          "percentage": 10,
+          "color": "#F4A261",
+          "description": "The use of irony to mock or convey contempt.",
+          "icon": "😒"
+        },
+        {
+          "name": "Exaggeration",
+          "value": 3,
+          "percentage": 1,
+          "color": "#E76F51",
+          "description": "Representing something as better or worse than it really is.",
+          "icon": "😲"
+        }
+      ],
+      "image_uncanny_descriptions": [
+        {
+          "name": "Incongruity & Absurdity",
+          "value": 243,
+          "percentage": 59,
+          "color": "#2A9D8F",
+          "description": "Things that don't match or are illogical.",
+          "icon": "🌀"
+        },
+        {
+          "name": "Irony",
+          "value": 95,
+          "percentage": 23,
+          "color": "#E9C46A",
+          "description": "The expression of one's meaning by using language that normally signifies the opposite.",
+          "icon": "😏"
+        },
+        {
+          "name": "Wit & Surprise",
+          "value": 52,
+          "percentage": 13,
+          "color": "#457B9D",
+          "description": "Clever humor or unexpected twists.",
+          "icon": "✨"
+        },
+        {
+          "name": "Sarcasm",
+          "value": 19,
+          "percentage": 5,
+          "color": "#F4A261",
+          "description": "The use of irony to mock or convey contempt.",
+          "icon": "😒"
+        },
+        {
+          "name": "Exaggeration",
+          "value": 2,
+          "percentage": 0,
+          "color": "#E76F51",
+          "description": "Representing something as better or worse than it really is.",
+          "icon": "😲"
+        }
+      ],
+      "questions": [
+        {
+          "name": "Incongruity & Absurdity",
+          "value": 88,
+          "percentage": 54,
+          "color": "#2A9D8F",
+          "description": "Things that don't match or are illogical.",
+          "icon": "🌀"
+        },
+        {
+          "name": "Irony",
+          "value": 33,
+          "percentage": 20,
+          "color": "#E9C46A",
+          "description": "The expression of one's meaning by using language that normally signifies the opposite.",
+          "icon": "😏"
+        },
+        {
+          "name": "Sarcasm",
+          "value": 25,
+          "percentage": 15,
+          "color": "#F4A261",
+          "description": "The use of irony to mock or convey contempt.",
+          "icon": "😒"
+        },
+        {
+          "name": "Wit & Surprise",
+          "value": 15,
+          "percentage": 9,
+          "color": "#457B9D",
+          "description": "Clever humor or unexpected twists.",
+          "icon": "✨"
+        },
+        {
+          "name": "Exaggeration",
+          "value": 1,
+          "percentage": 1,
+          "color": "#E76F51",
+          "description": "Representing something as better or worse than it really is.",
+          "icon": "😲"
+        }
+      ]
+    },
+    "radarData": [
+      {
+        "subject": "Irony",
+        "votesScore": 100,
+        "captionsScore": 67.6,
+        "votesRaw": 732402,
+        "captionsRaw": 6760,
+        "fullMark": 100
+      },
+      {
+        "subject": "Sarcasm",
+        "votesScore": 100,
+        "captionsScore": 58.57,
+        "votesRaw": 690603,
+        "captionsRaw": 5857,
+        "fullMark": 100
+      },
+      {
+        "subject": "Exaggeration",
+        "votesScore": 100,
+        "captionsScore": 50.25,
+        "votesRaw": 432407,
+        "captionsRaw": 5025,
+        "fullMark": 100
+      },
+      {
+        "subject": "Incongruity & Absurdity",
+        "votesScore": 100,
+        "captionsScore": 58.89,
+        "votesRaw": 778757,
+        "captionsRaw": 5889,
+        "fullMark": 100
+      },
+      {
+        "subject": "Wit & Surprise",
+        "votesScore": 100,
+        "captionsScore": 62.26,
+        "votesRaw": 750187,
+        "captionsRaw": 6226,
+        "fullMark": 100
+      }
+    ]
+  },
+  "section2": {
+    "timelineData": [
+      {
+        "name": "2016",
+        "Irony": 2,
+        "Sarcasm": 28,
+        "Exaggeration": 0,
+        "Incongruity & Absurdity": 5,
+        "Wit & Surprise": 3
+      },
+      {
+        "name": "2017",
+        "Irony": 2,
+        "Sarcasm": 41,
+        "Exaggeration": 0,
+        "Incongruity & Absurdity": 3,
+        "Wit & Surprise": 1
+      },
+      {
+        "name": "2018",
+        "Irony": 2,
+        "Sarcasm": 38,
+        "Exaggeration": 0,
+        "Incongruity & Absurdity": 9,
+        "Wit & Surprise": 4
+      },
+      {
+        "name": "2019",
+        "Irony": 4,
+        "Sarcasm": 43,
+        "Exaggeration": 0,
+        "Incongruity & Absurdity": 5,
+        "Wit & Surprise": 0
+      },
+      {
+        "name": "2020",
+        "Irony": 4,
+        "Sarcasm": 38,
+        "Exaggeration": 1,
+        "Incongruity & Absurdity": 7,
+        "Wit & Surprise": 2
+      },
+      {
+        "name": "2021",
+        "Irony": 1,
+        "Sarcasm": 43,
+        "Exaggeration": 0,
+        "Incongruity & Absurdity": 6,
+        "Wit & Surprise": 2
+      },
+      {
+        "name": "2022",
+        "Irony": 4,
+        "Sarcasm": 35,
+        "Exaggeration": 0,
+        "Incongruity & Absurdity": 10,
+        "Wit & Surprise": 3
+      },
+      {
+        "name": "2023",
+        "Irony": 5,
+        "Sarcasm": 25,
+        "Exaggeration": 0,
+        "Incongruity & Absurdity": 6,
+        "Wit & Surprise": 2
+      }
+    ],
+    "examples": [
+      {
+        "id": "651",
+        "title": "Contest 651",
+        "date": "2019-01-14",
+        "type": "sarcasm",
+        "description": "...and so, how are the toes today?",
+        "voteCount": "2249813"
+      },
+      {
+        "id": "715",
+        "title": "Contest 715",
+        "date": "2020-04-06",
+        "type": "incongruity_absurdity",
+        "description": "The recipe said 'One egg, beaten.' I was lucky to get out alive.",
+        "voteCount": "2012461"
+      },
+      {
+        "id": "718",
+        "title": "Contest 718",
+        "date": "2020-04-27",
+        "type": "sarcasm",
+        "description": "I don't need your approval. I just need you to tie the laces.",
+        "voteCount": "1929624"
+      },
+      {
+        "id": "647",
+        "title": "Contest 647",
+        "date": "2018-12-17",
+        "type": "sarcasm",
+        "description": "At least he knows where he’s going...”",
+        "voteCount": "1690546"
+      },
+      {
+        "id": "640",
+        "title": "Contest 640",
+        "date": "2018-10-29",
+        "type": "incongruity_absurdity",
+        "description": "I told you two to invest in Bitcoin.",
+        "voteCount": "1631425"
+      },
+      {
+        "id": "644",
+        "title": "Contest 644",
+        "date": "2018-11-26",
+        "type": "wit_surprise",
+        "description": "Playing Stravinsky is always a battle, but this time I win!",
+        "voteCount": "1629394"
+      },
+      {
+        "id": "646",
+        "title": "Contest 646",
+        "date": "2018-12-10",
+        "type": "sarcasm",
+        "description": "At least he knows where he’s going...”",
+        "voteCount": "1626322"
+      },
+      {
+        "id": "710",
+        "title": "Contest 710",
+        "date": "2020-03-02",
+        "type": "sarcasm",
+        "description": "Remember when he was just a humming bird?",
+        "voteCount": "1550011"
+      },
+      {
+        "id": "657",
+        "title": "Contest 657",
+        "date": "2019-02-25",
+        "type": "sarcasm",
+        "description": "So when did you first find yourself attracted to little dowgies?",
+        "voteCount": "1528352"
+      },
+      {
+        "id": "665",
+        "title": "Contest 665",
+        "date": "2019-04-22",
+        "type": "sarcasm",
+        "description": "Lunch is on me.",
+        "voteCount": "1501739"
+      },
+      {
+        "id": "722",
+        "title": "Contest 722",
+        "date": "2020-05-25",
+        "type": "sarcasm",
+        "description": "This is the only house I could find under a grand.",
+        "voteCount": "1490136"
+      },
+      {
+        "id": "712",
+        "title": "Contest 712",
+        "date": "2020-03-16",
+        "type": "sarcasm",
+        "description": "Barring any unforeseen complications...",
+        "voteCount": "1489228"
+      },
+      {
+        "id": "709",
+        "title": "Contest 709",
+        "date": "2020-02-24",
+        "type": "sarcasm",
+        "description": "We’re going down in flames. Going up in smoke is the next car over.",
+        "voteCount": "1458079"
+      },
+      {
+        "id": "652",
+        "title": "Contest 652",
+        "date": "2019-01-21",
+        "type": "sarcasm",
+        "description": "If only I wasn't on Atkins.",
+        "voteCount": "1454910"
+      },
+      {
+        "id": "708",
+        "title": "Contest 708",
+        "date": "2020-02-17",
+        "type": "sarcasm",
+        "description": "Does this make me look middle aged?",
+        "voteCount": "1452344"
+      },
+      {
+        "id": "641",
+        "title": "Contest 641",
+        "date": "2018-11-05",
+        "type": "sarcasm",
+        "description": "I can't meet you for dinner tonight. I'm feeling a bit sheepish.",
+        "voteCount": "1400950"
+      },
+      {
+        "id": "618",
+        "title": "Contest 618",
+        "date": "2018-05-28",
+        "type": "incongruity_absurdity",
+        "description": "It was hit or myth.",
+        "voteCount": "1376577"
+      },
+      {
+        "id": "707",
+        "title": "Contest 707",
+        "date": "2020-02-10",
+        "type": "sarcasm",
+        "description": "This was easier to carry when it was flat.",
+        "voteCount": "1376223"
+      },
+      {
+        "id": "671",
+        "title": "Contest 671",
+        "date": "2019-06-03",
+        "type": "sarcasm",
+        "description": "Someone came to school with humans. Now we’ve all got them.",
+        "voteCount": "1352586"
+      },
+      {
+        "id": "696",
+        "title": "Contest 696",
+        "date": "2019-11-25",
+        "type": "sarcasm",
+        "description": "Frankly, I'm so over this whole farm-to-table fad!",
+        "voteCount": "1331920"
+      },
+      {
+        "id": "625",
+        "title": "Contest 625",
+        "date": "2018-07-16",
+        "type": "sarcasm",
+        "description": "No, sir, this is Fenway. You're looking for Jurassic Park.",
+        "voteCount": "1326529"
+      },
+      {
+        "id": "723",
+        "title": "Contest 723",
+        "date": "2020-06-01",
+        "type": "irony",
+        "description": "A little more on the Woofer",
+        "voteCount": "1325805"
+      },
+      {
+        "id": "635",
+        "title": "Contest 635",
+        "date": "2018-09-24",
+        "type": "sarcasm",
+        "description": "I wouldn’t worry about people staring if you used a straw.",
+        "voteCount": "1311984"
+      },
+      {
+        "id": "628",
+        "title": "Contest 628",
+        "date": "2018-08-06",
+        "type": "sarcasm",
+        "description": "I heard today I'm getting canned.",
+        "voteCount": "1302098"
+      },
+      {
+        "id": "697",
+        "title": "Contest 697",
+        "date": "2019-12-02",
+        "type": "sarcasm",
+        "description": "This is a lot more effective on the elevated tracks.",
+        "voteCount": "1289041"
+      },
+      {
+        "id": "654",
+        "title": "Contest 654",
+        "date": "2019-02-04",
+        "type": "irony",
+        "description": "Now that is a deserted island!",
+        "voteCount": "1286972"
+      },
+      {
+        "id": "603",
+        "title": "Contest 603",
+        "date": "2018-02-12",
+        "type": "incongruity_absurdity",
+        "description": "Welcome to the Deli Lama.",
+        "voteCount": "1286234"
+      },
+      {
+        "id": "705",
+        "title": "Contest 705",
+        "date": "2020-01-27",
+        "type": "irony",
+        "description": "Tall salted caramel macchiato with low-fat organic almond milk, no sugar… It’s him alright.",
+        "voteCount": "1246918"
+      },
+      {
+        "id": "784",
+        "title": "Contest 784",
+        "date": "2021-08-02",
+        "type": "sarcasm",
+        "description": "George quickly realized he ordered from the wrong Amazon.",
+        "voteCount": "1225039"
+      },
+      {
+        "id": "610",
+        "title": "Contest 610",
+        "date": "2018-04-02",
+        "type": "sarcasm",
+        "description": "Beat until stiff meant the eggs.",
+        "voteCount": "1220029"
+      },
+      {
+        "id": "621",
+        "title": "Contest 621",
+        "date": "2018-06-18",
+        "type": "sarcasm",
+        "description": "It’s off the rack.  The guy on the rack doesn’t need it anymore.",
+        "voteCount": "1210323"
+      },
+      {
+        "id": "649",
+        "title": "Contest 649",
+        "date": "2018-12-31",
+        "type": "incongruity_absurdity",
+        "description": "Happy accident. We thought the realtor said 'tract' home, but we've come to love the convenient commute.",
+        "voteCount": "1197306"
+      },
+      {
+        "id": "699",
+        "title": "Contest 699",
+        "date": "2019-12-16",
+        "type": "sarcasm",
+        "description": "So, I gather your health plan didn't tell you what a Tier III plan is.",
+        "voteCount": "1192068"
+      },
+      {
+        "id": "643",
+        "title": "Contest 643",
+        "date": "2018-11-19",
+        "type": "wit_surprise",
+        "description": "Playing Stravinsky is always a battle, but this time I win!",
+        "voteCount": "1185450"
+      },
+      {
+        "id": "733",
+        "title": "Contest 733",
+        "date": "2020-08-10",
+        "type": "sarcasm",
+        "description": "It seems you promised them herd immunity, Sir.",
+        "voteCount": "1169444"
+      },
+      {
+        "id": "627",
+        "title": "Contest 627",
+        "date": "2018-07-30",
+        "type": "sarcasm",
+        "description": "Weren't there three of you?",
+        "voteCount": "1162999"
+      },
+      {
+        "id": "630",
+        "title": "Contest 630",
+        "date": "2018-08-20",
+        "type": "sarcasm",
+        "description": "Gore was right. This is inconvenient.",
+        "voteCount": "1159733"
+      },
+      {
+        "id": "674",
+        "title": "Contest 674",
+        "date": "2019-06-24",
+        "type": "sarcasm",
+        "description": "Let's let him keep your ball.",
+        "voteCount": "1150449"
+      },
+      {
+        "id": "752",
+        "title": "Contest 752",
+        "date": "2020-12-21",
+        "type": "sarcasm",
+        "description": "Just keep walking and act illiterate.",
+        "voteCount": "1141292"
+      },
+      {
+        "id": "743",
+        "title": "Contest 743",
+        "date": "2020-10-19",
+        "type": "sarcasm",
+        "description": "I’ve changed my mind. I love it.",
+        "voteCount": "1140034"
+      },
+      {
+        "id": "836",
+        "title": "Contest 836",
+        "date": "2022-08-01",
+        "type": "sarcasm",
+        "description": "Four stomachs? Now I’ve seen everything.",
+        "voteCount": "1139385"
+      },
+      {
+        "id": "611",
+        "title": "Contest 611",
+        "date": "2018-04-09",
+        "type": "sarcasm",
+        "description": "If he can be President, I can fly.",
+        "voteCount": "1135917"
+      },
+      {
+        "id": "746",
+        "title": "Contest 746",
+        "date": "2020-11-09",
+        "type": "sarcasm",
+        "description": "That wasn't the kind of erection I had in mind",
+        "voteCount": "1124620"
+      },
+      {
+        "id": "682",
+        "title": "Contest 682",
+        "date": "2019-08-19",
+        "type": "sarcasm",
+        "description": "I don't mind autumn so much; it's the fall I hate.",
+        "voteCount": "1124181"
+      },
+      {
+        "id": "720",
+        "title": "Contest 720",
+        "date": "2020-05-11",
+        "type": "sarcasm",
+        "description": "Now imagine having to do that in heels",
+        "voteCount": "1123201"
+      },
+      {
+        "id": "879",
+        "title": "Contest 879",
+        "date": "2023-05-29",
+        "type": "irony",
+        "description": "So much for death-defying.",
+        "voteCount": "1119122"
+      },
+      {
+        "id": "681",
+        "title": "Contest 681",
+        "date": "2019-08-12",
+        "type": "sarcasm",
+        "description": "Mobster, Larry. The invitation said to dress like a mobster.",
+        "voteCount": "1117477"
+      },
+      {
+        "id": "667",
+        "title": "Contest 667",
+        "date": "2019-05-06",
+        "type": "incongruity_absurdity",
+        "description": "Maybe we should try thinking inside the box.",
+        "voteCount": "1117451"
+      },
+      {
+        "id": "753",
+        "title": "Contest 753",
+        "date": "2020-12-28",
+        "type": "sarcasm",
+        "description": "Hit me again with your cart and I'll hunt you down until the day I die.",
+        "voteCount": "1116808"
+      },
+      {
+        "id": "744",
+        "title": "Contest 744",
+        "date": "2020-10-26",
+        "type": "sarcasm",
+        "description": "I could never pull that off.",
+        "voteCount": "1110562"
+      }
+    ]
+  },
+  "section3": {
+    "lexical": [
+      {
+        "type": "Irony",
+        "color": "#E9C46A",
+        "topWords": []
+      },
+      {
+        "type": "Sarcasm",
+        "color": "#F4A261",
+        "topWords": []
+      },
+      {
+        "type": "Exaggeration",
+        "color": "#E76F51",
+        "topWords": []
+      },
+      {
+        "type": "Incongruity & Absurdity",
+        "color": "#2A9D8F",
+        "topWords": []
+      },
+      {
+        "type": "Wit & Surprise",
+        "color": "#457B9D",
+        "topWords": []
+      }
+    ],
+    "heatmap": [
+      {
+        "id": "irony",
+        "name": "Irony",
+        "data": [
+          {
+            "x": "Irony",
+            "y": 0
+          },
+          {
+            "x": "Sarcasm",
+            "y": 0
+          },
+          {
+            "x": "Exaggeration",
+            "y": 0
+          },
+          {
+            "x": "Incongruity & Absurdity",
+            "y": 0
+          },
+          {
+            "x": "Wit & Surprise",
+            "y": 0
+          }
+        ]
+      },
+      {
+        "id": "sarcasm",
+        "name": "Sarcasm",
+        "data": [
+          {
+            "x": "Irony",
+            "y": 0
+          },
+          {
+            "x": "Sarcasm",
+            "y": 0
+          },
+          {
+            "x": "Exaggeration",
+            "y": 0
+          },
+          {
+            "x": "Incongruity & Absurdity",
+            "y": 0
+          },
+          {
+            "x": "Wit & Surprise",
+            "y": 0
+          }
+        ]
+      },
+      {
+        "id": "exaggeration",
+        "name": "Exaggeration",
+        "data": [
+          {
+            "x": "Irony",
+            "y": 0
+          },
+          {
+            "x": "Sarcasm",
+            "y": 0
+          },
+          {
+            "x": "Exaggeration",
+            "y": 0
+          },
+          {
+            "x": "Incongruity & Absurdity",
+            "y": 0
+          },
+          {
+            "x": "Wit & Surprise",
+            "y": 0
+          }
+        ]
+      },
+      {
+        "id": "incongruity_absurdity",
+        "name": "Incongruity & Absurdity",
+        "data": [
+          {
+            "x": "Irony",
+            "y": 0
+          },
+          {
+            "x": "Sarcasm",
+            "y": 0
+          },
+          {
+            "x": "Exaggeration",
+            "y": 0
+          },
+          {
+            "x": "Incongruity & Absurdity",
+            "y": 0
+          },
+          {
+            "x": "Wit & Surprise",
+            "y": 0
+          }
+        ]
+      },
+      {
+        "id": "wit_surprise",
+        "name": "Wit & Surprise",
+        "data": [
+          {
+            "x": "Irony",
+            "y": 0
+          },
+          {
+            "x": "Sarcasm",
+            "y": 0
+          },
+          {
+            "x": "Exaggeration",
+            "y": 0
+          },
+          {
+            "x": "Incongruity & Absurdity",
+            "y": 0
+          },
+          {
+            "x": "Wit & Surprise",
+            "y": 0
+          }
+        ]
+      }
+    ]
+  },
+  "sentimentAnalysis": {
+    "byCluster": {
+      "irony": {
+        "positive": 189,
+        "neutral": 910,
+        "negative": 478,
+        "total": 1577
+      },
+      "sarcasm": {
+        "positive": 539,
+        "neutral": 2376,
+        "negative": 1401,
+        "total": 4316
+      },
+      "exaggeration": {
+        "positive": 83,
+        "neutral": 217,
+        "negative": 189,
+        "total": 489
+      },
+      "incongruity_absurdity": {
+        "positive": 277,
+        "neutral": 1190,
+        "negative": 427,
+        "total": 1894
+      },
+      "wit_surprise": {
+        "positive": 143,
+        "neutral": 722,
+        "negative": 243,
+        "total": 1108
+      }
+    },
+    "byYear": {
+      "2016": {
+        "positive": 128,
+        "neutral": 648,
+        "negative": 364,
+        "total": 1140
+      },
+      "2017": {
+        "positive": 168,
+        "neutral": 839,
+        "negative": 405,
+        "total": 1412
+      },
+      "2018": {
+        "positive": 238,
+        "neutral": 915,
+        "negative": 451,
+        "total": 1604
+      },
+      "2019": {
+        "positive": 205,
+        "neutral": 937,
+        "negative": 430,
+        "total": 1572
+      },
+      "2020": {
+        "positive": 221,
+        "neutral": 891,
+        "negative": 460,
+        "total": 1572
+      },
+      "2021": {
+        "positive": 201,
+        "neutral": 917,
+        "negative": 451,
+        "total": 1569
+      },
+      "2022": {
+        "positive": 215,
+        "neutral": 928,
+        "negative": 435,
+        "total": 1578
+      },
+      "2023": {
+        "positive": 131,
+        "neutral": 650,
+        "negative": 364,
+        "total": 1145
+      }
+    },
+    "byField": {
+      "image_descriptions": {
+        "positive": 16,
+        "neutral": 427,
+        "negative": 87,
+        "total": 530
+      },
+      "image_uncanny_descriptions": {
+        "positive": 10,
+        "neutral": 319,
+        "negative": 201,
+        "total": 530
+      },
+      "questions": {
+        "positive": 0,
+        "neutral": 378,
+        "negative": 207,
+        "total": 585
+      }
+    },
+    "byClusterAndField": {
+      "irony": {
+        "image_descriptions": {
+          "positive": 0,
+          "neutral": 33,
+          "negative": 3,
+          "total": 36
+        },
+        "image_uncanny_descriptions": {
+          "positive": 0,
+          "neutral": 20,
+          "negative": 16,
+          "total": 36
+        },
+        "questions": {
+          "positive": 0,
+          "neutral": 29,
+          "negative": 11,
+          "total": 40
+        }
+      },
+      "sarcasm": {
+        "image_descriptions": {
+          "positive": 13,
+          "neutral": 326,
+          "negative": 77,
+          "total": 416
+        },
+        "image_uncanny_descriptions": {
+          "positive": 8,
+          "neutral": 250,
+          "negative": 158,
+          "total": 416
+        },
+        "questions": {
+          "positive": 0,
+          "neutral": 291,
+          "negative": 169,
+          "total": 460
+        }
+      },
+      "exaggeration": {
+        "image_descriptions": {
+          "positive": 0,
+          "neutral": 1,
+          "negative": 2,
+          "total": 3
+        },
+        "image_uncanny_descriptions": {
+          "positive": 0,
+          "neutral": 0,
+          "negative": 3,
+          "total": 3
+        },
+        "questions": {
+          "positive": 0,
+          "neutral": 1,
+          "negative": 2,
+          "total": 3
+        }
+      },
+      "incongruity_absurdity": {
+        "image_descriptions": {
+          "positive": 2,
+          "neutral": 50,
+          "negative": 4,
+          "total": 56
+        },
+        "image_uncanny_descriptions": {
+          "positive": 1,
+          "neutral": 37,
+          "negative": 18,
+          "total": 56
+        },
+        "questions": {
+          "positive": 0,
+          "neutral": 40,
+          "negative": 20,
+          "total": 60
+        }
+      },
+      "wit_surprise": {
+        "image_descriptions": {
+          "positive": 1,
+          "neutral": 17,
+          "negative": 1,
+          "total": 19
+        },
+        "image_uncanny_descriptions": {
+          "positive": 1,
+          "neutral": 12,
+          "negative": 6,
+          "total": 19
+        },
+        "questions": {
+          "positive": 0,
+          "neutral": 17,
+          "negative": 5,
+          "total": 22
+        }
+      }
+    }
+  }
+}

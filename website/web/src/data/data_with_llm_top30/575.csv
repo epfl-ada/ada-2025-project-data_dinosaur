@@ -1,0 +1,31 @@
+rank,caption,mean,precision,votes,not_funny,somewhat_funny,funny,llm_humor_labels,llm_sentiment
+12,Hostile takeovers ain’t what they used to be.,1.9678618277219064,0.0085216985965676,9148,3190,3062,2896,wit-surprise,negative
+2,We sue at dawn.,2.1245114461194863,0.0084845381478105,8955,2398,3044,3513,incongruity-absurdity,neutral
+0,Let's pick up the pace. They're billing by the hour.,2.164465786314526,0.0084061652847875,8330,1879,3202,3249,sarcasm,neutral
+7,The field will soon be littered with habeas corpuses.,2.0345709068776627,0.0088375456037129,8215,2498,2935,2782,wit-surprise,neutral
+6,"We may have lost the battle, but we'll win the appeal.",2.0351692103516923,0.0087894973954466,7535,2065,3140,2330,wit-surprise,neutral
+10,You better be right about the pen being mightier than the sword.,2.0032011134307584,0.0092985089424596,7185,2220,2722,2243,wit-surprise,neutral
+13,The streets will run red with tape,1.9593778314708548,0.0098848943222462,6622,2282,2327,2013,unknown,negative
+17,"You think it's overkill, because you've never been through a divorce.",1.914048796045288,0.0100364999037117,6271,2273,2264,1734,sarcasm,negative
+21,I hate legal battles.,1.8763273974840715,0.0102052163673162,6121,2376,2126,1619,irony,negative
+16,"Don't worry, these guys know how to charge.",1.9191308609704296,0.0099798488711076,6121,2133,2350,1638,sarcasm,positive
+14,You realize we're only gonna get a third of the plunder...,1.950273495773247,0.0098476714039652,6033,1922,2489,1622,irony,negative
+27,This time we mean business.,1.7933255269320842,0.0106692313236428,5124,2133,1917,1074,exaggeration,neutral
+29,You're the one who wanted to negotiate.,1.7871080903310677,0.0109862327280929,4561,1844,1844,873,sarcasm,neutral
+22,First we'll hit the castle with code violations.,1.8611916982816337,0.0114408478020833,4481,1668,1767,1046,incongruity-absurdity,negative
+30,"It's not war that's hell, it's the paperwork.",1.7852136558896676,0.0112694791888368,4423,1819,1735,869,unknown,negative
+3,This time they'll know we mean business.,2.1146928287783227,0.0117291046399308,4281,1043,1704,1534,sarcasm,neutral
+9,"You just had to say ""Run it by the lawyers"", didn't you?",2.006174305390644,0.0117649315600166,4211,1214,1757,1240,sarcasm,negative
+4,"Well, on the other hand, there is no fee unless we win.",2.0704835217705075,0.0116090369800693,4157,1028,1808,1321,wit-surprise,neutral
+1,Apparently they're experts in hostile takeovers.,2.129756097560976,0.0116142715405275,4100,902,1764,1434,exaggeration,neutral
+34,"I texted headquarters to send us 10,000 new “insurgents.” Their spellchecker changed it to “insurance agents.”",1.7667723835081728,0.0128346001412237,4099,1973,1109,1017,sarcasm,neutral
+11,"So, it's a legal battle they want?",1.9811459353574927,0.0118904348332426,4084,1218,1725,1141,irony,neutral
+25,"Now that we've captured these lawyers, let's threaten to release one every hour until our ransom demands are met.",1.8178824721377915,0.0129668138388309,3948,1735,1197,1016,sarcasm,negative
+35,I'm beginning to think we should have settled out of court.,1.766632548618219,0.0119685675772954,3908,1656,1508,744,sarcasm,negative
+19,"Trust me, nothing crushes the enemy's spirit like long-term financial planning.",1.89401888772298,0.0127217645736401,3812,1399,1418,995,sarcasm,neutral
+15,I liked it better when we settled disputes out of court.,1.922832980972516,0.0121680116991388,3784,1217,1642,925,wit-surprise,positive
+46,I'm already regretting this merger,1.7068917796844727,0.0123318566094324,3613,1677,1318,618,sarcasm,negative
+20,That's the last time I let you occupy Wall Street,1.8855623950755456,0.0132034620411425,3574,1341,1301,932,sarcasm,negative
+33,For once corporate seems to have our backs.,1.770079185520362,0.0123032051315211,3536,1446,1457,633,sarcasm,positive
+24,"I said, 'Suits of armor,' not 'Armani suits.'",1.8200798280626345,0.0139731249789042,3257,1381,1081,795,wit-surprise,neutral
+18,Explain to me again this idea of pillageable hours.,1.901603948180136,0.0136982367548454,3242,1161,1239,842,sarcasm,negative
