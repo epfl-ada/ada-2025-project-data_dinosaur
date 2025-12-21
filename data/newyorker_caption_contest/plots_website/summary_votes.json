@@ -1,0 +1,3460 @@
+{
+    "section1": [
+        {
+            "contest_id": 510,
+            "date": "07-03-2016",
+            "total_votes": 41185,
+            "total_captions": 3905,
+            "total_funny": 709,
+            "total_somewhat_funny": 3438,
+            "total_not_funny": 37038
+        },
+        {
+            "contest_id": 511,
+            "date": "14-03-2016",
+            "total_votes": 28205,
+            "total_captions": 3325,
+            "total_funny": 599,
+            "total_somewhat_funny": 2950,
+            "total_not_funny": 24656
+        },
+        {
+            "contest_id": 512,
+            "date": "21-03-2016",
+            "total_votes": 21574,
+            "total_captions": 4399,
+            "total_funny": 609,
+            "total_somewhat_funny": 2416,
+            "total_not_funny": 18549
+        },
+        {
+            "contest_id": 513,
+            "date": "27-03-2016",
+            "total_votes": 16894,
+            "total_captions": 4141,
+            "total_funny": 657,
+            "total_somewhat_funny": 2424,
+            "total_not_funny": 13813
+        },
+        {
+            "contest_id": 514,
+            "date": "03-04-2016",
+            "total_votes": 95790,
+            "total_captions": 3951,
+            "total_funny": 7639,
+            "total_somewhat_funny": 22267,
+            "total_not_funny": 65884
+        },
+        {
+            "contest_id": 515,
+            "date": "10-04-2016",
+            "total_votes": 23543,
+            "total_captions": 4270,
+            "total_funny": 922,
+            "total_somewhat_funny": 3234,
+            "total_not_funny": 19387
+        },
+        {
+            "contest_id": 516,
+            "date": "17-04-2016",
+            "total_votes": 24660,
+            "total_captions": 5918,
+            "total_funny": 1011,
+            "total_somewhat_funny": 3528,
+            "total_not_funny": 20121
+        },
+        {
+            "contest_id": 517,
+            "date": "24-04-2016",
+            "total_votes": 29913,
+            "total_captions": 7782,
+            "total_funny": 1514,
+            "total_somewhat_funny": 4649,
+            "total_not_funny": 23750
+        },
+        {
+            "contest_id": 518,
+            "date": "01-05-2016",
+            "total_votes": 123937,
+            "total_captions": 4509,
+            "total_funny": 5439,
+            "total_somewhat_funny": 19301,
+            "total_not_funny": 99197
+        },
+        {
+            "contest_id": 519,
+            "date": "08-05-2016",
+            "total_votes": 96184,
+            "total_captions": 4614,
+            "total_funny": 6225,
+            "total_somewhat_funny": 17438,
+            "total_not_funny": 72521
+        },
+        {
+            "contest_id": 520,
+            "date": "15-05-2016",
+            "total_votes": 209322,
+            "total_captions": 6645,
+            "total_funny": 13861,
+            "total_somewhat_funny": 37921,
+            "total_not_funny": 157540
+        },
+        {
+            "contest_id": 521,
+            "date": "22-05-2016",
+            "total_votes": 183912,
+            "total_captions": 5176,
+            "total_funny": 11490,
+            "total_somewhat_funny": 35224,
+            "total_not_funny": 137198
+        },
+        {
+            "contest_id": 522,
+            "date": "29-05-2016",
+            "total_votes": 347335,
+            "total_captions": 4747,
+            "total_funny": 18017,
+            "total_somewhat_funny": 56768,
+            "total_not_funny": 272550
+        },
+        {
+            "contest_id": 523,
+            "date": "05-06-2016",
+            "total_votes": 248441,
+            "total_captions": 4176,
+            "total_funny": 14431,
+            "total_somewhat_funny": 44919,
+            "total_not_funny": 189091
+        },
+        {
+            "contest_id": 524,
+            "date": "12-06-2016",
+            "total_votes": 172680,
+            "total_captions": 3963,
+            "total_funny": 6577,
+            "total_somewhat_funny": 23211,
+            "total_not_funny": 142892
+        },
+        {
+            "contest_id": 526,
+            "date": "03-07-2016",
+            "total_votes": 238677,
+            "total_captions": 4885,
+            "total_funny": 10181,
+            "total_somewhat_funny": 31296,
+            "total_not_funny": 197200
+        },
+        {
+            "contest_id": 527,
+            "date": "10-07-2016",
+            "total_votes": 237412,
+            "total_captions": 4601,
+            "total_funny": 11151,
+            "total_somewhat_funny": 30175,
+            "total_not_funny": 196086
+        },
+        {
+            "contest_id": 528,
+            "date": "17-07-2016",
+            "total_votes": 96609,
+            "total_captions": 4445,
+            "total_funny": 3089,
+            "total_somewhat_funny": 10796,
+            "total_not_funny": 82724
+        },
+        {
+            "contest_id": 529,
+            "date": "31-07-2016",
+            "total_votes": 231291,
+            "total_captions": 4483,
+            "total_funny": 13805,
+            "total_somewhat_funny": 41393,
+            "total_not_funny": 176093
+        },
+        {
+            "contest_id": 530,
+            "date": "07-08-2016",
+            "total_votes": 218558,
+            "total_captions": 3429,
+            "total_funny": 11051,
+            "total_somewhat_funny": 35213,
+            "total_not_funny": 172294
+        },
+        {
+            "contest_id": 531,
+            "date": "14-08-2016",
+            "total_votes": 498337,
+            "total_captions": 4077,
+            "total_funny": 30601,
+            "total_somewhat_funny": 84080,
+            "total_not_funny": 383656
+        },
+        {
+            "contest_id": 532,
+            "date": "28-08-2016",
+            "total_votes": 714986,
+            "total_captions": 5779,
+            "total_funny": 24330,
+            "total_somewhat_funny": 81694,
+            "total_not_funny": 608962
+        },
+        {
+            "contest_id": 533,
+            "date": "04-09-2016",
+            "total_votes": 377496,
+            "total_captions": 5005,
+            "total_funny": 21214,
+            "total_somewhat_funny": 62723,
+            "total_not_funny": 293559
+        },
+        {
+            "contest_id": 534,
+            "date": "11-09-2016",
+            "total_votes": 425529,
+            "total_captions": 4295,
+            "total_funny": 24350,
+            "total_somewhat_funny": 66776,
+            "total_not_funny": 334403
+        },
+        {
+            "contest_id": 535,
+            "date": "18-09-2016",
+            "total_votes": 488929,
+            "total_captions": 6103,
+            "total_funny": 24057,
+            "total_somewhat_funny": 66048,
+            "total_not_funny": 398824
+        },
+        {
+            "contest_id": 536,
+            "date": "25-09-2016",
+            "total_votes": 415065,
+            "total_captions": 6599,
+            "total_funny": 22283,
+            "total_somewhat_funny": 57475,
+            "total_not_funny": 335307
+        },
+        {
+            "contest_id": 537,
+            "date": "02-10-2016",
+            "total_votes": 665537,
+            "total_captions": 5559,
+            "total_funny": 28540,
+            "total_somewhat_funny": 88120,
+            "total_not_funny": 548877
+        },
+        {
+            "contest_id": 538,
+            "date": "09-10-2016",
+            "total_votes": 385675,
+            "total_captions": 3104,
+            "total_funny": 16454,
+            "total_somewhat_funny": 51918,
+            "total_not_funny": 317303
+        },
+        {
+            "contest_id": 539,
+            "date": "16-10-2016",
+            "total_votes": 555190,
+            "total_captions": 4827,
+            "total_funny": 25603,
+            "total_somewhat_funny": 79539,
+            "total_not_funny": 450048
+        },
+        {
+            "contest_id": 541,
+            "date": "30-10-2016",
+            "total_votes": 510944,
+            "total_captions": 5066,
+            "total_funny": 29206,
+            "total_somewhat_funny": 72748,
+            "total_not_funny": 408990
+        },
+        {
+            "contest_id": 542,
+            "date": "06-11-2016",
+            "total_votes": 581602,
+            "total_captions": 6189,
+            "total_funny": 23339,
+            "total_somewhat_funny": 69608,
+            "total_not_funny": 488655
+        },
+        {
+            "contest_id": 543,
+            "date": "13-11-2016",
+            "total_votes": 450498,
+            "total_captions": 6227,
+            "total_funny": 20943,
+            "total_somewhat_funny": 56844,
+            "total_not_funny": 372711
+        },
+        {
+            "contest_id": 544,
+            "date": "20-11-2016",
+            "total_votes": 198246,
+            "total_captions": 4304,
+            "total_funny": 8884,
+            "total_somewhat_funny": 14577,
+            "total_not_funny": 174785
+        },
+        {
+            "contest_id": 545,
+            "date": "27-11-2016",
+            "total_votes": 344095,
+            "total_captions": 5188,
+            "total_funny": 20282,
+            "total_somewhat_funny": 54057,
+            "total_not_funny": 269756
+        },
+        {
+            "contest_id": 546,
+            "date": "04-12-2016",
+            "total_votes": 333116,
+            "total_captions": 4924,
+            "total_funny": 18574,
+            "total_somewhat_funny": 53172,
+            "total_not_funny": 261370
+        },
+        {
+            "contest_id": 547,
+            "date": "11-12-2016",
+            "total_votes": 398746,
+            "total_captions": 3710,
+            "total_funny": 20293,
+            "total_somewhat_funny": 57977,
+            "total_not_funny": 320476
+        },
+        {
+            "contest_id": 548,
+            "date": "18-12-2016",
+            "total_votes": 501425,
+            "total_captions": 5517,
+            "total_funny": 25830,
+            "total_somewhat_funny": 72205,
+            "total_not_funny": 403390
+        },
+        {
+            "contest_id": 549,
+            "date": "25-12-2016",
+            "total_votes": 475431,
+            "total_captions": 5789,
+            "total_funny": 26579,
+            "total_somewhat_funny": 77077,
+            "total_not_funny": 371775
+        },
+        {
+            "contest_id": 550,
+            "date": "08-01-2017",
+            "total_votes": 463593,
+            "total_captions": 5554,
+            "total_funny": 23357,
+            "total_somewhat_funny": 74286,
+            "total_not_funny": 365950
+        },
+        {
+            "contest_id": 551,
+            "date": "15-01-2017",
+            "total_votes": 583185,
+            "total_captions": 4843,
+            "total_funny": 34402,
+            "total_somewhat_funny": 82193,
+            "total_not_funny": 466590
+        },
+        {
+            "contest_id": 552,
+            "date": "22-01-2017",
+            "total_votes": 519548,
+            "total_captions": 5437,
+            "total_funny": 24992,
+            "total_somewhat_funny": 74294,
+            "total_not_funny": 420262
+        },
+        {
+            "contest_id": 553,
+            "date": "29-01-2017",
+            "total_votes": 547090,
+            "total_captions": 6996,
+            "total_funny": 30940,
+            "total_somewhat_funny": 79191,
+            "total_not_funny": 436959
+        },
+        {
+            "contest_id": 554,
+            "date": "05-02-2017",
+            "total_votes": 928060,
+            "total_captions": 5154,
+            "total_funny": 62216,
+            "total_somewhat_funny": 138613,
+            "total_not_funny": 727231
+        },
+        {
+            "contest_id": 555,
+            "date": "12-02-2017",
+            "total_votes": 501078,
+            "total_captions": 6353,
+            "total_funny": 23078,
+            "total_somewhat_funny": 64465,
+            "total_not_funny": 413535
+        },
+        {
+            "contest_id": 556,
+            "date": "19-02-2017",
+            "total_votes": 713533,
+            "total_captions": 5054,
+            "total_funny": 36479,
+            "total_somewhat_funny": 96748,
+            "total_not_funny": 580306
+        },
+        {
+            "contest_id": 557,
+            "date": "06-03-2017",
+            "total_votes": 767998,
+            "total_captions": 8861,
+            "total_funny": 30981,
+            "total_somewhat_funny": 93232,
+            "total_not_funny": 643785
+        },
+        {
+            "contest_id": 558,
+            "date": "12-03-2017",
+            "total_votes": 524297,
+            "total_captions": 3925,
+            "total_funny": 25541,
+            "total_somewhat_funny": 70622,
+            "total_not_funny": 428134
+        },
+        {
+            "contest_id": 559,
+            "date": "19-03-2017",
+            "total_votes": 250552,
+            "total_captions": 5012,
+            "total_funny": 14358,
+            "total_somewhat_funny": 36746,
+            "total_not_funny": 199448
+        },
+        {
+            "contest_id": 560,
+            "date": "26-03-2017",
+            "total_votes": 418917,
+            "total_captions": 4482,
+            "total_funny": 30436,
+            "total_somewhat_funny": 66951,
+            "total_not_funny": 321530
+        },
+        {
+            "contest_id": 561,
+            "date": "02-04-2017",
+            "total_votes": 438112,
+            "total_captions": 5368,
+            "total_funny": 28123,
+            "total_somewhat_funny": 68829,
+            "total_not_funny": 341160
+        },
+        {
+            "contest_id": 562,
+            "date": "09-04-2017",
+            "total_votes": 176381,
+            "total_captions": 5456,
+            "total_funny": 7035,
+            "total_somewhat_funny": 23318,
+            "total_not_funny": 146028
+        },
+        {
+            "contest_id": 563,
+            "date": "17-04-2017",
+            "total_votes": 128912,
+            "total_captions": 4304,
+            "total_funny": 4272,
+            "total_somewhat_funny": 14475,
+            "total_not_funny": 110165
+        },
+        {
+            "contest_id": 564,
+            "date": "24-04-2017",
+            "total_votes": 349268,
+            "total_captions": 6200,
+            "total_funny": 21594,
+            "total_somewhat_funny": 53032,
+            "total_not_funny": 274642
+        },
+        {
+            "contest_id": 565,
+            "date": "01-05-2017",
+            "total_votes": 148779,
+            "total_captions": 5569,
+            "total_funny": 6762,
+            "total_somewhat_funny": 19047,
+            "total_not_funny": 122970
+        },
+        {
+            "contest_id": 566,
+            "date": "07-05-2017",
+            "total_votes": 191877,
+            "total_captions": 3855,
+            "total_funny": 9843,
+            "total_somewhat_funny": 22393,
+            "total_not_funny": 159641
+        },
+        {
+            "contest_id": 567,
+            "date": "14-05-2017",
+            "total_votes": 239829,
+            "total_captions": 4421,
+            "total_funny": 16411,
+            "total_somewhat_funny": 38877,
+            "total_not_funny": 184541
+        },
+        {
+            "contest_id": 568,
+            "date": "21-05-2017",
+            "total_votes": 290737,
+            "total_captions": 5155,
+            "total_funny": 20530,
+            "total_somewhat_funny": 48750,
+            "total_not_funny": 221457
+        },
+        {
+            "contest_id": 569,
+            "date": "29-05-2017",
+            "total_votes": 270136,
+            "total_captions": 4836,
+            "total_funny": 16436,
+            "total_somewhat_funny": 44576,
+            "total_not_funny": 209124
+        },
+        {
+            "contest_id": 570,
+            "date": "05-06-2017",
+            "total_votes": 303014,
+            "total_captions": 6198,
+            "total_funny": 16936,
+            "total_somewhat_funny": 42538,
+            "total_not_funny": 243540
+        },
+        {
+            "contest_id": 571,
+            "date": "11-06-2017",
+            "total_votes": 363323,
+            "total_captions": 3975,
+            "total_funny": 26774,
+            "total_somewhat_funny": 64626,
+            "total_not_funny": 271923
+        },
+        {
+            "contest_id": 572,
+            "date": "25-06-2017",
+            "total_votes": 218335,
+            "total_captions": 6241,
+            "total_funny": 8923,
+            "total_somewhat_funny": 19495,
+            "total_not_funny": 189917
+        },
+        {
+            "contest_id": 573,
+            "date": "02-07-2017",
+            "total_votes": 366782,
+            "total_captions": 4950,
+            "total_funny": 35107,
+            "total_somewhat_funny": 76696,
+            "total_not_funny": 254979
+        },
+        {
+            "contest_id": 574,
+            "date": "09-07-2017",
+            "total_votes": 410803,
+            "total_captions": 4894,
+            "total_funny": 37025,
+            "total_somewhat_funny": 81143,
+            "total_not_funny": 292635
+        },
+        {
+            "contest_id": 575,
+            "date": "16-07-2017",
+            "total_votes": 593171,
+            "total_captions": 5059,
+            "total_funny": 76137,
+            "total_somewhat_funny": 136972,
+            "total_not_funny": 380062
+        },
+        {
+            "contest_id": 576,
+            "date": "30-07-2017",
+            "total_votes": 284529,
+            "total_captions": 7903,
+            "total_funny": 14207,
+            "total_somewhat_funny": 36577,
+            "total_not_funny": 233745
+        },
+        {
+            "contest_id": 577,
+            "date": "06-08-2017",
+            "total_votes": 389881,
+            "total_captions": 4230,
+            "total_funny": 49704,
+            "total_somewhat_funny": 96113,
+            "total_not_funny": 244064
+        },
+        {
+            "contest_id": 578,
+            "date": "13-08-2017",
+            "total_votes": 593761,
+            "total_captions": 4463,
+            "total_funny": 68451,
+            "total_somewhat_funny": 133763,
+            "total_not_funny": 391547
+        },
+        {
+            "contest_id": 579,
+            "date": "27-08-2017",
+            "total_votes": 480412,
+            "total_captions": 6999,
+            "total_funny": 41545,
+            "total_somewhat_funny": 89907,
+            "total_not_funny": 348960
+        },
+        {
+            "contest_id": 580,
+            "date": "03-09-2017",
+            "total_votes": 425835,
+            "total_captions": 4141,
+            "total_funny": 39595,
+            "total_somewhat_funny": 87436,
+            "total_not_funny": 298804
+        },
+        {
+            "contest_id": 581,
+            "date": "10-09-2017",
+            "total_votes": 203573,
+            "total_captions": 5694,
+            "total_funny": 10220,
+            "total_somewhat_funny": 23803,
+            "total_not_funny": 169550
+        },
+        {
+            "contest_id": 582,
+            "date": "18-09-2017",
+            "total_votes": 196119,
+            "total_captions": 3778,
+            "total_funny": 18240,
+            "total_somewhat_funny": 38508,
+            "total_not_funny": 139371
+        },
+        {
+            "contest_id": 583,
+            "date": "25-09-2017",
+            "total_votes": 342411,
+            "total_captions": 6115,
+            "total_funny": 35360,
+            "total_somewhat_funny": 68925,
+            "total_not_funny": 238126
+        },
+        {
+            "contest_id": 584,
+            "date": "01-10-2017",
+            "total_votes": 501501,
+            "total_captions": 6292,
+            "total_funny": 58703,
+            "total_somewhat_funny": 106514,
+            "total_not_funny": 336284
+        },
+        {
+            "contest_id": 585,
+            "date": "09-10-2017",
+            "total_votes": 356787,
+            "total_captions": 4703,
+            "total_funny": 28202,
+            "total_somewhat_funny": 78314,
+            "total_not_funny": 250271
+        },
+        {
+            "contest_id": 586,
+            "date": "16-10-2017",
+            "total_votes": 480072,
+            "total_captions": 4965,
+            "total_funny": 51574,
+            "total_somewhat_funny": 105626,
+            "total_not_funny": 322872
+        },
+        {
+            "contest_id": 587,
+            "date": "23-10-2017",
+            "total_votes": 488546,
+            "total_captions": 6014,
+            "total_funny": 39905,
+            "total_somewhat_funny": 87256,
+            "total_not_funny": 361385
+        },
+        {
+            "contest_id": 588,
+            "date": "30-10-2017",
+            "total_votes": 295566,
+            "total_captions": 4286,
+            "total_funny": 22132,
+            "total_somewhat_funny": 53997,
+            "total_not_funny": 219437
+        },
+        {
+            "contest_id": 589,
+            "date": "06-11-2017",
+            "total_votes": 628409,
+            "total_captions": 6090,
+            "total_funny": 54329,
+            "total_somewhat_funny": 140635,
+            "total_not_funny": 433445
+        },
+        {
+            "contest_id": 590,
+            "date": "13-11-2017",
+            "total_votes": 891586,
+            "total_captions": 6038,
+            "total_funny": 91869,
+            "total_somewhat_funny": 221667,
+            "total_not_funny": 578050
+        },
+        {
+            "contest_id": 591,
+            "date": "20-11-2017",
+            "total_votes": 683358,
+            "total_captions": 5428,
+            "total_funny": 4,
+            "total_somewhat_funny": 2876,
+            "total_not_funny": 680478
+        },
+        {
+            "contest_id": 592,
+            "date": "27-11-2017",
+            "total_votes": 1021316,
+            "total_captions": 7175,
+            "total_funny": 17,
+            "total_somewhat_funny": 8660,
+            "total_not_funny": 1012639
+        },
+        {
+            "contest_id": 593,
+            "date": "04-12-2017",
+            "total_votes": 619876,
+            "total_captions": 7819,
+            "total_funny": 59838,
+            "total_somewhat_funny": 134933,
+            "total_not_funny": 425105
+        },
+        {
+            "contest_id": 594,
+            "date": "11-12-2017",
+            "total_votes": 260848,
+            "total_captions": 3548,
+            "total_funny": 19513,
+            "total_somewhat_funny": 50072,
+            "total_not_funny": 191263
+        },
+        {
+            "contest_id": 595,
+            "date": "18-12-2017",
+            "total_votes": 421560,
+            "total_captions": 5621,
+            "total_funny": 32914,
+            "total_somewhat_funny": 74400,
+            "total_not_funny": 314246
+        },
+        {
+            "contest_id": 596,
+            "date": "25-12-2017",
+            "total_votes": 338162,
+            "total_captions": 5922,
+            "total_funny": 16966,
+            "total_somewhat_funny": 43047,
+            "total_not_funny": 278149
+        },
+        {
+            "contest_id": 597,
+            "date": "01-01-2018",
+            "total_votes": 818622,
+            "total_captions": 3116,
+            "total_funny": 97915,
+            "total_somewhat_funny": 204630,
+            "total_not_funny": 516077
+        },
+        {
+            "contest_id": 598,
+            "date": "08-01-2018",
+            "total_votes": 347381,
+            "total_captions": 2919,
+            "total_funny": 29885,
+            "total_somewhat_funny": 70308,
+            "total_not_funny": 247188
+        },
+        {
+            "contest_id": 599,
+            "date": "15-01-2018",
+            "total_votes": 511658,
+            "total_captions": 5578,
+            "total_funny": 22,
+            "total_somewhat_funny": 5748,
+            "total_not_funny": 505888
+        },
+        {
+            "contest_id": 600,
+            "date": "22-01-2018",
+            "total_votes": 757243,
+            "total_captions": 6043,
+            "total_funny": 986,
+            "total_somewhat_funny": 7950,
+            "total_not_funny": 748307
+        },
+        {
+            "contest_id": 601,
+            "date": "29-01-2018",
+            "total_votes": 468015,
+            "total_captions": 5011,
+            "total_funny": 34238,
+            "total_somewhat_funny": 88751,
+            "total_not_funny": 345026
+        },
+        {
+            "contest_id": 602,
+            "date": "05-02-2018",
+            "total_votes": 882768,
+            "total_captions": 7675,
+            "total_funny": 106212,
+            "total_somewhat_funny": 234191,
+            "total_not_funny": 542365
+        },
+        {
+            "contest_id": 603,
+            "date": "12-02-2018",
+            "total_votes": 1286234,
+            "total_captions": 6944,
+            "total_funny": 140355,
+            "total_somewhat_funny": 315238,
+            "total_not_funny": 830641
+        },
+        {
+            "contest_id": 604,
+            "date": "19-02-2018",
+            "total_votes": 805609,
+            "total_captions": 8743,
+            "total_funny": 44213,
+            "total_somewhat_funny": 149982,
+            "total_not_funny": 611414
+        },
+        {
+            "contest_id": 605,
+            "date": "26-02-2018",
+            "total_votes": 770768,
+            "total_captions": 4267,
+            "total_funny": 62396,
+            "total_somewhat_funny": 158331,
+            "total_not_funny": 550041
+        },
+        {
+            "contest_id": 606,
+            "date": "05-03-2018",
+            "total_votes": 46951,
+            "total_captions": 6394,
+            "total_funny": 1648,
+            "total_somewhat_funny": 4258,
+            "total_not_funny": 41045
+        },
+        {
+            "contest_id": 607,
+            "date": "12-03-2018",
+            "total_votes": 1026981,
+            "total_captions": 7832,
+            "total_funny": 109486,
+            "total_somewhat_funny": 225946,
+            "total_not_funny": 691549
+        },
+        {
+            "contest_id": 608,
+            "date": "19-03-2018",
+            "total_votes": 957697,
+            "total_captions": 7501,
+            "total_funny": 67456,
+            "total_somewhat_funny": 228254,
+            "total_not_funny": 661987
+        },
+        {
+            "contest_id": 609,
+            "date": "26-03-2018",
+            "total_votes": 1046199,
+            "total_captions": 8195,
+            "total_funny": 93750,
+            "total_somewhat_funny": 228619,
+            "total_not_funny": 723830
+        },
+        {
+            "contest_id": 610,
+            "date": "02-04-2018",
+            "total_votes": 1220029,
+            "total_captions": 7946,
+            "total_funny": 128259,
+            "total_somewhat_funny": 284249,
+            "total_not_funny": 807521
+        },
+        {
+            "contest_id": 611,
+            "date": "09-04-2018",
+            "total_votes": 1135917,
+            "total_captions": 7770,
+            "total_funny": 91854,
+            "total_somewhat_funny": 235876,
+            "total_not_funny": 808187
+        },
+        {
+            "contest_id": 612,
+            "date": "16-04-2018",
+            "total_votes": 912652,
+            "total_captions": 9408,
+            "total_funny": 99046,
+            "total_somewhat_funny": 215777,
+            "total_not_funny": 597829
+        },
+        {
+            "contest_id": 613,
+            "date": "23-04-2018",
+            "total_votes": 832844,
+            "total_captions": 7305,
+            "total_funny": 60310,
+            "total_somewhat_funny": 168830,
+            "total_not_funny": 603704
+        },
+        {
+            "contest_id": 614,
+            "date": "30-04-2018",
+            "total_votes": 801294,
+            "total_captions": 6751,
+            "total_funny": 66414,
+            "total_somewhat_funny": 174553,
+            "total_not_funny": 560327
+        },
+        {
+            "contest_id": 615,
+            "date": "07-05-2018",
+            "total_votes": 798876,
+            "total_captions": 7075,
+            "total_funny": 69763,
+            "total_somewhat_funny": 167249,
+            "total_not_funny": 561864
+        },
+        {
+            "contest_id": 616,
+            "date": "14-05-2018",
+            "total_votes": 663636,
+            "total_captions": 5274,
+            "total_funny": 66928,
+            "total_somewhat_funny": 147928,
+            "total_not_funny": 448780
+        },
+        {
+            "contest_id": 617,
+            "date": "21-05-2018",
+            "total_votes": 895011,
+            "total_captions": 8154,
+            "total_funny": 85743,
+            "total_somewhat_funny": 190009,
+            "total_not_funny": 619259
+        },
+        {
+            "contest_id": 618,
+            "date": "28-05-2018",
+            "total_votes": 1376577,
+            "total_captions": 7070,
+            "total_funny": 148572,
+            "total_somewhat_funny": 292080,
+            "total_not_funny": 935925
+        },
+        {
+            "contest_id": 619,
+            "date": "04-06-2018",
+            "total_votes": 867527,
+            "total_captions": 9719,
+            "total_funny": 60084,
+            "total_somewhat_funny": 154485,
+            "total_not_funny": 652958
+        },
+        {
+            "contest_id": 620,
+            "date": "11-06-2018",
+            "total_votes": 831622,
+            "total_captions": 4920,
+            "total_funny": 88181,
+            "total_somewhat_funny": 173039,
+            "total_not_funny": 570402
+        },
+        {
+            "contest_id": 621,
+            "date": "18-06-2018",
+            "total_votes": 1202861,
+            "total_captions": 7391,
+            "total_funny": 114459,
+            "total_somewhat_funny": 267696,
+            "total_not_funny": 820706
+        },
+        {
+            "contest_id": 622,
+            "date": "25-06-2018",
+            "total_votes": 98755,
+            "total_captions": 4838,
+            "total_funny": 2881,
+            "total_somewhat_funny": 11528,
+            "total_not_funny": 84346
+        },
+        {
+            "contest_id": 623,
+            "date": "02-07-2018",
+            "total_votes": 961846,
+            "total_captions": 6349,
+            "total_funny": 83300,
+            "total_somewhat_funny": 199936,
+            "total_not_funny": 678610
+        },
+        {
+            "contest_id": 624,
+            "date": "09-07-2018",
+            "total_votes": 694709,
+            "total_captions": 3667,
+            "total_funny": 62583,
+            "total_somewhat_funny": 141853,
+            "total_not_funny": 490273
+        },
+        {
+            "contest_id": 625,
+            "date": "16-07-2018",
+            "total_votes": 1314173,
+            "total_captions": 5602,
+            "total_funny": 124372,
+            "total_somewhat_funny": 290777,
+            "total_not_funny": 899024
+        },
+        {
+            "contest_id": 626,
+            "date": "23-07-2018",
+            "total_votes": 987864,
+            "total_captions": 5788,
+            "total_funny": 77739,
+            "total_somewhat_funny": 207343,
+            "total_not_funny": 702782
+        },
+        {
+            "contest_id": 627,
+            "date": "30-07-2018",
+            "total_votes": 1149365,
+            "total_captions": 6385,
+            "total_funny": 119867,
+            "total_somewhat_funny": 261401,
+            "total_not_funny": 768097
+        },
+        {
+            "contest_id": 628,
+            "date": "06-08-2018",
+            "total_votes": 1287936,
+            "total_captions": 7931,
+            "total_funny": 139220,
+            "total_somewhat_funny": 312210,
+            "total_not_funny": 836506
+        },
+        {
+            "contest_id": 629,
+            "date": "13-08-2018",
+            "total_votes": 858775,
+            "total_captions": 4929,
+            "total_funny": 63282,
+            "total_somewhat_funny": 160855,
+            "total_not_funny": 634638
+        },
+        {
+            "contest_id": 630,
+            "date": "20-08-2018",
+            "total_votes": 1139851,
+            "total_captions": 5541,
+            "total_funny": 112994,
+            "total_somewhat_funny": 248096,
+            "total_not_funny": 778761
+        },
+        {
+            "contest_id": 631,
+            "date": "27-08-2018",
+            "total_votes": 1053767,
+            "total_captions": 5615,
+            "total_funny": 84473,
+            "total_somewhat_funny": 211496,
+            "total_not_funny": 757798
+        },
+        {
+            "contest_id": 632,
+            "date": "03-09-2018",
+            "total_votes": 655091,
+            "total_captions": 4872,
+            "total_funny": 76552,
+            "total_somewhat_funny": 152372,
+            "total_not_funny": 426167
+        },
+        {
+            "contest_id": 633,
+            "date": "10-09-2018",
+            "total_votes": 834235,
+            "total_captions": 4269,
+            "total_funny": 76614,
+            "total_somewhat_funny": 178297,
+            "total_not_funny": 579324
+        },
+        {
+            "contest_id": 634,
+            "date": "17-09-2018",
+            "total_votes": 922385,
+            "total_captions": 4588,
+            "total_funny": 83241,
+            "total_somewhat_funny": 191669,
+            "total_not_funny": 647475
+        },
+        {
+            "contest_id": 635,
+            "date": "24-09-2018",
+            "total_votes": 1294960,
+            "total_captions": 7694,
+            "total_funny": 70647,
+            "total_somewhat_funny": 248017,
+            "total_not_funny": 976296
+        },
+        {
+            "contest_id": 636,
+            "date": "01-10-2018",
+            "total_votes": 1082472,
+            "total_captions": 2886,
+            "total_funny": 63608,
+            "total_somewhat_funny": 193942,
+            "total_not_funny": 824922
+        },
+        {
+            "contest_id": 637,
+            "date": "08-10-2018",
+            "total_votes": 805400,
+            "total_captions": 3706,
+            "total_funny": 32817,
+            "total_somewhat_funny": 114768,
+            "total_not_funny": 657815
+        },
+        {
+            "contest_id": 638,
+            "date": "15-10-2018",
+            "total_votes": 872384,
+            "total_captions": 5359,
+            "total_funny": 38178,
+            "total_somewhat_funny": 130652,
+            "total_not_funny": 703554
+        },
+        {
+            "contest_id": 639,
+            "date": "22-10-2018",
+            "total_votes": 1046359,
+            "total_captions": 4511,
+            "total_funny": 49680,
+            "total_somewhat_funny": 157204,
+            "total_not_funny": 839475
+        },
+        {
+            "contest_id": 640,
+            "date": "29-10-2018",
+            "total_votes": 1603745,
+            "total_captions": 4846,
+            "total_funny": 79772,
+            "total_somewhat_funny": 248285,
+            "total_not_funny": 1275688
+        },
+        {
+            "contest_id": 641,
+            "date": "05-11-2018",
+            "total_votes": 1373988,
+            "total_captions": 8886,
+            "total_funny": 72317,
+            "total_somewhat_funny": 220956,
+            "total_not_funny": 1080715
+        },
+        {
+            "contest_id": 642,
+            "date": "12-11-2018",
+            "total_votes": 865287,
+            "total_captions": 3440,
+            "total_funny": 33956,
+            "total_somewhat_funny": 109015,
+            "total_not_funny": 722316
+        },
+        {
+            "contest_id": 643,
+            "date": "19-11-2018",
+            "total_votes": 1160991,
+            "total_captions": 5591,
+            "total_funny": 45516,
+            "total_somewhat_funny": 177595,
+            "total_not_funny": 937880
+        },
+        {
+            "contest_id": 644,
+            "date": "26-11-2018",
+            "total_votes": 1595893,
+            "total_captions": 5591,
+            "total_funny": 65280,
+            "total_somewhat_funny": 246814,
+            "total_not_funny": 1283799
+        },
+        {
+            "contest_id": 645,
+            "date": "03-12-2018",
+            "total_votes": 965688,
+            "total_captions": 7432,
+            "total_funny": 43256,
+            "total_somewhat_funny": 172582,
+            "total_not_funny": 749850
+        },
+        {
+            "contest_id": 646,
+            "date": "10-12-2018",
+            "total_votes": 1599605,
+            "total_captions": 5976,
+            "total_funny": 87103,
+            "total_somewhat_funny": 263454,
+            "total_not_funny": 1249048
+        },
+        {
+            "contest_id": 647,
+            "date": "17-12-2018",
+            "total_votes": 1662791,
+            "total_captions": 5976,
+            "total_funny": 90073,
+            "total_somewhat_funny": 274693,
+            "total_not_funny": 1298025
+        },
+        {
+            "contest_id": 648,
+            "date": "24-12-2018",
+            "total_votes": 688574,
+            "total_captions": 4127,
+            "total_funny": 32571,
+            "total_somewhat_funny": 109764,
+            "total_not_funny": 546239
+        },
+        {
+            "contest_id": 649,
+            "date": "31-12-2018",
+            "total_votes": 1177760,
+            "total_captions": 7378,
+            "total_funny": 60684,
+            "total_somewhat_funny": 206711,
+            "total_not_funny": 910365
+        },
+        {
+            "contest_id": 650,
+            "date": "07-01-2019",
+            "total_votes": 1023078,
+            "total_captions": 7465,
+            "total_funny": 50712,
+            "total_somewhat_funny": 173293,
+            "total_not_funny": 799073
+        },
+        {
+            "contest_id": 651,
+            "date": "14-01-2019",
+            "total_votes": 2210972,
+            "total_captions": 9089,
+            "total_funny": 125636,
+            "total_somewhat_funny": 381366,
+            "total_not_funny": 1703970
+        },
+        {
+            "contest_id": 652,
+            "date": "21-01-2019",
+            "total_votes": 1431721,
+            "total_captions": 9864,
+            "total_funny": 64862,
+            "total_somewhat_funny": 233768,
+            "total_not_funny": 1133091
+        },
+        {
+            "contest_id": 653,
+            "date": "28-01-2019",
+            "total_votes": 1020072,
+            "total_captions": 5986,
+            "total_funny": 51639,
+            "total_somewhat_funny": 178239,
+            "total_not_funny": 790194
+        },
+        {
+            "contest_id": 654,
+            "date": "04-02-2019",
+            "total_votes": 1269316,
+            "total_captions": 6778,
+            "total_funny": 65035,
+            "total_somewhat_funny": 217494,
+            "total_not_funny": 986787
+        },
+        {
+            "contest_id": 655,
+            "date": "11-02-2019",
+            "total_votes": 742896,
+            "total_captions": 5172,
+            "total_funny": 42182,
+            "total_somewhat_funny": 131918,
+            "total_not_funny": 568796
+        },
+        {
+            "contest_id": 656,
+            "date": "18-02-2019",
+            "total_votes": 754497,
+            "total_captions": 5172,
+            "total_funny": 43070,
+            "total_somewhat_funny": 133989,
+            "total_not_funny": 577438
+        },
+        {
+            "contest_id": 657,
+            "date": "25-02-2019",
+            "total_votes": 1488112,
+            "total_captions": 6897,
+            "total_funny": 72171,
+            "total_somewhat_funny": 260458,
+            "total_not_funny": 1155483
+        },
+        {
+            "contest_id": 658,
+            "date": "04-03-2019",
+            "total_votes": 973773,
+            "total_captions": 5571,
+            "total_funny": 61931,
+            "total_somewhat_funny": 188479,
+            "total_not_funny": 723363
+        },
+        {
+            "contest_id": 659,
+            "date": "11-03-2019",
+            "total_votes": 1014949,
+            "total_captions": 6822,
+            "total_funny": 51253,
+            "total_somewhat_funny": 165766,
+            "total_not_funny": 797930
+        },
+        {
+            "contest_id": 660,
+            "date": "18-03-2019",
+            "total_votes": 1096237,
+            "total_captions": 7008,
+            "total_funny": 127753,
+            "total_somewhat_funny": 264048,
+            "total_not_funny": 704436
+        },
+        {
+            "contest_id": 661,
+            "date": "25-03-2019",
+            "total_votes": 879785,
+            "total_captions": 3448,
+            "total_funny": 101264,
+            "total_somewhat_funny": 159128,
+            "total_not_funny": 619393
+        },
+        {
+            "contest_id": 662,
+            "date": "01-04-2019",
+            "total_votes": 929378,
+            "total_captions": 4826,
+            "total_funny": 107496,
+            "total_somewhat_funny": 227030,
+            "total_not_funny": 594852
+        },
+        {
+            "contest_id": 663,
+            "date": "08-04-2019",
+            "total_votes": 734358,
+            "total_captions": 5019,
+            "total_funny": 60996,
+            "total_somewhat_funny": 153161,
+            "total_not_funny": 520201
+        },
+        {
+            "contest_id": 664,
+            "date": "15-04-2019",
+            "total_votes": 604579,
+            "total_captions": 4801,
+            "total_funny": 77051,
+            "total_somewhat_funny": 159913,
+            "total_not_funny": 367615
+        },
+        {
+            "contest_id": 665,
+            "date": "22-04-2019",
+            "total_votes": 1481007,
+            "total_captions": 6223,
+            "total_funny": 204312,
+            "total_somewhat_funny": 369910,
+            "total_not_funny": 906745
+        },
+        {
+            "contest_id": 666,
+            "date": "29-04-2019",
+            "total_votes": 670371,
+            "total_captions": 6113,
+            "total_funny": 55488,
+            "total_somewhat_funny": 140204,
+            "total_not_funny": 474679
+        },
+        {
+            "contest_id": 667,
+            "date": "06-05-2019",
+            "total_votes": 1094757,
+            "total_captions": 6108,
+            "total_funny": 122208,
+            "total_somewhat_funny": 269436,
+            "total_not_funny": 703114
+        },
+        {
+            "contest_id": 668,
+            "date": "13-05-2019",
+            "total_votes": 782393,
+            "total_captions": 4079,
+            "total_funny": 86779,
+            "total_somewhat_funny": 189622,
+            "total_not_funny": 505993
+        },
+        {
+            "contest_id": 669,
+            "date": "20-05-2019",
+            "total_votes": 690388,
+            "total_captions": 5796,
+            "total_funny": 64381,
+            "total_somewhat_funny": 155674,
+            "total_not_funny": 470333
+        },
+        {
+            "contest_id": 670,
+            "date": "27-05-2019",
+            "total_votes": 635912,
+            "total_captions": 3716,
+            "total_funny": 68257,
+            "total_somewhat_funny": 153838,
+            "total_not_funny": 413804
+        },
+        {
+            "contest_id": 671,
+            "date": "03-06-2019",
+            "total_votes": 1332138,
+            "total_captions": 5503,
+            "total_funny": 181417,
+            "total_somewhat_funny": 359816,
+            "total_not_funny": 790838
+        },
+        {
+            "contest_id": 672,
+            "date": "10-06-2019",
+            "total_votes": 774778,
+            "total_captions": 4483,
+            "total_funny": 79474,
+            "total_somewhat_funny": 182097,
+            "total_not_funny": 513046
+        },
+        {
+            "contest_id": 673,
+            "date": "17-06-2019",
+            "total_votes": 594006,
+            "total_captions": 3027,
+            "total_funny": 49725,
+            "total_somewhat_funny": 129165,
+            "total_not_funny": 415116
+        },
+        {
+            "contest_id": 674,
+            "date": "24-06-2019",
+            "total_votes": 1141173,
+            "total_captions": 4674,
+            "total_funny": 121170,
+            "total_somewhat_funny": 259000,
+            "total_not_funny": 760910
+        },
+        {
+            "contest_id": 675,
+            "date": "01-07-2019",
+            "total_votes": 649536,
+            "total_captions": 3986,
+            "total_funny": 68352,
+            "total_somewhat_funny": 159671,
+            "total_not_funny": 421512
+        },
+        {
+            "contest_id": 676,
+            "date": "08-07-2019",
+            "total_votes": 906706,
+            "total_captions": 4509,
+            "total_funny": 94814,
+            "total_somewhat_funny": 227947,
+            "total_not_funny": 583946
+        },
+        {
+            "contest_id": 677,
+            "date": "15-07-2019",
+            "total_votes": 676090,
+            "total_captions": 3048,
+            "total_funny": 74266,
+            "total_somewhat_funny": 174593,
+            "total_not_funny": 427231
+        },
+        {
+            "contest_id": 678,
+            "date": "22-07-2019",
+            "total_votes": 701041,
+            "total_captions": 5290,
+            "total_funny": 53836,
+            "total_somewhat_funny": 139873,
+            "total_not_funny": 507332
+        },
+        {
+            "contest_id": 679,
+            "date": "29-07-2019",
+            "total_votes": 716102,
+            "total_captions": 4227,
+            "total_funny": 60685,
+            "total_somewhat_funny": 161713,
+            "total_not_funny": 493704
+        },
+        {
+            "contest_id": 680,
+            "date": "05-08-2019",
+            "total_votes": 931233,
+            "total_captions": 5426,
+            "total_funny": 84918,
+            "total_somewhat_funny": 212983,
+            "total_not_funny": 633255
+        },
+        {
+            "contest_id": 681,
+            "date": "12-08-2019",
+            "total_votes": 1105947,
+            "total_captions": 6061,
+            "total_funny": 121485,
+            "total_somewhat_funny": 265592,
+            "total_not_funny": 718838
+        },
+        {
+            "contest_id": 682,
+            "date": "19-08-2019",
+            "total_votes": 1105815,
+            "total_captions": 5413,
+            "total_funny": 104359,
+            "total_somewhat_funny": 273726,
+            "total_not_funny": 727730
+        },
+        {
+            "contest_id": 683,
+            "date": "26-08-2019",
+            "total_votes": 821534,
+            "total_captions": 3493,
+            "total_funny": 86489,
+            "total_somewhat_funny": 199977,
+            "total_not_funny": 535064
+        },
+        {
+            "contest_id": 684,
+            "date": "02-09-2019",
+            "total_votes": 1074187,
+            "total_captions": 5549,
+            "total_funny": 128943,
+            "total_somewhat_funny": 256637,
+            "total_not_funny": 688496
+        },
+        {
+            "contest_id": 685,
+            "date": "09-09-2019",
+            "total_votes": 894758,
+            "total_captions": 4459,
+            "total_funny": 72074,
+            "total_somewhat_funny": 187031,
+            "total_not_funny": 635265
+        },
+        {
+            "contest_id": 686,
+            "date": "16-09-2019",
+            "total_votes": 1061789,
+            "total_captions": 5267,
+            "total_funny": 97806,
+            "total_somewhat_funny": 249243,
+            "total_not_funny": 714646
+        },
+        {
+            "contest_id": 687,
+            "date": "23-09-2019",
+            "total_votes": 743710,
+            "total_captions": 4965,
+            "total_funny": 62591,
+            "total_somewhat_funny": 154623,
+            "total_not_funny": 526496
+        },
+        {
+            "contest_id": 688,
+            "date": "30-09-2019",
+            "total_votes": 787197,
+            "total_captions": 4001,
+            "total_funny": 93486,
+            "total_somewhat_funny": 184623,
+            "total_not_funny": 509088
+        },
+        {
+            "contest_id": 689,
+            "date": "07-10-2019",
+            "total_votes": 805277,
+            "total_captions": 3972,
+            "total_funny": 83618,
+            "total_somewhat_funny": 182913,
+            "total_not_funny": 538746
+        },
+        {
+            "contest_id": 690,
+            "date": "14-10-2019",
+            "total_votes": 36422,
+            "total_captions": 4987,
+            "total_funny": 808,
+            "total_somewhat_funny": 1964,
+            "total_not_funny": 33647
+        },
+        {
+            "contest_id": 691,
+            "date": "21-10-2019",
+            "total_votes": 986920,
+            "total_captions": 7824,
+            "total_funny": 76489,
+            "total_somewhat_funny": 187647,
+            "total_not_funny": 722784
+        },
+        {
+            "contest_id": 692,
+            "date": "28-10-2019",
+            "total_votes": 820452,
+            "total_captions": 4145,
+            "total_funny": 75952,
+            "total_somewhat_funny": 171948,
+            "total_not_funny": 572275
+        },
+        {
+            "contest_id": 693,
+            "date": "04-11-2019",
+            "total_votes": 907990,
+            "total_captions": 3620,
+            "total_funny": 111195,
+            "total_somewhat_funny": 229194,
+            "total_not_funny": 567601
+        },
+        {
+            "contest_id": 694,
+            "date": "11-11-2019",
+            "total_votes": 755066,
+            "total_captions": 3835,
+            "total_funny": 74360,
+            "total_somewhat_funny": 160527,
+            "total_not_funny": 520179
+        },
+        {
+            "contest_id": 695,
+            "date": "18-11-2019",
+            "total_votes": 74757,
+            "total_captions": 7419,
+            "total_funny": 2583,
+            "total_somewhat_funny": 9288,
+            "total_not_funny": 62474
+        },
+        {
+            "contest_id": 696,
+            "date": "25-11-2019",
+            "total_votes": 1320675,
+            "total_captions": 7870,
+            "total_funny": 127150,
+            "total_somewhat_funny": 267436,
+            "total_not_funny": 925481
+        },
+        {
+            "contest_id": 697,
+            "date": "02-12-2019",
+            "total_votes": 1277436,
+            "total_captions": 4466,
+            "total_funny": 148478,
+            "total_somewhat_funny": 282759,
+            "total_not_funny": 846199
+        },
+        {
+            "contest_id": 698,
+            "date": "09-12-2019",
+            "total_votes": 973575,
+            "total_captions": 6324,
+            "total_funny": 90758,
+            "total_somewhat_funny": 198269,
+            "total_not_funny": 684548
+        },
+        {
+            "contest_id": 699,
+            "date": "16-12-2019",
+            "total_votes": 1162424,
+            "total_captions": 5789,
+            "total_funny": 141800,
+            "total_somewhat_funny": 283218,
+            "total_not_funny": 736858
+        },
+        {
+            "contest_id": 700,
+            "date": "23-12-2019",
+            "total_votes": 929849,
+            "total_captions": 7135,
+            "total_funny": 120724,
+            "total_somewhat_funny": 233531,
+            "total_not_funny": 575594
+        },
+        {
+            "contest_id": 701,
+            "date": "30-12-2019",
+            "total_votes": 1071375,
+            "total_captions": 5819,
+            "total_funny": 156170,
+            "total_somewhat_funny": 274083,
+            "total_not_funny": 640721
+        },
+        {
+            "contest_id": 702,
+            "date": "06-01-2020",
+            "total_votes": 875372,
+            "total_captions": 4689,
+            "total_funny": 108196,
+            "total_somewhat_funny": 240980,
+            "total_not_funny": 525710
+        },
+        {
+            "contest_id": 703,
+            "date": "13-01-2020",
+            "total_votes": 951639,
+            "total_captions": 5004,
+            "total_funny": 116372,
+            "total_somewhat_funny": 252567,
+            "total_not_funny": 582397
+        },
+        {
+            "contest_id": 704,
+            "date": "20-01-2020",
+            "total_votes": 1065108,
+            "total_captions": 4748,
+            "total_funny": 130760,
+            "total_somewhat_funny": 283850,
+            "total_not_funny": 650497
+        },
+        {
+            "contest_id": 705,
+            "date": "27-01-2020",
+            "total_votes": 1232338,
+            "total_captions": 5262,
+            "total_funny": 162882,
+            "total_somewhat_funny": 336807,
+            "total_not_funny": 732650
+        },
+        {
+            "contest_id": 706,
+            "date": "03-02-2020",
+            "total_votes": 1062909,
+            "total_captions": 4590,
+            "total_funny": 133602,
+            "total_somewhat_funny": 291237,
+            "total_not_funny": 637005
+        },
+        {
+            "contest_id": 707,
+            "date": "10-02-2020",
+            "total_votes": 1363982,
+            "total_captions": 10563,
+            "total_funny": 137113,
+            "total_somewhat_funny": 312520,
+            "total_not_funny": 913962
+        },
+        {
+            "contest_id": 708,
+            "date": "17-02-2020",
+            "total_votes": 1437936,
+            "total_captions": 9070,
+            "total_funny": 157630,
+            "total_somewhat_funny": 333070,
+            "total_not_funny": 946861
+        },
+        {
+            "contest_id": 709,
+            "date": "24-02-2020",
+            "total_votes": 1447605,
+            "total_captions": 9567,
+            "total_funny": 172933,
+            "total_somewhat_funny": 328972,
+            "total_not_funny": 945196
+        },
+        {
+            "contest_id": 710,
+            "date": "02-03-2020",
+            "total_votes": 1526623,
+            "total_captions": 8028,
+            "total_funny": 149731,
+            "total_somewhat_funny": 355782,
+            "total_not_funny": 1020822
+        },
+        {
+            "contest_id": 711,
+            "date": "09-03-2020",
+            "total_votes": 1046301,
+            "total_captions": 7543,
+            "total_funny": 134645,
+            "total_somewhat_funny": 278282,
+            "total_not_funny": 633374
+        },
+        {
+            "contest_id": 712,
+            "date": "16-03-2020",
+            "total_votes": 1472919,
+            "total_captions": 10525,
+            "total_funny": 209262,
+            "total_somewhat_funny": 394156,
+            "total_not_funny": 869489
+        },
+        {
+            "contest_id": 713,
+            "date": "23-03-2020",
+            "total_votes": 1050163,
+            "total_captions": 9336,
+            "total_funny": 101643,
+            "total_somewhat_funny": 243659,
+            "total_not_funny": 704861
+        },
+        {
+            "contest_id": 714,
+            "date": "30-03-2020",
+            "total_votes": 863579,
+            "total_captions": 5419,
+            "total_funny": 84154,
+            "total_somewhat_funny": 193800,
+            "total_not_funny": 585394
+        },
+        {
+            "contest_id": 715,
+            "date": "06-04-2020",
+            "total_votes": 1985688,
+            "total_captions": 9952,
+            "total_funny": 226909,
+            "total_somewhat_funny": 432364,
+            "total_not_funny": 1326171
+        },
+        {
+            "contest_id": 716,
+            "date": "13-04-2020",
+            "total_votes": 259088,
+            "total_captions": 15147,
+            "total_funny": 11781,
+            "total_somewhat_funny": 39237,
+            "total_not_funny": 208070
+        },
+        {
+            "contest_id": 717,
+            "date": "20-04-2020",
+            "total_votes": 1028419,
+            "total_captions": 9513,
+            "total_funny": 109608,
+            "total_somewhat_funny": 226506,
+            "total_not_funny": 692305
+        },
+        {
+            "contest_id": 718,
+            "date": "27-04-2020",
+            "total_votes": 1906570,
+            "total_captions": 9023,
+            "total_funny": 263727,
+            "total_somewhat_funny": 427402,
+            "total_not_funny": 1215439
+        },
+        {
+            "contest_id": 719,
+            "date": "04-05-2020",
+            "total_votes": 1008390,
+            "total_captions": 9917,
+            "total_funny": 104267,
+            "total_somewhat_funny": 214694,
+            "total_not_funny": 689429
+        },
+        {
+            "contest_id": 720,
+            "date": "11-05-2020",
+            "total_votes": 1104495,
+            "total_captions": 8457,
+            "total_funny": 108432,
+            "total_somewhat_funny": 214865,
+            "total_not_funny": 780961
+        },
+        {
+            "contest_id": 721,
+            "date": "18-05-2020",
+            "total_votes": 808542,
+            "total_captions": 4845,
+            "total_funny": 87534,
+            "total_somewhat_funny": 166401,
+            "total_not_funny": 554607
+        },
+        {
+            "contest_id": 722,
+            "date": "25-05-2020",
+            "total_votes": 1466188,
+            "total_captions": 9748,
+            "total_funny": 130562,
+            "total_somewhat_funny": 274890,
+            "total_not_funny": 1060712
+        },
+        {
+            "contest_id": 723,
+            "date": "01-06-2020",
+            "total_votes": 1310211,
+            "total_captions": 6824,
+            "total_funny": 126695,
+            "total_somewhat_funny": 283164,
+            "total_not_funny": 899380
+        },
+        {
+            "contest_id": 724,
+            "date": "08-06-2020",
+            "total_votes": 989962,
+            "total_captions": 6052,
+            "total_funny": 115483,
+            "total_somewhat_funny": 205964,
+            "total_not_funny": 668498
+        },
+        {
+            "contest_id": 725,
+            "date": "15-06-2020",
+            "total_votes": 1024454,
+            "total_captions": 7552,
+            "total_funny": 114619,
+            "total_somewhat_funny": 199977,
+            "total_not_funny": 709638
+        },
+        {
+            "contest_id": 726,
+            "date": "22-06-2020",
+            "total_votes": 966847,
+            "total_captions": 7595,
+            "total_funny": 82874,
+            "total_somewhat_funny": 196554,
+            "total_not_funny": 687395
+        },
+        {
+            "contest_id": 727,
+            "date": "29-06-2020",
+            "total_votes": 912074,
+            "total_captions": 9551,
+            "total_funny": 101190,
+            "total_somewhat_funny": 217924,
+            "total_not_funny": 592852
+        },
+        {
+            "contest_id": 728,
+            "date": "06-07-2020",
+            "total_votes": 916233,
+            "total_captions": 5781,
+            "total_funny": 101989,
+            "total_somewhat_funny": 213640,
+            "total_not_funny": 600604
+        },
+        {
+            "contest_id": 729,
+            "date": "13-07-2020",
+            "total_votes": 891485,
+            "total_captions": 5683,
+            "total_funny": 90164,
+            "total_somewhat_funny": 199135,
+            "total_not_funny": 602186
+        },
+        {
+            "contest_id": 730,
+            "date": "20-07-2020",
+            "total_votes": 54493,
+            "total_captions": 8103,
+            "total_funny": 1246,
+            "total_somewhat_funny": 10642,
+            "total_not_funny": 42605
+        },
+        {
+            "contest_id": 731,
+            "date": "27-07-2020",
+            "total_votes": 661737,
+            "total_captions": 7128,
+            "total_funny": 64086,
+            "total_somewhat_funny": 156967,
+            "total_not_funny": 440622
+        },
+        {
+            "contest_id": 732,
+            "date": "03-08-2020",
+            "total_votes": 927978,
+            "total_captions": 5843,
+            "total_funny": 117556,
+            "total_somewhat_funny": 236071,
+            "total_not_funny": 574351
+        },
+        {
+            "contest_id": 733,
+            "date": "10-08-2020",
+            "total_votes": 1156099,
+            "total_captions": 9983,
+            "total_funny": 120275,
+            "total_somewhat_funny": 243501,
+            "total_not_funny": 791974
+        },
+        {
+            "contest_id": 734,
+            "date": "17-08-2020",
+            "total_votes": 830641,
+            "total_captions": 7260,
+            "total_funny": 71202,
+            "total_somewhat_funny": 190420,
+            "total_not_funny": 569019
+        },
+        {
+            "contest_id": 735,
+            "date": "24-08-2020",
+            "total_votes": 666081,
+            "total_captions": 4557,
+            "total_funny": 64748,
+            "total_somewhat_funny": 163450,
+            "total_not_funny": 437794
+        },
+        {
+            "contest_id": 736,
+            "date": "31-08-2020",
+            "total_votes": 860407,
+            "total_captions": 6827,
+            "total_funny": 86996,
+            "total_somewhat_funny": 198856,
+            "total_not_funny": 574554
+        },
+        {
+            "contest_id": 737,
+            "date": "07-09-2020",
+            "total_votes": 830469,
+            "total_captions": 6289,
+            "total_funny": 70646,
+            "total_somewhat_funny": 204327,
+            "total_not_funny": 555454
+        },
+        {
+            "contest_id": 738,
+            "date": "14-09-2020",
+            "total_votes": 930814,
+            "total_captions": 7772,
+            "total_funny": 95371,
+            "total_somewhat_funny": 196806,
+            "total_not_funny": 638637
+        },
+        {
+            "contest_id": 739,
+            "date": "21-09-2020",
+            "total_votes": 938219,
+            "total_captions": 6833,
+            "total_funny": 107704,
+            "total_somewhat_funny": 228987,
+            "total_not_funny": 601474
+        },
+        {
+            "contest_id": 740,
+            "date": "28-09-2020",
+            "total_votes": 1006065,
+            "total_captions": 10934,
+            "total_funny": 86596,
+            "total_somewhat_funny": 230840,
+            "total_not_funny": 688596
+        },
+        {
+            "contest_id": 741,
+            "date": "05-10-2020",
+            "total_votes": 666447,
+            "total_captions": 5989,
+            "total_funny": 50244,
+            "total_somewhat_funny": 149301,
+            "total_not_funny": 466902
+        },
+        {
+            "contest_id": 742,
+            "date": "12-10-2020",
+            "total_votes": 655130,
+            "total_captions": 5723,
+            "total_funny": 27088,
+            "total_somewhat_funny": 110545,
+            "total_not_funny": 517496
+        },
+        {
+            "contest_id": 743,
+            "date": "19-10-2020",
+            "total_votes": 1121288,
+            "total_captions": 6186,
+            "total_funny": 61491,
+            "total_somewhat_funny": 194018,
+            "total_not_funny": 865779
+        },
+        {
+            "contest_id": 744,
+            "date": "26-10-2020",
+            "total_votes": 1091840,
+            "total_captions": 12148,
+            "total_funny": 59903,
+            "total_somewhat_funny": 196543,
+            "total_not_funny": 835395
+        },
+        {
+            "contest_id": 745,
+            "date": "02-11-2020",
+            "total_votes": 981608,
+            "total_captions": 9504,
+            "total_funny": 92641,
+            "total_somewhat_funny": 228872,
+            "total_not_funny": 660095
+        },
+        {
+            "contest_id": 746,
+            "date": "09-11-2020",
+            "total_votes": 1107397,
+            "total_captions": 9393,
+            "total_funny": 87974,
+            "total_somewhat_funny": 240404,
+            "total_not_funny": 779019
+        },
+        {
+            "contest_id": 747,
+            "date": "16-11-2020",
+            "total_votes": 864313,
+            "total_captions": 9637,
+            "total_funny": 87321,
+            "total_somewhat_funny": 218059,
+            "total_not_funny": 558933
+        },
+        {
+            "contest_id": 748,
+            "date": "23-11-2020",
+            "total_votes": 885313,
+            "total_captions": 8871,
+            "total_funny": 66715,
+            "total_somewhat_funny": 201865,
+            "total_not_funny": 616697
+        },
+        {
+            "contest_id": 749,
+            "date": "30-11-2020",
+            "total_votes": 680376,
+            "total_captions": 5429,
+            "total_funny": 63412,
+            "total_somewhat_funny": 170184,
+            "total_not_funny": 446780
+        },
+        {
+            "contest_id": 750,
+            "date": "07-12-2020",
+            "total_votes": 783654,
+            "total_captions": 7068,
+            "total_funny": 73011,
+            "total_somewhat_funny": 172115,
+            "total_not_funny": 538528
+        },
+        {
+            "contest_id": 751,
+            "date": "14-12-2020",
+            "total_votes": 774735,
+            "total_captions": 7144,
+            "total_funny": 68931,
+            "total_somewhat_funny": 178442,
+            "total_not_funny": 527362
+        },
+        {
+            "contest_id": 752,
+            "date": "21-12-2020",
+            "total_votes": 1131257,
+            "total_captions": 6488,
+            "total_funny": 140792,
+            "total_somewhat_funny": 293299,
+            "total_not_funny": 697048
+        },
+        {
+            "contest_id": 753,
+            "date": "28-12-2020",
+            "total_votes": 1095375,
+            "total_captions": 10863,
+            "total_funny": 69835,
+            "total_somewhat_funny": 193084,
+            "total_not_funny": 832058
+        },
+        {
+            "contest_id": 754,
+            "date": "04-01-2021",
+            "total_votes": 715378,
+            "total_captions": 6055,
+            "total_funny": 57043,
+            "total_somewhat_funny": 166815,
+            "total_not_funny": 491520
+        },
+        {
+            "contest_id": 755,
+            "date": "11-01-2021",
+            "total_votes": 818679,
+            "total_captions": 8736,
+            "total_funny": 76646,
+            "total_somewhat_funny": 184700,
+            "total_not_funny": 557333
+        },
+        {
+            "contest_id": 756,
+            "date": "18-01-2021",
+            "total_votes": 762594,
+            "total_captions": 9168,
+            "total_funny": 66653,
+            "total_somewhat_funny": 197020,
+            "total_not_funny": 498921
+        },
+        {
+            "contest_id": 757,
+            "date": "25-01-2021",
+            "total_votes": 734258,
+            "total_captions": 6556,
+            "total_funny": 58792,
+            "total_somewhat_funny": 152965,
+            "total_not_funny": 522501
+        },
+        {
+            "contest_id": 758,
+            "date": "01-02-2021",
+            "total_votes": 561428,
+            "total_captions": 4451,
+            "total_funny": 53477,
+            "total_somewhat_funny": 128029,
+            "total_not_funny": 379922
+        },
+        {
+            "contest_id": 759,
+            "date": "08-02-2021",
+            "total_votes": 768506,
+            "total_captions": 9266,
+            "total_funny": 51322,
+            "total_somewhat_funny": 153457,
+            "total_not_funny": 563727
+        },
+        {
+            "contest_id": 760,
+            "date": "15-02-2021",
+            "total_votes": 798208,
+            "total_captions": 7295,
+            "total_funny": 67027,
+            "total_somewhat_funny": 160122,
+            "total_not_funny": 571059
+        },
+        {
+            "contest_id": 761,
+            "date": "22-02-2021",
+            "total_votes": 918020,
+            "total_captions": 10594,
+            "total_funny": 67299,
+            "total_somewhat_funny": 187589,
+            "total_not_funny": 663132
+        },
+        {
+            "contest_id": 762,
+            "date": "01-03-2021",
+            "total_votes": 892666,
+            "total_captions": 6975,
+            "total_funny": 83857,
+            "total_somewhat_funny": 190705,
+            "total_not_funny": 618104
+        },
+        {
+            "contest_id": 763,
+            "date": "08-03-2021",
+            "total_votes": 875547,
+            "total_captions": 8821,
+            "total_funny": 71148,
+            "total_somewhat_funny": 183671,
+            "total_not_funny": 620675
+        },
+        {
+            "contest_id": 764,
+            "date": "15-03-2021",
+            "total_votes": 653110,
+            "total_captions": 6186,
+            "total_funny": 55117,
+            "total_somewhat_funny": 141179,
+            "total_not_funny": 456814
+        },
+        {
+            "contest_id": 765,
+            "date": "22-03-2021",
+            "total_votes": 750918,
+            "total_captions": 6792,
+            "total_funny": 54424,
+            "total_somewhat_funny": 160261,
+            "total_not_funny": 536233
+        },
+        {
+            "contest_id": 766,
+            "date": "29-03-2021",
+            "total_votes": 719663,
+            "total_captions": 5513,
+            "total_funny": 67757,
+            "total_somewhat_funny": 151969,
+            "total_not_funny": 499938
+        },
+        {
+            "contest_id": 767,
+            "date": "05-04-2021",
+            "total_votes": 760592,
+            "total_captions": 7787,
+            "total_funny": 65319,
+            "total_somewhat_funny": 157056,
+            "total_not_funny": 538217
+        },
+        {
+            "contest_id": 768,
+            "date": "12-04-2021",
+            "total_votes": 763988,
+            "total_captions": 6399,
+            "total_funny": 71241,
+            "total_somewhat_funny": 161666,
+            "total_not_funny": 531081
+        },
+        {
+            "contest_id": 769,
+            "date": "19-04-2021",
+            "total_votes": 909224,
+            "total_captions": 7906,
+            "total_funny": 83831,
+            "total_somewhat_funny": 183351,
+            "total_not_funny": 642042
+        },
+        {
+            "contest_id": 770,
+            "date": "26-04-2021",
+            "total_votes": 525503,
+            "total_captions": 5253,
+            "total_funny": 46275,
+            "total_somewhat_funny": 118639,
+            "total_not_funny": 360565
+        },
+        {
+            "contest_id": 771,
+            "date": "03-05-2021",
+            "total_votes": 611064,
+            "total_captions": 6775,
+            "total_funny": 52000,
+            "total_somewhat_funny": 128190,
+            "total_not_funny": 430874
+        },
+        {
+            "contest_id": 772,
+            "date": "10-05-2021",
+            "total_votes": 687029,
+            "total_captions": 6048,
+            "total_funny": 54697,
+            "total_somewhat_funny": 147706,
+            "total_not_funny": 484626
+        },
+        {
+            "contest_id": 773,
+            "date": "17-05-2021",
+            "total_votes": 657923,
+            "total_captions": 6641,
+            "total_funny": 58837,
+            "total_somewhat_funny": 157026,
+            "total_not_funny": 442060
+        },
+        {
+            "contest_id": 774,
+            "date": "24-05-2021",
+            "total_votes": 779544,
+            "total_captions": 5051,
+            "total_funny": 58771,
+            "total_somewhat_funny": 154567,
+            "total_not_funny": 566081
+        },
+        {
+            "contest_id": 775,
+            "date": "31-05-2021",
+            "total_votes": 821688,
+            "total_captions": 7961,
+            "total_funny": 69020,
+            "total_somewhat_funny": 180105,
+            "total_not_funny": 572564
+        },
+        {
+            "contest_id": 776,
+            "date": "07-06-2021",
+            "total_votes": 687627,
+            "total_captions": 7461,
+            "total_funny": 60057,
+            "total_somewhat_funny": 155990,
+            "total_not_funny": 471581
+        },
+        {
+            "contest_id": 777,
+            "date": "14-06-2021",
+            "total_votes": 783669,
+            "total_captions": 6752,
+            "total_funny": 66517,
+            "total_somewhat_funny": 185258,
+            "total_not_funny": 531893
+        },
+        {
+            "contest_id": 778,
+            "date": "21-06-2021",
+            "total_votes": 733584,
+            "total_captions": 6947,
+            "total_funny": 53615,
+            "total_somewhat_funny": 152146,
+            "total_not_funny": 527773
+        },
+        {
+            "contest_id": 779,
+            "date": "28-06-2021",
+            "total_votes": 692580,
+            "total_captions": 4590,
+            "total_funny": 66453,
+            "total_somewhat_funny": 147336,
+            "total_not_funny": 478791
+        },
+        {
+            "contest_id": 780,
+            "date": "05-07-2021",
+            "total_votes": 770413,
+            "total_captions": 6384,
+            "total_funny": 60384,
+            "total_somewhat_funny": 162886,
+            "total_not_funny": 547139
+        },
+        {
+            "contest_id": 781,
+            "date": "12-07-2021",
+            "total_votes": 774046,
+            "total_captions": 5866,
+            "total_funny": 52605,
+            "total_somewhat_funny": 145544,
+            "total_not_funny": 575768
+        },
+        {
+            "contest_id": 782,
+            "date": "19-07-2021",
+            "total_votes": 672694,
+            "total_captions": 4297,
+            "total_funny": 52464,
+            "total_somewhat_funny": 135999,
+            "total_not_funny": 484231
+        },
+        {
+            "contest_id": 783,
+            "date": "26-07-2021",
+            "total_votes": 757685,
+            "total_captions": 6176,
+            "total_funny": 54113,
+            "total_somewhat_funny": 150528,
+            "total_not_funny": 553044
+        },
+        {
+            "contest_id": 784,
+            "date": "02-08-2021",
+            "total_votes": 1211860,
+            "total_captions": 4073,
+            "total_funny": 129239,
+            "total_somewhat_funny": 281706,
+            "total_not_funny": 800915
+        },
+        {
+            "contest_id": 785,
+            "date": "09-08-2021",
+            "total_votes": 419227,
+            "total_captions": 6618,
+            "total_funny": 23033,
+            "total_somewhat_funny": 80622,
+            "total_not_funny": 315570
+        },
+        {
+            "contest_id": 786,
+            "date": "16-08-2021",
+            "total_votes": 1057212,
+            "total_captions": 7686,
+            "total_funny": 98542,
+            "total_somewhat_funny": 241552,
+            "total_not_funny": 717118
+        },
+        {
+            "contest_id": 787,
+            "date": "23-08-2021",
+            "total_votes": 675028,
+            "total_captions": 5304,
+            "total_funny": 44824,
+            "total_somewhat_funny": 140300,
+            "total_not_funny": 489904
+        },
+        {
+            "contest_id": 788,
+            "date": "30-08-2021",
+            "total_votes": 803854,
+            "total_captions": 5564,
+            "total_funny": 69516,
+            "total_somewhat_funny": 169916,
+            "total_not_funny": 564288
+        },
+        {
+            "contest_id": 789,
+            "date": "06-09-2021",
+            "total_votes": 441800,
+            "total_captions": 6123,
+            "total_funny": 29150,
+            "total_somewhat_funny": 78813,
+            "total_not_funny": 333839
+        },
+        {
+            "contest_id": 790,
+            "date": "13-09-2021",
+            "total_votes": 840019,
+            "total_captions": 3850,
+            "total_funny": 73764,
+            "total_somewhat_funny": 182486,
+            "total_not_funny": 583769
+        },
+        {
+            "contest_id": 791,
+            "date": "20-09-2021",
+            "total_votes": 895926,
+            "total_captions": 7144,
+            "total_funny": 67119,
+            "total_somewhat_funny": 186991,
+            "total_not_funny": 641718
+        },
+        {
+            "contest_id": 792,
+            "date": "27-09-2021",
+            "total_votes": 764531,
+            "total_captions": 5079,
+            "total_funny": 55281,
+            "total_somewhat_funny": 144902,
+            "total_not_funny": 564348
+        },
+        {
+            "contest_id": 793,
+            "date": "04-10-2021",
+            "total_votes": 701575,
+            "total_captions": 5432,
+            "total_funny": 58975,
+            "total_somewhat_funny": 145378,
+            "total_not_funny": 497220
+        },
+        {
+            "contest_id": 794,
+            "date": "11-10-2021",
+            "total_votes": 674773,
+            "total_captions": 5689,
+            "total_funny": 58788,
+            "total_somewhat_funny": 135524,
+            "total_not_funny": 480461
+        },
+        {
+            "contest_id": 795,
+            "date": "18-10-2021",
+            "total_votes": 727762,
+            "total_captions": 5797,
+            "total_funny": 56464,
+            "total_somewhat_funny": 138871,
+            "total_not_funny": 532427
+        },
+        {
+            "contest_id": 796,
+            "date": "25-10-2021",
+            "total_votes": 652741,
+            "total_captions": 5509,
+            "total_funny": 49818,
+            "total_somewhat_funny": 124818,
+            "total_not_funny": 478102
+        },
+        {
+            "contest_id": 797,
+            "date": "01-11-2021",
+            "total_votes": 746534,
+            "total_captions": 5682,
+            "total_funny": 71244,
+            "total_somewhat_funny": 159699,
+            "total_not_funny": 515591
+        },
+        {
+            "contest_id": 798,
+            "date": "08-11-2021",
+            "total_votes": 689115,
+            "total_captions": 4637,
+            "total_funny": 61020,
+            "total_somewhat_funny": 148748,
+            "total_not_funny": 479347
+        },
+        {
+            "contest_id": 799,
+            "date": "15-11-2021",
+            "total_votes": 1065413,
+            "total_captions": 6684,
+            "total_funny": 93981,
+            "total_somewhat_funny": 220565,
+            "total_not_funny": 750866
+        },
+        {
+            "contest_id": 800,
+            "date": "22-11-2021",
+            "total_votes": 752068,
+            "total_captions": 7843,
+            "total_funny": 52614,
+            "total_somewhat_funny": 155883,
+            "total_not_funny": 543430
+        },
+        {
+            "contest_id": 801,
+            "date": "29-11-2021",
+            "total_votes": 551153,
+            "total_captions": 4357,
+            "total_funny": 36546,
+            "total_somewhat_funny": 114718,
+            "total_not_funny": 399758
+        },
+        {
+            "contest_id": 802,
+            "date": "06-12-2021",
+            "total_votes": 715678,
+            "total_captions": 5696,
+            "total_funny": 64030,
+            "total_somewhat_funny": 137389,
+            "total_not_funny": 514259
+        },
+        {
+            "contest_id": 803,
+            "date": "13-12-2021",
+            "total_votes": 798745,
+            "total_captions": 7463,
+            "total_funny": 64731,
+            "total_somewhat_funny": 155919,
+            "total_not_funny": 578095
+        },
+        {
+            "contest_id": 804,
+            "date": "20-12-2021",
+            "total_votes": 647620,
+            "total_captions": 5524,
+            "total_funny": 43392,
+            "total_somewhat_funny": 112799,
+            "total_not_funny": 491429
+        },
+        {
+            "contest_id": 805,
+            "date": "27-12-2021",
+            "total_votes": 724628,
+            "total_captions": 7608,
+            "total_funny": 46124,
+            "total_somewhat_funny": 114193,
+            "total_not_funny": 564311
+        },
+        {
+            "contest_id": 806,
+            "date": "03-01-2022",
+            "total_votes": 692604,
+            "total_captions": 4880,
+            "total_funny": 49130,
+            "total_somewhat_funny": 136951,
+            "total_not_funny": 506523
+        },
+        {
+            "contest_id": 807,
+            "date": "10-01-2022",
+            "total_votes": 573830,
+            "total_captions": 4899,
+            "total_funny": 37747,
+            "total_somewhat_funny": 91252,
+            "total_not_funny": 444831
+        },
+        {
+            "contest_id": 808,
+            "date": "17-01-2022",
+            "total_votes": 881520,
+            "total_captions": 5468,
+            "total_funny": 85060,
+            "total_somewhat_funny": 189158,
+            "total_not_funny": 607302
+        },
+        {
+            "contest_id": 809,
+            "date": "24-01-2022",
+            "total_votes": 658358,
+            "total_captions": 6671,
+            "total_funny": 46889,
+            "total_somewhat_funny": 114344,
+            "total_not_funny": 497125
+        },
+        {
+            "contest_id": 810,
+            "date": "31-01-2022",
+            "total_votes": 776446,
+            "total_captions": 8204,
+            "total_funny": 51085,
+            "total_somewhat_funny": 150645,
+            "total_not_funny": 574626
+        },
+        {
+            "contest_id": 811,
+            "date": "07-02-2022",
+            "total_votes": 627680,
+            "total_captions": 4571,
+            "total_funny": 47928,
+            "total_somewhat_funny": 145839,
+            "total_not_funny": 432938
+        },
+        {
+            "contest_id": 812,
+            "date": "14-02-2022",
+            "total_votes": 688950,
+            "total_captions": 5293,
+            "total_funny": 65716,
+            "total_somewhat_funny": 154431,
+            "total_not_funny": 468802
+        },
+        {
+            "contest_id": 813,
+            "date": "21-02-2022",
+            "total_votes": 696754,
+            "total_captions": 4648,
+            "total_funny": 46052,
+            "total_somewhat_funny": 130811,
+            "total_not_funny": 519889
+        },
+        {
+            "contest_id": 814,
+            "date": "28-02-2022",
+            "total_votes": 557618,
+            "total_captions": 4670,
+            "total_funny": 48053,
+            "total_somewhat_funny": 124568,
+            "total_not_funny": 384997
+        },
+        {
+            "contest_id": 815,
+            "date": "07-03-2022",
+            "total_votes": 528181,
+            "total_captions": 6241,
+            "total_funny": 43896,
+            "total_somewhat_funny": 113117,
+            "total_not_funny": 371168
+        },
+        {
+            "contest_id": 816,
+            "date": "14-03-2022",
+            "total_votes": 835133,
+            "total_captions": 6121,
+            "total_funny": 65233,
+            "total_somewhat_funny": 175139,
+            "total_not_funny": 594761
+        },
+        {
+            "contest_id": 817,
+            "date": "21-03-2022",
+            "total_votes": 557044,
+            "total_captions": 4583,
+            "total_funny": 32036,
+            "total_somewhat_funny": 98792,
+            "total_not_funny": 426216
+        },
+        {
+            "contest_id": 818,
+            "date": "28-03-2022",
+            "total_votes": 762400,
+            "total_captions": 4575,
+            "total_funny": 46549,
+            "total_somewhat_funny": 166809,
+            "total_not_funny": 549042
+        },
+        {
+            "contest_id": 819,
+            "date": "04-04-2022",
+            "total_votes": 793956,
+            "total_captions": 5646,
+            "total_funny": 64119,
+            "total_somewhat_funny": 158572,
+            "total_not_funny": 571261
+        },
+        {
+            "contest_id": 820,
+            "date": "11-04-2022",
+            "total_votes": 558737,
+            "total_captions": 6372,
+            "total_funny": 37254,
+            "total_somewhat_funny": 95781,
+            "total_not_funny": 425702
+        },
+        {
+            "contest_id": 821,
+            "date": "18-04-2022",
+            "total_votes": 727094,
+            "total_captions": 5198,
+            "total_funny": 51938,
+            "total_somewhat_funny": 138510,
+            "total_not_funny": 536644
+        },
+        {
+            "contest_id": 822,
+            "date": "25-04-2022",
+            "total_votes": 667466,
+            "total_captions": 4571,
+            "total_funny": 41114,
+            "total_somewhat_funny": 110304,
+            "total_not_funny": 516048
+        },
+        {
+            "contest_id": 823,
+            "date": "02-05-2022",
+            "total_votes": 389681,
+            "total_captions": 4142,
+            "total_funny": 22351,
+            "total_somewhat_funny": 64064,
+            "total_not_funny": 303266
+        },
+        {
+            "contest_id": 824,
+            "date": "09-05-2022",
+            "total_votes": 800945,
+            "total_captions": 5366,
+            "total_funny": 48416,
+            "total_somewhat_funny": 144335,
+            "total_not_funny": 608194
+        },
+        {
+            "contest_id": 825,
+            "date": "16-05-2022",
+            "total_votes": 794554,
+            "total_captions": 8006,
+            "total_funny": 58505,
+            "total_somewhat_funny": 157523,
+            "total_not_funny": 578526
+        },
+        {
+            "contest_id": 826,
+            "date": "23-05-2022",
+            "total_votes": 727246,
+            "total_captions": 6034,
+            "total_funny": 41924,
+            "total_somewhat_funny": 119860,
+            "total_not_funny": 565462
+        },
+        {
+            "contest_id": 827,
+            "date": "30-05-2022",
+            "total_votes": 797187,
+            "total_captions": 5844,
+            "total_funny": 57566,
+            "total_somewhat_funny": 145686,
+            "total_not_funny": 593935
+        },
+        {
+            "contest_id": 828,
+            "date": "06-06-2022",
+            "total_votes": 585295,
+            "total_captions": 4374,
+            "total_funny": 38729,
+            "total_somewhat_funny": 114258,
+            "total_not_funny": 432308
+        },
+        {
+            "contest_id": 829,
+            "date": "13-06-2022",
+            "total_votes": 690462,
+            "total_captions": 5323,
+            "total_funny": 49300,
+            "total_somewhat_funny": 146960,
+            "total_not_funny": 494200
+        },
+        {
+            "contest_id": 830,
+            "date": "20-06-2022",
+            "total_votes": 529427,
+            "total_captions": 4834,
+            "total_funny": 34096,
+            "total_somewhat_funny": 100073,
+            "total_not_funny": 395258
+        },
+        {
+            "contest_id": 831,
+            "date": "27-06-2022",
+            "total_votes": 1011571,
+            "total_captions": 4006,
+            "total_funny": 93906,
+            "total_somewhat_funny": 238334,
+            "total_not_funny": 679331
+        },
+        {
+            "contest_id": 832,
+            "date": "04-07-2022",
+            "total_votes": 550459,
+            "total_captions": 4288,
+            "total_funny": 28023,
+            "total_somewhat_funny": 83542,
+            "total_not_funny": 438894
+        },
+        {
+            "contest_id": 833,
+            "date": "11-07-2022",
+            "total_votes": 799817,
+            "total_captions": 6830,
+            "total_funny": 55538,
+            "total_somewhat_funny": 165330,
+            "total_not_funny": 578950
+        },
+        {
+            "contest_id": 834,
+            "date": "18-07-2022",
+            "total_votes": 480858,
+            "total_captions": 1429,
+            "total_funny": 29683,
+            "total_somewhat_funny": 82880,
+            "total_not_funny": 368295
+        },
+        {
+            "contest_id": 835,
+            "date": "25-07-2022",
+            "total_votes": 679200,
+            "total_captions": 1052,
+            "total_funny": 46519,
+            "total_somewhat_funny": 123715,
+            "total_not_funny": 508806
+        },
+        {
+            "contest_id": 836,
+            "date": "01-08-2022",
+            "total_votes": 1117542,
+            "total_captions": 1974,
+            "total_funny": 94005,
+            "total_somewhat_funny": 219435,
+            "total_not_funny": 804102
+        },
+        {
+            "contest_id": 837,
+            "date": "08-08-2022",
+            "total_votes": 673329,
+            "total_captions": 5242,
+            "total_funny": 28264,
+            "total_somewhat_funny": 86163,
+            "total_not_funny": 558902
+        },
+        {
+            "contest_id": 838,
+            "date": "15-08-2022",
+            "total_votes": 693019,
+            "total_captions": 5890,
+            "total_funny": 32497,
+            "total_somewhat_funny": 101403,
+            "total_not_funny": 559119
+        },
+        {
+            "contest_id": 839,
+            "date": "22-08-2022",
+            "total_votes": 562337,
+            "total_captions": 4069,
+            "total_funny": 39507,
+            "total_somewhat_funny": 100928,
+            "total_not_funny": 421902
+        },
+        {
+            "contest_id": 840,
+            "date": "29-08-2022",
+            "total_votes": 721692,
+            "total_captions": 5750,
+            "total_funny": 38358,
+            "total_somewhat_funny": 127488,
+            "total_not_funny": 555846
+        },
+        {
+            "contest_id": 841,
+            "date": "05-09-2022",
+            "total_votes": 726677,
+            "total_captions": 4848,
+            "total_funny": 47403,
+            "total_somewhat_funny": 124045,
+            "total_not_funny": 555229
+        },
+        {
+            "contest_id": 842,
+            "date": "12-09-2022",
+            "total_votes": 575471,
+            "total_captions": 3976,
+            "total_funny": 39553,
+            "total_somewhat_funny": 99571,
+            "total_not_funny": 436347
+        },
+        {
+            "contest_id": 843,
+            "date": "19-09-2022",
+            "total_votes": 683995,
+            "total_captions": 3760,
+            "total_funny": 39667,
+            "total_somewhat_funny": 109609,
+            "total_not_funny": 534719
+        },
+        {
+            "contest_id": 844,
+            "date": "26-09-2022",
+            "total_votes": 622726,
+            "total_captions": 5086,
+            "total_funny": 39914,
+            "total_somewhat_funny": 118035,
+            "total_not_funny": 464778
+        },
+        {
+            "contest_id": 845,
+            "date": "03-10-2022",
+            "total_votes": 675350,
+            "total_captions": 4353,
+            "total_funny": 43869,
+            "total_somewhat_funny": 108092,
+            "total_not_funny": 523389
+        },
+        {
+            "contest_id": 846,
+            "date": "10-10-2022",
+            "total_votes": 906326,
+            "total_captions": 4323,
+            "total_funny": 60605,
+            "total_somewhat_funny": 176205,
+            "total_not_funny": 669516
+        },
+        {
+            "contest_id": 847,
+            "date": "17-10-2022",
+            "total_votes": 686362,
+            "total_captions": 5740,
+            "total_funny": 28753,
+            "total_somewhat_funny": 93892,
+            "total_not_funny": 563717
+        },
+        {
+            "contest_id": 848,
+            "date": "24-10-2022",
+            "total_votes": 756103,
+            "total_captions": 5024,
+            "total_funny": 36520,
+            "total_somewhat_funny": 107859,
+            "total_not_funny": 611723
+        },
+        {
+            "contest_id": 849,
+            "date": "31-10-2022",
+            "total_votes": 685834,
+            "total_captions": 6225,
+            "total_funny": 33649,
+            "total_somewhat_funny": 97540,
+            "total_not_funny": 554645
+        },
+        {
+            "contest_id": 850,
+            "date": "07-11-2022",
+            "total_votes": 30430,
+            "total_captions": 5245,
+            "total_funny": 269,
+            "total_somewhat_funny": 3693,
+            "total_not_funny": 26469
+        },
+        {
+            "contest_id": 851,
+            "date": "14-11-2022",
+            "total_votes": 545568,
+            "total_captions": 5488,
+            "total_funny": 26901,
+            "total_somewhat_funny": 93884,
+            "total_not_funny": 424783
+        },
+        {
+            "contest_id": 852,
+            "date": "21-11-2022",
+            "total_votes": 830483,
+            "total_captions": 4868,
+            "total_funny": 44056,
+            "total_somewhat_funny": 128798,
+            "total_not_funny": 657629
+        },
+        {
+            "contest_id": 853,
+            "date": "28-11-2022",
+            "total_votes": 906915,
+            "total_captions": 4583,
+            "total_funny": 39686,
+            "total_somewhat_funny": 133328,
+            "total_not_funny": 733518
+        },
+        {
+            "contest_id": 854,
+            "date": "05-12-2022",
+            "total_votes": 754256,
+            "total_captions": 6544,
+            "total_funny": 36385,
+            "total_somewhat_funny": 102602,
+            "total_not_funny": 615269
+        },
+        {
+            "contest_id": 855,
+            "date": "12-12-2022",
+            "total_votes": 670571,
+            "total_captions": 4649,
+            "total_funny": 33430,
+            "total_somewhat_funny": 93292,
+            "total_not_funny": 543849
+        },
+        {
+            "contest_id": 856,
+            "date": "19-12-2022",
+            "total_votes": 1092751,
+            "total_captions": 6335,
+            "total_funny": 83885,
+            "total_somewhat_funny": 186003,
+            "total_not_funny": 822863
+        },
+        {
+            "contest_id": 857,
+            "date": "26-12-2022",
+            "total_votes": 746863,
+            "total_captions": 7799,
+            "total_funny": 45639,
+            "total_somewhat_funny": 118043,
+            "total_not_funny": 583181
+        },
+        {
+            "contest_id": 858,
+            "date": "02-01-2023",
+            "total_votes": 606544,
+            "total_captions": 3613,
+            "total_funny": 34655,
+            "total_somewhat_funny": 94606,
+            "total_not_funny": 477283
+        },
+        {
+            "contest_id": 859,
+            "date": "09-01-2023",
+            "total_votes": 830579,
+            "total_captions": 6734,
+            "total_funny": 51166,
+            "total_somewhat_funny": 144501,
+            "total_not_funny": 634912
+        },
+        {
+            "contest_id": 860,
+            "date": "16-01-2023",
+            "total_votes": 714084,
+            "total_captions": 4470,
+            "total_funny": 34495,
+            "total_somewhat_funny": 115208,
+            "total_not_funny": 564381
+        },
+        {
+            "contest_id": 861,
+            "date": "23-01-2023",
+            "total_votes": 764441,
+            "total_captions": 4941,
+            "total_funny": 43288,
+            "total_somewhat_funny": 101986,
+            "total_not_funny": 619166
+        },
+        {
+            "contest_id": 862,
+            "date": "30-01-2023",
+            "total_votes": 581919,
+            "total_captions": 4362,
+            "total_funny": 37743,
+            "total_somewhat_funny": 92956,
+            "total_not_funny": 451221
+        },
+        {
+            "contest_id": 863,
+            "date": "06-02-2023",
+            "total_votes": 949645,
+            "total_captions": 7434,
+            "total_funny": 61106,
+            "total_somewhat_funny": 146080,
+            "total_not_funny": 742460
+        },
+        {
+            "contest_id": 864,
+            "date": "13-02-2023",
+            "total_votes": 662495,
+            "total_captions": 7035,
+            "total_funny": 33927,
+            "total_somewhat_funny": 107287,
+            "total_not_funny": 521281
+        },
+        {
+            "contest_id": 865,
+            "date": "20-02-2023",
+            "total_votes": 918752,
+            "total_captions": 5386,
+            "total_funny": 39190,
+            "total_somewhat_funny": 112089,
+            "total_not_funny": 767472
+        },
+        {
+            "contest_id": 866,
+            "date": "27-02-2023",
+            "total_votes": 1020101,
+            "total_captions": 5049,
+            "total_funny": 63361,
+            "total_somewhat_funny": 148931,
+            "total_not_funny": 807807
+        },
+        {
+            "contest_id": 867,
+            "date": "06-03-2023",
+            "total_votes": 771985,
+            "total_captions": 6015,
+            "total_funny": 38296,
+            "total_somewhat_funny": 106481,
+            "total_not_funny": 627208
+        },
+        {
+            "contest_id": 868,
+            "date": "13-03-2023",
+            "total_votes": 885208,
+            "total_captions": 7946,
+            "total_funny": 44029,
+            "total_somewhat_funny": 134016,
+            "total_not_funny": 707163
+        },
+        {
+            "contest_id": 869,
+            "date": "20-03-2023",
+            "total_votes": 638763,
+            "total_captions": 5814,
+            "total_funny": 33447,
+            "total_somewhat_funny": 112656,
+            "total_not_funny": 492660
+        },
+        {
+            "contest_id": 870,
+            "date": "27-03-2023",
+            "total_votes": 518994,
+            "total_captions": 3843,
+            "total_funny": 28902,
+            "total_somewhat_funny": 65449,
+            "total_not_funny": 424643
+        },
+        {
+            "contest_id": 871,
+            "date": "03-04-2023",
+            "total_votes": 603976,
+            "total_captions": 4226,
+            "total_funny": 30617,
+            "total_somewhat_funny": 96092,
+            "total_not_funny": 477267
+        },
+        {
+            "contest_id": 872,
+            "date": "10-04-2023",
+            "total_votes": 677490,
+            "total_captions": 6814,
+            "total_funny": 38537,
+            "total_somewhat_funny": 108930,
+            "total_not_funny": 530023
+        },
+        {
+            "contest_id": 873,
+            "date": "17-04-2023",
+            "total_votes": 658367,
+            "total_captions": 5489,
+            "total_funny": 47075,
+            "total_somewhat_funny": 117628,
+            "total_not_funny": 493664
+        },
+        {
+            "contest_id": 874,
+            "date": "24-04-2023",
+            "total_votes": 650668,
+            "total_captions": 4156,
+            "total_funny": 43958,
+            "total_somewhat_funny": 110011,
+            "total_not_funny": 496699
+        },
+        {
+            "contest_id": 875,
+            "date": "01-05-2023",
+            "total_votes": 624911,
+            "total_captions": 5584,
+            "total_funny": 37876,
+            "total_somewhat_funny": 101129,
+            "total_not_funny": 485907
+        },
+        {
+            "contest_id": 876,
+            "date": "08-05-2023",
+            "total_votes": 730714,
+            "total_captions": 4633,
+            "total_funny": 43653,
+            "total_somewhat_funny": 145288,
+            "total_not_funny": 541773
+        },
+        {
+            "contest_id": 877,
+            "date": "15-05-2023",
+            "total_votes": 479988,
+            "total_captions": 3575,
+            "total_funny": 25836,
+            "total_somewhat_funny": 66569,
+            "total_not_funny": 387584
+        },
+        {
+            "contest_id": 878,
+            "date": "22-05-2023",
+            "total_votes": 767650,
+            "total_captions": 4460,
+            "total_funny": 48036,
+            "total_somewhat_funny": 131713,
+            "total_not_funny": 587901
+        },
+        {
+            "contest_id": 879,
+            "date": "29-05-2023",
+            "total_votes": 1105863,
+            "total_captions": 6933,
+            "total_funny": 69228,
+            "total_somewhat_funny": 205658,
+            "total_not_funny": 830977
+        },
+        {
+            "contest_id": 880,
+            "date": "05-06-2023",
+            "total_votes": 723038,
+            "total_captions": 6438,
+            "total_funny": 38806,
+            "total_somewhat_funny": 113389,
+            "total_not_funny": 570842
+        },
+        {
+            "contest_id": 881,
+            "date": "12-06-2023",
+            "total_votes": 664317,
+            "total_captions": 7454,
+            "total_funny": 35250,
+            "total_somewhat_funny": 109242,
+            "total_not_funny": 519825
+        },
+        {
+            "contest_id": 882,
+            "date": "19-06-2023",
+            "total_votes": 804899,
+            "total_captions": 5719,
+            "total_funny": 52807,
+            "total_somewhat_funny": 128610,
+            "total_not_funny": 623484
+        },
+        {
+            "contest_id": 883,
+            "date": "26-06-2023",
+            "total_votes": 776807,
+            "total_captions": 6824,
+            "total_funny": 49115,
+            "total_somewhat_funny": 129430,
+            "total_not_funny": 598262
+        },
+        {
+            "contest_id": 884,
+            "date": "03-07-2023",
+            "total_votes": 1069606,
+            "total_captions": 5946,
+            "total_funny": 65048,
+            "total_somewhat_funny": 173866,
+            "total_not_funny": 830692
+        },
+        {
+            "contest_id": 885,
+            "date": "10-07-2023",
+            "total_votes": 783968,
+            "total_captions": 6146,
+            "total_funny": 37907,
+            "total_somewhat_funny": 112962,
+            "total_not_funny": 633099
+        },
+        {
+            "contest_id": 886,
+            "date": "17-07-2023",
+            "total_votes": 626700,
+            "total_captions": 4697,
+            "total_funny": 35467,
+            "total_somewhat_funny": 107660,
+            "total_not_funny": 483573
+        },
+        {
+            "contest_id": 887,
+            "date": "24-07-2023",
+            "total_votes": 443432,
+            "total_captions": 4248,
+            "total_funny": 25108,
+            "total_somewhat_funny": 74863,
+            "total_not_funny": 343461
+        },
+        {
+            "contest_id": 888,
+            "date": "31-07-2023",
+            "total_votes": 672907,
+            "total_captions": 4534,
+            "total_funny": 36786,
+            "total_somewhat_funny": 103253,
+            "total_not_funny": 532868
+        },
+        {
+            "contest_id": 889,
+            "date": "07-08-2023",
+            "total_votes": 865117,
+            "total_captions": 6324,
+            "total_funny": 53643,
+            "total_somewhat_funny": 137769,
+            "total_not_funny": 673705
+        },
+        {
+            "contest_id": 890,
+            "date": "14-08-2023",
+            "total_votes": 720369,
+            "total_captions": 6987,
+            "total_funny": 36269,
+            "total_somewhat_funny": 115784,
+            "total_not_funny": 568316
+        },
+        {
+            "contest_id": 891,
+            "date": "21-08-2023",
+            "total_votes": 928735,
+            "total_captions": 5158,
+            "total_funny": 50679,
+            "total_somewhat_funny": 165114,
+            "total_not_funny": 712942
+        },
+        {
+            "contest_id": 892,
+            "date": "28-08-2023",
+            "total_votes": 788251,
+            "total_captions": 5188,
+            "total_funny": 50492,
+            "total_somewhat_funny": 141107,
+            "total_not_funny": 596652
+        },
+        {
+            "contest_id": 893,
+            "date": "04-09-2023",
+            "total_votes": 1085745,
+            "total_captions": 5513,
+            "total_funny": 83768,
+            "total_somewhat_funny": 215129,
+            "total_not_funny": 786848
+        },
+        {
+            "contest_id": 894,
+            "date": "11-09-2023",
+            "total_votes": 878676,
+            "total_captions": 6157,
+            "total_funny": 44343,
+            "total_somewhat_funny": 128594,
+            "total_not_funny": 705740
+        },
+        {
+            "contest_id": 895,
+            "date": "18-09-2023",
+            "total_votes": 777820,
+            "total_captions": 4958,
+            "total_funny": 45284,
+            "total_somewhat_funny": 124381,
+            "total_not_funny": 608144
+        }
+    ]
+}
