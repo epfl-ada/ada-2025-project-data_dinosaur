@@ -1,7 +1,7 @@
 
 # [The Timeline of Humor: Do Jokes Evolve with the World?](https://sipofoy.github.io/ada-2025-data-dinosaur-website/)
 <sub><span style="color:#bfbfbf;"><em>(Please click on the title above to access the website.)</em></span></sub>
-<sub><span style="color:#bfbfbf;"><em>Note: the code for the website is maintained in a separate repository: https://github.com/SipofoY/ada-2025-data-dinosaur-website.git</em></span></sub>
+
 
 We analyze how humor in The New Yorker Cartoon Caption Contest (2016–2023) evolves over time and across major world events. 
 Using NLP, Google Trends, and Large Language Models, we study thematic shifts, gender heterogeneity in humor, and how wars, climate crisis, the Trump election and COVID-19 influence humor styles.
@@ -80,10 +80,9 @@ In **LLMs.ipynb**, a fine-tuned **Llama 3-8B** model classified humor into six t
 ## Results and Data Story
 All results are presented and contextualized in an interactive data story website.
 
-### Website repository
+### Website Source Code
 
-The interactive data story website is developed in a separate repository:
-https://github.com/SipofoY/ada-2025-data-dinosaur-website.git
+The interactive data story website source code is located in the `website/web` directory of this repository.
 
 The website is deployed to GitHub Pages and can be accessed here:
 https://sipofoy.github.io/ada-2025-data-dinosaur-website/
@@ -169,33 +168,30 @@ The directory structure of our project looks like this:
 └── README.md
 ```
 
-### Website (separate repository)
+### Website
 
-The website lives in the repository above. Its structure is:
+The website lives in the `website/` directory. Its structure is:
 
 ```bash
-├── .github/workflows <- GitHub Actions deployment
-│ └── deploy.yml
-│
-├── web <- Website source code
-│ ├── public <- Static assets
-│ ├── scripts <- Build and data scripts
-│ ├── plots_website_timeline <- Timeline visualizations
-│ └── src
-│ ├── app <- Next.js app router
-│ ├── components <- React components
-│ │ ├── About.tsx
-│ │ ├── Book.tsx
-│ │ ├── Clusters.tsx
-│ │ ├── GenderPage.tsx
-│ │ ├── Methodology.tsx
-│ │ ├── StoryPage.tsx
-│ │ └── TimelineBook.tsx
-│ ├── context <- React contexts
-│ └── data <- Processed data for visualization
-│
-├── next.config.ts <- Next.js configuration
-├── tsconfig.json <- TypeScript configuration
-├── package.json <- Project dependencies
+├── website/web                     <- Website source code
+│   ├── public                      <- Static assets
+│   ├── scripts                     <- Build and data scripts
+│   ├── plots_website_timeline      <- Timeline visualizations
+│   ├── src
+│   │   ├── app                     <- Next.js app router
+│   │   ├── components              <- React components
+│   │   │   ├── About.tsx
+│   │   │   ├── Book.tsx
+│   │   │   ├── Clusters.tsx
+│   │   │   ├── GenderPage.tsx
+│   │   │   ├── Methodology.tsx
+│   │   │   ├── StoryPage.tsx
+│   │   │   └── TimelineBook.tsx
+│   │   ├── context                 <- React contexts
+│   │   └── data                    <- Processed data for visualization
+│   ├── next.config.ts              <- Next.js configuration
+│   ├── tsconfig.json               <- TypeScript configuration
+│   └── package.json                <- Project dependencies
+
 └── README.md
 ```
